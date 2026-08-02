@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kép-eltakaró</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; background: #f4f6f5; margin: 0; padding: 16px; color: #1f2d2b; }
+  .card { max-width: 560px; margin: 0 auto; background: #ffffff; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
+  .header { background: #2c5f6f; color: #ffffff; padding: 20px 20px 14px; }
+  .header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+  .form-blokk { padding: 20px; }
+  .mezo-cimke { display: block; font-size: 13px; font-weight: 700; color: #55605e; margin: 0 0 6px; }
+  .mezo-cimke + .mezo-cimke { margin-top: 18px; }
+  select, input[type="file"], input[type="password"] { width: 100%; padding: 12px 14px; font-size: 15px; border: 1.5px solid #dfe6e4; border-radius: 12px; box-sizing: border-box; background: #fff; }
+  .btn { display: block; width: 100%; background: #2c5f6f; color: #ffffff; border: none; padding: 15px; border-radius: 12px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 14px; }
+  .btn:active { background: #23494f; }
+  .btn:disabled { background: #b7c3c1; cursor: not-allowed; }
+  .btn-masodlagos { background: #eef4f2; color: #2c5f6f; }
+  .btn-masodlagos:active { background: #dbe6e3; }
+  .btn-sor { display: flex; gap: 10px; }
+  .btn-sor .btn { margin-top: 0; }
+  .belepo-hiba { color: #b23b3b; font-size: 13px; margin: -6px 0 14px; }
+  .jelszo-doboz { position: relative; }
+  .jelszo-doboz input { padding-right: 44px; }
+  .jelszo-szem { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 19px; cursor: pointer; padding: 8px; line-height: 1; }
+  .allapot { font-size: 13px; color: #55605e; margin-top: 10px; min-height: 18px; }
+  .allapot.hiba { color: #b23b3b; }
+  .allapot.sikeres { color: #1f7a3d; }
+  .vaszon-doboz { position: relative; width: 100%; border: 1.5px dashed #dfe6e4; border-radius: 12px; margin-top: 14px; overflow: hidden; background: #f9fafa; }
+  canvas.elotag-vaszon { display: block; width: 100%; height: auto; cursor: crosshair; }
+  .terulet-lista { margin-top: 10px; }
+  .terulet-sor { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; background: #f4f6f5; border-radius: 10px; font-size: 13px; margin-top: 6px; }
+  .terulet-torles { color: #b23b3b; font-weight: 700; cursor: pointer; padding: 4px 8px; }
+  .lepes-cim { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #2c5f6f; margin: 22px 0 8px; }
+  .lepes-cim:first-child { margin-top: 0; }
+  hr.elvalaszto { border: none; border-top: 1px solid #e4e9e7; margin: 20px 0; }
+  .sugo-szoveg { font-size: 12px; color: #7c8a88; margin-top: 6px; }
+  .kep-blokk { margin-top: 4px; }
+  .kep-cim { font-size: 14px; font-weight: 700; color: #1f2d2b; margin: 0 0 4px; word-break: break-all; }
+</style>
+</head>
+<body>
+
+  <!-- BELÉPŐ OLDAL -->
+  <div class="card" id="belepoKartya">
+    <div class="header"><h1>Kép-eltakaró</h1></div>
+    <div class="form-blokk">
+      <div class="jelszo-doboz">
+        <input id="jelszoMezo" type="password" placeholder="Jelszó" autofocus>
+        <button type="button" class="jelszo-szem" onclick="jelszoLathatosag()">👁</button>
+      </div>
+      <p class="belepo-hiba" id="belepoHiba" style="display:none;">Hibás jelszó, próbáld újra.</p>
+      <button type="button" class="btn" onclick="belepesProbalkozas()">Belépés</button>
+    </div>
+  </div>
+
+  <!-- FŐ ESZKÖZ (csak belépés után látszik) -->
+  <div class="card" id="eszkozKartya" style="display:none;">
+    <div class="header"><h1>Kép-eltakaró</h1></div>
+    <div class="form-blokk">
+
+      <label class="mezo-cimke" for="kepFajlok">Képek feltöltése (több is kiválasztható)</label>
+      <input type="file" id="kepFajlok" accept="image/*" multiple>
+
+      <div id="osszesGombDoboz" style="display:none;">
+        <button type="button" class="btn btn-masodlagos" onclick="osszesMenteseDriveba()">Összes mentése Drive-ba</button>
+        <p class="allapot" id="allapotOsszes"></p>
+      </div>
+
+      <div id="kepekTarolo"></div>
+
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/dist/face-api.min.js"></script>
+  <script>
+    // ============== BEÁLLÍTÁSOK ==============
+    // Ide írd be a saját jelszavaidat (kliens-oldali ellenőrzés - ez egy
+    // statikus HTML oldal, nincs mögötte szerver, ami "igazi" jelszó-
+    // ellenőrzést tudna végezni; ez csak arra jó, hogy a véletlen
+    // arra tévedőket kiszűrje, NEM egy erős biztonsági megoldás).
+    const JELSZAVAK = ['baleset2026', 'megrendelo2026'];
+
+    // A cPanel-es tárhelyeden lévő PHP-végpont teljes URL-je, ami a
+    // Drive-mentést végzi (ld. a mellékelt eltakaro_mentes.php fájlt).
+    const MENTES_VEGPONT_URL = 'https://IDE_A_SAJAT_DOMANED.hu/eltakaro_mentes.php';
+
+    let belepettJelszo = null;
+
+    function jelszoLathatosag() {
+      const mezo = document.getElementById('jelszoMezo');
+      mezo.type = (mezo.type === 'password') ? 'text' : 'password';
+    }
+
+    function belepesProbalkozas() {
+      const beirt = document.getElementById('jelszoMezo').value;
+      if (JELSZAVAK.indexOf(beirt) === -1) {
+        document.getElementById('belepoHiba').style.display = 'block';
+        return;
+      }
+      belepettJelszo = beirt;
+      document.getElementById('belepoKartya').style.display = 'none';
+      document.getElementById('eszkozKartya').style.display = 'block';
+    }
+
+    document.getElementById('jelszoMezo').addEventListener('keydown', function (esemeny) {
+      if (esemeny.key === 'Enter') belepesProbalkozas();
+    });
+
+    // ============== KÉP-ELTAKARÓ ESZKÖZ ==============
+    const MODELL_URL = 'https://cdn.jsdelivr.net/gh/justadudewhohacks/face-api.js-models/tiny_face_detector';
+
+    let modellBetoltve = false;
+    let modellBetoltesFolyamatban = null;
+    const kepAllapotok = {};
+    let kovetkezoId = 1;
+
+    document.getElementById('kepFajlok').addEventListener('change', function (esemeny) {
+      const fajlok = Array.from(esemeny.target.files);
+      fajlok.forEach(function (fajl) {
+        const id = 'k' + (kovetkezoId++);
+        letrehozKepBlokkot(id, fajl.name);
+        betoltKepet(id, fajl);
+      });
+      if (fajlok.length > 0) {
+        document.getElementById('osszesGombDoboz').style.display = 'block';
+      }
+    });
+
+    function letrehozKepBlokkot(id, fajlNev) {
+      const tarolo = document.getElementById('kepekTarolo');
+      const blokk = document.createElement('div');
+      blokk.className = 'kep-blokk';
+      blokk.id = 'blokk-' + id;
+      blokk.innerHTML =
+        '<hr class="elvalaszto">' +
+        '<p class="kep-cim">' + fajlNev.replace(/</g, '&lt;') + '</p>' +
+        '<div class="vaszon-doboz"><canvas class="elotag-vaszon" id="vaszon-' + id + '"></canvas></div>' +
+        '<p class="sugo-szoveg">Húzd az ujjad/egeret a képen, hogy kézzel is kijelölj egy takarandó területet (pl. logót).</p>' +
+        '<p class="lepes-cim">Felismerés</p>' +
+        '<button type="button" class="btn btn-masodlagos" id="felismerGomb-' + id + '" onclick="arcokFelismerese(\'' + id + '\')">Arcok felismerése</button>' +
+        '<p class="allapot" id="allapotFelismeres-' + id + '"></p>' +
+        '<div class="terulet-lista" id="teruletLista-' + id + '"></div>' +
+        '<p class="lepes-cim">Eltakarás stílusa</p>' +
+        '<select id="stilusValaszto-' + id + '">' +
+        '<option value="pixel">Kipixelezés</option>' +
+        '<option value="fekete">Fekete doboz</option>' +
+        '<option value="blur">Elmosás</option>' +
+        '</select>' +
+        '<button type="button" class="btn" onclick="hatasAlkalmazasa(\'' + id + '\')">Hatás alkalmazása</button>' +
+        '<p class="allapot" id="allapotHatas-' + id + '"></p>' +
+        '<p class="lepes-cim">Végeredmény</p>' +
+        '<div class="btn-sor">' +
+        '<button type="button" class="btn" onclick="letoltes(\'' + id + '\')">Letöltés</button>' +
+        '<button type="button" class="btn btn-masodlagos" onclick="driveMentes(\'' + id + '\')">Mentés Drive-ba</button>' +
+        '</div>' +
+        '<button type="button" class="btn btn-masodlagos" id="megosztasGomb-' + id + '" onclick="megosztas(\'' + id + '\')" style="display:none;">Megosztás</button>' +
+        '<p class="allapot" id="allapotVeg-' + id + '"></p>';
+      tarolo.appendChild(blokk);
+
+      const canvasElem = document.getElementById('vaszon-' + id);
+      kepAllapotok[id] = {
+        canvas: canvasElem,
+        ctx: canvasElem.getContext('2d'),
+        teruletek: [],
+        eredetiKep: null,
+        rajzolasFolyamatban: false,
+        rajzKezdoPont: null,
+      };
+
+      bekotPointerEsemenyeket(id);
+    }
+
+    function betoltKepet(id, fajl) {
+      const allapot = kepAllapotok[id];
+      const kep = new Image();
+      kep.onload = function () {
+        allapot.eredetiKep = kep;
+        allapot.canvas.width = kep.naturalWidth;
+        allapot.canvas.height = kep.naturalHeight;
+        allapot.ctx.drawImage(kep, 0, 0);
+      };
+      kep.src = URL.createObjectURL(fajl);
+    }
+
+    function vasznonBeluliPont(canvas, esemeny) {
+      const rect = canvas.getBoundingClientRect();
+      const scaleX = canvas.width / rect.width;
+      const scaleY = canvas.height / rect.height;
+      return {
+        x: (esemeny.clientX - rect.left) * scaleX,
+        y: (esemeny.clientY - rect.top) * scaleY,
+      };
+    }
+
+    function bekotPointerEsemenyeket(id) {
+      const allapot = kepAllapotok[id];
+      const canvas = allapot.canvas;
+
+      canvas.addEventListener('pointerdown', function (esemeny) {
+        allapot.rajzolasFolyamatban = true;
+        allapot.rajzKezdoPont = vasznonBeluliPont(canvas, esemeny);
+        canvas.setPointerCapture(esemeny.pointerId);
+      });
+
+      canvas.addEventListener('pointermove', function (esemeny) {
+        if (!allapot.rajzolasFolyamatban) return;
+        const most = vasznonBeluliPont(canvas, esemeny);
+        ujrarajzol(id);
+        rajzolIdeiglenesKeretet(id, allapot.rajzKezdoPont, most);
+      });
+
+      canvas.addEventListener('pointerup', function (esemeny) {
+        if (!allapot.rajzolasFolyamatban) return;
+        allapot.rajzolasFolyamatban = false;
+        const veg = vasznonBeluliPont(canvas, esemeny);
+        const x = Math.min(allapot.rajzKezdoPont.x, veg.x);
+        const y = Math.min(allapot.rajzKezdoPont.y, veg.y);
+        const w = Math.abs(veg.x - allapot.rajzKezdoPont.x);
+        const h = Math.abs(veg.y - allapot.rajzKezdoPont.y);
+        if (w > 8 && h > 8) {
+          allapot.teruletek.push({ x: x, y: y, w: w, h: h });
+          frissitTeruletLista(id);
+        }
+        ujrarajzol(id);
+      });
+    }
+
+    function rajzolIdeiglenesKeretet(id, kezdo, veg) {
+      const allapot = kepAllapotok[id];
+      const ctx = allapot.ctx;
+      ctx.save();
+      ctx.strokeStyle = '#2c5f6f';
+      ctx.lineWidth = Math.max(2, allapot.canvas.width / 300);
+      ctx.setLineDash([8, 6]);
+      ctx.strokeRect(
+        Math.min(kezdo.x, veg.x), Math.min(kezdo.y, veg.y),
+        Math.abs(veg.x - kezdo.x), Math.abs(veg.y - kezdo.y)
+      );
+      ctx.restore();
+    }
+
+    function ujrarajzol(id) {
+      const allapot = kepAllapotok[id];
+      if (!allapot.eredetiKep) return;
+      const ctx = allapot.ctx;
+      const canvas = allapot.canvas;
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(allapot.eredetiKep, 0, 0, canvas.width, canvas.height);
+      allapot.teruletek.forEach(function (t) {
+        ctx.save();
+        ctx.strokeStyle = '#d99a2b';
+        ctx.lineWidth = Math.max(2, canvas.width / 300);
+        ctx.strokeRect(t.x, t.y, t.w, t.h);
+        ctx.restore();
+      });
+    }
+
+    function frissitTeruletLista(id) {
+      const allapot = kepAllapotok[id];
+      const lista = document.getElementById('teruletLista-' + id);
+      lista.innerHTML = '';
+      allapot.teruletek.forEach(function (t, idx) {
+        const sor = document.createElement('div');
+        sor.className = 'terulet-sor';
+        sor.innerHTML = '<span>Terület ' + (idx + 1) + '</span><span class="terulet-torles" data-idx="' + idx + '">Törlés ✕</span>';
+        lista.appendChild(sor);
+      });
+      lista.querySelectorAll('.terulet-torles').forEach(function (gomb) {
+        gomb.addEventListener('click', function () {
+          allapot.teruletek.splice(parseInt(gomb.getAttribute('data-idx'), 10), 1);
+          frissitTeruletLista(id);
+          ujrarajzol(id);
+        });
+      });
+    }
+
+    async function biztositsdAModellt() {
+      if (modellBetoltve) return;
+      if (!modellBetoltesFolyamatban) {
+        modellBetoltesFolyamatban = faceapi.nets.tinyFaceDetector.loadFromUri(MODELL_URL).then(function () {
+          modellBetoltve = true;
+        });
+      }
+      await modellBetoltesFolyamatban;
+    }
+
+    async function arcokFelismerese(id) {
+      const allapot = kepAllapotok[id];
+      const allapotSzoveg = document.getElementById('allapotFelismeres-' + id);
+      const gomb = document.getElementById('felismerGomb-' + id);
+      gomb.disabled = true;
+      allapotSzoveg.className = 'allapot';
+      allapotSzoveg.textContent = 'Felismerő modell betöltése (első alkalommal eltarthat pár másodpercig)...';
+
+      try {
+        await biztositsdAModellt();
+        allapotSzoveg.textContent = 'Arcok keresése...';
+        const talalatok = await faceapi.detectAllFaces(allapot.canvas, new faceapi.TinyFaceDetectorOptions());
+
+        talalatok.forEach(function (t) {
+          allapot.teruletek.push({ x: t.box.x, y: t.box.y, w: t.box.width, h: t.box.height });
+        });
+        frissitTeruletLista(id);
+        ujrarajzol(id);
+
+        allapotSzoveg.className = 'allapot sikeres';
+        allapotSzoveg.textContent = talalatok.length + ' arc felismerve.';
+      } catch (hiba) {
+        allapotSzoveg.className = 'allapot hiba';
+        allapotSzoveg.textContent = 'Hiba a felismeréskor: ' + hiba;
+      } finally {
+        gomb.disabled = false;
+      }
+    }
+
+    function hatasAlkalmazasa(id) {
+      const allapot = kepAllapotok[id];
+      const canvas = allapot.canvas;
+      const ctx = allapot.ctx;
+      const stilus = document.getElementById('stilusValaszto-' + id).value;
+      const allapotSzoveg = document.getElementById('allapotHatas-' + id);
+
+      if (allapot.teruletek.length === 0) {
+        allapotSzoveg.className = 'allapot hiba';
+        allapotSzoveg.textContent = 'Nincs kijelölt terület - jelölj ki legalább egyet (vagy ismerj fel arcokat).';
+        return;
+      }
+
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(allapot.eredetiKep, 0, 0, canvas.width, canvas.height);
+
+      allapot.teruletek.forEach(function (t) {
+        if (stilus === 'fekete') {
+          ctx.fillStyle = '#111111';
+          ctx.fillRect(t.x, t.y, t.w, t.h);
+        } else if (stilus === 'pixel') {
+          const blokkMeret = Math.max(4, Math.round(Math.min(t.w, t.h) / 12));
+          const kicsiSz = Math.max(1, Math.floor(t.w / blokkMeret));
+          const kicsiMa = Math.max(1, Math.floor(t.h / blokkMeret));
+          const ideiglenes = document.createElement('canvas');
+          ideiglenes.width = kicsiSz;
+          ideiglenes.height = kicsiMa;
+          const ideigCtx = ideiglenes.getContext('2d');
+          ideigCtx.drawImage(canvas, t.x, t.y, t.w, t.h, 0, 0, kicsiSz, kicsiMa);
+          ctx.imageSmoothingEnabled = false;
+          ctx.drawImage(ideiglenes, 0, 0, kicsiSz, kicsiMa, t.x, t.y, t.w, t.h);
+          ctx.imageSmoothingEnabled = true;
+        } else if (stilus === 'blur') {
+          const ideiglenes = document.createElement('canvas');
+          ideiglenes.width = t.w;
+          ideiglenes.height = t.h;
+          const ideigCtx = ideiglenes.getContext('2d');
+          ideigCtx.drawImage(canvas, t.x, t.y, t.w, t.h, 0, 0, t.w, t.h);
+          ctx.save();
+          ctx.filter = 'blur(' + Math.max(4, Math.round(Math.min(t.w, t.h) / 8)) + 'px)';
+          ctx.drawImage(ideiglenes, t.x, t.y, t.w, t.h);
+          ctx.restore();
+        }
+      });
+
+      allapot.teruletek = [];
+      frissitTeruletLista(id);
+      allapot.eredetiKep = null;
+      const ujKep = new Image();
+      ujKep.onload = function () { allapot.eredetiKep = ujKep; };
+      ujKep.src = canvas.toDataURL('image/png');
+
+      allapotSzoveg.className = 'allapot sikeres';
+      allapotSzoveg.textContent = 'Hatás alkalmazva. Ha kell, jelölj ki és takarj el további területeket, vagy töltsd le a végeredményt.';
+
+      document.getElementById('megosztasGomb-' + id).style.display =
+        (navigator.canShare && navigator.share) ? 'block' : 'none';
+    }
+
+    function letoltes(id) {
+      const canvas = kepAllapotok[id].canvas;
+      const a = document.createElement('a');
+      a.href = canvas.toDataURL('image/png');
+      a.download = 'eltakart_kep_' + id + '_' + Date.now() + '.png';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      document.getElementById('allapotVeg-' + id).className = 'allapot sikeres';
+      document.getElementById('allapotVeg-' + id).textContent = 'Letöltve.';
+    }
+
+    // --- Drive-mentés a saját PHP-végponton keresztül (nem Apps Script!) ---
+    function driveMentesEgyKephez(id) {
+      const canvas = kepAllapotok[id].canvas;
+      const base64 = canvas.toDataURL('image/png').split(',')[1];
+      const fajlnev = 'eltakart_kep_' + id + '_' + Date.now() + '.png';
+
+      return fetch(MENTES_VEGPONT_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          jelszo: belepettJelszo,
+          base64: base64,
+          fajlnev: fajlnev,
+          mimeTipus: 'image/png',
+        }),
+      }).then(function (valasz) {
+        return valasz.json().then(function (adat) {
+          if (!valasz.ok) throw new Error(adat.hiba || 'Ismeretlen hiba.');
+          return adat;
+        });
+      });
+    }
+
+    function driveMentes(id) {
+      const allapotSzoveg = document.getElementById('allapotVeg-' + id);
+      allapotSzoveg.className = 'allapot';
+      allapotSzoveg.textContent = 'Mentés folyamatban...';
+      driveMentesEgyKephez(id).then(function (eredmeny) {
+        allapotSzoveg.className = 'allapot sikeres';
+        allapotSzoveg.textContent = 'Elmentve a Drive-ba: ' + eredmeny.nev;
+      }).catch(function (hiba) {
+        allapotSzoveg.className = 'allapot hiba';
+        allapotSzoveg.textContent = 'Hiba mentéskor: ' + hiba.message;
+      });
+    }
+
+    async function osszesMenteseDriveba() {
+      const allapotSzoveg = document.getElementById('allapotOsszes');
+      const idk = Object.keys(kepAllapotok);
+      if (idk.length === 0) return;
+
+      let sikeresDb = 0;
+      for (let i = 0; i < idk.length; i++) {
+        allapotSzoveg.className = 'allapot';
+        allapotSzoveg.textContent = 'Mentés: ' + (i + 1) + ' / ' + idk.length + '...';
+        try {
+          await driveMentesEgyKephez(idk[i]);
+          sikeresDb++;
+        } catch (hiba) {
+          // egy sikertelen mentés se állítsa meg a többit
+        }
+      }
+
+      allapotSzoveg.className = 'allapot sikeres';
+      allapotSzoveg.textContent = sikeresDb + ' / ' + idk.length + ' kép elmentve a Drive-ba.';
+    }
+
+    async function megosztas(id) {
+      const canvas = kepAllapotok[id].canvas;
+      const allapotSzoveg = document.getElementById('allapotVeg-' + id);
+      try {
+        const valasz = await fetch(canvas.toDataURL('image/png'));
+        const blob = await valasz.blob();
+        const fajl = new File([blob], 'eltakart_kep.png', { type: 'image/png' });
+
+        if (navigator.canShare && navigator.canShare({ files: [fajl] })) {
+          await navigator.share({ files: [fajl], title: 'Eltakart kép' });
+        } else {
+          allapotSzoveg.className = 'allapot hiba';
+          allapotSzoveg.textContent = 'A megosztás ezen az eszközön/böngészőben nem támogatott - használd a letöltést.';
+        }
+      } catch (hiba) {
+        if (hiba && hiba.name !== 'AbortError') {
+          allapotSzoveg.className = 'allapot hiba';
+          allapotSzoveg.textContent = 'Hiba megosztáskor: ' + hiba;
+        }
+      }
+    }
+  </script>
+</body>
+</html>
