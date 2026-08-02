@@ -64,11 +64,6 @@
       <label class="mezo-cimke" for="kepFajlok">Képek feltöltése (több is kiválasztható)</label>
       <input type="file" id="kepFajlok" accept="image/*" multiple>
 
-      <div id="osszesGombDoboz" style="display:none;">
-        <button type="button" class="btn btn-masodlagos" onclick="osszesMenteseDriveba()">Összes mentése Drive-ba</button>
-        <p class="allapot" id="allapotOsszes"></p>
-      </div>
-
       <div id="kepekTarolo"></div>
 
     </div>
@@ -82,10 +77,6 @@
     // ellenőrzést tudna végezni; ez csak arra jó, hogy a véletlen
     // arra tévedőket kiszűrje, NEM egy erős biztonsági megoldás).
     const JELSZAVAK = ['baleset2026', 'megrendelo2026'];
-
-    // A cPanel-es tárhelyeden lévő PHP-végpont teljes URL-je, ami a
-    // Drive-mentést végzi (ld. a mellékelt eltakaro_mentes.php fájlt).
-    const MENTES_VEGPONT_URL = 'https://baleset-info.hu/tv2/eltakaro_mentes.php';
 
     let belepettJelszo = null;
 
@@ -124,9 +115,6 @@
         letrehozKepBlokkot(id, fajl.name);
         betoltKepet(id, fajl);
       });
-      if (fajlok.length > 0) {
-        document.getElementById('osszesGombDoboz').style.display = 'block';
-      }
     });
 
     function letrehozKepBlokkot(id, fajlNev) {
@@ -152,10 +140,7 @@
         '<button type="button" class="btn" onclick="hatasAlkalmazasa(\'' + id + '\')">Hatás alkalmazása</button>' +
         '<p class="allapot" id="allapotHatas-' + id + '"></p>' +
         '<p class="lepes-cim">Végeredmény</p>' +
-        '<div class="btn-sor">' +
         '<button type="button" class="btn" onclick="letoltes(\'' + id + '\')">Letöltés</button>' +
-        '<button type="button" class="btn btn-masodlagos" onclick="driveMentes(\'' + id + '\')">Mentés Drive-ba</button>' +
-        '</div>' +
         '<button type="button" class="btn btn-masodlagos" id="megosztasGomb-' + id + '" onclick="megosztas(\'' + id + '\')" style="display:none;">Megosztás</button>' +
         '<p class="allapot" id="allapotVeg-' + id + '"></p>';
       tarolo.appendChild(blokk);
@@ -385,63 +370,6 @@
       document.body.removeChild(a);
       document.getElementById('allapotVeg-' + id).className = 'allapot sikeres';
       document.getElementById('allapotVeg-' + id).textContent = 'Letöltve.';
-    }
-
-    // --- Drive-mentés a saját PHP-végponton keresztül (nem Apps Script!) ---
-    function driveMentesEgyKephez(id) {
-      const canvas = kepAllapotok[id].canvas;
-      const base64 = canvas.toDataURL('image/png').split(',')[1];
-      const fajlnev = 'eltakart_kep_' + id + '_' + Date.now() + '.png';
-
-      return fetch(MENTES_VEGPONT_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          jelszo: belepettJelszo,
-          base64: base64,
-          fajlnev: fajlnev,
-          mimeTipus: 'image/png',
-        }),
-      }).then(function (valasz) {
-        return valasz.json().then(function (adat) {
-          if (!valasz.ok) throw new Error(adat.hiba || 'Ismeretlen hiba.');
-          return adat;
-        });
-      });
-    }
-
-    function driveMentes(id) {
-      const allapotSzoveg = document.getElementById('allapotVeg-' + id);
-      allapotSzoveg.className = 'allapot';
-      allapotSzoveg.textContent = 'Mentés folyamatban...';
-      driveMentesEgyKephez(id).then(function (eredmeny) {
-        allapotSzoveg.className = 'allapot sikeres';
-        allapotSzoveg.textContent = 'Elmentve a Drive-ba: ' + eredmeny.nev;
-      }).catch(function (hiba) {
-        allapotSzoveg.className = 'allapot hiba';
-        allapotSzoveg.textContent = 'Hiba mentéskor: ' + hiba.message;
-      });
-    }
-
-    async function osszesMenteseDriveba() {
-      const allapotSzoveg = document.getElementById('allapotOsszes');
-      const idk = Object.keys(kepAllapotok);
-      if (idk.length === 0) return;
-
-      let sikeresDb = 0;
-      for (let i = 0; i < idk.length; i++) {
-        allapotSzoveg.className = 'allapot';
-        allapotSzoveg.textContent = 'Mentés: ' + (i + 1) + ' / ' + idk.length + '...';
-        try {
-          await driveMentesEgyKephez(idk[i]);
-          sikeresDb++;
-        } catch (hiba) {
-          // egy sikertelen mentés se állítsa meg a többit
-        }
-      }
-
-      allapotSzoveg.className = 'allapot sikeres';
-      allapotSzoveg.textContent = sikeresDb + ' / ' + idk.length + ' kép elmentve a Drive-ba.';
     }
 
     async function megosztas(id) {

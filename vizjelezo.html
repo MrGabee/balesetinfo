@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vízjelező</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Dancing+Script&family=Great+Vibes&family=Sacramento&family=Allura&family=Parisienne&family=Tangerine&family=Pinyon+Script&family=Yellowtail&family=Pacifico&family=Caveat&family=Satisfy&family=Shadows+Into+Light&family=Permanent+Marker&family=Amatic+SC:wght@700&family=Playfair+Display:wght@700&family=Oswald:wght@600&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; background: #f4f6f5; margin: 0; padding: 16px; color: #1f2d2b; }
+  .card { max-width: 560px; margin: 0 auto; background: #ffffff; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
+  .header { background: #2c5f6f; color: #ffffff; padding: 20px 20px 14px; }
+  .header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+  .form-blokk { padding: 20px; }
+  .mezo-cimke { display: block; font-size: 13px; font-weight: 700; color: #55605e; margin: 0 0 6px; }
+  .mezo-cimke + .mezo-cimke { margin-top: 18px; }
+  select, input[type="file"], input[type="password"], input[type="text"] { width: 100%; padding: 12px 14px; font-size: 15px; border: 1.5px solid #dfe6e4; border-radius: 12px; box-sizing: border-box; background: #fff; }
+  input[type="range"] { width: 100%; margin-top: 4px; }
+  input[type="color"] { width: 100%; height: 44px; padding: 4px; border: 1.5px solid #dfe6e4; border-radius: 12px; }
+  .csuszka-sor { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #7c8a88; }
+  .btn { display: block; width: 100%; background: #2c5f6f; color: #ffffff; border: none; padding: 15px; border-radius: 12px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 14px; }
+  .btn:active { background: #23494f; }
+  .btn:disabled { background: #b7c3c1; cursor: not-allowed; }
+  .btn-masodlagos { background: #eef4f2; color: #2c5f6f; }
+  .btn-masodlagos:active { background: #dbe6e3; }
+  .btn-sor { display: flex; gap: 10px; }
+  .btn-sor .btn { margin-top: 0; }
+  .belepo-hiba { color: #b23b3b; font-size: 13px; margin: -6px 0 14px; }
+  .jelszo-doboz { position: relative; }
+  .jelszo-doboz input { padding-right: 44px; }
+  .jelszo-szem { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 19px; cursor: pointer; padding: 8px; line-height: 1; }
+  .allapot { font-size: 13px; color: #55605e; margin-top: 10px; min-height: 18px; }
+  .allapot.hiba { color: #b23b3b; }
+  .allapot.sikeres { color: #1f7a3d; }
+  .vaszon-doboz { position: relative; width: 100%; border: 1.5px solid #dfe6e4; border-radius: 12px; margin-top: 10px; overflow: hidden; background: #f9fafa; }
+  canvas.elotag-vaszon { display: block; width: 100%; height: auto; }
+  .poz-jelolo { position: absolute; left: 50%; top: 50%; width: 20px; height: 20px; margin-left: -10px; margin-top: -10px; border-radius: 50%; background: #2c5f6f; border: 3px solid #fff; box-shadow: 0 1px 6px rgba(0,0,0,0.45); display: none; pointer-events: none; }
+  .poz-jelolo.lathato { display: block; }
+  .jeloloneg-sor { display: flex; align-items: center; gap: 8px; margin-top: 14px; font-size: 14px; font-weight: 500; }
+  .jeloloneg-sor input { width: auto; }
+  .cimke-pill { display: inline-block; background: #eef4f2; color: #2c5f6f; font-size: 11px; font-weight: 700; padding: 4px 10px; border-radius: 999px; }
+  .sugo-szoveg { font-size: 12px; color: #7c8a88; margin: 6px 0 0; }
+  .kep-blokk { margin-top: 4px; }
+  .kep-cim { font-size: 14px; font-weight: 700; color: #1f2d2b; margin: 0 0 4px; word-break: break-all; }
+  .lepes-cim { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #2c5f6f; margin: 22px 0 8px; }
+  .lepes-cim:first-child { margin-top: 0; }
+  hr.elvalaszto { border: none; border-top: 1px solid #e4e9e7; margin: 20px 0; }
+</style>
+</head>
+<body>
+
+  <div class="card" id="belepoKartya">
+    <div class="header"><h1>Vízjelező</h1></div>
+    <div class="form-blokk">
+      <div class="jelszo-doboz">
+        <input id="jelszoMezo" type="password" placeholder="Jelszó" autofocus>
+        <button type="button" class="jelszo-szem" onclick="jelszoLathatosag()">👁</button>
+      </div>
+      <p class="belepo-hiba" id="belepoHiba" style="display:none;">Hibás jelszó, próbáld újra.</p>
+      <button type="button" class="btn" onclick="belepesProbalkozas()">Belépés</button>
+    </div>
+  </div>
+
+  <div class="card" id="eszkozKartya" style="display:none;">
+    <div class="header"><h1>Vízjelező</h1></div>
+    <div class="form-blokk">
+
+      <p class="lepes-cim">Vízjel beállításai</p>
+      <label class="mezo-cimke" for="egyediSzoveg">Egyedi szöveg (a második kimenethez)</label>
+      <input type="text" id="egyediSzoveg" value="" maxlength="40" placeholder="Írd be a szöveget...">
+
+      <label class="mezo-cimke" for="alSzoveg" style="margin-top:14px;">Alszöveg (opcionális, mindkét kimenethez)</label>
+      <input type="text" id="alSzoveg" value="" maxlength="60">
+
+      <label class="mezo-cimke" for="betutipusValaszto" style="margin-top:14px;">Betűtípus</label>
+      <select id="betutipusValaszto">
+        <option value="alex-brush" style="font-family: 'Alex Brush', cursive; font-size: 16px;">Alex Brush (kurzív)</option>
+        <option value="dancing-script" style="font-family: 'Dancing Script', cursive; font-size: 16px;">Dancing Script (kurzív)</option>
+        <option value="great-vibes" style="font-family: 'Great Vibes', cursive; font-size: 16px;">Great Vibes (kurzív)</option>
+        <option value="sacramento" style="font-family: 'Sacramento', cursive; font-size: 16px;">Sacramento (kurzív)</option>
+        <option value="allura" style="font-family: 'Allura', cursive; font-size: 16px;">Allura (kurzív)</option>
+        <option value="parisienne" style="font-family: 'Parisienne', cursive; font-size: 16px;">Parisienne (kurzív)</option>
+        <option value="tangerine" style="font-family: 'Tangerine', cursive; font-size: 16px;">Tangerine (kurzív)</option>
+        <option value="pinyon-script" style="font-family: 'Pinyon Script', cursive; font-size: 16px;">Pinyon Script (kurzív)</option>
+        <option value="yellowtail" style="font-family: 'Yellowtail', cursive; font-size: 16px;">Yellowtail (kurzív)</option>
+        <option value="pacifico" style="font-family: 'Pacifico', cursive; font-size: 16px;">Pacifico (kézírásos)</option>
+        <option value="caveat" style="font-family: 'Caveat', cursive; font-size: 16px;">Caveat (kézírásos)</option>
+        <option value="satisfy" style="font-family: 'Satisfy', cursive; font-size: 16px;">Satisfy (kézírásos)</option>
+        <option value="shadows-into-light" style="font-family: 'Shadows Into Light', cursive; font-size: 16px;">Shadows Into Light (kézírásos)</option>
+        <option value="permanent-marker" style="font-family: 'Permanent Marker', cursive; font-size: 16px;">Permanent Marker (kézírásos)</option>
+        <option value="amatic-sc" style="font-family: 'Amatic SC', cursive; font-size: 16px;">Amatic SC (dekoratív)</option>
+        <option value="playfair-display" style="font-family: 'Playfair Display', serif; font-size: 16px;">Playfair Display (dekoratív)</option>
+        <option value="oswald" style="font-family: 'Oswald', sans-serif; font-size: 16px;">Oswald (dekoratív)</option>
+        <option value="montserrat" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">Montserrat (egyszerű)</option>
+      </select>
+
+      <label class="jeloloneg-sor">
+        <input type="checkbox" id="dombornyomottJelolo">
+        Dombornyomott (domború/3D) hatás
+      </label>
+
+      <label class="mezo-cimke" for="elrendezes" style="margin-top:14px;">Elrendezés</label>
+      <select id="elrendezes">
+        <option value="kozepre">Középre (aláírás-stílus)</option>
+        <option value="csempezett">Csempézett (teljes képernyős, fix)</option>
+        <option value="sarok">Sarokba (diszkrét)</option>
+        <option value="egyedi">Egyedi hely (csúszkával állítható)</option>
+      </select>
+
+      <div id="pozicioCsuszkakDoboz" style="display:none;">
+        <label class="mezo-cimke" style="margin-top:14px;">Vízszintes helyzet</label>
+        <input type="range" id="vizszintesPozicioCsuszka" min="0" max="100" value="50">
+        <div class="csuszka-sor"><span>Bal</span><span>Jobb</span></div>
+
+        <label class="mezo-cimke" style="margin-top:14px;">Függőleges helyzet</label>
+        <input type="range" id="fuggolegesPozicioCsuszka" min="0" max="100" value="50">
+        <div class="csuszka-sor"><span>Fent</span><span>Lent</span></div>
+      </div>
+
+      <label class="mezo-cimke" style="margin-top:14px;">Szín</label>
+      <input type="color" id="szinValaszto" value="#cfcfcf">
+
+      <label class="mezo-cimke" style="margin-top:14px;">Átlátszóság</label>
+      <input type="range" id="atlatszosagCsuszka" min="10" max="90" value="38">
+      <div class="csuszka-sor"><span>Halvány</span><span>Erős</span></div>
+
+      <label class="mezo-cimke" style="margin-top:14px;">Méret</label>
+      <input type="range" id="meretCsuszka" min="30" max="200" value="100">
+      <div class="csuszka-sor"><span>Kicsi</span><span>Nagy</span></div>
+
+      <hr class="elvalaszto">
+
+      <label class="mezo-cimke" for="kepFajlok">Képek feltöltése (több is kiválasztható)</label>
+      <input type="file" id="kepFajlok" accept="image/*" multiple>
+
+      <div id="kepekTarolo"></div>
+
+    </div>
+  </div>
+
+  <script>
+    // ============== BEÁLLÍTÁSOK ==============
+    const JELSZAVAK = ['baleset2026', 'megrendelo2026'];
+    let belepettJelszo = null;
+
+    function jelszoLathatosag() {
+      const mezo = document.getElementById('jelszoMezo');
+      mezo.type = (mezo.type === 'password') ? 'text' : 'password';
+    }
+
+    function belepesProbalkozas() {
+      const beirt = document.getElementById('jelszoMezo').value;
+      if (JELSZAVAK.indexOf(beirt) === -1) {
+        document.getElementById('belepoHiba').style.display = 'block';
+        return;
+      }
+      belepettJelszo = beirt;
+      document.getElementById('belepoKartya').style.display = 'none';
+      document.getElementById('eszkozKartya').style.display = 'block';
+    }
+
+    document.getElementById('jelszoMezo').addEventListener('keydown', function (esemeny) {
+      if (esemeny.key === 'Enter') belepesProbalkozas();
+    });
+
+    // ============== VÍZJELEZŐ ESZKÖZ ==============
+    const BALESETINFO_SZOVEG = 'Balesetinfo';
+    const BETUTIPUS_TERKEP = {'alex-brush': "'Alex Brush', cursive", 'dancing-script': "'Dancing Script', cursive", 'great-vibes': "'Great Vibes', cursive", 'sacramento': "'Sacramento', cursive", 'allura': "'Allura', cursive", 'parisienne': "'Parisienne', cursive", 'tangerine': "'Tangerine', cursive", 'pinyon-script': "'Pinyon Script', cursive", 'yellowtail': "'Yellowtail', cursive", 'pacifico': "'Pacifico', cursive", 'caveat': "'Caveat', cursive", 'satisfy': "'Satisfy', cursive", 'shadows-into-light': "'Shadows Into Light', cursive", 'permanent-marker': "'Permanent Marker', cursive", 'amatic-sc': "'Amatic SC', cursive", 'playfair-display': "'Playfair Display', serif", 'oswald': "'Oswald', sans-serif", 'montserrat': "'Montserrat', sans-serif"};
+    const kepAllapotok = {};
+    let kovetkezoId = 1;
+    let betukLetoltve = false;
+    let elonezetIdozito = null;
+    let globalisPoz = { xSzazalek: 50, ySzazalek: 50 };
+
+    document.getElementById('elrendezes').addEventListener('change', function () {
+      const egyediE = this.value === 'egyedi';
+      document.getElementById('pozicioCsuszkakDoboz').style.display = egyediE ? 'block' : 'none';
+      frissitJeloloLathatosagot();
+      elonezetFrissitesKesleltetve();
+    });
+
+    document.getElementById('vizszintesPozicioCsuszka').addEventListener('input', function () {
+      globalisPoz.xSzazalek = Number(this.value);
+      frissitJeloloPoziciojat();
+      elonezetFrissitesKesleltetve();
+    });
+    document.getElementById('fuggolegesPozicioCsuszka').addEventListener('input', function () {
+      globalisPoz.ySzazalek = Number(this.value);
+      frissitJeloloPoziciojat();
+      elonezetFrissitesKesleltetve();
+    });
+
+    ['meretCsuszka', 'atlatszosagCsuszka'].forEach(function (azonosito) {
+      document.getElementById(azonosito).addEventListener('input', elonezetFrissitesKesleltetve);
+    });
+    ['szinValaszto', 'betutipusValaszto', 'dombornyomottJelolo'].forEach(function (azonosito) {
+      document.getElementById(azonosito).addEventListener('input', elonezetFrissitesKesleltetve);
+    });
+    ['egyediSzoveg', 'alSzoveg'].forEach(function (azonosito) {
+      document.getElementById(azonosito).addEventListener('input', elonezetFrissitesKesleltetve);
+    });
+
+    function elonezetFrissitesKesleltetve() {
+      clearTimeout(elonezetIdozito);
+      elonezetIdozito = setTimeout(function () {
+        Object.keys(kepAllapotok).forEach(function (id) {
+          if (!kepAllapotok[id].eredetiKep) return;
+          ujraVizjelezEgyKimenetet(id, 'B');
+          ujraVizjelezEgyKimenetet(id, 'E');
+        });
+      }, 120);
+    }
+
+    function frissitJeloloLathatosagot() {
+      const egyediE = document.getElementById('elrendezes').value === 'egyedi';
+      document.querySelectorAll('.poz-jelolo').forEach(function (jelolo) {
+        jelolo.classList.toggle('lathato', egyediE);
+      });
+    }
+
+    function frissitJeloloPoziciojat() {
+      document.querySelectorAll('.poz-jelolo').forEach(function (jelolo) {
+        jelolo.style.left = globalisPoz.xSzazalek + '%';
+        jelolo.style.top = globalisPoz.ySzazalek + '%';
+      });
+    }
+
+    async function biztositsdABetutipusokat() {
+      if (betukLetoltve) return;
+      await Promise.all(
+        Object.values(BETUTIPUS_TERKEP).map(function (csalad) {
+          const nev = csalad.split(',')[0].replace(/'/g, '');
+          return document.fonts.load('100px "' + nev + '"');
+        })
+      );
+      betukLetoltve = true;
+    }
+
+    document.getElementById('kepFajlok').addEventListener('change', function (esemeny) {
+      const fajlok = Array.from(esemeny.target.files);
+      fajlok.forEach(function (fajl) {
+        const id = 'k' + (kovetkezoId++);
+        letrehozKepBlokkot(id, fajl.name);
+        betoltKepet(id, fajl);
+      });
+    });
+
+    function letrehozKepBlokkot(id, fajlNev) {
+      const tarolo = document.getElementById('kepekTarolo');
+      const blokk = document.createElement('div');
+      blokk.className = 'kep-blokk';
+      blokk.id = 'blokk-' + id;
+      blokk.innerHTML =
+        '<hr class="elvalaszto">' +
+        '<p class="kep-cim">' + fajlNev.replace(/</g, '&lt;') + '</p>' +
+
+        '<p class="cimke-pill">1. kimenet - Balesetinfo</p>' +
+        '<div class="vaszon-doboz">' +
+        '<canvas class="elotag-vaszon" id="vaszonB-' + id + '"></canvas>' +
+        '<div class="poz-jelolo"></div>' +
+        '</div>' +
+        '<button type="button" class="btn" onclick="letoltes(\'' + id + '\',\'B\')">Letöltés</button>' +
+        '<button type="button" class="btn btn-masodlagos" id="megosztasGombB-' + id + '" onclick="megosztas(\'' + id + '\',\'B\')" style="display:none;">Megosztás</button>' +
+        '<p class="allapot" id="allapotVegB-' + id + '"></p>' +
+
+        '<p class="cimke-pill" style="margin-top:18px;">2. kimenet - Egyedi szöveg</p>' +
+        '<div class="vaszon-doboz">' +
+        '<canvas class="elotag-vaszon" id="vaszonE-' + id + '"></canvas>' +
+        '<div class="poz-jelolo"></div>' +
+        '</div>' +
+        '<button type="button" class="btn" onclick="letoltes(\'' + id + '\',\'E\')">Letöltés</button>' +
+        '<button type="button" class="btn btn-masodlagos" id="megosztasGombE-' + id + '" onclick="megosztas(\'' + id + '\',\'E\')" style="display:none;">Megosztás</button>' +
+        '<p class="allapot" id="allapotVegE-' + id + '"></p>';
+      tarolo.appendChild(blokk);
+
+      kepAllapotok[id] = {
+        canvasB: document.getElementById('vaszonB-' + id),
+        canvasE: document.getElementById('vaszonE-' + id),
+        eredetiKep: null,
+      };
+
+      frissitJeloloLathatosagot();
+      frissitJeloloPoziciojat();
+    }
+
+    function betoltKepet(id, fajl) {
+      const allapot = kepAllapotok[id];
+      const kep = new Image();
+      kep.onload = function () {
+        allapot.eredetiKep = kep;
+        [allapot.canvasB, allapot.canvasE].forEach(function (canvas) {
+          canvas.width = kep.naturalWidth;
+          canvas.height = kep.naturalHeight;
+          canvas.getContext('2d').drawImage(kep, 0, 0);
+        });
+        ujraVizjelezEgyKimenetet(id, 'B');
+        ujraVizjelezEgyKimenetet(id, 'E');
+        document.getElementById('megosztasGombB-' + id).style.display =
+          (navigator.canShare && navigator.share) ? 'block' : 'none';
+        document.getElementById('megosztasGombE-' + id).style.display =
+          (navigator.canShare && navigator.share) ? 'block' : 'none';
+      };
+      kep.src = URL.createObjectURL(fajl);
+    }
+
+    function rajzoljSzoveget(ctx, szoveg, x, y, alapSzin, dombormeretPx) {
+      if (dombormeretPx > 0) {
+        const elozoStilus = ctx.fillStyle;
+        ctx.fillStyle = 'rgba(255,255,255,0.85)';
+        ctx.fillText(szoveg, x - dombormeretPx, y - dombormeretPx);
+        ctx.fillStyle = 'rgba(0,0,0,0.5)';
+        ctx.fillText(szoveg, x + dombormeretPx, y + dombormeretPx);
+        ctx.fillStyle = elozoStilus;
+      }
+      ctx.fillStyle = alapSzin;
+      ctx.fillText(szoveg, x, y);
+    }
+
+    async function vizjelKirajzolasaVasznon(canvas, eredetiKep, szoveg) {
+      await biztositsdABetutipusokat();
+
+      const ctx = canvas.getContext('2d');
+      const w = canvas.width;
+      const h = canvas.height;
+
+      ctx.clearRect(0, 0, w, h);
+      ctx.drawImage(eredetiKep, 0, 0, w, h);
+
+      const alSzoveg = document.getElementById('alSzoveg').value.trim();
+      const elrendezes = document.getElementById('elrendezes').value;
+      const szin = document.getElementById('szinValaszto').value;
+      const atlatszosag = Number(document.getElementById('atlatszosagCsuszka').value) / 100;
+      const meretSzorzo = Number(document.getElementById('meretCsuszka').value) / 100;
+      const betuCsalad = BETUTIPUS_TERKEP[document.getElementById('betutipusValaszto').value] || "'Alex Brush', cursive";
+      const dombornyomottE = document.getElementById('dombornyomottJelolo').checked;
+
+      if (!szoveg) return;
+
+      ctx.save();
+      ctx.globalAlpha = atlatszosag;
+      ctx.fillStyle = szin;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+
+      if (elrendezes === 'kozepre') {
+        let foMeret = Math.round(w * 0.11 * meretSzorzo);
+        ctx.font = foMeret + 'px ' + betuCsalad;
+        let szelesseg = ctx.measureText(szoveg).width;
+        const celSzelesseg = w * 0.82;
+        if (szelesseg > 0) {
+          foMeret = Math.max(10, Math.round(foMeret * (celSzelesseg / szelesseg)));
+        }
+        ctx.font = foMeret + 'px ' + betuCsalad;
+        const dombormeret = dombornyomottE ? Math.max(1, Math.round(foMeret * 0.02)) : 0;
+
+        const kozepY = h / 2;
+        rajzoljSzoveget(ctx, szoveg, w / 2, kozepY - foMeret * 0.12, szin, dombormeret);
+
+        if (alSzoveg) {
+          const alMeret = Math.max(8, Math.round(foMeret * 0.22));
+          ctx.font = alMeret + 'px "Montserrat", sans-serif';
+          rajzoljSzoveget(ctx, alSzoveg, w / 2, kozepY + foMeret * 0.4, szin, dombornyomottE ? Math.max(1, Math.round(alMeret * 0.02)) : 0);
+        }
+      } else if (elrendezes === 'sarok') {
+        const meret = Math.max(12, Math.round(w * 0.028 * meretSzorzo));
+        ctx.font = meret + 'px ' + betuCsalad;
+        ctx.textAlign = 'right';
+        ctx.textBaseline = 'bottom';
+        const margo = Math.round(w * 0.02);
+        const dombormeret = dombornyomottE ? Math.max(1, Math.round(meret * 0.02)) : 0;
+        rajzoljSzoveget(ctx, szoveg + (alSzoveg ? '  ·  ' + alSzoveg : ''), w - margo, h - margo, szin, dombormeret);
+      } else if (elrendezes === 'csempezett') {
+        const meret = Math.max(14, Math.round(w * 0.045 * meretSzorzo));
+        ctx.font = meret + 'px ' + betuCsalad;
+        const teljesSzoveg = szoveg + (alSzoveg ? '   ' + alSzoveg : '');
+        const szoSzelesseg = ctx.measureText(teljesSzoveg).width;
+        const dombormeret = dombornyomottE ? Math.max(1, Math.round(meret * 0.02)) : 0;
+
+        ctx.translate(w / 2, h / 2);
+        ctx.rotate(-Math.PI / 8);
+        ctx.translate(-w / 2, -h / 2);
+
+        const vizszintesKoz = szoSzelesseg + meret * 3;
+        const fuggolegesKoz = meret * 4;
+        const atmero = Math.sqrt(w * w + h * h);
+
+        for (let y = -atmero; y < atmero; y += fuggolegesKoz) {
+          for (let x = -atmero; x < atmero; x += vizszintesKoz) {
+            rajzoljSzoveget(ctx, teljesSzoveg, x, y, szin, dombormeret);
+          }
+        }
+      } else if (elrendezes === 'egyedi') {
+        const poz = { x: (globalisPoz.xSzazalek / 100) * w, y: (globalisPoz.ySzazalek / 100) * h };
+        const meret = Math.max(10, Math.round(w * 0.08 * meretSzorzo));
+        ctx.font = meret + 'px ' + betuCsalad;
+        const dombormeret = dombornyomottE ? Math.max(1, Math.round(meret * 0.02)) : 0;
+        rajzoljSzoveget(ctx, szoveg, poz.x, poz.y - (alSzoveg ? meret * 0.3 : 0), szin, dombormeret);
+
+        if (alSzoveg) {
+          const alMeret = Math.max(8, Math.round(meret * 0.24));
+          ctx.font = alMeret + 'px "Montserrat", sans-serif';
+          rajzoljSzoveget(ctx, alSzoveg, poz.x, poz.y + meret * 0.4, szin, dombornyomottE ? Math.max(1, Math.round(alMeret * 0.02)) : 0);
+        }
+      }
+
+      ctx.restore();
+    }
+
+    async function ujraVizjelezEgyKimenetet(id, tipus) {
+      const allapot = kepAllapotok[id];
+      if (!allapot.eredetiKep) return;
+      if (tipus === 'B') {
+        await vizjelKirajzolasaVasznon(allapot.canvasB, allapot.eredetiKep, BALESETINFO_SZOVEG);
+      } else {
+        const egyediSzoveg = document.getElementById('egyediSzoveg').value.trim();
+        await vizjelKirajzolasaVasznon(allapot.canvasE, allapot.eredetiKep, egyediSzoveg);
+      }
+    }
+
+    function celVaszon(id, tipus) {
+      return tipus === 'B' ? kepAllapotok[id].canvasB : kepAllapotok[id].canvasE;
+    }
+
+    function letoltes(id, tipus) {
+      const canvas = celVaszon(id, tipus);
+      const a = document.createElement('a');
+      a.href = canvas.toDataURL('image/png');
+      a.download = 'vizjeles_kep_' + id + '_' + tipus + '_' + Date.now() + '.png';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      document.getElementById('allapotVeg' + tipus + '-' + id).className = 'allapot sikeres';
+      document.getElementById('allapotVeg' + tipus + '-' + id).textContent = 'Letöltve.';
+    }
+
+    async function megosztas(id, tipus) {
+      const canvas = celVaszon(id, tipus);
+      const allapotSzoveg = document.getElementById('allapotVeg' + tipus + '-' + id);
+      try {
+        const valasz = await fetch(canvas.toDataURL('image/png'));
+        const blob = await valasz.blob();
+        const fajl = new File([blob], 'vizjeles_kep.png', { type: 'image/png' });
+
+        if (navigator.canShare && navigator.canShare({ files: [fajl] })) {
+          await navigator.share({ files: [fajl], title: 'Vízjeles kép' });
+        } else {
+          allapotSzoveg.className = 'allapot hiba';
+          allapotSzoveg.textContent = 'A megosztás ezen az eszközön/böngészőben nem támogatott - használd a letöltést.';
+        }
+      } catch (hiba) {
+        if (hiba && hiba.name !== 'AbortError') {
+          allapotSzoveg.className = 'allapot hiba';
+          allapotSzoveg.textContent = 'Hiba megosztáskor: ' + hiba;
+        }
+      }
+    }
+  </script>
+</body>
+</html>
