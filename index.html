@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Főoldal</title>
+<title>Balesetinfo</title>
 <style>
   * { box-sizing: border-box; }
   body {
@@ -11,54 +11,63 @@
     background: #f4f6f5;
     margin: 0;
     padding: 16px;
-    color: #1f2d2b;
     display: flex;
     min-height: 100vh;
     align-items: center;
     justify-content: center;
   }
   .card {
+    max-width: 420px;
     width: 100%;
-    max-width: 480px;
     background: #ffffff;
-    border-radius: 20px;
+    border-radius: 16px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.06);
-    padding: 32px 20px;
+    padding: 28px 24px;
   }
-  .btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    min-height: 84px;
+  .cim {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1f2d2b;
+    margin: 0 0 24px;
+  }
+  .csoport-cim {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    color: #7c8a88;
+    margin: 22px 0 10px;
+  }
+  .csoport-cim:first-of-type { margin-top: 0; }
+  a.gomb {
+    display: block;
     text-align: center;
     text-decoration: none;
     background: #2c5f6f;
     color: #ffffff;
-    border: none;
-    padding: 22px 18px;
-    border-radius: 18px;
-    font-size: 22px;
+    padding: 16px 18px;
+    border-radius: 12px;
+    font-size: 16px;
     font-weight: 700;
-    cursor: pointer;
-    line-height: 1.25;
+    margin-top: 10px;
   }
-  .btn:active { background: #23494f; }
-  .btn + .btn { margin-top: 20px; }
+  a.gomb:active { background: #23494f; }
+  a.gomb.masodlagos { background: #eef4f2; color: #2c5f6f; }
 </style>
 </head>
 <body>
   <div class="card">
-    <a class="btn" href="https://script.google.com/a/macros/baloghgabor.hu/s/AKfycbyfDKZ_ILow2oGVMfBX-ybFeJ8DKyFX5SroG3PYsFtO9jyWXLTcGbgRuVOurA6Ff7No/exec">Elszámolás</a>
-    <a class="btn" href="https://script.google.com/a/macros/baloghgabor.hu/s/AKfycbxFuG3sO71u_zA_CsYuLGxbOvtoxFRtVtjSfdg0vLMdwgaxj8R4CtBaVqE4Kt-d3Iq6/exec">Teljesítési igazolás készítése</a>
-    <a class="btn" href="https://script.google.com/macros/s/AKfycbw8Ng7L7dFg4CKHGRzx5KrhvAhGpDuRgJ0kXa2HENBLNuC2DR2qZOv-R9tx8Jk3zau7/exec">Elszámolási összesítő beküldése2</a>
-     <a class="btn" href="https://script.google.com/macros/s/AKfycbz8pvcJYVsGaos5NkN7VihNfumf3TpdjzGBm5rCteDJQByIujUDWwj89v0qDdpXO2Xvjg/exec">Pixelator</a>
-     <a class="btn" href="https://script.google.com/macros/s/AKfycbzRXWqI96hojHiODs5UKNV6wknRlrXfqTHXBRnrfGXV0osSiWJCBObWh-LYyEI5-063/exec">Foto turbózás</a>     
-     <a class="btn" href="https://script.google.com/macros/s/AKfycbzOQIFACB_5F7dFC21lqtxBUwq1pTyms6yjE_Gvu7xpvr3-sl9bb9lwOow1QXkvrPk4oQ/exec">Vízjel2</a>
+    <p class="cim">Balesetinfo</p>
 
+    <p class="csoport-cim">Elszámolás</p>
+    <a class="gomb" href="https://script.google.com/macros/s/AKfycbyfDKZ_ILow2oGVMfBX-ybFeJ8DKyFX5SroG3PYsFtO9jyWXLTcGbgRuVOurA6Ff7No/exec">Elszámolás</a>
+    <a class="gomb" href="https://script.google.com/macros/s/AKfycbzUyldF9zMmCkG1VNdQlUMQkShnndQK54cQZjn1jZnbvekw8XA6u13IdJIHNFzKGkml/exec">Elszámolás beküldése</a>
 
-
-
+    <p class="csoport-cim">Kép-eszközök</p>
+    <a class="gomb masodlagos" href="eltakaro.html">Kép-eltakaró</a>
+    <a class="gomb masodlagos" href="felturbozo.html">Kép felturbózó</a>
+    <a class="gomb masodlagos" href="vizjelezo.html">Vízjelező</a>
   </div>
 </body>
 </html>
