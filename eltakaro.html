@@ -28,8 +28,15 @@
   .allapot { font-size: 13px; color: #55605e; margin-top: 10px; min-height: 18px; }
   .allapot.hiba { color: #b23b3b; }
   .allapot.sikeres { color: #1f7a3d; }
-  .vaszon-doboz { position: relative; width: 100%; border: 1.5px dashed #dfe6e4; border-radius: 12px; margin-top: 14px; overflow: hidden; background: #f9fafa; }
-  canvas.elotag-vaszon { display: block; width: 100%; height: auto; cursor: crosshair; }
+  .vaszon-doboz { position: relative; width: 100%; max-height: 62vh; border: 1.5px dashed #dfe6e4; border-radius: 12px; margin-top: 14px; overflow: auto; -webkit-overflow-scrolling: touch; background: #f9fafa; }
+  canvas.elotag-vaszon { display: block; cursor: crosshair; touch-action: none; }
+  canvas.elotag-vaszon.paszantazas-mod { cursor: grab; touch-action: pan-x pan-y pinch-zoom; }
+  .zoom-sor { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+  .zoom-gomb { flex: 0 0 auto; width: 40px; height: 40px; border-radius: 10px; border: 1.5px solid #dfe6e4; background: #fff; font-size: 18px; font-weight: 700; color: #2c5f6f; cursor: pointer; }
+  .zoom-gomb:active { background: #eef4f2; }
+  .zoom-ertek { flex: 0 0 auto; font-size: 13px; color: #55605e; min-width: 44px; text-align: center; }
+  .paszantazas-gomb { flex: 1 1 auto; height: 40px; border-radius: 10px; border: 1.5px solid #dfe6e4; background: #fff; font-size: 13px; font-weight: 700; color: #2c5f6f; cursor: pointer; }
+  .paszantazas-gomb.aktiv { background: #2c5f6f; color: #fff; border-color: #2c5f6f; }
   .terulet-lista { margin-top: 10px; }
   .terulet-sor { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; background: #f4f6f5; border-radius: 10px; font-size: 13px; margin-top: 6px; }
   .terulet-torles { color: #b23b3b; font-weight: 700; cursor: pointer; padding: 4px 8px; }
@@ -102,6 +109,9 @@
 
     // ============== KÉP-ELTAKARÓ ESZKÖZ ==============
     const MODELL_URL = 'https://cdn.jsdelivr.net/gh/justadudewhohacks/face-api.js-models/tiny_face_detector';
+    const ZOOM_MIN = 50;
+    const ZOOM_MAX = 400;
+    const ZOOM_LEPES = 25;
 
     let modellBetoltve = false;
     let modellBetoltesFolyamatban = null;
@@ -125,8 +135,14 @@
       blokk.innerHTML =
         '<hr class="elvalaszto">' +
         '<p class="kep-cim">' + fajlNev.replace(/</g, '&lt;') + '</p>' +
-        '<div class="vaszon-doboz"><canvas class="elotag-vaszon" id="vaszon-' + id + '"></canvas></div>' +
-        '<p class="sugo-szoveg">Húzd az ujjad/egeret a képen, hogy kézzel is kijelölj egy takarandó területet (pl. logót).</p>' +
+        '<div class="vaszon-doboz" id="vaszonDoboz-' + id + '"><canvas class="elotag-vaszon" id="vaszon-' + id + '"></canvas></div>' +
+        '<div class="zoom-sor">' +
+        '<button type="button" class="zoom-gomb" onclick="zoomValtoztatas(\'' + id + '\', -' + ZOOM_LEPES + ')">－</button>' +
+        '<span class="zoom-ertek" id="zoomErtek-' + id + '">100%</span>' +
+        '<button type="button" class="zoom-gomb" onclick="zoomValtoztatas(\'' + id + '\', ' + ZOOM_LEPES + ')">＋</button>' +
+        '<button type="button" class="paszantazas-gomb" id="paszantazasGomb-' + id + '" onclick="paszantazasValtas(\'' + id + '\')">✋ Pásztázás</button>' +
+        '</div>' +
+        '<p class="sugo-szoveg">Húzd az ujjad/egeret a képen, hogy kézzel is kijelölj egy takarandó területet (pl. logót). Nagyításnál kapcsold be a Pásztázást a görgetéshez, majd kapcsold ki a kijelöléshez.</p>' +
         '<p class="lepes-cim">Felismerés</p>' +
         '<button type="button" class="btn btn-masodlagos" id="felismerGomb-' + id + '" onclick="arcokFelismerese(\'' + id + '\')">Arcok felismerése</button>' +
         '<p class="allapot" id="allapotFelismeres-' + id + '"></p>' +
@@ -153,6 +169,8 @@
         eredetiKep: null,
         rajzolasFolyamatban: false,
         rajzKezdoPont: null,
+        zoom: 100,
+        paszantazasMod: false,
       };
 
       bekotPointerEsemenyeket(id);
@@ -166,8 +184,40 @@
         allapot.canvas.width = kep.naturalWidth;
         allapot.canvas.height = kep.naturalHeight;
         allapot.ctx.drawImage(kep, 0, 0);
+        frissitZoomMegjelenites(id);
       };
       kep.src = URL.createObjectURL(fajl);
+    }
+
+    // ============== ZOOM + PÁSZTÁZÁS ==============
+
+    function frissitZoomMegjelenites(id) {
+      const allapot = kepAllapotok[id];
+      if (!allapot.eredetiKep) return;
+      // A vászon belső felbontása (canvas.width/height) sosem változik -
+      // csak a MEGJELENÍTETT (CSS) mérete nő/csökken a zoom-mal. A
+      // vasznonBeluliPont() a getBoundingClientRect() alapján már eleve
+      // helyesen számol bármilyen megjelenítési méretnél, tehát a
+      // kijelölés-koordináták zoom-tól függetlenül pontosak maradnak.
+      const megjelenitettSzelesseg = Math.round(allapot.eredetiKep.naturalWidth * (allapot.zoom / 100));
+      allapot.canvas.style.width = megjelenitettSzelesseg + 'px';
+      allapot.canvas.style.height = 'auto';
+      document.getElementById('zoomErtek-' + id).textContent = allapot.zoom + '%';
+    }
+
+    function zoomValtoztatas(id, delta) {
+      const allapot = kepAllapotok[id];
+      allapot.zoom = Math.max(ZOOM_MIN, Math.min(ZOOM_MAX, allapot.zoom + delta));
+      frissitZoomMegjelenites(id);
+    }
+
+    function paszantazasValtas(id) {
+      const allapot = kepAllapotok[id];
+      allapot.paszantazasMod = !allapot.paszantazasMod;
+      const gomb = document.getElementById('paszantazasGomb-' + id);
+      gomb.classList.toggle('aktiv', allapot.paszantazasMod);
+      gomb.textContent = allapot.paszantazasMod ? '✏️ Kijelölés' : '✋ Pásztázás';
+      allapot.canvas.classList.toggle('paszantazas-mod', allapot.paszantazasMod);
     }
 
     function vasznonBeluliPont(canvas, esemeny) {
@@ -185,6 +235,8 @@
       const canvas = allapot.canvas;
 
       canvas.addEventListener('pointerdown', function (esemeny) {
+        if (allapot.paszantazasMod) return; // pásztázás módban a böngésző natív görgetése fusson
+        esemeny.preventDefault();
         allapot.rajzolasFolyamatban = true;
         allapot.rajzKezdoPont = vasznonBeluliPont(canvas, esemeny);
         canvas.setPointerCapture(esemeny.pointerId);
@@ -192,6 +244,7 @@
 
       canvas.addEventListener('pointermove', function (esemeny) {
         if (!allapot.rajzolasFolyamatban) return;
+        esemeny.preventDefault();
         const most = vasznonBeluliPont(canvas, esemeny);
         ujrarajzol(id);
         rajzolIdeiglenesKeretet(id, allapot.rajzKezdoPont, most);
