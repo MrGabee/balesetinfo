@@ -37,6 +37,11 @@
   .zoom-ertek { flex: 0 0 auto; font-size: 13px; color: #55605e; min-width: 44px; text-align: center; }
   .paszantazas-gomb { flex: 1 1 auto; height: 40px; border-radius: 10px; border: 1.5px solid #dfe6e4; background: #fff; font-size: 13px; font-weight: 700; color: #2c5f6f; cursor: pointer; }
   .paszantazas-gomb.aktiv { background: #2c5f6f; color: #fff; border-color: #2c5f6f; }
+  .pan-sorok { display: none; margin-top: 8px; }
+  .pan-sorok.lathato { display: block; }
+  .pan-sor { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
+  .pan-sor label { flex: 0 0 60px; font-size: 12px; color: #7c8a88; }
+  .pan-sor input[type="range"] { flex: 1 1 auto; margin: 0; }
   .terulet-lista { margin-top: 10px; }
   .terulet-sor { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; background: #f4f6f5; border-radius: 10px; font-size: 13px; margin-top: 6px; }
   .terulet-torles { color: #b23b3b; font-weight: 700; cursor: pointer; padding: 4px 8px; }
@@ -142,6 +147,10 @@
         '<button type="button" class="zoom-gomb" onclick="zoomValtoztatas(\'' + id + '\', ' + ZOOM_LEPES + ')">＋</button>' +
         '<button type="button" class="paszantazas-gomb" id="paszantazasGomb-' + id + '" onclick="paszantazasValtas(\'' + id + '\')">✋ Pásztázás</button>' +
         '</div>' +
+        '<div class="pan-sorok" id="panSorok-' + id + '">' +
+        '<div class="pan-sor"><label>⇔ Balra-jobbra</label><input type="range" id="panXCsuszka-' + id + '" min="0" max="100" value="0" oninput="panXValtozott(\'' + id + '\')"></div>' +
+        '<div class="pan-sor"><label>⇕ Fel-le</label><input type="range" id="panYCsuszka-' + id + '" min="0" max="100" value="0" oninput="panYValtozott(\'' + id + '\')"></div>' +
+        '</div>' +
         '<p class="sugo-szoveg">Húzd az ujjad/egeret a képen, hogy kézzel is kijelölj egy takarandó területet (pl. logót). Nagyításnál kapcsold be a Pásztázást a görgetéshez, majd kapcsold ki a kijelöléshez.</p>' +
         '<p class="lepes-cim">Felismerés</p>' +
         '<button type="button" class="btn btn-masodlagos" id="felismerGomb-' + id + '" onclick="arcokFelismerese(\'' + id + '\')">Arcok felismerése</button>' +
@@ -194,21 +203,57 @@
     function frissitZoomMegjelenites(id) {
       const allapot = kepAllapotok[id];
       if (!allapot.eredetiKep) return;
-      // A vászon belső felbontása (canvas.width/height) sosem változik -
-      // csak a MEGJELENÍTETT (CSS) mérete nő/csökken a zoom-mal. A
-      // vasznonBeluliPont() a getBoundingClientRect() alapján már eleve
-      // helyesen számol bármilyen megjelenítési méretnél, tehát a
-      // kijelölés-koordináták zoom-tól függetlenül pontosak maradnak.
-      const megjelenitettSzelesseg = Math.round(allapot.eredetiKep.naturalWidth * (allapot.zoom / 100));
+      const doboz = document.getElementById('vaszonDoboz-' + id);
+
+      // JAVÍTVA: korábban a 100% a kép NYERS pixelfelbontásához igazodott
+      // (egy telefonos fotó simán 3000+ px széles), ezért mobilon a "100%"
+      // valójában erősen felnagyítva jelent meg. Most a 100% a doboz
+      // ténylegesen látható szélességéhez igazodik (ugyanaz, mint az
+      // eredeti width:100% viselkedés), és a zoom EHHEZ képest nagyít.
+      const alapSzelesseg = doboz.clientWidth;
+      const megjelenitettSzelesseg = Math.round(alapSzelesseg * (allapot.zoom / 100));
       allapot.canvas.style.width = megjelenitettSzelesseg + 'px';
       allapot.canvas.style.height = 'auto';
       document.getElementById('zoomErtek-' + id).textContent = allapot.zoom + '%';
+
+      const panSorok = document.getElementById('panSorok-' + id);
+      panSorok.classList.toggle('lathato', allapot.zoom > 100);
+      frissitPanCsuszkakat(id);
     }
 
     function zoomValtoztatas(id, delta) {
       const allapot = kepAllapotok[id];
       allapot.zoom = Math.max(ZOOM_MIN, Math.min(ZOOM_MAX, allapot.zoom + delta));
       frissitZoomMegjelenites(id);
+    }
+
+    // A csúszkák 0-100 skálán mozgatják a dobozt: 0 = legbaloldalibb/
+    // legfelső, 100 = legjobboldalibb/legalsó lehetséges görgetési pozíció.
+    function panXValtozott(id) {
+      const doboz = document.getElementById('vaszonDoboz-' + id);
+      const csuszka = document.getElementById('panXCsuszka-' + id);
+      const maxGorgetes = doboz.scrollWidth - doboz.clientWidth;
+      doboz.scrollLeft = (Number(csuszka.value) / 100) * maxGorgetes;
+    }
+
+    function panYValtozott(id) {
+      const doboz = document.getElementById('vaszonDoboz-' + id);
+      const csuszka = document.getElementById('panYCsuszka-' + id);
+      const maxGorgetes = doboz.scrollHeight - doboz.clientHeight;
+      doboz.scrollTop = (Number(csuszka.value) / 100) * maxGorgetes;
+    }
+
+    // Ha a felhasználó kézzel/ujjal görget (pásztázás módban, vagy egérrel),
+    // a csúszkák pozícióját is szinkronizáljuk, hogy ne mutassanak hamis
+    // helyet.
+    function frissitPanCsuszkakat(id) {
+      const doboz = document.getElementById('vaszonDoboz-' + id);
+      const maxX = doboz.scrollWidth - doboz.clientWidth;
+      const maxY = doboz.scrollHeight - doboz.clientHeight;
+      const xCsuszka = document.getElementById('panXCsuszka-' + id);
+      const yCsuszka = document.getElementById('panYCsuszka-' + id);
+      xCsuszka.value = maxX > 0 ? Math.round((doboz.scrollLeft / maxX) * 100) : 0;
+      yCsuszka.value = maxY > 0 ? Math.round((doboz.scrollTop / maxY) * 100) : 0;
     }
 
     function paszantazasValtas(id) {
@@ -233,6 +278,11 @@
     function bekotPointerEsemenyeket(id) {
       const allapot = kepAllapotok[id];
       const canvas = allapot.canvas;
+      const doboz = document.getElementById('vaszonDoboz-' + id);
+
+      doboz.addEventListener('scroll', function () {
+        frissitPanCsuszkakat(id);
+      });
 
       canvas.addEventListener('pointerdown', function (esemeny) {
         if (allapot.paszantazasMod) return; // pásztázás módban a böngésző natív görgetése fusson
