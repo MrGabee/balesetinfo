@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Elszámolás beküldése - Belépés</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; background: #f4f6f5; margin: 0; padding: 16px; color: #1f2d2b; }
+  .card { max-width: 480px; margin: 40px auto 0; background: #ffffff; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
+  .header { background: #2c5f6f; color: #ffffff; padding: 20px 20px 14px; }
+  .header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+  .form-blokk { padding: 20px; }
+  input[type="password"] { width: 100%; padding: 12px 14px; font-size: 15px; border: 1.5px solid #dfe6e4; border-radius: 12px; box-sizing: border-box; background: #fff; }
+  .btn { display: block; width: 100%; background: #2c5f6f; color: #ffffff; border: none; padding: 15px; border-radius: 12px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 14px; }
+  .btn:active { background: #23494f; }
+  .belepo-hiba { color: #b23b3b; font-size: 13px; margin: -6px 0 14px; }
+  .jelszo-doboz { position: relative; }
+  .jelszo-doboz input { padding-right: 44px; }
+  .jelszo-szem { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 19px; cursor: pointer; padding: 8px; line-height: 1; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="header"><h1>Elszámolás beküldése</h1></div>
+    <form class="form-blokk" method="POST" action="https://baleset-info.hu/tv2/elszamolas.php">
+      <div class="jelszo-doboz">
+        <input id="jelszoMezo" type="password" name="jelszo" placeholder="Jelszó" autofocus required>
+        <button type="button" class="jelszo-szem" onclick="jelszoLathatosag()">👁</button>
+      </div>
+      <p class="belepo-hiba" id="hibaSzoveg" style="display:none;">Hibás jelszó, próbáld újra.</p>
+      <button type="submit" class="btn">Belépés</button>
+    </form>
+  </div>
+  <script>
+    function jelszoLathatosag() {
+      const mezo = document.getElementById('jelszoMezo');
+      mezo.type = (mezo.type === 'password') ? 'text' : 'password';
+    }
+    if (new URLSearchParams(window.location.search).get('hiba') === '1') {
+      document.getElementById('hibaSzoveg').style.display = 'block';
+    }
+  </script>
+</body>
+</html>
