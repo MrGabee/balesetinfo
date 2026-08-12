@@ -31,7 +31,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: 🚨 VÉSZ események lekérdezése
-        run: python tv2_riport/fetch_vesz_events.py
+        run: python fetch_vesz_events.py
 
       - name: 💾 Adat commitolása
         if: always()
@@ -39,21 +39,21 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if [ ! -f tv2_riport/data/vesz_events.json ]; then
+          if [ ! -f data/vesz_events.json ]; then
             echo "Nincs adatfájl, nincs mit commitolni."
             exit 0
           fi
 
-          cp tv2_riport/data/vesz_events.json /tmp/vesz_events_sajat.json
+          cp data/vesz_events.json /tmp/vesz_events_sajat.json
 
           SIKERULT=0
           for i in 1 2 3 4 5 6; do
             echo "Push kísérlet $i/6..."
             git fetch origin main
             git reset --hard origin/main
-            mkdir -p tv2_riport/data
-            cp /tmp/vesz_events_sajat.json tv2_riport/data/vesz_events.json
-            git add tv2_riport/data/vesz_events.json
+            mkdir -p data
+            cp /tmp/vesz_events_sajat.json data/vesz_events.json
+            git add data/vesz_events.json
             if git diff --staged --quiet; then
               echo "Nincs változás, kész."
               SIKERULT=1
