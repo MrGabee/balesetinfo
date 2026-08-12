@@ -89,6 +89,30 @@
   .gate-box h2 { font-family: 'Oswald', sans-serif; text-transform: uppercase; font-size: 20px; margin-bottom: 8px; }
   .gate-box p { color: var(--text-muted); font-size: 13px; margin-bottom: 20px; }
   .gate-input { width: 100%; margin-bottom: 12px; text-align: center; }
+  .gate-input-wrap { position: relative; margin-bottom: 12px; }
+  .gate-input-wrap .gate-input {
+    margin-bottom: 0;
+    height: 48px;
+    padding-right: 44px;
+    font-size: 15px;
+  }
+  .gate-eye-toggle {
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-muted);
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+  }
+  .gate-eye-toggle:hover { color: var(--text); background: var(--bg-card-hover); }
+  .gate-eye-toggle svg { width: 18px; height: 18px; display: block; }
   .gate-error { color: var(--red); font-size: 12px; margin-top: 10px; min-height: 16px; font-family: 'JetBrains Mono', monospace; }
   #protectedContent { display: none; }
 </style>
@@ -99,7 +123,15 @@
   <div class="gate-box">
     <h2>Belépés</h2>
     <p>Ehhez az oldalhoz jelszó szükséges.</p>
-    <input type="password" id="gatePassword" class="gate-input" placeholder="Jelszó" autocomplete="off">
+    <div class="gate-input-wrap">
+      <input type="password" id="gatePassword" class="gate-input" placeholder="Jelszó" autocomplete="off">
+      <button type="button" class="gate-eye-toggle" id="gateEyeToggle" aria-label="Jelszó megjelenítése">
+        <svg id="gateEyeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7Z"></path>
+          <circle cx="12" cy="12" r="3"></circle>
+        </svg>
+      </button>
+    </div>
     <button class="primary" id="gateSubmit">Belépés</button>
     <div class="gate-error" id="gateError"></div>
   </div>
@@ -554,6 +586,19 @@
 
   gateSubmit.addEventListener('click', tryUnlock);
   gateInput.addEventListener('keydown', e => { if (e.key === 'Enter') tryUnlock(); });
+
+  const gateEyeToggle = document.getElementById('gateEyeToggle');
+  const gateEyeIcon = document.getElementById('gateEyeIcon');
+  const EYE_OPEN = '<path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7Z"></path><circle cx="12" cy="12" r="3"></circle>';
+  const EYE_CLOSED = '<path d="M17.94 17.94A10.94 10.94 0 0 1 12 19c-7 0-11-7-11-7a18.5 18.5 0 0 1 4.22-5.06M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 7 11 7a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path><line x1="1" y1="1" x2="23" y2="23"></line>';
+
+  gateEyeToggle.addEventListener('click', () => {
+    const showing = gateInput.type === 'text';
+    gateInput.type = showing ? 'password' : 'text';
+    gateEyeIcon.innerHTML = showing ? EYE_OPEN : EYE_CLOSED;
+    gateEyeToggle.setAttribute('aria-label', showing ? 'Jelszó megjelenítése' : 'Jelszó elrejtése');
+    gateInput.focus();
+  });
 
   if (hasValidRememberedUnlock()) {
     unlockGate();
