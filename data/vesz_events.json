@@ -1,13 +1,33 @@
 {
-  "updated_at": "2026-08-12T17:17:24.809004+00:00",
-  "count": 3056,
+  "updated_at": "2026-08-12T18:12:30.787631+00:00",
+  "count": 3058,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "90887",
+      "datetime": "2026.08.12. 19:41",
+      "title": "Árokba csapódott egy autó a 32-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90887",
+      "lead": "Jászberény és Pusztamonostor között lezárták az utat.",
+      "body": "Árokba csapódott egy személyautó a 32-es főút Jászberényt és Pusztamonostort összekötő szakaszán, a 22-es és 23-as kilométerszelvény között. A balesethez a jászberényi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászberény, 32"
+    },
+    {
+      "id": "90886",
+      "datetime": "2026.08.12. 19:32",
+      "title": "Nyerges vontató és személyautó ütközött az M1-esen, Tatabányánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90886",
+      "lead": "A Budapest felé vezető oldalon a leállósávban halad a forgalom.",
+      "body": "Nyerges vontató és személyautó ütközött össze az M1-es autópálya Budapest felé vezető oldalán, Tatabánya közelében, a 64-es kilométerszelvénynél. A tatabányai hivatásos tűzoltók a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon a leállósávban halad a forgalom.",
+      "location": "Tatabánya, M1"
+    },
+    {
       "id": "90885",
-      "datetime": "2026.08.12. 18:36",
-      "title": "Nyárfaerdő aljnövényzete ég Nagyecsed és Tyukod között",
-      "category": "Tűzeset",
+      "datetime": "2026.08.12. 18:36 -",
+      "title": "1 db frissítés",
+      "category": "Nyárfaerdő aljnövényzete ég Nagyecsed és Tyukod között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90885",
       "lead": "A tűz körülbelül tizenöt hektárt érint.",
       "body": "Nyárfaerdő aljnövényzete ég a Nagyecsed és Tyukod közötti területen. A tűz körülbelül tizenöt hektárt érint. A mátészalkai és a fehérgyarmati hivatásos valamint a tyukodi önkéntes tűzoltók több vízsugárral dolgoznak a lángok megfékezésén.",
@@ -96,7 +116,7 @@
     {
       "id": "90876",
       "datetime": "2026.08.12. 15:43 -",
-      "title": "1 db frissítés",
+      "title": "2 db frissítés",
       "category": "Kigyulladt a száraz avar Érd határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90876",
       "lead": "A tűz körülbelül három hektárnyi területet érint.",
@@ -146,7 +166,7 @@
     {
       "id": "90871",
       "datetime": "2026.08.12. 14:26 -",
-      "title": "1 db frissítés",
+      "title": "2 db frissítés",
       "category": "Tűz van Öskün",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871",
       "lead": "A település mellett karambol is történt a 8-as főúton, amelyet mindkét irányban lezártak.",
@@ -186,7 +206,7 @@
     {
       "id": "90861",
       "datetime": "2026.08.12. 13:17 -",
-      "title": "1 db frissítés",
+      "title": "2 db frissítés",
       "category": "Vasúti talpfák égnek Hidasnémetin",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861",
       "lead": "Az M30-as autópálya közelében dolgoznak a tűzoltók.",
@@ -809,9 +829,9 @@
       "title": "Fának hajtott egy autó a 61-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90797",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Cece és Alap között forgalomkorlátozás lehet.",
+      "body": "Fának ütközött egy személyautó a 61-es főút Cece és Alap közötti szakaszán, a 20. kilométernél. A jármű részben akadályozza a forgalmat. A sárbogárdi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották.",
+      "location": "Alap, 61"
     },
     {
       "id": "90796",
@@ -819,9 +839,9 @@
       "title": "Ráfutásos baleset az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90796",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Mogyoród közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött két személyautó az M3-as autópálya Nyíregyháza felé vezető oldalán, Mogyoród közelében. Ráfutásos baleset történt, amely során az egyik jármű a szalagkorlátnak is nekicsapódott. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsikat. A helyszínre érkeztek az újpesti önkéntes tűzoltók is. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Mogyoród, M3"
     },
     {
       "id": "90795",
@@ -829,8 +849,8 @@
       "title": "1 db frissítés",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90795",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": ""
     },
     {
@@ -839,9 +859,9 @@
       "title": "Baleset Dunaföldváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90794",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 6-os főút és a Vörösmarty utca kereszteződésében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Dunaföldváron, a 6-os főút és a Vörösmarty utca kereszteződésében. A helyi önkéntes tűzoltók áramtalanították a járműveket és kiemeltek egy utast a mentősök segítségével az egyik járműből. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Dunaföldvár, Vörösmarty utca"
     },
     {
       "id": "90793",
@@ -849,9 +869,9 @@
       "title": "Melléképület égett Vácrátóton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90793",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Az Alkotmány úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy mintegy húsz négyzetméteres melléképületben Vácrátóton, az Alkotmány úton. Az épületben tűzifát tároltak. A váci hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj átlocsolja a bent tartott tűzifát.",
+      "location": "Vácrátót, Alkotmány út"
     },
     {
       "id": "90792",
@@ -859,9 +879,9 @@
       "title": "Karambol történt Kispesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90792",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Lehel és a Vak Bottyán utca kereszteződésénél.",
+      "body": "Egymásnak ütközött két személyautó Budapest XIX. kerületében, a Lehel és a Vak Bottyán utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották. A raj megszünteti a forgalmi akadályt.",
+      "location": "Budapest, Lehel utca"
     },
     {
       "id": "90791",
@@ -869,9 +889,9 @@
       "title": "Tyúkól és szemét égett Nagykőrösön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90791",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Bokros dűlőben dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy körülbelül hatvan négyzetméteres melléképület Nagykőrösön, a Bokros dűlőben. A tyúkól és összehordott szemét, illetve gaz égett. Az állatokat kimentették az épületből. A ceglédi hivatásos és a helyi önkormányzati tűzoltók három vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nagykőrös, Bokros dűlő"
     },
     {
       "id": "90790",
@@ -879,9 +899,9 @@
       "title": "Kigyulladt az aljnövényzet Karcagnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90790",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A tűzoltók megfékezték a lángokat.",
+      "body": "Száraz fű és avar kapott lángra Karcag határában, a 4-es főút közelében. Mintegy egy hektárt érintett, és egy nádasra is átterjedtek a lángok, amelyekhez a karcagi és a püspökladányi hivatásos tűzoltók vonultak ki. Az egységek egy szeghalmi vízszállító jármű közreműködésével megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat, amelyek várhatóan hosszú ideig elhúzódnak.",
+      "location": "Karcag, Karcag külterülete"
     },
     {
       "id": "90789",
@@ -889,9 +909,9 @@
       "title": "Karambol a 22-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90789",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Kishartyán és Salgótarján között teljes szélességében lezárták az érintett útszakaszt.",
+      "body": "Összeütközött két személygépkocsi a 22-es főúton, Kishartyán és Salgótarján között. A salgótarjáni hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Salgótarján, Csókás puszta"
     },
     {
       "id": "90788",
@@ -899,9 +919,9 @@
       "title": "Lehajtott egy autó a 4918-as útról",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90788",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Nyírcsaholy közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lesodródott az úttestről, és az árkon áthaladva elakadt egy fában egy személyautó a 4918-as úton, Nyírcsaholy közelében, a 8. kilométernél. A mátészalkai hivatásos tűzoltók áramtalanították a gépkocsit, amely a kerekein állt meg. Egy ember utazott benne, hozzá mentők érkeztek a helyszínre.",
+      "location": "Nyírcsaholy, 4918"
     },
     {
       "id": "90787",
@@ -909,9 +929,9 @@
       "title": "2 db frissítés",
       "category": "Gaz és avar ég Felsőpakonynál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90787",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Egy akácosba is belekaptak a lángok.",
+      "body": "Kigyulladt a gaz és az avar egy Felsőpakony és Üllő közötti területen. Több hektárt érint, és egy akácosba is belekapott a tűz. A fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre tart több más egység is.",
+      "location": "Felsőpakony, Felsőpakony és Üllő között"
     },
     {
       "id": "90784",
@@ -919,9 +939,9 @@
       "title": "Tűz volt egy piacon Nyíregyházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90784",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Rákóczi utcában oltották el a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett egy piacon Nyíregyházán, a Rákóczi utcában, egy irodahelyiségben. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a nyíregyházi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A rajok átszellőztetik az épületet.",
+      "location": "Nyíregyháza, Rákóczi utca"
     },
     {
       "id": "90782",
@@ -929,9 +949,9 @@
       "title": "Embert gázolt a vonat Piliscsabánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90782",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A tűzoltók műszaki mentést végeznek.",
+      "body": "Embert gázolt el egy személyvonat Piliscsabánál, a Klotild-liget megálló közelében. A szerelvényen mintegy hatvanan utaztak. Az esztergomi hivatásos és a piliscsabai önkéntes tűzoltók műszaki mentést végeznek.",
+      "location": "Piliscsaba, Zajnáthegyi út"
     },
     {
       "id": "90781",
@@ -939,9 +959,9 @@
       "title": "Baleset Békéscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90781",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Bartók Béla út és a Tulipán utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Karambol történt Békéscsabán, a Bartók Béla út és a Tulipán utca kereszteződésénél. Összesen négy személyautó érintett a balesetben, az egyik felborult. A város hivatásos tűzoltói két járművet áramtalanítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Békéscsaba, Bartók Béla út"
     },
     {
       "id": "90780",
@@ -949,9 +969,9 @@
       "title": "Karambol Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90780",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A tűzoltók Bodzai és a Juhász utca kereszteződésében áramtalanították a járműveket.",
+      "body": "Egymásnak ütközött két személyautó Kecskeméten, a Bodzai és a Juhász utca kereszteződésében. Az egyik az út mellett van, a másik pedig elfoglalja az egyik sávot. A város hivatásos tűzoltói áramtalanították az egyik járművet. A helyszínen vannak a mentők is. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, Juhász utca"
     },
     {
       "id": "90779",
@@ -959,9 +979,9 @@
       "title": "Összeütközött két gépkocsi Mosonmagyaróváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90779",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A baleset a Kossuth Lajos utcában akadályozza a forgalmat.",
+      "body": "Frontálisan karambolozott egy személygépkocsi és egy teherautó Mosonmagyaróváron, a Kossuth Lajos utcában, a Bauer Rudolf utcánál. A járművekben egy-egy ember utazott, ők ki tudtak szállni. A város hivatásos tűzoltói áramtalanították a gépkocsikat, amelyek akadályozzák a forgalmat.",
+      "location": "Mosonmagyaróvár, Kossuth Lajos utca"
     },
     {
       "id": "90778",
@@ -969,9 +989,9 @@
       "title": "Teherautó és motor karambolozott Magyaratádon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90778",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Kossuth Lajos és a Petőfi Sándor utca kereszteződésénél félpályán halad a forgalom.",
+      "body": "Összeütközött egy motorkerékpár és egy tehergépkocsi Magyaratádon, a Kossuth Lajos és a Petőfi Sándor utca kereszteződésénél. A kaposvári hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínére mentőhelikopter is érkezett. Az érintett útszakaszon, rendőri irányítás mellett, félpályán halad a forgalom.",
+      "location": "Magyaratád, Petőfi Sándor utca"
     },
     {
       "id": "90777",
@@ -979,9 +999,9 @@
       "title": "Baleset történt a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90777",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Szajol határában történt a baleset.",
+      "body": "Szalagkorlátnak ütközött, majd az árok szélén megállt egy személyautó a 4-es főúton, Szajol határában. A járműben egy ember utazott, aki ki tudott szállni. Őt a mentők vizsgálják. Az ott tartózkodók még az előtt áramtalanították a gépkocsit, hogy a szolnoki hivatásos tűzoltók a helyszínre érkeztek. Bár a baleset helyszínén még nincs torlódás, az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Szajol, 4"
     },
     {
       "id": "90776",
@@ -989,9 +1009,9 @@
       "title": "Felborult egy kamion az M1-esen, Mosonmagyaróvárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90776",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A baleset miatt a 155-ös kilométernél mindkét pályatesten forgalmi akadályra kell számítani.",
+      "body": "Felborult egy papírárut szállító kamion az M1-es sztráda Hegyeshalom felé vezető oldalán, Mosonmagyaróvár térségében. A 155-ös kilométernél a belső szalagkorlátra borult járműben csak annak vezetője utazott, mentőt riasztottak hozzá. A helyszínre a mosonmagyaróvári és lébényi hivatásos tűzoltókat riasztották, az egységek áramtalanítottak. A kamionból nagyobb mennyiségű üzemanyag került a burkolatra, a rakomány pedig mindkét pályatesten szétszóródott. Az érintett szakaszon mindkét irányban lezárták a belső sávot, torlódásra kell számítani.",
+      "location": "Mosonmagyaróvár, M1"
     },
     {
       "id": "90775",
@@ -999,9 +1019,9 @@
       "title": "Égett egy targonca Nagytarcsán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90775",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Felső Ipari körút egyik csarnokához riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy dízeltargonca Nagytarcsán, a Felső Ipari körút egyik csarnokában. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a nagyjából ezerötszáz négyzetméteres épületben lángoló munkagépet. Az egységek hőkamerával átvizsgálták a járművet, átszellőztették a csarnokot, elvégezték az utómunkálatokat.",
+      "location": "Nagytarcsa, Felső Ipari körút"
     },
     {
       "id": "90774",
@@ -1009,9 +1029,9 @@
       "title": "Nyolc hektáron égett a vegetáció Hosszúpályi szélén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90774",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Létavértesi, debreceni és konyári tűzoltók fékezték meg a lángokat.",
+      "body": "Kigyulladt és foltokban égett a száraz fű, az avar, a gaz, a tarló Hosszúpályi és Monostorpályi között. A nagyjából nyolchektáros területen égő vegetációt debreceni hivatásos, létavértesi önkormányzati, illetve konyári önkéntes tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányításával fékezték meg. A rajok vízsugarakkal, kéziszerszámokkal előbb körülhatárolták, majd eloltották a lángokat.",
+      "location": "Hosszúpályi, külterület"
     },
     {
       "id": "90773",
@@ -1019,9 +1039,9 @@
       "title": "Melléképületek semmisültek meg Fülöpön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90773",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Kossuth Lajos utcába adonyi, hajdúböszörményi, nyíregyházi és helyi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából nyolcvan négyzetméteres hodály Fülöpön, a Kossuth Lajos utcában. Tüzet fogott mellette egy négy négyzetméteres disznóól is. A hodályban fát, kukoricát és búzát tartottak, az ólban két kerékpárt és egy rotációs kapát is tároltak, ezek mind megsemmisültek a tűzben. Az adonyi, hajdúböszörményi, nyíregyházi hivatásos, valamint a helyi önkéntes tűzoltók oltották el a lángokat. Az egységek már az utómunkálatoknál tartanak.",
+      "location": "Fülöp, Kossuth Lajos utca"
     },
     {
       "id": "90772",
@@ -1029,9 +1049,9 @@
       "title": "Négyes karambol Bakonypölöskén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90772",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Petőfi Sándor utcába riasztották a pápai tűzoltókat.",
+      "body": "Egymásba hajtott négy autó a 8402-es út bakonypölöskei szakaszán, a 12-es kilométernél. A járművekben összesen kilencen utaztak, a helyszínre több mentő érkezett. A pápai hivatásos tűzoltók áramtalanítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Bakonypölöske, 8402"
     },
     {
       "id": "90771",
@@ -1039,9 +1059,9 @@
       "title": "Kigyulladt egy autó az M6-oson, Szekszárd térségében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90771",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 142-143-as kilométer közé, a Pécs felé vezető oldalon van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi az M6-os autópálya Pécs felé vezető oldalán, Szekszárd térségében. A 142-143-as kilométer közé riasztották a tolnai önkormányzati és a szekszárdi hivatásos tűzoltókat. Az egységek hab- és vízsugarakkal eloltották a járművet, illetve a mellette meggyulladt aljnövényzetet, illetve hőkamerával vizsgálják az autót. A sztráda Pécs felé haladó oldalát egy időre az M9-től az őcsényi lehajtóig teljes szélességében lezárták.",
+      "location": "Szekszárd, M6"
     },
     {
       "id": "90770",
@@ -1049,9 +1069,9 @@
       "title": "Két autó karambolozott a 8-as főúton, Rábafüzes belterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90770",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 189-190-es kilométerhez vonultak a tűzoltók.",
+      "body": "Összeütközött két személykocsi Szentgotthárd-Rábafüzesen, a 8-as főút belterületi szakaszán. Az egyik kocsiban négyen utaztak, a másik járműben öten ültek, a helyszínre több mentőegység is érkezett. A 8-as főút és a 7459-es út kereszteződését elzáró járműveket a szentgotthárdi hivatásos tűzoltók áramtalanították. Az érintett szakaszon rendőri irányítás mellett halad a forgalom.",
+      "location": "Szentgotthárd, 8"
     },
     {
       "id": "90769",
@@ -1059,9 +1079,9 @@
       "title": "Erdő aljnövényzete gyulladt ki Császártöltés mellett",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90769",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Öt város hivatásos és önkormányzati tűzoltói oltják a tüzet.",
+      "body": "Kigyulladt az erdő aljnövényzete Császártöltés közelében, a lángok nagyjából kéthektárnyi területet perzseltek meg. A keceli önkormányzati, a kiskőrösi, kiskunhalasi, kalocsai és bajai hivatásos tűzoltók hét vízsugárral, kéziszerszámokkal, puttonyfecskendőkkel oltják a tüzet. A helyszínen van a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Császártöltés, külterület"
     },
     {
       "id": "90768",
@@ -1069,9 +1089,9 @@
       "title": "Baleset történt az 51-es főúton, Dunapataj és Harta között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90768",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 101-102-es kilométer között felborult egy autó.",
+      "body": "Letért az útról, árokba hajtott, ahol a tetejére borulva állt meg egy személykocsi az 51-es főút 101-102-es kilométere között. A Dunapataj és Harta között történt balesethez a solti önkormányzati és a dunapataji önkéntes tűzoltók vonultak. Az autóban csak a gépkocsivezető ült, ki tudott szállni járművéből, mentő érkezett hozzá.",
+      "location": "Dunapataj, 51"
     },
     {
       "id": "90767",
@@ -1079,9 +1099,9 @@
       "title": "Hétvégi ház égett Miskolc Pereces városrészében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90767",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Híd-dűlőbe riasztották a miskolci és diósgyőri tűzoltókat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából harminchat négyzetméteres ház Miskolcon. A Pereces városrészben, a Híd-dűlőben csaptak fel a lángok, az épület mellett meggyulladt a bozótos is. A miskolci és diósgyőri hivatásos tűzoltók eloltották a tüzet, már az utómunkálatokat végzik.",
+      "location": "Miskolc, Híd dűlő"
     },
     {
       "id": "90766",
@@ -1089,9 +1109,9 @@
       "title": "Oszlopnak hajtott egy autó Berettyóújfalun",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90766",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 47-es főút és a Bajcsy-Zsilinszky utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Villanyoszlopnak ütközött egy személykocsi Berettyóújfalun. A baleset a 47-es főút és a Bajcsy-Zsilinszky utca kereszteződésében történt, a helyszínre mentő is érkezett. A város hivatásos tűzoltói áramtalanították az autót.",
+      "location": "Berettyóújfalu, 47"
     },
     {
       "id": "90765",
@@ -1099,9 +1119,9 @@
       "title": "Öthektáros terület égett Lajosmizse külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90765",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Avar, gaz és tarló fogott tüzet.",
+      "body": "Nagyjából öthektáros az a terület, amelyen tűz keletkezett Lajosmizse külterületén. Tarló, avar és gaz égett, a helyszínre lajosmizsei önkormányzati és kecskeméti hivatásos tűzoltók vonultak. Az egységek munkáját erőgép is segítette.",
+      "location": "Lajosmizse, külterület"
     },
     {
       "id": "90764",
@@ -1109,9 +1129,9 @@
       "title": "Baleset miatt lezárták a 12-es főutat Vác és Verőce között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90764",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 2-es kilométernél két autó szemből egymásba rohant.",
+      "body": "Frontális baleset miatt áll a forgalom a 12-es főút elején, Vác és Verőce között. A 2-es kilométernél rohant egymásba két személykocsi, az egyiknek hátulról egy harmadik autó is nekiütközött. A balesethez a váci és rétsági hivatásos, valamint a váci önkéntes tűzoltók vonultak. Az egységek az egyik kocsi sofőrjét feszítővágó és nyomatóhenger segítségével szabadították ki, emellett áramtalanították az autókat. A balesetben összesen négyen érintettek, a helyszínre mentő érkezett. A főút érintett szakaszát teljes szélességében lezárták.",
+      "location": "Vác, 12"
     },
     {
       "id": "90763",
@@ -1119,9 +1139,9 @@
       "title": "Baleset történt az abádszalóki strand közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90763",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Deák Ferenc és az Attila út kereszteződésénél két autó karambolozott.",
+      "body": "Egymásba hajtott két gépkocsi Abádszalókon, a Deák Ferenc és az Attila utca kereszteződésénél. Az egyik járműben csak annak vezetője tartózkodott, a másik autóban ketten ültek. A balesethez a város önkormányzati tűzoltói vonultak, az egység áramtalanított.",
+      "location": "Abádszalók, Deák Ferenc út"
     },
     {
       "id": "90762",
@@ -1129,9 +1149,9 @@
       "title": "Teherautó és személykocsi karambolozott az 52-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90762",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 46-os kilométernél történt a baleset.",
+      "body": "Összeütközött egy kamion és egy személykocsi Solt és Fülöpszállás között, az 52-es főút 46-os kilométerénél. Mindkét jármű árokba is hajtott. A solti hivatásos tűzoltók áramtalanították az autót. A kamionban csak a sofőr ült, a személykocsiban egy négyfős család utazott. A helyszínre mentő is érkezett. A főút érintett szakaszán megállították a forgalmat.",
+      "location": "Solt, 52"
     },
     {
       "id": "90761",
@@ -1139,9 +1159,9 @@
       "title": "Leégett egy tároló Celldömölkön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90761",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Helyi és sárvári tűzoltók fékezték meg a Botond utcai lángokat.",
+      "body": "Leégett egy nagyjából hat négyzetméteres melléképület Celldömölkön, a Botond utcában. A kerti tároló lángjai másra nem terjedtek át. A celldömölki önkormányzati és a sárvári hivatásos tűzoltók körülhatárolták, eloltották a lángokat. Az egységek már az utómunkálatokat végzik, átforgatják a melléképület maradványait.",
+      "location": "Celldömölk, Botond utca"
     },
     {
       "id": "90760",
@@ -1149,8 +1169,8 @@
       "title": "2 db frissítés",
       "category": "Két helyen is nagy kiterjedésű szabadtéri tűz van Algyőnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90760",
-      "lead": "",
-      "body": "",
+      "lead": "A Kiserdő sornál huszonkét, a 47-es főút 215-ös kilométerénél pedig tíz hektáron ég a vegetáció.",
+      "body": "Két jelentős kiterjedésű vegetációtűz is van Algyőnél. A Kiserdő sornál körülbelül huszonkét hektáron erdő aljnövényzete gyulladt meg. Szegedi, makói, ruzsai hivatásos, az algyői FER létesítményi, valamint szegedi önkéntes tűzoltók fékezték meg a lángokat. Már az utómunkálatokat végzik, eloltják a foltokban égő, izzó részeket. Ettől a helyszíntől nagyjából egy kilométerre, a 47-es főút 215-ös kilométerének közelében cserjés, gaz, avar gyulladt meg. A nagyjából tízhektáros tüzet szegedi, hódmezővásárhelyi hivatásos, szintén a FER létesítményi tűzoltói, valamint a sándorfalvi egyesület önkéntesei oltják.\n\nMegyék:Csongrád-Csanád",
       "location": ""
     },
     {
@@ -1159,9 +1179,9 @@
       "title": "Újabb baleset történt a Szentendrei úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90759",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "Ezúttal a fővárosból kifelé vezető oldalon ütközött össze két jármű.",
+      "body": "Egy kamion és egy személykocsi karambolozott Budapest harmadik kerületében, a Szentendrei út városból kifelé vezető oldalán, a korábbi balesettől körülbelül háromszáz méterre. A fővárosi hivatásos tűzoltók átmentek az újabb balesethez és megvizsgálták a helyszínt. A karambol hatással van a közösségi közlekedésre is.",
+      "location": "Budapest, Szentendrei út"
     },
     {
       "id": "90758",
@@ -1169,9 +1189,9 @@
       "title": "Kerítésnek hajtott egy autó Gyékényesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90758",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A Petőfi utcába a helyi önkormányzati tűzoltók vonultak.",
+      "body": "Családi ház kerítésének hajtott egy személykocsi Gyékényesen, a Petőfi utcában. A járműben négyen ültek, az utasokhoz mentő érkezett. A település önkormányzati tűzoltói áramtalanítottak.",
+      "location": "Gyékényes, Petőfi utca"
     },
     {
       "id": "90757",
@@ -1179,9 +1199,9 @@
       "title": "1 db frissítés",
       "category": "Tűz van Lajoskomárom külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90757",
-      "lead": "",
-      "body": "",
-      "location": ""
+      "lead": "A 6404-es úthoz közeli helyszínre lajoskomáromi és sárbogárdi tűzoltók vonultak.",
+      "body": "Több száz köbméternyi trágya gyulladt meg Lajoskomárom külterületén. A kupac közel van egy istállóhoz, amelyben öt-hatszáz bálát is tárolnak. A helyszínre elsőként a helyi önkéntes tűzoltók két egysége érkezett, azután a sárbogárdi hivatásos egység is a telepre ért. A tűzoltók vízsugarakkal oltják a lángokat, illetve védik a közeli épületet, míg egy rakodógép az égő és nem égő részeket választja el egymástól. A tűzoltók elhúzódó munkálatokra számítanak.",
+      "location": "Lajoskomárom, külterület"
     },
     {
       "id": "90756",
