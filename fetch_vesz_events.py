@@ -92,10 +92,86 @@ def merge_events_preferring_real_title(events_list):
     return merged
 
 
+def parse_event_page_content(soup, h2):
+    """Egy esemény-oldal (akár a fő esemény, akár egy frissítés al-oldala)
+    közös szerkezetű tartalmát bontja szét: dátum, kategória, törzsszöveg,
+    helyszín. A frissítés-oldalaknak nincs mindig külön dőlt vezérmondata,
+    ezért itt NEM különítjük el a "lead"-et a "body"-tól - minden, ami a
+    kategória és a "Helyszín:" sor közé esik, egyben a teljes szöveg."""
+    blocks = []
+    for tag in h2.find_all_next():
+        text = tag.get_text(strip=True)
+        if not text:
+            continue
+        if text == "Vissza" or text.startswith("Frissítések"):
+            break
+        if tag.name in ("p", "div", "span", "strong", "em", "li") and not tag.find(["p", "div"]):
+            blocks.append(text)
+        if len(blocks) > 15:
+            break
+
+    dt_pattern = re.compile(r"\d{4}\.\d{2}\.\d{2}\.\s+\d{2}:\d{2}")
+    i = 0
+    datetime_text = ""
+    for idx, b in enumerate(blocks):
+        if dt_pattern.search(b):
+            datetime_text = b
+            i = idx + 1
+            break
+
+    category = blocks[i] if i < len(blocks) else ""
+    i += 1
+
+    remaining = blocks[i:]
+    helyszin = ""
+    helyszin_idx = None
+    for idx, b in enumerate(remaining):
+        if b.startswith("Helyszín"):
+            helyszin_idx = idx
+            helyszin = b.split(":", 1)[1].strip() if ":" in b else b
+            break
+
+    content_blocks = remaining[:helyszin_idx] if helyszin_idx is not None else remaining
+    full_text = "\n\n".join(content_blocks)
+
+    return {
+        "datetime": datetime_text,
+        "category": category,
+        "text": full_text,
+        "location": helyszin,
+    }
+
+
+def fetch_update_page(url):
+    """Egy KONKRÉT frissítés (al-esemény) teljes oldalát kéri le és
+    dolgozza fel - ugyanaz a szerkezet, mint a fő eseményé, saját címmel,
+    dátummal, teljes szöveggel és helyszínnel."""
+    try:
+        resp = requests.get(url, timeout=15)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        h2 = soup.find("h2")
+        if not h2:
+            return None
+        title = h2.get_text(strip=True)
+        content = parse_event_page_content(soup, h2)
+        return {
+            "title": title,
+            "datetime": content["datetime"],
+            "category": content["category"],
+            "text": content["text"],
+            "location": content["location"],
+            "url": url,
+        }
+    except Exception as e:
+        print(f"         ⚠️  Frissítés-oldal hiba ({url}): {e}")
+        return None
+
+
 def fetch_event_detail(url):
     """Az egyedi esemény-oldalról kinyeri a vezérmondatot, törzsszöveget,
-    a helyszínt ÉS a frissítéseket - ezek a lista-nézetben NEM szerepelnek,
-    csak itt."""
+    a helyszínt ÉS az ÖSSZES frissítés al-oldalának TELJES tartalmát -
+    ezek a lista-nézetben NEM szerepelnek, csak itt."""
     try:
         resp = requests.get(url, timeout=15)
         resp.raise_for_status()
@@ -109,9 +185,12 @@ def fetch_event_detail(url):
         # archívum-listában "N db frissítés" áll a helyén.
         real_title = h2.get_text(strip=True)
 
+        # A fő esemény szövegét a régi logikával bontjuk (van külön dőlt
+        # vezérmondat + törzsszöveg)
         blocks = []
-        update_blocks = []
         in_updates = False
+        update_links = []
+        seen_update_hrefs = set()
 
         for tag in h2.find_all_next():
             text = tag.get_text(strip=True)
@@ -123,17 +202,20 @@ def fetch_event_detail(url):
                 in_updates = True
                 continue
 
-            if tag.name in ("p", "div", "span", "strong", "em", "li", "a") and not tag.find(["p", "div"]):
-                if in_updates:
-                    # A "Vissza" linket és a duplikált szülő-szöveget kiszűrjük
-                    if text not in update_blocks:
-                        update_blocks.append(text)
-                else:
-                    blocks.append(text)
+            if in_updates:
+                if tag.name == "a":
+                    href = tag.get("href", "")
+                    if href and href not in seen_update_hrefs:
+                        seen_update_hrefs.add(href)
+                        full_url = href if href.startswith("http") else "https://www.katasztrofavedelem.hu" + href
+                        update_links.append(full_url)
+                continue
 
-            if not in_updates and len(blocks) > 15:
+            if tag.name in ("p", "div", "span", "strong", "em", "li") and not tag.find(["p", "div"]):
+                blocks.append(text)
+            if len(blocks) > 15:
                 break
-            if in_updates and len(update_blocks) > 20:
+            if len(update_links) > 20:
                 break
 
         dt_pattern = re.compile(r"\d{4}\.\d{2}\.\d{2}\.\s+\d{2}:\d{2}")
@@ -159,7 +241,23 @@ def fetch_event_detail(url):
         lead = content_blocks[0] if content_blocks else ""
         body = "\n\n".join(content_blocks[1:]) if len(content_blocks) > 1 else ""
 
-        return {"title": real_title, "lead": lead, "body": body, "location": helyszin, "updates": update_blocks}
+        # Minden frissítés al-oldalát KÜLÖN lekérdezzük a teljes szövegért -
+        # legfeljebb 10 frissítést dolgozunk fel eseményenként, hogy egy
+        # sokat frissülő esemény se tudja kimeríteni az egész futás idejét
+        updates_full = []
+        for update_url in update_links[:10]:
+            update_data = fetch_update_page(update_url)
+            if update_data:
+                updates_full.append(update_data)
+            time.sleep(0.2)
+
+        return {
+            "title": real_title,
+            "lead": lead,
+            "body": body,
+            "location": helyszin,
+            "updates": updates_full,
+        }
     except Exception as e:
         print(f"      ⚠️  Részlet lekérdezési hiba ({url}): {e}")
         return {}
