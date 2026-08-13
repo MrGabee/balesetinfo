@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T08:54:00.734719+00:00",
-  "count": 3068,
+  "updated_at": "2026-08-13T08:59:28.941845+00:00",
+  "count": 3069,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90898",
+      "datetime": "2026.08.13. 10:58",
+      "title": "Karambol Lócs közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90898",
+      "lead": "A 8633-as és a 8634-es út kereszteződésénél forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Bük és Sajtoskál között, Lócs közelében, a 8633-as és a 8634-es út kereszteződésében. A csepregi önkormányzati tűzoltók áramtalanították a járműveket, amelyekből mindenki ki tudott szállni. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Lócs, 8633, 8634",
+      "updates": []
+    },
     {
       "id": "90897",
       "datetime": "2026.08.13. 10:49",
