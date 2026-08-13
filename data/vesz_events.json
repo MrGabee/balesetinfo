@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T10:29:00.809621+00:00",
-  "count": 3072,
+  "updated_at": "2026-08-13T10:34:32.436774+00:00",
+  "count": 3073,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90902",
+      "datetime": "2026.08.13. 12:30",
+      "title": "Motorossal karambolozott egy személyautó Tiszabercelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90902",
+      "lead": "A baleset miatt félpályán lezárták a 3821-es út érintett szakaszát.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó Tiszabercelen, a 3821-es út és a Vásártér utca kereszteződésében. Az ibrányi önkormányzati tűzoltók mindkét járművet áramtalanították. Az egység és a társhatóságok félpályás útlezárás mellett végzik a helyszíni munkálatokat.",
+      "location": "Tiszabercel, Vásártér utca",
+      "updates": []
+    },
     {
       "id": "90901",
       "datetime": "2026.08.13. 12:19",
@@ -95,9 +106,9 @@
       "title": "Egymásnak ütközött két autó Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90894",
-      "lead": "Az Árpád út és a Rózsa utca kereszteződésében történt a baleset.",
-      "body": "Összeütközött két személyautó Újpesten, az Árpád út és a Rózsa utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
-      "location": "Budapest, Rózsa utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -449,14 +460,6 @@
       "body": "Tűz keletkezett Öskün, a Mecset és az Ibolya utca közelében. Több hektáron ég az aljnövényzet a vasúti töltés mentén. A tűz melléképületeket is érint, és lakóházakat veszélyeztet. Az ajkai és a kisbéri hivatásos tűzoltók oltják a lángokat, és a helyszínre indult több más egység is. A település mellett, a 8-as főúton, a 37. kilométer közelében összeütközött két személyautó. A veszprémi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon nagy a füst, ezért mindkét irányban leállították a forgalmat.",
       "location": "Öskü, Ibolya utca",
       "updates": [
-        {
-          "title": "Nagy területet érint az ösküi tűz",
-          "datetime": "2026.08.12. 15:27",
-          "category": "Tűzeset",
-          "text": "Mintegy tíz-tizenöt hektárt érint az a tűz, amely Öskün, a Mecset és az Ibolya utca közelében keletkezett. Száraz füves vegetáció gyulladt ki, és égett egy melléképület is, de a tűzoltók azt már eloltották. További lakóházakat veszélyeztetnek a lángok, amelyeket az ajkai, a veszprémi, a kisbéri, a sárbogárdi, a pápai, a badacsonytomaji és a székesfehérvári hivatásos egységek oltanak. A munkálatokat a Veszprém vármegyei tűzoltósági főfelügyelő irányítja.",
-          "location": "Öskü, Ibolya utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
-        },
         {
           "title": "Nagy erőkkel dolgoznak a tűzoltók Öskün",
           "datetime": "2026.08.12. 19:58",
