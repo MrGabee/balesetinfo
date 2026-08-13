@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T16:05:44.435238+00:00",
-  "count": 3086,
+  "updated_at": "2026-08-13T16:09:05.653429+00:00",
+  "count": 3087,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90916",
+      "datetime": "2026.08.13. 18:09",
+      "title": "Gaz és avar ég a IX. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90916",
+      "lead": "A tűzoltók egy vízsugárral kezdték oltani a lángokat.",
+      "body": "Mintegy hatszáz négyzetméteren ég a gaz és az avar a IX. kerületben, a Gyáli út, az Ecseri út ás az Üllői út által határolt területen. A fővárosi hivatásos tűzoltók egy vízsugárral kezdték oltani a lángokat. A helyszínre a katasztrófavédelmi műveleti szolgálat is kiérkezett, valamint fővárosi önkéntes tűzoltóegységek is elindultak az esethez.",
+      "location": "Budapest, Ecseri út",
+      "updates": []
+    },
     {
       "id": "90915",
       "datetime": "2026.08.13. 16:14",
