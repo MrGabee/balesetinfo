@@ -251,6 +251,11 @@ def fetch_event_detail(url):
                 updates_full.append(update_data)
             time.sleep(0.2)
 
+        # A forrásoldal legújabb-elöl sorrendben listázza a frissítéseket -
+        # ezt megfordítjuk, hogy időrendben (legrégebbi elöl, legújabb
+        # hátul) jelenjenek meg, mint egy történet folytatása
+        updates_full.reverse()
+
         return {
             "title": real_title,
             "lead": lead,
