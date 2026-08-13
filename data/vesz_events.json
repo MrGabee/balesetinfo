@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T06:16:29.565882+00:00",
+  "updated_at": "2026-08-13T06:20:52.726209+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "90895",
-      "datetime": "2026.08.13. 07:40",
+      "datetime": "2026.08.13. 07:40 -",
       "title": "Árokba borult egy kisbusz Izsák és Páhi között",
-      "category": "Közlekedési baleset",
+      "category": "Árokba borult egy kisbusz Izsák és Páhi között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90895",
       "lead": "Az 5301-es utat lezárták.",
       "body": "Árokba borult egy kisbusz Izsák és Páhi között, az 5301-es út 23-as kilométerszelvénynél. A szabadszállási, a kiskőrösi és a kecskeméti hivatásos tűzoltók öt embert kiemeltek a járműből, három személy még be van szorulva. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
       "location": "Izsák, 5301",
-      "updates": []
+      "updates": [
+        {
+          "title": "Kiemelték a hat embert a kisbuszból Izsák és Páhi között",
+          "datetime": "2026.08.13. 08:19",
+          "category": "Közlekedési baleset",
+          "text": "Kiemelték a hat embert a kisbuszból, ami árokba borult Izsák és Páhi között, az 5301-es út 23-as kilométerszelvénynél. A műszaki mentést a szabadszállási, a kiskőrösi és a kecskeméti hivatásos tűzoltók végezték, a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett. Az érintett útszakaszt teljes szélességében lezárták.",
+          "location": "Izsák, 5301",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90895/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90895"
+        }
+      ]
     },
     {
       "id": "90894",
