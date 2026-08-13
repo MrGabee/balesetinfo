@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T13:41:38.952827+00:00",
-  "count": 3084,
+  "updated_at": "2026-08-13T13:45:05.410511+00:00",
+  "count": 3085,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90914",
+      "datetime": "2026.08.13. 15:42",
+      "title": "Ráfutásos baleset a 81-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90914",
+      "lead": "Mórnál egy szakaszon félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személyautó a 81-es főúton, Mór közelében, a 8127-es út elágazásánál. Ráfutásos baleset történt, amelynél a móri önkormányzati tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik járművet. Az érintett útszakaszon, rendőri irányítás mellett, félpályán halad a forgalom.",
+      "location": "Mór, 81",
+      "updates": []
+    },
     {
       "id": "90913",
       "datetime": "2026.08.13. 15:26",
@@ -31,9 +42,9 @@
       "title": "Négy hektáron ég a bozótos Bojton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90911",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz egy lakóház tetőszerkezetébe is belekapott.",
+      "body": "Négy hektáron ég a bozótos Bojton, a település szélén, a Bethlen Gábor utca és a Deák Ferenc utca határában. A tűz egy lakóház tetőszerkezetét is elérte, valamint további lakóépületeket is veszélyeztet. A debreceni hivatásos tűzoltók egy vízsugárral és kéziszerszámokkal oltják a lángokat. A helyszínre tartanak a püspökladányi hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Bojt, Bethlen Gábor utca",
       "updates": []
     },
     {
@@ -148,14 +159,23 @@
     },
     {
       "id": "90900",
-      "datetime": "2026.08.13. 12:07",
+      "datetime": "2026.08.13. 12:07 -",
       "title": "Ég a bozótos Arlón",
-      "category": "Tűzeset",
+      "category": "Ég a bozótos Arlón",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900",
       "lead": "A tűzoltók kéziszerszámokkal kezdték oltani a lángokat.",
       "body": "A bozótos, a száraz fű ég Arlón, a Dózsa György út melletti területen. Az ózdi hivatásos és a borsodnádasdi önkéntes tűzoltók kéziszerszámokkal oltják a lángokat, munkájukat az erős szél nehezíti. A helyszínre tartanak a pétervásárai és az egri hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Arló, Dózsa György út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lakóházakat veszélyeztető tüzeket Arlón",
+          "datetime": "2026.08.13. 15:44",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lakóházakat veszélyeztető tüzeket Arlón, ahol a bozótos, a száraz fű ég nagy területen a Dózsa György út mellett. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról oltják a lángokat. A munkálatokat az erős szél nehezíti.",
+          "location": "Arló, Dózsa György út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
+        }
+      ]
     },
     {
       "id": "90899",
