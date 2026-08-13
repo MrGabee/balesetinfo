@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T16:55:22.678458+00:00",
-  "count": 3089,
+  "updated_at": "2026-08-13T16:59:37.911387+00:00",
+  "count": 3090,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90919",
+      "datetime": "2026.08.13. 18:58",
+      "title": "Baleset történt Gyömrő és Üllő között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90919",
+      "lead": "Irányítás mellett halad a forgalom a 3124-es út érintett szakaszán.",
+      "body": "Összeütközött két gépkocsi Gyömrő és Üllő között, a 3124-es út 5-ös kilométerszelvényénél. Az ütközés következtében az egyik jármű elhagyta az úttestet, és a kukoricásban állt meg. A monori hivatásos és a gyömrői önkéntes tűzoltók mellett a társhatóságok is a helyszínen dolgoznak. A forgalom egy sávon, irányítás mellett halad a balesettel érintett útszakaszon.",
+      "location": "Gyömrő, 3124",
+      "updates": []
+    },
     {
       "id": "90918",
       "datetime": "2026.08.13. 18:53",
