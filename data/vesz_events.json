@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T11:27:34.454384+00:00",
-  "count": 3076,
+  "updated_at": "2026-08-13T11:31:22.088810+00:00",
+  "count": 3077,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90906",
+      "datetime": "2026.08.13. 13:28",
+      "title": "Összeütközött két autó az M7-esen, Velencénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90906",
+      "lead": "Forgalmi akadály alakult ki a Balaton felé vezető irányban.",
+      "body": "Két gépkocsi ütközött össze az M7-es autópálya 45-ös és 46-os kilométerszelvénye között, Velence térségében, a Balaton felé vezető oldalon. A járművekben összesen heten utaztak. A székesfehérvári hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, beavatkozásuk idejére csökkentett sebességgel halad a forgalom az érintett pályaszakaszon.",
+      "location": "Velence, M7",
+      "updates": []
+    },
     {
       "id": "90905",
       "datetime": "2026.08.13. 13:21",
@@ -93,14 +104,23 @@
     },
     {
       "id": "90897",
-      "datetime": "2026.08.13. 10:49",
+      "datetime": "2026.08.13. 10:49 -",
       "title": "Tarló ég Derekegyháznál",
-      "category": "Tűzeset",
+      "category": "Tarló ég Derekegyháznál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897",
       "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
       "body": "Kigyulladt a tarló és a száraz fű Derekegyház külterületén, a Tompai út közelében. Szalmabálák is égnek. Nagy területet érintenek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos tűzoltók oltanak. A tűz egy gabonaszárító üzemet, valamint méhkaptárakat is veszélyeztetett, de ezeket megvédték az egységek, és megakadályozták a lángok továbbterjedését.",
       "location": "Derekegyház, Tompai út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a derekegyházi tüzet",
+          "datetime": "2026.08.13. 13:29",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Derekegyház külterületén, a Tompai út közelében keletkezett. Tarló, száraz fű és mintegy húsz-huszonöt nagyméretű szalmabála égett. Körülbelül húsz hektárt érintettek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos, valamint a szentesi önkéntes tűzoltók fékeztek meg. A bálák oltását erőgépek is segítették.",
+          "location": "Derekegyház, Tompai út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90897"
+        }
+      ]
     },
     {
       "id": "90896",
