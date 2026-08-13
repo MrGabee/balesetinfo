@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:01:04.265954+00:00",
+  "updated_at": "2026-08-13T08:05:57.419403+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -40,9 +40,9 @@
       "title": "Egymásnak ütközött két autó Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90894",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád út és a Rózsa utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személyautó Újpesten, az Árpád út és a Rózsa utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Rózsa utca",
       "updates": []
     },
     {
@@ -350,19 +350,10 @@
       "title": "Kigyulladt egy lakóház Sajószentpéteriben",
       "category": "Kigyulladt egy lakóház Sajószentpéteriben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90873",
-      "lead": "A Tulipán utcába riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy lakóház Sajószentpéteriben, a Tulipán utcában. A kazincbarcikai és aggteleki hivatásos tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart. A rajok egy gázpalackot hoztak ki az épületből.",
-      "location": "Sajószentpéter, Tulipán utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Sajószentpéteriben",
-          "datetime": "2026.08.12. 14:58",
-          "category": "Tűzeset",
-          "text": "A kazincbarcikai és aggteleki hivatásos tűzoltók eloltották a lángokat Sajószentpéteriben, ahol egy lakóház égett a Tulipán utcában. A rajok két gázpalackot is kihoztak az épületből. A helyszínre egy kazincbarcikai vízszállító is érkezett.",
-          "location": "Sajószentpéter, Tulipán utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90873/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90873"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "90872",
@@ -400,14 +391,6 @@
           "text": "Nagy erőkkel dolgoznak a tűzoltók Öskün, ahol a Mecset és az Ibolya utca közelében gyulladt meg a száraz füves vegetáció. A tűz körülbelül húsz hektárt érint, egy melléképület teljesen leégett. A tűz egyik gócpontja a Hegyalja úton volt, ahol több ház telkét is érintették a lángok. Az ajkai, a veszprémi, a kisbéri, a sárbogárdi, a pápai, a badacsonytomaji, a siófoki, a pannonhalmai és a székesfehérvári hivatásos tűzoltók dolgoznak a lángok körülhatárolásán. Az oltásban a honvédség és a civil lakosság is részt vesz.",
           "location": "Öskü, Ibolya utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
-        },
-        {
-          "title": "Eloltották a lángokat Öskünél",
-          "datetime": "2026.08.13. 06:44",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Öskünél, ahol körülbelül húsz hektárnyi területen égett az aljnövényzet a Mecset és az Ibolya utca közelében. A tűz egyik gócpontja a Hegyalja úton volt, ahol több ház telkét is érintették a lángok. Az ajkai, a veszprémi, a kisbéri, a sárbogárdi, a pápai, a badacsonytomaji, a siófoki, a pannonhalmai és a székesfehérvári hivatásos tűzoltók, a Veszprém vármegyei tűzoltósági főfelügyelő irányítása mellett oltották el a lángokat. Az oltásban a honvédség és a civil lakosság is részt vett.",
-          "location": "Öskü, Ibolya utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
         }
       ]
     },
@@ -573,9 +556,9 @@
       "title": "Utoléréses baleset az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90856",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Felsőpakony közelében áramtalanították a járműveket.",
+      "body": "Összeütközött két személyautó az M5-ös autópálya Budapest felé vezető oldalán, Felsőpakony közelében, a 25. és a 26 kilométer között. Utoléréses baleset történt. A dabasi hivatásos tűzoltók áramtalanították a járműveket, amelyek a belső sávban akadályozzák a forgalmat.",
+      "location": "Felsőpakony, M5",
       "updates": []
     },
     {
@@ -604,9 +587,9 @@
       "title": "Összeütközött két autó Tápiószecsőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90854",
-      "lead": "A Rákóczi út és a Rózsafa utca kereszteződésében van szükség műszaki mentésre.",
-      "body": "Két személyautó ütközött össze Tápiószecsőn, a Rákóczi út és a Rózsafa utca kereszteződésében. A baleset következtében az egyik gépkocsi a tetejére borult. A műszaki mentést a nagykátai hivatásos és a tápiószecsői önkéntes tűzoltók végzik. A helyszínre mentő is érkezett.",
-      "location": "Tápiószecső, Rákóczi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -615,9 +598,9 @@
       "title": "Karambolozott két autó Nagycenken",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90853",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kövesmezei út és a Cukorgyári út kereszteződésénél forgalmi akadály van.",
+      "body": "Összeütközött személygépkocsi és egy kisteherautó Nagycenken, a Kövesmezei út és a Cukorgyári út kereszteződésében. A sopronkövesdi hivatásos és a nagycenki önkéntes tűzoltók vonultak ki a balesethez. A rajok áramtalanították az egyik járművet. A karambol helyszínén forgalmi akadály van.",
+      "location": "Nagycenk, Kövesmezei út",
       "updates": []
     },
     {
@@ -637,9 +620,9 @@
       "title": "Két autó ütközött a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90851",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nagyrédénél történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Nagyrédénél, a 3-as főút 77-es kilométerénél, a 24139-es út kereszteződésénél. A gyöngyösi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Nagyréde, 3",
       "updates": []
     },
     {
