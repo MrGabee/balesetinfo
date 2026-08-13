@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T09:52:50.881239+00:00",
+  "updated_at": "2026-08-13T09:57:58.943598+00:00",
   "count": 3070,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -436,6 +436,14 @@
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
         },
         {
+          "title": "Nagy erőkkel dolgoznak a tűzoltók Öskün",
+          "datetime": "2026.08.12. 19:58",
+          "category": "Tűzeset",
+          "text": "Nagy erőkkel dolgoznak a tűzoltók Öskün, ahol a Mecset és az Ibolya utca közelében gyulladt meg a száraz füves vegetáció. A tűz körülbelül húsz hektárt érint, egy melléképület teljesen leégett. A tűz egyik gócpontja a Hegyalja úton volt, ahol több ház telkét is érintették a lángok. Az ajkai, a veszprémi, a kisbéri, a sárbogárdi, a pápai, a badacsonytomaji, a siófoki, a pannonhalmai és a székesfehérvári hivatásos tűzoltók dolgoznak a lángok körülhatárolásán. Az oltásban a honvédség és a civil lakosság is részt vesz.",
+          "location": "Öskü, Ibolya utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
+        },
+        {
           "title": "Eloltották a lángokat Öskünél",
           "datetime": "2026.08.13. 06:44",
           "category": "Tűzeset",
@@ -462,9 +470,9 @@
       "title": "Kigyulladt egy melléképület Ácson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90867",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy melléképület Ácson, a Táncsics Mihály utcában. A helyi önkormányzati és önkéntes tűzoltók három vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Ács, Táncsics Mihály utca",
       "updates": []
     },
     {
@@ -473,9 +481,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 6-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90862",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Adony és Rácalmás között egy sávon halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 6-os főút Adony és Rácalmás között, az 54-es kilométerszelvény között. A balesethez a pusztaszabolcsi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Adony, 6",
       "updates": []
     },
     {
@@ -495,6 +503,14 @@
           "text": "Körülhatárolták a tüzet Hidasnémetiben, ahol vasúti talpfák gyulladtak meg az M30-as autópálya közelében. A gönci, encsi, tolcsvai és szerencsi hivatásos tűzoltók légzésvédelem mellett, a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre homlokrakodó is érkezett.",
           "location": "Hidasnémeti, Petőfi út",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90861"
+        },
+        {
+          "title": "Elhúzódó munkálatokra kell számítani Hidasnémetiben",
+          "datetime": "2026.08.12. 19:27",
+          "category": "Tűzeset",
+          "text": "Elhúzódó munkálatokra kell számítani Hidasnémetiben, ahol hulladék vasúti talpfa kupac gyulladt meg az M30-as autópálya közelében. A gönci, encsi, tolcsvai és szerencsi hivatásos tűzoltók légzésvédelem mellett körülhatárolták a lángokat. A kilencszáz köbméternyi rakat egy munkagépekkel megbontották, a nagy hőterhelés miatt a munkálatokat a holnapi napon tudják folytatni az egységek. A tűz oltását a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Hidasnémeti, Petőfi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90861"
         },
         {
           "title": "A leégetést felügyelik, a környezet védelmét biztosítják a tűzoltók Hidasnémetiben",
@@ -543,6 +559,14 @@
           "text": "Körülhatárolták a tüzet Tiszavasváriban, ahol több telek végében ég a bozótos az Erdő utcánál. A tűz körülbelül öt hektárnyi területet érint. A hajdúnánási, nyíregyházi hivatásos és a tiszavasvári önkormányzati tűzoltók, a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, hat vízsugárral oltják a lángokat. A helyszínre két munkagép, valamint egy debreceni és egy nyíregyházi vízszállító is érkezett.",
           "location": "Tiszavasvári, Erdő utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90859/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90859"
+        },
+        {
+          "title": "Eloltották a tüzet Tiszavasváriban",
+          "datetime": "2026.08.12. 16:13",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Tiszavasváriban, ahol több telek végében égett a bozótos az Erdő utcánál. A tűz körülbelül huszonöt hektárnyi területet érintett. A hajdúnánási, nyíregyházi hivatásos és a tiszavasvári önkormányzati tűzoltók, a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a lángokat. A helyszínen két munkagép, valamint egy debreceni és egy nyíregyházi vízszállító is segíti a munkálatokat.",
+          "location": "Tiszavasvári, Erdő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90859/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90859"
         }
       ]
     },
@@ -613,7 +637,16 @@
       "lead": "A Liszt Ferenc utcában oltják a lángokat.",
       "body": "Teljes terjedelmében ég egy autószerelő műhely Berettyóújfalun, a Liszt Ferenc utcában. A helyi hivatásos tűzoltók jelenleg négy vízsugárral dolgoznak a lángok megfékezésén. Több egység is a helyszínre tart.",
       "location": "Berettyóújfalu, Liszt Ferenc utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Berettyóújfalun",
+          "datetime": "2026.08.12. 12:28",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Berettyóújfaluban, ahol egy autószerelő műhelyként használt melléképület égett a Liszt Ferenc utcában. A tűz átterjedt a mellé épített családi ház egy részére is. A szomszédos épületből két embert kimenekítettek. A berettyóújfalui és hajdúszoboszlói hivatásos tűzoltók két dissou palackot hoztak ki a helyiségből, majd eloltották a lángokat. A munkálatokat a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Berettyóújfalu, Liszt Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90855/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90855"
+        }
+      ]
     },
     {
       "id": "90854",
