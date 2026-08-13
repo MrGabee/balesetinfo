@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T12:48:16.453816+00:00",
-  "count": 3079,
+  "updated_at": "2026-08-13T12:52:31.271984+00:00",
+  "count": 3080,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90909",
+      "datetime": "2026.08.13. 14:51",
+      "title": "Kigyulladt az aljnövényzet Kömlőn",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90909",
+      "lead": "Lakóházakat is veszélyeztetnek a lángok.",
+      "body": "Lángra kapott a száraz fű Kömlőn, a Fő utca és a Petőfi Sándor utca közelében. Mintegy öt hektárra terjedt ki a tűz, amely több lakóházat is veszélyeztet. Az egyik tetőszerkezetében már bele is kapott, de megfékezték a tiszanánai önkormányzati tűzoltók. A hevesi hivatásos tűzoltók is oltják a lángokat, és további egységek is a helyszínre tartanak.",
+      "location": "Kömlő, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "90908",
       "datetime": "2026.08.13. 14:36",
