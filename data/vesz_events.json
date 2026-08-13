@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T18:28:13.642932+00:00",
-  "count": 3090,
+  "updated_at": "2026-08-13T18:32:18.866091+00:00",
+  "count": 3091,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90920",
+      "datetime": "2026.08.13. 20:32",
+      "title": "Két autó karambolozott a VII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90920",
+      "lead": "Forgalmi akadály van a Rákóczi út és az Erzsébet körút sarkán.",
+      "body": "Két gépkocsi karambolozott a VII. kerületben, a Rákóczi út és az Erzsébet körút sarkán. Csak a vezetők utaztak a járművekben, amelyek közül az egyiket a fővárosi hivatásos tűzoltók áramtalanították. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Budapest, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "90919",
       "datetime": "2026.08.13. 18:58",
