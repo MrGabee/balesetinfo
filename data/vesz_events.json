@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T13:08:41.463274+00:00",
-  "count": 3080,
+  "updated_at": "2026-08-13T13:13:23.503112+00:00",
+  "count": 3081,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90910",
+      "datetime": "2026.08.13. 15:10",
+      "title": "Karambol Rákospalotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90910",
+      "lead": "A Pázmány Péter utcában dolgoznak a tűzoltók.",
+      "body": "Frontálisan összeütközött két személyautó Budapest XV. kerületében, a Pázmány Péter utcában. A fővárosi hivatásos és az újpesti önkéntes tűzoltók vonultak ki a balesethez. Az egységek áramtalanították a járműveket. A mentők is megérkeztek a karambol helyszínére, ahol forgalmi akadály lehet.",
+      "location": "Budapest, Pázmány Péter utca",
+      "updates": []
+    },
     {
       "id": "90909",
       "datetime": "2026.08.13. 14:51",
