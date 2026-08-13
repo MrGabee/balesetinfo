@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T11:17:22.951807+00:00",
-  "count": 3075,
+  "updated_at": "2026-08-13T11:22:29.381512+00:00",
+  "count": 3076,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90905",
+      "datetime": "2026.08.13. 13:21",
+      "title": "Árokba borult egy autó az M7-esen, Siófoknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90905",
+      "lead": "A sóstói pihenőnél végeznek műszaki mentést a tűzoltók.",
+      "body": "Felborult egy személyautó az M7-es autópálya Letenye felé vezetőoldalán, Siófok közelében, a sóstói pihenőben. Az árokban, az oldalán van a jármű, amelyben ketten utaztak, mindketten ki tudtak szállni. A siófoki hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínen vannak a mentők is.",
+      "location": "Siófok, M7",
+      "updates": []
+    },
     {
       "id": "90904",
       "datetime": "2026.08.13. 13:02",
