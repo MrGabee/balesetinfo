@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T03:12:20.705747+00:00",
-  "count": 3063,
+  "updated_at": "2026-08-13T03:16:24.369439+00:00",
+  "count": 3064,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90893",
+      "datetime": "2026.08.13. 05:14",
+      "title": "Beizzott egy szeméttelep Adonynál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893",
+      "lead": "A 6208-as út közelében dolgoznak a tűzoltók.",
+      "body": "Beizzott és égett egy adonyi szeméttelep, a 6208-as út közelében. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók három munkagép segítségével oltják a hulladékot, amelynek már lánggal való égését megszüntették. A helyszínre egy székesfehérvári vízszállító is érkezett.",
+      "location": "Adony, 6208",
+      "updates": []
+    },
     {
       "id": "90892",
       "datetime": "2026.08.13. 00:11",
