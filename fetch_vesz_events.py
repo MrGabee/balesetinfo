@@ -328,10 +328,25 @@ def main():
     # még jöhetnek új frissítések - a régebbieknél a gyorsítótár elég.
     UJRAFRISSITES_ORA_HATAR = 48
 
+    def cached_updates_regi_formatumu(cached):
+        """A frissítések formátuma egyszer megváltozott (sima szövegekből
+        strukturált cím+szöveg+helyszín adatra) - ha a gyorsítótárban még
+        a régi (sima szöveges lista) formátum van, azt újra le kell
+        kérdezni, különben a PHP nem tud belőle semmit kiolvasni."""
+        if not cached:
+            return False
+        updates = cached.get("updates")
+        if not updates:
+            return False
+        return isinstance(updates[0], str)
+
     uj_lekerdezes_szamlalo = 0
     for ev in sorted_events:
         cached = existing.get(ev["id"])
-        eleg_friss_hogy_ujra_lekerdezzuk = esemeny_kora_orakban(ev) <= UJRAFRISSITES_ORA_HATAR
+        eleg_friss_hogy_ujra_lekerdezzuk = (
+            esemeny_kora_orakban(ev) <= UJRAFRISSITES_ORA_HATAR
+            or cached_updates_regi_formatumu(cached)
+        )
 
         # Ha a lista-nézet "N db frissítés" típusú álcímet ad (ez a BM OKF
         # saját, állandó viselkedése az updatelt eseményeknél, nem egyszeri
