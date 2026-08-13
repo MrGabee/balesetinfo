@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T10:19:10.487033+00:00",
-  "count": 3071,
+  "updated_at": "2026-08-13T10:23:58.519156+00:00",
+  "count": 3072,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90901",
+      "datetime": "2026.08.13. 12:19",
+      "title": "Szalagkorlátnak hajtott egy autó a 33-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90901",
+      "lead": "Debrecen közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lesodródott az úttestről és szalagkorlátnak ütközött egy személyautó Debrecen közelében, a 33-as főút és a 3316-os út elágazásánál lévő körforgalomnál. A járműben egy ember utazott, hozzá mentők érkeztek a helyszínre. A debreceni hivatásos tűzoltók áramtalanítják a gépkocsit. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Debrecen, 33",
+      "updates": []
+    },
     {
       "id": "90900",
       "datetime": "2026.08.13. 12:07",
