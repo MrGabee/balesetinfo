@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T05:58:14.451712+00:00",
-  "count": 3066,
+  "updated_at": "2026-08-13T06:03:45.364174+00:00",
+  "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90896",
+      "datetime": "2026.08.13. 08:02",
+      "title": "Árokba csapódott egy autó a 8-ason, Karakószörcsöknél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90896",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Árokba csapódott, majd egy fás, bokros területen a tetejére borult egy gépkocsi a 8-as főút 105-ös kilométerszelvényénél, Karakószörcsök térségében. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. Az ajkai hivatásos tűzoltók motoros láncfűrész segítségével tisztítják meg az autó környezetét, majd a helyszínelést követően kerekeire állítják a járművet. A hatósági beavatkozás idejére félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Karakószörcsök, 8",
+      "updates": []
+    },
     {
       "id": "90895",
       "datetime": "2026.08.13. 07:40",
