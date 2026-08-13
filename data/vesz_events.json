@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T14:10:58.479388+00:00",
-  "count": 3085,
+  "updated_at": "2026-08-13T14:14:30.602098+00:00",
+  "count": 3086,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90915",
+      "datetime": "2026.08.13. 16:14",
+      "title": "Kigyulladt egy raktár Szolnokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915",
+      "lead": "A Keszeg utcában csaptak fel a lángok, amelyeket nagy erőkkel oltanak a tűzoltók.",
+      "body": "Tűz ütött ki egy raktárban, Szolnokon, a Keszeg utcában. A szolnoki hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat, és a helyszínre tart több más egység is. A rajok több, targoncák üzemeltetéséhez szükséges gázpalackot kihoztak a mintegy ezerötszáz négyzetméter alapterületű épületből, amelyben egyebek között bútorokat, építő- és szigetelőanyagokat tárolnak.",
+      "location": "Szolnok, Keszeg utca",
+      "updates": []
+    },
     {
       "id": "90914",
       "datetime": "2026.08.13. 15:42",
