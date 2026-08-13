@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T07:55:05.402421+00:00",
+  "updated_at": "2026-08-13T08:01:04.265954+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -40,9 +40,9 @@
       "title": "Egymásnak ütközött két autó Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90894",
-      "lead": "Az Árpád út és a Rózsa utca kereszteződésében történt a baleset.",
-      "body": "Összeütközött két személyautó Újpesten, az Árpád út és a Rózsa utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
-      "location": "Budapest, Rózsa utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -168,9 +168,9 @@
       "title": "Ráfutásos baleset Szombathelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90884",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Paragvári utcában egy sávon halad a forgalom.",
+      "body": "Négy személyautó karambolozott Szombathelyen, a Paragvári utcában. A ráfutásos baleset a Hargita utca és a Forró utca közötti szakaszon történt. A város hivatásos tűzoltói az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Szombathely, Paragvári utca",
       "updates": []
     },
     {
@@ -199,9 +199,9 @@
       "title": "Baleset történt Kiskunhalason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90882",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Jókai utca és a Csokonai utca kereszteződésénél van szükség műszaki mentésre.",
+      "body": "Két személyautó ütközött össze Kiskunhalason, a Jókai utca és a Csokonai utca kereszteződésénél. A kiskunhalasi hivatásos tűzoltók feszítővágó segítségével egy embert kiemeltek az egyik gépkocsiból, majd átadták őt a mentőknek. A rajok áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kiskunhalas, Jókai utca",
       "updates": []
     },
     {
@@ -224,7 +224,16 @@
       "lead": "A 22-es főút közelében csaptak fel a lángok.",
       "body": "Tűz van egy hulladék-lerakóban Salgótarján külterületén, a 22-es főút közelében. A salgótarjáni hivatásos tűzoltók a Nógrád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. Több egység is a helyszínre tart.",
       "location": "Salgótarján, Hulladék-lerakó út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Salgótarján külterületén",
+          "datetime": "2026.08.12. 19:04",
+          "category": "Tűzeset",
+          "text": "Körülhatárolták a lángokat Salgótarján külterületén, ahol egy hulladék-lerakó gyulladt ki a 22-es főút közelében. Mintegy ezerötszáz négyzetméteren ég a szemét. A salgótarjáni, egri, balassagyarmati, bátonyterenyei, berceli és szécsényi hivatásos tűzoltók a Nógrád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját öt munkagép és egy ózdi és egy salgótarjáni vízszállító is segíti.",
+          "location": "Salgótarján, Hulladék-lerakó út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90880/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90880"
+        }
+      ]
     },
     {
       "id": "90879",
@@ -330,9 +339,9 @@
       "title": "Egymásnak ütközött két autó Budapest VIII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90874",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kőbányai úton történt a baleset.",
+      "body": "Összeütközött két személyautó Budapest VIII. kerületében, a Kőbányai úton. Az Orczy tér és a Könyves Kálmán körút között történt balesetnél a fővárosi hivatásos tűzoltók végeznek műszaki mentést. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Kőbányai út",
       "updates": []
     },
     {
@@ -522,6 +531,22 @@
       "location": "Várpalota, Széphegy dűlő",
       "updates": [
         {
+          "title": "Várpalotai tűz: kimentettek egy embert a tűzoltók",
+          "datetime": "2026.08.12. 13:42",
+          "category": "Tűzeset",
+          "text": "Egy embert létrával lementettek a tűzoltók egy épület erkélyéről Várpalota külterületén, a Széphegy dűlőn, ahol több hektáron ég egy füves, fás terület, és két présházra is átterjedt a tűz. A pétfürdői, a veszprémi, a balatonfűzfői, a székesfehérvári és a siófoki hivatásos tűzoltók oltják a lángokat. A Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja a munkálatokat, amelyeket nehezít az erős szél is.",
+          "location": "Várpalota, Széphegy dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90858/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90858"
+        },
+        {
+          "title": "Nem terjed tovább a várpalotai tűz",
+          "datetime": "2026.08.12. 15:35",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a lángok továbbterjedését Várpalota külterületén, a Széphegy dűlőn, ahol kigyulladt és több ponton égett egy füves, bokros, cserjés terület. A tűz présházakra is átterjedt. Az egyik erkélyéről létrával mentettek le egy embert a tűzoltók. A pétfürdői, a veszprémi, a balatonfűzfői, a székesfehérvári és a siófoki hivatásos egységek a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+          "location": "Várpalota, Széphegy dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90858/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90858"
+        },
+        {
           "title": "Eloltották a várpalotai tüzet",
           "datetime": "2026.08.12. 17:07",
           "category": "Tűzeset",
@@ -548,9 +573,9 @@
       "title": "Utoléréses baleset az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90856",
-      "lead": "A tűzoltók Felsőpakony közelében áramtalanították a járműveket.",
-      "body": "Összeütközött két személyautó az M5-ös autópálya Budapest felé vezető oldalán, Felsőpakony közelében, a 25. és a 26 kilométer között. Utoléréses baleset történt. A dabasi hivatásos tűzoltók áramtalanították a járműveket, amelyek a belső sávban akadályozzák a forgalmat.",
-      "location": "Felsőpakony, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -590,9 +615,9 @@
       "title": "Karambolozott két autó Nagycenken",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90853",
-      "lead": "A Kövesmezei út és a Cukorgyári út kereszteződésénél forgalmi akadály van.",
-      "body": "Összeütközött személygépkocsi és egy kisteherautó Nagycenken, a Kövesmezei út és a Cukorgyári út kereszteződésében. A sopronkövesdi hivatásos és a nagycenki önkéntes tűzoltók vonultak ki a balesethez. A rajok áramtalanították az egyik járművet. A karambol helyszínén forgalmi akadály van.",
-      "location": "Nagycenk, Kövesmezei út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -612,9 +637,9 @@
       "title": "Két autó ütközött a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90851",
-      "lead": "Nagyrédénél történt a baleset.",
-      "body": "Két személygépkocsi karambolozott Nagyrédénél, a 3-as főút 77-es kilométerénél, a 24139-es út kereszteződésénél. A gyöngyösi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Nagyréde, 3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
