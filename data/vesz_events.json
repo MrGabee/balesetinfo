@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T05:18:21.740233+00:00",
-  "count": 3064,
+  "updated_at": "2026-08-13T05:23:35.636548+00:00",
+  "count": 3065,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90894",
+      "datetime": "2026.08.13. 07:23",
+      "title": "Egymásnak ütközött két autó Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90894",
+      "lead": "Az Árpád út és a Rózsa utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személyautó Újpesten, az Árpád út és a Rózsa utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Rózsa utca",
+      "updates": []
+    },
     {
       "id": "90893",
       "datetime": "2026.08.13. 05:14",
