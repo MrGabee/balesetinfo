@@ -7,7 +7,7 @@ on:
   schedule:
     # Biztonsági háló: ha az önindító lánc bármi okból megszakadna
     # (pl. GitHub API hiba), ez legkésőbb 15 percen belül újraindítja.
-    - cron: '*/15 * * * *'
+    - cron: '*/1 * * * *'
 
 concurrency:
   group: vesz-events
