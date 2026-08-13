@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:23:48.763671+00:00",
+  "updated_at": "2026-08-13T14:27:37.171053+00:00",
   "count": 3086,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "90913",
-      "datetime": "2026.08.13. 15:26",
+      "datetime": "2026.08.13. 15:26 -",
       "title": "Zalaapátinál is ég az aljnövényzet",
-      "category": "Tűzeset",
+      "category": "Zalaapátinál is ég az aljnövényzet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90913",
       "lead": "Egy erdősávot is veszélyeztetnek a lángok.",
       "body": "Kigyulladt az aljnövényzet Zalaapáti külterületén, a 75-ös főút közelében, az Öreghegy utcánál. Nehezen belátható, nagy területet érint, lábon álló napraforgóba is belekapott, és egy erdősávot is veszélyeztet a tűz. A pacsai hivatásos tűzoltók oltják a lángokat, és további egységek is a helyszínre tartanak.",
       "location": "Zalaapáti, Öreghegy utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már csak a füstölgő részeket oltják Zalaapátinál",
+          "datetime": "2026.08.13. 16:27",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zalaapáti külterületén, a 75-ös főút közelében, az Öreghegy utcánál, ahol kigyulladt az aljnövényzet. Lábon álló napraforgóba is belekapott, és egy erdősávot is veszélyeztet a tűz. A keszthelyi és a pacsai hivatásos tűzoltók három gócpontban oltották a lángokat, amelyek mintegy két és fél hektárra terjedtek ki. A rajok átvizsgálják a területet, és eloltják a még füstölgő részeket.",
+          "location": "Zalaapáti, Öreghegy utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90913/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90913"
+        }
+      ]
     },
     {
       "id": "90912",
