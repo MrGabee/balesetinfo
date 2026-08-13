@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:39:52.712835+00:00",
+  "updated_at": "2026-08-13T08:44:19.205989+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,16 +23,7 @@
       "lead": "Az 5301-es utat lezárták.",
       "body": "Árokba borult egy kisbusz Izsák és Páhi között, az 5301-es út 23-as kilométerszelvénynél. A szabadszállási, a kiskőrösi és a kecskeméti hivatásos tűzoltók öt embert kiemeltek a járműből, három személy még be van szorulva. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
       "location": "Izsák, 5301",
-      "updates": [
-        {
-          "title": "Kiemelték a hat embert a kisbuszból Izsák és Páhi között",
-          "datetime": "2026.08.13. 08:19",
-          "category": "Közlekedési baleset",
-          "text": "Kiemelték a hat embert a kisbuszból, ami árokba borult Izsák és Páhi között, az 5301-es út 23-as kilométerszelvénynél. A műszaki mentést a szabadszállási, a kiskőrösi és a kecskeméti hivatásos tűzoltók végezték, a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett. Az érintett útszakaszt teljes szélességében lezárták.",
-          "location": "Izsák, 5301",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90895/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90895"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90894",
@@ -370,9 +361,9 @@
       "title": "Hármas karambol Székesfehérvár és Pátka között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90872",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 811-es főúton félpályán halad a forgalom",
+      "body": "Három személyautó ütközött össze a 811-es főút Székesfehérvár és Pátka közötti szakaszán, a 10-es kilométerszelvény mellett. A székesfehérvári hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pátka, 811",
       "updates": []
     },
     {
@@ -385,6 +376,14 @@
       "body": "Tűz keletkezett Öskün, a Mecset és az Ibolya utca közelében. Több hektáron ég az aljnövényzet a vasúti töltés mentén. A tűz melléképületeket is érint, és lakóházakat veszélyeztet. Az ajkai és a kisbéri hivatásos tűzoltók oltják a lángokat, és a helyszínre indult több más egység is. A település mellett, a 8-as főúton, a 37. kilométer közelében összeütközött két személyautó. A veszprémi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon nagy a füst, ezért mindkét irányban leállították a forgalmat.",
       "location": "Öskü, Ibolya utca",
       "updates": [
+        {
+          "title": "Nagy területet érint az ösküi tűz",
+          "datetime": "2026.08.12. 15:27",
+          "category": "Tűzeset",
+          "text": "Mintegy tíz-tizenöt hektárt érint az a tűz, amely Öskün, a Mecset és az Ibolya utca közelében keletkezett. Száraz füves vegetáció gyulladt ki, és égett egy melléképület is, de a tűzoltók azt már eloltották. További lakóházakat veszélyeztetnek a lángok, amelyeket az ajkai, a veszprémi, a kisbéri, a sárbogárdi, a pápai, a badacsonytomaji és a székesfehérvári hivatásos egységek oltanak. A munkálatokat a Veszprém vármegyei tűzoltósági főfelügyelő irányítja.",
+          "location": "Öskü, Ibolya utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
+        },
         {
           "title": "Nagy erőkkel dolgoznak a tűzoltók Öskün",
           "datetime": "2026.08.12. 19:58",
@@ -452,13 +451,21 @@
           "category": "Tűzeset",
           "text": "Körülhatárolták a tüzet Hidasnémetiben, ahol vasúti talpfák gyulladtak meg az M30-as autópálya közelében. A gönci, encsi, tolcsvai és szerencsi hivatásos tűzoltók légzésvédelem mellett, a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre homlokrakodó is érkezett.",
           "location": "Hidasnémeti, Petőfi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90861"
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90861"
         },
         {
           "title": "Elhúzódó munkálatokra kell számítani Hidasnémetiben",
           "datetime": "2026.08.12. 19:27",
           "category": "Tűzeset",
           "text": "Elhúzódó munkálatokra kell számítani Hidasnémetiben, ahol hulladék vasúti talpfa kupac gyulladt meg az M30-as autópálya közelében. A gönci, encsi, tolcsvai és szerencsi hivatásos tűzoltók légzésvédelem mellett körülhatárolták a lángokat. A kilencszáz köbméternyi rakat egy munkagépekkel megbontották, a nagy hőterhelés miatt a munkálatokat a holnapi napon tudják folytatni az egységek. A tűz oltását a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Hidasnémeti, Petőfi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90861"
+        },
+        {
+          "title": "A leégetést felügyelik, a környezet védelmét biztosítják a tűzoltók Hidasnémetiben",
+          "datetime": "2026.08.13. 10:46",
+          "category": "Tűzeset",
+          "text": "A helyszíni leégetést felügyelik, valamint a környezet védelmét biztosítják jelenleg az encsi hivatásos tűzoltók Hidasnémetiben, ahol tegnap délelőtt hulladék vasúti talpfakupac gyulladt meg az M30-as autópálya közelében. A gönci, az encsi, a tolcsvai és a szerencsi hivatásos tűzoltók légzésvédelem mellett tegnap délután körülhatárolták a lángokat. A kilencszáz köbméternyi rakatot munkagépekkel megbontották. Az egységek a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett végezték a munkálatokat.",
           "location": "Hidasnémeti, Petőfi út",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90861/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90861"
         }
