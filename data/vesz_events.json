@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:27:58.497414+00:00",
+  "updated_at": "2026-08-13T04:32:01.872919+00:00",
   "count": 3064,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -234,6 +234,14 @@
       "body": "Tűz keletkezett egy füves, bokros területen, a Veszprém vármegyei Sóly és Öskü között, 8-as főút közelében. Lábon álló gabona és egy fenyves is ég. Nagy területre terjed ki a tűz, amelyet a siófoki, az ajkai és a dunaújvárosi hivatásos, valamint a balatonfüredi, a zirci, a sümegi és a lajoskomáromi önkéntes tűzoltók oltanak. A munkálatokat a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Elindult a tűzhöz több más egység is.",
       "location": "Sóly, Sóly külterülete",
       "updates": [
+        {
+          "title": "Honvédségi helikopter is segíti az oltást Sóly és Öskü között",
+          "datetime": "2026.08.12. 17:24",
+          "category": "Tűzeset",
+          "text": "Honvédségi helikopter is segíti az oltást Sóly és Öskü között, ahol füves, bokros terület ég a 8-as főút közelében. A siófoki, balatonfűzfői, ajkai, dunaújvárosi, pusztaszabolcsi, kaposvári hivatásos, valamint a lajoskomáromi, balatonfüredi, kővágóörsi önkéntes tűzoltók a tűz egyik oldalán már megállították a lángok továbbterjedését. A munkálatokat a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Sóly, Sóly külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90877/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90877"
+        },
         {
           "title": "Még vannak izzó gócpontok Sóly és Öskü között",
           "datetime": "2026.08.13. 06:27",
