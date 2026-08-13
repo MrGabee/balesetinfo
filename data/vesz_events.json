@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T16:39:43.343554+00:00",
-  "count": 3087,
+  "updated_at": "2026-08-13T16:44:25.136091+00:00",
+  "count": 3088,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90917",
+      "datetime": "2026.08.13. 18:42",
+      "title": "Hármas karambol történt Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90917",
+      "lead": "Forgalmi akadály alakult ki a belváros felé vezető oldalon.",
+      "body": "Három gépkocsi ütközött össze a XXI. kerületi II. Rákóczi Ferenc úton, a Vízmű lakótelep melletti szakaszon, a belváros felé vezető irányban. Összesen öten utaztak a járművekben, amelyek közül az egyiket a fővárosi hivatásos tűzoltók áramtalanították. A baleset miatt irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Budapest, II. Rákóczi Ferenc út",
+      "updates": []
+    },
     {
       "id": "90916",
       "datetime": "2026.08.13. 18:09 -",
@@ -12,7 +23,16 @@
       "lead": "A tűzoltók egy vízsugárral kezdték oltani a lángokat.",
       "body": "Mintegy hatszáz négyzetméteren ég a gaz és az avar a IX. kerületben, a Gyáli út, az Ecseri út ás az Üllői út által határolt területen. A fővárosi hivatásos tűzoltók egy vízsugárral kezdték oltani a lángokat. A helyszínre a katasztrófavédelmi műveleti szolgálat is kiérkezett, valamint fővárosi önkéntes tűzoltóegységek is elindultak az esethez.",
       "location": "Budapest, Ecseri út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Beizzásokat szüntetnek meg a tűzoltók a IX. kerületben",
+          "datetime": "2026.08.13. 18:37",
+          "category": "Tűzeset",
+          "text": "A tűzoltók körülhatárolták, majd eloltották a lángokat a IX. kerületben, ahol másfél hektáron égett a gaz és az avar a Gyáli út, az Ecseri út és az Üllői út által határolt területen. A fővárosi hivatásos tűzoltóegységek mellett a Foka ÖTE és a Lőrinc Kertváros ÖTE önkéntes tűzoltói is a helyszínre érkeztek, a katasztrófavédelmi műveleti szolgálat irányítása mellett négy vízsugárral és kéziszerszámokkal fojtották el a tüzet. Az egységek az utómunkálatok közben a beizzásokat derítik fel és szüntetik meg a területen.",
+          "location": "Budapest, Ecseri út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90916/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90916"
+        }
+      ]
     },
     {
       "id": "90915",
