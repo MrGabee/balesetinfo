@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T12:34:55.475115+00:00",
-  "count": 3078,
+  "updated_at": "2026-08-13T12:39:33.509565+00:00",
+  "count": 3079,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90908",
+      "datetime": "2026.08.13. 14:36",
+      "title": "Nagy területen ég a száraz fű Ózdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90908",
+      "lead": "A tűz az erdős részbe is belekapott.",
+      "body": "Nagy területen ég a száraz fű Ózdon, az Áchim András utca és a Hársfa utca utáni szakaszon. A lángok a fenyvest is elérték. Az aggteleki hivatásos tűzoltók egy vízsugárral, kéziszerszámokkal kezdték oltani a tüzet. A szendrői hivatásos tűzoltók, valamint Miskolc diósgyőri városrészének hivatásos tűzoltói is elindultak a helyszínre.",
+      "location": "Ózd, Áchim András utca",
+      "updates": []
+    },
     {
       "id": "90907",
       "datetime": "2026.08.13. 14:25",
