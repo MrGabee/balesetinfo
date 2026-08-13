@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T13:21:43.079967+00:00",
-  "count": 3082,
+  "updated_at": "2026-08-13T13:25:55.604024+00:00",
+  "count": 3083,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90912",
+      "datetime": "2026.08.13. 15:22",
+      "title": "Összeütközött két autó Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90912",
+      "lead": "A baleset a 610-es főút és a Hajnóczi József utca kereszteződésénél lassítja a forgalmat.",
+      "body": "Karambolozott két személyautó Kaposváron, a 610-es főút és a Hajnóczi József utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen négyen utaztak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposvár, Hajnóczi József utca",
+      "updates": []
+    },
     {
       "id": "90911",
       "datetime": "2026.08.13. 15:17",
