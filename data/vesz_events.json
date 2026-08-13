@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:35:02.069724+00:00",
+  "updated_at": "2026-08-13T08:39:52.712835+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -370,9 +370,9 @@
       "title": "Hármas karambol Székesfehérvár és Pátka között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90872",
-      "lead": "A 811-es főúton félpályán halad a forgalom",
-      "body": "Három személyautó ütközött össze a 811-es főút Székesfehérvár és Pátka közötti szakaszán, a 10-es kilométerszelvény mellett. A székesfehérvári hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pátka, 811",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -385,14 +385,6 @@
       "body": "Tűz keletkezett Öskün, a Mecset és az Ibolya utca közelében. Több hektáron ég az aljnövényzet a vasúti töltés mentén. A tűz melléképületeket is érint, és lakóházakat veszélyeztet. Az ajkai és a kisbéri hivatásos tűzoltók oltják a lángokat, és a helyszínre indult több más egység is. A település mellett, a 8-as főúton, a 37. kilométer közelében összeütközött két személyautó. A veszprémi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon nagy a füst, ezért mindkét irányban leállították a forgalmat.",
       "location": "Öskü, Ibolya utca",
       "updates": [
-        {
-          "title": "Nagy területet érint az ösküi tűz",
-          "datetime": "2026.08.12. 15:27",
-          "category": "Tűzeset",
-          "text": "Mintegy tíz-tizenöt hektárt érint az a tűz, amely Öskün, a Mecset és az Ibolya utca közelében keletkezett. Száraz füves vegetáció gyulladt ki, és égett egy melléképület is, de a tűzoltók azt már eloltották. További lakóházakat veszélyeztetnek a lángok, amelyeket az ajkai, a veszprémi, a kisbéri, a sárbogárdi, a pápai, a badacsonytomaji és a székesfehérvári hivatásos egységek oltanak. A munkálatokat a Veszprém vármegyei tűzoltósági főfelügyelő irányítja.",
-          "location": "Öskü, Ibolya utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90871/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90871"
-        },
         {
           "title": "Nagy erőkkel dolgoznak a tűzoltók Öskün",
           "datetime": "2026.08.12. 19:58",
