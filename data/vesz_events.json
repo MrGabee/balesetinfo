@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T12:21:06.062309+00:00",
-  "count": 3077,
+  "updated_at": "2026-08-13T12:26:10.794518+00:00",
+  "count": 3078,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90907",
+      "datetime": "2026.08.13. 14:25",
+      "title": "Fának hajtott egy autó Üllés térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90907",
+      "lead": "Félpályán halad a forgalom az 5408-as út érintett szakaszán.",
+      "body": "Fának ütközött egy gépkocsi Üllés térségében, az 5408-as út 28-as kilométerszelvényénél, a kanyarnál. Az ütközés erejétől kiszakadt a jármű akkumulátora. A ruzsai hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Üllés, 5408",
+      "updates": []
+    },
     {
       "id": "90906",
       "datetime": "2026.08.13. 13:28",
