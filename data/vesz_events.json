@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T10:59:37.087650+00:00",
-  "count": 3074,
+  "updated_at": "2026-08-13T11:03:22.700154+00:00",
+  "count": 3075,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90904",
+      "datetime": "2026.08.13. 13:02",
+      "title": "Fának hajtott egy autó Bükkaranyosnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90904",
+      "lead": "A tűzoltók az Ifjúság úton áramtalanították a gépkocsit.",
+      "body": "Fának ütközött egy személyautó Bükkaranyos határában, az Ifjúság úton. A balesetnél a miskolci hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította a gépkocsit.",
+      "location": "Bükkaranyos, Ifjúság út",
+      "updates": []
+    },
     {
       "id": "90903",
       "datetime": "2026.08.13. 12:44",
