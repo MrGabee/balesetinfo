@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:03:19.303668+00:00",
+  "updated_at": "2026-08-13T14:06:27.914770+00:00",
   "count": 3085,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "90909",
-      "datetime": "2026.08.13. 14:51",
+      "datetime": "2026.08.13. 14:51 -",
       "title": "Kigyulladt az aljnövényzet Kömlőn",
-      "category": "Tűzeset",
+      "category": "Kigyulladt az aljnövényzet Kömlőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90909",
       "lead": "Lakóházakat is veszélyeztetnek a lángok.",
-      "body": "Lángra kapott a száraz fű Kömlőn, a Fő utca és a Petőfi Sándor utca közelében. Mintegy öt hektárra terjedt ki a tűz, amely több lakóházat is veszélyeztet. Az egyik tetőszerkezetében már bele is kapott, de megfékezték a tiszanánai önkormányzati tűzoltók. A hevesi hivatásos tűzoltók is oltják a lángokat, és további egységek is a helyszínre tartanak.",
+      "body": "Lángra kapott a száraz fű Kömlőn, a Fő út és a Petőfi Sándor utca közelében. Mintegy öt hektárra terjedt ki a tűz, amely több lakóházat is veszélyeztet. Az egyik tetőszerkezetében már bele is kapott, de megfékezték a tiszanánai önkormányzati tűzoltók. A hevesi hivatásos tűzoltók is oltják a lángokat, és további egységek is a helyszínre tartanak.",
       "location": "Kömlő, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol a kömlői tűz",
+          "datetime": "2026.08.13. 16:04",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Kömlőn, a Fő út és a Petőfi Sándor utca közelében ütött ki. Száraz fű és szemét gyulladt ki. Lakóházakat is veszélyeztetett a tűz, de a korábbi értesülésektől eltérően egyiket sem érte el. Csak egy két négyzetméteres fáskamrára terjedtek át a lángok, ám azt is idejében eloltották a tűzoltók. Végül mintegy négy hektáron égett le a növényzet. A hevesi és a mezőkövesdi hivatásos, valamint a tiszanánai önkormányzati tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a tüzet. Az egységek már csak a még izzó szemétkupacokat oltják.",
+          "location": "Kömlő, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90909/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90909"
+        }
+      ]
     },
     {
       "id": "90908",
