@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T16:52:01.027719+00:00",
-  "count": 3088,
+  "updated_at": "2026-08-13T16:55:22.678458+00:00",
+  "count": 3089,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90918",
+      "datetime": "2026.08.13. 18:53",
+      "title": "Szalagkorlátnak ütközött egy autó az M44-esen, Szentkirálynál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90918",
+      "lead": "Egy sávon halad a forgalom a Kecskemét felé vezető oldalon.",
+      "body": "Szalagkorlátnak ütközött egy gépkocsi az M44-es autóút 27-es kilométerszelvényénél, Szentkirály térségében, a Kecskemét felé vezető irányban. A tiszakécskei önkormányzati tűzoltók áramtalanították a bajba került járművet. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol egy sávon halad a forgalom az érintett útszakaszon.",
+      "location": "Szentkirály, M44",
+      "updates": []
+    },
     {
       "id": "90917",
       "datetime": "2026.08.13. 18:42",
