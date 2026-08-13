@@ -70,7 +70,7 @@ def parse_events(html):
 # bejegyzést is beszúr ugyanahhoz az ID-hez, "1 frissítés", "2 frissítés"
 # stb. címmel - ez NEM a tényleges esemény címe, csak egy jelzés. Ez a
 # mintaillesztés ezt ismeri fel, hogy a valós címet sose írja felül vele.
-FRISSITES_CIM_MINTA = re.compile(r"^\d+\s*friss", re.IGNORECASE)
+FRISSITES_CIM_MINTA = re.compile(r"^\d+\D{0,10}friss", re.IGNORECASE)
 
 
 def merge_events_preferring_real_title(events_list):
