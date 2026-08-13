@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T07:35:42.411110+00:00",
+  "updated_at": "2026-08-13T07:39:50.573289+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -303,24 +303,7 @@
       "lead": "A tűz körülbelül három hektárnyi területet érint.",
       "body": "Kigyulladt a száraz avar Érd határában, a Júlia utca közelében. A tűz körülbelül három hektárnyi területet érint. Az érdi és a fővárosi hivatásos tűzoltók két vízsugárral és motoros permetezővel oltják a lángokat.",
       "location": "Érd, Júlia utca",
-      "updates": [
-        {
-          "title": "Körülhatárolták a tüzet Érd határában",
-          "datetime": "2026.08.12. 18:15",
-          "category": "Tűzeset",
-          "text": "Körülhatárolták a tüzet Érd határában, ahol egy gyümölcsös gyulladt meg a Júlia utca közelében. A tűz körülbelül öt hektárnyi területet érint. Az érdi és a fővárosi hivatásos valamint a százhalombattai létesítményi tűzoltók tizenegy vízsugárral oltják a lángokat. A munkálatokat egy szigetszentmiklósi és egy monori vízszállító is segíti.",
-          "location": "Érd, Júlia utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90876/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90876"
-        },
-        {
-          "title": "Már az utómunkálatokat végzik Érden",
-          "datetime": "2026.08.12. 20:01",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Érden, ahol egy gyümölcsös gyulladt meg a Júlia utca közelében. A tűz körülbelül öt hektárnyi területet érintett. Az érdi és a fővárosi hivatásos valamint a százhalombattai létesítményi tűzoltók tizenegy vízsugárral eloltották a lángokat. A rajok további izzó részek után kutatnak.",
-          "location": "Érd, Júlia utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90876/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90876"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90875",
@@ -328,9 +311,9 @@
       "title": "Fának hajtott egy autó a 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90875",
-      "lead": "Kamondnál végeznek műszaki mentést a tűzoltók.",
-      "body": "Fának ütközött egy személyautó a 8-as főúton, Kamond közelében, a 108. és a 109. kilométer között. A celldömölki önkormányzati tűzoltó végzik a műszaki mentést a balesetnél, amelynek helyszínére mentőhelikoptert is érkezett-. A raj áramtalanította a gépkocsit. Az érintett útszakaszt félpályán lezárták.",
-      "location": "Kamond, 8",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -339,9 +322,9 @@
       "title": "Egymásnak ütközött két autó Budapest VIII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90874",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kőbányai úton történt a baleset.",
+      "body": "Összeütközött két személyautó Budapest VIII. kerületében, a Kőbányai úton. Az Orczy tér és a Könyves Kálmán körút között történt balesetnél a fővárosi hivatásos tűzoltók végeznek műszaki mentést. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Kőbányai út",
       "updates": []
     },
     {
