@@ -105,6 +105,10 @@ def fetch_event_detail(url):
         if not h2:
             return {}
 
+        # A h2 tartalmazza a VALÓDI címet - ez akkor is helyes, ha az
+        # archívum-listában "N db frissítés" áll a helyén.
+        real_title = h2.get_text(strip=True)
+
         blocks = []
         update_blocks = []
         in_updates = False
@@ -155,7 +159,7 @@ def fetch_event_detail(url):
         lead = content_blocks[0] if content_blocks else ""
         body = "\n\n".join(content_blocks[1:]) if len(content_blocks) > 1 else ""
 
-        return {"lead": lead, "body": body, "location": helyszin, "updates": update_blocks}
+        return {"title": real_title, "lead": lead, "body": body, "location": helyszin, "updates": update_blocks}
     except Exception as e:
         print(f"      ⚠️  Részlet lekérdezési hiba ({url}): {e}")
         return {}
@@ -231,6 +235,13 @@ def main():
         cached = existing.get(ev["id"])
         eleg_friss_hogy_ujra_lekerdezzuk = esemeny_kora_orakban(ev) <= UJRAFRISSITES_ORA_HATAR
 
+        # Ha a lista-nézet "N db frissítés" típusú álcímet ad (ez a BM OKF
+        # saját, állandó viselkedése az updatelt eseményeknél, nem egyszeri
+        # hiba), és korábban már sikerült kinyerni a valódi címet a
+        # részletoldalról, azt használjuk a lista-álcíme helyett.
+        if FRISSITES_CIM_MINTA.match(ev["title"]) and cached and cached.get("title") and not FRISSITES_CIM_MINTA.match(cached["title"]):
+            ev["title"] = cached["title"]
+
         if cached and cached.get("body") and not eleg_friss_hogy_ujra_lekerdezzuk:
             # Régi esemény, már van részlete gyorsítótárban - nem valószínű,
             # hogy még frissülne, nem kérdezzük le újra
@@ -250,6 +261,10 @@ def main():
             continue
 
         detail = fetch_event_detail(ev["url"])
+        # A részletoldal h2-jéből kinyert valódi cím felülírja a lista
+        # esetleges "N db frissítés" álcímét
+        if detail.get("title") and not FRISSITES_CIM_MINTA.match(detail["title"]):
+            ev["title"] = detail["title"]
         ev["lead"] = detail.get("lead", "")
         ev["body"] = detail.get("body", "")
         ev["location"] = detail.get("location", "")
