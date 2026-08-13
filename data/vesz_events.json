@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-13T10:04:00.116482+00:00",
-  "count": 3070,
+  "updated_at": "2026-08-13T10:09:37.166691+00:00",
+  "count": 3071,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90900",
+      "datetime": "2026.08.13. 12:07",
+      "title": "Ég a bozótos Arlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900",
+      "lead": "A tűzoltók kéziszerszámokkal kezdték oltani a lángokat.",
+      "body": "A bozótos, a száraz fű ég Arlón, a Dózsa György út melletti területen. Az ózdi hivatásos és a borsodnádasdi önkéntes tűzoltók kéziszerszámokkal oltják a lángokat, munkájukat az erős szél nehezíti. A helyszínre tartanak a pétervásárai és az egri hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Arló, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "90899",
       "datetime": "2026.08.13. 11:22",
