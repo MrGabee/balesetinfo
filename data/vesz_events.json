@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T18:57:27.610688+00:00",
-  "count": 3122,
+  "updated_at": "2026-08-14T19:02:13.405569+00:00",
+  "count": 3123,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90952",
+      "datetime": "2026.08.14. 20:59",
+      "title": "Trágya ég Tárnokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90952",
+      "lead": "A Hazatérők útjánál dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében ég háromszáz köbméter trágya Tárnokon, a Hazatérők útjánál. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett az érdi és a törökbálinti hivatásos, illetve a tárnoki önkéntes tűzoltók oltják a lángokat. Az egységek elhúzódó munkáját egy munkagép is segíti.",
+      "location": "Tárnok, Hazatérők útja",
+      "updates": []
+    },
     {
       "id": "90951",
       "datetime": "2026.08.14. 20:31",
