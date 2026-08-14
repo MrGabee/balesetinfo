@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T06:34:25.277911+00:00",
-  "count": 3092,
+  "updated_at": "2026-08-14T06:38:13.070638+00:00",
+  "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90922",
+      "datetime": "2026.08.14. 08:35",
+      "title": "Karambol Vácon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90922",
+      "lead": "A Deákvári főtéren lassítja a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó Vácon, a Deákvári főtéren. A város hivatásos tűzoltói végzik vonultak ki a balesethez, és áramtalanítják az egyik gépkocsit. Az érintett útszakaszon váltakozó irányban, félpályán halad a forgalom.",
+      "location": "Vác, Deákvári főtér",
+      "updates": []
+    },
     {
       "id": "90921",
       "datetime": "2026.08.14. 07:27",
