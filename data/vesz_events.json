@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T10:44:10.555713+00:00",
-  "count": 3101,
+  "updated_at": "2026-08-14T10:48:19.814074+00:00",
+  "count": 3102,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90931",
+      "datetime": "2026.08.14. 12:47",
+      "title": "Autó égett Gödöllőn",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90931",
+      "lead": "A Napsugár utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi és a körülötte lévő száraz fű Gödöllőn, a Napsugár utcában. A gödöllői hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Gödöllő, Napsugár utca",
+      "updates": []
+    },
     {
       "id": "90930",
       "datetime": "2026.08.14. 12:24",
