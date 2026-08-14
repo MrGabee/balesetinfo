@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T12:17:34.362610+00:00",
-  "count": 3106,
+  "updated_at": "2026-08-14T12:21:48.538818+00:00",
+  "count": 3107,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90936",
+      "datetime": "2026.08.14. 14:21",
+      "title": "Karambol Budakalászon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90936",
+      "lead": "Az 1108-as utat teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi az 1108-as út és a Széchenyi utca kereszteződésében, Budakalászon, a 8-as kilométerszelvény közelében. A pomázi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budakalász, Széchenyi utca",
+      "updates": []
+    },
     {
       "id": "90935",
       "datetime": "2026.08.14. 13:58",
