@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T17:45:36.205071+00:00",
-  "count": 3119,
+  "updated_at": "2026-08-14T17:48:52.528709+00:00",
+  "count": 3120,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90949",
+      "datetime": "2026.08.14. 19:45",
+      "title": "Motor égett a 23-as főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90949",
+      "lead": "Bükkszenterzsébet közelében teljes szélességében lezárták az utat.",
+      "body": "Kigyulladt egy motorkerékpár a 23-as főúton, Bükkszenterzsébet közelében, a 28-as kilométerszelvénynél. A tűz átterjedt a környező száraz, füves területre is. A bátonyterenyei hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A helyszínre a mentők is kiérkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Bükkszenterzsébet, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "90948",
       "datetime": "2026.08.14. 19:38",
