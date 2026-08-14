@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:49:17.953953+00:00",
+  "updated_at": "2026-08-14T06:53:25.268322+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,6 +108,14 @@
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90915"
         },
         {
+          "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
+          "datetime": "2026.08.13. 19:12",
+          "category": "Tűzeset",
+          "text": "A tűzoltók megakadályozták a tűz továbbterjedését Szolnokon, ahol egy ezerötszáz négyzetméteres raktárban ütött ki tűz a Keszeg utcában. Bútorokat, építő- és szigetelőanyagokat tároltak az épületben, ahonnan a tűzoltók tizenhét darab, különböző típusú gázpalackot hoztak ki. A szolnoki, a ceglédi, a kunszentmártoni, a jászberényi, a mezőtúri, a szarvasi, a nagykátai és a kecskeméti hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett hét vízsugárral dolgoztak a lángok körülhatárolásán. Az egységek megfogták a tüzet a raktáron belül, jelenleg a tetőt bontják meg, ahol a belső álmennyezet és a palaborítás közötti beizzásokat, lángolásokat fékezik meg.",
+          "location": "Szolnok, Keszeg utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90915"
+        },
+        {
           "title": "Eloltották a tüzet Szolnokon",
           "datetime": "2026.08.13. 22:18",
           "category": "Tűzeset",
@@ -176,9 +184,9 @@
       "title": "Karambol Rákospalotán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90910",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pázmány Péter utcában dolgoznak a tűzoltók.",
+      "body": "Frontálisan összeütközött két személyautó Budapest XV. kerületében, a Pázmány Péter utcában. A fővárosi hivatásos és az újpesti önkéntes tűzoltók vonultak ki a balesethez. Az egységek áramtalanították a járműveket. A mentők is megérkeztek a karambol helyszínére, ahol forgalmi akadály lehet.",
+      "location": "Budapest, Pázmány Péter utca",
       "updates": []
     },
     {
@@ -187,10 +195,19 @@
       "title": "Kigyulladt az aljnövényzet Kömlőn",
       "category": "Kigyulladt az aljnövényzet Kömlőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90909",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Lakóházakat is veszélyeztetnek a lángok.",
+      "body": "Lángra kapott a száraz fű Kömlőn, a Fő út és a Petőfi Sándor utca közelében. Mintegy öt hektárra terjedt ki a tűz, amely több lakóházat is veszélyeztet. Az egyik tetőszerkezetében már bele is kapott, de megfékezték a tiszanánai önkormányzati tűzoltók. A hevesi hivatásos tűzoltók is oltják a lángokat, és további egységek is a helyszínre tartanak.",
+      "location": "Kömlő, Petőfi Sándor utca",
+      "updates": [
+        {
+          "title": "Már nem lángol a kömlői tűz",
+          "datetime": "2026.08.13. 16:04",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Kömlőn, a Fő út és a Petőfi Sándor utca közelében ütött ki. Száraz fű és szemét gyulladt ki. Lakóházakat is veszélyeztetett a tűz, de a korábbi értesülésektől eltérően egyiket sem érte el. Csak egy két négyzetméteres fáskamrára terjedtek át a lángok, ám azt is idejében eloltották a tűzoltók. Végül mintegy négy hektáron égett le a növényzet. A hevesi és a mezőkövesdi hivatásos, valamint a tiszanánai önkormányzati tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a tüzet. Az egységek már csak a még izzó szemétkupacokat oltják.",
+          "location": "Kömlő, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90909/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90909"
+        }
+      ]
     },
     {
       "id": "90908",
@@ -198,10 +215,19 @@
       "title": "Nagy területen ég a száraz fű Ózdon",
       "category": "Nagy területen ég a száraz fű Ózdon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90908",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűz az erdős részbe is belekapott.",
+      "body": "Nagy területen ég a száraz fű Ózdon, az Áchim András utca és a Hársfa utca utáni szakaszon. A lángok a fenyvest is elérték. Az aggteleki hivatásos tűzoltók egy vízsugárral, kéziszerszámokkal kezdték oltani a tüzet. A szendrői hivatásos tűzoltók, valamint Miskolc diósgyőri városrészének hivatásos tűzoltói is elindultak a helyszínre.",
+      "location": "Ózd, Áchim András utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Ózdon",
+          "datetime": "2026.08.13. 20:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Ózdon, ahol ötven hektáron a bozótos, a száraz fű, valamint a fenyves lombkoronája égett az Áchim András utca és a Hársfa utca utáni szakaszon. Az aggteleki, a szendrői, a diósgyőri, a kazincbarcikai hivatásos, valamint a szomolyai önkéntes tűzoltók vízsugárral, kéziszerszámokkal, lombfúvóval dolgoztak a tűz megfékezésén.",
+          "location": "Ózd, Áchim András utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90908/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90908"
+        }
+      ]
     },
     {
       "id": "90907",
@@ -220,9 +246,9 @@
       "title": "Összeütközött két autó az M7-esen, Velencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90906",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki a Balaton felé vezető irányban.",
+      "body": "Két gépkocsi ütközött össze az M7-es autópálya 45-ös és 46-os kilométerszelvénye között, Velence térségében, a Balaton felé vezető oldalon. A járművekben összesen heten utaztak. A székesfehérvári hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, beavatkozásuk idejére csökkentett sebességgel halad a forgalom az érintett pályaszakaszon.",
+      "location": "Velence, M7",
       "updates": []
     },
     {
@@ -401,16 +427,7 @@
       "lead": "A 6208-as út közelében dolgoznak a tűzoltók.",
       "body": "Beizzott és égett egy adonyi szeméttelep, a 6208-as út közelében. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók három munkagép segítségével oltják a hulladékot, amelynek már lánggal való égését megszüntették. A helyszínre egy székesfehérvári vízszállító is érkezett.",
       "location": "Adony, 6208",
-      "updates": [
-        {
-          "title": "Már nincs tűz az adonyi szeméttelepen",
-          "datetime": "2026.08.13. 11:37",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatok zajlanak Adonyban, a 6208-as út közelében, ahol beizzott és égett egy szeméttelep. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók egy székesfehérvári vízszállító jármű közreműködésével fékezték meg a tüzet. A munkálatokban három munkagép is részt vett, ezek segítségével mintegy ezer köbméter hulladékot forgattak át és hűtöttek le az egységek.",
-          "location": "Adony, 6208",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90893"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90892",
@@ -451,10 +468,19 @@
       "title": "Kigyulladt egy családi ház Budaörsön",
       "category": "Kigyulladt egy családi ház Budaörsön",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90889",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Szabadság útra riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház Budaörsön, a Szabadság úton. Az ingatlan tetőszerkezete és felső szintje teljes terjedelmében ég, valamint az épület mögötti garázs tetőszerkezetére is átterjedt a tűz. A fővárosi és törökbálinti hivatásos valamint a budaörsi önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Budaörs, Szabadság út",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budaörsön",
+          "datetime": "2026.08.12. 22:44",
+          "category": "Tűzeset",
+          "text": "A fővárosi és törökbálinti hivatásos valamint a budaörsi önkéntes tűzoltók eloltották a lángokat Budaörsön, ahol egy családi ház égett a Szabadság úton. Az ingatlan tetőszerkezete és felső szintje teljes terjedelmében égett, valamint az épület mögötti garázs tetőszerkezetére is átterjedt a tűz. A munkálatokat a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+          "location": "Budaörs, Szabadság út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90889/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90889"
+        }
+      ]
     },
     {
       "id": "90888",
@@ -462,9 +488,9 @@
       "title": "Oldalára borult egy autó a 83-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90888",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Bakonyjákó és Farkasgyepű között lezárták az utat.",
+      "body": "Oldalára borult egy személyautó a 83-as főúton Bakonyjákó és Farkasgyepű közötti szakaszán, a 8-as kilométerszelvénynél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Farkasgyepű, 83",
       "updates": []
     },
     {
@@ -473,9 +499,9 @@
       "title": "Árokba csapódott egy autó a 32-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90887",
-      "lead": "Jászberény és Pusztamonostor között lezárták az utat.",
-      "body": "Árokba csapódott egy személyautó a 32-es főút Jászberényt és Pusztamonostort összekötő szakaszán, a 22-es és 23-as kilométerszelvény között. A balesethez a jászberényi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Jászberény, 32",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
