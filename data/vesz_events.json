@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:04:39.071660+00:00",
+  "updated_at": "2026-08-14T06:08:39.355483+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -411,9 +411,9 @@
       "title": "Egymásnak ütközött két autó Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90894",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád út és a Rózsa utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személyautó Újpesten, az Árpád út és a Rózsa utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Rózsa utca",
       "updates": []
     },
     {
@@ -425,7 +425,16 @@
       "lead": "A 6208-as út közelében dolgoznak a tűzoltók.",
       "body": "Beizzott és égett egy adonyi szeméttelep, a 6208-as út közelében. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók három munkagép segítségével oltják a hulladékot, amelynek már lánggal való égését megszüntették. A helyszínre egy székesfehérvári vízszállító is érkezett.",
       "location": "Adony, 6208",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nincs tűz az adonyi szeméttelepen",
+          "datetime": "2026.08.13. 11:37",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatok zajlanak Adonyban, a 6208-as út közelében, ahol beizzott és égett egy szeméttelep. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók egy székesfehérvári vízszállító jármű közreműködésével fékezték meg a tüzet. A munkálatokban három munkagép is részt vett, ezek segítségével mintegy ezer köbméter hulladékot forgattak át és hűtöttek le az egységek.",
+          "location": "Adony, 6208",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90893"
+        }
+      ]
     },
     {
       "id": "90892",
