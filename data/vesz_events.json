@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T19:33:01.054845+00:00",
-  "count": 3123,
+  "updated_at": "2026-08-14T19:37:42.512458+00:00",
+  "count": 3124,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90953",
+      "datetime": "2026.08.14. 21:34",
+      "title": "Baleset Jászapátiban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90953",
+      "lead": "Az István király út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Felborult egy személygépkocsi a 31-es főút belterületi szakaszán, azaz az István király úton, Jászapátiban. Az autóban csak a sofőr utazott. A jászkiséri önkormányzati és a helyi önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászapáti, Szigligeti utca",
+      "updates": []
+    },
     {
       "id": "90952",
       "datetime": "2026.08.14. 20:59",
