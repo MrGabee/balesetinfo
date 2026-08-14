@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:41:40.930350+00:00",
+  "updated_at": "2026-08-14T06:45:35.615277+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -444,16 +444,7 @@
       "lead": "A 6208-as út közelében dolgoznak a tűzoltók.",
       "body": "Beizzott és égett egy adonyi szeméttelep, a 6208-as út közelében. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók három munkagép segítségével oltják a hulladékot, amelynek már lánggal való égését megszüntették. A helyszínre egy székesfehérvári vízszállító is érkezett.",
       "location": "Adony, 6208",
-      "updates": [
-        {
-          "title": "Már nincs tűz az adonyi szeméttelepen",
-          "datetime": "2026.08.13. 11:37",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatok zajlanak Adonyban, a 6208-as út közelében, ahol beizzott és égett egy szeméttelep. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók egy székesfehérvári vízszállító jármű közreműködésével fékezték meg a tüzet. A munkálatokban három munkagép is részt vett, ezek segítségével mintegy ezer köbméter hulladékot forgattak át és hűtöttek le az egységek.",
-          "location": "Adony, 6208",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90893"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90892",
@@ -547,19 +538,10 @@
       "title": "Nyárfaerdő aljnövényzete ég Nagyecsed és Tyukod között",
       "category": "Nyárfaerdő aljnövényzete ég Nagyecsed és Tyukod között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90885",
-      "lead": "A tűz körülbelül tizenöt hektárt érint.",
-      "body": "Nyárfaerdő aljnövényzete ég a Nagyecsed és Tyukod közötti területen. A tűz körülbelül tizenöt hektárt érint. A mátészalkai és a fehérgyarmati hivatásos valamint a tyukodi önkéntes tűzoltók több vízsugárral dolgoznak a lángok megfékezésén.",
-      "location": "Tyukod, külterület",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Nagyecsed és Tyukod között",
-          "datetime": "2026.08.12. 19:35",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Nagyecsed és Tyukod között, ahol nyárfaerdő aljnövényzete égett. A tűz körülbelül tizenöt hektárt érintett. A lángokat a mátészalkai és a fehérgyarmati hivatásos valamint a tyukodi önkéntes tűzoltók oltották el.",
-          "location": "Tyukod, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90885/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90885"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "90884",
@@ -567,9 +549,9 @@
       "title": "Ráfutásos baleset Szombathelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90884",
-      "lead": "A Paragvári utcában egy sávon halad a forgalom.",
-      "body": "Négy személyautó karambolozott Szombathelyen, a Paragvári utcában. A ráfutásos baleset a Hargita utca és a Forró utca közötti szakaszon történt. A város hivatásos tűzoltói az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Szombathely, Paragvári utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
