@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T16:01:54.799665+00:00",
+  "updated_at": "2026-08-14T16:05:20.759489+00:00",
   "count": 3116,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -67,7 +67,16 @@
       "lead": "A tűzoltók több vízsugárral oltják a lángokat.",
       "body": "Kigyulladt két hétvégi ház és nagy területű avar Sátoraljaújhelyen, a Cudar-közben. A sátoraljaújhelyi, a tolcsvai, a cigándi és a szerencsi hivatásos tűzoltók több vízsugárral oltják a lángokat. A helyszínre tartanak további egységek is.",
       "location": "Sátoraljaújhely, Záh Klára sor",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Sátoraljaújhelyen",
+          "datetime": "2026.08.14. 17:59",
+          "category": "Tűzeset",
+          "text": "Teljes terjedelmében égett öt hétvégi ház és tizenöt hektár száraz fű Sátoraljaújhelyen, a Cudar-közben. A tűz egy hatodik épületet is érintett, ami félig leégett, illetve egy garázst. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a sátoraljaújhelyi, a tolcsvai, a cigándi, a szerencsi és a kisvárdai hivatásos tűzoltók több vízsugárral fojtották el a lángokat. A rajok utómunkálatokat végeznek.",
+          "location": "Sátoraljaújhely, Záh Klára sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90940/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90940"
+        }
+      ]
     },
     {
       "id": "90939",
