@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:12:21.917150+00:00",
+  "updated_at": "2026-08-14T08:17:41.358196+00:00",
   "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -122,14 +122,6 @@
       "location": "Szolnok, Keszeg utca",
       "updates": [
         {
-          "title": "Nagy erőkkel dolgoznak a tűzoltók Szolnokon",
-          "datetime": "2026.08.13. 18:25",
-          "category": "Tűzeset",
-          "text": "Továbbra is tartanak a munkálatok Szolnokon, ahol egy ezerötszáz négyzetméteres raktárban ütött ki tűz a Keszeg utcában. Bútorokat, építő- és szigetelőanyagokat tároltak az épületben, ahonnan a tűzoltók számos, különböző típusú gázpalackot hoztak ki. A szolnoki, a ceglédi, a kunszentmártoni, a jászberényi, a mezőtúri, a szarvasi, a nagykátai és a kecskeméti hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
-          "location": "Szolnok, Keszeg utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90915"
-        },
-        {
           "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
           "datetime": "2026.08.13. 19:12",
           "category": "Tűzeset",
@@ -153,9 +145,9 @@
       "title": "Ráfutásos baleset a 81-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90914",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mórnál egy szakaszon félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személyautó a 81-es főúton, Mór közelében, a 8127-es út elágazásánál. Ráfutásos baleset történt, amelynél a móri önkormányzati tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik járművet. Az érintett útszakaszon, rendőri irányítás mellett, félpályán halad a forgalom.",
+      "location": "Mór, 81",
       "updates": []
     },
     {
@@ -463,10 +455,19 @@
       "title": "Beizzott egy szeméttelep Adonynál",
       "category": "Beizzott egy szeméttelep Adonynál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 6208-as út közelében dolgoznak a tűzoltók.",
+      "body": "Beizzott és égett egy adonyi szeméttelep, a 6208-as út közelében. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók három munkagép segítségével oltják a hulladékot, amelynek már lánggal való égését megszüntették. A helyszínre egy székesfehérvári vízszállító is érkezett.",
+      "location": "Adony, 6208",
+      "updates": [
+        {
+          "title": "Már nincs tűz az adonyi szeméttelepen",
+          "datetime": "2026.08.13. 11:37",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatok zajlanak Adonyban, a 6208-as út közelében, ahol beizzott és égett egy szeméttelep. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók egy székesfehérvári vízszállító jármű közreműködésével fékezték meg a tüzet. A munkálatokban három munkagép is részt vett, ezek segítségével mintegy ezer köbméter hulladékot forgattak át és hűtöttek le az egységek.",
+          "location": "Adony, 6208",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90893"
+        }
+      ]
     },
     {
       "id": "90892",
