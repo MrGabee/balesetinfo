@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T12:45:40.450026+00:00",
-  "count": 3109,
+  "updated_at": "2026-08-14T12:49:03.151952+00:00",
+  "count": 3110,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90939",
+      "datetime": "2026.08.14. 14:48",
+      "title": "Két autó ütközött a 7-es főúton, Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90939",
+      "lead": "A Budai út és a Poprádi utca kereszteződésében történt a baleset.",
+      "body": "Egymásnak ütközött két személygépkocsi a 7-es főút belterületi szakaszán, azaz a Budai út és a Poprádi utca kereszteződésében, Székesfehérváron. A helyi hivatásos tűzoltók az egyik autót áramtalanították. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Székesfehérvár, Poprádi utca",
+      "updates": []
+    },
     {
       "id": "90938",
       "datetime": "2026.08.14. 14:41",
