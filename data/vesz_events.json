@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T09:46:56.268280+00:00",
-  "count": 3097,
+  "updated_at": "2026-08-14T09:50:44.855765+00:00",
+  "count": 3098,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90927",
+      "datetime": "2026.08.14. 11:49",
+      "title": "Ráfutásos baleset a 81-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90927",
+      "lead": "Söréd határában négy gépkocsi ütközött egymásnak.",
+      "body": "Összeütközött három személygépkocsi és egy kisteherautó a 81-es főúton, Söréd határában, a Kossuth utcánál. Ráfutásos baleset történt, amelyhez a móri önkormányzati tűzoltókat riasztották. A mentők is kivonultak a balesethez, amelynek helyszínén, rendőri irányítás mellett, félpályán halad a forgalom. A raj megszünteti a forgalmi akadályt.",
+      "location": "Söréd, 81",
+      "updates": []
+    },
     {
       "id": "90926",
       "datetime": "2026.08.14. 11:18",
