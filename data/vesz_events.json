@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T13:20:19.726577+00:00",
-  "count": 3111,
+  "updated_at": "2026-08-14T13:25:13.069129+00:00",
+  "count": 3112,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90941",
+      "datetime": "2026.08.14. 15:22",
+      "title": "Autó égett Pécsen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90941",
+      "lead": "A tűzoltók már az utómunkálatokat végzik az érintett útszakaszon.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi Pécsen, a Misina tető felé vezető úton. A tűz átterjedt az erdő szélébe is. A pécsi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Pécs, Hideg-Völgyi út",
+      "updates": []
+    },
     {
       "id": "90940",
       "datetime": "2026.08.14. 15:00",
