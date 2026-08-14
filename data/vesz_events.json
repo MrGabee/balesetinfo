@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T11:30:53.605159+00:00",
-  "count": 3103,
+  "updated_at": "2026-08-14T11:35:13.943561+00:00",
+  "count": 3104,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90933",
+      "datetime": "2026.08.14. 13:34",
+      "title": "Melléképület égett Nagytétényben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90933",
+      "lead": "A tűzoltók a Fácska utcában fékezték meg a lángokat.",
+      "body": "Kigyulladt egy melléképület Budapest XXII. kerületében, a Fácska utcában. Részben már leégett a mintegy huszonöt négyzetméteres ingatlan, amikor a fővárosi hivatásos tűzoltók a helyszínre érkeztek. A közelben lévő épületeket is veszélyeztették a lángok, amelyek továbbterjedését két vízsugárral megakadályozták az egységek, majd eloltották a tüzet.",
+      "location": "Budapest, Fácska utca",
+      "updates": []
+    },
     {
       "id": "90932",
       "datetime": "2026.08.14. 13:18",
