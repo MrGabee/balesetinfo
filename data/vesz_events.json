@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T16:48:25.124055+00:00",
-  "count": 3117,
+  "updated_at": "2026-08-14T16:53:16.861371+00:00",
+  "count": 3118,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90947",
+      "datetime": "2026.08.14. 18:52",
+      "title": "Négy autó ütközött Óbudán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90947",
+      "lead": "A Lajos utcában történt a baleset.",
+      "body": "Összeütközött négy személygépkocsi Budapest III. kerületében, a Lajos utcában. Az autókban összesen öten utaztak. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budapest, Lajos utca",
+      "updates": []
+    },
     {
       "id": "90946",
       "datetime": "2026.08.14. 18:40",
