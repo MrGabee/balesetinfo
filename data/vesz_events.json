@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T22:05:54.439991+00:00",
-  "count": 3127,
+  "updated_at": "2026-08-14T22:09:21.853410+00:00",
+  "count": 3128,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90957",
+      "datetime": "2026.08.15. 00:06",
+      "title": "Lakóház égett Baján",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90957",
+      "lead": "A Szitakötő közben dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy harminckét négyzetméteres lakóház Baján, a Szitakötő közben. A bajai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Baja, Szitakötő köz",
+      "updates": []
+    },
     {
       "id": "90956",
       "datetime": "2026.08.14. 22:46",
