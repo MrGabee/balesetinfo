@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T09:17:55.780077+00:00",
-  "count": 3096,
+  "updated_at": "2026-08-14T09:23:22.087229+00:00",
+  "count": 3097,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90926",
+      "datetime": "2026.08.14. 11:18",
+      "title": "Három autó karambolozott Újfehértón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90926",
+      "lead": "A Debreceni út és a Bartók Béla utca kereszteződésénél félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött egy kisteherautó és két személygépkocsi Újfehértón, a Debreceni út és a Bartók Béla utca kereszteződésénél. A helyi önkormányzati és önkéntes tűzoltók áramtalanították a járműveket. A baleset helyszínénél félpályán halad a forgalom.",
+      "location": "Újfehértó, Debreceni út, Bartók Béla utca",
+      "updates": []
+    },
     {
       "id": "90925",
       "datetime": "2026.08.14. 10:46",
@@ -558,9 +569,9 @@
       "title": "Árokba csapódott egy autó a 32-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90887",
-      "lead": "Jászberény és Pusztamonostor között lezárták az utat.",
-      "body": "Árokba csapódott egy személyautó a 32-es főút Jászberényt és Pusztamonostort összekötő szakaszán, a 22-es és 23-as kilométerszelvény között. A balesethez a jászberényi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Jászberény, 32",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
