@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T11:54:40.721186+00:00",
-  "count": 3105,
+  "updated_at": "2026-08-14T11:59:39.739416+00:00",
+  "count": 3106,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90935",
+      "datetime": "2026.08.14. 13:58",
+      "title": "Tűz van Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90935",
+      "lead": "Műhely és lakóház is ég a Kis-zápor utcában.",
+      "body": "Kigyulladt egy családi ház és egy vele egybeépített műhely Kecskemét külterületén, a Kis-zápor utcában. A tűz egy kisebb faházat is érint. A kecskeméti hivatásos tűzoltók, akik egy gázpalackot, valamint két kutyát is kihoztak a műhelyépületből, öt vízsugárral oltják a lángokat, és már megakadályozták a tűz továbbterjedését. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Kecskemét, Kis-zápor utca",
+      "updates": []
+    },
     {
       "id": "90934",
       "datetime": "2026.08.14. 13:53",
