@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T05:26:36.006307+00:00",
-  "count": 3091,
+  "updated_at": "2026-08-14T05:29:49.025487+00:00",
+  "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90921",
+      "datetime": "2026.08.14. 07:27",
+      "title": "Összeütközött két autó Szarvason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90921",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi karambolozott Szarvason, a 44-es főút Csabai úti szakaszán, a 77-es kilométerszelvény közelében. Az ütközés következtében az egyik jármű kereke kitört. A szarvasi hivatásos tűzoltók érkeztek a balesethez, áramtalanították a forgalmi akadályt okozó autókat.",
+      "location": "Szarvas, Csabai út",
+      "updates": []
+    },
     {
       "id": "90920",
       "datetime": "2026.08.13. 20:32",
