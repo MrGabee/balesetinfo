@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:53:25.268322+00:00",
+  "updated_at": "2026-08-14T06:57:18.328020+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -145,16 +145,7 @@
       "lead": "Egy erdősávot is veszélyeztetnek a lángok.",
       "body": "Kigyulladt az aljnövényzet Zalaapáti külterületén, a 75-ös főút közelében, az Öreghegy utcánál. Nehezen belátható, nagy területet érint, lábon álló napraforgóba is belekapott, és egy erdősávot is veszélyeztet a tűz. A pacsai hivatásos tűzoltók oltják a lángokat, és további egységek is a helyszínre tartanak.",
       "location": "Zalaapáti, Öreghegy utca",
-      "updates": [
-        {
-          "title": "Már csak a füstölgő részeket oltják Zalaapátinál",
-          "datetime": "2026.08.13. 16:27",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Zalaapáti külterületén, a 75-ös főút közelében, az Öreghegy utcánál, ahol kigyulladt az aljnövényzet. Lábon álló napraforgóba is belekapott, és egy erdősávot is veszélyeztet a tűz. A keszthelyi és a pacsai hivatásos tűzoltók három gócpontban oltották a lángokat, amelyek mintegy két és fél hektárra terjedtek ki. A rajok átvizsgálják a területet, és eloltják a még füstölgő részeket.",
-          "location": "Zalaapáti, Öreghegy utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90913/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90913"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90912",
@@ -162,9 +153,9 @@
       "title": "Összeütközött két autó Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90912",
-      "lead": "A baleset a 610-es főút és a Hajnóczi József utca kereszteződésénél lassítja a forgalmat.",
-      "body": "Karambolozott két személyautó Kaposváron, a 610-es főút és a Hajnóczi József utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen négyen utaztak. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kaposvár, Hajnóczi József utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -173,10 +164,27 @@
       "title": "Négy hektáron ég a bozótos Bojton",
       "category": "Négy hektáron ég a bozótos Bojton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90911",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűz egy lakóház tetőszerkezetébe is belekapott.",
+      "body": "Négy hektáron ég a bozótos Bojton, a település szélén, a Bethlen Gábor utca és a Deák Ferenc utca határában. A tűz egy lakóház tetőszerkezetét is elérte, valamint további lakóépületeket is veszélyeztet. A debreceni hivatásos tűzoltók egy vízsugárral és kéziszerszámokkal oltják a lángokat. A helyszínre tartanak a püspökladányi hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Bojt, Bethlen Gábor utca",
+      "updates": [
+        {
+          "title": "Elhúzódó munkálatokra készülnek a tűzoltók Bojton",
+          "datetime": "2026.08.13. 19:24",
+          "category": "Tűzeset",
+          "text": "A tűzoltók már körülhatárolták a tüzet, azonban elhúzódó munkálatokra készülnek Bojton, ahol öt-hat hektáron égett a bozótos, a cserjés a település szélén, a Bethlen Gábor utca és a Deák Ferenc utca határában. A tűz egy lakóház tetőszerkezetét is elérte, valamint további lakóépületeket is veszélyeztetett. A területen egy erőgép is dolgozott, valamint a lakosság is segíti az egységek munkáját. A debreceni, a püspökladányi és a hajdúszoboszlói hivatásos tűzoltók mellett Szeghalomról egy vízszállító is érkezett a helyszínre, a munkálatokat a katasztrófavédelmi műveleti szolgálat irányításával végzik.",
+          "location": "Bojt, Bethlen Gábor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90911/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90911"
+        },
+        {
+          "title": "Eloltották a tüzet Bojton",
+          "datetime": "2026.08.13. 20:05",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a tüzet, befejezték az utómunkálatokat Bojton, ahol mintegy nyolc hektáron égett a bozótos, a cserjés a település szélén, a Bethlen Gábor utca és a Deák Ferenc utca határában. A tűz egy melléképület tetőszerkezetét is elérte, valamint további lakóépületeket is veszélyeztetett. A területen egy erőgép is dolgozott, és a lakosság is segítette az egységek munkáját. A debreceni, a püspökladányi és a hajdúszoboszlói hivatásos tűzoltók mellett Szeghalomról egy vízszállító is érkezett a helyszínre, a munkálatokat a katasztrófavédelmi műveleti szolgálat irányításával végezték.",
+          "location": "Bojt, Bethlen Gábor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90911/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90911"
+        }
+      ]
     },
     {
       "id": "90910",
@@ -427,7 +435,16 @@
       "lead": "A 6208-as út közelében dolgoznak a tűzoltók.",
       "body": "Beizzott és égett egy adonyi szeméttelep, a 6208-as út közelében. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók három munkagép segítségével oltják a hulladékot, amelynek már lánggal való égését megszüntették. A helyszínre egy székesfehérvári vízszállító is érkezett.",
       "location": "Adony, 6208",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nincs tűz az adonyi szeméttelepen",
+          "datetime": "2026.08.13. 11:37",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatok zajlanak Adonyban, a 6208-as út közelében, ahol beizzott és égett egy szeméttelep. A pusztaszabolcsi, a dunaújvárosi és az érdi hivatásos tűzoltók egy székesfehérvári vízszállító jármű közreműködésével fékezték meg a tüzet. A munkálatokban három munkagép is részt vett, ezek segítségével mintegy ezer köbméter hulladékot forgattak át és hűtöttek le az egységek.",
+          "location": "Adony, 6208",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90893/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90893"
+        }
+      ]
     },
     {
       "id": "90892",
@@ -499,9 +516,9 @@
       "title": "Árokba csapódott egy autó a 32-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90887",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Jászberény és Pusztamonostor között lezárták az utat.",
+      "body": "Árokba csapódott egy személyautó a 32-es főút Jászberényt és Pusztamonostort összekötő szakaszán, a 22-es és 23-as kilométerszelvény között. A balesethez a jászberényi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászberény, 32",
       "updates": []
     },
     {
