@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T20:23:44.059677+00:00",
-  "count": 3125,
+  "updated_at": "2026-08-14T20:27:40.440278+00:00",
+  "count": 3126,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90955",
+      "datetime": "2026.08.14. 22:27",
+      "title": "Baleset történt Nagyhalászon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90955",
+      "lead": "Az Arany János utcát teljes szélességében lezárták.",
+      "body": "Összeütközött három személygépkocsi Nagyhalászon, az Arany János utcában. Az ibrányi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nagyhalász, Arany János utca",
+      "updates": []
+    },
     {
       "id": "90954",
       "datetime": "2026.08.14. 22:18",
