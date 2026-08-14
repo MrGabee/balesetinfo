@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T09:02:27.476848+00:00",
+  "updated_at": "2026-08-14T09:07:21.620353+00:00",
   "count": 3096,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -412,10 +412,19 @@
       "title": "Tarló ég Derekegyháznál",
       "category": "Tarló ég Derekegyháznál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
+      "body": "Kigyulladt a tarló és a száraz fű Derekegyház külterületén, a Tompai út közelében. Szalmabálák is égnek. Nagy területet érintenek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos tűzoltók oltanak. A tűz egy gabonaszárító üzemet, valamint méhkaptárakat is veszélyeztetett, de ezeket megvédték az egységek, és megakadályozták a lángok továbbterjedését.",
+      "location": "Derekegyház, Tompai út",
+      "updates": [
+        {
+          "title": "Megfékezték a derekegyházi tüzet",
+          "datetime": "2026.08.13. 13:29",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Derekegyház külterületén, a Tompai út közelében keletkezett. Tarló, száraz fű és mintegy húsz-huszonöt nagyméretű szalmabála égett. Körülbelül húsz hektárt érintettek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos, valamint a szentesi önkéntes tűzoltók fékeztek meg. A bálák oltását erőgépek is segítették.",
+          "location": "Derekegyház, Tompai út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90897"
+        }
+      ]
     },
     {
       "id": "90896",
