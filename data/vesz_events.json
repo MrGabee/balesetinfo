@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T20:44:04.966354+00:00",
-  "count": 3126,
+  "updated_at": "2026-08-14T20:48:08.755555+00:00",
+  "count": 3127,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90956",
+      "datetime": "2026.08.14. 22:46",
+      "title": "Több autó ütközött az M4-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90956",
+      "lead": "Ceglédbercel és Albertirsa között forgalmi akadály van.",
+      "body": "Összeütközött több személygépkocsi az M4-es autóúton, a Budapest felé vezető oldalon, a Ceglédbercel és Albertirsa közötti szakaszon. Az autókban összesen kilencen utaztak. A ceglédi hivatásos és a dolinavölgyi önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Ceglédbercel, Keleti utca",
+      "updates": []
+    },
     {
       "id": "90955",
       "datetime": "2026.08.14. 22:27",
