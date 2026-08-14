@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T12:33:43.846038+00:00",
-  "count": 3107,
+  "updated_at": "2026-08-14T12:38:19.501188+00:00",
+  "count": 3108,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90937",
+      "datetime": "2026.08.14. 14:35",
+      "title": "Pince égett Somogysámson közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90937",
+      "lead": "A tűzoltók az utómunkálatokat kezdik meg.",
+      "body": "Kigyulladt egy harminc négyzetméteres pince és az erdő aljnövényzete Somogysámson közelében. A marcali hivatásos és a szőkedencs önkéntes tűzoltók három vízsugárral eloltották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Marcali, Deák Ferenc utca",
+      "updates": []
+    },
     {
       "id": "90936",
       "datetime": "2026.08.14. 14:21",
