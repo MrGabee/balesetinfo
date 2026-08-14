@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T14:14:45.953969+00:00",
-  "count": 3112,
+  "updated_at": "2026-08-14T14:18:04.276031+00:00",
+  "count": 3113,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90942",
+      "datetime": "2026.08.14. 16:16",
+      "title": "Tűz volt Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90942",
+      "lead": "A tűz két hétvégi házat is érintett.",
+      "body": "Kigyulladt egy nagyobb területű füves vegetáció Kaposváron, a Cseresznye utcában. A tűz két hétvégi házat is érintett. A kaposvári hivatásos tűzoltók kilenc vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Kaposvár, Cseresznye utca",
+      "updates": []
+    },
     {
       "id": "90941",
       "datetime": "2026.08.14. 15:22",
