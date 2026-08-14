@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T13:50:45.482953+00:00",
+  "updated_at": "2026-08-14T13:55:33.772111+00:00",
   "count": 3112,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -135,14 +135,23 @@
     },
     {
       "id": "90930",
-      "datetime": "2026.08.14. 12:24",
+      "datetime": "2026.08.14. 12:24 -",
       "title": "Aljnövényzet ég Fegyverneknél",
-      "category": "Tűzeset",
+      "category": "Aljnövényzet ég Fegyverneknél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90930",
       "lead": "A 3216-os út mellett keletkezett tűz.",
       "body": "Kigyulladt egy erdő aljnövényzete Fegyvernek közelében, a 3216-os út mellett. Nagy területet érint, és nagy füsttel jár a tűz, amelyet a szolnoki és a mezőtúri hivatásos, valamint a törökszentmiklósi önkormányzati tűzoltók oltanak. A helyszínre érkezett a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat, és elindult oda több más egység is.",
       "location": "Fegyvernek, 3216",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Fegyverneknél",
+          "datetime": "2026.08.14. 15:51",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy erdő aljnövényzete Fegyvernek közelében, a 3216-os út mellett. A szolnoki, a karcagi és a mezőtúri hivatásos, valamint a törökszentmiklósi önkormányzati tűzoltók érkeztek ki. A munkálatokat a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányította és emellett egy ceglédi, illetve egy szarvasi vízszállító is segítette a tűz oltását. Az egységek hat vízsugárral fojtották el a lángokat.",
+          "location": "Fegyvernek, 3216",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90930/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90930"
+        }
+      ]
     },
     {
       "id": "90929",
