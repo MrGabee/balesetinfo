@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:57:18.328020+00:00",
+  "updated_at": "2026-08-14T07:01:39.075381+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -100,14 +100,6 @@
       "location": "Szolnok, Keszeg utca",
       "updates": [
         {
-          "title": "Nagy erőkkel dolgoznak a tűzoltók Szolnokon",
-          "datetime": "2026.08.13. 18:25",
-          "category": "Tűzeset",
-          "text": "Továbbra is tartanak a munkálatok Szolnokon, ahol egy ezerötszáz négyzetméteres raktárban ütött ki tűz a Keszeg utcában. Bútorokat, építő- és szigetelőanyagokat tároltak az épületben, ahonnan a tűzoltók számos, különböző típusú gázpalackot hoztak ki. A szolnoki, a ceglédi, a kunszentmártoni, a jászberényi, a mezőtúri, a szarvasi, a nagykátai és a kecskeméti hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
-          "location": "Szolnok, Keszeg utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90915"
-        },
-        {
           "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
           "datetime": "2026.08.13. 19:12",
           "category": "Tűzeset",
@@ -131,9 +123,9 @@
       "title": "Ráfutásos baleset a 81-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90914",
-      "lead": "Mórnál egy szakaszon félpályán halad a forgalom.",
-      "body": "Egymásnak ütközött két személyautó a 81-es főúton, Mór közelében, a 8127-es út elágazásánál. Ráfutásos baleset történt, amelynél a móri önkormányzati tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik járművet. Az érintett útszakaszon, rendőri irányítás mellett, félpályán halad a forgalom.",
-      "location": "Mór, 81",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -145,7 +137,16 @@
       "lead": "Egy erdősávot is veszélyeztetnek a lángok.",
       "body": "Kigyulladt az aljnövényzet Zalaapáti külterületén, a 75-ös főút közelében, az Öreghegy utcánál. Nehezen belátható, nagy területet érint, lábon álló napraforgóba is belekapott, és egy erdősávot is veszélyeztet a tűz. A pacsai hivatásos tűzoltók oltják a lángokat, és további egységek is a helyszínre tartanak.",
       "location": "Zalaapáti, Öreghegy utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már csak a füstölgő részeket oltják Zalaapátinál",
+          "datetime": "2026.08.13. 16:27",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zalaapáti külterületén, a 75-ös főút közelében, az Öreghegy utcánál, ahol kigyulladt az aljnövényzet. Lábon álló napraforgóba is belekapott, és egy erdősávot is veszélyeztet a tűz. A keszthelyi és a pacsai hivatásos tűzoltók három gócpontban oltották a lángokat, amelyek mintegy két és fél hektárra terjedtek ki. A rajok átvizsgálják a területet, és eloltják a még füstölgő részeket.",
+          "location": "Zalaapáti, Öreghegy utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90913/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90913"
+        }
+      ]
     },
     {
       "id": "90912",
@@ -254,9 +255,9 @@
       "title": "Összeütközött két autó az M7-esen, Velencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90906",
-      "lead": "Forgalmi akadály alakult ki a Balaton felé vezető irányban.",
-      "body": "Két gépkocsi ütközött össze az M7-es autópálya 45-ös és 46-os kilométerszelvénye között, Velence térségében, a Balaton felé vezető oldalon. A járművekben összesen heten utaztak. A székesfehérvári hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, beavatkozásuk idejére csökkentett sebességgel halad a forgalom az érintett pályaszakaszon.",
-      "location": "Velence, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -323,24 +324,7 @@
       "lead": "A tűzoltók kéziszerszámokkal kezdték oltani a lángokat.",
       "body": "A bozótos, a száraz fű ég Arlón, a Dózsa György út melletti területen. Az ózdi hivatásos és a borsodnádasdi önkéntes tűzoltók kéziszerszámokkal oltják a lángokat, munkájukat az erős szél nehezíti. A helyszínre tartanak a pétervásárai és az egri hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Arló, Dózsa György út",
-      "updates": [
-        {
-          "title": "Eloltották a lakóházakat veszélyeztető tüzeket Arlón",
-          "datetime": "2026.08.13. 15:44",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lakóházakat veszélyeztető tüzeket Arlón, ahol a bozótos, a száraz fű ég nagy területen a Dózsa György út mellett. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról oltják a lángokat. A munkálatokat az erős szél nehezíti.",
-          "location": "Arló, Dózsa György út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
-        },
-        {
-          "title": "Eloltották a lángokat Arlón",
-          "datetime": "2026.08.13. 23:11",
-          "category": "Tűzeset",
-          "text": "A tűzoltók vízsugarakkal és kéziszerszámokkal eloltották a lángokat Arlón, ahol száz hektáron égett a száraz fű, a bozótos a Dózsa György út melletti területen. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról fékezték meg a tüzet. A munkálatokat a civil lakosság is segítette.",
-          "location": "Arló, Dózsa György út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90899",
@@ -348,9 +332,9 @@
       "title": "Összeütközött két autó Celldömölkön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90899",
-      "lead": "A Nemesdömölk utcába vonultak a tűzoltók.",
-      "body": "Karambolozott két személyautó Celldömölkön, a Nemesdömölk utcában, azaz a 834-es főúton, a 27. kilométer közelében. A város önkormányzati tűzoltók áramtalanították a járműveket. A baleset helyszínén forgalomkorlátozás lehet.",
-      "location": "Celldömölk, Nemesdömölk utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -370,19 +354,10 @@
       "title": "Tarló ég Derekegyháznál",
       "category": "Tarló ég Derekegyháznál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897",
-      "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
-      "body": "Kigyulladt a tarló és a száraz fű Derekegyház külterületén, a Tompai út közelében. Szalmabálák is égnek. Nagy területet érintenek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos tűzoltók oltanak. A tűz egy gabonaszárító üzemet, valamint méhkaptárakat is veszélyeztetett, de ezeket megvédték az egységek, és megakadályozták a lángok továbbterjedését.",
-      "location": "Derekegyház, Tompai út",
-      "updates": [
-        {
-          "title": "Megfékezték a derekegyházi tüzet",
-          "datetime": "2026.08.13. 13:29",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Derekegyház külterületén, a Tompai út közelében keletkezett. Tarló, száraz fű és mintegy húsz-huszonöt nagyméretű szalmabála égett. Körülbelül húsz hektárt érintettek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos, valamint a szentesi önkéntes tűzoltók fékeztek meg. A bálák oltását erőgépek is segítették.",
-          "location": "Derekegyház, Tompai út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90897"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "90896",
