@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:17:41.358196+00:00",
+  "updated_at": "2026-08-14T08:21:30.053609+00:00",
   "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -121,6 +121,14 @@
       "body": "Tűz ütött ki egy raktárban, Szolnokon, a Keszeg utcában. A szolnoki hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat, és a helyszínre tart több más egység is. A rajok több, targoncák üzemeltetéséhez szükséges gázpalackot kihoztak a mintegy ezerötszáz négyzetméter alapterületű épületből, amelyben egyebek között bútorokat, építő- és szigetelőanyagokat tárolnak.",
       "location": "Szolnok, Keszeg utca",
       "updates": [
+        {
+          "title": "Nagy erőkkel dolgoznak a tűzoltók Szolnokon",
+          "datetime": "2026.08.13. 18:25",
+          "category": "Tűzeset",
+          "text": "Továbbra is tartanak a munkálatok Szolnokon, ahol egy ezerötszáz négyzetméteres raktárban ütött ki tűz a Keszeg utcában. Bútorokat, építő- és szigetelőanyagokat tároltak az épületben, ahonnan a tűzoltók számos, különböző típusú gázpalackot hoztak ki. A szolnoki, a ceglédi, a kunszentmártoni, a jászberényi, a mezőtúri, a szarvasi, a nagykátai és a kecskeméti hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+          "location": "Szolnok, Keszeg utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90915"
+        },
         {
           "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
           "datetime": "2026.08.13. 19:12",
