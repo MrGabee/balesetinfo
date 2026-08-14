@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T16:40:20.608243+00:00",
-  "count": 3116,
+  "updated_at": "2026-08-14T16:48:25.124055+00:00",
+  "count": 3117,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90946",
+      "datetime": "2026.08.14. 18:40",
+      "title": "Kunyhó és szemét égett Soroksáron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90946",
+      "lead": "A Szentlőrinci úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy kunyhó és nagyobb mennyiségű szemét Budapest XXIII. kerületében, a Szentlőrinci úton. A fővárosi hivatásos és a FOKA önkéntes tűzoltók két vízsugárral elfojtották a lángokat. A raj egy gázpalackot is kihozott az épületből. Az egységek az utómunkálatokat végzik.",
+      "location": "Budapest, Szentlőrinci út",
+      "updates": []
+    },
     {
       "id": "90945",
       "datetime": "2026.08.14. 17:41",
