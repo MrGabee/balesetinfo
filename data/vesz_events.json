@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T15:25:03.873602+00:00",
-  "count": 3114,
+  "updated_at": "2026-08-14T15:28:12.303749+00:00",
+  "count": 3115,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90944",
+      "datetime": "2026.08.14. 17:26",
+      "title": "Tűz volt Törtelnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90944",
+      "lead": "A 4609-es út mellett dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett mintegy hét hektárnyi területen a 4609-es út mellett, Törtel közelében. A ceglédi hivatásos tűzoltók elfojtották a lángokat. A tűz oltásában egy szolnoki vízszállító is segített. A raj az utómunkálatokat végzi.",
+      "location": "Törtel, Besnyő dűlő",
+      "updates": []
+    },
     {
       "id": "90943",
       "datetime": "2026.08.14. 17:10",
