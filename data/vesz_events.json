@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T07:09:42.627845+00:00",
-  "count": 3093,
+  "updated_at": "2026-08-14T07:15:00.244848+00:00",
+  "count": 3094,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90923",
+      "datetime": "2026.08.14. 09:11",
+      "title": "Embert gázolt egy vonat Szegednél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90923",
+      "lead": "A Szabadkai útnál történt a baleset.",
+      "body": "Embert gázolt el egy személyvonat Szegednél, a Szabadkai út vasúti átjárójánál. A Budapestről érkező szerelvényen mintegy százan utaztak. A szegedi hivatásos tűzoltók segítenek az utasok biztonságos leszállásában. Az érintett útszakaszon teljes szélességében lezárták az utat.",
+      "location": "Szeged, Szabadkai út",
+      "updates": []
+    },
     {
       "id": "90922",
       "datetime": "2026.08.14. 08:35",
@@ -329,27 +340,10 @@
       "title": "Ég a bozótos Arlón",
       "category": "Ég a bozótos Arlón",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900",
-      "lead": "A tűzoltók kéziszerszámokkal kezdték oltani a lángokat.",
-      "body": "A bozótos, a száraz fű ég Arlón, a Dózsa György út melletti területen. Az ózdi hivatásos és a borsodnádasdi önkéntes tűzoltók kéziszerszámokkal oltják a lángokat, munkájukat az erős szél nehezíti. A helyszínre tartanak a pétervásárai és az egri hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
-      "location": "Arló, Dózsa György út",
-      "updates": [
-        {
-          "title": "Eloltották a lakóházakat veszélyeztető tüzeket Arlón",
-          "datetime": "2026.08.13. 15:44",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lakóházakat veszélyeztető tüzeket Arlón, ahol a bozótos, a száraz fű ég nagy területen a Dózsa György út mellett. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról oltják a lángokat. A munkálatokat az erős szél nehezíti.",
-          "location": "Arló, Dózsa György út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
-        },
-        {
-          "title": "Eloltották a lángokat Arlón",
-          "datetime": "2026.08.13. 23:11",
-          "category": "Tűzeset",
-          "text": "A tűzoltók vízsugarakkal és kéziszerszámokkal eloltották a lángokat Arlón, ahol száz hektáron égett a száraz fű, a bozótos a Dózsa György út melletti területen. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról fékezték meg a tüzet. A munkálatokat a civil lakosság is segítette.",
-          "location": "Arló, Dózsa György út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "90899",
@@ -357,9 +351,9 @@
       "title": "Összeütközött két autó Celldömölkön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90899",
-      "lead": "A Nemesdömölk utcába vonultak a tűzoltók.",
-      "body": "Karambolozott két személyautó Celldömölkön, a Nemesdömölk utcában, azaz a 834-es főúton, a 27. kilométer közelében. A város önkormányzati tűzoltók áramtalanították a járműveket. A baleset helyszínén forgalomkorlátozás lehet.",
-      "location": "Celldömölk, Nemesdömölk utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -368,9 +362,9 @@
       "title": "Karambol Lócs közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90898",
-      "lead": "A 8633-as és a 8634-es út kereszteződésénél forgalmi akadály van.",
-      "body": "Összeütközött két személyautó Bük és Sajtoskál között, Lócs közelében, a 8633-as és a 8634-es út kereszteződésében. A csepregi önkormányzati tűzoltók áramtalanították a járműveket, amelyekből mindenki ki tudott szállni. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Lócs, 8633, 8634",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -379,19 +373,10 @@
       "title": "Tarló ég Derekegyháznál",
       "category": "Tarló ég Derekegyháznál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897",
-      "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
-      "body": "Kigyulladt a tarló és a száraz fű Derekegyház külterületén, a Tompai út közelében. Szalmabálák is égnek. Nagy területet érintenek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos tűzoltók oltanak. A tűz egy gabonaszárító üzemet, valamint méhkaptárakat is veszélyeztetett, de ezeket megvédték az egységek, és megakadályozták a lángok továbbterjedését.",
-      "location": "Derekegyház, Tompai út",
-      "updates": [
-        {
-          "title": "Megfékezték a derekegyházi tüzet",
-          "datetime": "2026.08.13. 13:29",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Derekegyház külterületén, a Tompai út közelében keletkezett. Tarló, száraz fű és mintegy húsz-huszonöt nagyméretű szalmabála égett. Körülbelül húsz hektárt érintettek a lángok, amelyeket a szentesi, a hódmezővásárhelyi és az orosházi hivatásos, valamint a szentesi önkéntes tűzoltók fékeztek meg. A bálák oltását erőgépek is segítették.",
-          "location": "Derekegyház, Tompai út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90897/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90897"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "90896",
@@ -399,9 +384,9 @@
       "title": "Árokba csapódott egy autó a 8-ason, Karakószörcsöknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90896",
-      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
-      "body": "Árokba csapódott, majd egy fás, bokros területen a tetejére borult egy gépkocsi a 8-as főút 105-ös kilométerszelvényénél, Karakószörcsök térségében. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. Az ajkai hivatásos tűzoltók motoros láncfűrész segítségével tisztítják meg az autó környezetét, majd a helyszínelést követően kerekeire állítják a járművet. A hatósági beavatkozás idejére félpályán halad a forgalom az érintett útszakaszon.",
-      "location": "Karakószörcsök, 8",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
