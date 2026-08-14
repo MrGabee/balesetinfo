@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T18:27:36.552486+00:00",
-  "count": 3121,
+  "updated_at": "2026-08-14T18:31:18.080779+00:00",
+  "count": 3122,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90951",
+      "datetime": "2026.08.14. 20:31",
+      "title": "Raktár égett Kőbányán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90951",
+      "lead": "A Jászberényi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy raktárépület Budapest X. kerületében, a Jászberényi úton. A raktárban irodakellékeket és bútorokat tároltak. A fővárosi hivatásos tűzoltók három vízsugárral elfojtották a lángokat. Az egységek átszellőztetik az épületet.",
+      "location": "Budapest, Jászberényi út",
+      "updates": []
+    },
     {
       "id": "90950",
       "datetime": "2026.08.14. 19:56",
