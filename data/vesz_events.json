@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T17:55:35.540212+00:00",
-  "count": 3120,
+  "updated_at": "2026-08-14T18:00:00.836961+00:00",
+  "count": 3121,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90950",
+      "datetime": "2026.08.14. 19:56",
+      "title": "Melléképület égett Pákozdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90950",
+      "lead": "A Kert utcában dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy negyven négyzetméteres melléképület és a körülötte lévő aljnövényzet Pákozdon, a Kert utcában. A székesfehérvári hivatásos és a NOÉ Speciális Kutató-mentő önkéntes tűzoltók két vízsugárral eloltották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Pákozd, Kert utca",
+      "updates": []
+    },
     {
       "id": "90949",
       "datetime": "2026.08.14. 19:45",
