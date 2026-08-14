@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:32:54.524128+00:00",
+  "updated_at": "2026-08-14T08:36:27.511776+00:00",
   "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Tűz volt egy társasházban Salgótarjánban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90924",
-      "lead": "Az Acélgyári úton dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy társasház pincéjében Salgótarjánban, az Acélgyári úton. A tűz átterjedt egy lakásra és a tetőszerkezetre is. A salgótarjáni és a bátonyterenyei hivatásos tűzoltók három vízsugárral elfojtották a lángokat. Az épületben ruhák és berendezési tárgyak égtek. A  rajok megbontják a tetőt és utómunkálatokat végeznek.",
-      "location": "Salgótarján, Acélgyári út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -237,16 +237,7 @@
       "lead": "Lakóházakat is veszélyeztetnek a lángok.",
       "body": "Lángra kapott a száraz fű Kömlőn, a Fő út és a Petőfi Sándor utca közelében. Mintegy öt hektárra terjedt ki a tűz, amely több lakóházat is veszélyeztet. Az egyik tetőszerkezetében már bele is kapott, de megfékezték a tiszanánai önkormányzati tűzoltók. A hevesi hivatásos tűzoltók is oltják a lángokat, és további egységek is a helyszínre tartanak.",
       "location": "Kömlő, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Már nem lángol a kömlői tűz",
-          "datetime": "2026.08.13. 16:04",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a tűznek a lángjait, amely Kömlőn, a Fő út és a Petőfi Sándor utca közelében ütött ki. Száraz fű és szemét gyulladt ki. Lakóházakat is veszélyeztetett a tűz, de a korábbi értesülésektől eltérően egyiket sem érte el. Csak egy két négyzetméteres fáskamrára terjedtek át a lángok, ám azt is idejében eloltották a tűzoltók. Végül mintegy négy hektáron égett le a növényzet. A hevesi és a mezőkövesdi hivatásos, valamint a tiszanánai önkormányzati tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a tüzet. Az egységek már csak a még izzó szemétkupacokat oltják.",
-          "location": "Kömlő, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90909/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90909"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "90908",
@@ -547,9 +538,9 @@
       "title": "Árokba csapódott egy autó a 32-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90887",
-      "lead": "Jászberény és Pusztamonostor között lezárták az utat.",
-      "body": "Árokba csapódott egy személyautó a 32-es főút Jászberényt és Pusztamonostort összekötő szakaszán, a 22-es és 23-as kilométerszelvény között. A balesethez a jászberényi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Jászberény, 32",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
