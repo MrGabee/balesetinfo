@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T10:24:00.371260+00:00",
-  "count": 3100,
+  "updated_at": "2026-08-14T10:28:30.405663+00:00",
+  "count": 3101,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90930",
+      "datetime": "2026.08.14. 12:24",
+      "title": "Aljnövényzet ég Fegyverneknél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90930",
+      "lead": "A 3216-os út mellett keletkezett tűz.",
+      "body": "Kigyulladt egy erdő aljnövényzete Fegyvernek közelében, a 3216-os út mellett. Nagy területet érint, és nagy füsttel jár a tűz, amelyet a szolnoki és a mezőtúri hivatásos, valamint a törökszentmiklósi önkormányzati tűzoltók oltanak. A helyszínre érkezett a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat, és elindult oda több más egység is.",
+      "location": "Fegyvernek, 3216",
+      "updates": []
+    },
     {
       "id": "90929",
       "datetime": "2026.08.14. 11:55",
