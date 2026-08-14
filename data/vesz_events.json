@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T20:17:40.684044+00:00",
-  "count": 3124,
+  "updated_at": "2026-08-14T20:20:36.505572+00:00",
+  "count": 3125,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90954",
+      "datetime": "2026.08.14. 22:18",
+      "title": "Garázs égett Nádasdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90954",
+      "lead": "A tűzoltók az utómunkálatokat végzik.",
+      "body": "Teljes terjedelmében égett egy garázs Nádasdon, a Temető úton. A garázsban gépek és eszközök égtek. A körmendi és a zalaegerszegi hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nádasd, Temető út",
+      "updates": []
+    },
     {
       "id": "90953",
       "datetime": "2026.08.14. 21:34",
