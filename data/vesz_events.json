@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T08:45:27.892527+00:00",
-  "count": 3095,
+  "updated_at": "2026-08-14T08:50:08.995074+00:00",
+  "count": 3096,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90925",
+      "datetime": "2026.08.14. 10:46",
+      "title": "Összeütközött két autó Jakabszálláson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90925",
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt a Dózsa György utcában.",
+      "body": "Karambolozott két személyautó Jakabszálláson, a Dózsa György utcában. A kecskeméti hivatásos tűzoltókat riasztották a balesethez. A raj megszüntette a forgalmi akadályt.",
+      "location": "Jakabszállás, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "90924",
       "datetime": "2026.08.14. 10:05",
@@ -53,9 +64,9 @@
       "title": "Két autó karambolozott a VII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90920",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van a Rákóczi út és az Erzsébet körút sarkán.",
+      "body": "Két gépkocsi karambolozott a VII. kerületben, a Rákóczi út és az Erzsébet körút sarkán. Csak a vezetők utaztak a járművekben, amelyek közül az egyiket a fővárosi hivatásos tűzoltók áramtalanították. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Budapest, Rákóczi út",
       "updates": []
     },
     {
