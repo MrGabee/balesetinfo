@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T15:09:35.886566+00:00",
-  "count": 3113,
+  "updated_at": "2026-08-14T15:13:31.499778+00:00",
+  "count": 3114,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90943",
+      "datetime": "2026.08.14. 17:10",
+      "title": "Felborult egy autó Túrkevénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90943",
+      "lead": "A 4203-as utat teljes szélességében lezárták.",
+      "body": "Lesodródott az útról és felborult egy személygépkocsi a 4203-as úton, Túrkeve közelében, a 9-es kilométerszelvénynél. Az autóban ketten utaztak, akik ki tudtak szállni. A mezőtúri hivatásos és a túrkevei önkéntes tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Túrkeve, Tanya",
+      "updates": []
+    },
     {
       "id": "90942",
       "datetime": "2026.08.14. 16:16",
