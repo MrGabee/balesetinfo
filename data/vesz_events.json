@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T15:39:53.525054+00:00",
-  "count": 3115,
+  "updated_at": "2026-08-14T15:43:56.151941+00:00",
+  "count": 3116,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90945",
+      "datetime": "2026.08.14. 17:41",
+      "title": "Erdő égett Fertőszentmiklósnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90945",
+      "lead": "A rajok elhúzódó utómunkálatokat végeznek.",
+      "body": "Kigyulladt egy erdő mintegy öt hektárnyi területen Fertőszentmiklósnál. A tűz aljnövényzetet, lombkoronát, autógumikat és nyesedékeket érintett. A Győr-Moson-Sopron vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kapuvári, a sopronkövesdi, a soproni, a csornai hivatásos és a fertőszentmiklósi, a lövői, a sopronhorpácsi, a hegykői, a répcevisi és a petőházi önkéntes tűzoltók tíz vízsugárral elfojtották a lángokat. A rajok elhúzódó utómunkálatokat végeznek.",
+      "location": "Fertőszentmiklós, Régi reptéri külterület",
+      "updates": []
+    },
     {
       "id": "90944",
       "datetime": "2026.08.14. 17:26",
