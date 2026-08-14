@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:01:39.075381+00:00",
+  "updated_at": "2026-08-14T07:05:56.966507+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Baleset történt Gyömrő és Üllő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90919",
-      "lead": "Irányítás mellett halad a forgalom a 3124-es út érintett szakaszán.",
-      "body": "Összeütközött két gépkocsi Gyömrő és Üllő között, a 3124-es út 5-ös kilométerszelvényénél. Az ütközés következtében az egyik jármű elhagyta az úttestet, és a kukoricásban állt meg. A monori hivatásos és a gyömrői önkéntes tűzoltók mellett a társhatóságok is a helyszínen dolgoznak. A forgalom egy sávon, irányítás mellett halad a balesettel érintett útszakaszon.",
-      "location": "Gyömrő, 3124",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Szalagkorlátnak ütközött egy autó az M44-esen, Szentkirálynál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90918",
-      "lead": "Egy sávon halad a forgalom a Kecskemét felé vezető oldalon.",
-      "body": "Szalagkorlátnak ütközött egy gépkocsi az M44-es autóút 27-es kilométerszelvényénél, Szentkirály térségében, a Kecskemét felé vezető irányban. A tiszakécskei önkormányzati tűzoltók áramtalanították a bajba került járművet. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol egy sávon halad a forgalom az érintett útszakaszon.",
-      "location": "Szentkirály, M44",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -100,6 +100,14 @@
       "location": "Szolnok, Keszeg utca",
       "updates": [
         {
+          "title": "Nagy erőkkel dolgoznak a tűzoltók Szolnokon",
+          "datetime": "2026.08.13. 18:25",
+          "category": "Tűzeset",
+          "text": "Továbbra is tartanak a munkálatok Szolnokon, ahol egy ezerötszáz négyzetméteres raktárban ütött ki tűz a Keszeg utcában. Bútorokat, építő- és szigetelőanyagokat tároltak az épületben, ahonnan a tűzoltók számos, különböző típusú gázpalackot hoztak ki. A szolnoki, a ceglédi, a kunszentmártoni, a jászberényi, a mezőtúri, a szarvasi, a nagykátai és a kecskeméti hivatásos tűzoltók a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+          "location": "Szolnok, Keszeg utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90915/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90915"
+        },
+        {
           "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
           "datetime": "2026.08.13. 19:12",
           "category": "Tűzeset",
@@ -123,9 +131,9 @@
       "title": "Ráfutásos baleset a 81-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90914",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mórnál egy szakaszon félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személyautó a 81-es főúton, Mór közelében, a 8127-es út elágazásánál. Ráfutásos baleset történt, amelynél a móri önkormányzati tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik járművet. Az érintett útszakaszon, rendőri irányítás mellett, félpályán halad a forgalom.",
+      "location": "Mór, 81",
       "updates": []
     },
     {
@@ -154,9 +162,9 @@
       "title": "Összeütközött két autó Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90912",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset a 610-es főút és a Hajnóczi József utca kereszteződésénél lassítja a forgalmat.",
+      "body": "Karambolozott két személyautó Kaposváron, a 610-es főút és a Hajnóczi József utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen négyen utaztak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposvár, Hajnóczi József utca",
       "updates": []
     },
     {
@@ -255,9 +263,9 @@
       "title": "Összeütközött két autó az M7-esen, Velencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90906",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki a Balaton felé vezető irányban.",
+      "body": "Két gépkocsi ütközött össze az M7-es autópálya 45-ös és 46-os kilométerszelvénye között, Velence térségében, a Balaton felé vezető oldalon. A járművekben összesen heten utaztak. A székesfehérvári hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, beavatkozásuk idejére csökkentett sebességgel halad a forgalom az érintett pályaszakaszon.",
+      "location": "Velence, M7",
       "updates": []
     },
     {
@@ -324,7 +332,24 @@
       "lead": "A tűzoltók kéziszerszámokkal kezdték oltani a lángokat.",
       "body": "A bozótos, a száraz fű ég Arlón, a Dózsa György út melletti területen. Az ózdi hivatásos és a borsodnádasdi önkéntes tűzoltók kéziszerszámokkal oltják a lángokat, munkájukat az erős szél nehezíti. A helyszínre tartanak a pétervásárai és az egri hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Arló, Dózsa György út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lakóházakat veszélyeztető tüzeket Arlón",
+          "datetime": "2026.08.13. 15:44",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lakóházakat veszélyeztető tüzeket Arlón, ahol a bozótos, a száraz fű ég nagy területen a Dózsa György út mellett. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról oltják a lángokat. A munkálatokat az erős szél nehezíti.",
+          "location": "Arló, Dózsa György út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
+        },
+        {
+          "title": "Eloltották a lángokat Arlón",
+          "datetime": "2026.08.13. 23:11",
+          "category": "Tűzeset",
+          "text": "A tűzoltók vízsugarakkal és kéziszerszámokkal eloltották a lángokat Arlón, ahol száz hektáron égett a száraz fű, a bozótos a Dózsa György út melletti területen. Az ózdi, a pétervásárai, az egri és a kazincbarcikai hivatásos, valamint a borsodnádasdi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett, három oldalról fékezték meg a tüzet. A munkálatokat a civil lakosság is segítette.",
+          "location": "Arló, Dózsa György út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90900/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90900"
+        }
+      ]
     },
     {
       "id": "90899",
@@ -332,9 +357,9 @@
       "title": "Összeütközött két autó Celldömölkön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90899",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nemesdömölk utcába vonultak a tűzoltók.",
+      "body": "Karambolozott két személyautó Celldömölkön, a Nemesdömölk utcában, azaz a 834-es főúton, a 27. kilométer közelében. A város önkormányzati tűzoltók áramtalanították a járműveket. A baleset helyszínén forgalomkorlátozás lehet.",
+      "location": "Celldömölk, Nemesdömölk utca",
       "updates": []
     },
     {
