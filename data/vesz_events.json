@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T17:38:20.582425+00:00",
-  "count": 3118,
+  "updated_at": "2026-08-14T17:42:18.743426+00:00",
+  "count": 3119,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90948",
+      "datetime": "2026.08.14. 19:38",
+      "title": "Tűz volt Lajosmizsén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90948",
+      "lead": "A Beneszél utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt mintegy öt hektárnyi magas füves vegetáció Lajosmizsén, a Beneszél utcában. A tűz két családi ház tetőszerkezetét, egy ház ablakát és egy ólt érintett. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kecskeméti, a dabasi, a ceglédi, a  kiskunfélegyházai hivatásos, a lajosmizsei önkormányzati és a hetényegyházi önkéntes tűzoltók nyolc vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Lajosmizse, Beneszél utca",
+      "updates": []
+    },
     {
       "id": "90947",
       "datetime": "2026.08.14. 18:52",
