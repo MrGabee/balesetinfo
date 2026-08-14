@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-14T09:50:44.855765+00:00",
-  "count": 3098,
+  "updated_at": "2026-08-14T09:56:11.512278+00:00",
+  "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90929",
+      "datetime": "2026.08.14. 11:55",
+      "title": "Felborult egy gépkocsi az 54-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90929",
+      "lead": "Nemesnádudvar közelében egy szakaszon félpályán halad a forgalom.",
+      "body": "Felborult egy kisteherautó az 54-es főúton, Nemesnádudvar közelében, a 85. kilométernél. A járműben egy ember utazott, aki ki tudott szállni. A bajai hivatásos tűzoltók stabilizálják, majd áramtalanítják a gépkocsit. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Nemesnádudvar, 54",
+      "updates": []
+    },
+    {
+      "id": "90928",
+      "datetime": "2026.08.14. 11:53",
+      "title": "Fa tároló égett Dombóváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90928",
+      "lead": "Az Ősz utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy tíz négyzetméteres fa tárolóban Dombóváron, az Ősz utcában. Az épületben három gázpalack volt, amelyet a dombóvári hivatásos tűzoltók hoztak ki. Az egységek három vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Dombóvár, Ősz utca",
+      "updates": []
+    },
     {
       "id": "90927",
       "datetime": "2026.08.14. 11:49",
