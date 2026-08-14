@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-14T11:50:57.268525+00:00",
-  "count": 3104,
+  "updated_at": "2026-08-14T11:54:40.721186+00:00",
+  "count": 3105,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90934",
+      "datetime": "2026.08.14. 13:53",
+      "title": "Frontális baleset a 23-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90934",
+      "lead": "Ivád közelében teljes szélességében lezárták az utat.",
+      "body": "Frontálisan ütközött két személygépkocsi a 23-as főúton, Ivád közelében, a 19-es kilométerszelvénynél. A pétervásárai és a bátonyterenyei hivatásos tűzoltók egy autót áramtalanítottak és egy utast feszítővágó segítségével kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Ivád, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "90933",
       "datetime": "2026.08.14. 13:34",
