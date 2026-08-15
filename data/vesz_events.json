@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T11:55:03.063548+00:00",
-  "count": 3141,
+  "updated_at": "2026-08-15T11:58:26.638965+00:00",
+  "count": 3142,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90971",
+      "datetime": "2026.08.15. 13:57",
+      "title": "Felborult egy személykocsi Kunszentmiklós és Kunadacs között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90971",
+      "lead": "A baleset az 5211-es út 38-as kilométerénél történt.",
+      "body": "Árokba hajtott és felborult egy autó az 5211-es úton, Kunszentmiklós térségében. Az akkumulátor kiszakadt a járműből. A 38-as kilométernél történt balesethez a város önkormányzati tűzoltói vonultak. A gépkocsiban két ember utazott, valamint három tacskó is volt az autóban. Az utasokhoz mentő érkezett. A tűzoltók a három kutyából kettőt megtaláltak. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Kunszentmiklós, 5211",
+      "updates": []
+    },
     {
       "id": "90970",
       "datetime": "2026.08.15. 13:50",
