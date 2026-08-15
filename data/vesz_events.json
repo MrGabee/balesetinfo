@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T22:57:22.202541+00:00",
-  "count": 3162,
+  "updated_at": "2026-08-15T23:02:19.776205+00:00",
+  "count": 3163,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90992",
+      "datetime": "2026.08.16. 01:01",
+      "title": "Baleset történt Döbrököz és Kurd között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90992",
+      "lead": "A 6532-es úton fának hajtott egy személykocsi.",
+      "body": "Letért az útról és egy fás ligetbe csapódott egy autó Döbrököz és Kurd között. A baleset a 6532-es út 16-os kilométerénél történt. A jármű kidöntött két fát és beékelődött kettő közé. A kurdi önkéntes tűzoltóknak előbb láncfűrésszel el kellett távolítaniuk a növényeket, hogy áramtalanítani tudják az autót. A gépkocsiban csak annak vezetője ült, aki még a tűzoltók megérkezése előtt kiszállt a járműből, mentő érkezett hozzá.",
+      "location": "Döbrököz, 6532",
+      "updates": []
+    },
     {
       "id": "90991",
       "datetime": "2026.08.16. 00:46",
