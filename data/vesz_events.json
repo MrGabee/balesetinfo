@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T22:46:28.273002+00:00",
-  "count": 3161,
+  "updated_at": "2026-08-15T22:49:58.817391+00:00",
+  "count": 3162,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90991",
+      "datetime": "2026.08.16. 00:46",
+      "title": "Fának rohant egy autó Pellérd és Görcsöny között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90991",
+      "lead": "Az 5801-es út 6-os kilométeréhez a pécsi hivatásos tűzoltók vonultak.",
+      "body": "Lesodródott az úttestről és fának csapódott egy személykocsi az 5801-es út Pellérd és Görcsöny közötti szakaszán. Az autóban ketten utaztak, mentőt riasztottak hozzájuk. A pécsi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Pellérd, 5801",
+      "updates": []
+    },
     {
       "id": "90990",
       "datetime": "2026.08.16. 00:09",
