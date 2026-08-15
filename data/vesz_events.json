@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T10:27:20.962939+00:00",
-  "count": 3136,
+  "updated_at": "2026-08-15T10:32:01.308205+00:00",
+  "count": 3137,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90966",
+      "datetime": "2026.08.15. 12:28",
+      "title": "Több autó karambolozott Bükkszék közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90966",
+      "lead": "A 2413-as út 12-es kilométeréhez az ózdi tűzoltók vonultak.",
+      "body": "Összeütközött két autó Bükkszék közelében, a 2413-as út 12-es kilométerénél. Az egyik egy teljesen elektromos jármű, azt nem kellett áramtalanítani, az akkumulátora sértetlen, a másik gépkocsit az ózdi hivatásos tűzoltók feszültségmentesítették. A balesetben egy harmadik jármű is érintett volt, azon azonban csak apró felületi sérülés keletkezett. A balesetben összesen kilenc ember érintett, a helyszínre mentőt riasztottak.",
+      "location": "Bükkszék, 2413",
+      "updates": []
+    },
     {
       "id": "90965",
       "datetime": "2026.08.15. 11:47",
