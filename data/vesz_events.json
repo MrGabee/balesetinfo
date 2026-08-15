@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:10:08.124147+00:00",
+  "updated_at": "2026-08-15T15:14:12.778879+00:00",
   "count": 3148,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -113,14 +113,23 @@
     },
     {
       "id": "90968",
-      "datetime": "2026.08.15. 13:23",
+      "datetime": "2026.08.15. 13:23 -",
       "title": "Tűz ütött ki egy egerbaktai telephelyen",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy egerbaktai telephelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90968",
       "lead": "A 24-es főút közelében van szükség tűzoltói beavatkozásra.",
       "body": "Először viszonylag kis területen száraz fű és egy használaton kívüli utánfutó lángolt Egerbaktán, a tűz azonban gyorsan terjedni kezdett. Elérte a szomszédos cserjés területet, több ingatlan kertjét, eljutott egy udvarba, ahol egy szín gyulladt meg emiatt, tüzet fogott két melléképület is, végül a lángok elértek egy öthektáros területet is. Egri, füzesabonyi és mezőkövesdi hivatásos tűzoltók kiegészülve az Agria Speciális Mentő és Tűzoltó Csoport tagjaival vízsugarakkal, kéziszerszámokkal oltják a tüzet, amelyet már körül is határoltak.",
       "location": "Egerbakta, Egri út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejeződött a beavatkozás az egerbaktai telephelyen",
+          "datetime": "2026.08.15. 17:13",
+          "category": "Tűzeset",
+          "text": "Csaknem hat órán át dolgoztak a tűzoltók azon az egerbaktai területen, ahol előbb egy telephelyen csaptak fel a lángok, majd a tűz melléképületeket, kerteket, nagyobb szabad területet is elért. Az egri, füzesabonyi és mezőkövesdi hivatásos tűzoltók több vízsugárral fékezték meg a lángokat, oltották el a melléképületek, és egy szintén égő jármű tüzét. A munkálatokat civilek és az Agria Speciális Mentő és Tűzoltó Csoport tagjai is segítették.",
+          "location": "Egerbakta, Egri út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90968/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90968"
+        }
+      ]
     },
     {
       "id": "90967",
