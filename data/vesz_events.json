@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T08:18:02.110421+00:00",
-  "count": 3132,
+  "updated_at": "2026-08-15T08:22:10.348317+00:00",
+  "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90962",
+      "datetime": "2026.08.15. 10:20",
+      "title": "Karambol történt Kisapáti és Tapolca között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90962",
+      "lead": "A 7345-ös út 3-as kilométerénél egy személykocsi és egy furgon ütközött össze.",
+      "body": "Egymásba hajtott egy személyautó és egy furgon a 7345-ös út Kisapáti és Tapolca közötti szakaszán. A két járműben összesen heten utaztak, a helyszínre mentő is érkezett. A badacsonytomaji hivatásos tűzoltók áramtalanították a gépkocsikat.",
+      "location": "Kisapáti, 7345",
+      "updates": []
+    },
     {
       "id": "90961",
       "datetime": "2026.08.15. 10:15",
