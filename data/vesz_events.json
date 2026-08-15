@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T10:42:36.222950+00:00",
-  "count": 3137,
+  "updated_at": "2026-08-15T10:47:02.042593+00:00",
+  "count": 3138,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90967",
+      "datetime": "2026.08.15. 12:42",
+      "title": "Felborult egy autó a 47-es főúton, Sáránd mellett",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90967",
+      "lead": "A 15-ös kilométernél történt a baleset, az érintett szakaszon félpályán lehet közlekedni.",
+      "body": "Lesodródott az úttestről, árokba hajtott és ott a tetejére borulva állt meg egy személygépkocsi a 47-es főút 15-ös kilométerénél, Sárándnál. A járműben csak a sofőr utazott, ki tudott szállni, mentő érkezett hozzá. A debreceni hivatásos tűzoltók vonultak az esethez. A főút érintett szakaszát félpályán lezárták.",
+      "location": "Sáránd, 47",
+      "updates": []
+    },
     {
       "id": "90966",
       "datetime": "2026.08.15. 12:28",
