@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:54:33.991790+00:00",
+  "updated_at": "2026-08-15T17:57:41.105337+00:00",
   "count": 3154,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -49,14 +49,23 @@
     },
     {
       "id": "90979",
-      "datetime": "2026.08.15. 17:57",
+      "datetime": "2026.08.15. 17:57 -",
       "title": "Szabadtéri tűz Szegeden",
-      "category": "Tűzeset",
+      "category": "Szabadtéri tűz Szegeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90979",
       "lead": "Az Odessza lakótelep közelében, a Turul utca környékén több hektáron gyulladt meg a vegetáció.",
       "body": "Kigyulladt a vasúti töltés oldala a régi állomásnál Szegeden, az Odessza lakótelep közelében, a lángok az erdősávban továbbterjedtek. Hódmezővásárhelyi, szegedi, makói hivatásos, illetve szegedi és sándorfalvai önkéntes tűzoltók öt vízsugárral, kéziszerszámokkal, puttonyfecskendőkkel körülhatárolták a tüzet. A beavatkozást a vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A becslések szerint a tűz egy negyvenhektáros erdőben körülbelül öt hektárt érintett.",
       "location": "Szeged, Turul utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a szegedi tüzet",
+          "datetime": "2026.08.15. 19:57",
+          "category": "Tűzeset",
+          "text": "Az Odessza lakótelep közelében, a Turul utca környékén nagyjából öt hektáron égett az aljnövényzet. Hódmezővásárhelyi, szegedi, makói és sándorfalvai tűzoltók közös munkával fékezték meg a lángokat. A még helyszínen maradt rajok már az utómunkálatokat végzik.",
+          "location": "Szeged, Turul utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90979/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90979"
+        }
+      ]
     },
     {
       "id": "90978",
