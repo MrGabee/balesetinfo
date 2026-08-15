@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T12:44:03.665648+00:00",
-  "count": 3144,
+  "updated_at": "2026-08-15T12:48:34.327171+00:00",
+  "count": 3145,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90974",
+      "datetime": "2026.08.15. 14:48",
+      "title": "Tíz hektáron égett a vegetáció Lovászpatona külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90974",
+      "lead": "Három vármegye hét településének tűzoltóit riasztották az esethez.",
+      "body": "Erdő aljnövényzete, száraz fű, faágak gyulladtak meg egy nagyjából tízhektáros területen Lovászpatona külterületén. Pápai, pannonhalmi, csornai, győri, kisbéri hivatásos, valamint pápai, győrszemerei és téti önkéntes tűzoltók tizennégy vízsugárral, kéziszerszámokkal avatkoztak be. Az egységek hat ponton támadták a tüzet, a munkálatokat egy húsz köbméteres civil lajtos kocsi is segítette. A Veszprém, Győr-Moson-Sopron, illetve Komárom-Esztergom vármegyei egységek nagyjából két és fél óra alatt körülhatárolták, majd eloltották a tüzet. A rajok már az utómunkálatoknál tartanak.",
+      "location": "Lovászpatona, külterület",
+      "updates": []
+    },
     {
       "id": "90973",
       "datetime": "2026.08.15. 14:24",
