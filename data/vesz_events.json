@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T09:45:23.144554+00:00",
-  "count": 3135,
+  "updated_at": "2026-08-15T09:49:26.093389+00:00",
+  "count": 3136,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90965",
+      "datetime": "2026.08.15. 11:47",
+      "title": "Felborult egy autó Nyírbogdány és Kemecse között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90965",
+      "lead": "A 3823-as út 32-es kilométeréhez a nyíregyházi tűzoltók vonultak.",
+      "body": "Lesodródott az úttestről, majd a tetejére borulva állt meg egy személykocsi Nyírbogdány és Kemecse között. A járműben csak annak vezetője utazott, ki tudott szállni az autóból, mentő érkezett hozzá. A balesethez a nyíregyházi hivatásos tűzoltók vonultak.",
+      "location": "Nyírbogdány, 3823",
+      "updates": []
+    },
     {
       "id": "90964",
       "datetime": "2026.08.15. 11:01",
