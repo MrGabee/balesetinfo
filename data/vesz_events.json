@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:20:43.417660+00:00",
+  "updated_at": "2026-08-15T22:25:14.110352+00:00",
   "count": 3161,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -109,7 +109,16 @@
       "lead": "A Kossuth úti fénysorompós vasúti átjárónál történt a baleset.",
       "body": "Vonattal ütközött az az autó, amely a sínekre hajtott Galgagután, a Kossuth úti vasúti átjáróban. A Balassagyarmatról Aszódra közlekedő személyvonat oldalról ütközött neki a gépkocsinak, amelyben öten utaztak. A szerelvényen tartózkodóknak nem esett bajuk, az utasok elhagyták a helyszínt. Az esethez berceli, rétsági és balassagyarmati hivatásos tűzoltókat riasztottak. Az elsőként a helyszínre érkező berceli tűzoltók az autó egy beszorult utasát a mentőszolgálat munkatársaival együtt szabadították ki az összetört járműből. A helyszínre mentőhelikoptert és több mentőegységet riasztottak. A vasúttársaság tájékoztatása szerint a Balassagyarmat–Aszód vonalon egy időre szünetel a vonatközlekedés, pótlóbuszokra lehet majd felszállni.",
       "location": "Galgaguta, Kossuth út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Még zajlik a műszaki mentés a galgagutai vasúti baleset helyszínén",
+          "datetime": "2026.08.16. 00:17",
+          "category": "Közlekedési baleset",
+          "text": "A Kossuth úti fénysorompós vasúti átjárónál egy személyvonat és egy autó ütközött össze. A vonat oldalról hajtott a gépkocsinak. A kisebbik jármű öt utasához két mentőhelikopter és több mentőautó érkezett. Az ütközés erejétől a motorkocsi egy tengelye lekerült a sínről, az autó pedig felakadt a vonat ütközőjére. A MÁV mentési csoportja a berceli hivatásos tűzoltók közreműködésével végzi a mentést.",
+          "location": "Galgaguta, Kossuth út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90982/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90982"
+        }
+      ]
     },
     {
       "id": "90981",
