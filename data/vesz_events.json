@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T20:48:40.760092+00:00",
-  "count": 3158,
+  "updated_at": "2026-08-15T20:53:29.807150+00:00",
+  "count": 3159,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90988",
+      "datetime": "2026.08.15. 22:50",
+      "title": "Száraz aljnövényzet égett a kőszegi bükkösben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90988",
+      "lead": "Tizenhat tűzoltó gépjárművel csaknem hetven hivatásos, önkormányzati és önkéntes tűzoltó dolgozott az izzás megfékezésén.",
+      "body": "Leszakadt nagyfeszültségű villanyvezeték miatt gyulladt ki egy hektáron a bükköserdő száraz aljnövényzete a kőszegi hegységben. Tizenhat tűzoltó gépjárművel körmendi, szombathelyi, sárvári, sopronkövesdi hivatásos, kőszegi önkormányzati, valamint horvátzsidányi, kőszegszerdahelyi, bozsoki, cáki, peresznyei és büki önkéntes tűzoltók, összesen csaknem hetvenen a Vas Vármegyei Katasztrófavédelmi Igazgatóság igazgatóhelyettese irányítása mellett fékezték meg a lángokat. Az egységek több vízsugárral először megakadályozták a tűz továbbterjedését, az oltást nehezítette, hogy a tűzoltók a helyszínt csak gyalogosan tudták megközelíteni. A tüzet vízsugarakkal, háti puttonyfecskendőkkel és kéziszerszámokkal fékezték meg, és folyamatosan számolták fel az izzó részeket. Az oltóvizet ingajáratban két vízszállító biztosította. A sugarak két oldalról mostanra összeértek, a rajok átáztatják a területet, de az utómunkálatok elhúzódódhatnak. Az éjszaka folyamán az erdészet munkaátrsai felügyelik a területet.",
+      "location": "Kőszeg, külterület",
+      "updates": []
+    },
     {
       "id": "90987",
       "datetime": "2026.08.15. 22:21",
