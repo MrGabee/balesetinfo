@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:06:21.140635+00:00",
+  "updated_at": "2026-08-15T14:10:50.422790+00:00",
   "count": 3147,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "90973",
-      "datetime": "2026.08.15. 14:24",
+      "datetime": "2026.08.15. 14:24 -",
       "title": "Több hektáron ég a vegetáció Szakáld külterületén",
-      "category": "Tűzeset",
+      "category": "Több hektáron ég a vegetáció Szakáld külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90973",
       "lead": "Tiszaújvárosi, mezőcsáti, miskolci és tiszabábolnai tűzoltók avatkoznak be.",
       "body": "Tűz ütött ki egy Szakáld külterületén lévő tanyánál. Nagy területen gyulladt meg száraz fű, összehordott szemét, trágya, tarló, a lángok belekaptak egy épületbe is, amely teljes terjedelmében égett. A tűz még le nem aratott gabonát is veszélyeztet, azt a területet egy munkagép körültárcsázta. Tiszaújvárosi, mezőcsáti és miskolci hivatásos, valamint tiszabábolnai önkéntes tűzoltók a Borosd-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat vezetésével oltják a lángokat. Az egységek nyolc vízsugárral, valamint kéziszerszámokkal körülhatárolták a tüzet.",
       "location": "Szakáld, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatokat végzik a tűzoltók Szakáld külterületén",
+          "datetime": "2026.08.15. 16:07",
+          "category": "Tűzeset",
+          "text": "Tiszaújvárosi, mezőcsáti, miskolci és tiszabábolnai tűzoltók vonultak Szakáld külterületére, ahol száraz fű és trágya gyulladt ki. Az egységek már eloltották a lángokat, az utómunkálatok elvégzéséhez két tiszaújvárosi egység és a vízszállító maradt a helyszínen. A trágyahalmot munkagép szedi szét.",
+          "location": "Szakáld, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90973/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90973"
+        }
+      ]
     },
     {
       "id": "90972",
