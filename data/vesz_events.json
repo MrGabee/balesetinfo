@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T06:18:33.131508+00:00",
-  "count": 3128,
+  "updated_at": "2026-08-15T06:22:37.989679+00:00",
+  "count": 3129,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90958",
+      "datetime": "2026.08.15. 08:21",
+      "title": "Turistabusz szenvedett balesetet az M31-esen, Kerepes térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90958",
+      "lead": "Az 5-ös kilométernél szakította át a szalagkorlátot a jármű.",
+      "body": "Letért az úttestről és átszakította a szalagkorlátot egy turistabusz az M31-es sztráda 5-ös kilométerénél. A busz nem borult fel, másik járművel sem ütközött. A járaton az első információk szerint harminchatan utaztak, a helyszínre mentő is érkezett. Az utasokért mentesítő járatot indítottak. A gödöllői hivatásos tűzoltók vonultak az esethez, egyebek mellett biztonsági területre kísérték a busz utasait.",
+      "location": "Kerepes, M31",
+      "updates": []
+    },
     {
       "id": "90957",
       "datetime": "2026.08.15. 00:06",
