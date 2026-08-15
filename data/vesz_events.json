@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T08:59:54.640544+00:00",
-  "count": 3134,
+  "updated_at": "2026-08-15T09:03:56.446784+00:00",
+  "count": 3135,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90964",
+      "datetime": "2026.08.15. 11:01",
+      "title": "Baleset történt Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90964",
+      "lead": "A Kada és a Gergely utca kereszteződésénél két autó karambolozott.",
+      "body": "Összeütközött két személykocsi Budapest tizedik kerületében, a Kada és a Gergely utca sarkánál. A fővárosi hivatásos tűzoltókat riasztották az esethez, a raj áramtalanított. Mindkét járműben csak annak vezetője utazott, a két sofőrhöz mentő érkezett.",
+      "location": "Budapest, Kada utca",
+      "updates": []
+    },
     {
       "id": "90963",
       "datetime": "2026.08.15. 10:37",
