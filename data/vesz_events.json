@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T12:52:39.979372+00:00",
-  "count": 3145,
+  "updated_at": "2026-08-15T13:01:00.972090+00:00",
+  "count": 3146,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90975",
+      "datetime": "2026.08.15. 14:58",
+      "title": "Tornyospálcai gyümölcsösben csaptak fel a lángok",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90975",
+      "lead": "Körülbelül öt hektáron égett a tűz.",
+      "body": "Egy nagyjából öthektáros területen fiatal gyümölcsös, valamint régi gyümölcsösben a száraz fű kapott lángra Tornyospálcán, a Szőlő utcában. A gyorsan terjedő tüzet a kisvárdai hivatásos tűzoltók vízsugárral és kéziszerszámokkal fékezték meg. Az oltást a gazdák négy traktorral és három lajtos kocsival segítették.",
+      "location": "Tornyospálca, Szőlő utca",
+      "updates": []
+    },
     {
       "id": "90974",
       "datetime": "2026.08.15. 14:48",
