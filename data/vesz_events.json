@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T22:06:26.496304+00:00",
-  "count": 3160,
+  "updated_at": "2026-08-15T22:10:01.644116+00:00",
+  "count": 3161,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90990",
+      "datetime": "2026.08.16. 00:09",
+      "title": "Felborult egy autó a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90990",
+      "lead": "A 87-88-as kilométer között történt a baleset.",
+      "body": "Szeghalom irányába tartott egy autó a 47-es főúton, amikor a 87-88-as kilométer között kisodródott a kanyarban. A jármű egy beton villanyoszlopnak csapódott, sofőrje kizuhant a gépkocsiból. A szeghalmi hivatásos tűzoltók áramtalanították az autót. Az egyedül utazó gépkocsivezetőhöz mentő érkezett.",
+      "location": "Körösladány, 47",
+      "updates": []
+    },
     {
       "id": "90989",
       "datetime": "2026.08.15. 23:23",
