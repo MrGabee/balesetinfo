@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T20:20:19.167952+00:00",
-  "count": 3157,
+  "updated_at": "2026-08-15T20:23:39.447899+00:00",
+  "count": 3158,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90987",
+      "datetime": "2026.08.15. 22:21",
+      "title": "Két autó rohant egymásba Jászapátiban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90987",
+      "lead": "A Petőfi Sándor útra vonultak a jászkiséri és jászapáti tűzoltók.",
+      "body": "Összeütközött két személykocsi Jászapáti Petőfi Sándor útján. Mire a jászkiséri önkormányzati és a helyi önkéntes tűzoltók a helyszínre értek, a mentőszolgálat munkatársai már kiemelték a járművek öt utasát. Az egységek áramtalanítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászapáti, Petőfi Sándor út",
+      "updates": []
+    },
     {
       "id": "90986",
       "datetime": "2026.08.15. 22:10",
