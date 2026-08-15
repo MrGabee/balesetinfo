@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T08:13:41.185479+00:00",
-  "count": 3131,
+  "updated_at": "2026-08-15T08:18:02.110421+00:00",
+  "count": 3132,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90961",
+      "datetime": "2026.08.15. 10:15",
+      "title": "Tűz van Balatonon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90961",
+      "lead": "A Réti utcában egy családi ház és két műhely lángol.",
+      "body": "Tűz ütött ki Balaton településen, a Réti utcában. Kigyulladt két, egyenként hatvan négyzetméteres műhely, a lángok átterjedtek a családi ház tetőszerkezetére, amely teljes terjedelmében ég. A műhelyben egy autó is áll, illetve hegesztéshez használt gázpalackokat is tárolnak odabenn. A helyszínre elsőként a bélapátfalvi önkormányzati tűzoltók érkeztek ki, hűteni kezdték az egyik palackot, illetve oltják az épületet. A vármegyei műveletirányítás több egri hivatásos egységet, a pétervásárai őrs hivatásos tűzoltóit, illetve a Heves vármegyei katasztrófavédelmi műveleti szolgálatot is riasztotta. Két egri egység már megérkezett, több vízsugárral csatlakoztak az oltáshoz.",
+      "location": "Balaton, Réti utca",
+      "updates": []
+    },
     {
       "id": "90960",
       "datetime": "2026.08.15. 09:35",
