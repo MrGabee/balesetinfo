@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T15:42:01.686371+00:00",
-  "count": 3148,
+  "updated_at": "2026-08-15T15:45:39.954785+00:00",
+  "count": 3149,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90978",
+      "datetime": "2026.08.15. 17:44",
+      "title": "Melléképület égett Törtel külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90978",
+      "lead": "A 4609-es úthoz közeli tanyára riasztották a ceglédi tűzoltókat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy melléképület Törtel külterületén, egy tanyán. A lángok a főépületre nem terjedtek át, viszont kis területen meggyújtották az aljnövényzetet is. A ceglédi hivatásos tűzoltók két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. A rajok három vízsugárral eloltották a lángokat, már az utómunkálatokat végzik.",
+      "location": "Törtel, külterület",
+      "updates": []
+    },
     {
       "id": "90977",
       "datetime": "2026.08.15. 16:31",
