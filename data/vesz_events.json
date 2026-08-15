@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T11:46:57.494993+00:00",
-  "count": 3140,
+  "updated_at": "2026-08-15T11:50:16.870566+00:00",
+  "count": 3141,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90970",
+      "datetime": "2026.08.15. 13:50",
+      "title": "Árokba hajtott egy kisbusz Soltvadkerten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90970",
+      "lead": "A Kossuth Lajos utcában avatkoztak be a helyi tűzoltók.",
+      "body": "Baleset történt Soltvadkerten, a Kossuth Lajos utcában, azaz az 53-as főút belterületi szakaszán. A Szabadság utcai kereszteződésnél árokba hajtott egy redőnyt szállító kisbusz. A járműben ketten utaztak, ki tudtak szállni, a helyszínre mentő is érkezett. A város önkormányzati tűzoltói áramtalanítottak. A kisbusz kilóg az útra, ezért a forgalom csak félpályán haladhat.",
+      "location": "Soltvadkert, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "90969",
       "datetime": "2026.08.15. 13:36",
