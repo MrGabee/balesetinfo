@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T20:07:43.846901+00:00",
-  "count": 3156,
+  "updated_at": "2026-08-15T20:11:40.892017+00:00",
+  "count": 3157,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90986",
+      "datetime": "2026.08.15. 22:10",
+      "title": "Családi ház gyulladt ki Sopronnémetiben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90986",
+      "lead": "A Jókai utcába négy település tűzoltóit riasztották.",
+      "body": "Kigyulladt egy családi ház villanyórája, a tűz átterjedt a tetőszerkezetre, amely teljes terjedelmében égett Sopronnémetiben, a Jókai utca elején. Az esethez csornai és kapuvári hivatásos, valamint bogyoszlói, szili és csornai önkéntes tűzoltók vonultak, a beavatkozást a Győr-Moson-Sopron vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az egységek öt vízsugárral eloltották a lángokat, oltás közben két sértetlen gázpalackot is a szabadba vittek. A rajok már az utómunkálatoknál tartanak. A lángok a lakótérre nem terjedtek át, viszont a ház megtelt füsttel, a tűzoltók átvizsgálták. Az épület két lakójának a település polgármestere biztosít átmeneti szállást.",
+      "location": "Sopronnémeti, Jókai utca",
+      "updates": []
+    },
     {
       "id": "90985",
       "datetime": "2026.08.15. 21:22",
