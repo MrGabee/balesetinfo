@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T21:22:19.861929+00:00",
-  "count": 3159,
+  "updated_at": "2026-08-15T21:26:51.750692+00:00",
+  "count": 3160,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90989",
+      "datetime": "2026.08.15. 23:23",
+      "title": "Baleset történt Adácson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90989",
+      "lead": "Az Árpád fejedelem útján árokba csapódott egy autó.",
+      "body": "Előbb egy parkoló autónak hajtott, utána árokba csapódott egy személykocsi Adácson. Az Árpád fejedelem útján történt balesethez a gyöngyösi hivatásos tűzoltók vonultak, a raj áramtalanított. A gépjármű egyedül utazó sofőrje kiszállt az autóból, mentő érkezett hozzá.",
+      "location": "Adács, Árpád fejedelem útja",
+      "updates": []
+    },
     {
       "id": "90988",
       "datetime": "2026.08.15. 22:50",
