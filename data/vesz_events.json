@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T07:04:50.963582+00:00",
-  "count": 3129,
+  "updated_at": "2026-08-15T07:09:15.635005+00:00",
+  "count": 3130,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90959",
+      "datetime": "2026.08.15. 09:06",
+      "title": "Több jármű karambolozott az M7-esen, Kajászó térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90959",
+      "lead": "A Balaton felé vezető oldal 36-os kilométerénél négy autó hajtott egymásba.",
+      "body": "Összeütközött négy személykocsi az M7-es autópálya Balaton felé vezető oldalán, Kajászó térségében. A 36-os kilométernél történt baleset helyszínéről egy jármű elhajtott, a másik háromban összesen öten utaztak, a helyszínre mentőautók érkeztek. A váli önkormányzati tűzoltók áramtalanítottak. A baleset miatt torlódik a sztráda forgalma, csak a leállósávon lehet közlekedni, érdemes a 30-as kilométernél, a martonvásári csomópontnál áttérni a 7-es főútra.",
+      "location": "Baracska, M7",
+      "updates": []
+    },
     {
       "id": "90958",
       "datetime": "2026.08.15. 08:21",
