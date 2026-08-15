@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T07:35:21.429396+00:00",
-  "count": 3130,
+  "updated_at": "2026-08-15T07:40:07.544408+00:00",
+  "count": 3131,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90960",
+      "datetime": "2026.08.15. 09:35",
+      "title": "Melléképület égett Pellérd és Aranyosdagány között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90960",
+      "lead": "A pécsi hivatásos tűzoltók oltották el a lángokat.",
+      "body": "Kigyulladt egy nagyjából hat négyzetméteres, állattartásra használt melléképület Pellérd külterületén. A pécsi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A tűzben, amely sehová nem terjedt át, két tojó odaveszett.",
+      "location": "Pellérd, Szőlőhegy dűlő",
+      "updates": []
+    },
     {
       "id": "90959",
       "datetime": "2026.08.15. 09:06",
