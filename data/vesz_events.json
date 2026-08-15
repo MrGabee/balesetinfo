@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T16:54:13.166645+00:00",
-  "count": 3151,
+  "updated_at": "2026-08-15T16:57:41.823888+00:00",
+  "count": 3152,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90981",
+      "datetime": "2026.08.15. 18:56",
+      "title": "Égő autót oltottak Törökszentmiklóson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90981",
+      "lead": "A Tenyői útra riasztották a város tűzoltóit.",
+      "body": "Teljes terjedelmében égett egy autó Törökszentmiklóson, a Tenyői úton. A kocsiból mindenki ki tudott szállni, senkinek nem esett baja. A város önkormányzati tűzoltói egy vízsugárral fékezték meg a lángokat.",
+      "location": "Törökszentmiklós, Tenyői út",
+      "updates": []
+    },
     {
       "id": "90980",
       "datetime": "2026.08.15. 18:51",
