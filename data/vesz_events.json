@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T14:29:24.048009+00:00",
-  "count": 3147,
+  "updated_at": "2026-08-15T14:33:31.494200+00:00",
+  "count": 3148,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90977",
+      "datetime": "2026.08.15. 16:31",
+      "title": "Két autó karambolozott Fülöpszállásnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90977",
+      "lead": "A baleset az 52-es főút 34-35-ös kilométere között történt.",
+      "body": "Egymásba hajtott két személykocsi az 52-es főúton, Fülöpszállásnál, mindkét autóban ketten utaztak. A 34-35-ös kilométer között történt balesethez a szabadszállási önkormányzati tűzoltók vonultak, az egység áramtalanította az egyik járművet. A főút érintett szakaszán félpályás útlezárás van érvényben.",
+      "location": "Fülöpszállás, 52",
+      "updates": []
+    },
     {
       "id": "90976",
       "datetime": "2026.08.15. 15:23",
