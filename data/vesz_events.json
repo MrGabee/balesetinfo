@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T18:49:42.775389+00:00",
-  "count": 3154,
+  "updated_at": "2026-08-15T18:58:39.530706+00:00",
+  "count": 3155,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90984",
+      "datetime": "2026.08.15. 20:50",
+      "title": "Ég egy lakás Budapest belvárosában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90984",
+      "lead": "A Lehel és a Bulcsú utca kereszteződésénél dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy földszinti lakás Budapesten, a Lehel utca elején. A Lehel és a Bulcsú utca kereszteződésének közelében álló épülethez több fővárosi raj, köztük egy magasból mentő érkezett. A tűzoltók teljes légzésvédelem mellett, vízsugárral oltják a tüzet, egyben átvizsgálják az érintett lakást, van-e benn valaki.",
+      "location": "Budapest, Lehel utca",
+      "updates": []
+    },
     {
       "id": "90983",
       "datetime": "2026.08.15. 19:29",
