@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T12:13:39.274207+00:00",
-  "count": 3142,
+  "updated_at": "2026-08-15T12:17:56.511969+00:00",
+  "count": 3143,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90972",
+      "datetime": "2026.08.15. 14:16",
+      "title": "Teherautó és két személykocsi karambolozott Leányfalun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90972",
+      "lead": "A 11-es főút belterületi szakaszán, a 26-os kilométernél történt a baleset.",
+      "body": "Összeütközött két autó és egy tehergépkocsi a 11-es főút leányfalui szakaszán. A nagyobbik jármű utasainak nem esett baja, a két személykocsiban összesen hárman ültek, mentő érkezett hozzájuk. A szentendrei hivatásos tűzoltók áramtalanítottak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Leányfalu, 11",
+      "updates": []
+    },
     {
       "id": "90971",
       "datetime": "2026.08.15. 13:57",
