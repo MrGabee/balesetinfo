@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:07:52.655967+00:00",
+  "updated_at": "2026-08-15T09:12:46.643562+00:00",
   "count": 3135,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "90961",
-      "datetime": "2026.08.15. 10:15",
+      "datetime": "2026.08.15. 10:15 -",
       "title": "Tűz van Balatonon",
-      "category": "Tűzeset",
+      "category": "Tűz van Balatonon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90961",
       "lead": "A Réti utcában egy családi ház és két műhely lángol.",
       "body": "Tűz ütött ki Balaton településen, a Réti utcában. Kigyulladt két, egyenként hatvan négyzetméteres műhely, a lángok átterjedtek a családi ház tetőszerkezetére, amely teljes terjedelmében ég. A műhelyben egy autó is áll, illetve hegesztéshez használt gázpalackokat is tárolnak odabenn. A helyszínre elsőként a bélapátfalvi önkormányzati tűzoltók érkeztek ki, hűteni kezdték az egyik palackot, illetve oltják az épületet. A vármegyei műveletirányítás több egri hivatásos egységet, a pétervásárai őrs hivatásos tűzoltóit, illetve a Heves vármegyei katasztrófavédelmi műveleti szolgálatot is riasztotta. Két egri egység már megérkezett, több vízsugárral csatlakoztak az oltáshoz.",
       "location": "Balaton, Réti utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nyolc gázpalackot vittek ki a Balatonon kigyulladt épületből",
+          "datetime": "2026.08.15. 11:11",
+          "category": "Tűzeset",
+          "text": "A Réti utcában egy családi ház és két műhely lángol. Az épületekben összesen három dissous, 1-1 szén-dioxid- és oxigén-palackot, valamint két huszonhárom, illetve egy háztartási méretű propánbutángáz-palackot tároltak. Ezeket a tűzoltók a szabadba vitték, hűtik, hőmérsékletüket folyamatosan ellenőrzik. Az acetilénpalackok ártalmatlanításához mesterlövész érkezett a helyszínre. Az épületek tüzét a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányításával, öt vízsugárral oltják az egységek. A helyszínre mentő is érkezett.",
+          "location": "Balaton, Réti utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90961/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90961"
+        }
+      ]
     },
     {
       "id": "90960",
