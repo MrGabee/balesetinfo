@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T11:22:20.208335+00:00",
-  "count": 3138,
+  "updated_at": "2026-08-15T11:26:41.391576+00:00",
+  "count": 3139,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90968",
+      "datetime": "2026.08.15. 13:23",
+      "title": "Tűz ütött ki egy egerbaktai telephelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90968",
+      "lead": "A 24-es főút közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Először viszonylag kis területen száraz fű és egy használaton kívüli utánfutó lángolt Egerbaktán, a tűz azonban gyorsan terjedni kezdett. Elérte a szomszédos cserjés területet, több ingatlan kertjét, eljutott egy udvarba, ahol egy szín gyulladt meg emiatt, tüzet fogott két melléképület is, végül a lángok elértek egy öthektáros területet is. Egri, füzesabonyi és mezőkövesdi hivatásos tűzoltók kiegészülve az Agria Speciális Mentő és Tűzoltó Csoport tagjaival vízsugarakkal, kéziszerszámokkal oltják a tüzet, amelyet már körül is határoltak.",
+      "location": "Egerbakta, Egri út",
+      "updates": []
+    },
     {
       "id": "90967",
       "datetime": "2026.08.15. 12:42",
