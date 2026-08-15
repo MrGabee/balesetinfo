@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T11:35:16.128517+00:00",
-  "count": 3139,
+  "updated_at": "2026-08-15T11:38:51.871348+00:00",
+  "count": 3140,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90969",
+      "datetime": "2026.08.15. 13:36",
+      "title": "Ráfutásos baleset az M5-ösön, Felsőpakony térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90969",
+      "lead": "A 24-25-ös kilométer között, a főváros felé vezető oldalon két autó karambolozott.",
+      "body": "Ráfutásos balesetet szenvedett két személykocsi az M5-ös autópálya Budapest felé vezető oldalán, Felsőpakony térségében. A 24-25-ös kilométer között történt balesetben négy ember érintett, a helyszínre mentő is érkezett. A dabasi hivatásos tűzoltók áramtalanították a gépkocsikat, az esethez vonultak az alsónémedi önkéntes tűzoltók is. A sztráda az érintett szakaszon egy sávon járható, a forgalom torlódik.",
+      "location": "Gyál, M5",
+      "updates": []
+    },
     {
       "id": "90968",
       "datetime": "2026.08.15. 13:23",
