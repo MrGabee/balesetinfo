@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T13:23:05.317756+00:00",
-  "count": 3146,
+  "updated_at": "2026-08-15T13:27:17.039114+00:00",
+  "count": 3147,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90976",
+      "datetime": "2026.08.15. 15:23",
+      "title": "Baleset történt Salgótarjánban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90976",
+      "lead": "A Salgó út elején két személykocsi hajtott egymásba.",
+      "body": "Összeütközött két autó Salgótarjánban, a Salgó úton. Mindkét járműben csak a sofőr ült. A vármegyeszékhely hivatásos tűzoltói áramtalanították a gépkocsikat, illetve felitatták a burkolatra került motorolajat. Az érintett útszakaszon fennakadásra kell számítani.",
+      "location": "Salgótarján, Salgó út",
+      "updates": []
+    },
     {
       "id": "90975",
       "datetime": "2026.08.15. 14:58",
