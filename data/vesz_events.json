@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T19:28:47.009022+00:00",
+  "updated_at": "2026-08-15T19:32:57.666709+00:00",
   "count": 3156,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "90984",
-      "datetime": "2026.08.15. 20:50",
+      "datetime": "2026.08.15. 20:50 -",
       "title": "Ég egy lakás Budapest belvárosában",
-      "category": "Tűzeset",
+      "category": "Ég egy lakás Budapest belvárosában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90984",
       "lead": "A Lehel és a Bulcsú utca kereszteződésénél dolgoznak a tűzoltók.",
       "body": "Kigyulladt és teljes terjedelmében ég egy földszinti lakás Budapesten, a Lehel utca elején. A Lehel és a Bulcsú utca kereszteződésének közelében álló épülethez több fővárosi raj, köztük egy magasból mentő érkezett. A tűzoltók teljes légzésvédelem mellett, vízsugárral oltják a tüzet, egyben átvizsgálják az érintett lakást, van-e benn valaki.",
       "location": "Budapest, Lehel utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a Lehel utcai tüzet",
+          "datetime": "2026.08.15. 21:32",
+          "category": "Tűzeset",
+          "text": "A Lehel és a Bulcsú utca kereszteződésénél egy többemeletes ház egyik földszinti lakásában keletkezett tűz. Robbanás is történt, ez megrongálta a szomszédos lakással közös falat. A fővárosi hivatásos tűzoltók rövid idő alatt eloltották a tüzet, átvizsgálták a lakásokat. A tűz miatt keletkezett füst három szinten tizennyolc lakást érintett, kimenekíteni senkit nem kellett, a lakókat elzárkóztatták. A helyszínre mentő is érkezett. Az épület átszellőztetéséhez ventilátort küldtek az épülethez.",
+          "location": "Budapest, Lehel utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90984/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90984"
+        }
+      ]
     },
     {
       "id": "90983",
