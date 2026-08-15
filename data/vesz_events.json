@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T16:50:03.387605+00:00",
-  "count": 3150,
+  "updated_at": "2026-08-15T16:54:13.166645+00:00",
+  "count": 3151,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90980",
+      "datetime": "2026.08.15. 18:51",
+      "title": "Kigyulladt egy autó a 68-as főúton, Marcalinál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90980",
+      "lead": "A 79-80-as kilométer között égő járművet a város tűzoltói oltották el.",
+      "body": "Kigyulladt egy személygépkocsi motortere és alsó része a 68-as főúton, Marcali mellett. A 79-80-as kilométer között égő járművet a marcali hivatásos tűzoltók oltották el, emellett áramtalanítottak. A főút forgalma az érintett szakaszon félpályán halad.",
+      "location": "Marcali, 68",
+      "updates": []
+    },
     {
       "id": "90979",
       "datetime": "2026.08.15. 17:57",
