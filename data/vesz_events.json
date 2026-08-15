@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-15T17:26:24.164437+00:00",
-  "count": 3153,
+  "updated_at": "2026-08-15T17:30:37.629441+00:00",
+  "count": 3154,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90983",
+      "datetime": "2026.08.15. 19:29",
+      "title": "Égett egy autó az M6-oson, Százhalombattánál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90983",
+      "lead": "A Dunaújváros felé vezető oldal 24-es kilométerénél volt szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi az M6-os sztráda Dunaújváros felé vezető oldalán, a Százhalombatta észak csomópont lehajtójánál. A lángoló járműhöz érdi hivatásos és a százhalombattai önkéntes tűzoltók vonultak. A rajok két vízsugárral eloltották az égő autót.",
+      "location": "Százhalombatta, M6",
+      "updates": []
+    },
     {
       "id": "90982",
       "datetime": "2026.08.15. 19:10",
