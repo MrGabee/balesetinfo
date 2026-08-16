@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:47:45.750370+00:00",
+  "updated_at": "2026-08-16T15:53:11.421646+00:00",
   "count": 3184,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -36,14 +36,23 @@
     },
     {
       "id": "91011",
-      "datetime": "2026.08.16. 16:34",
+      "datetime": "2026.08.16. 16:34 -",
       "title": "Présház ég Simontornyán",
-      "category": "Tűzeset",
+      "category": "Présház ég Simontornyán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91011",
       "lead": "A Könyök utcánál van szükség tűzoltói beavatkozásra.",
       "body": "Présház és nagyobb területen tarló ég Simontornyán, a Könyök utcánál. A paksi hivatásos és a simontornyai önkéntes tűzoltók oltják a lángokat. Több egység is a helyszínre tart.",
       "location": "Simontornya, Könyök utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Simontornyán",
+          "datetime": "2026.08.16. 17:52",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Simontornyán. A tűz három hektárnyi gazos területet érintett, valamint egy présházat, ami teljesen kiégett. A lángokat a paksi és a solti hivatásos, valamint a simontornyai önkéntes tűzoltók oltották el, három vízsugárral. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
+          "location": "Simontornya, Könyök utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91011/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91011"
+        }
+      ]
     },
     {
       "id": "91010",
