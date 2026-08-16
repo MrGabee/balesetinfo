@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T19:25:03.433361+00:00",
-  "count": 3188,
+  "updated_at": "2026-08-16T19:28:40.245338+00:00",
+  "count": 3189,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91018",
+      "datetime": "2026.08.16. 21:27",
+      "title": "Kisebb tűz volt Kiskőrösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91018",
+      "lead": "A Kossuth Lajos útra riasztották a tűzoltókat.",
+      "body": "Kisebb tűz volt Kiskőrösön, ahol egy Kossuth Lajos úti telepen ütött ki tűz. Egy kamion hátulja égett, valamint egy melléképület. A lángokat a helyi hivatásos és önkéntes tűzoltói oltották el, két vízsugárral.",
+      "location": "Kiskőrös, Kossuth Lajos út",
+      "updates": []
+    },
     {
       "id": "91017",
       "datetime": "2026.08.16. 21:24",
