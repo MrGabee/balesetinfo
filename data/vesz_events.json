@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T14:53:18.528164+00:00",
-  "count": 3182,
+  "updated_at": "2026-08-16T14:58:18.795207+00:00",
+  "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91012",
+      "datetime": "2026.08.16. 16:55",
+      "title": "Foltokban ég a száraz fű Kecskemét közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91012",
+      "lead": "A 44-es főút mellett dolgoznak a lángok megfékezésén.",
+      "body": "Foltokban ég a száraz fű Kecskemét közelében, a 44-es főút melletti vasúti síneknél. A kecskeméti hivatásos tűzoltók jelenleg négy vízsugárral oltják a lángokat. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Kecskemét, külterület",
+      "updates": []
+    },
     {
       "id": "91011",
       "datetime": "2026.08.16. 16:34",
