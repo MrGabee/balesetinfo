@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:22:13.141238+00:00",
+  "updated_at": "2026-08-16T11:25:52.093042+00:00",
   "count": 3176,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91003",
-      "datetime": "2026.08.16. 12:44",
+      "datetime": "2026.08.16. 12:44 -",
       "title": "Több autó és kamion gyulladt meg Szeged külterületén",
-      "category": "Tűzeset",
+      "category": "Több autó és kamion gyulladt meg Szeged külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91003",
       "lead": "Az M43-as autópálya és a 47-es főút mellett oltják a lángokat.",
       "body": "Több autó és kamion gyulladt meg Szeged külterületén, az M43-as autópálya és a 47-es főút melletti területen. A szegedi hivatásos és az algyői létesítményi tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.  A munkálatokat a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Szeged, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nagy területen ég a tűz Szeged külterületén",
+          "datetime": "2026.08.16. 13:25",
+          "category": "Tűzeset",
+          "text": "Nagy területen ég a száraz fű Szeged külterületén, ahol egy autókereskedés is ég. A szegedi, hódmezővásárhelyi, ruzsai, makói hivatásos és az algyői létesítményi tűzoltók, valamint a subasai és sándorfalvi dolgoznak a lángok megfékezésén. A tűz tövábbterjedését már Hódmezővásárhely közelében sikerült megakadályozni. A munkálatokat a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Szeged, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91003/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91003"
+        }
+      ]
     },
     {
       "id": "91002",
