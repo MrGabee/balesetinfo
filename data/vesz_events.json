@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:33:57.960643+00:00",
+  "updated_at": "2026-08-16T12:38:13.379710+00:00",
   "count": 3178,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -114,14 +114,23 @@
     },
     {
       "id": "91001",
-      "datetime": "2026.08.16. 12:12",
+      "datetime": "2026.08.16. 12:12 -",
       "title": "Több hektáron ég a száraz fű Tokod és Tát között",
-      "category": "Tűzeset",
+      "category": "Több hektáron ég a száraz fű Tokod és Tát között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91001",
       "lead": "A Kisvölgy dűlőn oltják a lángokat.",
       "body": "Több hektáron ég a száraz fű Tokod és Tát között, a Kisvölgy dűlőn. A tűz több építménybe is belekapott. A bajnai és nyergesújfalui hivatásos valamint a tokodi önkéntes tűzoltók oltják a lángokat.",
       "location": "Tokod, Kisvölgy dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Tokod és Tát között",
+          "datetime": "2026.08.16. 14:37",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Tokod és Tát között, ahol száraz fű égett. A tűz körülbelül négy hektárnyi területet érintett, több építménybe is belekapott. A bajnai, esztergomi és nyergesújfalui hivatásos valamint a tokodi önkéntes tűzoltók, a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fojtották el a lángokat.",
+          "location": "Tokod, Kisvölgy dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91001/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91001"
+        }
+      ]
     },
     {
       "id": "91000",
