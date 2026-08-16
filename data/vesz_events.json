@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T08:32:35.115996+00:00",
-  "count": 3166,
+  "updated_at": "2026-08-16T08:35:57.516821+00:00",
+  "count": 3167,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90996",
+      "datetime": "2026.08.16. 10:33",
+      "title": "Régi tanyaépület ég Mórahalom közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90996",
+      "lead": "A tűz körülbelül másfél hektárnyi területet érint.",
+      "body": "Régi tanyaépület és bokros fás terület ég Mórahalom közelében, az 55-ös főút mellett. A tűz körülbelül másfél hektárnyi területet érint. A kisteleki és ruzsai hivatásos valamint a mórahalmi önkéntes tűzoltók jelenleg négy vízsugárral oltják a lángokat.",
+      "location": "Mórahalom, külterület",
+      "updates": []
+    },
     {
       "id": "90995",
       "datetime": "2026.08.16. 10:21",
