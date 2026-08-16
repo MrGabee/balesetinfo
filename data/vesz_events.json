@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T17:47:50.521697+00:00",
-  "count": 3186,
+  "updated_at": "2026-08-16T17:51:41.991487+00:00",
+  "count": 3187,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91016",
+      "datetime": "2026.08.16. 19:48",
+      "title": "Tarló és erdősáv égett Bakonypölöskén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91016",
+      "lead": "A tűz körülbelül tizenöt hektárnyi területet érintett.",
+      "body": "Tarló és erdősáv égett Bakonypölöskén, az Új utca közelében. A tűz körülbelül tizenöt hektárnyi területet érintett. A lángokat a pápai, badacsonytomaji és ajkai hivatásos tűzoltók oltották el.",
+      "location": "Bakonypölöske, Új utca",
+      "updates": []
+    },
     {
       "id": "91015",
       "datetime": "2026.08.16. 19:45",
