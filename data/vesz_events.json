@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T19:51:34.800645+00:00",
-  "count": 3189,
+  "updated_at": "2026-08-16T19:57:10.790366+00:00",
+  "count": 3190,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91019",
+      "datetime": "2026.08.16. 21:53",
+      "title": "Összeütközött két személyautó az M80-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91019",
+      "lead": "A Körmend felé vezető oldalon, Csákánydoroszló közelében lezárták az utat.",
+      "body": "Összeütközött két személyautó az M80-as autóút Körmend felé vezető oldalán, Csákánydoroszló közelében, a 173-as kilométerszelvénynél. A balesethez a körmendi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Csákánydoroszló, M80",
+      "updates": []
+    },
     {
       "id": "91018",
       "datetime": "2026.08.16. 21:27",
