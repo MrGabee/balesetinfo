@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:00:02.418703+00:00",
+  "updated_at": "2026-08-16T12:04:06.906562+00:00",
   "count": 3177,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -41,6 +41,14 @@
           "category": "Tűzeset",
           "text": "Körülhatárolták a tüzet Nagytarcsán, ahol egy raktárépület gyulladt ki a Ganz Ábrahám utcában. A fővárosi hivatásos és a nagytarcsai és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
           "location": "Nagytarcsa, Ganz Ábrahám utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91004/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91004"
+        },
+        {
+          "title": "Elhúzódó utómunkálatokra számítanak Nagytarcsán",
+          "datetime": "2026.08.16. 14:04",
+          "category": "Tűzeset",
+          "text": "Elhúzódó utómunkálatokra számítanak a tűzoltók Nagytarcsán, ahol egy raktárépület gyulladt ki a Ganz Ábrahám utcában. A fővárosi hivatásos és a nagytarcsai és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett eloltották a lángokat.",
+          "location": "Nagytarcsa, Ganz Ábrahám utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91004/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91004"
         }
       ]
@@ -60,6 +68,14 @@
           "datetime": "2026.08.16. 13:25",
           "category": "Tűzeset",
           "text": "Nagy területen ég a száraz fű Szeged külterületén, ahol egy autókereskedés is ég. A szegedi, hódmezővásárhelyi, ruzsai, makói hivatásos és az algyői létesítményi tűzoltók, valamint a subasai és sándorfalvi dolgoznak a lángok megfékezésén. A tűz tövábbterjedését már Hódmezővásárhely közelében sikerült megakadályozni. A munkálatokat a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Szeged, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91003/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91003"
+        },
+        {
+          "title": "Már az utómunkálatokat végzik a tűzoltók Szeged külterületén",
+          "datetime": "2026.08.16. 14:00",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik a tűzoltók Szeged külterületén, ahol egy autókereskedés gyulladt meg. A szegedi, hódmezővásárhelyi, ruzsai, makói hivatásos és az algyői létesítményi tűzoltók, valamint a subasai és sándorfalvi önkéntes tűzoltók eloltották a lángokat. A tűz nagyobb, száraz füves területet is érintett, körülbelül húsz hektáron. A munkálatokat a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
           "location": "Szeged, külterület",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91003/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91003"
         }
