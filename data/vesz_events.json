@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T12:25:13.347439+00:00",
-  "count": 3177,
+  "updated_at": "2026-08-16T12:29:31.402952+00:00",
+  "count": 3178,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91007",
+      "datetime": "2026.08.16. 14:26",
+      "title": "Nagyobb területen ég a bozótos Csányon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91007",
+      "lead": "A Tanyai út közelében dolgoznak a tűzoltók.",
+      "body": "Nagyobb területen ég a bozótos Csányon, a Tanyai út közelében. A tűz házakat és fóliasátrakat is veszélyeztet. A hatvani és gyöngyösi hivatásos tűzoltók több vízsugárral oltják a lángokat. A rajok munkáját egy hatvani és egy jászberényi vízszállító is segíti.",
+      "location": "Csány, Tanyai út",
+      "updates": []
+    },
     {
       "id": "91006",
       "datetime": "2026.08.16. 13:55",
