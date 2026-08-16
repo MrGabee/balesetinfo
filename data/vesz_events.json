@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-08-16T15:36:18.082849+00:00",
+  "updated_at": "2026-08-16T15:40:17.721719+00:00",
   "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91012",
-      "datetime": "2026.08.16. 16:55",
+      "datetime": "2026.08.16. 16:55 -",
       "title": "Foltokban ég a száraz fű Kecskemét közelében",
-      "category": "Tűzeset",
+      "category": "Foltokban ég a száraz fű Kecskemét közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91012",
       "lead": "A 44-es főút mellett dolgoznak a lángok megfékezésén.",
       "body": "Foltokban ég a száraz fű Kecskemét közelében, a 44-es főút melletti vasúti síneknél. A kecskeméti hivatásos tűzoltók jelenleg négy vízsugárral oltják a lángokat. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Kecskemét, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nincs tűz Kecskemétnél",
+          "datetime": "2026.08.16. 17:40",
+          "category": "Tűzeset",
+          "text": "A kecskeméti, kiskunfélegyházi és ceglédi hivatásos tűzoltók eloltották a lángokat Kecskemétnél, ahol száraz fű égett a 44-es főút melletti vasúti síneknél. A tűz körülbelül hét hektárnyi területet érintett. A rajok hét vízsugárral fojtották el a lángokat. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Kecskemét, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91012/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91012"
+        }
+      ]
     },
     {
       "id": "91011",
