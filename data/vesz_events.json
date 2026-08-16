@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T13:29:58.315044+00:00",
-  "count": 3179,
+  "updated_at": "2026-08-16T13:33:43.631961+00:00",
+  "count": 3180,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91009",
+      "datetime": "2026.08.16. 15:33",
+      "title": "Fenyveserdő ég Gyulafirátóton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91009",
+      "lead": "A tűz lakóépületeket is veszélyeztet.",
+      "body": "Fenyveserdő ég Veszprém Gyulafirátót városrészén, a Pásztor utcában. A tűz lakóépületeket is veszélyeztet. A veszprémi és balatonfűzfői hivatásos tűzoltók, a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak a lángok megfékezésén. Több egység is a helyszínre tart.",
+      "location": "Veszprém, Pásztor utca",
+      "updates": []
+    },
     {
       "id": "91008",
       "datetime": "2026.08.16. 15:28",
