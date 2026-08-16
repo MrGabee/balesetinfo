@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T09:22:57.960428+00:00",
-  "count": 3167,
+  "updated_at": "2026-08-16T09:27:47.724468+00:00",
+  "count": 3168,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90997",
+      "datetime": "2026.08.16. 11:25",
+      "title": "Villanyoszlopnak ütközött egy autó a 4808-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90997",
+      "lead": "Marcaltő és a 83-as főút között lezárták az utat.",
+      "body": "Letért az útról és villanyoszlopnak ütközött egy személyautó a Marcaltőt és a 83-as főutat összekötő, 8408-as út 4-es kilométerszelvényénél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Marcaltő, 8408",
+      "updates": []
+    },
     {
       "id": "90996",
       "datetime": "2026.08.16. 10:33 -",
