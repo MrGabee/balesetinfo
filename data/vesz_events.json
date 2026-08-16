@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T08:16:49.205986+00:00",
-  "count": 3165,
+  "updated_at": "2026-08-16T08:21:25.571977+00:00",
+  "count": 3166,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90995",
+      "datetime": "2026.08.16. 10:21",
+      "title": "Vasúti gázolás Ábrahámhegyen",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90995",
+      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
+      "body": "Embert gázolt a vonat Ábrahámhegyen, a Sziget utcánál. A vonaton hetven ember utazott. A badacsonytomaji hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő járat megérkezik a helyszínre.",
+      "location": "Ábrahámhegy, Sziget utca",
+      "updates": []
+    },
     {
       "id": "90994",
       "datetime": "2026.08.16. 04:04",
