@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T11:52:09.882594+00:00",
-  "count": 3176,
+  "updated_at": "2026-08-16T11:55:50.038779+00:00",
+  "count": 3177,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91006",
+      "datetime": "2026.08.16. 13:55",
+      "title": "Óvoda tetőszerkezete ég Hejőpapin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91006",
+      "lead": "A Kossuth utcába riasztották a tűzoltókat.",
+      "body": "Óvoda tetőszerkezete ég Hejőpapin, a Kossuth utcában. A miskolci, tiszaújvárosi, mezőcsáti és mezőkövesdi hivatásos tűzoltók légzésvédelem mellett, több vízsugárral oltják a lángokat.",
+      "location": "Hejőpapi, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "91005",
       "datetime": "2026.08.16. 13:12",
@@ -23,7 +34,16 @@
       "lead": "A Ganz Ábrahám utcában oltják a lángokat.",
       "body": "Kigyulladt egy raktárépület Nagytarcsán, a Ganz Ábrahám utcában. A tűz több raktárat is veszélyeztet. A fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Nagytarcsa, Ganz Ábrahám utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a tüzet Nagytarcsán",
+          "datetime": "2026.08.16. 13:49",
+          "category": "Tűzeset",
+          "text": "Körülhatárolták a tüzet Nagytarcsán, ahol egy raktárépület gyulladt ki a Ganz Ábrahám utcában. A fővárosi hivatásos és a nagytarcsai és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+          "location": "Nagytarcsa, Ganz Ábrahám utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91004/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91004"
+        }
+      ]
     },
     {
       "id": "91003",
