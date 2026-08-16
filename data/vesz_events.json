@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T16:17:24.988552+00:00",
-  "count": 3184,
+  "updated_at": "2026-08-16T16:23:18.185878+00:00",
+  "count": 3185,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91014",
+      "datetime": "2026.08.16. 18:20",
+      "title": "Elsőfokú riasztást adott ki heves zivatarok veszélye miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91014",
+      "lead": "Az érintett területeken jégeső eshet és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki heves zivatarok veszélye miatt a HungaroMet. Az érintett területeken jégeső eshet, valamint károkozó, erős szél fújhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91013",
       "datetime": "2026.08.16. 17:44",
