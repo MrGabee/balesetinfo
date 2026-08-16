@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:33:43.631961+00:00",
+  "updated_at": "2026-08-16T13:37:10.655531+00:00",
   "count": 3180,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91007",
-      "datetime": "2026.08.16. 14:26",
+      "datetime": "2026.08.16. 14:26 -",
       "title": "Nagyobb területen ég a bozótos Csányon",
-      "category": "Tűzeset",
+      "category": "Nagyobb területen ég a bozótos Csányon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91007",
       "lead": "A Tanyai út közelében dolgoznak a tűzoltók.",
       "body": "Nagyobb területen ég a bozótos Csányon, a Tanyai út közelében. A tűz házakat és fóliasátrakat is veszélyeztet. A hatvani és gyöngyösi hivatásos tűzoltók több vízsugárral oltják a lángokat. A rajok munkáját egy hatvani és egy jászberényi vízszállító is segíti.",
       "location": "Csány, Tanyai út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Csányon",
+          "datetime": "2026.08.16. 15:36",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Csányon, ahol bozótos égett a Tanyai út közelében. . A tűz házakat és fóliasátrakat is veszélyeztetett, amit a rajok megakadályoztak. A hatvani, aszódi és gyöngyösi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a lángokat.",
+          "location": "Csány, Tanyai út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91007/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91007"
+        }
+      ]
     },
     {
       "id": "91006",
