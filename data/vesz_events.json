@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T09:40:22.529447+00:00",
-  "count": 3169,
+  "updated_at": "2026-08-16T09:44:51.120925+00:00",
+  "count": 3170,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90999",
+      "datetime": "2026.08.16. 11:42",
+      "title": "Bokros, fás terület ég Sárbogárd és Rétszilas között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90999",
+      "lead": "A tűznek több gócpontja is van.",
+      "body": "Bokros, fás terület ég Sárbogárd és Rétszilas között, a vasúti sínek mellett. A tűznek több gócpontja is van. A sárbogárdi hivatásos tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
+      "location": "Sárbogárd, külterület",
+      "updates": []
+    },
     {
       "id": "90998",
       "datetime": "2026.08.16. 11:36",
