@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T09:31:41.612292+00:00",
-  "count": 3168,
+  "updated_at": "2026-08-16T09:36:12.568441+00:00",
+  "count": 3169,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90998",
+      "datetime": "2026.08.16. 11:36",
+      "title": "Négyes karambol az M7-esen, Szabadbattyánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90998",
+      "lead": "A Budapest felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Négy személyautó karambolozott az M7-es autópálya Budapest felé vezető oldalán, Szabadbattyán közelében, a 73-as kilométerszelvénynél. A balesethez a polgárdi önkormányzati tűzoltókat riasztották, akik két gépkocsit áramtalanítottak. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Szabadbattyán, M7",
+      "updates": []
+    },
     {
       "id": "90997",
       "datetime": "2026.08.16. 11:25",
