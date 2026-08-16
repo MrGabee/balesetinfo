@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T02:03:47.697206+00:00",
-  "count": 3164,
+  "updated_at": "2026-08-16T02:07:51.060895+00:00",
+  "count": 3165,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "90994",
+      "datetime": "2026.08.16. 04:04",
+      "title": "Leégett egy ház teteje Makón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90994",
+      "lead": "A Gizella utcába makói és hódmezővásárhelyi tűzoltók vonultak.",
+      "body": "Kigyulladt egy nagyjából száz négyzetméteres családi ház teteje Makón, a Gizella utcában. Odabenn egy ember tartózkodott, időben a szabadba ment. A teljes terjedelmében égő tetőt makói és hódmezővásárhelyi hivatásos tűzoltók oltották el két vízsugárral. Mivel a mennyezet beszakadt, a tűz meggyújtotta az egyik szobában az ágyat is. Az egységek már az utómunkálatokat végzik, hőkamerával átvizsgálják a házat és elbontják az érintett szoba mennyezetét.",
+      "location": "Makó, Gizella utca",
+      "updates": []
+    },
     {
       "id": "90993",
       "datetime": "2026.08.16. 01:49 -",
