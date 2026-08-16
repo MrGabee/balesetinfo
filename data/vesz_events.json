@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T14:27:25.684122+00:00",
+  "updated_at": "2026-08-16T14:31:08.353246+00:00",
   "count": 3181,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91008",
-      "datetime": "2026.08.16. 15:28",
+      "datetime": "2026.08.16. 15:28 -",
       "title": "Gaz és avar ég Budapest XVII. kerületében",
-      "category": "Tűzeset",
+      "category": "Gaz és avar ég Budapest XVII. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91008",
       "lead": "A tűz körülbelül tíz hektárnyi területet érint.",
       "body": "Gaz és avar ég Budapest XVII. kerületében, a Bocskai István utcában. A tűz körülbelül tíz hektárnyi területet érint. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület több vízsugárral oltják a lángokat.",
       "location": "Budapest, Bocskai István utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a tüzet Budapest XVII. kerületében",
+          "datetime": "2026.08.16. 16:28",
+          "category": "Tűzeset",
+          "text": "Körülhatárolták a tüzet Budapest XVII. kerületében, ahol gaz és avar gyulladt meg a Bocskai István utcában. A tűz körülbelül hat hektárnyi területet érint. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület több vízsugárral oltják a lángokat. A munkálatokat a katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Budapest, Bocskai István utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91008/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91008"
+        }
+      ]
     },
     {
       "id": "91007",
