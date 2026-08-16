@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T10:39:18.787185+00:00",
-  "count": 3173,
+  "updated_at": "2026-08-16T10:44:11.711806+00:00",
+  "count": 3174,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91003",
+      "datetime": "2026.08.16. 12:44",
+      "title": "Több autó és kamion gyulladt meg Szeged külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91003",
+      "lead": "Az M43-as autópálya és a 47-es főút mellett oltják a lángokat.",
+      "body": "Több autó és kamion gyulladt meg Szeged külterületén, az M43-as autópálya és a 47-es főút melletti területen. A szegedi hivatásos és az algyői létesítményi tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.  A munkálatokat a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Szeged, külterület",
+      "updates": []
+    },
     {
       "id": "91002",
       "datetime": "2026.08.16. 12:21",
