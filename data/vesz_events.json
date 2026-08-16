@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:31:45.261814+00:00",
+  "updated_at": "2026-08-16T15:36:18.082849+00:00",
   "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -96,7 +96,16 @@
       "lead": "A Kossuth utcába riasztották a tűzoltókat.",
       "body": "Óvoda tetőszerkezete ég Hejőpapin, a Kossuth utcában. A miskolci, tiszaújvárosi, mezőcsáti és mezőkövesdi hivatásos tűzoltók légzésvédelem mellett, több vízsugárral oltják a lángokat.",
       "location": "Hejőpapi, Kossuth utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Hejőpapin",
+          "datetime": "2026.08.16. 17:19",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Hejőpapin, ahol egy óvoda tetőszerkezete égett teljes terjedelmében a Kossuth utcában. A lángokat a miskolci, tiszaújvárosi, mezőcsáti, füzesabonyi, hajdúnánási és mezőkövesdi hivatásos valamint a tiszabábolnai és szomolyai önkéntes tűzoltók oltották el. A munkálatokat a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+          "location": "Hejőpapi, Kossuth utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91006/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91006"
+        }
+      ]
     },
     {
       "id": "91005",
