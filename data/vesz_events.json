@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T19:21:08.461348+00:00",
-  "count": 3187,
+  "updated_at": "2026-08-16T19:25:03.433361+00:00",
+  "count": 3188,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91017",
+      "datetime": "2026.08.16. 21:24",
+      "title": "Lesodródott az útról egy autó a 76-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91017",
+      "lead": "Hagyárosbörönd és Ozmánbük között félpályán halad a forgalom.",
+      "body": "Lesodródott az útról egy személyautó a 76-os főút Hagyárosböröndöt és Ozmánbüköt összekötő szakaszán, a 72-es és 73-as kilométerszelvény között. A zalaegerszegi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Ozmánbük, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "91016",
       "datetime": "2026.08.16. 19:48",
