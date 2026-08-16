@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T10:48:25.417126+00:00",
-  "count": 3174,
+  "updated_at": "2026-08-16T10:53:03.910336+00:00",
+  "count": 3175,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91004",
+      "datetime": "2026.08.16. 12:48",
+      "title": "Kigyulladt egy raktárépület Nagytarcsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91004",
+      "lead": "A Ganz Ábrahám utcában oltják a lángokat.",
+      "body": "Kigyulladt egy raktárépület Nagytarcsán, a Ganz Ábrahám utcában. A tűz több raktárat is veszélyeztet. A fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
+      "location": "Nagytarcsa, Ganz Ábrahám utca",
+      "updates": []
+    },
     {
       "id": "91003",
       "datetime": "2026.08.16. 12:44",
@@ -1656,7 +1667,7 @@
     {
       "id": "90880",
       "datetime": "2026.08.12. 16:58 -",
-      "title": "2 db frissítés",
+      "title": "3 db frissítés",
       "category": "Tűz van egy hulladék-lerakóban Salgótarján külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90880",
       "lead": "",
