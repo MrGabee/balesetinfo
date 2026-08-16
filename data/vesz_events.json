@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T17:43:28.732599+00:00",
-  "count": 3185,
+  "updated_at": "2026-08-16T17:47:50.521697+00:00",
+  "count": 3186,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91015",
+      "datetime": "2026.08.16. 19:45",
+      "title": "Tűz volt Úny és Leányfalu közötti területen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91015",
+      "lead": "Kilenc hektáron égett erdő és tarló.",
+      "body": "Erdő és tarló égett Úny és Leányfalu közötti területen. A tűz összesen körülbelül kilenc hektárt érintett. Az esztergomi, bajnai, nyergesújfalui hivatásos valamint a sárisápi, esztergomi és piliscsabai önkéntes tűzoltók eloltották a lángokat. Az utómunkálatokat a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Úny, külterület",
+      "updates": []
+    },
     {
       "id": "91014",
       "datetime": "2026.08.16. 18:20",
