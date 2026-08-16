@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T06:54:03.399371+00:00",
+  "updated_at": "2026-08-16T06:59:15.415868+00:00",
   "count": 3165,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -30,7 +30,7 @@
           "category": "Közlekedési baleset",
           "text": "Az információk szerint ötvenhét utas és két gépkocsivezető ült azon a külföldi turistabuszon, amely Mezőnagymihály és Mezőkeresztes térségében szenvedett balesetet. Több város hivatásos tűzoltói dolgoznak a balesetnél és újabb egységeket várnak a helyszínre. A tűzoltók áramtalanítottak és az utasokat emelik ki a felborult buszból. A beavatkozást a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az Utinform tájékoztatása szerint a 139-es kilométernél az érintett pályaoldalt lezárták, a forgalmat a Mezőnagymihály/Mezőkeresztes csomópontban leterelik a sztrádáról.",
           "location": "Mezőnagymihály, M3",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/3?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
         },
         {
           "title": "Eddig harmincöt embert mentettek ki az M3-ason felborult buszból",
@@ -38,13 +38,21 @@
           "category": "Közlekedési baleset",
           "text": "A Nyíregyháza irányába haladó lengyel autóbuszon a személyzettel együtt ötvenkilencen utaztak, amikor az M3-as sztráda 139-es kilométerénél a jármű lesodródott az útról, árokba hajtott és ott felborult. A tűzoltók eddig harmincöt embert mentettek ki a buszból, több utas a jármű alá került. A huszonnégy tonnás autóbusz mozgatásához civil daruk is a helyszínre tartanak. A tűzoltók a daruk megérkezéséig próbálják a hátsó tengelyt annyira megemelni csörlőzéssel, hogy ki tudják emelni az alatta lévő embereket. A helyszínre melegedőbusz, valamint Lengyelországból egy mentesítő járat is elindult.",
           "location": "Mezőnagymihály, M3",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
         },
         {
           "title": "Még mindig zárva az M3-as autópálya Mezőnagymihálynál",
           "datetime": "2026.08.16. 06:05",
           "category": "Közlekedési baleset",
           "text": "Vasárnap hajnali egy óra táján balesetet szenvedett egy lengyel autóbusz: a 139-es kilométernél letért az M3-as autópályáról és árokba hajtott, ott pedig az oldalára borult. A Vásárosnamény felé haladó járművön ötvenkilencen utaztak. A mezőkövesdi, mezőcsáti, füzesabonyi, tiszaújvárosi, szolnoki és egri hivatásos tűzoltók a felborult autóbusz alól tizenegy embert emeltek ki. A többi utasról a mentők gondoskodtak. A helyszínre civil daruk is érkeztek, meg is települtek és elkezdték a munkát: megemelik, majd felteszik az útra a járművet. A Vásárosnamény felé vezető oldalt a 139-es kilométernél még mindig zárva tartják, a forgalmat a Mezőnagymihály/Mezőkeresztes csomópontban leterelik az autópályáról.",
+          "location": "Mezőnagymihály, M3",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
+        },
+        {
+          "title": "Kiemelték és a kerekeire állították a felborult busz az M3-ason",
+          "datetime": "2026.08.16. 08:55",
+          "category": "Közlekedési baleset",
+          "text": "Vasárnap hajnalban szenvedett balesetet a jármű, utasterében a két sofőrrel és az ötvenhét utassal. Több város hivatásos tűzoltói vonultak a helyszínre, az egységek kimentették a járműből az utasokat, illetve kiemelték azokat, akik a busz alá kerültek. Az autóbuszt két civil, nagy emelőképességű civl daru segítségével juttatták ki a rézsűről, azután kerekeire állították a járművet. A sztráda érintett szakasza továbbra sem járható.",
           "location": "Mezőnagymihály, M3",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
         }
@@ -89,9 +97,9 @@
       "title": "Baleset történt Adácson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90989",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád fejedelem útján árokba csapódott egy autó.",
+      "body": "Előbb egy parkoló autónak hajtott, utána árokba csapódott egy személykocsi Adácson. Az Árpád fejedelem útján történt balesethez a gyöngyösi hivatásos tűzoltók vonultak, a raj áramtalanított. A gépjármű egyedül utazó sofőrje kiszállt az autóból, mentő érkezett hozzá.",
+      "location": "Adács, Árpád fejedelem útja",
       "updates": []
     },
     {
