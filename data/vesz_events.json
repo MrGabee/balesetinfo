@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T20:43:59.006768+00:00",
-  "count": 3190,
+  "updated_at": "2026-08-16T20:47:14.801782+00:00",
+  "count": 3191,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91020",
+      "datetime": "2026.08.16. 22:46",
+      "title": "Autótűz Budapest XX. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91020",
+      "lead": "A Nagykőrösi úton csaptak fel a lángok.",
+      "body": "Kigyulladt egy személyautó Budapest XX. kerületében, a Nagykőrösi úton, a Parány utca közelében. A gépkocsi teljes terjedelmében égett. A lángokat a fővárosi hivatásos tűzoltók oltották el.",
+      "location": "Budapest, Nagykőrösi út",
+      "updates": []
+    },
     {
       "id": "91019",
       "datetime": "2026.08.16. 21:53",
