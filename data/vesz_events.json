@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:18:56.789411+00:00",
+  "updated_at": "2026-08-16T15:23:30.876221+00:00",
   "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -89,9 +89,9 @@
     },
     {
       "id": "91006",
-      "datetime": "2026.08.16. 13:55",
+      "datetime": "2026.08.16. 13:55 -",
       "title": "Óvoda tetőszerkezete ég Hejőpapin",
-      "category": "Tűzeset",
+      "category": "Óvoda tetőszerkezete ég Hejőpapin",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91006",
       "lead": "A Kossuth utcába riasztották a tűzoltókat.",
       "body": "Óvoda tetőszerkezete ég Hejőpapin, a Kossuth utcában. A miskolci, tiszaújvárosi, mezőcsáti és mezőkövesdi hivatásos tűzoltók légzésvédelem mellett, több vízsugárral oltják a lángokat.",
@@ -249,6 +249,14 @@
           "datetime": "2026.08.16. 15:06",
           "category": "Tűzeset",
           "text": "Körülhatárolták a tüzet Rétszilas közelében, ahol bokros, fás terület ég a vasúti sínek mellett. . A sárbogárdi, dunaújvárosi, székesfehérvári hivatásos, valamint a simontornyai, baracsi, dégi, lajoskomáromi és mezőfalvai önkéntes tűzoltók dolgoznak a lángok megfékezésén. A munkálatokat a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A rajok munkáját nehezíti az erős szél.",
+          "location": "Sárbogárd, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90999/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90999"
+        },
+        {
+          "title": "Elhúzódó utómunkálatokra kell számítani Sárbogárd és Rétszilas között",
+          "datetime": "2026.08.16. 17:24",
+          "category": "Tűzeset",
+          "text": "Elhúzódó utómunkálatokra számítanak a tűzoltók Rétszilas közelében, ahol bokros, fás terület égett a vasúti sínek mellett. A tűz körülbelül ötven hektárnyi területet érintett. A sárbogárdi, dunaújvárosi, székesfehérvári hivatásos, valamint a simontornyai, baracsi, dégi, lajoskomáromi és mezőfalvai önkéntes tűzoltók eloltották a lángokat. A rajok további füstölgő gócpontok megszüntetésén dolgozik. A munkálatokat a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
           "location": "Sárbogárd, külterület",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90999/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90999"
         }
