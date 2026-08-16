@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:12:58.066603+00:00",
+  "updated_at": "2026-08-16T17:16:59.592004+00:00",
   "count": 3185,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,14 +78,23 @@
     },
     {
       "id": "91009",
-      "datetime": "2026.08.16. 15:33",
+      "datetime": "2026.08.16. 15:33 -",
       "title": "Fenyveserdő ég Gyulafirátóton",
-      "category": "Tűzeset",
+      "category": "Fenyveserdő ég Gyulafirátóton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91009",
       "lead": "A tűz lakóépületeket is veszélyeztet.",
       "body": "Fenyveserdő ég Veszprém Gyulafirátót városrészén, a Pásztor utcában. A tűz lakóépületeket is veszélyeztet. A veszprémi és balatonfűzfői hivatásos tűzoltók, a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak a lángok megfékezésén. Több egység is a helyszínre tart.",
       "location": "Veszprém, Pásztor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók Gyulafirátóton",
+          "datetime": "2026.08.16. 19:15",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Gyulafirátóton, ahol fenyveserdő égett a Pásztor utca közelében. A veszprémi, ajkai, siófoki, pápai, kisbéri, pétfürdői és balatonfűzfői hivatásos valamint a herendi, tótvázsonyi, nagyvázsonyi és balatonfüredi önkéntes tűzoltók eloltották a lángokat. A tűz oltását ajkai, pápai és badacsonytomaji vízszállítók is segítik. A munkálatokat a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Veszprém, Pásztor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91009/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91009"
+        }
+      ]
     },
     {
       "id": "91008",
