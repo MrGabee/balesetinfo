@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:29:51.730262+00:00",
+  "updated_at": "2026-08-16T11:33:31.718375+00:00",
   "count": 3176,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,14 +78,23 @@
     },
     {
       "id": "91000",
-      "datetime": "2026.08.16. 12:08",
+      "datetime": "2026.08.16. 12:08 -",
       "title": "Tűz van Veszprémben",
-      "category": "Tűzeset",
+      "category": "Tűz van Veszprémben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91000",
       "lead": "A Lőpor körútra riasztották a tűzoltókat.",
       "body": "Kigyulladt egy épület egy veszprémi telephelyen, a Lőpor körúton. A tűz száraz füves területet is érint. A veszprémi hivatásos tűzoltók dolgoznak a lángok megfékezésén.",
       "location": "Veszprém, Lőpor körút",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a tűzoltók Veszprémben",
+          "datetime": "2026.08.16. 13:32",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik a tűzoltók Veszprémben, ahol egy telephelyen ütött ki tűz a Lőpor körúton. A lángokat a veszprémi és balatonfűzfői hivatásos tűzoltók oltották el, a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett. A rajok munkáját több munkagép, valamint egy ajkai és egy veszprémi vízszállító is segítette.",
+          "location": "Veszprém, Lőpor körút",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91000/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91000"
+        }
+      ]
     },
     {
       "id": "90999",
