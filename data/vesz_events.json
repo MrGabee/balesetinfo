@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-08-16T00:06:04.358463+00:00",
+  "updated_at": "2026-08-16T00:09:33.033020+00:00",
   "count": 3164,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "90993",
-      "datetime": "2026.08.16. 01:49",
+      "datetime": "2026.08.16. 01:49 -",
       "title": "Súlyos buszbaleset történt az M3-ason",
-      "category": "Közlekedési baleset",
+      "category": "Súlyos buszbaleset történt az M3-ason",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993",
       "lead": "A Nyíregyháza felé vezető oldal 139-es kilométerénél felborult egy autóbusz.",
       "body": "Felborult egy autóbusz az M3-as sztráda országhatár felé vezető oldalán, a 139-es kilométernél. A Mezőkeresztes és Mezőnagymihály között lévő szakaszon történt balesethez a Borsod-Abaúj-Zemplén vármegyei műveleti szolgálat mezőkövesdi, mezőcsáti, füzesabonyi, miskolci, szolnoki és egri gépjárműfecskendőket, különleges szereket riasztott, a helyszínre tart a vármegyei katasztrófavédelmi műveleti szolgálat is. A már helyszínen lévő egységek a busz ablakain jutottak be a járműbe, folyamatosan mentik ki az utasokat.",
       "location": "Mezőnagymihály, M3",
-      "updates": []
+      "updates": [
+        {
+          "title": "A baleset miatt a 139-es kilométernél lezárták az M3-as sztráda Vásárosnamény felé vezető oldalát",
+          "datetime": "2026.08.16. 02:09",
+          "category": "Közlekedési baleset",
+          "text": "Az információk szerint ötvenhét utas és két gépkocsivezető ült azon a külföldi turistabuszon, amely Mezőnagymihály és Mezőkeresztes térségében szenvedett balesetet. Több város hivatásos tűzoltói dolgoznak a balesetnél és újabb egységeket várnak a helyszínre. A tűzoltók áramtalanítottak és az utasokat emelik ki a felborult buszból. A beavatkozást a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az Utinform tájékoztatása szerint a 139-es kilométernél az érintett pályaoldalt lezárták, a forgalmat a Mezőnagymihály/Mezőkeresztes csomópontban leterelik a sztrádáról.",
+          "location": "Mezőnagymihály, M3",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/90993/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F90993"
+        }
+      ]
     },
     {
       "id": "90992",
