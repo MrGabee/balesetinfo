@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T14:09:15.827695+00:00",
-  "count": 3180,
+  "updated_at": "2026-08-16T14:13:58.677338+00:00",
+  "count": 3181,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91010",
+      "datetime": "2026.08.16. 16:09",
+      "title": "Tűz volt egy mosodában Budapest VI. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91010",
+      "lead": "A Paulay Ede utcába vonultak a tűzoltók.",
+      "body": "Kisebb tűz volt Budapest VI. kerületében, egy Paulay Ede utcai mosodában. A fővárosi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj kiszellőzteti a füsttel telítődött épületet.",
+      "location": "Budapest, Paulay Ede utca",
+      "updates": []
+    },
     {
       "id": "91009",
       "datetime": "2026.08.16. 15:33",
