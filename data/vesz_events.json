@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-16T11:11:53.172020+00:00",
-  "count": 3175,
+  "updated_at": "2026-08-16T11:15:42.164132+00:00",
+  "count": 3176,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91005",
+      "datetime": "2026.08.16. 13:12",
+      "title": "Frontális karambol a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91005",
+      "lead": "Dunaújváros közelében lezárták az utat.",
+      "body": "Frontálisan ütközött két személyautó a 6-os főúton Dunaújváros közelében, a 73-as kilométerszelvénynél. A dunaújvárosi és paksi hivatásos tűzoltók egy embert kiszabadítottak az egyik gépkocsiból, majd átadták őt a mentőknek. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Dunaújváros, 73",
+      "updates": []
+    },
     {
       "id": "91004",
       "datetime": "2026.08.16. 12:48",
