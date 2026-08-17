@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T15:03:21.647300+00:00",
-  "count": 3225,
+  "updated_at": "2026-08-17T15:06:33.697024+00:00",
+  "count": 3226,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91055",
+      "datetime": "2026.08.17. 17:05",
+      "title": "Kiégett egy lakóház melléképülete Tiszalökön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91055",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy ötven négyzetméteres lakóházhoz épített melléképület hátsó részében keletkezett tűz Tiszalökön, a Nyírfa utcában. A tiszavasvári önkormányzati tűzoltókat követően a hajdúnánási hivatásos tűzoltók is a helyszínre érkeztek, az egységek két vízsugárral, kéziszerszámokkal megfékezték a tüzet. Az esethez a társhatóságok is megérkeztek.",
+      "location": "Tiszalök, Nyírfa utca",
+      "updates": []
+    },
     {
       "id": "91054",
       "datetime": "2026.08.17. 16:57",
