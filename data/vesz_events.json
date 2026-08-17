@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T14:39:13.282959+00:00",
-  "count": 3222,
+  "updated_at": "2026-08-17T14:44:01.859718+00:00",
+  "count": 3223,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91052",
+      "datetime": "2026.08.17. 16:43",
+      "title": "Felborult egy autó Csákvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91052",
+      "lead": "Lezárták a 8119-es út érintett szakaszát.",
+      "body": "Tetejére borult egy gépkocsi a 8119-es út 32-es kilométerszelvényénél, Csákvár térségében, a vérteskozmai elágazásnál. A járműben ketten utaztak, a székesfehérvári hivatásos és a csákvári önkéntes tűzoltók kiérkezése előtt saját erejükből ki tudtak szállni. Az egységek és a társhatóságok teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Csákvár, 8119",
+      "updates": []
+    },
     {
       "id": "91051",
       "datetime": "2026.08.17. 16:09",
