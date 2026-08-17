@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:03:38.670115+00:00",
+  "updated_at": "2026-08-17T10:07:26.866353+00:00",
   "count": 3206,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91033",
-      "datetime": "2026.08.17. 11:31",
+      "datetime": "2026.08.17. 11:31 -",
       "title": "Kigyulladt egy melléképület Bodrogon",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy melléképület Bodrogon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91033",
       "lead": "A Kossuth Lajos utcába riasztották a tűzoltókat.",
       "body": "Tűz keletkezett egy családi házhoz csatlakozó melléképületben, a Somogy vármegyei Bodrogon, a Kossuth Lajos utcában, azaz a 6706-os úton. Az ingatlan tetőszerkezete beomlott. A kaposvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, három vízsugárral oltják a lángokat. A beavatkozás ideje alatt az épület előtti útszakaszon félpályán halad a forgalom.",
       "location": "Bodrog, Kossuth Lajos utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Bodrogon, ahol égett egy melléképület",
+          "datetime": "2026.08.17. 12:04",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet a Somogy vármegyei Bodrogon, a Kossuth Lajos utcában, azaz a 6706-os úton, ahol kigyulladt egy családi házhoz csatlakozó melléképületben. Teljes terjedelmében égett a mintegy ötven négyzetméteres, fából és fémből épült ingatlan, a tetőszerkezete beomlott a tűz következtében. A kaposvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, három vízsugárral fékezték meg a lángokat, amelyek a lakóházra nem terjedtek át. A rajok megkezdték az utómunkálatokat. A beavatkozás ideje alatt az épület előtti útszakaszon félpályán halad a forgalom.",
+          "location": "Bodrog, Kossuth Lajos utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91033/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91033"
+        }
+      ]
     },
     {
       "id": "91032",
