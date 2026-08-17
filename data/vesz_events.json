@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T13:24:21.420188+00:00",
-  "count": 3215,
+  "updated_at": "2026-08-17T13:27:42.900276+00:00",
+  "count": 3216,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91045",
+      "datetime": "2026.08.17. 15:26",
+      "title": "Kisteherautó és személyautó karambolozott a 46-oson, Mezőtúrnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91045",
+      "lead": "A tűzoltók emeltek ki egy utast a kisebb járműből.",
+      "body": "Egy kisteherautó és egy személyautó ütközött össze a 46-os főút 18-as kilométerszelvényénél, Mezőtúr térségében. A baleset következtében a személyautóba beszorult egy utas, akit a mezőtúri hivatásos tűzoltók emeltek ki. Az egység emellett áramtalanította a kocsikat. A helyszínre a tűzoltók és a mentők járművei mellett egy mentőhelikopter is kiérkezett, a beavatkozást a hatóságok teljes útlezárás mellett végzik.",
+      "location": "Mezőtúr, 46",
+      "updates": []
+    },
     {
       "id": "91044",
       "datetime": "2026.08.17. 15:18",
@@ -159,9 +170,9 @@
       "title": "Karambolozott két autó az M7-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91032",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Martonvásárnál a Balaton felé forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó az M7-es autópálya Balaton felé vezető oldalán, Martonvásár közelében, a 31. kilométernél. A műszaki mentést végző érdi hivatásos és martonvásári önkéntes tűzoltók áramtalanították az egyik gépkocsit. A baleset egy sávon akadályozza a forgalmat, az érintett sztrádaszakaszon torlódásra kell számítani.",
+      "location": "Martonvásár, M7",
       "updates": []
     },
     {
