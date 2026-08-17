@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:59:01.303813+00:00",
+  "updated_at": "2026-08-17T14:02:45.457003+00:00",
   "count": 3221,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -93,14 +93,23 @@
     },
     {
       "id": "91042",
-      "datetime": "2026.08.17. 14:15",
+      "datetime": "2026.08.17. 14:15 -",
       "title": "Kigyulladt egy erdő Pusztakovácsinál",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy erdő Pusztakovácsinál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91042",
       "lead": "Részben ég egy körülbelül tízhektáros terület.",
       "body": "Tűz keletkezett egy erdőben Pusztakovácsi és Pamuk között. Egy körülbelül tízhektáros terület egy része ég, és a közelben fenyves is van. A kaposvári és a marcali hivatásos tűzoltók oltják a lángokat. A helyszínre indult több más egység is.",
       "location": "Pusztakovácsi, Prószapuszta",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Pusztakovácsinál",
+          "datetime": "2026.08.17. 16:01",
+          "category": "Tűzeset",
+          "text": "A tűzoltók öt vízsugárral, kéziszerszámokkal és puttonyfecskendővel megfékezték a lángokat Pusztakovácsi és Pamuk között, ahol egy tízhektáros erdőrészben, két és fél hektáron keletkezett tűz. A kaposvári, a marcali, a zalakarosi és a dombóvári hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett dolgoztak. A helyszínre kiérkeztek a somogyvári önkéntes tűzoltók is.",
+          "location": "Pusztakovácsi, Prószapuszta",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91042/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91042"
+        }
+      ]
     },
     {
       "id": "91041",
