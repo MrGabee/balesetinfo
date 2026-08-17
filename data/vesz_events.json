@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T10:49:41.222984+00:00",
-  "count": 3206,
+  "updated_at": "2026-08-17T10:53:34.809666+00:00",
+  "count": 3207,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91036",
+      "datetime": "2026.08.17. 12:50",
+      "title": "Fának ütközött egy autó Nyírbogdány és Kemecse között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91036",
+      "lead": "A hatósági munkálatok idejére lezárták az érintett útszakaszt.",
+      "body": "Letért az úttestről, árokba hajtott, majd fának csapódott egy gépkocsi Nyírbogdány és Kemecse között, a 3823-as út 32-es kilométerszelvényénél. A nyíregyházi hivatásos tűzoltók és a katasztrófavédelmi műveleti szolgálat mellett a társhatóságok is kiérkeztek a helyszínre. Az egységek áramtalanították a járművet, amelyben négyen utaztak. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Nyírbogdány, 3823",
+      "updates": []
+    },
     {
       "id": "91035",
       "datetime": "2026.08.17. 11:36 -",
