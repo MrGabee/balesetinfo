@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T06:51:29.234302+00:00",
-  "count": 3195,
+  "updated_at": "2026-08-17T06:57:08.970894+00:00",
+  "count": 3196,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91025",
+      "datetime": "2026.08.17. 08:55",
+      "title": "Hármas karambol az 5-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91025",
+      "lead": "Kecskemét közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött három személyautó az 5-ös főúton, a Kecskeméthez tartozó Szarkásnál, a 9. kilométer közelében. A kecskeméti hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen négy ember utazott. Az érintett útszakaszt teljes szélességében lezárták a baleset miatt.",
+      "location": "Kecskemét, 5",
+      "updates": []
+    },
     {
       "id": "91024",
       "datetime": "2026.08.17. 08:46",
@@ -97,9 +108,9 @@
       "title": "Tarló és erdősáv égett Bakonypölöskén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91016",
-      "lead": "A tűz körülbelül tizenöt hektárnyi területet érintett.",
-      "body": "Tarló és erdősáv égett Bakonypölöskén, az Új utca közelében. A tűz körülbelül tizenöt hektárnyi területet érintett. A lángokat a pápai, badacsonytomaji és ajkai hivatásos tűzoltók oltották el.",
-      "location": "Bakonypölöske, Új utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
