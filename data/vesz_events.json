@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T16:40:12.324430+00:00",
-  "count": 3226,
+  "updated_at": "2026-08-17T16:43:14.658851+00:00",
+  "count": 3227,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91056",
+      "datetime": "2026.08.17. 18:42",
+      "title": "Villamossal ütközött össze egy személyautó a XII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91056",
+      "lead": "A tűzoltók szüntetik meg a forgalmi akadályt.",
+      "body": "Villamossal ütközött össze egy személyautó a XII. kerületi Alkotás utcában, a BAH-csomópontnál. A baleset miatt forgalmi akadály alakult ki, amelyet a fővárosi hivatásos tűzoltók szüntetnek majd meg.",
+      "location": "Budapest, Alkotás utca",
+      "updates": []
+    },
     {
       "id": "91055",
       "datetime": "2026.08.17. 17:05",
