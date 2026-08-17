@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T12:20:58.245527+00:00",
-  "count": 3213,
+  "updated_at": "2026-08-17T12:24:54.839752+00:00",
+  "count": 3214,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91043",
+      "datetime": "2026.08.17. 14:22",
+      "title": "Ráfutásos baleset az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91043",
+      "lead": "Üllő közelében nagy a torlódás.",
+      "body": "Összeütközött három személygépkocsi az M0-s autóútnak az M1-es autópálya felé vezető oldalán, Üllő közelében, a 39. és a 40. kilométer között. Ráfutásos baleset történt, amelynél a monori hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanítja az egyik járművet. Az érintett útszakaszon félpályán halad a forgalom, nagy a torlódás.",
+      "location": "Üllő, M0",
+      "updates": []
+    },
     {
       "id": "91042",
       "datetime": "2026.08.17. 14:15",
