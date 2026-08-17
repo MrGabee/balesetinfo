@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T08:09:28.053910+00:00",
-  "count": 3200,
+  "updated_at": "2026-08-17T08:14:30.508451+00:00",
+  "count": 3201,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91030",
+      "datetime": "2026.08.17. 10:13",
+      "title": "Árokba hajtott egy autó Hangony és Domaháza között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91030",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Árokba hajtott, majd felborult egy gépkocsi Hangony és Domaháza között, a 2306-os út 16-os kilométerszelvénye közelében, a Tartalóca tanya melletti szakaszon. Négyen utaztak a járműben, amelyet az ózdi hivatásos tűzoltók áramtalanítanak. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Hangony, Tartalóca tanya",
+      "updates": []
+    },
     {
       "id": "91029",
       "datetime": "2026.08.17. 10:06",
@@ -130,9 +141,9 @@
       "title": "Kisebb tűz volt Kiskőrösön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91018",
-      "lead": "A Kossuth Lajos útra riasztották a tűzoltókat.",
-      "body": "Kisebb tűz volt Kiskőrösön, ahol egy Kossuth Lajos úti telepen ütött ki tűz. Egy kamion hátulja égett, valamint egy melléképület. A lángokat a helyi hivatásos és önkéntes tűzoltói oltották el, két vízsugárral.",
-      "location": "Kiskőrös, Kossuth Lajos út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
