@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T08:04:39.443027+00:00",
-  "count": 3199,
+  "updated_at": "2026-08-17T08:09:28.053910+00:00",
+  "count": 3200,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91029",
+      "datetime": "2026.08.17. 10:06",
+      "title": "Tűz volt egy tompai lakóház konyhájában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91029",
+      "lead": "A tűzoltók kihoztak egy gázpalackot az épületből.",
+      "body": "Tűz ütött ki egy százötven négyzetméteres lakóház konyhájában Tompán, a Jókai utcában. A kiskunhalasi hivatásos tűzoltók két vízsugárral előbb körülhatárolták, majd eloltották a lángokat. A munkálatok közben kihoztak az épületből egy gázpalackot, amelyet folyamatosan hűtenek.",
+      "location": "Tompa, Jókai utca",
+      "updates": []
+    },
     {
       "id": "91028",
       "datetime": "2026.08.17. 09:51",
