@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-17T09:30:54.325298+00:00",
-  "count": 3203,
+  "updated_at": "2026-08-17T09:35:52.355143+00:00",
+  "count": 3205,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91034",
+      "datetime": "2026.08.17. 11:33",
+      "title": "Lakóház tetőszerkezete égett Debrecen külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91034",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Munkálatok közben gyulladt ki egy lakóház előtetője és tetőszerkezete Debrecen külterületén, a Zerge utcában. A város hivatásos tűzoltói érkeztek a helyszínre, két vízsugárral előbb körülhatárolták, majd eloltották a lángokat. Az egységek jelenleg az utómunkálatokat végzik.",
+      "location": "Debrecen, Zerge utca",
+      "updates": []
+    },
+    {
+      "id": "91033",
+      "datetime": "2026.08.17. 11:31",
+      "title": "Kigyulladt egy melléképület Bodrogon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91033",
+      "lead": "A Kossuth Lajos utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy családi házhoz csatlakozó melléképületben, a Somogy vármegyei Bodrogon, a Kossuth Lajos utcában, azaz a 6706-os úton. Az ingatlan tetőszerkezete beomlott. A kaposvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, három vízsugárral oltják a lángokat. A beavatkozás ideje alatt az épület előtti útszakaszon félpályán halad a forgalom.",
+      "location": "Bodrog, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91032",
       "datetime": "2026.08.17. 10:41",
