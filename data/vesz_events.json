@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T13:16:26.555263+00:00",
-  "count": 3214,
+  "updated_at": "2026-08-17T13:20:41.029950+00:00",
+  "count": 3215,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91044",
+      "datetime": "2026.08.17. 15:18",
+      "title": "Összeütközött két autó a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91044",
+      "lead": "Debrecen és Ebes között egy szakaszon forgalmi akadály van.",
+      "body": "Karambolozott két gépkocsi Debrecen közelében, a 4-es főút Ebes felé vezető szakaszán, a 218. és a 219. kilométer között. Egy ember beszorult az egyik autóba. Őt a műszaki mentést végző debreceni hivatásos tűzoltók szabadították ki, majd átadták a mentőknek. A raj áramtalanította is az egyik járművet. A beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat vezeti. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Debrecen, 4",
+      "updates": []
+    },
     {
       "id": "91043",
       "datetime": "2026.08.17. 14:22",
