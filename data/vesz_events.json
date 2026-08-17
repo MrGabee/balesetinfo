@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T21:38:59.631072+00:00",
-  "count": 3232,
+  "updated_at": "2026-08-17T21:42:55.551923+00:00",
+  "count": 3233,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91062",
+      "datetime": "2026.08.17. 23:41",
+      "title": "Melléképületek égnek Kalocsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91062",
+      "lead": "Az udvaron felhalmozott szemét is lángol.",
+      "body": "Három melléképület, valamint az udvaron felhalmozott szemét ég Kalocsán, a Malomszögi utcában. A város hivatásos tűzoltói három vízsugárral oltják a lángokat. A paksi és a kiskőrösi hivatásos tűzoltók mellett a katasztrófavédelmi műveleti szolgálat is az esethez tart.",
+      "location": "Kalocsa, Malomszögi utca",
+      "updates": []
+    },
     {
       "id": "91061",
       "datetime": "2026.08.17. 23:02",
