@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-17T13:43:28.362207+00:00",
-  "count": 3217,
+  "updated_at": "2026-08-17T13:47:05.827119+00:00",
+  "count": 3219,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91048",
+      "datetime": "2026.08.17. 15:43",
+      "title": "Összeütközött két autó Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91048",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Két gépkocsi ütközött össze Szegeden, a Fonógyári út és az Ikarusz köz sarkán. Az ütközés következtében az egyik jármű a villamossíneken keresztül a járdára sodródott. A szegedi hivatásos tűzoltók megkezdték a járművek áramtalanítását. A balesethez a mentők is kiérkeztek, valamint a városgazdálkodás szakembereit is a helyszínre kérték az úttestre került szennyeződés miatt.",
+      "location": "Szeged, Fonógyári út",
+      "updates": []
+    },
+    {
+      "id": "91047",
+      "datetime": "2026.08.17. 15:43",
+      "title": "Karambolozott három autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91047",
+      "lead": "A tűzoltók a Faraktár és a Hétvezér utca kereszteződésénél. áramtalanították az egyik járművet.",
+      "body": "Egymásnak ütközött három személyautó Debrecenben, a Faraktár utca, azaz a 48-as főút és a Hétvezér utca kereszteződésénél. A járművekben összesen heten utaztak. A város hivatásos tűzoltói áramtalanították az egyik gépkocsit. A baleset helyszínén forgalomkorlátozás lehet.",
+      "location": "Debrecen, Hétvezér utca",
+      "updates": []
+    },
     {
       "id": "91046",
       "datetime": "2026.08.17. 15:37",
@@ -203,9 +225,9 @@
       "title": "Árokba hajtott egy autó Hangony és Domaháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91030",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Árokba hajtott, majd felborult egy gépkocsi Hangony és Domaháza között, a 2306-os út 16-os kilométerszelvénye közelében, a Tartalóca tanya melletti szakaszon. Négyen utaztak a járműben, amelyet az ózdi hivatásos tűzoltók áramtalanítanak. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Hangony, Tartalóca tanya",
       "updates": []
     },
     {
@@ -283,7 +305,16 @@
       "lead": "Az érintett területeken jégeső eshet és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki heves zivatarok veszélye miatt a HungaroMet. Az érintett területeken jégeső eshet, valamint károkozó, erős szél fújhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.17. 15:47",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok kialakulása miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91023/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91023"
+        }
+      ]
     },
     {
       "id": "91022",
