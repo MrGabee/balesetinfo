@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T11:46:29.736692+00:00",
-  "count": 3210,
+  "updated_at": "2026-08-17T11:50:39.654510+00:00",
+  "count": 3211,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91040",
+      "datetime": "2026.08.17. 13:48",
+      "title": "Árokba borult egy autó Győrszemere és Tét között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91040",
+      "lead": "Lezárták a 8314-es út érintett szakaszát a baleset miatt.",
+      "body": "Árokba borult egy gépkocsi Győrszemere és Tét között, a 8314-es út 23-as kilométerszelvényénél. A járműben csak a vezetője utazott, kiemelésében a győrszemerei és a téti önkéntes tűzoltók nyújtanak segítséget a mentőknek. A balesethez a győri hivatásos tűzoltók is kiérkeztek, a hatósági beavatkozás teljes útlezárás mellett történik.",
+      "location": "Győrszemere, 8314",
+      "updates": []
+    },
     {
       "id": "91039",
       "datetime": "2026.08.17. 13:41",
