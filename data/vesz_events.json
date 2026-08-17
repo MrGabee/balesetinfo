@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T19:50:45.932573+00:00",
-  "count": 3229,
+  "updated_at": "2026-08-17T19:55:16.270333+00:00",
+  "count": 3230,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91059",
+      "datetime": "2026.08.17. 21:52",
+      "title": "Tűz keletkezett egy tanyán, Felgyő külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91059",
+      "lead": "A tűzoltók négy vízsugárral oltották el a lángokat.",
+      "body": "Tanyaépületek körül keletkezett tűz Felgyő és Tömörkény között, a III. kerület tanyán. A lakatlan épületet nem érintették a lángok, azonban egy ól megsemmisült. A csongrádi, a szentesi és a kiskunfélegyházi hivatásos tűzoltók négy vízsugárral és kéziszerszámokkal előbb körülhatárolták, majd eloltották a lángokat. Az egységek jelenleg az utómunkálatokat végzik.",
+      "location": "Felgyő, III. kerület tanya",
+      "updates": []
+    },
     {
       "id": "91058",
       "datetime": "2026.08.17. 21:17",
