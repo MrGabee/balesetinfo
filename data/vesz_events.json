@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T10:59:00.303535+00:00",
-  "count": 3207,
+  "updated_at": "2026-08-17T11:02:33.516559+00:00",
+  "count": 3208,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91037",
+      "datetime": "2026.08.17. 13:01",
+      "title": "Kisteherautóval karambolozott egy személyautó Győrújfalun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91037",
+      "lead": "A tűzoltók a közútkezelő szakembereit kérték a helyszínre.",
+      "body": "Egy kisteherautó és egy személyautó ütközött össze Győrújfalun, a Mártírok utcában, a Margaréta utca közelében. A győri hivatásos tűzoltók megkezdték a karambolos járművek áramtalanítását. A baleset következtében szennyeződés került az úttestre, ezért az egység a közútkezelő munkatársait kérte a helyszínre.",
+      "location": "Győrújfalu, Mártírok utca",
+      "updates": []
+    },
     {
       "id": "91036",
       "datetime": "2026.08.17. 12:50",
