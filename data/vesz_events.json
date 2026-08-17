@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-17T08:39:28.555383+00:00",
-  "count": 3201,
+  "updated_at": "2026-08-17T08:43:35.491153+00:00",
+  "count": 3203,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91032",
+      "datetime": "2026.08.17. 10:41",
+      "title": "Karambolozott két autó az M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91032",
+      "lead": "Martonvásárnál a Balaton felé forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó az M7-es autópálya Balaton felé vezető oldalán, Martonvásár közelében, a 31. kilométernél. A műszaki mentést végző érdi hivatásos és martonvásári önkéntes tűzoltók áramtalanították az egyik gépkocsit. A baleset egy sávon akadályozza a forgalmat, az érintett sztrádaszakaszon torlódásra kell számítani.",
+      "location": "Martonvásár, M7",
+      "updates": []
+    },
+    {
+      "id": "91031",
+      "datetime": "2026.08.17. 10:40",
+      "title": "Árokba borult egy autó Tapolca és Zalahaláp között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91031",
+      "lead": "A tűzoltók állították kerekeire a járművet.",
+      "body": "Árokba hajtott, és a tetejére borult egy gépkocsi Tapolca és Zalahaláp között, a 7317-es út 25-ös kilométerszelvényénél. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A tapolcai önkormányzati tűzoltók kerekeire állították a bajba került autót. A műszaki mentési munkálatok idejére leállították a forgalmat az érintett útszakaszon.",
+      "location": "Tapolca, 7317",
+      "updates": []
+    },
     {
       "id": "91030",
       "datetime": "2026.08.17. 10:13",
