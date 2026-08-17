@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T13:55:36.447438+00:00",
-  "count": 3220,
+  "updated_at": "2026-08-17T13:59:01.303813+00:00",
+  "count": 3221,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91050",
+      "datetime": "2026.08.17. 15:57",
+      "title": "Lehajtott egy autó a 4428-as útról",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91050",
+      "lead": "Nagybánhegyes közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Lesodródott az úttestről és attól mintegy harminc méterre állt meg egy személyautó a 4428-as úton, Mezőkovácsháza és Kaszaper között, Nagybánhegyes közelében. A benne utazó két ember ki tudott szállni a járműből. Hozzájuk mentők érkeztek a helyszínre. A mezőkovácsházai hivatásos tűzoltók áramtalanították a gépkocsit.",
+      "location": "Nagybánhegyes, 4428",
+      "updates": []
+    },
     {
       "id": "91049",
       "datetime": "2026.08.17. 15:51",
