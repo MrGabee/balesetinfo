@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T07:48:28.383655+00:00",
-  "count": 3198,
+  "updated_at": "2026-08-17T07:52:32.779592+00:00",
+  "count": 3199,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91028",
+      "datetime": "2026.08.17. 09:51",
+      "title": "Baleset történt a 37-esen, Olaszliszkánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91028",
+      "lead": "A járművek áramtalanítására volt szükség.",
+      "body": "Két gépjármű ütközött össze a 37-es főút 50-es kilométerszelvényénél, Olaszliszka térségében. Az ütközés következtében az egyik kocsi a fák közé került. A tolcsvai hivatásos tűzoltók áramtalanították az autókat, amelyekben összesen öten utaztak. A társhatóságok is a baleset helyszínén dolgoznak.",
+      "location": "Olaszliszka, 37",
+      "updates": []
+    },
     {
       "id": "91027",
       "datetime": "2026.08.17. 09:43",
