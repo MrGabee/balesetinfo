@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T11:59:34.076081+00:00",
-  "count": 3211,
+  "updated_at": "2026-08-17T12:04:47.395095+00:00",
+  "count": 3212,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91041",
+      "datetime": "2026.08.17. 14:01",
+      "title": "Felborult egy autó Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91041",
+      "lead": "A Hűtőház utcába riasztották a tűzoltókat.",
+      "body": "Árokba csapódott és a tetejére borult egy személyautó Győrben, a Hűtőház utcában, a Dózsa majornál. A járműben egy ember utazott, aki kiszállt, hozzá mentők érkeztek a helyszínre. A pannonhalmi hivatásos tűzoltók a kerekeire állítják és áramtalanítják a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Győr, Hűtőház utca",
+      "updates": []
+    },
     {
       "id": "91040",
       "datetime": "2026.08.17. 13:48",
