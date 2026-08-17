@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T13:47:05.827119+00:00",
-  "count": 3219,
+  "updated_at": "2026-08-17T13:51:57.483650+00:00",
+  "count": 3220,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91049",
+      "datetime": "2026.08.17. 15:51",
+      "title": "Baleset történt Nagyrábénál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91049",
+      "lead": "A 4213-as úton forgalomkorlátozásra kell számítani.",
+      "body": "Elé ugrott egy őz, ezért lehajtott az útról és az út menti árokba, a bokrok közé csapódott egy személyautó a 4213-as úton, Nagyrábé közelében. A járműben egy ember utazott, akit a mentők vizsgálnak. A püspökladányi hivatásos tűzoltók kéziszerszámokkal áramtalanítják a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nagyrábé, 4213",
+      "updates": []
+    },
     {
       "id": "91048",
       "datetime": "2026.08.17. 15:43",
@@ -298,9 +309,9 @@
     },
     {
       "id": "91023",
-      "datetime": "2026.08.17. 07:51",
+      "datetime": "2026.08.17. 07:51 -",
       "title": "Elsőfokú riasztást adott ki heves zivatarok veszélye miatt a HungaroMet",
-      "category": "Meteorológiai riasztás",
+      "category": "Elsőfokú riasztást adott ki heves zivatarok veszélye miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91023",
       "lead": "Az érintett területeken jégeső eshet és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki heves zivatarok veszélye miatt a HungaroMet. Az érintett területeken jégeső eshet, valamint károkozó, erős szél fújhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
