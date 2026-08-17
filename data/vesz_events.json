@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T11:38:38.852579+00:00",
-  "count": 3209,
+  "updated_at": "2026-08-17T11:42:21.453297+00:00",
+  "count": 3210,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91039",
+      "datetime": "2026.08.17. 13:41",
+      "title": "Utoléréses baleset történt a 38-ason, Tokaj és Rakamaz között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91039",
+      "lead": "A tűzoltók a mentőket is a helyszínre kérték.",
+      "body": "Utoléréses baleset szenvedett egy teherautó és egy személyautó Tokaj és Rakamaz között, a 38-as főút 11-es kilométerszelvényénél. Csak a vezetők utaztak a járművekben, amelyek közül a személyautót a nyíregyházi és a rakamazi önkéntes tűzoltók áramtalanították. Az egységek a mentőket kérték a helyszínre, ahol félpályán lezárták az érintett útszakaszt.",
+      "location": "Rakamaz, 38",
+      "updates": []
+    },
     {
       "id": "91038",
       "datetime": "2026.08.17. 13:26",
