@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T21:00:16.296479+00:00",
-  "count": 3231,
+  "updated_at": "2026-08-17T21:04:55.787934+00:00",
+  "count": 3232,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91061",
+      "datetime": "2026.08.17. 23:02",
+      "title": "Baleset történt az M7-esen, Balatonendrédnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91061",
+      "lead": "Elterelik a forgalmat a Siófok felé vezető oldalon.",
+      "body": "Összeütközött két gépkocsi az M7-es autópálya 113-as kilométerszelvényénél, Balatonendréd térségében, a Siófok felé vezető irányban. A baleset következtében a szalagkorlátnak is nekicsapódtak a járművek, amelyekben csak a vezetők utaztak. A siófoki hivatásos tűzoltók és a társhatóságok dolgoznak a helyszínen, ahol elterelik a forgalmat az érintett pályaszakaszon a beavatkozás idejére.",
+      "location": "Balatonendréd, M7",
+      "updates": []
+    },
     {
       "id": "91060",
       "datetime": "2026.08.17. 22:40",
