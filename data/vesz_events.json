@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T11:25:26.776007+00:00",
-  "count": 3208,
+  "updated_at": "2026-08-17T11:29:53.113083+00:00",
+  "count": 3209,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91038",
+      "datetime": "2026.08.17. 13:26",
+      "title": "Oszlopnak hajtott egy autó Acsán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91038",
+      "lead": "A Kossuth út egy szakaszán félpályán halad a forgalom.",
+      "body": "Villanyoszlopnak ütközött egy személyautó Acsán, a Kossuth úton, azaz a 2106-os úton. A járműben ketten utaztak, mindketten ki tudtak szállni, a mentők vizsgálják őket, Az oszlop megrongálódott ütközés következtébe. A berceli hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén félpályán halad a forgalom.",
+      "location": "Acsa, Kossuth út",
+      "updates": []
+    },
     {
       "id": "91037",
       "datetime": "2026.08.17. 13:01",
