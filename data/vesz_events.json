@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T14:48:50.134598+00:00",
-  "count": 3223,
+  "updated_at": "2026-08-17T14:52:36.790586+00:00",
+  "count": 3224,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91053",
+      "datetime": "2026.08.17. 16:50",
+      "title": "Fának ütközött egy autó Szápár és Csetény között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91053",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Letért az úttestről, majd fának ütközött egy gépkocsi Szápár és Csetény között, a 8216-os út 15-ös kilométerszelvényénél. Csak a vezetője utazott a járműben, amelyet a zirci önkormányzati tűzoltók áramtalanítottak. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Szápár, 8216",
+      "updates": []
+    },
     {
       "id": "91052",
       "datetime": "2026.08.17. 16:43",
