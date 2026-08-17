@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T06:43:02.411141+00:00",
-  "count": 3194,
+  "updated_at": "2026-08-17T06:46:56.775995+00:00",
+  "count": 3195,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91024",
+      "datetime": "2026.08.17. 08:46",
+      "title": "Tanyaépület égett Baja külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91024",
+      "lead": "A tűzoltók már az utómunkálatokat végzik az ipari park közelében.",
+      "body": "Kigyulladt egy tanyaépület Baja külterületén, a Szegedi úti ipari park közelében. Teljes terjedelmében égett a mintegy ötven négyzetméteres, lakatlan ingatlan tetőszerkezete, és lángra kapott az udvaron felhalmozott szemét is. A bajai hivatásos tűzoltók két vízsugárral és kéziszerszámokkal megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Baja, IV. körzet tanya",
+      "updates": []
+    },
     {
       "id": "91023",
       "datetime": "2026.08.17. 07:51",
