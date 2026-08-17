@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T19:14:26.611095+00:00",
-  "count": 3228,
+  "updated_at": "2026-08-17T19:18:44.204684+00:00",
+  "count": 3229,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91058",
+      "datetime": "2026.08.17. 21:17",
+      "title": "Villamossínekre csúszott egy autó a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91058",
+      "lead": "A tűzoltók megszüntetik a forgalom akadályt.",
+      "body": "A villamossínekre csúszott egy gépkocsi a X. kerületben, a Bihari utca és a Szállás utca kereszteződésénél. A fővárosi hivatásos tűzoltók megkezdték a forgalmi akadály megszüntetését. Az esethez a közösségi közlekedési társaság szakemberei is kiérkeztek.",
+      "location": "Budapest, Bihari utca",
+      "updates": []
+    },
     {
       "id": "91057",
       "datetime": "2026.08.17. 20:19",
