@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T07:43:27.266858+00:00",
-  "count": 3197,
+  "updated_at": "2026-08-17T07:48:28.383655+00:00",
+  "count": 3198,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91027",
+      "datetime": "2026.08.17. 09:43",
+      "title": "Összeütközött két autó az 51-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91027",
+      "lead": "Baja közelében dolgoznak a tűzoltók, akik egy embert kiszabadítottak az egyik járműből.",
+      "body": "Karambolozott két személyautó az 51-es főút Baja és Bátmonostor közötti szakaszán, a 167. kilométer közelében. Az egyik jármű felborult. Ebbe beszorult egy ember, akit a műszaki mentést végző bajai hivatásos tűzoltók szabadítottak ki. A rajok áramtalanították is a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Baja, 51",
+      "updates": []
+    },
     {
       "id": "91026",
       "datetime": "2026.08.17. 08:58",
