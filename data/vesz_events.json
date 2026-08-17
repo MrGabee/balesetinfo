@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T12:11:47.110596+00:00",
-  "count": 3212,
+  "updated_at": "2026-08-17T12:16:15.098106+00:00",
+  "count": 3213,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91042",
+      "datetime": "2026.08.17. 14:15",
+      "title": "Kigyulladt egy erdő Pusztakovácsinál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91042",
+      "lead": "Részben ég egy körülbelül tízhektáros terület.",
+      "body": "Tűz keletkezett egy erdőben Pusztakovácsi és Pamuk között. Egy körülbelül tízhektáros terület egy része ég, és a közelben fenyves is van. A kaposvári és a marcali hivatásos tűzoltók oltják a lángokat. A helyszínre indult több más egység is.",
+      "location": "Pusztakovácsi, Prószapuszta",
+      "updates": []
+    },
     {
       "id": "91041",
       "datetime": "2026.08.17. 14:01",
