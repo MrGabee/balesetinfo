@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T06:57:08.970894+00:00",
-  "count": 3196,
+  "updated_at": "2026-08-17T07:00:50.718522+00:00",
+  "count": 3197,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91026",
+      "datetime": "2026.08.17. 08:58",
+      "title": "Kisteherautóba csapódott egy kisbusz a 61-esen, Taszárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91026",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Ráfutásos balesetet szenvedett egy kisteherautó és egy kisbusz a 61-es főút 111-es kilométerszelvényénél, Taszár térségében. A baleset következtében a kisbusz a kisteherautó hátuljába csapódott. Összesen négyen utaztak a járművekben, amelyeket a kaposvári hivatásos tűzoltók áramtalanítottak. Az egység mellett a társhatóságok is kiérkeztek az esethez.",
+      "location": "Taszár, 61",
+      "updates": []
+    },
     {
       "id": "91025",
       "datetime": "2026.08.17. 08:55",
@@ -108,9 +119,9 @@
       "title": "Tarló és erdősáv égett Bakonypölöskén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91016",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz körülbelül tizenöt hektárnyi területet érintett.",
+      "body": "Tarló és erdősáv égett Bakonypölöskén, az Új utca közelében. A tűz körülbelül tizenöt hektárnyi területet érintett. A lángokat a pápai, badacsonytomaji és ajkai hivatásos tűzoltók oltották el.",
+      "location": "Bakonypölöske, Új utca",
       "updates": []
     },
     {
