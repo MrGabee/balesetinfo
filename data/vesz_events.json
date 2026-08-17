@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T15:29:04.548440+00:00",
+  "updated_at": "2026-08-17T15:42:45.953703+00:00",
   "count": 3226,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -104,14 +104,23 @@
     },
     {
       "id": "91046",
-      "datetime": "2026.08.17. 15:37",
+      "datetime": "2026.08.17. 15:37 -",
       "title": "Ég az aljnövényzet Hatvannál",
-      "category": "Tűzeset",
+      "category": "Ég az aljnövényzet Hatvannál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91046",
       "lead": "A tűz a fakoronákba is belekapott.",
       "body": "Egy hektáron ég a száraz fű, a bozótos, az aljnövényzet Hatvan külterületén, a Strázsahegyi kertsornál. A lángok a fák koronáit is elérték. A hatvani hivatásos tűzoltók kéziszerszámokkal és puttonyfecskendővel kezdték oltani a tüzet, további egységeket várnak a helyszínre.",
       "location": "Hatvan, Strázsahegyi kertsor",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Hatvannál",
+          "datetime": "2026.08.17. 17:42",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Hatvan külterületén, ahol három hektáron égett a száraz fű, a bozótos, az aljnövényzet a Strázsahegyi kertsornál. A lángok a fák koronáiba is belekaptak, valamint egy melléképület és egy tároló is leégett, és egy téglaépület falát is érintette a tűz. A hatvani, az aszódi és a gyöngyösi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett négy vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották a lángokat, jelenleg az utómunkálatokat végzik.",
+          "location": "Hatvan, Strázsahegyi kertsor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91046/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91046"
+        }
+      ]
     },
     {
       "id": "91045",
