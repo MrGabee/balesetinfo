@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T14:56:57.171498+00:00",
-  "count": 3224,
+  "updated_at": "2026-08-17T15:00:05.995201+00:00",
+  "count": 3225,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91054",
+      "datetime": "2026.08.17. 16:57",
+      "title": "Távközlési vezetékbe akadt egy teherautó a XI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91054",
+      "lead": "Két oszlop is kidőlt a baleset következtében.",
+      "body": "Távközlési vezetékbe akadt egy teherautó a XI. kerületben, a Budaörsi út és a Felsőhatár utca sarkánál. A baleset következtében két oszlopot is kidöntött a jármű. A fővárosi hivatásos tűzoltók érkeztek a műszaki mentési munkálatokhoz, és a társhatóságot is a helyszínre kérték.",
+      "location": "Budapest, Budaörsi út",
+      "updates": []
+    },
     {
       "id": "91053",
       "datetime": "2026.08.17. 16:50",
