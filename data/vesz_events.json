@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T14:07:24.425074+00:00",
-  "count": 3221,
+  "updated_at": "2026-08-17T14:12:18.653610+00:00",
+  "count": 3222,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91051",
+      "datetime": "2026.08.17. 16:09",
+      "title": "Hármas karambol történt Kőszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91051",
+      "lead": "A tűzoltók áramtalanítják az egyik járművet.",
+      "body": "Három gépkocsi ütközött össze Kőszegen, a Velemi út és az Írottkő út kereszteződésében. A város önkormányzati tűzoltói áramtalanítják az egyik járművet. Az egység mellett a mentők is kiérkeztek a balesethez.",
+      "location": "Kőszeg, Velemi út",
+      "updates": []
+    },
     {
       "id": "91050",
       "datetime": "2026.08.17. 15:57",
@@ -408,9 +419,9 @@
       "title": "Lesodródott az útról egy autó a 76-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91017",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Hagyárosbörönd és Ozmánbük között félpályán halad a forgalom.",
+      "body": "Lesodródott az útról egy személyautó a 76-os főút Hagyárosböröndöt és Ozmánbüköt összekötő szakaszán, a 72-es és 73-as kilométerszelvény között. A zalaegerszegi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Ozmánbük, Petőfi Sándor utca",
       "updates": []
     },
     {
