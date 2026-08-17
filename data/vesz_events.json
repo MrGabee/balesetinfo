@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:11:23.331255+00:00",
+  "updated_at": "2026-08-17T10:15:08.228566+00:00",
   "count": 3206,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
       "body": "Kigyulladt egy raktár Jándon, az Árpád utcában. Teljes terjedelmében ég a mintegy ötven négyzetméteres épület. A fehérgyarmati hivatásos és a vásárosnaményi önkormányzati tűzoltók két vízsugárral oltják a lángokat. A rajok megakadályozták a tűz továbbterjedését.",
       "location": "Jánd, Árpád utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a jándi raktártüzet",
+          "datetime": "2026.08.17. 12:09",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Jándon, az Árpád utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy mintegy ötven négyzetméter alapterületű raktár. A fehérgyarmati hivatásos és a vásárosnaményi önkormányzati tűzoltók megakadályozták a tűz továbbterjedését, majd elfojtották a lángokat, és megkezdték az utómunkálatokat.",
+          "location": "Jánd, Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91035/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91035"
+        }
+      ]
     },
     {
       "id": "91034",
