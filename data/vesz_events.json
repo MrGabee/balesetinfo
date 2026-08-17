@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T20:38:51.063101+00:00",
-  "count": 3230,
+  "updated_at": "2026-08-17T20:43:21.346203+00:00",
+  "count": 3231,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91060",
+      "datetime": "2026.08.17. 22:40",
+      "title": "Szalagkorlátnak ütközött egy autó az M0-son, Pécel és a főváros határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91060",
+      "lead": "Egy sávon halad a forgalom Maglód irányában.",
+      "body": "Szalagkorlátnak ütközött egy gépkocsi az M0-s autóút 52-es kilométerszelvényénél, Pécel és Budapest határában, a Maglód felé vezető irányban. A fővárosi hivatásos tűzoltók áramtalanították a bajba került járművet. Az érintett útszakaszon egy sávon halad a forgalom a baleset miatt.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "91059",
       "datetime": "2026.08.17. 21:52",
