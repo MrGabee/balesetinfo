@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-17T13:36:07.713633+00:00",
-  "count": 3216,
+  "updated_at": "2026-08-17T13:39:47.980118+00:00",
+  "count": 3217,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91046",
+      "datetime": "2026.08.17. 15:37",
+      "title": "Ég az aljnövényzet Hatvannál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91046",
+      "lead": "A tűz a fakoronákba is belekapott.",
+      "body": "Egy hektáron ég a száraz fű, a bozótos, az aljnövényzet Hatvan külterületén, a Strázsahegyi kertsornál. A lángok a fák koronáit is elérték. A hatvani hivatásos tűzoltók kéziszerszámokkal és puttonyfecskendővel kezdték oltani a tüzet, további egységeket várnak a helyszínre.",
+      "location": "Hatvan, Strázsahegyi kertsor",
+      "updates": []
+    },
     {
       "id": "91045",
       "datetime": "2026.08.17. 15:26",
