@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T15:46:34.451321+00:00",
-  "count": 3256,
+  "updated_at": "2026-08-18T15:50:13.426447+00:00",
+  "count": 3257,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91086",
+      "datetime": "2026.08.18. 17:47",
+      "title": "Elgázolt egy embert a Mecsek Intercity Sárbogárd és Rétszilas között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91086",
+      "lead": "A vasúttársaság tájékoztatása szerint a pécsi fővonalon hosszabb eljutási időre kell számítani.",
+      "body": "Sárbogárd és Rétszilas között elütött egy embert a Kelenföldről Pécsre közlekedő Mecsek Intercity. Az esethez a sárbogárdi hivatásos tűzoltókat riasztották, akik gyalogosan közelítették meg a szerencsétlenül járt embert. A vasúttársaság információi szerint a vonaton négyszázötvenen utaztak, értük mentesítő buszjáratokat indítottak. Mint közölték, a baleset miatt fennakadásra, hosszabb menetidőre kell számítani az érintett fővonalon.",
+      "location": "Sárbogárd, Vasúti őrház",
+      "updates": []
+    },
     {
       "id": "91085",
       "datetime": "2026.08.18. 17:33",
