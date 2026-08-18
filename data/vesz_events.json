@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T01:50:50.966696+00:00",
-  "count": 3234,
+  "updated_at": "2026-08-18T01:53:59.779189+00:00",
+  "count": 3235,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91064",
+      "datetime": "2026.08.18. 03:52",
+      "title": "Robbanás, majd tűz volt egy győrvári lakóházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91064",
+      "lead": "A tűzoltók eloltották a lángokat.",
+      "body": "Robbanás történt, majd tűz ütött ki egy családi házban Győrváron, a Rákóczi utcában. A robbanás következtében a födém és az épület falai rongálódtak, a szomszédos lakóépület ablakainak egy része kitört. A vasvári önkormányzati tűzoltókat követően a zalaegerszegi hivatásos egységek is a helyszínre értek, eloltották a lángokat. Az egységek a munkálatok közben eltávolították a szükséges épületelemeket az életveszélyessé vált háznál.",
+      "location": "Győrvár, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "91063",
       "datetime": "2026.08.18. 00:17",
