@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T11:03:31.430268+00:00",
-  "count": 3240,
+  "updated_at": "2026-08-18T11:08:23.883941+00:00",
+  "count": 3241,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91070",
+      "datetime": "2026.08.18. 13:06",
+      "title": "Frontálisan karambolozott két autó Rákosszentmihályon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91070",
+      "lead": "A Rákosi út és a József utca kereszteződésénél történt a baleset.",
+      "body": "Szemből egymásba hajtott két személykocsi Budapest tizenhatodik kerületében, a Rákosi út és a József utca kereszteződésénél. Mindkét autóban csak annak vezetője ült, a két sofőr ki tudott szállni járművéből, a helyszínre mentő is érkezett. A fővárosi hivatásos tűzoltók végzik a műszaki mentést, áramtalanították a gépkocsikat. A forgalom csak félpályán haladhat, ez érinti a közösségi közlekedést is.",
+      "location": "Budapest, Rákosi út",
+      "updates": []
+    },
     {
       "id": "91069",
       "datetime": "2026.08.18. 11:03",
