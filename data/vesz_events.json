@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T12:02:49.792924+00:00",
-  "count": 3241,
+  "updated_at": "2026-08-18T12:05:54.259613+00:00",
+  "count": 3242,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91071",
+      "datetime": "2026.08.18. 14:05",
+      "title": "Gázolt a vonat Dunakeszin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91071",
+      "lead": "A tűzoltók segítenek a szerelvény utasainak átszállni a mentesítő járatra.",
+      "body": "Elgázolt egy embert a vonat Dunakeszin, a Gyártelep megálló közelében, a Béke utcánál. A szerelvény a baleset miatt nem tud továbbmenni. Ezért a rajta utazó mintegy kétszáz embernek a műszaki mentést végző fővárosi hivatásos és újpesti önkéntes tűzoltók segítenek átszállni az értük érkező mentesítő járatra.",
+      "location": "Dunakeszi, Béke utca",
+      "updates": []
+    },
     {
       "id": "91070",
       "datetime": "2026.08.18. 13:06",
