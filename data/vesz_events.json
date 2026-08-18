@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:55:58.226818+00:00",
+  "updated_at": "2026-08-18T12:59:43.725393+00:00",
   "count": 3245,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -205,10 +205,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91057",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.17. 23:33",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok kialakulása miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91057/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91057"
+        }
+      ]
     },
     {
       "id": "91056",
@@ -454,9 +463,9 @@
       "title": "Fának ütközött egy autó Nyírbogdány és Kemecse között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91036",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A hatósági munkálatok idejére lezárták az érintett útszakaszt.",
+      "body": "Letért az úttestről, árokba hajtott, majd fának csapódott egy gépkocsi Nyírbogdány és Kemecse között, a 3823-as út 32-es kilométerszelvényénél. A nyíregyházi hivatásos tűzoltók és a katasztrófavédelmi műveleti szolgálat mellett a társhatóságok is kiérkeztek a helyszínre. Az egységek áramtalanították a járművet, amelyben négyen utaztak. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Nyírbogdány, 3823",
       "updates": []
     },
     {
@@ -465,9 +474,9 @@
       "title": "Ég egy raktár Jándon, az Árpád utcában",
       "category": "Ég egy raktár Jándon, az Árpád utcában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91035",
-      "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
-      "body": "Kigyulladt egy raktár Jándon, az Árpád utcában. Teljes terjedelmében ég a mintegy ötven négyzetméteres épület. A fehérgyarmati hivatásos és a vásárosnaményi önkormányzati tűzoltók két vízsugárral oltják a lángokat. A rajok megakadályozták a tűz továbbterjedését.",
-      "location": "Jánd, Árpád utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
