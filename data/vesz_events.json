@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-18T14:07:41.743288+00:00",
-  "count": 3249,
+  "updated_at": "2026-08-18T14:12:35.031998+00:00",
+  "count": 3251,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91080",
+      "datetime": "2026.08.18. 16:08",
+      "title": "Karambol a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91080",
+      "lead": "A Veszprémet elkerülő szakaszon történt a baleset.",
+      "body": "Összeütközött egy személyautó és egy motorkerékpár a 8-as főút Veszprémet elkerülő szakaszán, az 55. és az 56. kilométer között. A veszprémi hivatásos tűzoltók végzik a műszaki mentést a karambolnál, amelyhez a mentőket is riasztották. A baleset helyszínén forgalmi akadályra kell számítani.",
+      "location": "Veszprém, 8",
+      "updates": []
+    },
+    {
+      "id": "91079",
+      "datetime": "2026.08.18. 16:08",
+      "title": "Összeütközött két autó a 31-es főúton, Maglódon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91079",
+      "lead": "A Mendel Károly utcai kereszteződéshez a monori tűzoltók vonultak.",
+      "body": "Két személykocsi karambolozott a 31-es főút maglódi szakaszán, a Mendel Károly utcai kereszteződésnél. Mindkét járműben csak annak vezetője utazott, a sofőrökhöz mentőt riasztottak. A monori hivatásos tűzoltók áramtalanították az autókat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Maglód, 31",
+      "updates": []
+    },
     {
       "id": "91078",
       "datetime": "2026.08.18. 15:34",
