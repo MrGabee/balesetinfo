@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T12:13:29.212658+00:00",
-  "count": 3243,
+  "updated_at": "2026-08-18T12:17:47.588839+00:00",
+  "count": 3244,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91073",
+      "datetime": "2026.08.18. 14:16",
+      "title": "Fának ütközött egy autó a 4429-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91073",
+      "lead": "Medgyesbodzás közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba hajtott, majd fának ütközött egy személyautó a 4429-es úton, Medgyesbodzás és Csanádapáca között. A műszaki mentést végző mezőkovácsházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán halad a forgalom.",
+      "location": "Medgyesbodzás, 4429",
+      "updates": []
+    },
     {
       "id": "91072",
       "datetime": "2026.08.18. 14:08",
