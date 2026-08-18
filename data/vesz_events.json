@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T16:02:37.636273+00:00",
-  "count": 3257,
+  "updated_at": "2026-08-18T16:06:32.481117+00:00",
+  "count": 3258,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91087",
+      "datetime": "2026.08.18. 18:03",
+      "title": "Baleset történt a 834-es úton, Nyárád közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91087",
+      "lead": "Egy autó letért az útról, vezetője kizuhant a járműből.",
+      "body": "Letért az útról és a szántóföldön állt meg egy személykocsi a 834-es út 6-os kilométerénél, Nyárád közelében. Az autó vezetője kizuhant a járműből, mentőhelikopter érkezett hozzá. A pápai hivatásos tűzoltók áramtalanították a gépkocsit. A főút érintett szakaszát egy időre teljes szélességében lezárták.",
+      "location": "Nyárád, 834",
+      "updates": []
+    },
     {
       "id": "91086",
       "datetime": "2026.08.18. 17:47",
