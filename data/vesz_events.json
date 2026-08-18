@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-18T13:24:05.199618+00:00",
-  "count": 3246,
+  "updated_at": "2026-08-18T13:28:23.940422+00:00",
+  "count": 3248,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91077",
+      "datetime": "2026.08.18. 15:26",
+      "title": "Erdőtűz Csólyospálos közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077",
+      "lead": "Mintegy négy hektárt érintenek a lángok, amelyeket nagy erőkkel oltanak a tűzoltók.",
+      "body": "Kigyulladt egy erdős terület, Csólyospálos és Kömpöc között. Akácos, valamint nyárfás ég mintegy négy hektáron, és kivágott fák tuskói is meggyulladtak. A kiskunmajsai, a szegedi, a ruzsai és a kisteleki hivatásos, valamint a csólyospálosi önkéntes tűzoltók oltják a lángokat. A helyszínre indult számos más egység is.",
+      "location": "Csólyospálos, Felsőcsolyos tanya",
+      "updates": []
+    },
+    {
+      "id": "91076",
+      "datetime": "2026.08.18. 15:25",
+      "title": "Ráfutásos baleset Kup és Bakonypölöske között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91076",
+      "lead": "A 8402-es út 15-ös kilométerénél történt a baleset.",
+      "body": "Ráfutásos balesetet szenvedett két autó a 8402-es út Kup és Bakonypölöske közötti szakaszán. Mindkét járműben két ember utazott. A pápai hivatásos tűzoltók áramtalanították a gépkocsikat. A járművek akadályozzák a forgalmat, az érintett útszakasz csak félpályán járható.",
+      "location": "Kup, 8402",
+      "updates": []
+    },
     {
       "id": "91075",
       "datetime": "2026.08.18. 15:09",
@@ -97,9 +119,9 @@
       "title": "Árokba hajtott egy autó az M6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91067",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Daruszentmiklósnál dolgoznak a tűzoltók, akik egy embert kiszabadítottak a járműből.",
+      "body": "Árokba sodródott egy személyautó az M6-os autópálya Budapest felé vezető oldalán, Daruszentmiklós közelében, a 81. kilométernél. Egy ember beszorult a járműbe. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző solti és paksi hivatásos, valamint dunaföldvári önkéntes tűzoltók.",
+      "location": "Daruszentmiklós, M6",
       "updates": []
     },
     {
