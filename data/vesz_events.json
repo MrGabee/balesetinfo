@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T17:30:57.341060+00:00",
+  "updated_at": "2026-08-18T17:34:22.676317+00:00",
   "count": 3260,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -153,7 +153,16 @@
       "lead": "Mintegy négy hektárt érintenek a lángok, amelyeket nagy erőkkel oltanak a tűzoltók.",
       "body": "Kigyulladt egy erdős terület, Csólyospálos és Kömpöc között. Akácos, valamint nyárfás ég mintegy négy hektáron, és kivágott fák tuskói is meggyulladtak. A kiskunmajsai, a szegedi, a ruzsai és a kisteleki hivatásos, valamint a csólyospálosi önkéntes tűzoltók oltják a lángokat. A helyszínre indult számos más egység is.",
       "location": "Csólyospálos, Felsőcsolyos tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók eloltották a Csólyospálosnál keletkezett tüzet",
+          "datetime": "2026.08.18. 19:30",
+          "category": "Tűzeset",
+          "text": "Egy tízhektáros területen vegyes-, nyár- és akácerdő, valamint egy nagyjából kétszázötven méter hosszú tuskósor égett Csólyospálos és Kömpöc között. Kiskunmajsai, kisteleki, ruzsai, szegedi, kiskunhalasi, kiskunfélegyházi hivatásos, valamint csólyospálosi és kiskunhalasi önkéntes tűzoltók oltották a lángokat. Az egységek a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról hat vízsugárral, kéziszerszámokkal fékezték meg a lángokat. A munkában húsz civil is részt vett kéziszerszámokkal, emellett két homlokrakodó és egy markoló is segítette a beavatkozást. Az egységek nagyjából ötórányi munka után átadták a területet a tulajdonos képviselőjének.",
+          "location": "Csólyospálos, Felsőcsolyos tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91077"
+        }
+      ]
     },
     {
       "id": "91076",
