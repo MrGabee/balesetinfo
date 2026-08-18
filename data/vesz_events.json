@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T06:41:59.287257+00:00",
-  "count": 3236,
+  "updated_at": "2026-08-18T06:46:41.182209+00:00",
+  "count": 3237,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91066",
+      "datetime": "2026.08.18. 08:42",
+      "title": "Baleset történt a 36-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91066",
+      "lead": "A Nyíregyháza és Tiszavasvári közötti szakaszon forgalmi akadály van.",
+      "body": "Lesodródott az úttestről és a fasorban az oldalára borulva állt meg egy személyautó Nyíregyháza közelében, a Tiszavasvári úton, azaz a 36-os főúton, a 45. kilométernél. A járműben ketten utaztak, őket megvizsgálták a mentők. A nyíregyházi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén félpályán lezárták az utat.",
+      "location": "Nyíregyháza, Tiszavasvári út",
+      "updates": []
+    },
     {
       "id": "91065",
       "datetime": "2026.08.18. 06:27",
