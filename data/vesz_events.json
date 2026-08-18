@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T19:59:58.350223+00:00",
-  "count": 3260,
+  "updated_at": "2026-08-18T20:03:38.248615+00:00",
+  "count": 3261,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91090",
+      "datetime": "2026.08.18. 22:00",
+      "title": "Felborult egy autó Nemesbükön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91090",
+      "lead": "A Hegykapu utcába a keszthelyi tűzoltókat riasztották.",
+      "body": "Az oldalára borult egy személykocsi Nemesbükön, a Hegykapu utcában. A járműben hárman ültek, az utasokhoz mentő érkezett. A keszthelyi hivatásos tűzoltók vonultak az esethez.",
+      "location": "Nemesbük, Hegykapu utca",
+      "updates": []
+    },
     {
       "id": "91089",
       "datetime": "2026.08.18. 18:33",
