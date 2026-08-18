@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T12:05:54.259613+00:00",
-  "count": 3242,
+  "updated_at": "2026-08-18T12:09:15.604188+00:00",
+  "count": 3243,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91072",
+      "datetime": "2026.08.18. 14:08",
+      "title": "Összeütközött három jármű Cegléden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91072",
+      "lead": "Az Összekötő út és a Nefelejcs utca kereszteződésénél egy kisteherautó és két személykocsi karambolozott.",
+      "body": "Egymásba hajtott egy kisteherautó és két személykocsi Cegléden. A baleset az Összekötő út és a Nefelejcs utca sarkán történt, az esethez a város hivatásos tűzoltóit riasztották. Az egység az egyik autó ajtaját felnyitotta. A járművekben összesen négyen utaztak, mentő érkezett hozzájuk.",
+      "location": "Cegléd, Összekötő út",
+      "updates": []
+    },
     {
       "id": "91071",
       "datetime": "2026.08.18. 14:05",
