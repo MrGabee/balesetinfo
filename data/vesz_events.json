@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T14:12:35.031998+00:00",
-  "count": 3251,
+  "updated_at": "2026-08-18T14:15:42.547955+00:00",
+  "count": 3252,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91081",
+      "datetime": "2026.08.18. 16:13",
+      "title": "Elgázolt egy gyalogost a vonat Zalaegerszeg külterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91081",
+      "lead": "A zalaegerszegi tűzoltókat riasztották az esethez.",
+      "body": "Elgázolt egy embert a Zalaegerszegről Celldömölkre közlekedő vonat a vármegyeszékhely és Zalaszentiván között. A járaton tizenkét utas és háromfős személyzet utazott. Az utasok a klimatizált vonaton várják meg, míg a mentestítő busz a helyszínre nem érkezik. A zalaegerszegi hivatásos tűzoltók biztosítják a helyszínt, és az átszállásban segítenek majd.",
+      "location": "Zalaegerszeg, külterület",
+      "updates": []
+    },
     {
       "id": "91080",
       "datetime": "2026.08.18. 16:08",
