@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T04:26:36.258222+00:00",
-  "count": 3235,
+  "updated_at": "2026-08-18T04:30:27.254042+00:00",
+  "count": 3236,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91065",
+      "datetime": "2026.08.18. 06:27",
+      "title": "Árokba hajtott egy autó a 442-esen, Rákóczifalvánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91065",
+      "lead": "A tűzoltók nyitották ki a jármű beszorult ajtaját.",
+      "body": "Lesodródott az úttestről, majd árokba borult egy gépkocsi a 442-es főút 11-es kilométerszelvényénél, Rákóczifalva térségében. A járműben csak a vezetője utazott, aki beszorult, a szolnoki hivatásos tűzoltók mentették ki. A balesethez a mentők is kiérkeztek az egység mellett.",
+      "location": "Rákóczifalva, 442",
+      "updates": []
+    },
     {
       "id": "91064",
       "datetime": "2026.08.18. 03:52",
