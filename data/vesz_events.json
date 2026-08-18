@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T15:08:15.471688+00:00",
-  "count": 3254,
+  "updated_at": "2026-08-18T15:12:39.885923+00:00",
+  "count": 3255,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91084",
+      "datetime": "2026.08.18. 17:12",
+      "title": "Felborult egy autó Szergény határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91084",
+      "lead": "A 8411-es út 24-25-ös kilométere között van szükség tűzoltói beavatkozásra.",
+      "body": "Letért az útról, árokba hajtott és ott felborult egy személykocsi Szergény határában. A pápai hivatásos tűzoltók áramtalanították az autót. A jármű két utasa ki tudott szállni a kocsiból, mentő érkezett hozzájuk.",
+      "location": "Szergény, 8411",
+      "updates": []
+    },
     {
       "id": "91083",
       "datetime": "2026.08.18. 17:02",
