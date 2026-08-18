@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T08:48:22.338405+00:00",
-  "count": 3238,
+  "updated_at": "2026-08-18T08:52:28.276461+00:00",
+  "count": 3239,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91068",
+      "datetime": "2026.08.18. 10:52",
+      "title": "Baleset történt a 61-es főúton, Kaposmérő térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91068",
+      "lead": "A 128-129-es kilométer között árokba hajtott egy autó.",
+      "body": "Letért az útról és árokba hajtott egy személykocsi a 61-es főút 128-129-es kilométere között. A Kaposmérő térségében történt balesethez a kaposvári hivatásos tűzoltókat riasztották. Az autóban csak a sofőr utazott, ki tudott szállni járművéből, mentőt riasztottak hozzá. A főút érintett szakasza félpályán járható.",
+      "location": "Kaposmérő, 61",
+      "updates": []
+    },
     {
       "id": "91067",
       "datetime": "2026.08.18. 09:29",
