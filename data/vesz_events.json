@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T07:26:04.203277+00:00",
-  "count": 3237,
+  "updated_at": "2026-08-18T07:30:21.781071+00:00",
+  "count": 3238,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91067",
+      "datetime": "2026.08.18. 09:29",
+      "title": "Árokba hajtott egy autó az M6-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91067",
+      "lead": "Daruszentmiklósnál dolgoznak a tűzoltók, akik egy embert kiszabadítottak a járműből.",
+      "body": "Árokba sodródott egy személyautó az M6-os autópálya Budapest felé vezető oldalán, Daruszentmiklós közelében, a 81. kilométernél. Egy ember beszorult a járműbe. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző solti és paksi hivatásos, valamint dunaföldvári önkéntes tűzoltók.",
+      "location": "Daruszentmiklós, M6",
+      "updates": []
+    },
     {
       "id": "91066",
       "datetime": "2026.08.18. 08:42",
