@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:51:29.299096+00:00",
+  "updated_at": "2026-08-18T12:55:58.226818+00:00",
   "count": 3245,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Összeütközött három jármű Cegléden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91072",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Összekötő út és a Nefelejcs utca kereszteződésénél egy kisteherautó és két személykocsi karambolozott.",
+      "body": "Egymásba hajtott egy kisteherautó és két személykocsi Cegléden. A baleset az Összekötő út és a Nefelejcs utca sarkán történt, az esethez a város hivatásos tűzoltóit riasztották. Az egység az egyik autó ajtaját felnyitotta. A járművekben összesen négyen utaztak, mentő érkezett hozzájuk.",
+      "location": "Cegléd, Összekötő út",
       "updates": []
     },
     {
@@ -42,9 +42,9 @@
       "title": "Gázolt a vonat Dunakeszin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91071",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítenek a szerelvény utasainak átszállni a mentesítő járatra.",
+      "body": "Elgázolt egy embert a vonat Dunakeszin, a Gyártelep megálló közelében, a Béke utcánál. A szerelvény a baleset miatt nem tud továbbmenni. Ezért a rajta utazó mintegy kétszáz embernek a műszaki mentést végző fővárosi hivatásos és újpesti önkéntes tűzoltók segítenek átszállni az értük érkező mentesítő járatra.",
+      "location": "Dunakeszi, Béke utca",
       "updates": []
     },
     {
@@ -86,9 +86,9 @@
       "title": "Árokba hajtott egy autó az M6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91067",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Daruszentmiklósnál dolgoznak a tűzoltók, akik egy embert kiszabadítottak a járműből.",
+      "body": "Árokba sodródott egy személyautó az M6-os autópálya Budapest felé vezető oldalán, Daruszentmiklós közelében, a 81. kilométernél. Egy ember beszorult a járműbe. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző solti és paksi hivatásos, valamint dunaföldvári önkéntes tűzoltók.",
+      "location": "Daruszentmiklós, M6",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Baleset történt a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91066",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nyíregyháza és Tiszavasvári közötti szakaszon forgalmi akadály van.",
+      "body": "Lesodródott az úttestről és a fasorban az oldalára borulva állt meg egy személyautó Nyíregyháza közelében, a Tiszavasvári úton, azaz a 36-os főúton, a 45. kilométernél. A járműben ketten utaztak, őket megvizsgálták a mentők. A nyíregyházi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén félpályán lezárták az utat.",
+      "location": "Nyíregyháza, Tiszavasvári út",
       "updates": []
     },
     {
@@ -119,9 +119,9 @@
       "title": "Robbanás, majd tűz volt egy győrvári lakóházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91064",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eloltották a lángokat.",
+      "body": "Robbanás történt, majd tűz ütött ki egy családi házban Győrváron, a Rákóczi utcában. A robbanás következtében a födém és az épület falai rongálódtak, a szomszédos lakóépület ablakainak egy része kitört. A vasvári önkormányzati tűzoltókat követően a zalaegerszegi hivatásos egységek is a helyszínre értek, eloltották a lángokat. Az egységek a munkálatok közben eltávolították a szükséges épületelemeket az életveszélyessé vált háznál.",
+      "location": "Győrvár, Rákóczi utca",
       "updates": []
     },
     {
@@ -130,9 +130,9 @@
       "title": "Tűz volt Jászladányban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91063",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy hatvan négyzetméteres parasztház mellett álló, ólnak használt melléképület égett Jászladányban, a Szép utcában. A tűz kissé átterjedt a főépület és egy másik melléképület tetőszerkezetére. A jászberényi hivatásos és a jászkiséri önkormányzati tűzoltók két vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A tűzben az ól teljesen megsemmisült, a ház és a másik melléképület teteje kissé károsodott. A ház lakható maradt, így lakosságvédelmi intézkedésre nem lesz szükség.",
+      "location": "Jászladány, Szép utca",
       "updates": []
     },
     {
@@ -141,10 +141,19 @@
       "title": "Melléképületek égnek Kalocsán",
       "category": "Melléképületek égnek Kalocsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91062",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az udvaron felhalmozott szemét is lángol.",
+      "body": "Három melléképület, valamint az udvaron felhalmozott szemét ég Kalocsán, a Malomszögi utcában. A város hivatásos tűzoltói három vízsugárral oltják a lángokat. A paksi és a kiskőrösi hivatásos tűzoltók mellett a katasztrófavédelmi műveleti szolgálat is az esethez tart.",
+      "location": "Kalocsa, Malomszögi utca",
+      "updates": [
+        {
+          "title": "Már csak a szemét tüzét oltják Kalocsán",
+          "datetime": "2026.08.18. 01:26",
+          "category": "Tűzeset",
+          "text": "A kalocsai, a paksi és a kiskőrösi hivatásos tűzoltók öt vízsugárral megszüntették Kalocsán annak a három melléképületnek a lángjait, amelyek a Malomszögi utcában gyulladtak ki. Az udvaron felhalmozott szemét, valamint az egyik porta mellett álló tíz szénabála tüzét még oltják az egységek. A lángok nem terjedtek át a lakóépületekre.",
+          "location": "Kalocsa, Malomszögi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91062/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91062"
+        }
+      ]
     },
     {
       "id": "91061",
@@ -152,9 +161,9 @@
       "title": "Baleset történt az M7-esen, Balatonendrédnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91061",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Elterelik a forgalmat a Siófok felé vezető oldalon.",
+      "body": "Összeütközött két gépkocsi az M7-es autópálya 113-as kilométerszelvényénél, Balatonendréd térségében, a Siófok felé vezető irányban. A baleset következtében a szalagkorlátnak is nekicsapódtak a járművek, amelyekben csak a vezetők utaztak. A siófoki hivatásos tűzoltók és a társhatóságok dolgoznak a helyszínen, ahol elterelik a forgalmat az érintett pályaszakaszon a beavatkozás idejére.",
+      "location": "Balatonendréd, M7",
       "updates": []
     },
     {
@@ -196,19 +205,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91057",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.08.17. 23:33",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok kialakulása miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91057/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91057"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91056",
@@ -454,9 +454,9 @@
       "title": "Fának ütközött egy autó Nyírbogdány és Kemecse között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91036",
-      "lead": "A hatósági munkálatok idejére lezárták az érintett útszakaszt.",
-      "body": "Letért az úttestről, árokba hajtott, majd fának csapódott egy gépkocsi Nyírbogdány és Kemecse között, a 3823-as út 32-es kilométerszelvényénél. A nyíregyházi hivatásos tűzoltók és a katasztrófavédelmi műveleti szolgálat mellett a társhatóságok is kiérkeztek a helyszínre. Az egységek áramtalanították a járművet, amelyben négyen utaztak. A beavatkozás idejére lezárták az érintett útszakaszt.",
-      "location": "Nyírbogdány, 3823",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -468,16 +468,7 @@
       "lead": "A tűzoltók megakadályozták a lángok továbbterjedését.",
       "body": "Kigyulladt egy raktár Jándon, az Árpád utcában. Teljes terjedelmében ég a mintegy ötven négyzetméteres épület. A fehérgyarmati hivatásos és a vásárosnaményi önkormányzati tűzoltók két vízsugárral oltják a lángokat. A rajok megakadályozták a tűz továbbterjedését.",
       "location": "Jánd, Árpád utca",
-      "updates": [
-        {
-          "title": "Megfékezték a jándi raktártüzet",
-          "datetime": "2026.08.17. 12:09",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Jándon, az Árpád utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy mintegy ötven négyzetméter alapterületű raktár. A fehérgyarmati hivatásos és a vásárosnaményi önkormányzati tűzoltók megakadályozták a tűz továbbterjedését, majd elfojtották a lángokat, és megkezdték az utómunkálatokat.",
-          "location": "Jánd, Árpád utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91035/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91035"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91034",
