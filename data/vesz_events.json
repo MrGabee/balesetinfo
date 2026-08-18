@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T13:32:04.091083+00:00",
-  "count": 3248,
+  "updated_at": "2026-08-18T13:35:17.178490+00:00",
+  "count": 3249,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91078",
+      "datetime": "2026.08.18. 15:34",
+      "title": "Árokba hajtott egy személykocsi a 47-es főúton, Algyő közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91078",
+      "lead": "A 210-es kilométerhez a szegedi tűzoltókat riasztották.",
+      "body": "Lesodródott az úttestről és árokba borult egy autó a 47-es főúton, Algyő közelében. A 210-es kilométernél balesetet szenvedett járműben öten utaztak, a helyszínre mentő is érkezett. A szegedi hivatásos tűzoltók vonultak az esethez.",
+      "location": "Algyő, 47",
+      "updates": []
+    },
     {
       "id": "91077",
       "datetime": "2026.08.18. 15:26",
@@ -130,9 +141,9 @@
       "title": "Baleset történt a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91066",
-      "lead": "A Nyíregyháza és Tiszavasvári közötti szakaszon forgalmi akadály van.",
-      "body": "Lesodródott az úttestről és a fasorban az oldalára borulva állt meg egy személyautó Nyíregyháza közelében, a Tiszavasvári úton, azaz a 36-os főúton, a 45. kilométernél. A járműben ketten utaztak, őket megvizsgálták a mentők. A nyíregyházi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén félpályán lezárták az utat.",
-      "location": "Nyíregyháza, Tiszavasvári út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -410,9 +421,9 @@
       "title": "Ráfutásos baleset az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91043",
-      "lead": "Üllő közelében nagy a torlódás.",
-      "body": "Összeütközött három személygépkocsi az M0-s autóútnak az M1-es autópálya felé vezető oldalán, Üllő közelében, a 39. és a 40. kilométer között. Ráfutásos baleset történt, amelynél a monori hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanítja az egyik járművet. Az érintett útszakaszon félpályán halad a forgalom, nagy a torlódás.",
-      "location": "Üllő, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -421,19 +432,10 @@
       "title": "Kigyulladt egy erdő Pusztakovácsinál",
       "category": "Kigyulladt egy erdő Pusztakovácsinál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91042",
-      "lead": "Részben ég egy körülbelül tízhektáros terület.",
-      "body": "Tűz keletkezett egy erdőben Pusztakovácsi és Pamuk között. Egy körülbelül tízhektáros terület egy része ég, és a közelben fenyves is van. A kaposvári és a marcali hivatásos tűzoltók oltják a lángokat. A helyszínre indult több más egység is.",
-      "location": "Pusztakovácsi, Prószapuszta",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Pusztakovácsinál",
-          "datetime": "2026.08.17. 16:01",
-          "category": "Tűzeset",
-          "text": "A tűzoltók öt vízsugárral, kéziszerszámokkal és puttonyfecskendővel megfékezték a lángokat Pusztakovácsi és Pamuk között, ahol egy tízhektáros erdőrészben, két és fél hektáron keletkezett tűz. A kaposvári, a marcali, a zalakarosi és a dombóvári hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett dolgoztak. A helyszínre kiérkeztek a somogyvári önkéntes tűzoltók is.",
-          "location": "Pusztakovácsi, Prószapuszta",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91042/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91042"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91041",
