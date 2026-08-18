@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T16:30:24.933515+00:00",
-  "count": 3259,
+  "updated_at": "2026-08-18T16:35:05.703588+00:00",
+  "count": 3260,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91089",
+      "datetime": "2026.08.18. 18:33",
+      "title": "Tüzet fogott az aljnövényzet Pogány és Szőkéd között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91089",
+      "lead": "A nagyjából tízhektáros terület tüzét pécsi és pogányi tűzoltók fékezték meg.",
+      "body": "Körülbelül tíz hektáron égett az aljnövényzet Pogány és Szőkéd között. Öt pécsi hivatásos egység a pogányi önkéntes tűzoltókkal kiegészülve oltotta a lángokat. Az egységek vízsugarakkal és kéziszerszámokkal avatkoztak be, sikerült megakadályozniuk, hogy a tűz elérje a kukoricást és az erdősávot. A tűzoltók körülhatárolták a lángokat, egy kockabálát leégettek, eloltottak. A rajok eloltották a tüzet, az utómunkálatokat végzik.",
+      "location": "Pogány, külterület",
+      "updates": []
+    },
     {
       "id": "91088",
       "datetime": "2026.08.18. 18:23",
