@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T22:47:14.154577+00:00",
-  "count": 3261,
+  "updated_at": "2026-08-18T22:51:13.828862+00:00",
+  "count": 3262,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91091",
+      "datetime": "2026.08.19. 00:49",
+      "title": "Kigyulladt egy épület Albertirsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91091",
+      "lead": "A tűzoltókat a Piactérre riasztották.",
+      "body": "Tűz ütött ki egy nagyjából ötven négyzetméteres épület tetőszerkezetében Albertirsán, a Piactéren. A helyszínre négy ceglédi hivatásos egységet, a monori hivatásos tűzoltóság egy gépjárműfecskendőjét, valamint a Pest vármegyei katasztrófavédelmi műveleti szolgálatot riasztották. A helyi önkéntes tűzoltók még a hivatásos egységek megérkezése előtt elkezdték oltani a tüzet. A rajok légzésvédelemben, sugárfedezet mellett vízsugarakkal oltják a tetőteret, illetve megbontják a héjazatot.",
+      "location": "Albertirsa, Piactér",
+      "updates": []
+    },
     {
       "id": "91090",
       "datetime": "2026.08.18. 22:00",
