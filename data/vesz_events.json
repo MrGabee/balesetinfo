@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T09:02:37.274667+00:00",
-  "count": 3239,
+  "updated_at": "2026-08-18T09:05:53.981098+00:00",
+  "count": 3240,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91069",
+      "datetime": "2026.08.18. 11:03",
+      "title": "Mosógép okozott riadalmat egy debreceni lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91069",
+      "lead": "Egy Borbíró téri panelház tizedik emeletére riasztották a tűzoltókat.",
+      "body": "Kigyulladt a mosógép egy debreceni, Borbíró téri társasház egyik tizedik emeleti lakásában. A lángok érintőlegesen átterjedtek a bútorzat felületére is. A debreceni hivatásos tűzoltók a vármegyei katasztrófavédelmi műveleti szolgálat irányításával avatkoznak be. Egy porral oltóval eloltották a lángokat, már az utómunkálatokat végzik, átszellőztetik a lakást. Az ingatlan idős lakója időben kiment a lakásból. A tűz más lakást nem érintett, kimenekítésre nem volt szükség, a társasházat senkinek sem kellett elhagynia.",
+      "location": "Debrecen, Borbíró tér",
+      "updates": []
+    },
     {
       "id": "91068",
       "datetime": "2026.08.18. 10:52",
