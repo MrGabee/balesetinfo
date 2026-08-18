@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-18T12:43:01.219972+00:00",
-  "count": 3244,
+  "updated_at": "2026-08-18T12:46:44.076865+00:00",
+  "count": 3245,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91074",
+      "datetime": "2026.08.18. 14:45",
+      "title": "Baleset az 51-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91074",
+      "lead": "Fajsz közelében volt szükség a tűzoltók beavatkozására.",
+      "body": "Árokba sodródott egy személyautó az 51-es főúton, Fajsz közelében, a 131. kilométernél. A járműben egy ember utazott, aki kiszállt, a mentők megvizsgálták. A kalocsai hivatásos tűzoltók áramtalanították a gépkocsit.",
+      "location": "Fajsz, 51",
+      "updates": []
+    },
     {
       "id": "91073",
       "datetime": "2026.08.18. 14:16",
