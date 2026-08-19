@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T13:07:11.789714+00:00",
-  "count": 3277,
+  "updated_at": "2026-08-19T13:11:08.054811+00:00",
+  "count": 3278,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91107",
+      "datetime": "2026.08.19. 15:07",
+      "title": "Kerítésnek csapódott egy autó Mátraderecskén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91107",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Kerítésnek csapódott egy személyautó Mátraderecskén, a Baross Gábor utcában. A pétervásárai hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították a járművet. A mentőszolgálat is a helyszínre érkezett.",
+      "location": "Mátraderecske, Baross Gábor utca",
+      "updates": []
+    },
     {
       "id": "91106",
       "datetime": "2026.08.19. 13:55",
