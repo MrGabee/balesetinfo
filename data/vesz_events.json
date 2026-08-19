@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T19:42:41.289884+00:00",
-  "count": 3289,
+  "updated_at": "2026-08-19T19:46:31.811413+00:00",
+  "count": 3290,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91119",
+      "datetime": "2026.08.19. 21:45",
+      "title": "Autótűz Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91119",
+      "lead": "A tűzoltók két vízsugárral eloltottak a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Miskolcon, a Szentgyörgy úton, az Ifjúság útja közelében. A jármű motortere égett, amelyet a helyi hivatásos tűzoltók két vízsugárral eloltottak. A társhatóság is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták. A rajok az utómunkálatokat végzik.",
+      "location": "Miskolc, Szentgyörgy út",
+      "updates": []
+    },
     {
       "id": "91118",
       "datetime": "2026.08.19. 21:34",
