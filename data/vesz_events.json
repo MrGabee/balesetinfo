@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-19T08:09:22.256636+00:00",
-  "count": 3266,
+  "updated_at": "2026-08-19T08:12:55.427212+00:00",
+  "count": 3268,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91097",
+      "datetime": "2026.08.19. 10:11",
+      "title": "Karambol Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91097",
+      "lead": "A Kassai útra riasztották a tűzoltókat.",
+      "body": "Összeütközött két személyautóm Debrecenben, a Kassai úton, a Benczúr Gyula utcánál. A város hivatásos és önkéntes tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra lehet számítani,",
+      "location": "Debrecen, Kassai út",
+      "updates": []
+    },
+    {
+      "id": "91096",
+      "datetime": "2026.08.19. 10:11",
+      "title": "Két autó ütközött a 6219-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91096",
+      "lead": "Egy embert a tűzoltók szabadítottak ki.",
+      "body": "Összeütközött két személyautó Sárbogárdnál, a 6219-es út 20-as kilométerénél. A baleset következtében az egyik járműbe egy ember beszorult, őt a sárbogárdi hivatásos és a mezőfalvai önkéntes tűzoltók szabadították ki. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Sárbogárd, Kiskarácsony puszta",
+      "updates": []
+    },
     {
       "id": "91095",
       "datetime": "2026.08.19. 10:01",
