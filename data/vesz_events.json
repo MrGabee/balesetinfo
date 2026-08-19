@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T09:15:03.530072+00:00",
-  "count": 3269,
+  "updated_at": "2026-08-19T09:19:16.575886+00:00",
+  "count": 3270,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91099",
+      "datetime": "2026.08.19. 11:17",
+      "title": "Ötös karambol az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91099",
+      "lead": "Óbarok közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött öt gépkocsi, köztük egy lovakat szállító teherautó, az M1-es autópálya Hegyeshalom felé vezető oldalán, Óbarok közelében, a 41. és a 42. kilométer között. A műszaki mentést végző bicskei önkormányzati tűzoltók két járművet áramtalanítanak. A helyszínre érkeztek a mentők is.",
+      "location": "Óbarok, M1",
+      "updates": []
+    },
     {
       "id": "91098",
       "datetime": "2026.08.19. 11:04",
