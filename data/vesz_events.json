@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T18:53:05.079799+00:00",
-  "count": 3287,
+  "updated_at": "2026-08-19T18:57:03.913886+00:00",
+  "count": 3288,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91117",
+      "datetime": "2026.08.19. 20:56",
+      "title": "Árokba hajtott egy autó Karcagon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91117",
+      "lead": "A jármű a tetejére borult.",
+      "body": "Letért az útról és az árokba hajtott egy személyautó Karcagon, a Szivárvány utcában. A jármű a tetejére borult A helyi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Karcag, Szivárvány utca",
+      "updates": []
+    },
     {
       "id": "91116",
       "datetime": "2026.08.19. 19:05",
