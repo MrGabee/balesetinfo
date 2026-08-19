@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T16:00:41.998448+00:00",
+  "updated_at": "2026-08-19T16:04:30.552129+00:00",
   "count": 3284,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Jelzett a szén-monoxid-érzékelő Nagykanizsán",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91111",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Eötvös térre vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzése miatt riasztották a város hivatásos tűzoltóit Nagykanizsán, egy Eötvös téri lakásba. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársait is a helyszínre érkeztek.",
+      "location": "Nagykanizsa, Eötvös tér",
       "updates": []
     },
     {
@@ -379,10 +379,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91085",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.18. 18:56",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91085/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91085"
+        }
+      ]
     },
     {
       "id": "91084",
@@ -390,9 +399,9 @@
       "title": "Felborult egy autó Szergény határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91084",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8411-es út 24-25-ös kilométere között van szükség tűzoltói beavatkozásra.",
+      "body": "Letért az útról, árokba hajtott és ott felborult egy személykocsi Szergény határában. A pápai hivatásos tűzoltók áramtalanították az autót. A jármű két utasa ki tudott szállni a kocsiból, mentő érkezett hozzájuk.",
+      "location": "Szergény, 8411",
       "updates": []
     },
     {
@@ -401,9 +410,9 @@
       "title": "Robbanás történt egy ösküi házban",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91083",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hársfa utca elejére a pétfürdői tűzoltók vonultak.",
+      "body": "Pirotechnikai robbanás történt egy ösküi, Hársfa utcai családi házban. Az épület nyílászárói kiszakadtak a helyükről. A pétfürdői hivatásos tűzoltók átvizsgálták a házat, és lőszereket találtak, ezért ötven méteres körzetben lezárták a területet. Emiatt négy közeli ingatlanból öt, a szomszédos italmérésből szintén öt ember távozott. A házban tartózkodó lakóhoz mentő érkezett, a helyszínre tűzszerészeket várnak.",
+      "location": "Öskü, Hársfa utca",
       "updates": []
     },
     {
@@ -412,9 +421,9 @@
       "title": "Fának hajtott egy autó az 5-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91082",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 22-es kilométernél, Alsónémedi és Budapest között történt a baleset.",
+      "body": "Letért az úttestről és fának ütközött egy személykocsi az 5-ös főúton, Alsónémedi és Budapest között. A 22-es kilométerhez elsőként az alsónémedi önkéntes tűzoltók érkeztek ki, akik áramtalanították a járművet, később megérkeztek a dabasi hivatásos tűzoltók is. Az autó vezetőjéhez mentő érkezett.",
+      "location": "Alsónémedi, 5",
       "updates": []
     },
     {
