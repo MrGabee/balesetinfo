@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T05:59:06.720010+00:00",
+  "updated_at": "2026-08-19T06:02:35.677780+00:00",
   "count": 3265,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "91093",
-      "datetime": "2026.08.19. 06:52",
+      "datetime": "2026.08.19. 06:52 -",
       "title": "Kigyulladt egy melléképület Tiszaföldváron",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy melléképület Tiszaföldváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91093",
       "lead": "Az esethez három település tűzoltóit riasztották.",
       "body": "Kigyulladt és teljes terjedelmében ég egy lakóépületnek használt melléképület Tiszaföldváron, a Kurázsi úton. A nagyjából nyolcvan négyzetméteres épület tüzéhez kunszentmártoni, tiszaföldvári és szolnoki hivatásos tűzoltókat, valamint a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálatot riasztották. Az épületet négyen lakják, egyikük nem volt a helyszínen, a másik három ember kiment a házból. A rajok átvizsgálták a több lakrészre osztott épületet, senkit nem találtak odabenn. A tűzoltók oltás közben több gázpalackot is a szabadba vittek, van, amelyik hűtésre szorul. A beavatkozást a vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Tiszaföldvár, Kurázsi I. út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tiszaföldvári melléképületet",
+          "datetime": "2026.08.19. 08:00",
+          "category": "Tűzeset",
+          "text": "A Kurázsi úton egy több lakásból álló ingatlanban keletkezett tűz. Tiszaföldvári, kunszentmártoni és szolnoki tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat. Az épületből több gázpalackot is kivittek a rajok, egy felrobbant palackot a szomszédos telken találtak meg. Az egységek már az utómunkálatokat végzik.",
+          "location": "Tiszaföldvár, Kurázsi I. út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91093/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91093"
+        }
+      ]
     },
     {
       "id": "91092",
