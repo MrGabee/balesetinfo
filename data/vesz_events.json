@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T10:19:07.498209+00:00",
-  "count": 3273,
+  "updated_at": "2026-08-19T10:23:47.939495+00:00",
+  "count": 3274,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91103",
+      "datetime": "2026.08.19. 12:21",
+      "title": "Baleset történt a 8127-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91103",
+      "lead": "Pusztavámnál van szükség tűzoltói beavatkozásra.",
+      "body": "Árokba hajtott egy személyautó Pusztavám közelében, a 8127-es út Bokodra vezető szakaszán, a 13. kilométernél. A jármű egy fát is kidöntött. A műszaki mentést végző móri önkormányzati tűzoltók áramtalanították a gépkocsit, és megszüntették a forgalmi akadályt.",
+      "location": "Pusztavám, 8127",
+      "updates": []
+    },
     {
       "id": "91102",
       "datetime": "2026.08.19. 11:47",
