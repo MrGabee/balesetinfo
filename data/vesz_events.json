@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:37:53.369697+00:00",
+  "updated_at": "2026-08-19T10:42:04.721820+00:00",
   "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,19 +108,10 @@
       "title": "Ég egy melléképület Tiszaburán",
       "category": "Ég egy melléképület Tiszaburán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095",
-      "lead": "A tűzoltó a Dankó Pista utcában oltják a lángokat.",
-      "body": "Kigyulladt egy melléképület Tiszaburán, a Dankó Pista utcában. Teljes terjedelmében ég a mintegy kilenc négyzetméteres ingatlan, és a közeli főépületre is átterjedtek a lángok, amelyeket két vízsugárral oltanak az abádszalóki önkormányzati tűzoltók. A helyszínre indult több más egység is.",
-      "location": "Tiszabura, Dankó Pista utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tiszaburai tüzet",
-          "datetime": "2026.08.19. 11:36",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Tiszaburán, a Dankó Pista utcában, ahol kigyulladt és teljes terjedelmében égett egy körülbelül kilenc négyzetméteres melléképület. Lángra kapott a mellette tárolt, nagy mennyiségű fahulladék is, és a közeli főépületre szintén átterjedt a tűz, amelyet egy mezőkövesdi vízszállító jármű közreműködésével, három vízsugárral fékeztek meg a tiszafüredi hivatásos és az abádszalóki önkormányzati tűzoltók. Az egységek megbontották a mellépület tetejét.",
-          "location": "Tiszabura, Dankó Pista utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91095"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91094",
@@ -159,8 +150,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91092",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
@@ -190,9 +181,9 @@
       "title": "Felborult egy autó Nemesbükön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91090",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hegykapu utcába a keszthelyi tűzoltókat riasztották.",
+      "body": "Az oldalára borult egy személykocsi Nemesbükön, a Hegykapu utcában. A járműben hárman ültek, az utasokhoz mentő érkezett. A keszthelyi hivatásos tűzoltók vonultak az esethez.",
+      "location": "Nemesbük, Hegykapu utca",
       "updates": []
     },
     {
