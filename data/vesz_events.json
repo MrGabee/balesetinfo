@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T15:40:46.706680+00:00",
-  "count": 3283,
+  "updated_at": "2026-08-19T15:45:48.847055+00:00",
+  "count": 3284,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91113",
+      "datetime": "2026.08.19. 17:42",
+      "title": "Hármas karambol az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91113",
+      "lead": "Ecsernél egy sávon halad a forgalom.",
+      "body": "Összeütközött három személygépkocsi Ecser térségében, a M0-s autóút 45-ös kilométerénél, a Vecsés felé vezető oldalon. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Ecser, M0",
+      "updates": []
+    },
     {
       "id": "91112",
       "datetime": "2026.08.19. 17:27",
@@ -251,9 +262,9 @@
       "title": "Baleset történt Sorokpolány és Rábahídvég között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91094",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8704-es út 8-9-es kilométere között két személykocsi karambolozott.",
+      "body": "Összeütközött két autó a 8704-es úton, Sorokpolány és Rábahídvég között. A 8-9-es kilométer között történt balesetnél az egyik jármű árokba is hajtott, a másik az úton maradt, akadályozza a forgalmat. A szombathelyi hivatásos tűzoltók áramtalanították a járműveket. Az utat teljes szélességében lezárták, a burkolatra jelentős mennyiségű olaj került. A két autó utasaihoz mentő érkezett.",
+      "location": "Sorokpolány, 8704",
       "updates": []
     },
     {
