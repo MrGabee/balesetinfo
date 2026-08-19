@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T05:04:37.718383+00:00",
-  "count": 3264,
+  "updated_at": "2026-08-19T05:07:53.626124+00:00",
+  "count": 3265,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91094",
+      "datetime": "2026.08.19. 07:06",
+      "title": "Baleset történt Sorokpolány és Rábahídvég között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91094",
+      "lead": "A 8704-es út 8-9-es kilométere között két személykocsi karambolozott.",
+      "body": "Összeütközött két autó a 8704-es úton, Sorokpolány és Rábahídvég között. A 8-9-es kilométer között történt balesetnél az egyik jármű árokba is hajtott, a másik az úton maradt, akadályozza a forgalmat. A szombathelyi hivatásos tűzoltók áramtalanították a járműveket. Az utat teljes szélességében lezárták, a burkolatra jelentős mennyiségű olaj került. A két autó utasaihoz mentő érkezett.",
+      "location": "Sorokpolány, 8704",
+      "updates": []
+    },
     {
       "id": "91093",
       "datetime": "2026.08.19. 06:52",
