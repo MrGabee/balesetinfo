@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:04:51.692601+00:00",
+  "updated_at": "2026-08-19T18:08:58.187094+00:00",
   "count": 3287,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,7 +34,16 @@
       "lead": "A XXIII. kerületben oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt a gaz és az avar Budapest XXIII. kerületében, a Vízisport utcánál. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelmi és Speciális Mentő Közhasznú Egyesület oltják a lángokat. A munkálatokat két fővárosi vízszállító jármű is segíti.",
       "location": "Budapest, Vízisport utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat a XXIII. kerületben",
+          "datetime": "2026.08.19. 20:01",
+          "category": "Tűzeset",
+          "text": "Négy hektáron gaz és avar égett Budapest XXIII. kerületében, a Vízisport utcánál. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelmi és Speciális Mentő Közhasznú Egyesület több vízsugárral és kéziszerszámokkal oltották el a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak az egységek. A munkálatokat két fővárosi vízszállító jármű is segítette.",
+          "location": "Budapest, Vízisport utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91114/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91114"
+        }
+      ]
     },
     {
       "id": "91113",
