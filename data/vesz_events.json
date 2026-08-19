@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T21:56:07.719151+00:00",
-  "count": 3290,
+  "updated_at": "2026-08-19T22:00:24.973409+00:00",
+  "count": 3291,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91120",
+      "datetime": "2026.08.19. 23:59",
+      "title": "Meghibásodott egy mozdony Ukk és Gógánfa között",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91120",
+      "lead": "A tűzoltók az utasok leszállításában segítettek.",
+      "body": "Műszaki hibás lett egy mozdony Ukk és Gógánfa között, a 7337-es út közelében. A sümegi önkormányzati tűzoltókat riasztották az esethez. A raj segített az utasoknak biztonságosan elhagyni a vonatot.",
+      "location": "Gógánfa, 7337",
+      "updates": []
+    },
     {
       "id": "91119",
       "datetime": "2026.08.19. 21:45",
