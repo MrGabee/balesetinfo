@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T17:16:16.833122+00:00",
+  "updated_at": "2026-08-19T17:20:33.412026+00:00",
   "count": 3287,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Két autó ütközött Csopaknál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91110",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személygépkocsi karambolozott Csopaknál, a 71-es főút és a 73-as főút kereszteződésénél. A baleset következtében az egyik jármű az árokba hajtott. A balatonfüredi önkormányzati tűzoltók áramtalanították az autókat. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Csopak, 71-73",
       "updates": []
     },
     {
@@ -106,9 +106,9 @@
       "title": "Ráfutásos baleset Győrnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91108",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Három jármű ütközött.",
+      "body": "Két személygépkocsi és egy kisteherautó karambolozott Győrnél, a Bécsi úton, azaz az 1-es főúton, a Nép utca közelében. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon váltakozva, egy sávon halad a forgalom.",
+      "location": "Győr, 1",
       "updates": []
     },
     {
@@ -117,9 +117,9 @@
       "title": "Kerítésnek csapódott egy autó Mátraderecskén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91107",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Kerítésnek csapódott egy személyautó Mátraderecskén, a Baross Gábor utcában. A pétervásárai hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították a járművet. A mentőszolgálat is a helyszínre érkezett.",
+      "location": "Mátraderecske, Baross Gábor utca",
       "updates": []
     },
     {
@@ -264,9 +264,9 @@
       "title": "Két autó ütközött a 6219-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91096",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki.",
+      "body": "Összeütközött két személyautó Sárbogárdnál, a 6219-es út 20-as kilométerénél. A baleset következtében az egyik járműbe egy ember beszorult, őt a sárbogárdi hivatásos és a mezőfalvai önkéntes tűzoltók szabadították ki. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Sárbogárd, Kiskarácsony puszta",
       "updates": []
     },
     {
@@ -275,10 +275,19 @@
       "title": "Ég egy melléképület Tiszaburán",
       "category": "Ég egy melléképület Tiszaburán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltó a Dankó Pista utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Tiszaburán, a Dankó Pista utcában. Teljes terjedelmében ég a mintegy kilenc négyzetméteres ingatlan, és a közeli főépületre is átterjedtek a lángok, amelyeket két vízsugárral oltanak az abádszalóki önkormányzati tűzoltók. A helyszínre indult több más egység is.",
+      "location": "Tiszabura, Dankó Pista utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tiszaburai tüzet",
+          "datetime": "2026.08.19. 11:36",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Tiszaburán, a Dankó Pista utcában, ahol kigyulladt és teljes terjedelmében égett egy körülbelül kilenc négyzetméteres melléképület. Lángra kapott a mellette tárolt, nagy mennyiségű fahulladék is, és a közeli főépületre szintén átterjedt a tűz, amelyet egy mezőkövesdi vízszállító jármű közreműködésével, három vízsugárral fékeztek meg a tiszafüredi hivatásos és az abádszalóki önkormányzati tűzoltók. Az egységek megbontották a mellépület tetejét.",
+          "location": "Tiszabura, Dankó Pista utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91095"
+        }
+      ]
     },
     {
       "id": "91094",
@@ -286,9 +295,9 @@
       "title": "Baleset történt Sorokpolány és Rábahídvég között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91094",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8704-es út 8-9-es kilométere között két személykocsi karambolozott.",
+      "body": "Összeütközött két autó a 8704-es úton, Sorokpolány és Rábahídvég között. A 8-9-es kilométer között történt balesetnél az egyik jármű árokba is hajtott, a másik az úton maradt, akadályozza a forgalmat. A szombathelyi hivatásos tűzoltók áramtalanították a járműveket. Az utat teljes szélességében lezárták, a burkolatra jelentős mennyiségű olaj került. A két autó utasaihoz mentő érkezett.",
+      "location": "Sorokpolány, 8704",
       "updates": []
     },
     {
@@ -297,10 +306,19 @@
       "title": "Kigyulladt egy melléképület Tiszaföldváron",
       "category": "Kigyulladt egy melléképület Tiszaföldváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91093",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az esethez három település tűzoltóit riasztották.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy lakóépületnek használt melléképület Tiszaföldváron, a Kurázsi úton. A nagyjából nyolcvan négyzetméteres épület tüzéhez kunszentmártoni, tiszaföldvári és szolnoki hivatásos tűzoltókat, valamint a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálatot riasztották. Az épületet négyen lakják, egyikük nem volt a helyszínen, a másik három ember kiment a házból. A rajok átvizsgálták a több lakrészre osztott épületet, senkit nem találtak odabenn. A tűzoltók oltás közben több gázpalackot is a szabadba vittek, van, amelyik hűtésre szorul. A beavatkozást a vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Tiszaföldvár, Kurázsi I. út",
+      "updates": [
+        {
+          "title": "Eloltották a tiszaföldvári melléképületet",
+          "datetime": "2026.08.19. 08:00",
+          "category": "Tűzeset",
+          "text": "A Kurázsi úton egy több lakásból álló ingatlanban keletkezett tűz. Tiszaföldvári, kunszentmártoni és szolnoki tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat. Az épületből több gázpalackot is kivittek a rajok, egy felrobbant palackot a szomszédos telken találtak meg. Az egységek már az utómunkálatokat végzik.",
+          "location": "Tiszaföldvár, Kurázsi I. út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91093/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91093"
+        }
+      ]
     },
     {
       "id": "91092",
@@ -308,8 +326,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91092",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
