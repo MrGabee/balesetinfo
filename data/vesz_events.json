@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T09:30:49.757667+00:00",
-  "count": 3271,
+  "updated_at": "2026-08-19T09:34:48.947954+00:00",
+  "count": 3272,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91101",
+      "datetime": "2026.08.19. 11:30",
+      "title": "Egymásnak ütközött három jármű az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91101",
+      "lead": "A baleset Kartal térségében akadályozza a sztráda forgalmát.",
+      "body": "Karambolozott két személyautó és egy nyerges vontató az M3-as autópálya Budapest felé vezető oldalán, Kartal térségében, a 47. kilométernél. A hatvani hivatásos tűzoltók két gépkocsit áramtalanítottak. Az érintett járművek a megállósávon és a külső sávon vannak, így a baleset helyszínén egy sávon halad a forgalom.",
+      "location": "Kartal, M3",
+      "updates": []
+    },
     {
       "id": "91100",
       "datetime": "2026.08.19. 11:29",
