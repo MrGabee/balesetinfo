@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T14:19:18.833924+00:00",
-  "count": 3281,
+  "updated_at": "2026-08-19T14:23:36.244363+00:00",
+  "count": 3282,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91111",
+      "datetime": "2026.08.19. 16:22",
+      "title": "Jelzett a szén-monoxid-érzékelő Nagykanizsán",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91111",
+      "lead": "Az Eötvös térre vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzése miatt riasztották a város hivatásos tűzoltóit Nagykanizsán, egy Eötvös téri lakásba. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársait is a helyszínre érkeztek.",
+      "location": "Nagykanizsa, Eötvös tér",
+      "updates": []
+    },
     {
       "id": "91110",
       "datetime": "2026.08.19. 16:07",
@@ -251,8 +262,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91092",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
