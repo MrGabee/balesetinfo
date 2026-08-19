@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T13:49:22.437144+00:00",
-  "count": 3279,
+  "updated_at": "2026-08-19T13:53:31.907363+00:00",
+  "count": 3280,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91109",
+      "datetime": "2026.08.19. 15:53",
+      "title": "Tűz van Káldnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91109",
+      "lead": "Fű ég.",
+      "body": "Tűz keletkezett Káld külterületén, ahol mintegy negyven hektáron fű ég. A sárvári és az ajkai hivatásos, valamint a celldömölki önkormányzati tűzoltók oltják a lángokat. A Vas vármegyei katasztrófavédelmi műveleti szolgálat is helyszínre érkezett. A helyszínen két munkagép is dolgozik.",
+      "location": "Köcsk, külterület",
+      "updates": []
+    },
     {
       "id": "91108",
       "datetime": "2026.08.19. 15:47",
