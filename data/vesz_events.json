@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T16:26:38.413804+00:00",
-  "count": 3285,
+  "updated_at": "2026-08-19T16:30:59.221605+00:00",
+  "count": 3286,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91115",
+      "datetime": "2026.08.19. 18:28",
+      "title": "Elhagyatott épületben keletkezett tűz a XIII. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91115",
+      "lead": "A Bulcsú utcába vonultak a tűzoltók.",
+      "body": "Tűz keletkezett egy elhagyatott épületben, Budapest XIII. kerületében, a Bulcsú utcában. Az épületben mintegy tíz négyzetméteren szemét égett. A lángok az ablakon keresztül körülbelül két négyzetméteren a környező avarra is átterjedtek. A fővárosi hivatásos tűzoltók oltották el a tüzet.",
+      "location": "Budapest, Bulcsú utca",
+      "updates": []
+    },
     {
       "id": "91114",
       "datetime": "2026.08.19. 18:23",
