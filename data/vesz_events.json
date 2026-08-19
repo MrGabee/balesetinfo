@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T17:04:58.255572+00:00",
-  "count": 3286,
+  "updated_at": "2026-08-19T17:08:47.998528+00:00",
+  "count": 3287,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91116",
+      "datetime": "2026.08.19. 19:05",
+      "title": "Utoléréses baleset történt az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91116",
+      "lead": "A sztráda érintett szakaszán forgalmi akadály van.",
+      "body": "Összeütközött három személygépkocsi Gödöllőnél, az M3-as autópálya 28-as kilométerénél, a Miskolc felé vezető oldalon. A gödöllői hivatásos tűzoltók áramtalanították az egyik járművet. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Gödöllő, M3",
+      "updates": []
+    },
     {
       "id": "91115",
       "datetime": "2026.08.19. 18:28",
