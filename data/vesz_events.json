@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T13:45:58.012666+00:00",
-  "count": 3278,
+  "updated_at": "2026-08-19T13:49:22.437144+00:00",
+  "count": 3279,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91108",
+      "datetime": "2026.08.19. 15:47",
+      "title": "Ráfutásos baleset Győrnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91108",
+      "lead": "Három jármű ütközött.",
+      "body": "Két személygépkocsi és egy kisteherautó karambolozott Győrnél, a Bécsi úton, azaz az 1-es főúton, a Nép utca közelében. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon váltakozva, egy sávon halad a forgalom.",
+      "location": "Győr, 1",
+      "updates": []
+    },
     {
       "id": "91107",
       "datetime": "2026.08.19. 15:07",
