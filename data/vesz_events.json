@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T09:45:42.901036+00:00",
-  "count": 3272,
+  "updated_at": "2026-08-19T09:48:47.551929+00:00",
+  "count": 3273,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91102",
+      "datetime": "2026.08.19. 11:47",
+      "title": "Száraz fű ég Csanádalberti külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91102",
+      "lead": "A tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat.",
+      "body": "Nagy területen száraz fű ég Csanádalberti külterületén, a 4426-os út közelében. A mezőkovácsházai és a makói hivatásos, valamint a tótkomlósi önkormányzati tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett. A munkálatokat egy orosházai vízszállító jármű és két erőgép is segíti.",
+      "location": "Csanádalberti, 4426",
+      "updates": []
+    },
     {
       "id": "91101",
       "datetime": "2026.08.19. 11:30",
