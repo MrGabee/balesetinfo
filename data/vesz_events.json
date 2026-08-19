@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T19:34:13.627805+00:00",
-  "count": 3288,
+  "updated_at": "2026-08-19T19:37:26.598951+00:00",
+  "count": 3289,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91118",
+      "datetime": "2026.08.19. 21:34",
+      "title": "Karambol a XI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91118",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Két személygépkocsi karambolozott Budapest XI. kerületében, a Fehérvári út és az Október huszonharmadika utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. A baleset akadályozza a villamosforgalmat.",
+      "location": "Budapest, Október huszonharmadika utca",
+      "updates": []
+    },
     {
       "id": "91117",
       "datetime": "2026.08.19. 20:56",
