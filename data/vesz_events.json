@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:58:02.560016+00:00",
+  "updated_at": "2026-08-19T11:01:00.458616+00:00",
   "count": 3276,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "91102",
-      "datetime": "2026.08.19. 11:47",
+      "datetime": "2026.08.19. 11:47 -",
       "title": "Száraz fű ég Csanádalberti külterületén",
-      "category": "Tűzeset",
+      "category": "Száraz fű ég Csanádalberti külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91102",
       "lead": "A tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat.",
       "body": "Nagy területen száraz fű ég Csanádalberti külterületén, a 4426-os út közelében. A mezőkovácsházai és a makói hivatásos, valamint a tótkomlósi önkormányzati tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett. A munkálatokat egy orosházai vízszállító jármű és két erőgép is segíti.",
       "location": "Csanádalberti, 4426",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Csanádalberti külterületén",
+          "datetime": "2026.08.19. 12:58",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Csanádalberti külterületén, a 4426-os út közelében, ahol három és fél hektáron száraz fű égett. A mezőkovácsházai és a makói hivatásos, valamint a tótkomlósi önkormányzati tűzoltók hat vízsugárral és kéziszerszámokkal fékezték meg a tüzet. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. Az oltási munkálatokat egy orosházai vízszállító jármű és két erőgép is segíti a helyszínen. Jelenleg az utómunkálatok végzik az egységek.",
+          "location": "Csanádalberti, 4426",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91102/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91102"
+        }
+      ]
     },
     {
       "id": "91101",
