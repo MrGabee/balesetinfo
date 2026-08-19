@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T09:27:00.368012+00:00",
-  "count": 3270,
+  "updated_at": "2026-08-19T09:30:49.757667+00:00",
+  "count": 3271,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91100",
+      "datetime": "2026.08.19. 11:29",
+      "title": "Csütörtöktől másodfokú hőségriasztás lép életbe",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91100",
+      "lead": "További információk alább olvashatók.",
+      "body": "Az országos tisztifőorvos a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt. előrejelzése alapján másodfokú hőségriasztást rendel el az ország egész területére augusztus 20. (csütörtök) 00:00 órától augusztus 23. (vasárnap) 24:00 óráig. A felmelegedés különösen megterhelheti a szervezetet, ezért fontos, hogy mindenki fokozottan ügyeljen a saját és hozzátartozói egészségére.További információk elérhetők a Nemzeti Népegészségügyi és Gyógyszerészeti Központ weboldalán: https://nngyk.gov.hu/hu/tovabbi-hirek.html, illetve a katasztrófavédelem honlapján: https://www.katasztrofavedelem.hu/29/hirek/298694/csutortoktol-masodfoku-hosegriasztas-lep-eletbeAzon légkondicionált helyiségek listája, amelyeket bárki igénybe vehet, itt érhető el: https://www.katasztrofavedelem.hu/application/uploads/documents/2026-05/87491.pdf\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91099",
       "datetime": "2026.08.19. 11:17",
