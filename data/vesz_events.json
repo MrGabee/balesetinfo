@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:18:55.183323+00:00",
+  "updated_at": "2026-08-19T15:23:27.118788+00:00",
   "count": 3282,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -125,19 +125,10 @@
       "title": "Száraz fű ég Csanádalberti külterületén",
       "category": "Száraz fű ég Csanádalberti külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91102",
-      "lead": "A tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat.",
-      "body": "Nagy területen száraz fű ég Csanádalberti külterületén, a 4426-os út közelében. A mezőkovácsházai és a makói hivatásos, valamint a tótkomlósi önkormányzati tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett. A munkálatokat egy orosházai vízszállító jármű és két erőgép is segíti.",
-      "location": "Csanádalberti, 4426",
-      "updates": [
-        {
-          "title": "Utómunkálatok zajlanak Csanádalberti külterületén",
-          "datetime": "2026.08.19. 12:58",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Csanádalberti külterületén, a 4426-os út közelében, ahol három és fél hektáron száraz fű égett. A mezőkovácsházai és a makói hivatásos, valamint a tótkomlósi önkormányzati tűzoltók hat vízsugárral és kéziszerszámokkal fékezték meg a tüzet. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. Az oltási munkálatokat egy orosházai vízszállító jármű és két erőgép is segíti a helyszínen. Jelenleg az utómunkálatok végzik az egységek.",
-          "location": "Csanádalberti, 4426",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91102/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91102"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91101",
@@ -337,9 +328,9 @@
       "title": "Elgázolt egy embert a Mecsek Intercity Sárbogárd és Rétszilas között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91086",
-      "lead": "A vasúttársaság tájékoztatása szerint a pécsi fővonalon hosszabb eljutási időre kell számítani.",
-      "body": "Sárbogárd és Rétszilas között elütött egy embert a Kelenföldről Pécsre közlekedő Mecsek Intercity. Az esethez a sárbogárdi hivatásos tűzoltókat riasztották, akik gyalogosan közelítették meg a szerencsétlenül járt embert. A vasúttársaság információi szerint a vonaton négyszázötvenen utaztak, értük mentesítő buszjáratokat indítottak. Mint közölték, a baleset miatt fennakadásra, hosszabb menetidőre kell számítani az érintett fővonalon.",
-      "location": "Sárbogárd, Vasúti őrház",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -448,7 +439,16 @@
       "lead": "Mintegy négy hektárt érintenek a lángok, amelyeket nagy erőkkel oltanak a tűzoltók.",
       "body": "Kigyulladt egy erdős terület, Csólyospálos és Kömpöc között. Akácos, valamint nyárfás ég mintegy négy hektáron, és kivágott fák tuskói is meggyulladtak. A kiskunmajsai, a szegedi, a ruzsai és a kisteleki hivatásos, valamint a csólyospálosi önkéntes tűzoltók oltják a lángokat. A helyszínre indult számos más egység is.",
       "location": "Csólyospálos, Felsőcsolyos tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók eloltották a Csólyospálosnál keletkezett tüzet",
+          "datetime": "2026.08.18. 19:30",
+          "category": "Tűzeset",
+          "text": "Egy tízhektáros területen vegyes-, nyár- és akácerdő, valamint egy nagyjából kétszázötven méter hosszú tuskósor égett Csólyospálos és Kömpöc között. Kiskunmajsai, kisteleki, ruzsai, szegedi, kiskunhalasi, kiskunfélegyházi hivatásos, valamint csólyospálosi és kiskunhalasi önkéntes tűzoltók oltották a lángokat. Az egységek a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról hat vízsugárral, kéziszerszámokkal fékezték meg a lángokat. A munkában húsz civil is részt vett kéziszerszámokkal, emellett két homlokrakodó és egy markoló is segítette a beavatkozást. Az egységek nagyjából ötórányi munka után átadták a területet a tulajdonos képviselőjének.",
+          "location": "Csólyospálos, Felsőcsolyos tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91077"
+        }
+      ]
     },
     {
       "id": "91076",
@@ -467,9 +467,9 @@
       "title": "Felborult egy traktor Jászdózsa külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91075",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jászberényi tűzoltók vonultak az esethez.",
+      "body": "Letért az útról és árokba borult egy mezőgazdasági jármű Jászdózsa külterületén. A traktorban egy ember ült, hozzá mentő érkezett. A jászberényi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Jászárokszállás, külterület",
       "updates": []
     },
     {
@@ -478,9 +478,9 @@
       "title": "Baleset az 51-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91074",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Fajsz közelében volt szükség a tűzoltók beavatkozására.",
+      "body": "Árokba sodródott egy személyautó az 51-es főúton, Fajsz közelében, a 131. kilométernél. A járműben egy ember utazott, aki kiszállt, a mentők megvizsgálták. A kalocsai hivatásos tűzoltók áramtalanították a gépkocsit.",
+      "location": "Fajsz, 51",
       "updates": []
     },
     {
@@ -489,9 +489,9 @@
       "title": "Fának ütközött egy autó a 4429-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91073",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Medgyesbodzás közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba hajtott, majd fának ütközött egy személyautó a 4429-es úton, Medgyesbodzás és Csanádapáca között. A műszaki mentést végző mezőkovácsházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán halad a forgalom.",
+      "location": "Medgyesbodzás, 4429",
       "updates": []
     },
     {
@@ -500,9 +500,9 @@
       "title": "Összeütközött három jármű Cegléden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91072",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Összekötő út és a Nefelejcs utca kereszteződésénél egy kisteherautó és két személykocsi karambolozott.",
+      "body": "Egymásba hajtott egy kisteherautó és két személykocsi Cegléden. A baleset az Összekötő út és a Nefelejcs utca sarkán történt, az esethez a város hivatásos tűzoltóit riasztották. Az egység az egyik autó ajtaját felnyitotta. A járművekben összesen négyen utaztak, mentő érkezett hozzájuk.",
+      "location": "Cegléd, Összekötő út",
       "updates": []
     },
     {
