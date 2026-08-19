@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:11:55.821787+00:00",
+  "updated_at": "2026-08-19T10:15:17.594239+00:00",
   "count": 3273,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -117,19 +117,10 @@
       "title": "Kigyulladt egy melléképület Tiszaföldváron",
       "category": "Kigyulladt egy melléképület Tiszaföldváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91093",
-      "lead": "Az esethez három település tűzoltóit riasztották.",
-      "body": "Kigyulladt és teljes terjedelmében ég egy lakóépületnek használt melléképület Tiszaföldváron, a Kurázsi úton. A nagyjából nyolcvan négyzetméteres épület tüzéhez kunszentmártoni, tiszaföldvári és szolnoki hivatásos tűzoltókat, valamint a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálatot riasztották. Az épületet négyen lakják, egyikük nem volt a helyszínen, a másik három ember kiment a házból. A rajok átvizsgálták a több lakrészre osztott épületet, senkit nem találtak odabenn. A tűzoltók oltás közben több gázpalackot is a szabadba vittek, van, amelyik hűtésre szorul. A beavatkozást a vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
-      "location": "Tiszaföldvár, Kurázsi I. út",
-      "updates": [
-        {
-          "title": "Eloltották a tiszaföldvári melléképületet",
-          "datetime": "2026.08.19. 08:00",
-          "category": "Tűzeset",
-          "text": "A Kurázsi úton egy több lakásból álló ingatlanban keletkezett tűz. Tiszaföldvári, kunszentmártoni és szolnoki tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat. Az épületből több gázpalackot is kivittek a rajok, egy felrobbant palackot a szomszédos telken találtak meg. Az egységek már az utómunkálatokat végzik.",
-          "location": "Tiszaföldvár, Kurázsi I. út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91093/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91093"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91092",
@@ -254,9 +245,9 @@
       "title": "Robbanás történt egy ösküi házban",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91083",
-      "lead": "A Hársfa utca elejére a pétfürdői tűzoltók vonultak.",
-      "body": "Pirotechnikai robbanás történt egy ösküi, Hársfa utcai családi házban. Az épület nyílászárói kiszakadtak a helyükről. A pétfürdői hivatásos tűzoltók átvizsgálták a házat, és lőszereket találtak, ezért ötven méteres körzetben lezárták a területet. Emiatt négy közeli ingatlanból öt, a szomszédos italmérésből szintén öt ember távozott. A házban tartózkodó lakóhoz mentő érkezett, a helyszínre tűzszerészeket várnak.",
-      "location": "Öskü, Hársfa utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -287,9 +278,9 @@
       "title": "Karambol a 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91080",
-      "lead": "A Veszprémet elkerülő szakaszon történt a baleset.",
-      "body": "Összeütközött egy személyautó és egy motorkerékpár a 8-as főút Veszprémet elkerülő szakaszán, az 55. és az 56. kilométer között. A veszprémi hivatásos tűzoltók végzik a műszaki mentést a karambolnál, amelyhez a mentőket is riasztották. A baleset helyszínén forgalmi akadályra kell számítani.",
-      "location": "Veszprém, 8",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -417,9 +408,9 @@
       "title": "Mosógép égett egy debreceni lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91069",
-      "lead": "Egy Borbíró téri panelház tizedik emeletére riasztották a tűzoltókat.",
-      "body": "Kigyulladt a mosógép egy debreceni, Borbíró téri társasház egyik tizedik emeleti lakásában. A lángok érintőlegesen átterjedtek a bútorzat felületére is. A debreceni hivatásos tűzoltók a vármegyei katasztrófavédelmi műveleti szolgálat irányításával avatkoznak be. Egy porral oltóval eloltották a lángokat, már az utómunkálatokat végzik, átszellőztetik a lakást. Az ingatlan idős lakója időben kiment a lakásból. A tűz más lakást nem érintett, kimenekítésre nem volt szükség, a társasházat senkinek sem kellett elhagynia.",
-      "location": "Debrecen, Borbíró tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -439,9 +430,9 @@
       "title": "Árokba hajtott egy autó az M6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91067",
-      "lead": "Daruszentmiklósnál dolgoznak a tűzoltók, akik egy embert kiszabadítottak a járműből.",
-      "body": "Árokba sodródott egy személyautó az M6-os autópálya Budapest felé vezető oldalán, Daruszentmiklós közelében, a 81. kilométernél. Egy ember beszorult a járműbe. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző solti és paksi hivatásos, valamint dunaföldvári önkéntes tűzoltók.",
-      "location": "Daruszentmiklós, M6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -450,9 +441,9 @@
       "title": "Baleset történt a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91066",
-      "lead": "A Nyíregyháza és Tiszavasvári közötti szakaszon forgalmi akadály van.",
-      "body": "Lesodródott az úttestről és a fasorban az oldalára borulva állt meg egy személyautó Nyíregyháza közelében, a Tiszavasvári úton, azaz a 36-os főúton, a 45. kilométernél. A járműben ketten utaztak, őket megvizsgálták a mentők. A nyíregyházi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén félpályán lezárták az utat.",
-      "location": "Nyíregyháza, Tiszavasvári út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -461,9 +452,9 @@
       "title": "Árokba hajtott egy autó a 442-esen, Rákóczifalvánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91065",
-      "lead": "A tűzoltók nyitották ki a jármű beszorult ajtaját.",
-      "body": "Lesodródott az úttestről, majd árokba borult egy gépkocsi a 442-es főút 11-es kilométerszelvényénél, Rákóczifalva térségében. A járműben csak a vezetője utazott, aki beszorult, a szolnoki hivatásos tűzoltók mentették ki. A balesethez a mentők is kiérkeztek az egység mellett.",
-      "location": "Rákóczifalva, 442",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -472,9 +463,9 @@
       "title": "Robbanás, majd tűz volt egy győrvári lakóházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91064",
-      "lead": "A tűzoltók eloltották a lángokat.",
-      "body": "Robbanás történt, majd tűz ütött ki egy családi házban Győrváron, a Rákóczi utcában. A robbanás következtében a födém és az épület falai rongálódtak, a szomszédos lakóépület ablakainak egy része kitört. A vasvári önkormányzati tűzoltókat követően a zalaegerszegi hivatásos egységek is a helyszínre értek, eloltották a lángokat. Az egységek a munkálatok közben eltávolították a szükséges épületelemeket az életveszélyessé vált háznál.",
-      "location": "Győrvár, Rákóczi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -483,9 +474,9 @@
       "title": "Tűz volt Jászladányban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91063",
-      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
-      "body": "Egy hatvan négyzetméteres parasztház mellett álló, ólnak használt melléképület égett Jászladányban, a Szép utcában. A tűz kissé átterjedt a főépület és egy másik melléképület tetőszerkezetére. A jászberényi hivatásos és a jászkiséri önkormányzati tűzoltók két vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A tűzben az ól teljesen megsemmisült, a ház és a másik melléképület teteje kissé károsodott. A ház lakható maradt, így lakosságvédelmi intézkedésre nem lesz szükség.",
-      "location": "Jászladány, Szép utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
