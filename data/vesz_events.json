@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T07:41:49.543834+00:00",
+  "updated_at": "2026-08-19T07:45:16.268304+00:00",
   "count": 3265,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -54,16 +54,7 @@
       "lead": "A tűzoltókat a Piactérre riasztották.",
       "body": "Tűz ütött ki egy nagyjából ötven négyzetméteres épület tetőszerkezetében Albertirsán, a Piactéren. A helyszínre négy ceglédi hivatásos egységet, a monori hivatásos tűzoltóság egy gépjárműfecskendőjét, valamint a Pest vármegyei katasztrófavédelmi műveleti szolgálatot riasztották. A helyi önkéntes tűzoltók még a hivatásos egységek megérkezése előtt elkezdték oltani a tüzet. A rajok légzésvédelemben, sugárfedezet mellett vízsugarakkal oltják a tetőteret, illetve megbontják a héjazatot.",
       "location": "Albertirsa, Piactér",
-      "updates": [
-        {
-          "title": "Eloltották az albertirsai tüzet",
-          "datetime": "2026.08.19. 01:30",
-          "category": "Tűzeset",
-          "text": "A Piactéren fogott tüzet egy épület tetőszerkezete. A riasztott tűzoltók rövid idő alatt eloltották a kigyulladt tetőszerkezetet, emellett hőkamerával átvizsgálták az alsó szintet is, ott nem találtak izzó részt. A tűzben a tető egyharmada, valamint egy elszívóberendezés is megsemmisült.",
-          "location": "Albertirsa, Piactér",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91091/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91091"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91090",
@@ -71,9 +62,9 @@
       "title": "Felborult egy autó Nemesbükön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91090",
-      "lead": "A Hegykapu utcába a keszthelyi tűzoltókat riasztották.",
-      "body": "Az oldalára borult egy személykocsi Nemesbükön, a Hegykapu utcában. A járműben hárman ültek, az utasokhoz mentő érkezett. A keszthelyi hivatásos tűzoltók vonultak az esethez.",
-      "location": "Nemesbük, Hegykapu utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -93,9 +84,9 @@
       "title": "Kigyulladt a tarló Vésztő és Újiráz között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91088",
-      "lead": "Több, mint tíz hektáron égett a vegetáció.",
-      "body": "Villanyvezetékek szakadtak le és meggyújtották maguk alatt a tarlót Vésztő és Újiráz között. A tűz egy nagyjából tíz-tizenkét hektáros területet érintett. Szeghalmi és mezőberényi hivatásos tűzoltók vízsugarakkal, kéziszerszámokkal előbb körülhatárolták, azután eloltották a lángokat. A beavatkozásban részt vett egy erőgép is.",
-      "location": "Újiráz, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -104,9 +95,9 @@
       "title": "Baleset történt a 834-es úton, Nyárád közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91087",
-      "lead": "Egy autó letért az útról, vezetője kizuhant a járműből.",
-      "body": "Letért az útról és a szántóföldön állt meg egy személykocsi a 834-es út 6-os kilométerénél, Nyárád közelében. Az autó vezetője kizuhant a járműből, mentőhelikopter érkezett hozzá. A pápai hivatásos tűzoltók áramtalanították a gépkocsit. A főút érintett szakaszát egy időre teljes szélességében lezárták.",
-      "location": "Nyárád, 834",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -115,9 +106,9 @@
       "title": "Elgázolt egy embert a Mecsek Intercity Sárbogárd és Rétszilas között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91086",
-      "lead": "A vasúttársaság tájékoztatása szerint a pécsi fővonalon hosszabb eljutási időre kell számítani.",
-      "body": "Sárbogárd és Rétszilas között elütött egy embert a Kelenföldről Pécsre közlekedő Mecsek Intercity. Az esethez a sárbogárdi hivatásos tűzoltókat riasztották, akik gyalogosan közelítették meg a szerencsétlenül járt embert. A vasúttársaság információi szerint a vonaton négyszázötvenen utaztak, értük mentesítő buszjáratokat indítottak. Mint közölték, a baleset miatt fennakadásra, hosszabb menetidőre kell számítani az érintett fővonalon.",
-      "location": "Sárbogárd, Vasúti őrház",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -126,19 +117,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91085",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.08.18. 18:56",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91085/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91085"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91084",
