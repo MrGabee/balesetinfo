@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T17:36:43.359925+00:00",
+  "updated_at": "2026-08-19T17:41:10.454653+00:00",
   "count": 3287,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A szél nehezíti a munkálatokat.",
       "body": "Száraz fű, bozótos és fás terület ég Miskolc külterületén, a Kis-ágazat dűlőnél. A helyi hivatásos tűzoltók oltják a lángokat. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A szél nehezíti a munkálatokat.",
       "location": "Miskolc, Ágazat",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Miskolcnál",
+          "datetime": "2026.08.19. 19:33",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Miskolc külterületén, ahol mintegy nyolcvan hektáron száraz fű és elhagyatott hétvégi házak égtek a Kis-ágazat dűlőnél. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat mellett a helyi, a tiszaújvárosi és a kazincbarcikai hivatásos, valamint a felsőzsolcai önkéntes tűzoltók lombfúvókkal és kéziszerszámokkal fékezték meg a lángokat.",
+          "location": "Miskolc, Ágazat",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91112/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91112"
+        }
+      ]
     },
     {
       "id": "91111",
