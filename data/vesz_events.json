@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T09:34:48.947954+00:00",
+  "updated_at": "2026-08-19T09:38:22.231365+00:00",
   "count": 3272,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -71,14 +71,23 @@
     },
     {
       "id": "91095",
-      "datetime": "2026.08.19. 10:01",
+      "datetime": "2026.08.19. 10:01 -",
       "title": "Ég egy melléképület Tiszaburán",
-      "category": "Tűzeset",
+      "category": "Ég egy melléképület Tiszaburán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095",
       "lead": "A tűzoltó a Dankó Pista utcában oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Tiszaburán, a Dankó Pista utcában. Teljes terjedelmében ég a mintegy kilenc négyzetméteres ingatlan, és a közeli főépületre is átterjedtek a lángok, amelyeket két vízsugárral oltanak az abádszalóki önkormányzati tűzoltók. A helyszínre indult több más egység is.",
       "location": "Tiszabura, Dankó Pista utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tiszaburai tüzet",
+          "datetime": "2026.08.19. 11:36",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Tiszaburán, a Dankó Pista utcában, ahol kigyulladt és teljes terjedelmében égett egy körülbelül kilenc négyzetméteres melléképület. Lángra kapott a mellette tárolt, nagy mennyiségű fahulladék is, és a közeli főépületre szintén átterjedt a tűz, amelyet egy mezőkövesdi vízszállító jármű közreműködésével, három vízsugárral fékeztek meg a tiszafüredi hivatásos és az abádszalóki önkormányzati tűzoltók. Az egységek megbontották a mellépület tetejét.",
+          "location": "Tiszabura, Dankó Pista utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91095"
+        }
+      ]
     },
     {
       "id": "91094",
