@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T10:34:36.053104+00:00",
-  "count": 3274,
+  "updated_at": "2026-08-19T10:37:53.369697+00:00",
+  "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91104",
+      "datetime": "2026.08.19. 12:37",
+      "title": "Kigyulladt egy lakás Székesfehérváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91104",
+      "lead": "Nagy erőkkel vonultak a tűzoltók a Toronysorra.",
+      "body": "Tűz keletkezett egy társasházi lakásban, Székesfehérváron, a Toronysoron. Teljes terjedelmében ég a hatodik emeleti ingatlan. A város hivatásos tűzoltói a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat, és kimenekítik a lakókat az épület felső szintjeiről. A Fejér Medic egyesület is a helyszínre érkezett.",
+      "location": "Székesfehérvár, Toronysor",
+      "updates": []
+    },
     {
       "id": "91103",
       "datetime": "2026.08.19. 12:21",
@@ -179,9 +190,9 @@
       "title": "Felborult egy autó Nemesbükön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91090",
-      "lead": "A Hegykapu utcába a keszthelyi tűzoltókat riasztották.",
-      "body": "Az oldalára borult egy személykocsi Nemesbükön, a Hegykapu utcában. A járműben hárman ültek, az utasokhoz mentő érkezett. A keszthelyi hivatásos tűzoltók vonultak az esethez.",
-      "location": "Nemesbük, Hegykapu utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
