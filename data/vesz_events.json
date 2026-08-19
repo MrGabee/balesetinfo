@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-19T09:02:58.175152+00:00",
-  "count": 3268,
+  "updated_at": "2026-08-19T09:06:37.407728+00:00",
+  "count": 3269,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91098",
+      "datetime": "2026.08.19. 11:04",
+      "title": "Összeütközött két autó az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91098",
+      "lead": "A fővárosi bevezető szakaszon történt a baleset.",
+      "body": "Egymásnak ütközött két gépkocsi az M3-as autópálya fővárosi bevezető szakaszán, a Szerencs utcánál. Utoléréses baleset történt, amelynél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A karambol helyszínén forgalmi akadályra kell számítani.",
+      "location": "Budapest, M3",
+      "updates": []
+    },
     {
       "id": "91097",
       "datetime": "2026.08.19. 10:11",
