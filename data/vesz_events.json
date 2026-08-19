@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T12:02:21.535906+00:00",
+  "updated_at": "2026-08-19T12:06:26.921547+00:00",
   "count": 3277,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Ráfutásos baleset a 1112-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91106",
-      "lead": "A tűzoltók Szentendre határában áramtalanították a járműveket.",
-      "body": "Karambolozott három személyautó Szentendre határában, a Pomázra vezető 1112-es úton, az 1. kilométernél. Ráfutásos baleset történt, amelyhez a pomázi önkormányzati tűzoltókat riasztották. A raj áramtalanította a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Szentendre, 1112",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -126,9 +126,9 @@
       "title": "Karambol Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91097",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kassai útra riasztották a tűzoltókat.",
+      "body": "Összeütközött két személyautóm Debrecenben, a Kassai úton, a Benczúr Gyula utcánál. A város hivatásos és önkéntes tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra lehet számítani,",
+      "location": "Debrecen, Kassai út",
       "updates": []
     },
     {
@@ -148,10 +148,19 @@
       "title": "Ég egy melléképület Tiszaburán",
       "category": "Ég egy melléképület Tiszaburán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltó a Dankó Pista utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Tiszaburán, a Dankó Pista utcában. Teljes terjedelmében ég a mintegy kilenc négyzetméteres ingatlan, és a közeli főépületre is átterjedtek a lángok, amelyeket két vízsugárral oltanak az abádszalóki önkormányzati tűzoltók. A helyszínre indult több más egység is.",
+      "location": "Tiszabura, Dankó Pista utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tiszaburai tüzet",
+          "datetime": "2026.08.19. 11:36",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Tiszaburán, a Dankó Pista utcában, ahol kigyulladt és teljes terjedelmében égett egy körülbelül kilenc négyzetméteres melléképület. Lángra kapott a mellette tárolt, nagy mennyiségű fahulladék is, és a közeli főépületre szintén átterjedt a tűz, amelyet egy mezőkövesdi vízszállító jármű közreműködésével, három vízsugárral fékeztek meg a tiszafüredi hivatásos és az abádszalóki önkormányzati tűzoltók. Az egységek megbontották a mellépület tetejét.",
+          "location": "Tiszabura, Dankó Pista utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91095/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91095"
+        }
+      ]
     },
     {
       "id": "91094",
@@ -373,10 +382,19 @@
       "title": "Erdőtűz Csólyospálos közelében",
       "category": "Erdőtűz Csólyospálos közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Mintegy négy hektárt érintenek a lángok, amelyeket nagy erőkkel oltanak a tűzoltók.",
+      "body": "Kigyulladt egy erdős terület, Csólyospálos és Kömpöc között. Akácos, valamint nyárfás ég mintegy négy hektáron, és kivágott fák tuskói is meggyulladtak. A kiskunmajsai, a szegedi, a ruzsai és a kisteleki hivatásos, valamint a csólyospálosi önkéntes tűzoltók oltják a lángokat. A helyszínre indult számos más egység is.",
+      "location": "Csólyospálos, Felsőcsolyos tanya",
+      "updates": [
+        {
+          "title": "A tűzoltók eloltották a Csólyospálosnál keletkezett tüzet",
+          "datetime": "2026.08.18. 19:30",
+          "category": "Tűzeset",
+          "text": "Egy tízhektáros területen vegyes-, nyár- és akácerdő, valamint egy nagyjából kétszázötven méter hosszú tuskósor égett Csólyospálos és Kömpöc között. Kiskunmajsai, kisteleki, ruzsai, szegedi, kiskunhalasi, kiskunfélegyházi hivatásos, valamint csólyospálosi és kiskunhalasi önkéntes tűzoltók oltották a lángokat. Az egységek a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról hat vízsugárral, kéziszerszámokkal fékezték meg a lángokat. A munkában húsz civil is részt vett kéziszerszámokkal, emellett két homlokrakodó és egy markoló is segítette a beavatkozást. Az egységek nagyjából ötórányi munka után átadták a területet a tulajdonos képviselőjének.",
+          "location": "Csólyospálos, Felsőcsolyos tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91077"
+        }
+      ]
     },
     {
       "id": "91076",
@@ -395,9 +413,9 @@
       "title": "Felborult egy traktor Jászdózsa külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91075",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jászberényi tűzoltók vonultak az esethez.",
+      "body": "Letért az útról és árokba borult egy mezőgazdasági jármű Jászdózsa külterületén. A traktorban egy ember ült, hozzá mentő érkezett. A jászberényi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Jászárokszállás, külterület",
       "updates": []
     },
     {
@@ -406,9 +424,9 @@
       "title": "Baleset az 51-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91074",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Fajsz közelében volt szükség a tűzoltók beavatkozására.",
+      "body": "Árokba sodródott egy személyautó az 51-es főúton, Fajsz közelében, a 131. kilométernél. A járműben egy ember utazott, aki kiszállt, a mentők megvizsgálták. A kalocsai hivatásos tűzoltók áramtalanították a gépkocsit.",
+      "location": "Fajsz, 51",
       "updates": []
     },
     {
@@ -417,9 +435,9 @@
       "title": "Fának ütközött egy autó a 4429-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91073",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Medgyesbodzás közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba hajtott, majd fának ütközött egy személyautó a 4429-es úton, Medgyesbodzás és Csanádapáca között. A műszaki mentést végző mezőkovácsházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán halad a forgalom.",
+      "location": "Medgyesbodzás, 4429",
       "updates": []
     },
     {
@@ -428,9 +446,9 @@
       "title": "Összeütközött három jármű Cegléden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91072",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Összekötő út és a Nefelejcs utca kereszteződésénél egy kisteherautó és két személykocsi karambolozott.",
+      "body": "Egymásba hajtott egy kisteherautó és két személykocsi Cegléden. A baleset az Összekötő út és a Nefelejcs utca sarkán történt, az esethez a város hivatásos tűzoltóit riasztották. Az egység az egyik autó ajtaját felnyitotta. A járművekben összesen négyen utaztak, mentő érkezett hozzájuk.",
+      "location": "Cegléd, Összekötő út",
       "updates": []
     },
     {
