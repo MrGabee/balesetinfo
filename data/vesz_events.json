@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:34:13.767602+00:00",
+  "updated_at": "2026-08-19T11:37:55.029965+00:00",
   "count": 3276,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Összeütközött két autó az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91098",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A fővárosi bevezető szakaszon történt a baleset.",
+      "body": "Egymásnak ütközött két gépkocsi az M3-as autópálya fővárosi bevezető szakaszán, a Szerencs utcánál. Utoléréses baleset történt, amelynél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A karambol helyszínén forgalmi akadályra kell számítani.",
+      "location": "Budapest, M3",
       "updates": []
     },
     {
@@ -106,9 +106,9 @@
       "title": "Karambol Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91097",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kassai útra riasztották a tűzoltókat.",
+      "body": "Összeütközött két személyautóm Debrecenben, a Kassai úton, a Benczúr Gyula utcánál. A város hivatásos és önkéntes tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra lehet számítani,",
+      "location": "Debrecen, Kassai út",
       "updates": []
     },
     {
@@ -117,9 +117,9 @@
       "title": "Két autó ütközött a 6219-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91096",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki.",
+      "body": "Összeütközött két személyautó Sárbogárdnál, a 6219-es út 20-as kilométerénél. A baleset következtében az egyik járműbe egy ember beszorult, őt a sárbogárdi hivatásos és a mezőfalvai önkéntes tűzoltók szabadították ki. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Sárbogárd, Kiskarácsony puszta",
       "updates": []
     },
     {
@@ -340,9 +340,9 @@
       "title": "Összeütközött két autó a 31-es főúton, Maglódon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91079",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Mendel Károly utcai kereszteződéshez a monori tűzoltók vonultak.",
+      "body": "Két személykocsi karambolozott a 31-es főút maglódi szakaszán, a Mendel Károly utcai kereszteződésnél. Az egyik kocsiban egy ember ült, a másikban ketten utaztak, a helyszínre mentőt riasztottak. A monori hivatásos tűzoltók áramtalanították az autókat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Maglód, 31",
       "updates": []
     },
     {
@@ -351,9 +351,9 @@
       "title": "Árokba hajtott egy személykocsi a 47-es főúton, Algyő közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91078",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 210-es kilométerhez a szegedi tűzoltókat riasztották.",
+      "body": "Lesodródott az úttestről és árokba borult egy autó a 47-es főúton, Algyő közelében. A 210-es kilométernél balesetet szenvedett járműben öten utaztak, a helyszínre mentő is érkezett. A szegedi hivatásos tűzoltók vonultak az esethez.",
+      "location": "Algyő, 47",
       "updates": []
     },
     {
@@ -362,10 +362,19 @@
       "title": "Erdőtűz Csólyospálos közelében",
       "category": "Erdőtűz Csólyospálos közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Mintegy négy hektárt érintenek a lángok, amelyeket nagy erőkkel oltanak a tűzoltók.",
+      "body": "Kigyulladt egy erdős terület, Csólyospálos és Kömpöc között. Akácos, valamint nyárfás ég mintegy négy hektáron, és kivágott fák tuskói is meggyulladtak. A kiskunmajsai, a szegedi, a ruzsai és a kisteleki hivatásos, valamint a csólyospálosi önkéntes tűzoltók oltják a lángokat. A helyszínre indult számos más egység is.",
+      "location": "Csólyospálos, Felsőcsolyos tanya",
+      "updates": [
+        {
+          "title": "A tűzoltók eloltották a Csólyospálosnál keletkezett tüzet",
+          "datetime": "2026.08.18. 19:30",
+          "category": "Tűzeset",
+          "text": "Egy tízhektáros területen vegyes-, nyár- és akácerdő, valamint egy nagyjából kétszázötven méter hosszú tuskósor égett Csólyospálos és Kömpöc között. Kiskunmajsai, kisteleki, ruzsai, szegedi, kiskunhalasi, kiskunfélegyházi hivatásos, valamint csólyospálosi és kiskunhalasi önkéntes tűzoltók oltották a lángokat. Az egységek a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról hat vízsugárral, kéziszerszámokkal fékezték meg a lángokat. A munkában húsz civil is részt vett kéziszerszámokkal, emellett két homlokrakodó és egy markoló is segítette a beavatkozást. Az egységek nagyjából ötórányi munka után átadták a területet a tulajdonos képviselőjének.",
+          "location": "Csólyospálos, Felsőcsolyos tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91077/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91077"
+        }
+      ]
     },
     {
       "id": "91076",
