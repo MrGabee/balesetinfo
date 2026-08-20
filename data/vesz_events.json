@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T19:05:23.603980+00:00",
-  "count": 3311,
+  "updated_at": "2026-08-20T19:10:20.502515+00:00",
+  "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91141",
+      "datetime": "2026.08.20. 21:09",
+      "title": "Felborult egy autó a 86-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91141",
+      "lead": "Vámoscsaládnál teljes szélességében lezárták az utat.",
+      "body": "Felborult egy személygépjármű a 86-os főúton, Vámoscsaládnál. A Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a répcelaki önkormányzati tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Vámoscsalád, Fő utca",
+      "updates": []
+    },
     {
       "id": "91140",
       "datetime": "2026.08.20. 20:15",
