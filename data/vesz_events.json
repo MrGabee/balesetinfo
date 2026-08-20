@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T14:09:13.820646+00:00",
-  "count": 3301,
+  "updated_at": "2026-08-20T14:12:35.623203+00:00",
+  "count": 3302,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91131",
+      "datetime": "2026.08.20. 16:11",
+      "title": "Jelzett a szén-monoxid-érzékelő Győrben",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91131",
+      "lead": "A Dr. Kovács Pál utcába vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzése miatt riasztották a város hivatásos tűzoltóit Győrben, a Dr. Kovács Pál utcába. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársait is a helyszínre érkeztek.",
+      "location": "Győr, Dr. Kovács Pál utca",
+      "updates": []
+    },
     {
       "id": "91130",
       "datetime": "2026.08.20. 15:57",
