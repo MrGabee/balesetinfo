@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T17:46:18.976507+00:00",
-  "count": 3308,
+  "updated_at": "2026-08-20T17:49:43.015075+00:00",
+  "count": 3309,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91138",
+      "datetime": "2026.08.20. 19:48",
+      "title": "Autó égett az M85-ön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91138",
+      "lead": "Kóny közelében egy sávon halad a forgalom.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi az M85-ös autóúton, Csorna felé, Kóny közelében, a 17-es kilométerszelvénynél. A csornai hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Kóny, Soproni utca",
+      "updates": []
+    },
     {
       "id": "91137",
       "datetime": "2026.08.20. 19:31",
