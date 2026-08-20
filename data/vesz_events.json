@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:18:33.309052+00:00",
+  "updated_at": "2026-08-20T16:21:30.557327+00:00",
   "count": 3306,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "91130",
-      "datetime": "2026.08.20. 15:57",
+      "datetime": "2026.08.20. 15:57 -",
       "title": "Szalmabálák és hodály ég Polgárnál",
-      "category": "Tűzeset",
+      "category": "Szalmabálák és hodály ég Polgárnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91130",
       "lead": "A 35-ös főút mellett dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy nád fedésű hodály és több szalmabála Polgárnál, a 35-ös főút közelében. A helyszínre érkeztek a tiszaújvárosi, a mezőcsáti, a hajdúnánási és a nyíregyházi hivatásos tűzoltók. A rajok egy gázpalackot kihoztak az épületből. A helyszínre tart több további egység is.",
       "location": "Polgár, Tóth Lovas tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Polgárnál",
+          "datetime": "2026.08.20. 18:20",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy nád fedésű hodály és több szalmabála Polgárnál, a 35-ös főút közelében. A tűz két melléképületet érintett, amelyek teljes terjedelmükben leégtek. A helyszínre érkeztek a tiszaújvárosi, a mezőcsáti, a hajdúnánási és a nyíregyházi hivatásos, illetve a tiszabábolnai önkéntes tűzoltók. A rajok egy gázpalackot kihoztak egy épületből. A Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányításával már körülhatárolták a lángokat az egységek.",
+          "location": "Polgár, Tóth Lovas tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91130/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91130"
+        }
+      ]
     },
     {
       "id": "91129",
