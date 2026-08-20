@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T09:59:24.757238+00:00",
-  "count": 3292,
+  "updated_at": "2026-08-20T10:03:24.578757+00:00",
+  "count": 3293,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91122",
+      "datetime": "2026.08.20. 12:00",
+      "title": "Autó égett az M3-on",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91122",
+      "lead": "Füzesabony térségében dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi az M3-as autópályán, Budapest felé, Füzesabony térségében, a 111-es kilométerszelvénynél. A füzesabonyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett pályaszakaszon forgalmi akadály van.",
+      "location": "Füzesabony, Ipartelep út",
+      "updates": []
+    },
     {
       "id": "91121",
       "datetime": "2026.08.20. 00:03",
