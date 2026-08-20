@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:13:13.316121+00:00",
+  "updated_at": "2026-08-20T15:16:20.794561+00:00",
   "count": 3303,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
       "body": "Több hektárnyi  tarló ég Orosháza és Pusztaföldvár határában. Az orosházi és a mezőkovácsházi hivatásos tűzoltók több vízsugárral oltják a lángokat. A rajok elhúzódó munkálatokat végeznek.",
       "location": "Pusztaföldvár, Csúcsdűlő tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Orosháza és Pusztaföldvár határában",
+          "datetime": "2026.08.20. 17:11",
+          "category": "Tűzeset",
+          "text": "Mintegy harminc hektárnyi tarló égett Orosháza és Pusztaföldvár határában. Az orosházi és a mezőkovácsházi hivatásos tűzoltók több vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Pusztaföldvár, Csúcsdűlő tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91128/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91128"
+        }
+      ]
     },
     {
       "id": "91127",
