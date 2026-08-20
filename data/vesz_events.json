@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T19:52:56.038901+00:00",
-  "count": 3313,
+  "updated_at": "2026-08-20T19:57:27.484372+00:00",
+  "count": 3314,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91143",
+      "datetime": "2026.08.20. 21:54",
+      "title": "Melléképület égett Albertirsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91143",
+      "lead": "A Baltás dűlőben fojtották el a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy mintegy hatvan négyzetméteres melléképület Albertirsán, a Baltás dűlőben. A monori hivatásos és a dolinavölgyi önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Albertirsa, Baltás dűlő",
+      "updates": []
+    },
     {
       "id": "91142",
       "datetime": "2026.08.20. 21:22",
