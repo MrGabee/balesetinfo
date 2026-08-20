@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T11:24:32.314318+00:00",
-  "count": 3295,
+  "updated_at": "2026-08-20T11:28:39.858723+00:00",
+  "count": 3296,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91125",
+      "datetime": "2026.08.20. 13:27",
+      "title": "Két melléképület égett Tuzséron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91125",
+      "lead": "A Váci Mihály utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt két melléképület Tuzséron, a Váci Mihály utcában. A tűz átterjedt a száraz fűre is. A záhonyi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Tuzsér, Váci Mihály utca",
+      "updates": []
+    },
     {
       "id": "91124",
       "datetime": "2026.08.20. 12:59",
