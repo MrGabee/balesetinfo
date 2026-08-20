@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T10:57:58.732012+00:00",
-  "count": 3294,
+  "updated_at": "2026-08-20T11:01:32.361231+00:00",
+  "count": 3295,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91124",
+      "datetime": "2026.08.20. 12:59",
+      "title": "Három autó ütközött az 51-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91124",
+      "lead": "Szalkszentmárton és Dunavecse között félpályán halad a forgalom.",
+      "body": "Összeütközött három személygépkocsi az 51-es főúton, Szalkszentmárton és Dunavecse között, a 69-es kilométerszelvénynél. Az autókból minden utas ki tudott szállni. A szalkszentmártoni önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szalkszentmárton, Csabony tanya",
+      "updates": []
+    },
     {
       "id": "91123",
       "datetime": "2026.08.20. 12:16",
