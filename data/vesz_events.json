@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:50:28.331647+00:00",
+  "updated_at": "2026-08-20T08:55:10.596149+00:00",
   "count": 3292,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -159,19 +159,10 @@
       "title": "Tűz van Káldnál",
       "category": "Tűz van Káldnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91109",
-      "lead": "Fű ég.",
-      "body": "Tűz keletkezett Káld külterületén, ahol mintegy negyven hektáron fű ég. A sárvári és az ajkai hivatásos, valamint a celldömölki önkormányzati tűzoltók oltják a lángokat. A Vas vármegyei katasztrófavédelmi műveleti szolgálat is helyszínre érkezett. A helyszínen két munkagép is dolgozik.",
-      "location": "Köcsk, külterület",
-      "updates": [
-        {
-          "title": "Eloltották a tüzet Káld külterületén",
-          "datetime": "2026.08.19. 17:36",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Káld külterületén, ahol egy száztíz hektáros területen mintegy huszonhárom hektáron fű égett. A sárvári, az ajkai, a szombathelyi és a pápai hivatásos, a celldömölki önkormányzati és önkéntes, valamint az egyházashetyei és a köcski önkéntes tűzoltók fékezték meg a tüzet. A Vas vármegyei katasztrófavédelmi műveleti szolgálat is helyszínen dolgozott. Az esetnél két munkagép, valamint egy sárvári, egy pápai, egy ajkai és egy szombathelyi vízszállító jármű is segítette a munkálatokat.",
-          "location": "Köcsk, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91109/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91109"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91108",
@@ -179,9 +170,9 @@
       "title": "Ráfutásos baleset Győrnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91108",
-      "lead": "Három jármű ütközött.",
-      "body": "Két személygépkocsi és egy kisteherautó karambolozott Győrnél, a Bécsi úton, azaz az 1-es főúton, a Nép utca közelében. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon váltakozva, egy sávon halad a forgalom.",
-      "location": "Győr, 1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -410,19 +401,10 @@
       "title": "Kigyulladt egy épület Albertirsán",
       "category": "Kigyulladt egy épület Albertirsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91091",
-      "lead": "A tűzoltókat a Piactérre riasztották.",
-      "body": "Tűz ütött ki egy nagyjából ötven négyzetméteres épület tetőszerkezetében Albertirsán, a Piactéren. A helyszínre négy ceglédi hivatásos egységet, a monori hivatásos tűzoltóság egy gépjárműfecskendőjét, valamint a Pest vármegyei katasztrófavédelmi műveleti szolgálatot riasztották. A helyi önkéntes tűzoltók még a hivatásos egységek megérkezése előtt elkezdték oltani a tüzet. A rajok légzésvédelemben, sugárfedezet mellett vízsugarakkal oltják a tetőteret, illetve megbontják a héjazatot.",
-      "location": "Albertirsa, Piactér",
-      "updates": [
-        {
-          "title": "Eloltották az albertirsai tüzet",
-          "datetime": "2026.08.19. 01:30",
-          "category": "Tűzeset",
-          "text": "A Piactéren fogott tüzet egy épület tetőszerkezete. A riasztott tűzoltók rövid idő alatt eloltották a kigyulladt tetőszerkezetet, emellett hőkamerával átvizsgálták az alsó szintet is, ott nem találtak izzó részt. A tűzben a tető egyharmada, valamint egy elszívóberendezés is megsemmisült.",
-          "location": "Albertirsa, Piactér",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91091/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91091"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91090",
