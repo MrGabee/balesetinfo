@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T17:29:39.476484+00:00",
-  "count": 3307,
+  "updated_at": "2026-08-20T17:33:26.959918+00:00",
+  "count": 3308,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91137",
+      "datetime": "2026.08.20. 19:31",
+      "title": "Oszlopnak hajtott egy autó Balatonfüreden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91137",
+      "lead": "A Vázsonyi úton történt a baleset.",
+      "body": "Kidöntött egy oszlopot egy személygépkocsi Balatonfüreden, a Vázsonyi úton. A helyi önkormányzati tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Balatonfüred, Vázsonyi út",
+      "updates": []
+    },
     {
       "id": "91136",
       "datetime": "2026.08.20. 18:55",
