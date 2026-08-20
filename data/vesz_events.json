@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T21:52:29.630152+00:00",
-  "count": 3315,
+  "updated_at": "2026-08-20T21:55:24.646750+00:00",
+  "count": 3316,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91145",
+      "datetime": "2026.08.20. 23:54",
+      "title": "Konyha égett Kazincbarcikán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91145",
+      "lead": "A tűzoltók átszellőztetik az épületet.",
+      "body": "Kigyulladt egy lakás konyhája Kazincbarcikán, a Mátyás király úton. A miskolci és a kazincbarcikai hivatásos tűzoltók kiürítettek egy emeletet és egy vízsugárral eloltották a lángokat. A helyszínre mentő is érkezett. A rajok átszellőztetik az épületet.",
+      "location": "Kazincbarcika, Mátyás király út",
+      "updates": []
+    },
     {
       "id": "91144",
       "datetime": "2026.08.20. 22:01",
