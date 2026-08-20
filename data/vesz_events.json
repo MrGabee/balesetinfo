@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T13:57:27.896358+00:00",
-  "count": 3300,
+  "updated_at": "2026-08-20T14:00:59.554139+00:00",
+  "count": 3301,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91130",
+      "datetime": "2026.08.20. 15:57",
+      "title": "Szalmabálák és hodály ég Polgárnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91130",
+      "lead": "A 35-ös főút mellett dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy nád fedésű hodály és több szalmabála Polgárnál, a 35-ös főút közelében. A helyszínre érkeztek a tiszaújvárosi, a mezőcsáti, a hajdúnánási és a nyíregyházi hivatásos tűzoltók. A rajok egy gázpalackot kihoztak az épületből. A helyszínre tart több további egység is.",
+      "location": "Polgár, Tóth Lovas tanya",
+      "updates": []
+    },
     {
       "id": "91129",
       "datetime": "2026.08.20. 15:43",
