@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T11:48:14.187119+00:00",
-  "count": 3296,
+  "updated_at": "2026-08-20T11:52:32.955283+00:00",
+  "count": 3297,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91126",
+      "datetime": "2026.08.20. 13:52",
+      "title": "Oszlopnak ütközött egy autó Pestszentlőrincen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91126",
+      "lead": "A Nagykőrösi út és Eke utca kereszteződésében történt a baleset.",
+      "body": "Oszlopnak ütközött egy személygépkocsi Budapest XVIII. kerületében, a Nagykőrösi út és Eke utca kereszteződésében. A fővárosi hivatásos és a FOKA önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Eke utca",
+      "updates": []
+    },
     {
       "id": "91125",
       "datetime": "2026.08.20. 13:27",
