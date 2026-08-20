@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-20T12:48:30.609509+00:00",
-  "count": 3297,
+  "updated_at": "2026-08-20T12:52:06.933680+00:00",
+  "count": 3298,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91127",
+      "datetime": "2026.08.20. 14:48",
+      "title": "Garázs égett Kistokajon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91127",
+      "lead": "A Szabó Lőrinc utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy lemezgarázsban Kistokajon, a Szabó Lőrinc utcában. A garázsban két jármű égett. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a miskolci hivatásos tűzoltók elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Kistokaj, Szabó Lőrinc utca",
+      "updates": []
+    },
     {
       "id": "91126",
       "datetime": "2026.08.20. 13:52",
