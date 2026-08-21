@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T06:54:36.227373+00:00",
-  "count": 3321,
+  "updated_at": "2026-08-21T06:58:34.450745+00:00",
+  "count": 3322,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91151",
+      "datetime": "2026.08.21. 08:56",
+      "title": "Árokba borult egy kisbusz az M3-ason, Nyíregyházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91151",
+      "lead": "A Vásárosnamény felé vezető oldalon lezárták az autópályát.",
+      "body": "Árokba csapódott egy kisbusz az M3-as autópálya Vásárosnamény felé vezető oldalán, Nyíregyháza közelében, a 225-ös kilométerszelvénynél. A balesethez a nyíregyházi hivatásos tűzoltókat riasztották, akik a mentőkkel együttműködve egy embert kiemeltek a járműből. A helyszínre két mentőhelikopter is érkezett. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, M3",
+      "updates": []
+    },
     {
       "id": "91150",
       "datetime": "2026.08.21. 08:00",
