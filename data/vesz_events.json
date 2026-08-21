@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T17:56:52.030131+00:00",
-  "count": 3343,
+  "updated_at": "2026-08-21T18:00:10.412424+00:00",
+  "count": 3344,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91173",
+      "datetime": "2026.08.21. 19:59",
+      "title": "Másodfokú (narancs) meteorológiai riasztás kiadva 2 vármegye területére",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91173",
+      "lead": "A HungaroMet zivatar veszélye miatt másodfokú (narancs) riasztást adott ki Baranya vármegye, Somogy vármegye területére.",
+      "body": "Az érintett területeken: Veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Baranya, Somogy",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91172",
       "datetime": "2026.08.21. 17:19",
