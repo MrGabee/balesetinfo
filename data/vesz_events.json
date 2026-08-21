@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T20:54:05.128165+00:00",
-  "count": 3357,
+  "updated_at": "2026-08-21T20:57:47.980976+00:00",
+  "count": 3358,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91187",
+      "datetime": "2026.08.21. 22:55",
+      "title": "Hétvégi ház égett Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91187",
+      "lead": "A Drenka dűlőn csaptak fel a lángok.",
+      "body": "Kigyulladt egy hétvégi ház Miskolcon, a Drenka dűlőn. Az ingatlan teljes terjedelmében égett. A lángokat a város hivatásos tűzoltói oltották el, két vízsugárral.",
+      "location": "Miskolc, Drenka dűlő",
+      "updates": []
+    },
     {
       "id": "91186",
       "datetime": "2026.08.21. 22:28",
