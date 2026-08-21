@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T17:31:57.183393+00:00",
+  "updated_at": "2026-08-21T17:35:24.914715+00:00",
   "count": 3343,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -150,6 +150,14 @@
           "datetime": "2026.08.21. 17:29",
           "category": "Tűzeset",
           "text": "Az erős szél nehezíti a tűzoltók munkáját Eger külterületén, ahol száraz fű és erdős terület ég a Béke utca közelében. A tűz körülbelül húsz hektárt érint. Az egri, mezőkövesdi és füzesabonyi hivatásos tűzoltók, a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, több vízsugárral dolgoznak a lángok megfékezésén.",
+          "location": "Eger, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91160/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91160"
+        },
+        {
+          "title": "Körülhatárolták a tüzet Eger külterületén",
+          "datetime": "2026.08.21. 19:29",
+          "category": "Tűzeset",
+          "text": "Körülhatárolták a tüzet Eger külterületén, ahol száraz fű és erdős terület ég a Béke utca közelében. A tűz körülbelül húsz hektárt érint. Az egri, mezőkövesdi, pétervásárai és füzesabonyi hivatásos tűzoltók mellett a parádi és szomolyai önkéntes tűzoltók valamint az AGRIA Speciális Mentő és Tűzoltó csoport több vízsugárral dolgozik a lángok eloltásán. A munkálatokat a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
           "location": "Eger, Béke utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91160/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91160"
         }
