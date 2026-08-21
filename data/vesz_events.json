@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T11:22:43.438910+00:00",
+  "updated_at": "2026-08-21T11:25:44.471013+00:00",
   "count": 3328,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -67,7 +67,16 @@
       "lead": "A Látóhegy dűlőn oltják a lángokat.",
       "body": "Kigyulladt egy családi ház Vácon, a Látóhegy dűlőn. A száz négyzetméternyi alapterületű ingatlan teljes terjedelmében ég. A monori hivatásos tűzoltók már oltják a lángokat, valamint több egység is a helyszínre tart.",
       "location": "Vác, Látóhegy dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Három gázpalackot vittek ki a tűzoltók a váci ingatlanból",
+          "datetime": "2026.08.21. 13:26",
+          "category": "Tűzeset",
+          "text": "Körülhatárolták a tüzet Vácon, ahol egy családi ház ég a Látóhegy dűlőn. A váci, fővárosi és monori hivatásos tűzoltók jelenleg több vízsugárral oltják a lángokat. A rajok két acetilén- és egy oxigénpalackot is kihoztak az épületből, ebből egyet az állapota miatt egy mesterlövészt ártalmatlanított.",
+          "location": "Vác, Látóhegy dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91152/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91152"
+        }
+      ]
     },
     {
       "id": "91151",
