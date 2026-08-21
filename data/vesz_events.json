@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-21T19:10:09.857924+00:00",
-  "count": 3348,
+  "updated_at": "2026-08-21T19:13:49.222532+00:00",
+  "count": 3350,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91179",
+      "datetime": "2026.08.21. 21:13",
+      "title": "Főleg az ország nyugati felén okoz gondot a viharossá vált időjárás",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91179",
+      "lead": "Somogy és Baranya vármegyében hívták a legtöbbször a tűzoltókat viharkárok miatt.",
+      "body": "Másodfokú, narancssárga riasztást adott ki délután hevesebb zivatarok veszélye miatt a Dunántúl több vármegyéjére a HungaroMet. Az esti órákban elsősorban Somogy és Baranya vármegyéből érkeztek bejelentések a katasztrófavédelem műveletirányítási ügyeleteire. A legtöbben útra dőlt fák, leszakadt ágak miatt telefonáltak. A 67-es főút Bőszénfa és Mozsgó közelében is kidőlt fák okoznak fennakadást a közlekedésben, Berzencén a 681-es főúton dőlt egy fa nagyfeszültségű kábelekre. Siófokon a Tanácsház utcában dőlt fa egy személyautóra. A tűzoltók amint befejezték a munkálatokat, azonnal indulnak a következő helyszínre segítséget nyújtani.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
+    {
+      "id": "91178",
+      "datetime": "2026.08.21. 21:13",
+      "title": "Meteorológiai riasztás visszavonva",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91178",
+      "lead": "Nincsen zivatar időjárási jelenség 2 vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Somogy vármegye, Veszprém vármegye területén.\n\nMegyék:Somogy, Veszprém",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91177",
       "datetime": "2026.08.21. 21:04",
@@ -42,21 +64,30 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Veszprém vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91174",
-      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Veszprém vármegye területére.",
-      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Veszprém",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
     {
       "id": "91173",
-      "datetime": "2026.08.21. 19:59",
+      "datetime": "2026.08.21. 19:59 -",
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva 2 vármegye területére",
-      "category": "Meteorológiai riasztás",
+      "category": "Másodfokú (narancs) meteorológiai riasztás kiadva 2 vármegye területére",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91173",
       "lead": "A HungaroMet zivatar veszélye miatt másodfokú (narancs) riasztást adott ki Baranya vármegye, Somogy vármegye területére.",
       "body": "Az érintett területeken: Veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Baranya, Somogy",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Meteorológiai riasztás érvényben",
+          "datetime": "2026.08.21. 21:13",
+          "category": "Meteorológiai riasztás",
+          "text": "Továbbra is érvényben van a HungaroMet zivatar veszélye miatt kiadott másodfokú (narancs) riasztása Baranya vármegye területére.\n\nMegyék:Baranya",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91173/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91173"
+        }
+      ]
     },
     {
       "id": "91172",
