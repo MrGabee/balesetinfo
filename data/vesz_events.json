@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T14:34:08.848939+00:00",
-  "count": 3339,
+  "updated_at": "2026-08-21T14:38:17.816957+00:00",
+  "count": 3340,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91169",
+      "datetime": "2026.08.21. 16:37",
+      "title": "Busz és autó ütközött Budapest XIX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91169",
+      "lead": "A Báthory utca és a József Attila utca kereszteződésében forgalomkorlátozásra kell számítani.",
+      "body": "Busz és személygépkocsi ütközött össze Budapest XIX. kerületében, a Báthory utca és a József Attila utca kereszteződésében. A baleset következtében parkoló autók is megsérültek. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, József Attila utca",
+      "updates": []
+    },
     {
       "id": "91168",
       "datetime": "2026.08.21. 16:31",
