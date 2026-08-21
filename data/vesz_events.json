@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T05:43:23.454415+00:00",
-  "count": 3318,
+  "updated_at": "2026-08-21T05:47:49.771750+00:00",
+  "count": 3319,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91148",
+      "datetime": "2026.08.21. 07:46",
+      "title": "Melléképület égett Újpesten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91148",
+      "lead": "A Bajza József utcába vonultak a tűzoltók.",
+      "body": "Melléképület tetőszerkezete égett Újpesten, a Bajza József utcában. A lángokat a fővárosi hivatásos tűzoltók oltották el. A rajok utómunkálatokat végeznek.",
+      "location": "Budapest, Bajza József utca",
+      "updates": []
+    },
     {
       "id": "91147",
       "datetime": "2026.08.21. 07:21",
