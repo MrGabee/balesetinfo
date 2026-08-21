@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T20:03:56.864348+00:00",
-  "count": 3354,
+  "updated_at": "2026-08-21T20:06:58.781786+00:00",
+  "count": 3355,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91184",
+      "datetime": "2026.08.21. 22:04",
+      "title": "Összeütközött két autó Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91184",
+      "lead": "A Riminyáki úton történt a baleset.",
+      "body": "Összeütközött két személyautó Érden, a Riminyáki úton. A  Botond utca és a Béla utca közötti szakaszon történt balesethez a város hivatásos tűzoltóit riasztották. A rajok áramtalanították a gépkocsikat.",
+      "location": "Érd, Riminyáki út",
+      "updates": []
+    },
     {
       "id": "91183",
       "datetime": "2026.08.21. 22:01",
