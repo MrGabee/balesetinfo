@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T12:36:53.159257+00:00",
-  "count": 3330,
+  "updated_at": "2026-08-21T12:40:05.201946+00:00",
+  "count": 3331,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91160",
+      "datetime": "2026.08.21. 14:38",
+      "title": "Száraz fű ég Eger külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91160",
+      "lead": "A tűz körülbelül két hektárt érint.",
+      "body": "Körülbelül két hektáron ég a száraz fű Eger külterületén, a Béke utca közelében. A tűz egy erdős területet is érint. Az egri és füzesabonyi hivatásos tűzoltók több vízsugárral dolgoznak a lángok megfékezésén.",
+      "location": "Eger, Béke utca",
+      "updates": []
+    },
     {
       "id": "91159",
       "datetime": "2026.08.21. 14:33",
