@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T05:55:40.040339+00:00",
-  "count": 3319,
+  "updated_at": "2026-08-21T05:59:02.331845+00:00",
+  "count": 3320,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91149",
+      "datetime": "2026.08.21. 07:57",
+      "title": "Tűz volt Kamuton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91149",
+      "lead": "Tárolók égtek a Közép utcában.",
+      "body": "Tűz keletkezett egy melléképületben Kamuton, a Közép utcában. A tűzben további kisebb tárolók égtek és a lángok átterjedtek másik két épületre is. A békéscsabai és a mezőberényi hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Kamut, Közép utca",
+      "updates": []
+    },
     {
       "id": "91148",
       "datetime": "2026.08.21. 07:46",
