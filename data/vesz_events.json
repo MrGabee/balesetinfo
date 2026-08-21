@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-08-21T13:54:25.083693+00:00",
-  "count": 3334,
+  "updated_at": "2026-08-21T13:58:06.961047+00:00",
+  "count": 3337,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91166",
+      "datetime": "2026.08.21. 15:57",
+      "title": "Baleset történt a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91166",
+      "lead": "Berkesz közelében lezárták az utat.",
+      "body": "Árokba borult egy személyautó és a hozzá kötött utánfutó a 4-es főúton, Berkesz közelében, a 302-es kilométerszelvénynél. A demecseri önkéntes tűzoltókat műszaki mentés céljából riasztották a helyszínre. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Berkesz, Rákóczi út",
+      "updates": []
+    },
+    {
+      "id": "91165",
+      "datetime": "2026.08.21. 15:55",
+      "title": "Három autó ütközött az M7-esen, Pákozdnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91165",
+      "lead": "A Letenye felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Három személyautó ütközött össze az M7-es autópálya Letenye felé vezető oldalán, Pákozd közelében, az 51-es kilométerszelvénynél. A balesethez a székesfehérvári hivatásos tűzoltókat és a Noé Speciális Kutató-Mentő és Önkéntes Tűzoltó Egyesületet riasztották, akik az egyik gépkocsit áramtalanították. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Pákozd, M7",
+      "updates": []
+    },
+    {
+      "id": "91164",
+      "datetime": "2026.08.21. 15:55",
+      "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Baranya vármegye területére",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91164",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Baranya vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Baranya",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91163",
       "datetime": "2026.08.21. 15:27",
