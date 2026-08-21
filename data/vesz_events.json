@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T12:40:05.201946+00:00",
-  "count": 3331,
+  "updated_at": "2026-08-21T12:44:20.970316+00:00",
+  "count": 3332,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91161",
+      "datetime": "2026.08.21. 14:41",
+      "title": "Száraz gaz égett Hajdúhadházon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91161",
+      "lead": "Az Ibolya úton volt szükség tűzoltói beavatkozásra.",
+      "body": "Száraz gaz égett Hajdúhadházon, az Ibolya úton. A tűz egy épület tetőszerkezetét is érintette. A lángokat a hajdúböszörményi hivatásos tűzoltók oltották el, két vízsugárral.",
+      "location": "Hajdúhadház, Ibolya út",
+      "updates": []
+    },
     {
       "id": "91160",
       "datetime": "2026.08.21. 14:38",
