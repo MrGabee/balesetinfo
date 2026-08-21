@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:18:49.437270+00:00",
+  "updated_at": "2026-08-21T20:22:36.241964+00:00",
   "count": 3355,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -141,8 +141,8 @@
       "title": "Meteorológiai riasztás visszavonva",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91172",
-      "lead": "",
-      "body": "",
+      "lead": "Nincsen zivatar esemény Tolna vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Tolna vármegye területén.\n\nMegyék:Tolna",
       "location": "",
       "updates": []
     },
@@ -185,8 +185,8 @@
       "title": "Meteorológiai riasztás visszavonva",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91168",
-      "lead": "",
-      "body": "",
+      "lead": "Nincsen zivatar esemény Baranya vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Baranya vármegye területén.\n\nMegyék:Baranya",
       "location": "",
       "updates": []
     },
