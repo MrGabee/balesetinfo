@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T18:10:22.631725+00:00",
-  "count": 3344,
+  "updated_at": "2026-08-21T18:14:32.615329+00:00",
+  "count": 3345,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91174",
+      "datetime": "2026.08.21. 20:11",
+      "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Veszprém vármegye területére",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91174",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Veszprém vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Veszprém",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91173",
       "datetime": "2026.08.21. 19:59",
