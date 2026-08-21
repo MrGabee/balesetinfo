@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T11:28:58.850739+00:00",
-  "count": 3328,
+  "updated_at": "2026-08-21T11:33:39.496389+00:00",
+  "count": 3329,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91158",
+      "datetime": "2026.08.21. 13:30",
+      "title": "Frontális karambol Boldog és Tura között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91158",
+      "lead": "A bekötő utat lezárták.",
+      "body": "Frontálisan ütközött két személyautó a Boldog és Tura közötti, 31121-es bekötő úton, a 3-as kilométerszelvénynél. A balesethez a hatvani hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Boldog, Bartók Béla út",
+      "updates": []
+    },
     {
       "id": "91157",
       "datetime": "2026.08.21. 13:17",
