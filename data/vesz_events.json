@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:28:50.681041+00:00",
+  "updated_at": "2026-08-21T15:32:22.547705+00:00",
   "count": 3343,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,8 +31,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Tolna vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91170",
-      "lead": "",
-      "body": "",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Tolna vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Tolna",
       "location": "",
       "updates": []
     },
@@ -137,14 +137,23 @@
     },
     {
       "id": "91160",
-      "datetime": "2026.08.21. 14:38",
+      "datetime": "2026.08.21. 14:38 -",
       "title": "Száraz fű ég Eger külterületén",
-      "category": "Tűzeset",
+      "category": "Száraz fű ég Eger külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91160",
       "lead": "A tűz körülbelül nyolc hektárt érint.",
       "body": "Körülbelül nyolc hektáron ég a száraz fű Eger külterületén, a Béke utca közelében. A tűz egy erdős területet is érint. Az egri és füzesabonyi hivatásos tűzoltók több vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Eger, Béke utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az erős szél nehezíti a tűzoltók munkáját Eger külterületén",
+          "datetime": "2026.08.21. 17:29",
+          "category": "Tűzeset",
+          "text": "Az erős szél nehezíti a tűzoltók munkáját Eger külterületén, ahol száraz fű és erdős terület ég a Béke utca közelében. A tűz körülbelül húsz hektárt érint. Az egri, mezőkövesdi és füzesabonyi hivatásos tűzoltók, a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, több vízsugárral dolgoznak a lángok megfékezésén.",
+          "location": "Eger, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91160/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91160"
+        }
+      ]
     },
     {
       "id": "91159",
