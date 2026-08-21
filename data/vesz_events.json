@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T18:58:31.171473+00:00",
-  "count": 3346,
+  "updated_at": "2026-08-21T19:02:46.518143+00:00",
+  "count": 3347,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91176",
+      "datetime": "2026.08.21. 21:02",
+      "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Fejér vármegye területére",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91176",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Fejér vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Fejér",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91175",
       "datetime": "2026.08.21. 20:27",
