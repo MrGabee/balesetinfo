@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T05:20:31.504020+00:00",
-  "count": 3317,
+  "updated_at": "2026-08-21T05:24:24.212222+00:00",
+  "count": 3318,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91147",
+      "datetime": "2026.08.21. 07:21",
+      "title": "Lesodródott az útról egy autó a 65-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91147",
+      "lead": "Tamási közelében félpályán halad a forgalom.",
+      "body": "Lesodródott az útról és oldalára borult egy személygépkocsi a 65-ös főúton, Tamási közelében, a 49-es kilométerszelvénynél. Az autóban csak a sofőr utazott, aki ki tudott szállni. A tamási önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad  a forgalom.",
+      "location": "Tamási, Szabadság utca",
+      "updates": []
+    },
     {
       "id": "91146",
       "datetime": "2026.08.21. 06:25",
