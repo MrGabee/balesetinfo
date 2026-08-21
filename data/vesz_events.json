@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T10:48:06.096198+00:00",
-  "count": 3326,
+  "updated_at": "2026-08-21T10:51:43.507924+00:00",
+  "count": 3327,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91156",
+      "datetime": "2026.08.21. 12:51",
+      "title": "Melléképület égett Tiszaföldváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91156",
+      "lead": "Az Epreskert úton oltották el a lángokat.",
+      "body": "Melléképület égett Tiszaföldváron, az Epreskert úton. A kunszentmártoni hivatásos és a tiszaföldvári önkormányzati tűzoltók egy vízsugárral eloltották a lángokat. A rajok dugólétra és kéziszerszámok segítségével utómunkálatokat végeznek.",
+      "location": "Tiszaföldvár, Epreskert út",
+      "updates": []
+    },
     {
       "id": "91155",
       "datetime": "2026.08.21. 11:03",
