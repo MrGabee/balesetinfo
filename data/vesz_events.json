@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T12:29:28.643910+00:00",
-  "count": 3329,
+  "updated_at": "2026-08-21T12:33:16.132176+00:00",
+  "count": 3330,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91159",
+      "datetime": "2026.08.21. 14:33",
+      "title": "Hármas karambol Jászszentlászló közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91159",
+      "lead": "Az 5402-es utat lezárták.",
+      "body": "Három személyautó ütközött össze Jászszentlászló közelében, az 5402-es út 21-es kilométerszelvényénél. A kiskunfélegyházi és kiskunmajsai hivatásos tűzoltók feszítővágó segítségével egy embert kiemeltek az egyik gépkocsiból. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászszentlászló, 5402",
+      "updates": []
+    },
     {
       "id": "91158",
       "datetime": "2026.08.21. 13:30",
