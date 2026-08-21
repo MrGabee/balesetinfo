@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T15:17:55.904436+00:00",
-  "count": 3342,
+  "updated_at": "2026-08-21T15:21:47.084142+00:00",
+  "count": 3343,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91172",
+      "datetime": "2026.08.21. 17:19",
+      "title": "Meteorológiai riasztás visszavonva",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91172",
+      "lead": "Nincsen zivatar esemény Tolna vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Tolna vármegye területén.\n\nMegyék:Tolna",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91171",
       "datetime": "2026.08.21. 17:03",
@@ -20,8 +31,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Tolna vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91170",
-      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Tolna vármegye területére.",
-      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Tolna",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
