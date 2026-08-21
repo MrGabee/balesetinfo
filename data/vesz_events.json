@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T19:02:46.518143+00:00",
-  "count": 3347,
+  "updated_at": "2026-08-21T19:06:43.586171+00:00",
+  "count": 3348,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91177",
+      "datetime": "2026.08.21. 21:04",
+      "title": "Busz és személyautó karambolozott a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91177",
+      "lead": "Ebes és Debrecen között lezárták az utat.",
+      "body": "Busz és személyautó karambolozott a 4-es főút Ebes és Debrecen közötti szakaszán, a 214-es kilométerszelvénynél. A debreceni és a hajdúszoboszlói hivatásos tűzoltók egy embert feszítővágó segítségével kiemeltek a gépkocsiból, majd átadták a mentőknek. A buszon hatvannyolc fő utazott. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Ebes, 4",
+      "updates": []
+    },
     {
       "id": "91176",
       "datetime": "2026.08.21. 21:02",
