@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T11:43:52.637588+00:00",
+  "updated_at": "2026-08-21T11:48:41.719987+00:00",
   "count": 3329,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Frontális karambol Boldog és Tura között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91158",
-      "lead": "A bekötő utat lezárták.",
-      "body": "Frontálisan ütközött két személyautó a Boldog és Tura közötti, 31121-es bekötő úton, a 3-as kilométerszelvénynél. A balesethez a hatvani hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Boldog, Bartók Béla út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -20,9 +20,9 @@
       "title": "Tűz van Debrecenben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91157",
-      "lead": "A Vértes út közelébe riasztották a tűzoltókat.",
-      "body": "Tűz van egy debreceni telephelyen, a Vértes út közelében. A helyszínen több köbméter komposzt ég. A debreceni hivatásos tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját erőgép is segíti.",
-      "location": "Debrecen, Vértes út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -84,6 +84,14 @@
           "datetime": "2026.08.21. 13:26",
           "category": "Tűzeset",
           "text": "Körülhatárolták a tüzet Vácon, ahol egy családi ház ég a Látóhegy dűlőn. A váci, fővárosi és monori hivatásos tűzoltók jelenleg több vízsugárral oltják a lángokat. A rajok két acetilén- és egy oxigénpalackot is kihoztak az épületből, ebből egyet az állapota miatt egy mesterlövészt ártalmatlanított.",
+          "location": "Vác, Látóhegy dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91152/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91152"
+        },
+        {
+          "title": "Már az utómunkálatokat végzik Vácon",
+          "datetime": "2026.08.21. 13:45",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Vácon, ahol egy családi ház ég a Látóhegy dűlőn. A lángokat a váci, fővárosi és monori hivatásos, valamint a nagymarosi önkéntes tűzoltók oltották el. A rajok két acetilén- és egy oxigénpalackot is kihoztak az épületből, ebből egyet az állapota miatt egy mesterlövészt ártalmatlanított. A tűz oltását egy szentendrei és egy váci vízszállító is segítette. A helyszínre az áramszolgáltató szakemberei is kiérkeztek, akik leválasztották az ingatlant a hálózatról.",
           "location": "Vác, Látóhegy dűlő",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91152/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91152"
         }
@@ -304,9 +312,9 @@
       "title": "Karambol Gyálon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91132",
-      "lead": "A Klapka György utcában forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Gyálon, a Klapka György utcában. Az autókban összesen öten utaztak. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Gyál, Klapka György utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
