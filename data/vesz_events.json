@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T12:07:21.209466+00:00",
+  "updated_at": "2026-08-21T12:11:08.911224+00:00",
   "count": 3329,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "91157",
-      "datetime": "2026.08.21. 13:17",
+      "datetime": "2026.08.21. 13:17 -",
       "title": "Tűz van Debrecenben",
-      "category": "Tűzeset",
+      "category": "Tűz van Debrecenben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91157",
       "lead": "A Vértes út közelébe riasztották a tűzoltókat.",
       "body": "Tűz van egy debreceni telephelyen, a Vértes út közelében. A helyszínen több köbméter komposzt ég. A debreceni hivatásos tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját erőgép is segíti.",
       "location": "Debrecen, Vértes út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Debrecenben",
+          "datetime": "2026.08.21. 14:10",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Debrecenben, ahol egy telephelyen égett a komposzt a Vértes úton. A A debreceni hivatásos tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a tüzet. A rajok hőkamerával átvizsgálták a területet, a felhevült részeket erőgép segítségével megbontják.",
+          "location": "Debrecen, Vértes út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91157/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91157"
+        }
+      ]
     },
     {
       "id": "91156",
