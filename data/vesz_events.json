@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T20:00:45.022927+00:00",
-  "count": 3353,
+  "updated_at": "2026-08-21T20:03:56.864348+00:00",
+  "count": 3354,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91183",
+      "datetime": "2026.08.21. 22:01",
+      "title": "Két személyautó és egy busz ütközött Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91183",
+      "lead": "A Soroksári úton forgalomkorlátozásra kell számítani.",
+      "body": "Két személyautó és egy busz ütközött össze Budapest IX. kerületében, a Soroksári úton, a Földváry utca közelében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. Az érintett útszakasz belvárosba vezető oldalát lezárták.",
+      "location": "Budapest, Soroksári út",
+      "updates": []
+    },
     {
       "id": "91182",
       "datetime": "2026.08.21. 21:41",
