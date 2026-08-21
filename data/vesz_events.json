@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:34:48.996587+00:00",
+  "updated_at": "2026-08-21T21:38:14.443097+00:00",
   "count": 3358,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -130,8 +130,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Fejér vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91176",
-      "lead": "",
-      "body": "",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Fejér vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Fejér",
       "location": "",
       "updates": []
     },
@@ -152,8 +152,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Veszprém vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91174",
-      "lead": "",
-      "body": "",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Veszprém vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Veszprém",
       "location": "",
       "updates": []
     },
@@ -163,8 +163,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva 2 vármegye területére",
       "category": "Másodfokú (narancs) meteorológiai riasztás kiadva 2 vármegye területére",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91173",
-      "lead": "",
-      "body": "",
+      "lead": "A HungaroMet zivatar veszélye miatt másodfokú (narancs) riasztást adott ki Baranya vármegye, Somogy vármegye területére.",
+      "body": "Az érintett területeken: Veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Baranya, Somogy",
       "location": "",
       "updates": []
     },
@@ -185,8 +185,8 @@
       "title": "Meteorológiai riasztás visszavonva",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91171",
-      "lead": "",
-      "body": "",
+      "lead": "Nincsen zivatar esemény Somogy vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Somogy vármegye területén.\n\nMegyék:Somogy",
       "location": "",
       "updates": []
     },
@@ -218,8 +218,8 @@
       "title": "Meteorológiai riasztás visszavonva",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91168",
-      "lead": "",
-      "body": "",
+      "lead": "Nincsen zivatar esemény Baranya vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Baranya vármegye területén.\n\nMegyék:Baranya",
       "location": "",
       "updates": []
     },
