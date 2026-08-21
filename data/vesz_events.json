@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T19:39:19.653430+00:00",
-  "count": 3352,
+  "updated_at": "2026-08-21T19:42:44.362418+00:00",
+  "count": 3353,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91182",
+      "datetime": "2026.08.21. 21:41",
+      "title": "Meteorológiai riasztás visszavonva",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91182",
+      "lead": "Nincsen zivatar esemény Fejér vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Fejér vármegye területén.\n\nMegyék:Fejér",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91181",
       "datetime": "2026.08.21. 21:31",
@@ -64,8 +75,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Fejér vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91176",
-      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Fejér vármegye területére.",
-      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Fejér",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
@@ -86,8 +97,8 @@
       "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Veszprém vármegye területére",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91174",
-      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Veszprém vármegye területére.",
-      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Veszprém",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
