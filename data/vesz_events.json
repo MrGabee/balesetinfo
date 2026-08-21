@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T05:16:31.743598+00:00",
+  "updated_at": "2026-08-21T05:20:31.504020+00:00",
   "count": 3317,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,9 +108,9 @@
       "title": "Oszlopnak hajtott egy autó Balatonfüreden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91137",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Vázsonyi úton történt a baleset.",
+      "body": "Kidöntött egy oszlopot egy személygépkocsi Balatonfüreden, a Vázsonyi úton. A helyi önkormányzati tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Balatonfüred, Vázsonyi út",
       "updates": []
     },
     {
@@ -374,9 +374,9 @@
       "title": "Utoléréses baleset történt az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91116",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A sztráda érintett szakaszán forgalmi akadály van.",
+      "body": "Összeütközött három személygépkocsi Gödöllőnél, az M3-as autópálya 28-as kilométerénél, a Miskolc felé vezető oldalon. A gödöllői hivatásos tűzoltók áramtalanították az egyik járművet. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Gödöllő, M3",
       "updates": []
     },
     {
@@ -385,9 +385,9 @@
       "title": "Elhagyatott épületben keletkezett tűz a XIII. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91115",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bulcsú utcába vonultak a tűzoltók.",
+      "body": "Tűz keletkezett egy elhagyatott épületben, Budapest XIII. kerületében, a Bulcsú utcában. Az épületben mintegy tíz négyzetméteren szemét égett. A lángok az ablakon keresztül körülbelül két négyzetméteren a környező avarra is átterjedtek. A fővárosi hivatásos tűzoltók oltották el a tüzet.",
+      "location": "Budapest, Bulcsú utca",
       "updates": []
     },
     {
@@ -396,10 +396,19 @@
       "title": "Gaz és avar ég Budapesten",
       "category": "Gaz és avar ég Budapesten",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91114",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A XXIII. kerületben oltják a lángokat a tűzoltók.",
+      "body": "Kigyulladt a gaz és az avar Budapest XXIII. kerületében, a Vízisport utcánál. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelmi és Speciális Mentő Közhasznú Egyesület oltják a lángokat. A munkálatokat két fővárosi vízszállító jármű is segíti.",
+      "location": "Budapest, Vízisport utca",
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat a XXIII. kerületben",
+          "datetime": "2026.08.19. 20:01",
+          "category": "Tűzeset",
+          "text": "Négy hektáron gaz és avar égett Budapest XXIII. kerületében, a Vízisport utcánál. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelmi és Speciális Mentő Közhasznú Egyesület több vízsugárral és kéziszerszámokkal oltották el a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak az egységek. A munkálatokat két fővárosi vízszállító jármű is segítette.",
+          "location": "Budapest, Vízisport utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91114/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91114"
+        }
+      ]
     },
     {
       "id": "91113",
