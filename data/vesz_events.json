@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T20:22:36.241964+00:00",
-  "count": 3355,
+  "updated_at": "2026-08-21T20:25:32.341347+00:00",
+  "count": 3356,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91185",
+      "datetime": "2026.08.21. 22:23",
+      "title": "Oldalára borult egy autó Jászapáti és Jászszentandrás között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91185",
+      "lead": "A 3228-as útra vonultak a tűzoltók.",
+      "body": "Árokba hajtott és oldalára borult egy személyautó a Jászapátit és Jászszentandrást összekötő, 3228-as út 2-es és 3-as kilométerszelvénye között. A jászkiséri önkormányzati és a jászapáti önkéntes tűzoltók áramtalanították a gépkocsit.",
+      "location": "Jászapáti, Táncsics út",
+      "updates": []
+    },
     {
       "id": "91184",
       "datetime": "2026.08.21. 22:04",
@@ -141,8 +152,8 @@
       "title": "Meteorológiai riasztás visszavonva",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91172",
-      "lead": "Nincsen zivatar esemény Tolna vármegye területén.",
-      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Tolna vármegye területén.\n\nMegyék:Tolna",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
@@ -185,8 +196,8 @@
       "title": "Meteorológiai riasztás visszavonva",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91168",
-      "lead": "Nincsen zivatar esemény Baranya vármegye területén.",
-      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Baranya vármegye területén.\n\nMegyék:Baranya",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
