@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-21T19:13:49.222532+00:00",
-  "count": 3350,
+  "updated_at": "2026-08-21T19:18:26.011582+00:00",
+  "count": 3351,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91180",
+      "datetime": "2026.08.21. 21:15",
+      "title": "Elsőfokú riasztást adott ki felhőszakadások veszélye miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91180",
+      "lead": "Az érintett területeken akár huszonöt-harminc milliméternél is több csapadék eshet.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki felhőszakadások veszélye miatt a HungaroMet. Az érintett területeken rövid idő alatt akár több mint huszonöt-harminc milliméter eső eshet. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91179",
       "datetime": "2026.08.21. 21:13",
