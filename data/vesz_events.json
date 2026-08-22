@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T11:08:13.398144+00:00",
-  "count": 3367,
+  "updated_at": "2026-08-22T11:12:01.956048+00:00",
+  "count": 3368,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91197",
+      "datetime": "2026.08.22. 13:11",
+      "title": "Összeütközött két autó Hévíz és Zalaszántó között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91197",
+      "lead": "Lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Összeütközött két gépkocsi Hévíz és Zalaszántó között, a 7327-es út 11-es kilométerszelvényénél. Öten utaztak összesen a járművekben, mindannyian saját erejükből ki tudtak szállni. A keszthelyi hivatásos tűzoltók mindkét autót áramtalanították. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Zalaszántó, 7327",
+      "updates": []
+    },
     {
       "id": "91196",
       "datetime": "2026.08.22. 13:01",
