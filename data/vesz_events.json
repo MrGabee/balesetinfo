@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T14:43:20.007528+00:00",
-  "count": 3376,
+  "updated_at": "2026-08-22T14:46:58.655670+00:00",
+  "count": 3377,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91206",
+      "datetime": "2026.08.22. 16:44",
+      "title": "Baleset történt az M5-ösön, Kakucsnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91206",
+      "lead": "A tűzoltók áramtalanították a karambolos járműveket.",
+      "body": "Két gépkocsi ütközött össze az M5-ös autópálya 40-es kilométerszelvényénél, Kakucs térségében, a Budapest felé vezető oldalon. Az ütközést követően a járművek egymástól kétszáz méterre álltak meg. A dabasi hivatásos tűzoltók áramtalanították mindkét autót, amelyekben összesen heten utaztak. A balesethez a mentők is kiérkeztek.",
+      "location": "Kakucs, M5",
+      "updates": []
+    },
     {
       "id": "91205",
       "datetime": "2026.08.22. 16:37",
