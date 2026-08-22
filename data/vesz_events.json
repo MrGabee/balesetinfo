@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:53:30.744586+00:00",
+  "updated_at": "2026-08-22T14:57:31.845534+00:00",
   "count": 3377,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,7 +34,16 @@
       "lead": "Két vízsugárral oltják a tűzoltók a lángokat.",
       "body": "Gátér térségében, a még folyamatban lévő tűzesettől nem messze, a 451-es főút mellett is meggyulladt a gaz és az avar. A szentesi és a kisteleki hivatásos tűzoltók mellett Kecskemétről egy vízszállító érkezett a helyszínre, két vízsugárral oltják a lángokat. A beavatkozás idejére lezárták a 451-es főút érintett szakaszát.",
       "location": "Gátér, 451",
-      "updates": []
+      "updates": [
+        {
+          "title": "Kisebb füstölések megszüntetésén dolgoznak a tűzoltók a másik gátéri esetnél",
+          "datetime": "2026.08.22. 16:52",
+          "category": "Tűzeset",
+          "text": "A szentesi és a kisteleki hivatásos tűzoltók megfékezték a lángokat Gátér térségében, a 451-es főút mellett, ahol a korábban kiütött tűzesettől nem messze is meggyulladt a gaz és az avar egy négyhektáros területen. Az egységek mellett Kecskemétről egy vízszállító is érkezett a helyszínre, ahol jelenleg már csak a kisebb füstölések megszüntetésén dolgoznak.",
+          "location": "Gátér, 451",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91204/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91204"
+        }
+      ]
     },
     {
       "id": "91203",
