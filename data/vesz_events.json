@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T10:06:55.580267+00:00",
-  "count": 3365,
+  "updated_at": "2026-08-22T10:10:18.005603+00:00",
+  "count": 3366,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91195",
+      "datetime": "2026.08.22. 12:09",
+      "title": "Árokba hajtott egy autó Izsák és Páhi között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91195",
+      "lead": "Félpályán lezárták az 5301-es út érintett szakaszát.",
+      "body": "Árokba hajtott egy gépkocsi Izsák és Páhi között, az 5301-es út 23-as kilométerszelvényénél. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A kecskeméti hivatásos tűzoltók áramtalanították a bajba került autót. A baleset miatt félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Izsák, 5301",
+      "updates": []
+    },
     {
       "id": "91194",
       "datetime": "2026.08.22. 11:44",
