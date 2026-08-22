@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T08:33:08.869855+00:00",
-  "count": 3361,
+  "updated_at": "2026-08-22T08:36:36.829957+00:00",
+  "count": 3362,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91191",
+      "datetime": "2026.08.22. 10:36",
+      "title": "Összeütközött két autó Lajosmizsénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91191",
+      "lead": "Félpályán halad a forgalom a 4608-as út érintett szakaszán.",
+      "body": "Két gépkocsi ütközött össze a 4608-as út 28-as kilométerszelvényénél, Lajosmizse térségében, az M5-ös autópálya felé vezető irányban. A lajosmizsei önkormányzati tűzoltók mindkét járművet áramtalanították. Az egység mellett a mentők is kiérkeztek a helyszínre, ahol félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Lajosmizse, 4608",
+      "updates": []
+    },
     {
       "id": "91190",
       "datetime": "2026.08.22. 09:47",
