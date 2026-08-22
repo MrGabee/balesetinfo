@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:25:50.335836+00:00",
+  "updated_at": "2026-08-22T12:28:50.976116+00:00",
   "count": 3371,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A tűzoltók öt vízsugárral oltják a lángokat.",
       "body": "Ég a gaz és az avar Szolnokon, a Bányász utca melletti területen. A tűz több irányba terjed, és házakat is veszélyeztet. A szolnoki hivatásos tűzoltók öt vízsugárral oltják a lángokat. A helyszínre Ceglédről indult el további segítség, valamint a katasztrófavédelmi műveleti szolgálat is az esethez tart.",
       "location": "Szolnok, Bányász utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
+          "datetime": "2026.08.22. 14:23",
+          "category": "Tűzeset",
+          "text": "A szolnoki és a ceglédi hivatásos tűzoltók hat vízsugárral megakadályozták a tűz továbbterjedését Szolnokon, ahol a gazos, nádas terület kapott lángra a Bányász utca mellett. A tűz több irányba terjedt, és házakat is veszélyeztetett. A leégett terület mintegy két hektár.",
+          "location": "Szolnok, Bányász utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91199/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91199"
+        }
+      ]
     },
     {
       "id": "91198",
