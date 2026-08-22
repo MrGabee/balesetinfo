@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T16:57:54.078832+00:00",
-  "count": 3381,
+  "updated_at": "2026-08-22T17:01:24.218767+00:00",
+  "count": 3382,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91211",
+      "datetime": "2026.08.22. 19:01",
+      "title": "Két autó karambolozott Celldömölkön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91211",
+      "lead": "Félpályán halad a forgalom a Sági utca érintett szakaszán.",
+      "body": "Összeütközött két gépkocsi Celldömölkön, a 8429-es út Sági utcai szakaszán, a 14-es kilométerszelvénynél. Öten utaztak a járművekben, amelyeket a város önkormányzati tűzoltói áramtalanítottak. Az egység a mentőket kérte a helyszínre, ahol félpályán halad a forgalom a baleset miatt.",
+      "location": "Celldömölk, 8429",
+      "updates": []
+    },
     {
       "id": "91210",
       "datetime": "2026.08.22. 18:27",
