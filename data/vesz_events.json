@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-08-22T20:41:05.139979+00:00",
+  "updated_at": "2026-08-22T20:44:41.888311+00:00",
   "count": 3385,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91214",
-      "datetime": "2026.08.22. 21:27",
+      "datetime": "2026.08.22. 21:27 -",
       "title": "Lakóház és melléképülete ég Szenyéren",
-      "category": "Tűzeset",
+      "category": "Lakóház és melléképülete ég Szenyéren",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91214",
       "lead": "A melléképület már teljesen leégett.",
       "body": "Egy nyolcvan-száz négyzetméteres lakóház tetőszerkezete, valamint melléképülete ég Szenyéren, a Simon utcában. A marcali hivatásos és a böhönyei önkormányzati tűzoltók négy vízsugárral oltják a lángokat. Információk szerint a melléképület már leégett.",
       "location": "Szenyér, Simon utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Szenyéren",
+          "datetime": "2026.08.22. 22:42",
+          "category": "Tűzeset",
+          "text": "A marcali hivatásos és a böhönyei önkormányzati tűzoltók négy vízsugárral eloltották a tüzet Szenyéren, ahol egy nyolcvan-száz négyzetméteres, jelenleg lakatlan ház tetőszerkezete, valamint a házhoz épített ötven négyzetméteres melléképület égett a Simon utcában. A melléképület teljesen leégett a tűzben. Az egységek megkezdték az utómunkálatokat.",
+          "location": "Szenyér, Simon utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91214/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91214"
+        }
+      ]
     },
     {
       "id": "91213",
