@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T09:26:40.165914+00:00",
-  "count": 3363,
+  "updated_at": "2026-08-22T09:30:27.595902+00:00",
+  "count": 3364,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91193",
+      "datetime": "2026.08.22. 11:28",
+      "title": "Baleset történt az M43-ason, Szegednél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91193",
+      "lead": "Elterelik a forgalmat a karambol miatt az érintett pályaszakaszon.",
+      "body": "Egy kamion és egy személyautó ütközött össze az M43-as autópálya 11-es kilométerszelvényénél, Szeged térségében, a Makó felé vezető irányban. A kamion defektet kapott, emiatt történt a karambol. A balesetet követően a személyautó három utasa saját erejéből ki tudott szállni. A szegedi hivatásos tűzoltók és a társhatóságok érkeztek a helyszínre, a tűzoltók megkezdték a járművek áramtalanítását. A hatósági beavatkozás idejére lezárták az érintett pályaszakaszt, a forgalmat elterelik a körforgalomnál.",
+      "location": "Szeged, M43",
+      "updates": []
+    },
     {
       "id": "91192",
       "datetime": "2026.08.22. 11:00",
