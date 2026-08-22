@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T11:54:42.912198+00:00",
-  "count": 3370,
+  "updated_at": "2026-08-22T11:58:20.230897+00:00",
+  "count": 3371,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91200",
+      "datetime": "2026.08.22. 13:56",
+      "title": "Tűz van egy miskolci családi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91200",
+      "lead": "A tűzoltók két vízsugárral kezdték oltani a lángokat.",
+      "body": "Egy családi ház első emeletén ütött ki tűz Miskolcon, az Újjáépítés utcában. A miskolci hivatásos tűzoltók, valamint a diósgyőri városrész hivatásos tűzoltói érkeztek a helyszínre, két vízsugárral kezdték oltani a lángokat, amelyek továbbterjedését már megakadályozták. Az egységek a munkálatok közben átvizsgálják az épületet.",
+      "location": "Miskolc, Újjáépítés utca",
+      "updates": []
+    },
     {
       "id": "91199",
       "datetime": "2026.08.22. 13:28",
