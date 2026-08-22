@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T12:49:23.887003+00:00",
-  "count": 3372,
+  "updated_at": "2026-08-22T12:53:17.767727+00:00",
+  "count": 3373,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91202",
+      "datetime": "2026.08.22. 14:52",
+      "title": "Két autó karambolozott a III. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91202",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi karambolozott a III. kerületi Vörösvári úton, a Flórián térnél. Összesen hárman utaztak a járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítottak. Az egység a társhatóságokat várja a helyszínre.",
+      "location": "Budapest, Flórián tér",
+      "updates": []
+    },
     {
       "id": "91201",
       "datetime": "2026.08.22. 14:37",
