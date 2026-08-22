@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T22:18:38.571178+00:00",
-  "count": 3386,
+  "updated_at": "2026-08-22T22:21:50.991406+00:00",
+  "count": 3387,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91216",
+      "datetime": "2026.08.23. 00:20",
+      "title": "Baleset történt a 83-ason, Győrnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91216",
+      "lead": "Egy közlekedési táblában is kár keletkezett.",
+      "body": "A járdaszigetre hajtott, és kárt tett egy közlekedési táblában egy gépkocsi Győrben, a 83-as főút és a Pápai út kereszteződésében. A balesetben egy másik autó is érintetté vált, azonban nem károsodott. A győri hivatásos tűzoltók áramtalanították a járdára hajtott járművet. A balesethez a társhatóságok is kiérkeztek, valamint a közútkezelő szakembereit is értesítették.",
+      "location": "Győr, 83",
+      "updates": []
+    },
     {
       "id": "91215",
       "datetime": "2026.08.23. 00:11",
