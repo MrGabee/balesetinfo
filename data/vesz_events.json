@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T22:11:29.069752+00:00",
-  "count": 3385,
+  "updated_at": "2026-08-22T22:14:32.149894+00:00",
+  "count": 3386,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91215",
+      "datetime": "2026.08.23. 00:11",
+      "title": "Kigyulladt egy tanyaépület Nyársapáton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91215",
+      "lead": "A tűzoltók három vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt, és teljesen kiégett egy közel ötven négyzetméteres tanyaépület Nyársapáton, a Köz dűlőben. A két lakó időben elhagyta az épületet. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók három vízsugárral oltották el a tüzet, jelenleg az utómunkálatokat végzik.",
+      "location": "Nyársapát, Köz dűlő",
+      "updates": []
+    },
     {
       "id": "91214",
       "datetime": "2026.08.22. 21:27 -",
