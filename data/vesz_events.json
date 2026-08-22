@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T16:24:46.493224+00:00",
-  "count": 3380,
+  "updated_at": "2026-08-22T16:28:33.378629+00:00",
+  "count": 3381,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91210",
+      "datetime": "2026.08.22. 18:27",
+      "title": "Fák közé hajtott egy autó Gödöllő és Valkó között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91210",
+      "lead": "A jármű áramtalanítására volt szükség.",
+      "body": "Letért az úttestről, majd a fák közé hajtott egy gépkocsi Gödöllő és Valkó között, a 3104-es út 11-es kilométerszelvényénél. Csak a vezetője utazott a járműben, amelynek a motorja kiszakadt a baleset következtében. A gödöllői hivatásos tűzoltók áramtalanították a bajba került autót. Az egység mellett a társhatóságok is a helyszínre értek.",
+      "location": "Valkó, Szabadság út",
+      "updates": []
+    },
     {
       "id": "91209",
       "datetime": "2026.08.22. 17:56",
