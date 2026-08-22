@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T09:41:23.385307+00:00",
-  "count": 3364,
+  "updated_at": "2026-08-22T09:45:03.642633+00:00",
+  "count": 3365,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91194",
+      "datetime": "2026.08.22. 11:44",
+      "title": "Családi ház tetőszerkezete ég Izsákon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91194",
+      "lead": "A tűzoltók két vízsugárral kezdték oltani a lángokat.",
+      "body": "Egy családi ház tetőszerkezete ég Izsákon, a Szily Kálmán utcában. A helyszínre elsőként a szabadszállási önkormányzati tűzoltók ékeztek ki, két vízsugárral kezdték oltani a lángokat. Az egységet követően a kiskőrösi hivatásos tűzoltók is megérkeztek, és a kecskeméti hivatásos tűzoltók mellett a katasztrófavédelmi műveleti szolgálat is az esethez tart.",
+      "location": "Izsák, Szily Kálmán utca",
+      "updates": []
+    },
     {
       "id": "91193",
       "datetime": "2026.08.22. 11:28",
