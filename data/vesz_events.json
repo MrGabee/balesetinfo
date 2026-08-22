@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T15:48:25.803760+00:00",
-  "count": 3378,
+  "updated_at": "2026-08-22T15:52:00.336642+00:00",
+  "count": 3379,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91208",
+      "datetime": "2026.08.22. 17:50",
+      "title": "Kigyulladt egy melléképület teteje Tiszaszentimrén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91208",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Egy családi ház melléképületének tetőszerkezete gyulladt ki Tiszaszentimrén, a Petőfi úton. A tiszafüredi hivatásos tűzoltók egy vízsugárral oltották el az öt négyzetméteren keletkezett tüzet. Az egységek megkezdték az utómunkálatokat.",
+      "location": "Tiszaszentimre, Petőfi út",
+      "updates": []
+    },
     {
       "id": "91207",
       "datetime": "2026.08.22. 17:46",
