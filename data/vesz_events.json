@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T15:44:21.087756+00:00",
-  "count": 3377,
+  "updated_at": "2026-08-22T15:48:25.803760+00:00",
+  "count": 3378,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91207",
+      "datetime": "2026.08.22. 17:46",
+      "title": "Melléképület tetőszerkezete égett Arlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91207",
+      "lead": "Három vízsugárral dolgoztak a tűzoltók.",
+      "body": "Egy lakóház melléképületének tetőszerkezete égett húsz négyzetméteren Arlón, a Pozsonyi úton. Az ózdi hivatásos tűzoltók három vízsugárral előbb megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. Az egységek jelenleg az utómunkálatokat végzik.",
+      "location": "Arló, Pozsonyi út",
+      "updates": []
+    },
     {
       "id": "91206",
       "datetime": "2026.08.22. 16:44",
