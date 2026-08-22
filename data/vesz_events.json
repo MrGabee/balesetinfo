@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T11:25:30.469565+00:00",
-  "count": 3369,
+  "updated_at": "2026-08-22T11:28:43.564158+00:00",
+  "count": 3370,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91199",
+      "datetime": "2026.08.22. 13:28",
+      "title": "Gaz és avar ég Szolnokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91199",
+      "lead": "A tűzoltók öt vízsugárral oltják a lángokat.",
+      "body": "Ég a gaz és az avar Szolnokon, a Bányász utca melletti területen. A tűz több irányba terjed, és házakat is veszélyeztet. A szolnoki hivatásos tűzoltók öt vízsugárral oltják a lángokat. A helyszínre Ceglédről indult el további segítség, valamint a katasztrófavédelmi műveleti szolgálat is az esethez tart.",
+      "location": "Szolnok, Bányász utca",
+      "updates": []
+    },
     {
       "id": "91198",
       "datetime": "2026.08.22. 13:16",
