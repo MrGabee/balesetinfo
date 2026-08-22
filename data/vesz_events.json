@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T23:22:02.163220+00:00",
-  "count": 3387,
+  "updated_at": "2026-08-22T23:26:18.707028+00:00",
+  "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91217",
+      "datetime": "2026.08.23. 01:26",
+      "title": "Leégett egy istálló Kéleshalomban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91217",
+      "lead": "Négy vízsugárral dolgoztak a tűzoltók.",
+      "body": "Egy istálló égett le Kéleshalomban, a Kossuth Lajos utcában. A kiskunhalasi hivatásos és a jánoshalmai önkormányzati tűzoltók érkeztek a helyszínre, négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. Az istállóban tartott állatok elpusztultak a tűzben.",
+      "location": "Kéleshalom, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91216",
       "datetime": "2026.08.23. 00:20",
