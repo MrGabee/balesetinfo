@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T07:44:43.504561+00:00",
-  "count": 3360,
+  "updated_at": "2026-08-22T07:48:18.528643+00:00",
+  "count": 3361,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91190",
+      "datetime": "2026.08.22. 09:47",
+      "title": "Virágágyásnak ütközött egy autó Szombathelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91190",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Egy üzlet mellett álló virágágyásnak ütközött egy gépkocsi Szombathelyen, a Kiskar utcában, a Kossuth Lajos utca közelében. A város hivatásos tűzoltói áramtalanítják a bajba került járművet. A balesethez a társhatóság is megérkezett.",
+      "location": "Szombathely, Kiskar utca",
+      "updates": []
+    },
     {
       "id": "91189",
       "datetime": "2026.08.22. 09:27",
