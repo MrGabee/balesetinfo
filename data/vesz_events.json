@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T07:26:22.408528+00:00",
-  "count": 3359,
+  "updated_at": "2026-08-22T07:29:44.122384+00:00",
+  "count": 3360,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91189",
+      "datetime": "2026.08.22. 09:27",
+      "title": "Ház kapujának csapódott egy autó Fóton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91189",
+      "lead": "A tűzoltók vontatják le a járművet.",
+      "body": "Egy családi ház kapujának csapódott egy gépkocsi Fóton, a Jedlik Ányos utca és a Honvéd utca sarkán. A balesethez a fóti önkéntes tűzoltók érkeztek ki, csörlő segítségével megkezdték a jármű eltávolítását a kapuról.",
+      "location": "Fót, Jedlik Ányos utca",
+      "updates": []
+    },
     {
       "id": "91188",
       "datetime": "2026.08.22. 07:56",
