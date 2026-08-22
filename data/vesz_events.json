@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T11:15:31.687872+00:00",
-  "count": 3368,
+  "updated_at": "2026-08-22T11:18:20.255237+00:00",
+  "count": 3369,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91198",
+      "datetime": "2026.08.22. 13:16",
+      "title": "Motorosok ütköztek össze Csákvár és Csákberény között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91198",
+      "lead": "A tűzoltók áramtalanítják a kétkerekű járműveket.",
+      "body": "Két motorkerékpáros ütközött össze Csákvár és Csákberény között, a 8126-os út 8-as kilométerszelvényénél. A járműveken összesen hárman utaztak. A székesfehérvári hivatásos tűzoltók és a társhatóságok érkeztek a helyszínre, a tűzoltók megkezdték a motorok áramtalanítását. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Csákberény, 8126",
+      "updates": []
+    },
     {
       "id": "91197",
       "datetime": "2026.08.22. 13:11",
