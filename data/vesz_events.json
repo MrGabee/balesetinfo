@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:01:06.962208+00:00",
+  "updated_at": "2026-08-22T15:04:16.073162+00:00",
   "count": 3377,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -54,7 +54,16 @@
       "lead": "Három hektár égett le a területen.",
       "body": "Mintegy három hektáron ég a száraz fű, a gaz, az avar Gátér tanyasi külterületén. A kiskunfélegyházi és a csongrádi hivatásos tűzoltók megkezdték a munkálatokat. A helyszínre tart Kecskemétről egy vízszállító, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Gátér, Tanyák",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Gátér tanyasi külterületén",
+          "datetime": "2026.08.22. 16:58",
+          "category": "Tűzeset",
+          "text": "A kiskunfélegyházi, a csongrádi és a kecskeméti hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett körülhatárolták a tüzet Gátér tanyasi külterületén, ahol hét-nyolc hektáron kapott lángra a száraz fű, a gaz, az avar. A tűz az erdő aljnövényzetét is elérte. Az egységek folytatják a munkálatokat.",
+          "location": "Gátér, Tanyák",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91203/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91203"
+        }
+      ]
     },
     {
       "id": "91202",
