@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:07:51.526200+00:00",
+  "updated_at": "2026-08-22T20:11:59.186233+00:00",
   "count": 3385,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -144,6 +144,14 @@
       "location": "Gátér, Tanyák",
       "updates": [
         {
+          "title": "Körülhatárolták a lángokat Gátér tanyasi külterületén",
+          "datetime": "2026.08.22. 16:58",
+          "category": "Tűzeset",
+          "text": "A kiskunfélegyházi, a csongrádi és a kecskeméti hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett körülhatárolták a tüzet Gátér tanyasi külterületén, ahol hét-nyolc hektáron kapott lángra a száraz fű, a gaz, az avar. A tűz az erdő aljnövényzetét is elérte. Az egységek folytatják a munkálatokat.",
+          "location": "Gátér, Tanyák",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91203/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91203"
+        },
+        {
           "title": "Tizennyolc hektáron dolgoztak a tűzoltók Gátér tanyasi külterületén",
           "datetime": "2026.08.22. 20:02",
           "category": "Tűzeset",
@@ -170,10 +178,27 @@
       "title": "Szalmabálák égnek Báránd és Kaba között",
       "category": "Szalmabálák égnek Báránd és Kaba között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91201",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűz egy lakókocsit is elért.",
+      "body": "Mintegy hetven szalmabála ég Báránd és Kaba között, a 4801-es út mellett, egy telephelyen. A bálák mögött egy lakókocsi is kigyulladt, teljes egészében ég. A püspökladányi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltják a lángokat, amelyeket már körülhatároltak. A helyszínre elindultak a szeghalmi hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Báránd, külterület",
+      "updates": [
+        {
+          "title": "Megbontották a szalmabálákat Báránd és Kaba között",
+          "datetime": "2026.08.22. 18:12",
+          "category": "Tűzeset",
+          "text": "Egy erőgép segítségével megbontották azt a mintegy hetven szalmabálát, amelyek Báránd és Kaba között, a 4801-es út mellett, egy telephelyen gyulladtak ki. A bálák mögött egy lakókocsi is kiégett, a tűz egy csarnoképületet és gépeket is veszélyeztetett. A püspökladányi hivatásos tűzoltók a szeghalmi hivatásos tűzoltók vízszállítója segítségével, két vízsugárral és kéziszerszámokkal körülhatárolták a lángokat, jelenleg is oltják a megbontott bálákat. Az egységek elhúzódó munkálatokra készülnek.",
+          "location": "Báránd, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91201/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91201"
+        },
+        {
+          "title": "Eloltották a lángokat Báránd és Kaba között",
+          "datetime": "2026.08.22. 21:34",
+          "category": "Tűzeset",
+          "text": "A püspökladányi hivatásos tűzoltók a szeghalmi hivatásos tűzoltók vízszállítója segítségével, a mintegy hetven szalmabála megbontását követően eloltották a bálák lángjait, amelyek Báránd és Kaba között, a 4801-es út mellett, egy telephelyen gyulladtak ki. A bálák mögött egy lakókocsi is kiégett, a tűz egy csarnoképületet és gépeket is veszélyeztetett. Az egységek három vízsugárral dolgoztak a tűz elfojtásán, már az utómunkálatokat is befejezték.",
+          "location": "Báránd, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91201/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91201"
+        }
+      ]
     },
     {
       "id": "91200",
@@ -201,10 +226,27 @@
       "title": "Gaz és avar ég Szolnokon",
       "category": "Gaz és avar ég Szolnokon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91199",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók öt vízsugárral oltják a lángokat.",
+      "body": "Ég a gaz és az avar Szolnokon, a Bányász utca melletti területen. A tűz több irányba terjed, és házakat is veszélyeztet. A szolnoki hivatásos tűzoltók öt vízsugárral oltják a lángokat. A helyszínre Ceglédről indult el további segítség, valamint a katasztrófavédelmi műveleti szolgálat is az esethez tart.",
+      "location": "Szolnok, Bányász utca",
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat a tűzoltók Szolnokon",
+          "datetime": "2026.08.22. 14:23",
+          "category": "Tűzeset",
+          "text": "A szolnoki és a ceglédi hivatásos tűzoltók hat vízsugárral megakadályozták a tűz továbbterjedését Szolnokon, ahol a gazos, nádas terület kapott lángra a Bányász utca mellett. A tűz több irányba terjedt, és házakat is veszélyeztetett. A leégett terület mintegy két hektár.",
+          "location": "Szolnok, Bányász utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91199/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91199"
+        },
+        {
+          "title": "Megfékezték a lángokat Szolnokon",
+          "datetime": "2026.08.22. 15:20",
+          "category": "Tűzeset",
+          "text": "A szolnoki és a ceglédi hivatásos tűzoltók hat vízsugárral megfékezték a tüzet Szolnokon, ahol a gazos, nádas terület kapott lángra a Bányász utca mellett. A tűz több irányba terjedt, és házakat is veszélyeztetett. A leégett terület mintegy két hektár volt.",
+          "location": "Szolnok, Bányász utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91199/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91199"
+        }
+      ]
     },
     {
       "id": "91198",
@@ -419,8 +461,8 @@
       "title": "Elsőfokú riasztást adott ki felhőszakadások veszélye miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91180",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken akár huszonöt-harminc milliméternél is több csapadék eshet.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki felhőszakadások veszélye miatt a HungaroMet. Az érintett területeken rövid idő alatt akár több mint huszonöt-harminc milliméter eső eshet. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -430,8 +472,8 @@
       "title": "Főleg az ország nyugati felén okoz gondot a viharossá vált időjárás",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91179",
-      "lead": "",
-      "body": "",
+      "lead": "Somogy és Baranya vármegyében hívták a legtöbbször a tűzoltókat viharkárok miatt.",
+      "body": "Másodfokú, narancssárga riasztást adott ki délután hevesebb zivatarok veszélye miatt a Dunántúl több vármegyéjére a HungaroMet. Az esti órákban elsősorban Somogy és Baranya vármegyéből érkeztek bejelentések a katasztrófavédelem műveletirányítási ügyeleteire. A legtöbben útra dőlt fák, leszakadt ágak miatt telefonáltak. A 67-es főút Bőszénfa és Mozsgó közelében is kidőlt fák okoznak fennakadást a közlekedésben, Berzencén a 681-es főúton dőlt egy fa nagyfeszültségű kábelekre. Siófokon a Tanácsház utcában dőlt fa egy személyautóra. A tűzoltók amint befejezték a munkálatokat, azonnal indulnak a következő helyszínre segítséget nyújtani.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
