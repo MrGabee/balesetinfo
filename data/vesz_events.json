@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T15:55:37.113485+00:00",
-  "count": 3379,
+  "updated_at": "2026-08-22T15:59:22.693294+00:00",
+  "count": 3380,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91209",
+      "datetime": "2026.08.22. 17:56",
+      "title": "Baleset történt a 81-esen, Bakonysárkánynál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91209",
+      "lead": "Félpályás forgalmi akadály alakult ki a karambol miatt.",
+      "body": "Két gépkocsi ütközött össze a 81-es főút 37-es és 38-as kilométerszelvénye között, Bakonysárkány térségében. Az ütközés következtében az egyik jármű a bokrok között állt meg, a másik az úttesten okoz félpályás forgalmi akadályt. A kisbéri hivatásos tűzoltók megkezdték a műszaki mentési munkálatokat, áramtalanítják a kocsikat, valamint motoros láncfűrész segítségével kiszabadítják a bokrok közé rekedt autót. Az egység mellett a társhatóságok is a helyszínen dolgoznak.",
+      "location": "Bakonysárkány, 81",
+      "updates": []
+    },
     {
       "id": "91208",
       "datetime": "2026.08.22. 17:50",
