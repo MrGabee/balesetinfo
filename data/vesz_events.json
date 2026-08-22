@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:12:55.335445+00:00",
+  "updated_at": "2026-08-22T16:16:54.508047+00:00",
   "count": 3380,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -118,7 +118,16 @@
       "lead": "A tűz egy lakókocsit is elért.",
       "body": "Mintegy hetven szalmabála ég Báránd és Kaba között, a 4801-es út mellett, egy telephelyen. A bálák mögött egy lakókocsi is kigyulladt, teljes egészében ég. A püspökladányi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltják a lángokat, amelyeket már körülhatároltak. A helyszínre elindultak a szeghalmi hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Báránd, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megbontották a szalmabálákat Báránd és Kaba között",
+          "datetime": "2026.08.22. 18:12",
+          "category": "Tűzeset",
+          "text": "Egy erőgép segítségével megbontották azt a mintegy hetven szalmabálát, amelyek Báránd és Kaba között, a 4801-es út mellett, egy telephelyen gyulladtak ki. A bálák mögött egy lakókocsi is kiégett, a tűz egy csarnoképületet és gépeket is veszélyeztetett. A püspökladányi hivatásos tűzoltók a szeghalmi hivatásos tűzoltók vízszállítója segítségével, két vízsugárral és kéziszerszámokkal körülhatárolták a lángokat, jelenleg is oltják a megbontott bálákat. Az egységek elhúzódó munkálatokra készülnek.",
+          "location": "Báránd, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91201/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91201"
+        }
+      ]
     },
     {
       "id": "91200",
