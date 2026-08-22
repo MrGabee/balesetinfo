@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T08:58:07.854616+00:00",
-  "count": 3362,
+  "updated_at": "2026-08-22T09:01:37.989668+00:00",
+  "count": 3363,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91192",
+      "datetime": "2026.08.22. 11:00",
+      "title": "Autóbusszal karambolozott egy személyautó a 71-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91192",
+      "lead": "Váltakozva halad a forgalom az érintett útszakaszon.",
+      "body": "Egy menetrend szerint közlekedő autóbusz és egy személyautó ütközött össze a 71-es főút 5-ös kilométerszelvényénél, Balatonakarattya és Balatonfőkajár határában, az M7-es autópálya felé vezető irányban. Az autóban hárman, a buszon mintegy harmincan utaztak. A polgárdi önkormányzati tűzoltók áramtalanították a kisebb járművet. A helyszínre a társhatóságok is elindultak. A baleset miatt irányítás mellett, váltakozva halad a forgalom a 71-es főút érintett szakaszán. Információk szerint a busz utasaiért mentesítő járat érkezik.",
+      "location": "Balatonakarattya, 71",
+      "updates": []
+    },
     {
       "id": "91191",
       "datetime": "2026.08.22. 10:36",
