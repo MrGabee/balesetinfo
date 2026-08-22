@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T14:36:14.893647+00:00",
-  "count": 3375,
+  "updated_at": "2026-08-22T14:39:37.773354+00:00",
+  "count": 3376,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91205",
+      "datetime": "2026.08.22. 16:37",
+      "title": "Lakóház tetőszerkezete égett Valkón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91205",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy nyolcvan négyzetméteres lakóház tetőszerkezete égett mintegy negyven négyzetméteren Valkón, a Petőfi utcában. A gödöllői hivatásos tűzoltók két vízsugárral előbb körülhatárolták, majd eloltották a lángokat. Az épület tetején munkálatokat végeztek, ennek következtében keletkezett a tűz. A ház egy része lakhatatlanná vált.",
+      "location": "Valkó, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91204",
       "datetime": "2026.08.22. 16:18",
