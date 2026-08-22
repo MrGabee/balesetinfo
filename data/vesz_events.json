@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-22T11:00:40.848712+00:00",
-  "count": 3366,
+  "updated_at": "2026-08-22T11:04:37.539280+00:00",
+  "count": 3367,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91196",
+      "datetime": "2026.08.22. 13:01",
+      "title": "Két autó karambolozott az 1-esen, Biatorbágynál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91196",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Két gépkocsi ütközött össze az 1-es főút 16-os kilométerszelvényénél, Biatorbágy térségében, a pátyi lehajtó előtt. Összesen hatan utaztak az összeakadt járművekben, amelyek közül az egyiket az érdi hivatásos és a biatorbágyi önkéntes tűzoltók áramtalanították.",
+      "location": "Biatorbágy, 1",
+      "updates": []
+    },
     {
       "id": "91195",
       "datetime": "2026.08.22. 12:09",
