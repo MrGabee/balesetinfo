@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:19:57.259475+00:00",
+  "updated_at": "2026-08-23T15:23:41.836182+00:00",
   "count": 3402,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -67,7 +67,16 @@
       "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
       "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
       "location": "Kisvárda, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
+          "datetime": "2026.08.23. 17:17",
+          "category": "Tűzeset",
+          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
+          "location": "Kisvárda, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
+        }
+      ]
     },
     {
       "id": "91225",
