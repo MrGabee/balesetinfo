@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T14:41:13.573816+00:00",
-  "count": 3397,
+  "updated_at": "2026-08-23T14:44:34.708229+00:00",
+  "count": 3398,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91227",
+      "datetime": "2026.08.23. 16:42",
+      "title": "Két autó karambolozott Kunszentmiklóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kunszentmiklós, Óvoda utca",
+      "updates": []
+    },
     {
       "id": "91226",
       "datetime": "2026.08.23. 15:38",
