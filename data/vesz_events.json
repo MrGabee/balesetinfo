@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T13:19:29.578283+00:00",
-  "count": 3394,
+  "updated_at": "2026-08-23T13:23:03.911697+00:00",
+  "count": 3395,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91224",
+      "datetime": "2026.08.23. 15:20",
+      "title": "Oszlopnak ütközött egy autó Szigetszentmiklóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91224",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Szigetszentmiklóson, a Petőfi utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Szigetszentmiklós, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91223",
       "datetime": "2026.08.23. 15:05",
