@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T18:11:05.636535+00:00",
-  "count": 3410,
+  "updated_at": "2026-08-23T18:14:56.851295+00:00",
+  "count": 3411,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91240",
+      "datetime": "2026.08.23. 20:14",
+      "title": "Közlekedési lámpának ütközött egy autó a XIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91240",
+      "lead": "Forgalmi akadály van.",
+      "body": "Közlekedési lámpának ütközött egy személygépkocsi Budapest XIII. kerületében, a Váci úton. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Váci út",
+      "updates": []
+    },
     {
       "id": "91239",
       "datetime": "2026.08.23. 20:00",
