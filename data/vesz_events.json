@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T19:25:03.577783+00:00",
-  "count": 3412,
+  "updated_at": "2026-08-23T19:29:18.599834+00:00",
+  "count": 3413,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91242",
+      "datetime": "2026.08.23. 21:28",
+      "title": "Autó égett Lőrincinél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91242",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személyautó Lőrincinél, a Kápolna utcában, azaz a 2401-es út 8-as kilométerénél. A jármű teljes terjedelmében égett. A hatvani hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Lőrinci, Kápolna utca",
+      "updates": []
+    },
     {
       "id": "91241",
       "datetime": "2026.08.23. 21:06",
