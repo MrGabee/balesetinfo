@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T07:53:39.432442+00:00",
-  "count": 3388,
+  "updated_at": "2026-08-23T07:57:20.928103+00:00",
+  "count": 3389,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91218",
+      "datetime": "2026.08.23. 09:55",
+      "title": "Pincetűz Veszprémben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91218",
+      "lead": "A Liszt Ferenc utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy pince Veszprémben, a Liszt Ferenc utcában. A negyven négyzetméteres pincében háztartási tárgyak égtek. A veszprémi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Veszprém, Liszt Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91217",
       "datetime": "2026.08.23. 01:26",
