@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T20:07:10.686796+00:00",
-  "count": 3414,
+  "updated_at": "2026-08-23T20:10:46.779954+00:00",
+  "count": 3415,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91244",
+      "datetime": "2026.08.23. 22:10",
+      "title": "Két autó ütközött Reszneknél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91244",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeüközött két személygépkocsi Reszneknél, a 86-os főút és a 7416-os út kereszteződésénél. A lenti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kerkabarabás, 84-7416",
+      "updates": []
+    },
     {
       "id": "91243",
       "datetime": "2026.08.23. 21:37",
