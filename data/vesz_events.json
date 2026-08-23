@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T17:25:39.337479+00:00",
-  "count": 3408,
+  "updated_at": "2026-08-23T17:28:54.511077+00:00",
+  "count": 3409,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91238",
+      "datetime": "2026.08.23. 19:26",
+      "title": "Kamion és autó ütközött a 4415-ös úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91238",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött egy személygépkocsi és egy kamion Földeáknál, a 4415-ös út 19-es kilométerénél. A makói hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Földeák, 4415",
+      "updates": []
+    },
     {
       "id": "91237",
       "datetime": "2026.08.23. 19:21",
