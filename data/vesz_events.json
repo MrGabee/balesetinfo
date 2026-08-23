@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T12:07:25.345652+00:00",
-  "count": 3390,
+  "updated_at": "2026-08-23T12:10:59.760690+00:00",
+  "count": 3391,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91220",
+      "datetime": "2026.08.23. 14:07",
+      "title": "Két autó ütközött az M4-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91220",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kisújszállásnál, az M4-es autóút 148-as kilométerénél, a Karcag fel vezető oldalon. A kisújszállási önkormányzati tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisújszállás, M4",
+      "updates": []
+    },
     {
       "id": "91219",
       "datetime": "2026.08.23. 12:31",
