@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T17:15:15.392145+00:00",
-  "count": 3406,
+  "updated_at": "2026-08-23T17:18:33.919611+00:00",
+  "count": 3407,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91236",
+      "datetime": "2026.08.23. 19:16",
+      "title": "Újabb baleset történt Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91236",
+      "lead": "A tűzoltók áramtalanították az egyik járművet.",
+      "body": "Összeütközött két személygépkocsi Pécsen, a Somogyi Béla utca és a Légszeszgyár utca kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították az egyik járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Pécs, Somogyi Béla utca",
+      "updates": []
+    },
     {
       "id": "91235",
       "datetime": "2026.08.23. 19:11",
