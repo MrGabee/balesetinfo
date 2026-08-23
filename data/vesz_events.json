@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T13:04:30.157588+00:00",
-  "count": 3393,
+  "updated_at": "2026-08-23T13:07:58.611359+00:00",
+  "count": 3394,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91223",
+      "datetime": "2026.08.23. 15:05",
+      "title": "Tűz volt Varsányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91223",
+      "lead": "A Bátorvölgyi útra riasztották a tűzoltókat.",
+      "body": "Kétszáz négyzetméteren száraz fű égett két ingatlan udvarán, Varsányban, a Bátorvölgyi úton. A tűz a házakat nem érintette. A szécsényi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Varsány, Bátorvölgyi út",
+      "updates": []
+    },
     {
       "id": "91222",
       "datetime": "2026.08.23. 14:34",
