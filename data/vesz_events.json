@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T16:46:17.062134+00:00",
-  "count": 3403,
+  "updated_at": "2026-08-23T16:51:14.642735+00:00",
+  "count": 3404,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91233",
+      "datetime": "2026.08.23. 18:46",
+      "title": "Két autó ütközött Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91233",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Pécsen a 6-os főút, azaz a Zsolnay Vilmos utca és az Engel János utca kereszteződésnél. A helyi hivatásos tűzoltók végzik a műszaki mentást, amely során áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pécs, Engel János József utca",
+      "updates": []
+    },
     {
       "id": "91232",
       "datetime": "2026.08.23. 18:27",
