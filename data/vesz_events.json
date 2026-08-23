@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T17:02:39.583381+00:00",
-  "count": 3404,
+  "updated_at": "2026-08-23T17:06:47.296049+00:00",
+  "count": 3405,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91234",
+      "datetime": "2026.08.23. 19:04",
+      "title": "Négyes karambol az M7-esen, Balatonfőkajárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91234",
+      "lead": "A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
+      "body": "Karambolozott négy személygépkocsi Balatonfőkajár térségében, az M7-es autópálya 87-es kilométerénél, a Budapest felé vezető oldalon. A polgárdi és a balatonboglári önkormányzati tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
+      "location": "Balatonfőkajár, M7",
+      "updates": []
+    },
     {
       "id": "91233",
       "datetime": "2026.08.23. 18:46",
