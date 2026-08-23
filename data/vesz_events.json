@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T19:36:20.493515+00:00",
-  "count": 3413,
+  "updated_at": "2026-08-23T19:39:52.717480+00:00",
+  "count": 3414,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91243",
+      "datetime": "2026.08.23. 21:37",
+      "title": "Bála és trágya ég Gesztely külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243",
+      "lead": "A tűzoltók a 3605-ös útnál dolfoznak.",
+      "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
+      "location": "Gesztely, 3605",
+      "updates": []
+    },
     {
       "id": "91242",
       "datetime": "2026.08.23. 21:28",
