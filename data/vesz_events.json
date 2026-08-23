@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T15:08:35.585895+00:00",
-  "count": 3400,
+  "updated_at": "2026-08-23T15:12:28.211224+00:00",
+  "count": 3401,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91230",
+      "datetime": "2026.08.23. 17:08",
+      "title": "Tűz volt Kokadon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91230",
+      "lead": "Már az utómunkálatok zajlanak a helyszínen.",
+      "body": "Mintegy ezer négyzetméteren száraz avar, gaz és szemét égett Kokadon, a Rákóczi Ferenc utcában. A debreceni hivatásos tűzoltók három vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Kokad, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91229",
       "datetime": "2026.08.23. 16:56",
