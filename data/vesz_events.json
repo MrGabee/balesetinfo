@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T17:06:47.296049+00:00",
-  "count": 3405,
+  "updated_at": "2026-08-23T17:11:34.355507+00:00",
+  "count": 3406,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91235",
+      "datetime": "2026.08.23. 19:11",
+      "title": "Autótűz Ceglédnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91235",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Ceglédnél, a 401-es főúton, az M4-es autóút közelében. Mintegy ezer négyzetméteren a tűz az út melletti száraz fűre is átterjedt. A ceglédi hivatásos tűzoltók két vízsugárral elfojtották a lángokat.",
+      "location": "Cegléd, 401",
+      "updates": []
+    },
     {
       "id": "91234",
       "datetime": "2026.08.23. 19:04",
