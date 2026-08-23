@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T17:59:22.260026+00:00",
-  "count": 3409,
+  "updated_at": "2026-08-23T18:03:14.240172+00:00",
+  "count": 3410,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91239",
+      "datetime": "2026.08.23. 20:00",
+      "title": "Baleset történt a 84-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91239",
+      "lead": "Uzsa és Lesenceistvánd között dolgoznak a tűzoltók.",
+      "body": "Letért az útról és az árokba borult egy gépkocsi Uzsa és Lesenceistvánd között, a 84-es főút 10-es és 11-es kilométere közötti szakaszán. A baleset következtében a sínekre borult egy oszlop, amely akadályozza a vasút forgalmát. A tapolcai önkormányzati tűzoltók áramtalanították a balesetes járművet.",
+      "location": "Uzsa, 84",
+      "updates": []
+    },
     {
       "id": "91238",
       "datetime": "2026.08.23. 19:26",
@@ -434,14 +445,6 @@
       "body": "Mintegy három hektáron ég a száraz fű, a gaz, az avar Gátér tanyasi külterületén. A kiskunfélegyházi és a csongrádi hivatásos tűzoltók megkezdték a munkálatokat. A helyszínre tart Kecskemétről egy vízszállító, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Gátér, Tanyák",
       "updates": [
-        {
-          "title": "Körülhatárolták a lángokat Gátér tanyasi külterületén",
-          "datetime": "2026.08.22. 16:58",
-          "category": "Tűzeset",
-          "text": "A kiskunfélegyházi, a csongrádi és a kecskeméti hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett körülhatárolták a tüzet Gátér tanyasi külterületén, ahol hét-nyolc hektáron kapott lángra a száraz fű, a gaz, az avar. A tűz az erdő aljnövényzetét is elérte. Az egységek folytatják a munkálatokat.",
-          "location": "Gátér, Tanyák",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91203/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91203"
-        },
         {
           "title": "Tizennyolc hektáron dolgoztak a tűzoltók Gátér tanyasi külterületén",
           "datetime": "2026.08.22. 20:02",
