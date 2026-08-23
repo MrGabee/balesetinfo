@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T16:24:39.914138+00:00",
-  "count": 3402,
+  "updated_at": "2026-08-23T16:28:21.028965+00:00",
+  "count": 3403,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91232",
+      "datetime": "2026.08.23. 18:27",
+      "title": "Gaz és aljnövényzet égett Siófokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91232",
+      "lead": "A tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
+      "body": "Kigyulladt a gaz és az aljnövényzet Siófokon, az Egres utca és a Cseresznyefa utca kereszteződésénél. A terület körülbelül ezer négyzetméter égett. A helyi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
+      "location": "Siófok, Cseresznye utca",
+      "updates": []
+    },
     {
       "id": "91231",
       "datetime": "2026.08.23. 17:13",
