@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:58:55.475203+00:00",
+  "updated_at": "2026-08-23T17:02:39.583381+00:00",
   "count": 3404,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -142,7 +142,16 @@
       "lead": "Bozótos és erdő aljnövényzete ég.",
       "body": "Nagy területen bozótos és erdő aljnövényzete ég Sárkeresztúr külterületén. A sárbogárdi hivatásos tűzoltók dolgoznak a helyszínen. Egy székesfehérvári vízszállító jármű is segíti a munkálatokat. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat és további egységek is vonulnak az esethez.",
       "location": "Sárkeresztúr, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Sárkeresztúrnál",
+          "datetime": "2026.08.23. 18:58",
+          "category": "Tűzeset",
+          "text": "A tűzoltók már az utómunkálatokat végzik Sárkeresztúr külterületén, ahol húsz hektáron bozótos és erdő aljnövényzete égett. A sárbogárdi és a székesfehérvári hivatásos, valamint a baracsi és a seregélyesi önkéntes tűzoltók a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. A munkálatokat egy székesfehérvári és egy siófoki vízszállító jármű is segíti.",
+          "location": "Sárkeresztúr, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91222/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91222"
+        }
+      ]
     },
     {
       "id": "91221",
