@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T14:52:14.983836+00:00",
-  "count": 3399,
+  "updated_at": "2026-08-23T14:56:32.761540+00:00",
+  "count": 3400,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91229",
+      "datetime": "2026.08.23. 16:56",
+      "title": "Összeütközött két jármű az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91229",
+      "lead": "Vecsésnél történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Vecsés térségében, az M0-s autóút 36-os kilométerénél, az M4-es autóút felé vezető oldalon. A baleset következtében az egyik jármű a tetejére borult. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Vecsés, M0",
+      "updates": []
+    },
     {
       "id": "91228",
       "datetime": "2026.08.23. 16:49",
