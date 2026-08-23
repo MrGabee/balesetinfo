@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-23T14:48:35.520525+00:00",
-  "count": 3398,
+  "updated_at": "2026-08-23T14:52:14.983836+00:00",
+  "count": 3399,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91228",
+      "datetime": "2026.08.23. 16:49",
+      "title": "Ráfutásos baleset történt a 3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91228",
+      "lead": "Kerecsendnél irányítás mellett halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Kerecsendnél, a 3-as főút 121-es kilométerénél. A füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Kerecsend, 3",
+      "updates": []
+    },
     {
       "id": "91227",
       "datetime": "2026.08.23. 16:42",
