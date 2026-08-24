@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T17:22:23.226467+00:00",
-  "count": 3447,
+  "updated_at": "2026-08-24T17:26:13.724698+00:00",
+  "count": 3448,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91277",
+      "datetime": "2026.08.24. 19:23",
+      "title": "Karambol Baracskán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91277",
+      "lead": "Az Országút utcán félpályán halad a forgalom.",
+      "body": "Összeütközött egy személygépkocsi és egy kisteherautó a 7-es főút belterületi szakaszán, azaz az Országút utcán, Baracskán, a Templom utca kereszteződésében. A martonvásári önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Baracska, Deák Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91276",
       "datetime": "2026.08.24. 18:53",
