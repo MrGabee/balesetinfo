@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T06:41:39.215288+00:00",
+  "updated_at": "2026-08-24T06:45:29.991149+00:00",
   "count": 3419,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -84,9 +84,9 @@
       "title": "Autó égett Lőrincinél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91242",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személyautó Lőrincinél, a Kápolna utcában, azaz a 2401-es út 8-as kilométerénél. A jármű teljes terjedelmében égett. A hatvani hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Lőrinci, Kápolna utca",
       "updates": []
     },
     {
@@ -95,9 +95,9 @@
       "title": "Tetejére borult egy autó Pázmándon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91241",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Deák Ferenc utcában történt a baleset.",
+      "body": "Tetejére borult egy személygépkocsi Pázmándon, a Deák Ferenc utcában. A helyi önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pázmánd, Deák Ferenc utca",
       "updates": []
     },
     {
@@ -353,9 +353,9 @@
       "title": "Két autó ütközött az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91220",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kisújszállásnál, az M4-es autóút 148-as kilométerénél, a Karcag fel vezető oldalon. A kisújszállási önkormányzati tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisújszállás, M4",
       "updates": []
     },
     {
@@ -375,9 +375,9 @@
       "title": "Pincetűz Veszprémben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91218",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Liszt Ferenc utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy pince Veszprémben, a Liszt Ferenc utcában. A negyven négyzetméteres pincében háztartási tárgyak égtek. A veszprémi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Veszprém, Liszt Ferenc utca",
       "updates": []
     },
     {
