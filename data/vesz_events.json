@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T16:45:04.431642+00:00",
-  "count": 3445,
+  "updated_at": "2026-08-24T16:48:57.915658+00:00",
+  "count": 3446,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91275",
+      "datetime": "2026.08.24. 18:48",
+      "title": "Baleset a 7-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91275",
+      "lead": "Nagyrécsénél teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a 7-es főúton, Nagyrécsénél, a 202-es kilométerszelvénynél. A baleset következtében az egyik autó kigyulladt. A nagykanizsai és a zalakarosi hivatásos tűzoltók áramtalanították a másik járművet és elfojtották a lángokat is. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nagyrécse, Táncsics utca",
+      "updates": []
+    },
     {
       "id": "91274",
       "datetime": "2026.08.24. 18:01",
