@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:28:47.068313+00:00",
+  "updated_at": "2026-08-24T10:32:47.048250+00:00",
   "count": 3427,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -139,9 +139,9 @@
       "title": "Baleset történt Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91245",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Villanyoszlopnak és betonkerítésnek ütközött egy személygépkocsi Kaposváron, a Pécsi utcában. A baleset következtében egy oszlop is kidőlt. A kaposvári hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kaposvár, Pécsi utca",
       "updates": []
     },
     {
@@ -150,9 +150,9 @@
       "title": "Két autó ütközött Reszneknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91244",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeüközött két személygépkocsi Reszneknél, a 86-os főút és a 7416-os út kereszteződésénél. A lenti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kerkabarabás, 84-7416",
       "updates": []
     },
     {
@@ -161,19 +161,10 @@
       "title": "Bála és trágya ég Gesztely külterületén",
       "category": "Bála és trágya ég Gesztely külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243",
-      "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
-      "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
-      "location": "Gesztely, 3605",
-      "updates": [
-        {
-          "title": "Befejezték a munkálatokat Gesztely külterületén",
-          "datetime": "2026.08.24. 06:47",
-          "category": "Tűzeset",
-          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
-          "location": "Gesztely, 3605",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91242",
@@ -181,9 +172,9 @@
       "title": "Autó égett Lőrincinél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91242",
-      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "body": "Kigyulladt egy személyautó Lőrincinél, a Kápolna utcában, azaz a 2401-es út 8-as kilométerénél. A jármű teljes terjedelmében égett. A hatvani hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "location": "Lőrinci, Kápolna utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -366,10 +357,19 @@
       "title": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "category": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
+      "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
+      "location": "Kisvárda, külterület",
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
+          "datetime": "2026.08.23. 17:17",
+          "category": "Tűzeset",
+          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
+          "location": "Kisvárda, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
+        }
+      ]
     },
     {
       "id": "91225",
@@ -388,9 +388,9 @@
       "title": "Oszlopnak ütközött egy autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91224",
-      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
-      "body": "Villanyoszlopnak ütközött egy személygépkocsi Szigetszentmiklóson, a Petőfi utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Szigetszentmiklós, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -410,19 +410,10 @@
       "title": "Tűz van Sárkeresztúr külterületén",
       "category": "Tűz van Sárkeresztúr külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91222",
-      "lead": "Bozótos és erdő aljnövényzete ég.",
-      "body": "Nagy területen bozótos és erdő aljnövényzete ég Sárkeresztúr külterületén. A sárbogárdi hivatásos tűzoltók dolgoznak a helyszínen. Egy székesfehérvári vízszállító jármű is segíti a munkálatokat. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat és további egységek is vonulnak az esethez.",
-      "location": "Sárkeresztúr, külterület",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Sárkeresztúrnál",
-          "datetime": "2026.08.23. 18:58",
-          "category": "Tűzeset",
-          "text": "A tűzoltók már az utómunkálatokat végzik Sárkeresztúr külterületén, ahol húsz hektáron bozótos és erdő aljnövényzete égett. A sárbogárdi és a székesfehérvári hivatásos, valamint a baracsi és a seregélyesi önkéntes tűzoltók a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. A munkálatokat egy székesfehérvári és egy siófoki vízszállító jármű is segíti.",
-          "location": "Sárkeresztúr, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91222/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91222"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91221",
