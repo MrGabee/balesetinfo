@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T09:36:15.419111+00:00",
-  "count": 3424,
+  "updated_at": "2026-08-24T09:39:54.813410+00:00",
+  "count": 3425,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91254",
+      "datetime": "2026.08.24. 11:38",
+      "title": "Rét ég Ladánybene határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254",
+      "lead": "A tűzoltók már körülhatárolták a lángokat.",
+      "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
+      "location": "Ladánybene, Pálinkásdűlő tanya",
+      "updates": []
+    },
     {
       "id": "91253",
       "datetime": "2026.08.24. 10:55",
@@ -131,7 +142,16 @@
       "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
       "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
       "location": "Gesztely, 3605",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Gesztely külterületén",
+          "datetime": "2026.08.24. 06:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
+          "location": "Gesztely, 3605",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
+        }
+      ]
     },
     {
       "id": "91242",
@@ -269,9 +289,9 @@
       "title": "Karambol Esztergomban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91231",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Barkóczy Ferenc utca érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Esztergomban, a Barkóczy Ferenc utcában. A nyergesújfalui hivatásos és az esztergomi önkéntes tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Esztergom, Barkóczy Ferenc utca",
       "updates": []
     },
     {
@@ -280,9 +300,9 @@
       "title": "Tűz volt Kokadon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91230",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Már az utómunkálatok zajlanak a helyszínen.",
+      "body": "Mintegy ezer négyzetméteren száraz avar, gaz és szemét égett Kokadon, a Rákóczi Ferenc utcában. A debreceni hivatásos tűzoltók három vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Kokad, Rákóczi Ferenc utca",
       "updates": []
     },
     {
