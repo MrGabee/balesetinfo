@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:24:51.088261+00:00",
+  "updated_at": "2026-08-24T10:28:47.068313+00:00",
   "count": 3427,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -128,9 +128,9 @@
       "title": "Ráfutásos baleset történt az M3-ason, Keresztharasztnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91246",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A sztráda Budapest felé vezető szakaszán egy sávon halad a forgalom.",
+      "body": "Összeütközött két személyautó Keresztharasztnál, az M3-as autópálya 50-es kilométerénél, a Budapest felé vezető oldalon. A hatvani hivatásos tűzoltók áramtalanítják a járműveket. A mentőszolgálat is a helyszínen dolgozik. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Kerekharaszt, M3",
       "updates": []
     },
     {
@@ -150,9 +150,9 @@
       "title": "Két autó ütközött Reszneknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91244",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Összeüközött két személygépkocsi Reszneknél, a 86-os főút és a 7416-os út kereszteződésénél. A lenti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kerkabarabás, 84-7416",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -366,19 +366,10 @@
       "title": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "category": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226",
-      "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
-      "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
-      "location": "Kisvárda, külterület",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
-          "datetime": "2026.08.23. 17:17",
-          "category": "Tűzeset",
-          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
-          "location": "Kisvárda, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91225",
@@ -386,9 +377,9 @@
       "title": "Kigyulladt egy autó Isaszegnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91225",
-      "lead": "A jármű teljes terjedelmében égett.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Isaszegnél, az Iparos utcában. A gödöllői hivatásos és az isaszegi önkéntes tűzoltók két vízsugárral oltották el a lángokat. A rajok visszahűtötték az alkatrészeket.",
-      "location": "Isaszeg, Iparos utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -397,9 +388,9 @@
       "title": "Oszlopnak ütközött egy autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91224",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Szigetszentmiklóson, a Petőfi utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Szigetszentmiklós, Petőfi utca",
       "updates": []
     },
     {
