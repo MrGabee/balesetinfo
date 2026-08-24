@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:21:59.342797+00:00",
+  "updated_at": "2026-08-24T14:25:48.498840+00:00",
   "count": 3441,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Összeütközött két autó Angyalföldön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91269",
-      "lead": "A tűzoltók a Reitter Ferenc utcában áramtalanítják a járműveket.",
-      "body": "Egymásnak ütközött két személyautó Budapest XIII. kerületében, a Reitter Ferenc utcában, a Dolmány utcánál. Az egyik jármű félig kidöntött egy villanyoszlopot. A fővárosi hivatásos tűzoltók áramtalanítják a gépkocsikat. A helyszínen vannak a mentők is.",
-      "location": "Budapest, Reitter Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -78,7 +78,16 @@
       "lead": "Az aljnövényzetre is átterjedt a tűz.",
       "body": "Két kazalban felhalmozott, nagyméretű szalmabálák gyulladtak meg Jászkisér külterületén, a Vágóhíd út közelében. Több száz bála ég teljes terjedelmében, és mintegy ötezer négyzetméteren az aljnövényzetre is átterjedt a tűz, amely más kazlakat és egy magtárat is veszélyeztet. A jászberényi és a hevesi hivatásos. valamint a jászkiséri önkormányzati tűzoltók oltják a lángokat. A munkálatokat erőgépek is segítik.",
       "location": "Jászkisér, Jászkisér külterülete",
-      "updates": []
+      "updates": [
+        {
+          "title": "Hosszan tartó beavatkozásra lehet számítani Jászkisérnél",
+          "datetime": "2026.08.24. 16:22",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a tűz továbbterjedését Jászkisér külterületén, a Vágóhíd út közelében, ahol két kazalban felhalmozott, nagyméretű szalmabálák gyulladtak meg. Mintegy ezerkétszáz bála kapott lángra, és ötezer négyzetméteren az aljnövényzetre is átterjedt a tűz. A jászberényi és a hevesi hivatásos, valamint a jászkiséri önkormányzati tűzoltók egy jászberényi és egy nagykátai vízszállító jármű közreműködésével, öt vízsugárral oltják a lángokat. Az égő és a tűz által nem érintett kazlak között erőgépek segítségével körülbelül huszonöt méter széles védősávot sikerült kialakítani. Egy ideig a Jász-Nagykun-Szolnok megyei katasztrófavédelmi műveleti szolgálat irányította a munkálatokat, amelyek várhatóan hosszú ideig elhúzódnak.",
+          "location": "Jászkisér, Jászkisér külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91264/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91264"
+        }
+      ]
     },
     {
       "id": "91263",
