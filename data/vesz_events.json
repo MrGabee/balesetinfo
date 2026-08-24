@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T13:38:23.083429+00:00",
-  "count": 3438,
+  "updated_at": "2026-08-24T13:42:10.315464+00:00",
+  "count": 3439,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91268",
+      "datetime": "2026.08.24. 15:41",
+      "title": "Kisbusz és autó ütközött a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91268",
+      "lead": "Hódmezővásárhelynél teljes szélességében lezárták az utat.",
+      "body": "Összeütközött egy személygépkocsi és egy kisbusz a 47-es főúton, Hódmezővásárhelynél. A gépjárművekben összesen nyolcan utaztak. A hódmezővásárhelyi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hódmezővásárhely, Bodzás part",
+      "updates": []
+    },
     {
       "id": "91267",
       "datetime": "2026.08.24. 15:24",
@@ -64,9 +75,9 @@
       "title": "Hulladék égett Debrecenben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91262",
-      "lead": "A Medgyessy sétánynál keletkezett tűz, amely egy épület tetőszerkezetére is átterjedt.",
-      "body": "Tűz keletkezett egy felújítás alatt álló épület közelében, Debrecenben, a Medgyessy sétánynál. Hulladék gyulladt meg, és a tűz az ingatlan tetőszerkezetére is átterjedt. A város hivatásos és önkéntes tűzoltói öt vízsugárral, valamint egy vízágyúval megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A munkálatokat, amelyeket egy vízszállító jármű is segített, a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
-      "location": "Debrecen, Medgyessy sétány",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -75,9 +86,9 @@
       "title": "Baleset történt Hajdúszoboszlón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91261",
-      "lead": "Az Ady Endre utcát teljes szélességében lezárták.",
-      "body": "Egymásnak ütközött egy személygépkocsi és egy tehergépkocsi Hajdúszoboszlón, az Ady Endre utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket és egy utast feszítővágó segítségével kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Hajdúszoboszló, Ady Endre utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +108,9 @@
       "title": "Baleset történt az 5412-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91259",
-      "lead": "Kunfehértó határában forgalmi akadályra kell számítani.",
-      "body": "Fának ütközött és felborult egy teherautó az 5412-es úton, Kunfehértó határában, a Dózsa György utca közelében. A kiskunhalasi hivatásos tűzoltók áramtalanították a gépkocsit és a vezetőjét kisegítették belőle. A baleset helyszínén teljes szélességében lezárták az utat.",
-      "location": "Kunfehértó, 5412",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -130,9 +141,9 @@
       "title": "Baleset történt Balatonbogláron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91256",
-      "lead": "A Klapka utcában forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személygépkocsi Balatonbogláron, a Klapka utcában. A helyi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Balatonboglár, Klapka utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -152,19 +163,10 @@
       "title": "Rét ég Ladánybene határában",
       "category": "Rét ég Ladánybene határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254",
-      "lead": "A tűzoltók már körülhatárolták a lángokat.",
-      "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
-      "location": "Ladánybene, Pálinkásdűlő tanya",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Ladánybene határában",
-          "datetime": "2026.08.24. 12:36",
-          "category": "Tűzeset",
-          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Ladánybene, Pálinkásdűlő tanya",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91253",
@@ -183,19 +185,10 @@
       "title": "Ég az aljnövényzet Helvécia és Jakabszállás között",
       "category": "Ég az aljnövényzet Helvécia és Jakabszállás között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252",
-      "lead": "Egy fenyőerdőt is veszélyeztetnek a lángok az 54-es főút közelében.",
-      "body": "Kigyulladt az aljnövényzet Helvécia és Jakabszállás között, az 54-es főút közelében. Egy fenyőerdőt is veszélyeztetnek a lángok, amelyek mintegy három hektárt érintenek. A kecskeméti hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral oltják a tüzet. A munkálatokat erőgép is segíti.",
-      "location": "Helvécia, 54",
-      "updates": [
-        {
-          "title": "Már nem ég az aljnövényzet Helvécia és Jakabszállás között",
-          "datetime": "2026.08.24. 11:10",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Helvécia és Jakabszállás között, az 54-es főút közelében keletkezett. Mintegy három hektáron égett a gaz, az avar és egy akácfás az aljnövényzete. A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek két tanyaépületet is veszélyeztettek. A rajok megkezdték az utómunkálatokat. A tűzoltást a civil lakosság és két erőgép is segítette.",
-          "location": "Helvécia, 54",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91252"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91251",
@@ -258,9 +251,9 @@
       "title": "Ráfutásos baleset történt az M3-ason, Keresztharasztnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91246",
-      "lead": "A sztráda Budapest felé vezető szakaszán egy sávon halad a forgalom.",
-      "body": "Összeütközött két személyautó Keresztharasztnál, az M3-as autópálya 50-es kilométerénél, a Budapest felé vezető oldalon. A hatvani hivatásos tűzoltók áramtalanítják a járműveket. A mentőszolgálat is a helyszínen dolgozik. A sztráda érintett szakaszán egy sávon halad a forgalom.",
-      "location": "Kerekharaszt, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,19 +284,10 @@
       "title": "Bála és trágya ég Gesztely külterületén",
       "category": "Bála és trágya ég Gesztely külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243",
-      "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
-      "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
-      "location": "Gesztely, 3605",
-      "updates": [
-        {
-          "title": "Befejezték a munkálatokat Gesztely külterületén",
-          "datetime": "2026.08.24. 06:47",
-          "category": "Tűzeset",
-          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
-          "location": "Gesztely, 3605",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91242",
@@ -322,9 +306,9 @@
       "title": "Tetejére borult egy autó Pázmándon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91241",
-      "lead": "A Deák Ferenc utcában történt a baleset.",
-      "body": "Tetejére borult egy személygépkocsi Pázmándon, a Deák Ferenc utcában. A helyi önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pázmánd, Deák Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -358,7 +342,16 @@
       "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
       "body": "Összeütközött egy személygépkocsi és egy kamion Földeáknál, a 4415-ös út 19-es kilométerénél. A makói hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
       "location": "Földeák, 4415",
-      "updates": []
+      "updates": [
+        {
+          "title": "Két autó érintett a balesetben a 4415-ös úton",
+          "datetime": "2026.08.23. 20:23",
+          "category": "Közlekedési baleset",
+          "text": "A korábbi információkat pontosítva két személygépkocsi karambolozott Földeáknál, a 4415-ös út 19-es kilométerénél. A makói hivatásos tűzoltók dolgoztak a helyszínen. A műszaki mentés ideje alatt az érintett útszakaszon forgalmi akadály volt.",
+          "location": "Földeák, 4415",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91238/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91238"
+        }
+      ]
     },
     {
       "id": "91237",
