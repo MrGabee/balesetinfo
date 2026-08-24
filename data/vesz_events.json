@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T19:27:14.264150+00:00",
-  "count": 3449,
+  "updated_at": "2026-08-24T19:30:47.004350+00:00",
+  "count": 3450,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91279",
+      "datetime": "2026.08.24. 21:29",
+      "title": "Családi házban volt tűz Monoron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91279",
+      "lead": "A Szilágyi Dezső utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Monoron, a Szilágyi Dezső utcában. A padlástérben papírdobozok égtek. A monori hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Monor, Szilágyi Dezső utca",
+      "updates": []
+    },
     {
       "id": "91278",
       "datetime": "2026.08.24. 20:54",
