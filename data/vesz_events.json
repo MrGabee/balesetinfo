@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T06:59:46.114863+00:00",
-  "count": 3419,
+  "updated_at": "2026-08-24T07:04:03.022427+00:00",
+  "count": 3420,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91249",
+      "datetime": "2026.08.24. 09:02",
+      "title": "Lesodródott az útról egy autó Kunhegyesnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91249",
+      "lead": "A 3222-es úton áramtalanítottak a tűzoltók.",
+      "body": "Lesodródott az útról és oldalára borult egy személygépkocsi a 3222-es úton, Kunhegyes közelében. Az autóban csak a sofőr utazott. A kunhegyesi önkormányzati tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Kunhegyes, Tiszagyendai út",
+      "updates": []
+    },
     {
       "id": "91248",
       "datetime": "2026.08.24. 08:37",
