@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:57:15.663871+00:00",
+  "updated_at": "2026-08-24T11:01:11.027055+00:00",
   "count": 3428,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -39,13 +39,22 @@
     {
       "id": "91254",
       "datetime": "2026.08.24. 11:38 -",
-      "title": "1 db frissítés",
+      "title": "Rét ég Ladánybene határában",
       "category": "Rét ég Ladánybene határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók már körülhatárolták a lángokat.",
+      "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
+      "location": "Ladánybene, Pálinkásdűlő tanya",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Ladánybene határában",
+          "datetime": "2026.08.24. 12:36",
+          "category": "Tűzeset",
+          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Ladánybene, Pálinkásdűlő tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
+        }
+      ]
     },
     {
       "id": "91253",
@@ -61,12 +70,12 @@
     {
       "id": "91252",
       "datetime": "2026.08.24. 10:24 -",
-      "title": "1 db frissítés",
+      "title": "Ég az aljnövényzet Helvécia és Jakabszállás között",
       "category": "Ég az aljnövényzet Helvécia és Jakabszállás között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy fenyőerdőt is veszélyeztetnek a lángok az 54-es főút közelében.",
+      "body": "Kigyulladt az aljnövényzet Helvécia és Jakabszállás között, az 54-es főút közelében. Egy fenyőerdőt is veszélyeztetnek a lángok, amelyek mintegy három hektárt érintenek. A kecskeméti hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral oltják a tüzet. A munkálatokat erőgép is segíti.",
+      "location": "Helvécia, 54",
       "updates": []
     },
     {
@@ -75,9 +84,9 @@
       "title": "Csatornába borult egy autó Szatymaznál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91251",
-      "lead": "Egy embert a tűzoltók mentettek ki a járműből.",
-      "body": "Csatornába, a tetejére borult egy személygépkocsi Szatymaz közelében, az 5425-ös úton, az 5-ös főút közelében. A járműben egy ember utazott. Őt a műszaki mentést végző szegedi hivatásos tűzoltók kimentették a gépkocsiból, majd átadták a mentőknek.",
-      "location": "Szatymaz, 5425",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -141,9 +150,9 @@
       "title": "Baleset történt Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91245",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Villanyoszlopnak és betonkerítésnek ütközött egy személygépkocsi Kaposváron, a Pécsi utcában. A baleset következtében egy oszlop is kidőlt. A kaposvári hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Kaposvár, Pécsi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -216,9 +225,9 @@
       "title": "Baleset történt a 84-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91239",
-      "lead": "Uzsa és Lesenceistvánd között dolgoznak a tűzoltók.",
-      "body": "Letért az útról és az árokba borult egy gépkocsi Uzsa és Lesenceistvánd között, a 84-es főút 10-es és 11-es kilométere közötti szakaszán. A baleset következtében a sínekre borult egy oszlop, amely akadályozza a vasút forgalmát. A tapolcai önkormányzati tűzoltók áramtalanították a balesetes járművet.",
-      "location": "Uzsa, 84",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -258,9 +267,9 @@
       "title": "Újabb baleset történt Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91236",
-      "lead": "A tűzoltók áramtalanították az egyik járművet.",
-      "body": "Összeütközött két személygépkocsi Pécsen, a Somogyi Béla utca és a Légszeszgyár utca kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították az egyik járművet. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Pécs, Somogyi Béla utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -280,9 +289,9 @@
       "title": "Négyes karambol az M7-esen, Balatonfőkajárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91234",
-      "lead": "A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
-      "body": "Karambolozott négy személygépkocsi Balatonfőkajár térségében, az M7-es autópálya 87-es kilométerénél, a Budapest felé vezető oldalon. A polgárdi és a balatonboglári önkormányzati tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
-      "location": "Balatonfőkajár, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,9 +300,9 @@
       "title": "Két autó ütközött Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91233",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi Pécsen a 6-os főút, azaz a Zsolnay Vilmos utca és az Engel János utca kereszteződésnél. A helyi hivatásos tűzoltók végzik a műszaki mentást, amely során áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pécs, Engel János József utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -302,9 +311,9 @@
       "title": "Gaz és aljnövényzet égett Siófokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91232",
-      "lead": "A tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
-      "body": "Kigyulladt a gaz és az aljnövényzet Siófokon, az Egres utca és a Cseresznyefa utca kereszteződésénél. A terület körülbelül ezer négyzetméter égett. A helyi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
-      "location": "Siófok, Cseresznye utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -335,9 +344,9 @@
       "title": "Összeütközött két jármű az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91229",
-      "lead": "Vecsésnél történt a baleset.",
-      "body": "Két személygépkocsi karambolozott Vecsés térségében, az M0-s autóút 36-os kilométerénél, az M4-es autóút felé vezető oldalon. A baleset következtében az egyik jármű a tetejére borult. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Vecsés, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -346,9 +355,9 @@
       "title": "Ráfutásos baleset történt a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91228",
-      "lead": "Kerecsendnél irányítás mellett halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi Kerecsendnél, a 3-as főút 121-es kilométerénél. A füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon irányítás mellett halad a forgalom.",
-      "location": "Kerecsend, 3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -357,9 +366,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "Forgalmi akadály van.",
-      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kunszentmiklós, Óvoda utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
