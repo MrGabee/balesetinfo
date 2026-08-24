@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T15:36:27.700305+00:00",
-  "count": 3443,
+  "updated_at": "2026-08-24T15:40:07.952735+00:00",
+  "count": 3444,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91273",
+      "datetime": "2026.08.24. 17:37",
+      "title": "Parasztház égett Jászberényben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91273",
+      "lead": "A Trombita utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy parasztház tetőszerkezete Jászberényben, a Trombita utcában. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a nagykátai, a hatvani és a jászberényi hivatásos, illetve a jászárokszállási önkormányzati tűzoltók három vízsugárral elfojtották a lángokat. A rajok elhúzódó utómunkálatokat végeznek.",
+      "location": "Jászberény, Trombita utca",
+      "updates": []
+    },
     {
       "id": "91272",
       "datetime": "2026.08.24. 17:08",
