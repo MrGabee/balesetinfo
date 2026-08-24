@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T13:53:54.961913+00:00",
+  "updated_at": "2026-08-24T13:58:09.861994+00:00",
   "count": 3439,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,9 +108,9 @@
       "title": "Baleset történt az 5412-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91259",
-      "lead": "Kunfehértó határában forgalmi akadályra kell számítani.",
-      "body": "Fának ütközött és felborult egy teherautó az 5412-es úton, Kunfehértó határában, a Dózsa György utca közelében. A kiskunhalasi hivatásos tűzoltók áramtalanították a gépkocsit és a vezetőjét kisegítették belőle. A baleset helyszínén teljes szélességében lezárták az utat.",
-      "location": "Kunfehértó, 5412",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -166,16 +166,7 @@
       "lead": "A tűzoltók már körülhatárolták a lángokat.",
       "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
       "location": "Ladánybene, Pálinkásdűlő tanya",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Ladánybene határában",
-          "datetime": "2026.08.24. 12:36",
-          "category": "Tűzeset",
-          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Ladánybene, Pálinkásdűlő tanya",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91253",
@@ -183,9 +174,9 @@
       "title": "Két gépkocsi ütközött össze Hajdúnánásnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91253",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították őket.",
+      "body": "Összeütközött két gépjármű a 3323-as úton, Hajdúnánás közelében. A hajdúnánási hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúnánás, Vidiföldi Gyulai tanya",
       "updates": []
     },
     {
@@ -386,9 +377,9 @@
       "title": "Kigyulladt autóhoz is riasztották a tűzoltókat Pécsen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91237",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű motortere égett.",
+      "body": "Kigyulladt egy személyautó Pécsen, a Komlói úton. A jármű motortere égett. A pécsi hivatásos tűzoltók kiérkezéséig a helyszínen tartózkodók két porral oltóval megkezdték a tűz oltását. A raj egy vízsugárral fékezte meg a lángokat, valamint áramtalanították a járművet.",
+      "location": "Pécs, Komlói út",
       "updates": []
     },
     {
@@ -397,9 +388,9 @@
       "title": "Újabb baleset történt Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91236",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították az egyik járművet.",
+      "body": "Összeütközött két személygépkocsi Pécsen, a Somogyi Béla utca és a Légszeszgyár utca kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították az egyik járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Pécs, Somogyi Béla utca",
       "updates": []
     },
     {
@@ -408,9 +399,9 @@
       "title": "Autótűz Ceglédnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91235",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Ceglédnél, a 401-es főúton, az M4-es autóút közelében. Mintegy ezer négyzetméteren a tűz az út melletti száraz fűre is átterjedt. A ceglédi hivatásos tűzoltók két vízsugárral elfojtották a lángokat.",
+      "location": "Cegléd, 401",
       "updates": []
     },
     {
@@ -430,9 +421,9 @@
       "title": "Két autó ütközött Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91233",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Pécsen a 6-os főút, azaz a Zsolnay Vilmos utca és az Engel János utca kereszteződésnél. A helyi hivatásos tűzoltók végzik a műszaki mentást, amely során áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pécs, Engel János József utca",
       "updates": []
     },
     {
@@ -441,9 +432,9 @@
       "title": "Gaz és aljnövényzet égett Siófokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91232",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
+      "body": "Kigyulladt a gaz és az aljnövényzet Siófokon, az Egres utca és a Cseresznyefa utca kereszteződésénél. A terület körülbelül ezer négyzetméter égett. A helyi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
+      "location": "Siófok, Cseresznye utca",
       "updates": []
     },
     {
