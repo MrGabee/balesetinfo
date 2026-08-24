@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T13:17:40.344239+00:00",
+  "updated_at": "2026-08-24T13:21:40.412478+00:00",
   "count": 3437,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Kazlak égnek Jászkisérnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91264",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az aljnövényzetre is átterjedt a tűz.",
+      "body": "Két kazalban felhalmozott, nagyméretű szalmabálák gyulladtak meg Jászkisér külterületén, a Vágóhíd út közelében. Több száz bála ég teljes terjedelmében, és mintegy ötezer négyzetméteren az aljnövényzetre is átterjedt a tűz, amely más kazlakat és egy magtárat is veszélyeztet. A jászberényi és a hevesi hivatásos. valamint a jászkiséri önkormányzati tűzoltók oltják a lángokat. A munkálatokat erőgépek is segítik.",
+      "location": "Jászkisér, Jászkisér külterülete",
       "updates": []
     },
     {
@@ -64,9 +64,9 @@
       "title": "Baleset történt Hajdúszoboszlón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91261",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre utcát teljes szélességében lezárták.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy tehergépkocsi Hajdúszoboszlón, az Ady Endre utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket és egy utast feszítővágó segítségével kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúszoboszló, Ady Endre utca",
       "updates": []
     },
     {
@@ -175,7 +175,16 @@
       "lead": "Egy fenyőerdőt is veszélyeztetnek a lángok az 54-es főút közelében.",
       "body": "Kigyulladt az aljnövényzet Helvécia és Jakabszállás között, az 54-es főút közelében. Egy fenyőerdőt is veszélyeztetnek a lángok, amelyek mintegy három hektárt érintenek. A kecskeméti hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral oltják a tüzet. A munkálatokat erőgép is segíti.",
       "location": "Helvécia, 54",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem ég az aljnövényzet Helvécia és Jakabszállás között",
+          "datetime": "2026.08.24. 11:10",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Helvécia és Jakabszállás között, az 54-es főút közelében keletkezett. Mintegy három hektáron égett a gaz, az avar és egy akácfás az aljnövényzete. A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek két tanyaépületet is veszélyeztettek. A rajok megkezdték az utómunkálatokat. A tűzoltást a civil lakosság és két erőgép is segítette.",
+          "location": "Helvécia, 54",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91252"
+        }
+      ]
     },
     {
       "id": "91251",
@@ -194,9 +203,9 @@
       "title": "Autó égett Szegeden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91250",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Palánkai utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi motortere Szegeden, a Palánkai utcában. A szegedi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Az egység visszahűti a járművet.",
+      "location": "Szeged, Palánkai utca",
       "updates": []
     },
     {
@@ -443,9 +452,9 @@
       "title": "Összeütközött két jármű az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91229",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Vecsésnél történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Vecsés térségében, az M0-s autóút 36-os kilométerénél, az M4-es autóút felé vezető oldalon. A baleset következtében az egyik jármű a tetejére borult. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Vecsés, M0",
       "updates": []
     },
     {
