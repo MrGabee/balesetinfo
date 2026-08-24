@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T08:59:30.996395+00:00",
+  "updated_at": "2026-08-24T09:04:42.932258+00:00",
   "count": 3424,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -116,13 +116,22 @@
     {
       "id": "91243",
       "datetime": "2026.08.23. 21:37 -",
-      "title": "1 db frissítés",
+      "title": "Bála és trágya ég Gesztely külterületén",
       "category": "Bála és trágya ég Gesztely külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
+      "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
+      "location": "Gesztely, 3605",
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Gesztely külterületén",
+          "datetime": "2026.08.24. 06:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
+          "location": "Gesztely, 3605",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
+        }
+      ]
     },
     {
       "id": "91242",
@@ -130,9 +139,9 @@
       "title": "Autó égett Lőrincinél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91242",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személyautó Lőrincinél, a Kápolna utcában, azaz a 2401-es út 8-as kilométerénél. A jármű teljes terjedelmében égett. A hatvani hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Lőrinci, Kápolna utca",
       "updates": []
     },
     {
@@ -152,9 +161,9 @@
       "title": "Közlekedési lámpának ütközött egy autó a XIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91240",
-      "lead": "Forgalmi akadály van.",
-      "body": "Közlekedési lámpának ütközött egy személygépkocsi Budapest XIII. kerületében, a Váci úton. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Budapest, Váci út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,9 +172,9 @@
       "title": "Baleset történt a 84-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91239",
-      "lead": "Uzsa és Lesenceistvánd között dolgoznak a tűzoltók.",
-      "body": "Letért az útról és az árokba borult egy gépkocsi Uzsa és Lesenceistvánd között, a 84-es főút 10-es és 11-es kilométere közötti szakaszán. A baleset következtében a sínekre borult egy oszlop, amely akadályozza a vasút forgalmát. A tapolcai önkormányzati tűzoltók áramtalanították a balesetes járművet.",
-      "location": "Uzsa, 84",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -282,9 +291,9 @@
       "title": "Összeütközött két jármű az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91229",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Vecsésnél történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Vecsés térségében, az M0-s autóút 36-os kilométerénél, az M4-es autóút felé vezető oldalon. A baleset következtében az egyik jármű a tetejére borult. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Vecsés, M0",
       "updates": []
     },
     {
@@ -293,9 +302,9 @@
       "title": "Ráfutásos baleset történt a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91228",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kerecsendnél irányítás mellett halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Kerecsendnél, a 3-as főút 121-es kilométerénél. A füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Kerecsend, 3",
       "updates": []
     },
     {
@@ -304,9 +313,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kunszentmiklós, Óvoda utca",
       "updates": []
     },
     {
@@ -318,7 +327,16 @@
       "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
       "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
       "location": "Kisvárda, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
+          "datetime": "2026.08.23. 17:17",
+          "category": "Tűzeset",
+          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
+          "location": "Kisvárda, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
+        }
+      ]
     },
     {
       "id": "91225",
