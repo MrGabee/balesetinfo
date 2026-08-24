@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T11:41:40.965070+00:00",
-  "count": 3431,
+  "updated_at": "2026-08-24T11:46:16.618032+00:00",
+  "count": 3432,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91261",
+      "datetime": "2026.08.24. 13:41",
+      "title": "Baleset történt Hajdúszoboszlón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91261",
+      "lead": "Az Ady Endre utcát teljes szélességében lezárták.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy tehergépkocsi Hajdúszoboszlón, az Ady Endre utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket és egy utast feszítővágó segítségével kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúszoboszló, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "91260",
       "datetime": "2026.08.24. 13:35",
@@ -78,7 +89,16 @@
       "lead": "A tűzoltók már körülhatárolták a lángokat.",
       "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
       "location": "Ladánybene, Pálinkásdűlő tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Ladánybene határában",
+          "datetime": "2026.08.24. 12:36",
+          "category": "Tűzeset",
+          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Ladánybene, Pálinkásdűlő tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
+        }
+      ]
     },
     {
       "id": "91253",
@@ -366,9 +386,9 @@
       "title": "Tűz volt Kokadon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91230",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Már az utómunkálatok zajlanak a helyszínen.",
+      "body": "Mintegy ezer négyzetméteren száraz avar, gaz és szemét égett Kokadon, a Rákóczi Ferenc utcában. A debreceni hivatásos tűzoltók három vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Kokad, Rákóczi Ferenc utca",
       "updates": []
     },
     {
@@ -388,9 +408,9 @@
       "title": "Ráfutásos baleset történt a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91228",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kerecsendnél irányítás mellett halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Kerecsendnél, a 3-as főút 121-es kilométerénél. A füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Kerecsend, 3",
       "updates": []
     },
     {
@@ -399,9 +419,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "Forgalmi akadály van.",
-      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kunszentmiklós, Óvoda utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
