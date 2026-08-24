@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T08:13:22.576039+00:00",
-  "count": 3421,
+  "updated_at": "2026-08-24T08:16:44.352968+00:00",
+  "count": 3422,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91251",
+      "datetime": "2026.08.24. 10:13",
+      "title": "Csatornába borult egy autó Szatymaznál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91251",
+      "lead": "Egy embert a tűzoltók mentettek ki a járműből.",
+      "body": "Csatornába, a tetejére borult egy személygépkocsi Szatymaz közelében, az 5425-ös úton, az 5-ös főút közelében. A járműben egy ember utazott. Őt a műszaki mentést végző szegedi hivatásos tűzoltók kimentették a gépkocsiból, majd átadták a mentőknek.",
+      "location": "Szatymaz, 5425",
+      "updates": []
+    },
     {
       "id": "91250",
       "datetime": "2026.08.24. 10:05",
