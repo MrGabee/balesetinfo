@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:56:19.693167+00:00",
+  "updated_at": "2026-08-24T06:00:34.231929+00:00",
   "count": 3418,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
       "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
       "location": "Gesztely, 3605",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Gesztely külterületén",
+          "datetime": "2026.08.24. 06:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
+          "location": "Gesztely, 3605",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
+        }
+      ]
     },
     {
       "id": "91242",
