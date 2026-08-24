@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:20:41.268773+00:00",
+  "updated_at": "2026-08-24T10:24:51.088261+00:00",
   "count": 3427,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Kigyulladt egy autó a 8119-es úton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91255",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nadap közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy személyautó a 8119-es úton, Nadap közelében, a 7. kilométernél. Mintegy ötven négyzetméteren meggyulladt a körülötte lévő aljnövényzet is. A székesfehérvári hivatásos és a velencei önkéntes tűzoltók elfojtották a lángokat. A munkálatok idejére teljes szélességében lezárták az út érintett szakaszát.",
+      "location": "Nadap, 8119",
       "updates": []
     },
     {
@@ -128,9 +128,9 @@
       "title": "Ráfutásos baleset történt az M3-ason, Keresztharasztnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91246",
-      "lead": "A sztráda Budapest felé vezető szakaszán egy sávon halad a forgalom.",
-      "body": "Összeütközött két személyautó Keresztharasztnál, az M3-as autópálya 50-es kilométerénél, a Budapest felé vezető oldalon. A hatvani hivatásos tűzoltók áramtalanítják a járműveket. A mentőszolgálat is a helyszínen dolgozik. A sztráda érintett szakaszán egy sávon halad a forgalom.",
-      "location": "Kerekharaszt, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -150,9 +150,9 @@
       "title": "Két autó ütközött Reszneknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91244",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeüközött két személygépkocsi Reszneknél, a 86-os főút és a 7416-os út kereszteződésénél. A lenti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kerkabarabás, 84-7416",
       "updates": []
     },
     {
@@ -164,7 +164,16 @@
       "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
       "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
       "location": "Gesztely, 3605",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Gesztely külterületén",
+          "datetime": "2026.08.24. 06:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
+          "location": "Gesztely, 3605",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
+        }
+      ]
     },
     {
       "id": "91242",
@@ -172,9 +181,9 @@
       "title": "Autó égett Lőrincinél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91242",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személyautó Lőrincinél, a Kápolna utcában, azaz a 2401-es út 8-as kilométerénél. A jármű teljes terjedelmében égett. A hatvani hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Lőrinci, Kápolna utca",
       "updates": []
     },
     {
@@ -219,7 +228,16 @@
       "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
       "body": "Összeütközött egy személygépkocsi és egy kamion Földeáknál, a 4415-ös út 19-es kilométerénél. A makói hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
       "location": "Földeák, 4415",
-      "updates": []
+      "updates": [
+        {
+          "title": "Két autó érintett a balesetben a 4415-ös úton",
+          "datetime": "2026.08.23. 20:23",
+          "category": "Közlekedési baleset",
+          "text": "A korábbi információkat pontosítva két személygépkocsi karambolozott Földeáknál, a 4415-ös út 19-es kilométerénél. A makói hivatásos tűzoltók dolgoztak a helyszínen. A műszaki mentés ideje alatt az érintett útszakaszon forgalmi akadály volt.",
+          "location": "Földeák, 4415",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91238/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91238"
+        }
+      ]
     },
     {
       "id": "91237",
@@ -368,9 +386,9 @@
       "title": "Kigyulladt egy autó Isaszegnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91225",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű teljes terjedelmében égett.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Isaszegnél, az Iparos utcában. A gödöllői hivatásos és az isaszegi önkéntes tűzoltók két vízsugárral oltották el a lángokat. A rajok visszahűtötték az alkatrészeket.",
+      "location": "Isaszeg, Iparos utca",
       "updates": []
     },
     {
@@ -379,9 +397,9 @@
       "title": "Oszlopnak ütközött egy autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91224",
-      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
-      "body": "Villanyoszlopnak ütközött egy személygépkocsi Szigetszentmiklóson, a Petőfi utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Szigetszentmiklós, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
