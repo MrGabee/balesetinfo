@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T12:22:48.319174+00:00",
+  "updated_at": "2026-08-24T12:26:57.189085+00:00",
   "count": 3434,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Bódé égett Tatabányán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91257",
-      "lead": "A tűzoltók a Hosszú soron fékezték meg a lángokat.",
-      "body": "Kigyulladt egy bódé Tatabánya határában, a Hosszú soron, egy udvarban. Mintegy százhúsz négyzetméteren égett az építmény környezetében lévő hulladék és több autógumi is. A város hivatásos tűzoltói eloltották a lángokat.",
-      "location": "Tatabánya, Hosszú sor",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -86,9 +86,9 @@
       "title": "Baleset történt Balatonbogláron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91256",
-      "lead": "A Klapka utcában forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személygépkocsi Balatonbogláron, a Klapka utcában. A helyi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Balatonboglár, Klapka utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Kigyulladt egy autó a 8119-es úton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91255",
-      "lead": "Nadap közelében van szükség tűzoltói beavatkozásra.",
-      "body": "Kigyulladt egy személyautó a 8119-es úton, Nadap közelében, a 7. kilométernél. Mintegy ötven négyzetméteren meggyulladt a körülötte lévő aljnövényzet is. A székesfehérvári hivatásos és a velencei önkéntes tűzoltók elfojtották a lángokat. A munkálatok idejére teljes szélességében lezárták az út érintett szakaszát.",
-      "location": "Nadap, 8119",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,19 +108,10 @@
       "title": "Rét ég Ladánybene határában",
       "category": "Rét ég Ladánybene határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254",
-      "lead": "A tűzoltók már körülhatárolták a lángokat.",
-      "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
-      "location": "Ladánybene, Pálinkásdűlő tanya",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Ladánybene határában",
-          "datetime": "2026.08.24. 12:36",
-          "category": "Tűzeset",
-          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Ladánybene, Pálinkásdűlő tanya",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91253",
@@ -136,13 +127,22 @@
     {
       "id": "91252",
       "datetime": "2026.08.24. 10:24 -",
-      "title": "1 db frissítés",
+      "title": "Ég az aljnövényzet Helvécia és Jakabszállás között",
       "category": "Ég az aljnövényzet Helvécia és Jakabszállás között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Egy fenyőerdőt is veszélyeztetnek a lángok az 54-es főút közelében.",
+      "body": "Kigyulladt az aljnövényzet Helvécia és Jakabszállás között, az 54-es főút közelében. Egy fenyőerdőt is veszélyeztetnek a lángok, amelyek mintegy három hektárt érintenek. A kecskeméti hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral oltják a tüzet. A munkálatokat erőgép is segíti.",
+      "location": "Helvécia, 54",
+      "updates": [
+        {
+          "title": "Már nem ég az aljnövényzet Helvécia és Jakabszállás között",
+          "datetime": "2026.08.24. 11:10",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Helvécia és Jakabszállás között, az 54-es főút közelében keletkezett. Mintegy három hektáron égett a gaz, az avar és egy akácfás az aljnövényzete. A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek két tanyaépületet is veszélyeztettek. A rajok megkezdték az utómunkálatokat. A tűzoltást a civil lakosság és két erőgép is segítette.",
+          "location": "Helvécia, 54",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91252"
+        }
+      ]
     },
     {
       "id": "91251",
@@ -183,9 +183,9 @@
       "title": "Karambol a 49-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91248",
-      "lead": "Szamosbecsen egy szakaszon forgalomkorlátozásra kell számítani.",
-      "body": "Összeütközött egy kamion és egy traktor Szamosbecsen, a 49-es főút 51. kilométerénél. A karambol következtében az oldalára borult a traktor, amelyet áramtalanítottak a műszaki mentést végző csengeri önkormányzati tűzoltók. A baleset helyszínén forgalomkorlátozásra kell számítani.",
-      "location": "Szamosbecs, 49",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -194,9 +194,9 @@
       "title": "Villanyoszlopnak ütközött egy teherautó Szentendrén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91247",
-      "lead": "Forgalomkorlátozásra lehet számítani.",
-      "body": "Villanyoszlopnak ütközött egy teherautó Szentendrén, a Dózsa György úton, azaz a 11-es főút 19-es kilométerénél. A helyi hivatásos tűzoltókat riasztották az esethez. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
-      "location": "Szentendre, Dózsa György út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,9 +355,9 @@
       "title": "Négyes karambol az M7-esen, Balatonfőkajárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91234",
-      "lead": "A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
-      "body": "Karambolozott négy személygépkocsi Balatonfőkajár térségében, az M7-es autópálya 87-es kilométerénél, a Budapest felé vezető oldalon. A polgárdi és a balatonboglári önkormányzati tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
-      "location": "Balatonfőkajár, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -388,9 +388,9 @@
       "title": "Karambol Esztergomban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91231",
-      "lead": "A Barkóczy Ferenc utca érintett szakaszát teljes szélességében lezárták.",
-      "body": "Összeütközött két személygépkocsi Esztergomban, a Barkóczy Ferenc utcában. A nyergesújfalui hivatásos és az esztergomi önkéntes tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Esztergom, Barkóczy Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -399,9 +399,9 @@
       "title": "Tűz volt Kokadon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91230",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Már az utómunkálatok zajlanak a helyszínen.",
+      "body": "Mintegy ezer négyzetméteren száraz avar, gaz és szemét égett Kokadon, a Rákóczi Ferenc utcában. A debreceni hivatásos tűzoltók három vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Kokad, Rákóczi Ferenc utca",
       "updates": []
     },
     {
@@ -410,9 +410,9 @@
       "title": "Összeütközött két jármű az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91229",
-      "lead": "Vecsésnél történt a baleset.",
-      "body": "Két személygépkocsi karambolozott Vecsés térségében, az M0-s autóút 36-os kilométerénél, az M4-es autóút felé vezető oldalon. A baleset következtében az egyik jármű a tetejére borult. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Vecsés, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -421,9 +421,9 @@
       "title": "Ráfutásos baleset történt a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91228",
-      "lead": "Kerecsendnél irányítás mellett halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi Kerecsendnél, a 3-as főút 121-es kilométerénél. A füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon irányítás mellett halad a forgalom.",
-      "location": "Kerecsend, 3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -432,9 +432,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "Forgalmi akadály van.",
-      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kunszentmiklós, Óvoda utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -465,9 +465,9 @@
       "title": "Oszlopnak ütközött egy autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91224",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Szigetszentmiklóson, a Petőfi utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Szigetszentmiklós, Petőfi utca",
       "updates": []
     },
     {
