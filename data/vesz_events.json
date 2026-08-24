@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:32:47.048250+00:00",
+  "updated_at": "2026-08-24T10:37:00.768042+00:00",
   "count": 3427,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91254",
-      "datetime": "2026.08.24. 11:38",
+      "datetime": "2026.08.24. 11:38 -",
       "title": "Rét ég Ladánybene határában",
-      "category": "Tűzeset",
+      "category": "Rét ég Ladánybene határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254",
       "lead": "A tűzoltók már körülhatárolták a lángokat.",
       "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
       "location": "Ladánybene, Pálinkásdűlő tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Ladánybene határában",
+          "datetime": "2026.08.24. 12:36",
+          "category": "Tűzeset",
+          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Ladánybene, Pálinkásdűlő tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
+        }
+      ]
     },
     {
       "id": "91253",
@@ -56,16 +65,7 @@
       "lead": "Egy fenyőerdőt is veszélyeztetnek a lángok az 54-es főút közelében.",
       "body": "Kigyulladt az aljnövényzet Helvécia és Jakabszállás között, az 54-es főút közelében. Egy fenyőerdőt is veszélyeztetnek a lángok, amelyek mintegy három hektárt érintenek. A kecskeméti hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral oltják a tüzet. A munkálatokat erőgép is segíti.",
       "location": "Helvécia, 54",
-      "updates": [
-        {
-          "title": "Már nem ég az aljnövényzet Helvécia és Jakabszállás között",
-          "datetime": "2026.08.24. 11:10",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Helvécia és Jakabszállás között, az 54-es főút közelében keletkezett. Mintegy három hektáron égett a gaz, az avar és egy akácfás az aljnövényzete. A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek két tanyaépületet is veszélyeztettek. A rajok megkezdték az utómunkálatokat. A tűzoltást a civil lakosság és két erőgép is segítette.",
-          "location": "Helvécia, 54",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91252"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91251",
@@ -84,9 +84,9 @@
       "title": "Autó égett Szegeden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91250",
-      "lead": "A Palánkai utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy személygépkocsi motortere Szegeden, a Palánkai utcában. A szegedi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Az egység visszahűti a járművet.",
-      "location": "Szeged, Palánkai utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -161,10 +161,19 @@
       "title": "Bála és trágya ég Gesztely külterületén",
       "category": "Bála és trágya ég Gesztely külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a 3605-ös útnál dolgoznak.",
+      "body": "Kétszázötven szénabála és húsz köbméter trágya ég Gesztely külterületén, a 3605-ös útnál. A miskolci hivatásos tűzoltók dolgoznak a helyszínen. A rajok a trágyahalmot egy vízsugárral oltják, a bálákat felügyelet mellett leégetik.",
+      "location": "Gesztely, 3605",
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Gesztely külterületén",
+          "datetime": "2026.08.24. 06:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók befejezték a munkálatokat Gesztely külterületén, ahol kétszázötven szénabálát felügyelet mellett égettek le a 3605-ös útnál. A miskolci és a szerencsi hivatásos tűzoltók dolgoztak a helyszínen. Húsz köbméter trágya és száz négyzetméteren száraz fű is lángra kapott, ezeknek az oltásakor az egységek három vízsugárral, kéziszerszámokkal és erőgéppel avatkoztak be. Az esetnél egy miskolci és egy szerencsi vízszállító jármű is segítette a beavatkozást.",
+          "location": "Gesztely, 3605",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91243"
+        }
+      ]
     },
     {
       "id": "91242",
@@ -172,9 +181,9 @@
       "title": "Autó égett Lőrincinél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91242",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személyautó Lőrincinél, a Kápolna utcában, azaz a 2401-es út 8-as kilométerénél. A jármű teljes terjedelmében égett. A hatvani hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Lőrinci, Kápolna utca",
       "updates": []
     },
     {
@@ -346,9 +355,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "Forgalmi akadály van.",
-      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kunszentmiklós, Óvoda utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -357,19 +366,10 @@
       "title": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "category": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226",
-      "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
-      "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
-      "location": "Kisvárda, külterület",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
-          "datetime": "2026.08.23. 17:17",
-          "category": "Tűzeset",
-          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
-          "location": "Kisvárda, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91225",
@@ -388,9 +388,9 @@
       "title": "Oszlopnak ütközött egy autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91224",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Szigetszentmiklóson, a Petőfi utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Szigetszentmiklós, Petőfi utca",
       "updates": []
     },
     {
@@ -399,9 +399,9 @@
       "title": "Tűz volt Varsányban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91223",
-      "lead": "A Bátorvölgyi útra riasztották a tűzoltókat.",
-      "body": "Kétszáz négyzetméteren száraz fű égett két ingatlan udvarán, Varsányban, a Bátorvölgyi úton. A tűz a házakat nem érintette. A szécsényi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
-      "location": "Varsány, Bátorvölgyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -421,9 +421,9 @@
       "title": "Autótűz Magyarbánhegyesnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91221",
-      "lead": "A lángok a száraz fűre is átterjedtek.",
-      "body": "Kigyulladt egy személygépkocsi Magyarbánhegyesnél, a 4434-es úton, a 4439-es út közelében. A jármű teljes terjedelmében égett. A tűz az autó környezetében lévő száraz fűre is átterjedt. A mezőkovácsházai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az érintett útszakaszt telje szélességében lezárták.",
-      "location": "Magyarbánhegyes, 4434",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
