@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T08:03:23.300992+00:00",
-  "count": 3420,
+  "updated_at": "2026-08-24T08:07:01.013740+00:00",
+  "count": 3421,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91250",
+      "datetime": "2026.08.24. 10:05",
+      "title": "Autó égett Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91250",
+      "lead": "A Palánkai utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi motortere Szegeden, a Palánkai utcában. A szegedi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Az egység visszahűti a járművet.",
+      "location": "Szeged, Palánkai utca",
+      "updates": []
+    },
     {
       "id": "91249",
       "datetime": "2026.08.24. 09:02",
