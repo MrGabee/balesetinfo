@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T15:02:12.699151+00:00",
-  "count": 3441,
+  "updated_at": "2026-08-24T15:05:54.443395+00:00",
+  "count": 3442,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91271",
+      "datetime": "2026.08.24. 17:03",
+      "title": "Két autó és két motor ütközött Ácson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91271",
+      "lead": "A Zúgó utcában félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi és két motorkerékpáros Ácson, a Zúgó utcában. A helyi önkormányzati és önkéntes tűzoltók áramtalanítottak két gépjárművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Ács, Zúgó utca",
+      "updates": []
+    },
     {
       "id": "91270",
       "datetime": "2026.08.24. 16:10",
