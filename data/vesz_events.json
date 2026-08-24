@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T04:35:08.904108+00:00",
-  "count": 3416,
+  "updated_at": "2026-08-24T04:38:53.630958+00:00",
+  "count": 3417,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91246",
+      "datetime": "2026.08.24. 06:38",
+      "title": "Ráfutásos baleset történt az M3-ason, Keresztharasztnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91246",
+      "lead": "A sztráda Budapest felé vezető szakaszán egy sávon halad a forgalom.",
+      "body": "Összeütközött két személyautó Keresztharasztnál, az M3-as autópálya 50-es kilométerénél, a Budapest felé vezető oldalon. A hatvani hivatásos tűzoltók áramtalanítják a járműveket. A mentőszolgálat is a helyszínen dolgozik. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Kerekharaszt, M3",
+      "updates": []
+    },
     {
       "id": "91245",
       "datetime": "2026.08.23. 22:40",
