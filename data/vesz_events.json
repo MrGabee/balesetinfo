@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T05:00:12.296905+00:00",
-  "count": 3417,
+  "updated_at": "2026-08-24T05:04:01.186146+00:00",
+  "count": 3418,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91247",
+      "datetime": "2026.08.24. 07:03",
+      "title": "Villanyoszlopnak ütközött egy teherautó Szentendrén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91247",
+      "lead": "Forgalomkorlátozásra lehet számítani.",
+      "body": "Villanyoszlopnak ütközött egy teherautó Szentendrén, a Dózsa György úton, azaz a 11-es főút 19-es kilométerénél. A helyi hivatásos tűzoltókat riasztották az esethez. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Szentendre, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "91246",
       "datetime": "2026.08.24. 06:38",
