@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:04:42.932258+00:00",
+  "updated_at": "2026-08-24T09:08:32.567123+00:00",
   "count": 3424,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -161,9 +161,9 @@
       "title": "Közlekedési lámpának ütközött egy autó a XIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91240",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Közlekedési lámpának ütközött egy személygépkocsi Budapest XIII. kerületében, a Váci úton. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Váci út",
       "updates": []
     },
     {
@@ -172,9 +172,9 @@
       "title": "Baleset történt a 84-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91239",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Uzsa és Lesenceistvánd között dolgoznak a tűzoltók.",
+      "body": "Letért az útról és az árokba borult egy gépkocsi Uzsa és Lesenceistvánd között, a 84-es főút 10-es és 11-es kilométere közötti szakaszán. A baleset következtében a sínekre borult egy oszlop, amely akadályozza a vasút forgalmát. A tapolcai önkormányzati tűzoltók áramtalanították a balesetes járművet.",
+      "location": "Uzsa, 84",
       "updates": []
     },
     {
@@ -236,9 +236,9 @@
       "title": "Négyes karambol az M7-esen, Balatonfőkajárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91234",
-      "lead": "A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
-      "body": "Karambolozott négy személygépkocsi Balatonfőkajár térségében, az M7-es autópálya 87-es kilométerénél, a Budapest felé vezető oldalon. A polgárdi és a balatonboglári önkormányzati tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
-      "location": "Balatonfőkajár, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -247,9 +247,9 @@
       "title": "Két autó ütközött Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91233",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi Pécsen a 6-os főút, azaz a Zsolnay Vilmos utca és az Engel János utca kereszteződésnél. A helyi hivatásos tűzoltók végzik a műszaki mentást, amely során áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pécs, Engel János József utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -258,9 +258,9 @@
       "title": "Gaz és aljnövényzet égett Siófokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91232",
-      "lead": "A tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
-      "body": "Kigyulladt a gaz és az aljnövényzet Siófokon, az Egres utca és a Cseresznyefa utca kereszteződésénél. A terület körülbelül ezer négyzetméter égett. A helyi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal elfojtották a lángokat.",
-      "location": "Siófok, Cseresznye utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -441,9 +441,9 @@
       "title": "Leégett egy istálló Kéleshalomban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91217",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Négy vízsugárral dolgoztak a tűzoltók.",
+      "body": "Egy istálló égett le Kéleshalomban, a Kossuth Lajos utcában. A kiskunhalasi hivatásos és a jánoshalmai önkormányzati tűzoltók érkeztek a helyszínre, négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. Az istállóban tartott állatok elpusztultak a tűzben.",
+      "location": "Kéleshalom, Kossuth Lajos utca",
       "updates": []
     },
     {
@@ -471,13 +471,22 @@
     {
       "id": "91214",
       "datetime": "2026.08.22. 21:27 -",
-      "title": "1 db frissítés",
+      "title": "Lakóház és melléképülete ég Szenyéren",
       "category": "Lakóház és melléképülete ég Szenyéren",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91214",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A melléképület már teljesen leégett.",
+      "body": "Egy nyolcvan-száz négyzetméteres lakóház tetőszerkezete, valamint melléképülete ég Szenyéren, a Simon utcában. A marcali hivatásos és a böhönyei önkormányzati tűzoltók négy vízsugárral oltják a lángokat. Információk szerint a melléképület már leégett.",
+      "location": "Szenyér, Simon utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Szenyéren",
+          "datetime": "2026.08.22. 22:42",
+          "category": "Tűzeset",
+          "text": "A marcali hivatásos és a böhönyei önkormányzati tűzoltók négy vízsugárral eloltották a tüzet Szenyéren, ahol egy nyolcvan-száz négyzetméteres, jelenleg lakatlan ház tetőszerkezete, valamint a házhoz épített ötven négyzetméteres melléképület égett a Simon utcában. A melléképület teljesen leégett a tűzben. Az egységek megkezdték az utómunkálatokat.",
+          "location": "Szenyér, Simon utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91214/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91214"
+        }
+      ]
     },
     {
       "id": "91213",
