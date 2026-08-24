@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T12:57:33.305722+00:00",
-  "count": 3436,
+  "updated_at": "2026-08-24T13:01:45.418573+00:00",
+  "count": 3437,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91266",
+      "datetime": "2026.08.24. 14:57",
+      "title": "Hídpillérnek ütközött egy autó Héderváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91266",
+      "lead": "A Petőfi utcában forgalmi akadály van.",
+      "body": "Lesodródott az útról és hídpillérnek ütközött egy személygépkocsi Héderváron, a Petőfi utcában. Az autóban csak a sofőr utazott. A lébényi hivatásos és a helyi, illetve az ásványrárói önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Hédervár, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91265",
       "datetime": "2026.08.24. 14:52",
