@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T12:04:12.354525+00:00",
-  "count": 3433,
+  "updated_at": "2026-08-24T12:07:15.180559+00:00",
+  "count": 3434,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91263",
+      "datetime": "2026.08.24. 14:04",
+      "title": "Szalagkorlátnak hajtott egy autó az M6-on",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91263",
+      "lead": "Dunaújváros közelében forgalmi akadályra kell számítani.",
+      "body": "Szalagkorlátnak hajtott egy személygépkocsi az M6-os autópályán, Pécs felé, Dunaújváros közelében, a 73-as kilométerszelvénynél. A dunaújvárosi hivatásos tűzoltók áramtalanították a járművet. Az érintett pályaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Dunaújváros, Szávits út",
+      "updates": []
+    },
     {
       "id": "91262",
       "datetime": "2026.08.24. 13:48",
