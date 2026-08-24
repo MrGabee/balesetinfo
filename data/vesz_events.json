@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T06:33:02.569940+00:00",
+  "updated_at": "2026-08-24T06:36:33.865198+00:00",
   "count": 3418,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Közlekedési lámpának ütközött egy autó a XIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91240",
-      "lead": "Forgalmi akadály van.",
-      "body": "Közlekedési lámpának ütközött egy személygépkocsi Budapest XIII. kerületében, a Váci úton. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Budapest, Váci út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -247,9 +247,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "Forgalmi akadály van.",
-      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kunszentmiklós, Óvoda utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -258,19 +258,10 @@
       "title": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "category": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226",
-      "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
-      "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
-      "location": "Kisvárda, külterület",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
-          "datetime": "2026.08.23. 17:17",
-          "category": "Tűzeset",
-          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
-          "location": "Kisvárda, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91225",
@@ -331,9 +322,9 @@
       "title": "Autótűz Magyarbánhegyesnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91221",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A lángok a száraz fűre is átterjedtek.",
+      "body": "Kigyulladt egy személygépkocsi Magyarbánhegyesnél, a 4434-es úton, a 4439-es út közelében. A jármű teljes terjedelmében égett. A tűz az autó környezetében lévő száraz fűre is átterjedt. A mezőkovácsházai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az érintett útszakaszt telje szélességében lezárták.",
+      "location": "Magyarbánhegyes, 4434",
       "updates": []
     },
     {
@@ -353,9 +344,9 @@
       "title": "Bálázógép égett Hajdúnánásnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91219",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy bálázógép Hajdúnánás külterületén. A tűz a tarlóra is átterjedt. A hajdúnánási hivatásos tűzoltók két vízsugárral oltották el a lángokat. A raj utómunkálatokat végez a helyszínen.",
+      "location": "Hajdúnánás, Tanya",
       "updates": []
     },
     {
@@ -375,9 +366,9 @@
       "title": "Leégett egy istálló Kéleshalomban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91217",
-      "lead": "Négy vízsugárral dolgoztak a tűzoltók.",
-      "body": "Egy istálló égett le Kéleshalomban, a Kossuth Lajos utcában. A kiskunhalasi hivatásos és a jánoshalmai önkormányzati tűzoltók érkeztek a helyszínre, négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. Az istállóban tartott állatok elpusztultak a tűzben.",
-      "location": "Kéleshalom, Kossuth Lajos utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
