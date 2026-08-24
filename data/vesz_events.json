@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-24T20:55:45.239943+00:00",
-  "count": 3450,
+  "updated_at": "2026-08-24T20:58:54.801462+00:00",
+  "count": 3451,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91280",
+      "datetime": "2026.08.24. 22:58",
+      "title": "Fának ütközött egy autó Komlón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91280",
+      "lead": "A Bajcsy-Zsilinszky utcában dolgoznak a tűzoltók.",
+      "body": "Fának ütközött egy személygépkocsi Komlón, a Bajcsy-Zsilinszky utcában. Az autóban csak a sofőr utazott. A komlói hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Komló, Bajcsy-Zsilinszky utca",
+      "updates": []
+    },
     {
       "id": "91279",
       "datetime": "2026.08.24. 21:29",
