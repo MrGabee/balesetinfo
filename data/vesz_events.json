@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:37:00.768042+00:00",
+  "updated_at": "2026-08-24T10:40:59.835757+00:00",
   "count": 3427,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -73,9 +73,9 @@
       "title": "Csatornába borult egy autó Szatymaznál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91251",
-      "lead": "Egy embert a tűzoltók mentettek ki a járműből.",
-      "body": "Csatornába, a tetejére borult egy személygépkocsi Szatymaz közelében, az 5425-ös úton, az 5-ös főút közelében. A járműben egy ember utazott. Őt a műszaki mentést végző szegedi hivatásos tűzoltók kimentették a gépkocsiból, majd átadták a mentőknek.",
-      "location": "Szatymaz, 5425",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,9 +355,9 @@
       "title": "Két autó karambolozott Kunszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91227",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személygépkocsi karambolozott Kunszentmiklóson, az Óvoda utca és a Kötő utca kereszteződésénél. A helyi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kunszentmiklós, Óvoda utca",
       "updates": []
     },
     {
@@ -366,10 +366,19 @@
       "title": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "category": "Tűz keletkezett egy kisvárdai hulladéktelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók elhúzódó munkálatokat végeznek.",
+      "body": "Körülbelül hatszáz köbméter hulladék ég egy szeméttelepen, Kisvárda külterületén. A kisvárdai hivatásos tűzoltók három vízsugárral dolgoznak. A munkálatokat három munkagép és egy kisvárdai vízszállító jármű is segíti. Az egységek elhúzódó beavatkozásra számítanak a helyszínen.",
+      "location": "Kisvárda, külterület",
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Kisvárda külterületén",
+          "datetime": "2026.08.23. 17:17",
+          "category": "Tűzeset",
+          "text": "A kisvárdai hivatásos tűzoltók eloltották a lángokat a hulladéktelepen, Kisvárda külterületén, ahol mintegy hatszáz köbméter szemét égett. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű, valamint három munkagép is segíti. A rajok az utómunkálatokat végzik.",
+          "location": "Kisvárda, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91226/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91226"
+        }
+      ]
     },
     {
       "id": "91225",
@@ -377,9 +386,9 @@
       "title": "Kigyulladt egy autó Isaszegnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91225",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű teljes terjedelmében égett.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Isaszegnél, az Iparos utcában. A gödöllői hivatásos és az isaszegi önkéntes tűzoltók két vízsugárral oltották el a lángokat. A rajok visszahűtötték az alkatrészeket.",
+      "location": "Isaszeg, Iparos utca",
       "updates": []
     },
     {
@@ -421,9 +430,9 @@
       "title": "Autótűz Magyarbánhegyesnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91221",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A lángok a száraz fűre is átterjedtek.",
+      "body": "Kigyulladt egy személygépkocsi Magyarbánhegyesnél, a 4434-es úton, a 4439-es út közelében. A jármű teljes terjedelmében égett. A tűz az autó környezetében lévő száraz fűre is átterjedt. A mezőkovácsházai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az érintett útszakaszt telje szélességében lezárták.",
+      "location": "Magyarbánhegyes, 4434",
       "updates": []
     },
     {
