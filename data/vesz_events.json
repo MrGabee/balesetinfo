@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T12:30:57.810356+00:00",
+  "updated_at": "2026-08-24T12:34:33.046624+00:00",
   "count": 3434,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -111,7 +111,16 @@
       "lead": "A tűzoltók már körülhatárolták a lángokat.",
       "body": "Nagy területen ég a rét Ladánybene és Lajosmizse határában. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már körülhatárolták a lángokat. A tűzoltók munkáját két erőgép is segíti.",
       "location": "Ladánybene, Pálinkásdűlő tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Ladánybene határában",
+          "datetime": "2026.08.24. 12:36",
+          "category": "Tűzeset",
+          "text": "Hat hektáron égett a rét Ladánybene és Lajosmizse határában. A dabasi, a monori hivatásos és a lajosmizsei önkormányzati tűzoltók elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Ladánybene, Pálinkásdűlő tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91254/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91254"
+        }
+      ]
     },
     {
       "id": "91253",
