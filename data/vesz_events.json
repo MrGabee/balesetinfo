@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T10:25:45.220263+00:00",
-  "count": 3464,
+  "updated_at": "2026-08-25T10:29:12.910222+00:00",
+  "count": 3465,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91294",
+      "datetime": "2026.08.25. 12:26",
+      "title": "Összeütközött két autó az M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91294",
+      "lead": "A balatonszentgyörgyi lehajtó közelében történt a baleset.",
+      "body": "Két személyautó ütközött össze az M7-es autópálya Nagykanizsa felé vezető oldalán, balatonszentgyörgyi lehajtó közelében, a 170-es kilométerszelvénynél. A balesethez a marcali hivatásos tűzoltókat riasztották, akik az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Balatonszengyörgy, M7",
+      "updates": []
+    },
     {
       "id": "91293",
       "datetime": "2026.08.25. 12:20",
