@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T19:01:44.167924+00:00",
-  "count": 3486,
+  "updated_at": "2026-08-25T19:05:49.999435+00:00",
+  "count": 3487,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91316",
+      "datetime": "2026.08.25. 21:05",
+      "title": "Nagy területen ég a tarló a Pere és Felsődobsza között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91316",
+      "lead": "A rajok munkáját az erős szél nehezíti.",
+      "body": "Nagy területen ég a tarló a Pere és Felsődobsza között. A szerencsi és encsi hivatásos tűzoltók dolgoznak a lángok megfékezésén. A rajok munkáját az erős szél nehezíti.",
+      "location": "Pere, külterület",
+      "updates": []
+    },
     {
       "id": "91315",
       "datetime": "2026.08.25. 20:08",
