@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T13:05:37.005307+00:00",
-  "count": 3473,
+  "updated_at": "2026-08-25T13:09:24.441290+00:00",
+  "count": 3474,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91303",
+      "datetime": "2026.08.25. 15:05",
+      "title": "Tűz keletkezett Pusztamiske közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91303",
+      "lead": "Lezárták a 7317-es út egy szakaszát, mert égő fákat vágnak ki a tűzoltók-",
+      "body": "Kigyulladt egy kaszáló és egy erdősáv Pusztamiske közelében, a 7317-es útnál. Mintegy hatszáz-hétszáz négyzetméteren ég, és fákat is érint a tűz, amelyhez az ajkai és a pápai hivatásos tűzoltókat riasztották. A rajok megakadályozták a tűz továbbterjedését, és kivágják, illetve oltják az égő fákat. A munkálatok idejére lezárták az érintett útszakaszt",
+      "location": "Pusztamiske, 7317",
+      "updates": []
+    },
     {
       "id": "91302",
       "datetime": "2026.08.25. 14:53",
