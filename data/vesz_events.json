@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T09:20:24.298653+00:00",
-  "count": 3460,
+  "updated_at": "2026-08-25T09:24:00.908695+00:00",
+  "count": 3461,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91290",
+      "datetime": "2026.08.25. 11:20",
+      "title": "Kigyulladt egy melléképület Sajópetriben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91290",
+      "lead": "A Deák Ferenc utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett Sajópetriben, a Deák Ferenc utcában. Egy melléképület tetőszerkezete teljes terjedelmében, egy közeli lakóházé pedig részben égett. A miskolci hivatásos tűzoltók három vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat.",
+      "location": "Sajópetri, Deák Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91289",
       "datetime": "2026.08.25. 11:00",
