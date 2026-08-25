@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T11:15:31.318309+00:00",
-  "count": 3466,
+  "updated_at": "2026-08-25T11:19:48.533668+00:00",
+  "count": 3467,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91296",
+      "datetime": "2026.08.25. 13:18",
+      "title": "Aljnövényzet ég Sárkeresztúrnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296",
+      "lead": "A tűzoltók oltják a lángokat, és további egységek is elindultak a tűzesethez.",
+      "body": "Kigyulladt egy erdő aljnövényzete és egy száraz, füves, bokros terület Sárkeresztúr, Sárszentágota és Káloz között. A székesfehérvári, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki vízszállító jármű segítségével oltják a lángokat. A helyszínre érkezett a Fejér vármegyei katasztrófavédelmi műveleti szolgálat, és több más egység is elindult a tűzesethez.",
+      "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
+      "updates": []
+    },
     {
       "id": "91295",
       "datetime": "2026.08.25. 13:10",
