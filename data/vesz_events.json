@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T08:41:55.430405+00:00",
-  "count": 3458,
+  "updated_at": "2026-08-25T08:45:30.523274+00:00",
+  "count": 3459,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91288",
+      "datetime": "2026.08.25. 10:42",
+      "title": "Négyes karambol az M5-ösön, Felsőpakonynál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91288",
+      "lead": "A Budapest felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Három személyautó és egy furgon karambolozott az M5-ös autópálya Budapest felé vezető oldalán, Felsőpakony közelében, a 25-ös és 26-os kilométerszelvény között. A műszaki mentést a dabasi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon forgalomkorlátozásra, torlódásra kell számítani.",
+      "location": "Felsőpakony, M5",
+      "updates": []
+    },
     {
       "id": "91287",
       "datetime": "2026.08.25. 10:02",
