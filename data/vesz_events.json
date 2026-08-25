@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:28:35.428262+00:00",
+  "updated_at": "2026-08-25T17:32:08.929798+00:00",
   "count": 3485,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -166,14 +166,23 @@
     },
     {
       "id": "91301",
-      "datetime": "2026.08.25. 14:22",
+      "datetime": "2026.08.25. 14:22 -",
       "title": "Papírhulladék ég egy pápai telephelyen",
-      "category": "Tűzeset",
+      "category": "Papírhulladék ég egy pápai telephelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91301",
       "lead": "A Győri útra vonultak a tűzoltók.",
       "body": "Papírhulladék ég egy pápai telephelyen, a Győri úton. A győri és csornai hivatásos tűzoltók két vízsugárral már megakadályozták a lángok továbbterjedését. A rajok munkáját egy markológép is segíti, ami megbontja a rakatot.",
       "location": "Pápa, Győri út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Pápán",
+          "datetime": "2026.08.25. 19:31",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Pápán, ahol egy telephelyen ütött ki tűz a Győri úton. A helyszínen körülbelül ötven köbméterniy bálázott papírhulladék égett. A lángokat a győri, pápai és csornai hivatásos tűzoltók oltották el.",
+          "location": "Pápa, Győri út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91301/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91301"
+        }
+      ]
     },
     {
       "id": "91300",
