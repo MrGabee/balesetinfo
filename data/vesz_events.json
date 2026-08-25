@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T09:24:00.908695+00:00",
-  "count": 3461,
+  "updated_at": "2026-08-25T09:28:43.902419+00:00",
+  "count": 3462,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91291",
+      "datetime": "2026.08.25. 11:28",
+      "title": "Karambolozott két autó Szárföldön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91291",
+      "lead": "A 85-ös főúton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó Szárföld határában, a 85-ös főúton, a Nyugati sornál. Utoléréses baleset történt. A műszaki mentést végző kapuvári hivatásos tűzoltók áramtalanították az egyik gépkocsit. A karambol helyszínén forgalomkorlátozásra lehet számítani.",
+      "location": "Szárföld, 85",
+      "updates": []
+    },
     {
       "id": "91290",
       "datetime": "2026.08.25. 11:20",
