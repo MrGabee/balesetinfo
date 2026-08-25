@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T21:06:52.891734+00:00",
-  "count": 3487,
+  "updated_at": "2026-08-25T21:10:30.869109+00:00",
+  "count": 3488,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91317",
+      "datetime": "2026.08.25. 23:10",
+      "title": "Lakókocsi égett Dunavarsányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91317",
+      "lead": "A Gyöngyvirág utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy lakókocsi Dunavarsányban, a Gyöngyvirág utcában. A jármű teljes terjedelmében égett. A lángokat a szigetszentmiklósi és délegyházi önkéntes tűzoltók oltották el, két vízsugárral.",
+      "location": "Dunavarsány, Gyöngyvirág utca",
+      "updates": []
+    },
     {
       "id": "91316",
       "datetime": "2026.08.25. 21:05 -",
