@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T13:09:24.441290+00:00",
-  "count": 3474,
+  "updated_at": "2026-08-25T13:12:35.399522+00:00",
+  "count": 3475,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91304",
+      "datetime": "2026.08.25. 15:10",
+      "title": "Oszlopnak ütközött egy kisbusz Okányban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91304",
+      "lead": "Az Ady Endre utcában történt a baleset.",
+      "body": "Faoszlopnak ütközött egy kisbusz Okányban, az Ady Endre utcában. A Rákóczi utca és a Bacsó Béla utca közötti szakaszon történt baleset következtében az oszlop eltört. A szeghalmi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Okány, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "91303",
       "datetime": "2026.08.25. 15:05",
