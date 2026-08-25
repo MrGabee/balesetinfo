@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T04:59:50.091897+00:00",
-  "count": 3454,
+  "updated_at": "2026-08-25T05:02:58.935851+00:00",
+  "count": 3455,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91284",
+      "datetime": "2026.08.25. 07:00",
+      "title": "Frontális baleset az 58-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91284",
+      "lead": "Pogány és Pécs között forgalmi akadály van.",
+      "body": "Frontálisan ütközött két személygépkocsi az 58-as főúton, Pogány és Pécs között, a 7-es kilométerszelvény közelében. A pécsi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kökény, Csontoscsárda",
+      "updates": []
+    },
     {
       "id": "91283",
       "datetime": "2026.08.25. 06:19",
