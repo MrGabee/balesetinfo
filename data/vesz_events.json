@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T15:50:31.719733+00:00",
-  "count": 3481,
+  "updated_at": "2026-08-25T15:54:38.760013+00:00",
+  "count": 3482,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91311",
+      "datetime": "2026.08.25. 17:52",
+      "title": "Tarló ég Pocsajon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91311",
+      "lead": "A tűz körülbelül nyolc hektárnyi területet érint.",
+      "body": "Tarló ég Pocsajon, a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érint, lakóházakat is veszélyeztetve. A berettyóújfalui hivatásos és a létavértesi önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Pocsaj, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91310",
       "datetime": "2026.08.25. 17:31",
