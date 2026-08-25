@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T15:06:24.893072+00:00",
+  "updated_at": "2026-08-25T15:09:29.124547+00:00",
   "count": 3479,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91309",
+      "datetime": "2026.08.25. 17:07",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91309",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91308",
       "datetime": "2026.08.25. 17:05",
@@ -78,17 +89,6 @@
       "lead": "A Budapesti úton volt szükség tűzoltói beavatkozásra.",
       "body": "Tűz keletkezett egy ipari telephely fatárolójában Mohácson, a Budapesti úton. A lángokat a mohácsi és véméndi hivatásos tűzoltók oltották el, három vízsugárral. A helyszínre mentőhelikopter is érkezik.",
       "location": "Mohács, Budapesti út",
-      "updates": []
-    },
-    {
-      "id": "91301",
-      "datetime": "2026.08.25. 14:22",
-      "title": "Papírhulladék ég egy pápai telephelyen",
-      "category": "Tűzeset",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91301",
-      "lead": "A Győri útra vonultak a tűzoltók.",
-      "body": "Papírhulladék ég egy pápai telephelyen, a Győri úton. A győri és csornai hivatásos tűzoltók két vízsugárral már megakadályozták a lángok továbbterjedését. A rajok munkáját egy markológép is segíti, ami megbontja a rakatot.",
-      "location": "Pápa, Győri út",
       "updates": []
     },
     {
