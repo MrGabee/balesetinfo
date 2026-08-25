@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T06:23:00.269193+00:00",
-  "count": 3455,
+  "updated_at": "2026-08-25T06:26:36.177631+00:00",
+  "count": 3456,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91285",
+      "datetime": "2026.08.25. 08:24",
+      "title": "Égett egy kerti tároló Székesfehérváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91285",
+      "lead": "A tűzoltók a Zsolnay úton fékezték meg a lángokat.",
+      "body": "Kigyulladt egy kerti tároló Székesfehérváron, a Zsolnay úton, a Borsi köznél. Teljes terjedelmében égett a mintegy tíz-tizenöt négyzetméteres építmény. A város hivatásos tűzoltói megakadályozták a lángok továbbterjedését, eloltották a tüzet, majd megkezdték az utómunkálatokat.",
+      "location": "Székesfehérvár, Zsolnai út",
+      "updates": []
+    },
     {
       "id": "91284",
       "datetime": "2026.08.25. 07:00",
