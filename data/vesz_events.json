@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T18:06:54.438953+00:00",
-  "count": 3485,
+  "updated_at": "2026-08-25T18:10:29.487114+00:00",
+  "count": 3486,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91315",
+      "datetime": "2026.08.25. 20:08",
+      "title": "Felborult egy autó Kunszentmiklós közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91315",
+      "lead": "A 5203-as utat lezárták.",
+      "body": "Felborult egy személyautó Kunszentmiklós közelében, az 5203-as út 25-ös kilométerszelvényénél. A kunszentmiklósi önkormányzati tűzoltók feszítővágó segítségével egy embert kiemeltek a gépkocsiból, majd átadták a mentőknek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kunszentmiklós, 5203",
+      "updates": []
+    },
     {
       "id": "91314",
       "datetime": "2026.08.25. 18:52",
