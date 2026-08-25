@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T04:16:45.032947+00:00",
-  "count": 3453,
+  "updated_at": "2026-08-25T04:19:45.978739+00:00",
+  "count": 3454,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91283",
+      "datetime": "2026.08.25. 06:19",
+      "title": "Baleset történt az M5-ön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91283",
+      "lead": "Kecskemét és Lajosmizse között teljes szélességében lezárták a pályaszakaszt.",
+      "body": "Kiszakadt egy személygépkocsi futóműve az M5-ös autópályán, a Budapest felé tartó oldalon, Kecskemét és Lajosmizse között, a 71-es kilométerszelvénynél. Az autóban hárman utaztak. A kecskeméti hivatásos tűzoltók áramtalanították a járművet. Az érintett pályaszakaszt teljes szélességében lezárták.",
+      "location": "Lajosmizse, Alsólajos tanya",
+      "updates": []
+    },
     {
       "id": "91282",
       "datetime": "2026.08.25. 00:16",
