@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T15:09:29.124547+00:00",
-  "count": 3479,
+  "updated_at": "2026-08-25T15:13:03.742950+00:00",
+  "count": 3480,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
@@ -89,6 +89,17 @@
       "lead": "A Budapesti úton volt szükség tűzoltói beavatkozásra.",
       "body": "Tűz keletkezett egy ipari telephely fatárolójában Mohácson, a Budapesti úton. A lángokat a mohácsi és véméndi hivatásos tűzoltók oltották el, három vízsugárral. A helyszínre mentőhelikopter is érkezik.",
       "location": "Mohács, Budapesti út",
+      "updates": []
+    },
+    {
+      "id": "91301",
+      "datetime": "2026.08.25. 14:22",
+      "title": "Papírhulladék ég egy pápai telephelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91301",
+      "lead": "A Győri útra vonultak a tűzoltók.",
+      "body": "Papírhulladék ég egy pápai telephelyen, a Győri úton. A győri és csornai hivatásos tűzoltók két vízsugárral már megakadályozták a lángok továbbterjedését. A rajok munkáját egy markológép is segíti, ami megbontja a rakatot.",
+      "location": "Pápa, Győri út",
       "updates": []
     },
     {
