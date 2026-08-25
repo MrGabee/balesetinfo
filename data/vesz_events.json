@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T12:51:27.909348+00:00",
-  "count": 3472,
+  "updated_at": "2026-08-25T12:55:18.914219+00:00",
+  "count": 3473,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91302",
+      "datetime": "2026.08.25. 14:53",
+      "title": "Tűz keletkezett egy ipari telephelyen Mohácson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91302",
+      "lead": "A Budapesti úton volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz keletkezett egy ipari telephely fatárolójában Mohácson, a Budapesti úton. A lángokat a mohácsi és véméndi hivatásos tűzoltók oltották el, három vízsugárral. A helyszínre mentőhelikopter is érkezik.",
+      "location": "Mohács, Budapesti út",
+      "updates": []
+    },
     {
       "id": "91301",
       "datetime": "2026.08.25. 14:22",
