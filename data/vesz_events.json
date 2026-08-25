@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T11:33:36.042302+00:00",
-  "count": 3468,
+  "updated_at": "2026-08-25T11:36:59.143198+00:00",
+  "count": 3469,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91298",
+      "datetime": "2026.08.25. 13:35",
+      "title": "Baleset történt Keszthelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91298",
+      "lead": "A Toldi Miklós utca és a Semmelweis utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Villanyoszlopnak ütközött majd árokba sodródott egy személyautó Keszthelyen, a Toldi Miklós utca és a Semmelweis utca találkozásánál. A műszaki mentést a helyi hivatásos tűzoltók végzik. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Keszthely, Toldi Miklós utca",
+      "updates": []
+    },
     {
       "id": "91297",
       "datetime": "2026.08.25. 13:26",
