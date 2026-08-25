@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:06:30.172798+00:00",
+  "updated_at": "2026-08-25T17:09:41.394202+00:00",
   "count": 3485,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,7 +45,16 @@
       "lead": "A tűz körülbelül nyolc hektárnyi területet érint.",
       "body": "Tarló ég Pocsajon, a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érint, lakóházakat is veszélyeztetve. A berettyóújfalui hivatásos és a létavértesi önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
       "location": "Pocsaj, Petőfi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Pocsajon",
+          "datetime": "2026.08.25. 19:04",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Pocsajon, ahol tarló égett a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érintett. A berettyóújfalui, debreceni hivatásos és a létavértesi önkormányzati tűzoltók már elvégezték az utómunkálatokat.",
+          "location": "Pocsaj, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91311/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91311"
+        }
+      ]
     },
     {
       "id": "91310",
