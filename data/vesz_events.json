@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T08:59:35.737431+00:00",
-  "count": 3459,
+  "updated_at": "2026-08-25T09:03:50.365647+00:00",
+  "count": 3460,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91289",
+      "datetime": "2026.08.25. 11:00",
+      "title": "Mezőgazdasági területen ütött ki tűz Tardon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91289",
+      "lead": "A Béke út mellett oltják a lángokat.",
+      "body": "Mezőgazdasági területen ütött ki tűz Tardon, a Béke út mellett. Körülbelül egy hektáron ég a száraz fű és a bozótos, valamint munkagépek. A lángok egy dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa. A mezőkövesdi, mezőcsáti hivatásos valamint a szomolyai önkéntes tűzoltók dolgoznak a tűz eloltásán.",
+      "location": "Tard, Béke út",
+      "updates": []
+    },
     {
       "id": "91288",
       "datetime": "2026.08.25. 10:42",
@@ -174,9 +185,9 @@
       "title": "Parasztház égett Jászberényben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91273",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Trombita utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy parasztház tetőszerkezete Jászberényben, a Trombita utcában. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a nagykátai, a hatvani és a jászberényi hivatásos, illetve a jászárokszállási önkormányzati tűzoltók három vízsugárral elfojtották a lángokat. A rajok elhúzódó utómunkálatokat végeznek.",
+      "location": "Jászberény, Trombita utca",
       "updates": []
     },
     {
