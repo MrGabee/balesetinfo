@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-25T11:36:59.143198+00:00",
-  "count": 3469,
+  "updated_at": "2026-08-25T11:40:28.544389+00:00",
+  "count": 3471,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91300",
+      "datetime": "2026.08.25. 13:40",
+      "title": "Kigyulladt egy kamion raktere a 46-os főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91300",
+      "lead": "Gyomaendrőd és Mezőberény között lezárták az utat.",
+      "body": "Kigyulladt egy kamion raktere a 46-os főút Gyomaendrődöt és Mezőberényt összekötő szakaszán, a 49-es és az 50-es kilométerszelvény között. A tűz átterjedt a körülötte lévő aljnövényzetre is. A lángokat a gyomaendrődi önkormányzati tűzoltók oltották el. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyomaendrőd, 46",
+      "updates": []
+    },
+    {
+      "id": "91299",
+      "datetime": "2026.08.25. 13:37",
+      "title": "Szalagkorlátnak ütközött egy autó a 83-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91299",
+      "lead": "Tét és Pápa között forgalmi akadályra kell számítani.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 83-as főút Tét és Pápa közötti szakaszán, a 42-es kilométerszelvénynél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Takácsi, 83",
+      "updates": []
+    },
     {
       "id": "91298",
       "datetime": "2026.08.25. 13:35",
