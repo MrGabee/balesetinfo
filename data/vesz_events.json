@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T19:05:49.999435+00:00",
+  "updated_at": "2026-08-25T19:09:02.167964+00:00",
   "count": 3487,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91314",
-      "datetime": "2026.08.25. 18:52",
+      "datetime": "2026.08.25. 18:52 -",
       "title": "Száraz avar és bokros terület ég Nagykerekiben",
-      "category": "Tűzeset",
+      "category": "Száraz avar és bokros terület ég Nagykerekiben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91314",
       "lead": "A rajok munkáját az erős szél nehezíti.",
       "body": "Száraz avar és bokros terület gyulladt meg Nagykerekiben, az Árpád utca közelében. A berettyóújfalui hivatásos tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart. A rajok munkáját az erős szél nehezíti.",
       "location": "Nagykereki, Árpád utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Nagykerekiben",
+          "datetime": "2026.08.25. 21:08",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Nagykerekiben, ahol száraz avar és bokros terület égett az Árpád utca közelében. A lángokat a berettyóújfalui, püspökladányi és a debreceni hivatásos tűzoltók oltották el. A munkálatokat a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Nagykereki, Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91314/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91314"
+        }
+      ]
     },
     {
       "id": "91313",
