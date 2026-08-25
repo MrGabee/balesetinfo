@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T07:59:44.516641+00:00",
-  "count": 3457,
+  "updated_at": "2026-08-25T08:03:39.573796+00:00",
+  "count": 3458,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91287",
+      "datetime": "2026.08.25. 10:02",
+      "title": "Utoléréses baleset az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91287",
+      "lead": "A XXIII. kerület térségében, az M1-es felé nagy a torlódás.",
+      "body": "Összeütközött egy kamion és egy személygépkocsi Budapest XXIII. kerületében, az M0-s autóútnak az M1-es autópálya felé vezető oldalán, a 27. kilométernél. Utoléréses baleset történt, amelyhez a fővárosi hivatásos és a gyáli önkéntes tűzoltókat riasztották. A raj áramtalanítja az autót.  A baleset helyszínén két sávon halad a forgalom, nagy a torlódás.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "91286",
       "datetime": "2026.08.25. 08:50",
