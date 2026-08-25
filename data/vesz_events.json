@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T11:08:11.759605+00:00",
-  "count": 3465,
+  "updated_at": "2026-08-25T11:11:31.990858+00:00",
+  "count": 3466,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91295",
+      "datetime": "2026.08.25. 13:10",
+      "title": "Kigyulladt több bódé Újpalotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91295",
+      "lead": "A Vasgolyó és a Neptun utca között, egy füves, fása területen van tűz.",
+      "body": "Tűz keletkezett Budapest XV. kerületében, a Vasgolyó és a Neptun utca közötti, füves, fás területen. Több bódé is teljes terjedelmében ég, és összesen mintegy kétszáz-háromszáz négyzetmétert érintenek a lángok, amelyeket két vízsugárral oltanak a fővárosi hivatásos tűzoltók. A rajok megakadályozták a tűz továbbterjedését. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Vasgolyó utca",
+      "updates": []
+    },
     {
       "id": "91294",
       "datetime": "2026.08.25. 12:26",
