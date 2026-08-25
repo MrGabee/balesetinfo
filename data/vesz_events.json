@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T14:30:37.287220+00:00",
-  "count": 3475,
+  "updated_at": "2026-08-25T14:34:38.055485+00:00",
+  "count": 3476,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91305",
+      "datetime": "2026.08.25. 16:33",
+      "title": "Kidöntött egy villanyoszlopot egy autó Solymáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91305",
+      "lead": "A Dózsa György utcában félpályán halad a forgalom.",
+      "body": "Kidöntött egy villanyoszlopot egy személyautó Solymáron, a Dózsa György utcában. Az Aradi utca és a József Attila utca közötti szakaszon történt balesethez a solymári önkéntes tűzoltók vonultak, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Solymár, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "91304",
       "datetime": "2026.08.25. 15:10",
