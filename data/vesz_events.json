@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-25T14:58:08.484157+00:00",
-  "count": 3476,
+  "updated_at": "2026-08-25T15:02:36.871127+00:00",
+  "count": 3478,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91307",
+      "datetime": "2026.08.25. 17:02",
+      "title": "Összeütközött két autó Budapest XIX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91307",
+      "lead": "A Hofherr Albert utca és a Nádasdy utca találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XIX. kerületében, a Hofherr Albert utca és a Nádasdy utca találkozásánál. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Hofherr Albert utca",
+      "updates": []
+    },
+    {
+      "id": "91306",
+      "datetime": "2026.08.25. 16:59",
+      "title": "Szalagkorlátnak ütközött egy autó a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91306",
+      "lead": "Adonynál egy sávon halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 6-os főúton, Adonynál, az 50-es és 51-es kilométerszelvény között. A balesethez a dunaújvárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Adony, 6",
+      "updates": []
+    },
     {
       "id": "91305",
       "datetime": "2026.08.25. 16:33",
