@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T09:46:41.349486+00:00",
-  "count": 3462,
+  "updated_at": "2026-08-25T09:49:58.841567+00:00",
+  "count": 3463,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91292",
+      "datetime": "2026.08.25. 11:47",
+      "title": "Hulladék ég Sárkeresztúron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91292",
+      "lead": "Az Alkotmány utcában van tűz, amely családi házakat is veszélyeztetett.",
+      "body": "Kigyulladt a kommunális hulladék egy bozótos területen, Sárkeresztúron, az Alkotmány utcában. Mintegy két-két és fél hektárt érint és családi házakat is veszélyeztetett a tűz. A székesfehérvári és a sárbogárdi hivatásos tűzoltók öt vízsugárral oltják a lángokat, és már megakadályozták a tűz továbbterjedését. A környéken nagy a füst.",
+      "location": "Sárkeresztúr, Alkotmány utca",
+      "updates": []
+    },
     {
       "id": "91291",
       "datetime": "2026.08.25. 11:28",
