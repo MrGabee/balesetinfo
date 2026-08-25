@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T10:43:42.709944+00:00",
+  "updated_at": "2026-08-25T10:47:04.025519+00:00",
   "count": 3465,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A 6-os főút közelében dolgoznak a tűzoltók.",
       "body": "Kigyulladt a gabonatarló Zengővárkony közelében, a 6-os főút és az 5613-as út mellett. Mintegy négy-öt hektárt érint, és helyenként egy cserjés, bokros területre is átterjedt a tűz, amelyet a pécsi, a bonyhádi és a véméndi hivatásos tűzoltók oltanak. A rajok megakadályozták a lángok továbbterjedését.",
       "location": "Zengővárkony, Zengővárkony közelében",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a zengővárkonyi tarlótüzet",
+          "datetime": "2026.08.25. 12:41",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Zengővárkony közelében, ahol kigyulladt a gabonatarló a 6-os főút és az 5613-as út mellett. Mintegy négy-öt hektárra terjedtek ki, és egy cserjés, bokros területbe is belekaptak a lángok, amelyeket három vízsugárral fékeztek meg a pécsi, a bonyhádi és a véméndi hivatásos tűzoltók. A rajok átvizsgálták az érintett területet.",
+          "location": "Zengővárkony, Zengővárkony közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91293/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91293"
+        }
+      ]
     },
     {
       "id": "91292",
