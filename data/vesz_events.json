@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T06:50:28.640820+00:00",
-  "count": 3456,
+  "updated_at": "2026-08-25T06:53:52.269046+00:00",
+  "count": 3457,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91286",
+      "datetime": "2026.08.25. 08:50",
+      "title": "Karambol Lajoskomáromban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91286",
+      "lead": "Az Enyingi és a Komáromi utca kereszteződésénél dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személyautó Lajoskomáromban, az Enyingi és a Komáromi utca kereszteződésénél. A járművekben két-két ember utazott, hozzájuk mentők érkeznek a helyszínre. A helyi önkéntes tűzoltók áramtalanítják a járműveket.",
+      "location": "Lajoskomárom, Komáromi utca",
+      "updates": []
+    },
     {
       "id": "91285",
       "datetime": "2026.08.25. 08:24",
