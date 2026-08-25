@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T12:23:18.564523+00:00",
+  "updated_at": "2026-08-25T12:26:48.794456+00:00",
   "count": 3472,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "91296",
-      "datetime": "2026.08.25. 13:18",
+      "datetime": "2026.08.25. 13:18 -",
       "title": "Aljnövényzet ég Sárkeresztúrnál",
-      "category": "Tűzeset",
+      "category": "Aljnövényzet ég Sárkeresztúrnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296",
       "lead": "A tűzoltók oltják a lángokat, és további egységek is elindultak a tűzesethez.",
       "body": "Kigyulladt egy erdő aljnövényzete és egy száraz, füves, bokros terület Sárkeresztúr, Sárszentágota és Káloz között. A székesfehérvári, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki vízszállító jármű segítségével oltják a lángokat. A helyszínre érkezett a Fejér vármegyei katasztrófavédelmi műveleti szolgálat, és több más egység is elindult a tűzesethez.",
       "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
-      "updates": []
+      "updates": [
+        {
+          "title": "Több mint harminc hektár égett le Sárkeresztúrnál",
+          "datetime": "2026.08.25. 14:26",
+          "category": "Tűzeset",
+          "text": "Megakadályozták annak a szabadtéri tűznek a továbbterjedését, amely Sárkeresztúr, Sárszentágota és Káloz között keletkezett. Egy erdő aljnövényzete és egy száraz, füves, bokros, cserjés terület gyulladt ki. Több mint harminc hektár égett le, és helyenként lángra kapott a fák koronája is. A székesfehérvári, a pétfürdői, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki és egy székesfehérvári vízszállító jármű segítségével, a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, hét vízsugárral és kéziszerszámokkal oltják a lángokat, felszámolják a még izzó részeket. Erőgépekkel és lajtos kocsikkal a helyi gazdák is segítik a munkálatokat.",
+          "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91296"
+        }
+      ]
     },
     {
       "id": "91295",
