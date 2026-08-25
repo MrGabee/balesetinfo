@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T08:17:39.794778+00:00",
+  "updated_at": "2026-08-25T08:20:56.316038+00:00",
   "count": 3458,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -415,16 +415,7 @@
       "lead": "Egy fenyőerdőt is veszélyeztetnek a lángok az 54-es főút közelében.",
       "body": "Kigyulladt az aljnövényzet Helvécia és Jakabszállás között, az 54-es főút közelében. Egy fenyőerdőt is veszélyeztetnek a lángok, amelyek mintegy három hektárt érintenek. A kecskeméti hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral oltják a tüzet. A munkálatokat erőgép is segíti.",
       "location": "Helvécia, 54",
-      "updates": [
-        {
-          "title": "Már nem ég az aljnövényzet Helvécia és Jakabszállás között",
-          "datetime": "2026.08.24. 11:10",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Helvécia és Jakabszállás között, az 54-es főút közelében keletkezett. Mintegy három hektáron égett a gaz, az avar és egy akácfás az aljnövényzete. A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek két tanyaépületet is veszélyeztettek. A rajok megkezdték az utómunkálatokat. A tűzoltást a civil lakosság és két erőgép is segítette.",
-          "location": "Helvécia, 54",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91252"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91251",
