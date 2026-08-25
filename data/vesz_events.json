@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T15:29:04.601900+00:00",
-  "count": 3480,
+  "updated_at": "2026-08-25T15:32:42.954239+00:00",
+  "count": 3481,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91310",
+      "datetime": "2026.08.25. 17:31",
+      "title": "Kigyulladt a száraz fű Mátraterenyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91310",
+      "lead": "A Kossuth út mellett csaptak fel a lángok.",
+      "body": "Mintegy három hektáron ég a száraz fű Mátraterenyén, a Kossuth út mellett. A tűz lakóépületeket és bálákat is veszélyeztet. A salgótarjáni, bátonyterenyei és a pétervásárai hivatásos tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Mátraterenye, Kossuth út",
+      "updates": []
+    },
     {
       "id": "91309",
       "datetime": "2026.08.25. 17:07",
