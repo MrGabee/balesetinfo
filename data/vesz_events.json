@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-25T16:03:20.710022+00:00",
-  "count": 3483,
+  "updated_at": "2026-08-25T16:06:48.126064+00:00",
+  "count": 3484,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91313",
+      "datetime": "2026.08.25. 18:04",
+      "title": "Ráfutásos baleset Miskolcon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91313",
+      "lead": "A Móra Ferenc utca és a Körmöci utca kereszteződésénél történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi ütközött össze Miskolcon, a Móra Ferenc utca és a Körmöci utca kereszteződésénél. A ráfutásos balesethez a helyi hivatásos tűzoltókat riasztották, akik az egyik járművet áramtalanították. A helyszínre mentő is érkezett. AZ érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Miskolc, Körmöci utca",
+      "updates": []
+    },
     {
       "id": "91312",
       "datetime": "2026.08.25. 18:01",
