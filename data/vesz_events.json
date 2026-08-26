@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T04:20:59.090726+00:00",
-  "count": 3489,
+  "updated_at": "2026-08-26T04:24:42.587934+00:00",
+  "count": 3490,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91319",
+      "datetime": "2026.08.26. 06:22",
+      "title": "Egymásnak ütközött két autó Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91319",
+      "lead": "A Tél utca és a Pozsonyi utca kereszteződésében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Újpesten, a Tél utca és a Pozsonyi utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Tél utca",
+      "updates": []
+    },
     {
       "id": "91318",
       "datetime": "2026.08.26. 02:03 -",
