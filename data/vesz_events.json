@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-08-26T03:37:43.218295+00:00",
+  "updated_at": "2026-08-26T03:41:20.175956+00:00",
   "count": 3489,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91318",
-      "datetime": "2026.08.26. 02:03",
+      "datetime": "2026.08.26. 02:03 -",
       "title": "Tűz ütött ki egy ipari telephelyen Ócsán",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy ipari telephelyen Ócsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91318",
       "lead": "Az Alsópakony utcába riasztották a tűzoltókat.",
       "body": "Tűz ütött ki egy ipari telephelyen Ócsán, az Alsópakony utcában. A helyszínen körülbelül négyszáz négyzetméternyi raklap, valamint több személyautó is ég. A fővárosi és dabasi hivatásos, valamint a délegyházai és alsónémedi önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját egy monori, egy fővárosi és egy délegyházi vízszállító is segíti.",
       "location": "Ócsa, Alsópakony puszta",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Ócsán",
+          "datetime": "2026.08.26. 05:40",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Ócsán, ahol teljes terjedelmében égett egy csarnok az Alsópakony utcában. A tűzben több személyautó és kisteherautó is kiégett. A lángokat a fővárosi és dabasi hivatásos, valamint a délegyházai és alsónémedi önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el. A rajok munkáját egy monori, egy fővárosi, egy délegyházi vízszállító és munkagép is segíti.",
+          "location": "Ócsa, Alsópakony puszta",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91318/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91318"
+        }
+      ]
     },
     {
       "id": "91317",
