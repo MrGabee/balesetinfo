@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T21:10:04.400122+00:00",
-  "count": 3522,
+  "updated_at": "2026-08-26T21:13:21.965765+00:00",
+  "count": 3523,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91352",
+      "datetime": "2026.08.26. 23:10",
+      "title": "Motorosbaleset Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91352",
+      "lead": "Az ipari park mögötti területen álló kocsiba rohant egy motorkerékpár.",
+      "body": "Álló autóba csapódott egy motor Szolnokon, az ipari park mögötti területen. A helyszínen tartózkodók kihúzták a motorost a gépkocsi alól, a sofőrhöz mentő érkezett. A vármegyeszékhely hivatásos tűzoltói áramtalanították a kétkerekű járművet.",
+      "location": "Szolnok, Déri Miksa körút",
+      "updates": []
+    },
     {
       "id": "91351",
       "datetime": "2026.08.26. 22:28",
