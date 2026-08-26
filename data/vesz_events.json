@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T14:18:29.769769+00:00",
-  "count": 3506,
+  "updated_at": "2026-08-26T14:22:09.238667+00:00",
+  "count": 3507,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91336",
+      "datetime": "2026.08.26. 16:20",
+      "title": "Felborult egy kamion a 31-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91336",
+      "lead": "Az 59-60-as kilométer között történt a baleset.",
+      "body": "Letért az úttestről és az árokban az oldalára borult egy gabonát szállító kamion a 31-es főúton, Nagykáta közelében. Az 59-60-as kilométer között történt balesethez a nagykátai hivatásos tűzoltók vonultak, az egység áramtalanította a járművet. A kamionban csak a sofőr ült, a helyszínre mentőt is riasztottak. A baleset miatt a főút forgalma csak egy sávon halad, torlódásra kell számítani.",
+      "location": "Nagykáta, 31",
+      "updates": []
+    },
     {
       "id": "91335",
       "datetime": "2026.08.26. 16:08",
