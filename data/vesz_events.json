@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T18:00:29.877346+00:00",
-  "count": 3516,
+  "updated_at": "2026-08-26T18:04:04.394019+00:00",
+  "count": 3517,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91346",
+      "datetime": "2026.08.26. 20:02",
+      "title": "Baleset történt a 86-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91346",
+      "lead": "A 183-as kilométernél egy autó szántóföldre hajtott.",
+      "body": "Letért az úttestről és a szántóföldön állt meg egy személykocsi a 86-os főút 183-as kilométerénél. A baleset Újrónafő térségében történt, a mosonmagyaróvári hivatásos és a mosonszolnoki önkéntes tűzoltók végezték a műszaki mentést. Az autót kivontatták a 86-os főútra, amelynek forgalmát egy időre teljesen megállították, de már egy sávon lehet közlekedni.",
+      "location": "Újrónafő, 86",
+      "updates": []
+    },
     {
       "id": "91345",
       "datetime": "2026.08.26. 19:54",
