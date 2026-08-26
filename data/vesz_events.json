@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T10:54:24.216800+00:00",
+  "updated_at": "2026-08-26T10:57:54.440899+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -149,7 +149,16 @@
       "lead": "A rajok munkáját az erős szél nehezíti.",
       "body": "Száraz avar és bokros terület gyulladt meg Nagykerekiben, az Árpád utca közelében. A berettyóújfalui hivatásos tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart. A rajok munkáját az erős szél nehezíti.",
       "location": "Nagykereki, Árpád utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Nagykerekiben",
+          "datetime": "2026.08.25. 21:08",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Nagykerekiben, ahol száraz avar és bokros terület égett az Árpád utca közelében. A lángokat a berettyóújfalui, püspökladányi és a debreceni hivatásos tűzoltók oltották el. A munkálatokat a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Nagykereki, Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91314/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91314"
+        }
+      ]
     },
     {
       "id": "91313",
@@ -179,10 +188,19 @@
       "title": "Tarló ég Pocsajon",
       "category": "Tarló ég Pocsajon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91311",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűz körülbelül nyolc hektárnyi területet érint.",
+      "body": "Tarló ég Pocsajon, a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érint, lakóházakat is veszélyeztetve. A berettyóújfalui hivatásos és a létavértesi önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Pocsaj, Petőfi utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Pocsajon",
+          "datetime": "2026.08.25. 19:04",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Pocsajon, ahol tarló égett a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érintett. A berettyóújfalui, debreceni hivatásos és a létavértesi önkormányzati tűzoltók már elvégezték az utómunkálatokat.",
+          "location": "Pocsaj, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91311/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91311"
+        }
+      ]
     },
     {
       "id": "91310",
@@ -190,10 +208,19 @@
       "title": "Kigyulladt a száraz fű Mátraterenyén",
       "category": "Kigyulladt a száraz fű Mátraterenyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91310",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Kossuth út mellett csaptak fel a lángok.",
+      "body": "Mintegy három hektáron ég a száraz fű Mátraterenyén, a Kossuth út mellett. A tűz lakóépületeket és bálákat is veszélyeztet. A salgótarjáni, bátonyterenyei és a pétervásárai hivatásos tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Mátraterenye, Kossuth út",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Mátraterenyén",
+          "datetime": "2026.08.25. 18:07",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Mátraterenyén, ahol száraz fű égett a Kossuth út mellett. A tűz körülbelül tíz hektárnyi területet érintett, valamint egy melléképületbe is belekapott. A lángokat a salgótarjáni, bátonyterenyei és a pétervásárai hivatásos tűzoltók oltották el.",
+          "location": "Mátraterenye, Kossuth út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91310/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91310"
+        }
+      ]
     },
     {
       "id": "91309",
@@ -201,8 +228,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91309",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -212,9 +239,9 @@
       "title": "Szalagkorlátnak ütközött egy személyautó a 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91308",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Márkó közelében félpályán halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 8-as főúton, Márkó közelében, a 61-es kilométerszelvénynél. A balesethez a veszprémi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Márkó, Iparos utca",
       "updates": []
     },
     {
@@ -223,9 +250,9 @@
       "title": "Összeütközött két autó Budapest XIX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91307",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hofherr Albert utca és a Nádasdy utca találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XIX. kerületében, a Hofherr Albert utca és a Nádasdy utca találkozásánál. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Hofherr Albert utca",
       "updates": []
     },
     {
@@ -245,9 +272,9 @@
       "title": "Kidöntött egy villanyoszlopot egy autó Solymáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91305",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dózsa György utcában félpályán halad a forgalom.",
+      "body": "Kidöntött egy villanyoszlopot egy személyautó Solymáron, a Dózsa György utcában. Az Aradi utca és a József Attila utca közötti szakaszon történt balesethez a solymári önkéntes tűzoltók vonultak, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Solymár, Dózsa György utca",
       "updates": []
     },
     {
@@ -256,9 +283,9 @@
       "title": "Oszlopnak ütközött egy kisbusz Okányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91304",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre utcában történt a baleset.",
+      "body": "Faoszlopnak ütközött egy kisbusz Okányban, az Ady Endre utcában. A Rákóczi utca és a Bacsó Béla utca közötti szakaszon történt baleset következtében az oszlop eltört. A szeghalmi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Okány, Ady Endre utca",
       "updates": []
     },
     {
@@ -477,7 +504,16 @@
       "lead": "A Béke út mellett oltják a lángokat.",
       "body": "Mezőgazdasági területen ütött ki tűz Tardon, a Béke út mellett. Körülbelül egy hektáron ég a száraz fű és a bozótos, valamint munkagépek. A lángok egy dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa. A mezőkövesdi, mezőcsáti hivatásos valamint a szomolyai önkéntes tűzoltók dolgoznak a tűz eloltásán.",
       "location": "Tard, Béke út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Tardon",
+          "datetime": "2026.08.25. 12:20",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Tardon, ahol egy mezőgazdasági terület égett a Béke út mellett. A tűz két dissou-palackot is érintett, amit egy mesterlövész ártalmatlanított. A közeli lakóházakat a beavatkozás idejére kiürítették. A lángokat a mezőkövesdi, mezőcsáti hivatásos valamint a szomolyai önkéntes tűzoltók oltották el.",
+          "location": "Tard, Béke út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91289/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91289"
+        }
+      ]
     },
     {
       "id": "91288",
