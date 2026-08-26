@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T22:35:54.533017+00:00",
-  "count": 3523,
+  "updated_at": "2026-08-26T22:39:49.389732+00:00",
+  "count": 3524,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91353",
+      "datetime": "2026.08.27. 00:38",
+      "title": "Autómosó gyulladt ki Szigetszentmiklóson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353",
+      "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
+      "location": "Szigetszentmiklós, Szilvásutca",
+      "updates": []
+    },
     {
       "id": "91352",
       "datetime": "2026.08.26. 23:10",
