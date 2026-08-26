@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T07:05:41.767852+00:00",
-  "count": 3491,
+  "updated_at": "2026-08-26T07:09:27.695903+00:00",
+  "count": 3492,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91321",
+      "datetime": "2026.08.26. 09:06",
+      "title": "Ég egy nádas Tiszaburán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91321",
+      "lead": "A Táncsics Mihály utca közelében kell beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt a nádas egy kiszáradt tó medrében, Tiszaburán, a Táncsics Mihály utca közelében. Mintegy másfél-két hektárra terjed ki, és lakóházak felé is terjed a tűz, amelyet az abádszalóki önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Tiszabura, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "91320",
       "datetime": "2026.08.26. 08:59",
