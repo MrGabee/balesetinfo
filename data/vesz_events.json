@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:21:15.961773+00:00",
+  "updated_at": "2026-08-26T11:25:33.824885+00:00",
   "count": 3497,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -84,9 +84,9 @@
       "title": "Ráfutásos baleset az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91320",
-      "lead": "Füzesabony közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött egy személygépkocsi és egy teherautó az M3-as autópálya Nyíregyháza felé vezető oldalán, Füzesabony közelében. Ráfutásos baleset történt, amelyhez a füzesabonyi hivatásos tűzoltókat riasztották. A raj áramtalanította a személyautót. Az érintett sztrádaszakaszon a leállósávban, szakaszosan halad a forgalom.",
-      "location": "Füzesabony, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -168,10 +168,19 @@
       "title": "Száraz avar és bokros terület ég Nagykerekiben",
       "category": "Száraz avar és bokros terület ég Nagykerekiben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91314",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A rajok munkáját az erős szél nehezíti.",
+      "body": "Száraz avar és bokros terület gyulladt meg Nagykerekiben, az Árpád utca közelében. A berettyóújfalui hivatásos tűzoltók dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart. A rajok munkáját az erős szél nehezíti.",
+      "location": "Nagykereki, Árpád utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Nagykerekiben",
+          "datetime": "2026.08.25. 21:08",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Nagykerekiben, ahol száraz avar és bokros terület égett az Árpád utca közelében. A lángokat a berettyóújfalui, püspökladányi és a debreceni hivatásos tűzoltók oltották el. A munkálatokat a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Nagykereki, Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91314/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91314"
+        }
+      ]
     },
     {
       "id": "91313",
@@ -329,10 +338,19 @@
       "title": "Papírhulladék ég egy pápai telephelyen",
       "category": "Papírhulladék ég egy pápai telephelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91301",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Győri útra vonultak a tűzoltók.",
+      "body": "Papírhulladék ég egy pápai telephelyen, a Győri úton. A győri és csornai hivatásos tűzoltók két vízsugárral már megakadályozták a lángok továbbterjedését. A rajok munkáját egy markológép is segíti, ami megbontja a rakatot.",
+      "location": "Pápa, Győri út",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Pápán",
+          "datetime": "2026.08.25. 19:31",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Pápán, ahol egy telephelyen ütött ki tűz a Győri úton. A helyszínen körülbelül ötven köbméterniy bálázott papírhulladék égett. A lángokat a győri, pápai és csornai hivatásos tűzoltók oltották el.",
+          "location": "Pápa, Győri út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91301/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91301"
+        }
+      ]
     },
     {
       "id": "91300",
@@ -351,9 +369,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 83-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91299",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Tét és Pápa között forgalmi akadályra kell számítani.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 83-as főút Tét és Pápa közötti szakaszán, a 42-es kilométerszelvénynél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Takácsi, 83",
       "updates": []
     },
     {
@@ -362,9 +380,9 @@
       "title": "Baleset történt Keszthelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91298",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Toldi Miklós utca és a Semmelweis utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Villanyoszlopnak ütközött majd árokba sodródott egy személyautó Keszthelyen, a Toldi Miklós utca és a Semmelweis utca találkozásánál. A műszaki mentést a helyi hivatásos tűzoltók végzik. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Keszthely, Toldi Miklós utca",
       "updates": []
     },
     {
@@ -384,10 +402,27 @@
       "title": "Aljnövényzet ég Sárkeresztúrnál",
       "category": "Aljnövényzet ég Sárkeresztúrnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók oltják a lángokat, és további egységek is elindultak a tűzesethez.",
+      "body": "Kigyulladt egy erdő aljnövényzete és egy száraz, füves, bokros terület Sárkeresztúr, Sárszentágota és Káloz között. A székesfehérvári, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki vízszállító jármű segítségével oltják a lángokat. A helyszínre érkezett a Fejér vármegyei katasztrófavédelmi műveleti szolgálat, és több más egység is elindult a tűzesethez.",
+      "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
+      "updates": [
+        {
+          "title": "Több mint harminc hektár égett le Sárkeresztúrnál",
+          "datetime": "2026.08.25. 14:26",
+          "category": "Tűzeset",
+          "text": "Megakadályozták annak a szabadtéri tűznek a továbbterjedését, amely Sárkeresztúr, Sárszentágota és Káloz között keletkezett. Egy erdő aljnövényzete és egy száraz, füves, bokros, cserjés terület gyulladt ki. Több mint harminc hektár égett le, és helyenként lángra kapott a fák koronája is. A székesfehérvári, a pétfürdői, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki és egy székesfehérvári vízszállító jármű segítségével, a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, hét vízsugárral és kéziszerszámokkal oltják a lángokat, felszámolják a még izzó részeket. Erőgépekkel és lajtos kocsikkal a helyi gazdák is segítik a munkálatokat.",
+          "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91296"
+        },
+        {
+          "title": "Már az utómunkálatokat végzik Sárkeresztúrnál",
+          "datetime": "2026.08.25. 17:55",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Sárkeresztúr, Sárszentágota és Káloz között, ahol több helyen is égett a száraz fű és az erdő aljnövényzete. A székesfehérvári, a pétfürdői, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki és egy székesfehérvári vízszállító jármű segítségével, a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a lángokat.",
+          "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91296"
+        }
+      ]
     },
     {
       "id": "91295",
@@ -426,10 +461,19 @@
       "title": "Tarló lángol Zengővárkonynál",
       "category": "Tarló lángol Zengővárkonynál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91293",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 6-os főút közelében dolgoznak a tűzoltók.",
+      "body": "Kigyulladt a gabonatarló Zengővárkony közelében, a 6-os főút és az 5613-as út mellett. Mintegy négy-öt hektárt érint, és helyenként egy cserjés, bokros területre is átterjedt a tűz, amelyet a pécsi, a bonyhádi és a véméndi hivatásos tűzoltók oltanak. A rajok megakadályozták a lángok továbbterjedését.",
+      "location": "Zengővárkony, Zengővárkony közelében",
+      "updates": [
+        {
+          "title": "Eloltották a zengővárkonyi tarlótüzet",
+          "datetime": "2026.08.25. 12:41",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Zengővárkony közelében, ahol kigyulladt a gabonatarló a 6-os főút és az 5613-as út mellett. Mintegy négy-öt hektárra terjedtek ki, és egy cserjés, bokros területbe is belekaptak a lángok, amelyeket három vízsugárral fékeztek meg a pécsi, a bonyhádi és a véméndi hivatásos tűzoltók. A rajok átvizsgálták az érintett területet.",
+          "location": "Zengővárkony, Zengővárkony közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91293/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91293"
+        }
+      ]
     },
     {
       "id": "91292",
@@ -457,9 +501,9 @@
       "title": "Karambolozott két autó Szárföldön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91291",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 85-ös főúton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó Szárföld határában, a 85-ös főúton, a Nyugati sornál. Utoléréses baleset történt. A műszaki mentést végző kapuvári hivatásos tűzoltók áramtalanították az egyik gépkocsit. A karambol helyszínén forgalomkorlátozásra lehet számítani.",
+      "location": "Szárföld, 85",
       "updates": []
     },
     {
