@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T18:56:02.567438+00:00",
-  "count": 3519,
+  "updated_at": "2026-08-26T18:59:27.703389+00:00",
+  "count": 3520,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91349",
+      "datetime": "2026.08.26. 20:56",
+      "title": "Mobil- és faház gyulladt ki Tóalmáson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91349",
+      "lead": "A Rezeda utcában nagykátai és helyi tűzoltók dolgoznak.",
+      "body": "Tűz ütött ki egy nagyjából harminc négyzetméteres faházba, illetve egy tizenöt négyzetméteres mobilházban Tóalmáson, a Rezeda utcában. Mindkét épület teljes terjedelmében égett. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, azonnal megkezdték az oltást. A munkához néhány perccel később csatlakozott három hivatásos nagykátai egység. A rajok több vízsugárral eloltották a tüzet, már az utómunkálatoknál tartanak.",
+      "location": "Tóalmás, Rezeda utca",
+      "updates": []
+    },
     {
       "id": "91348",
       "datetime": "2026.08.26. 20:28",
