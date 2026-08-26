@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T12:43:38.551775+00:00",
-  "count": 3499,
+  "updated_at": "2026-08-26T12:47:57.169195+00:00",
+  "count": 3500,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91329",
+      "datetime": "2026.08.26. 14:44",
+      "title": "Baleset történt Pesterzsébeten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91329",
+      "lead": "A Nagysándor József utcában két autó karambolozott és elsodortak egy gyalogost is.",
+      "body": "Egymásba hajtott egy kisteherautó és egy személykocsi Budapest huszadik kerületében. A Nagysándor József és a Fás utca kereszteződésénél történt utoléréses balesetnél a kisebbik jármű a zebra felé sodródott, és elütött egy gyalogost. A fővárosi hivatásos tűzoltók vonultak az esethez, a helyszínre mentőt is riasztottak.",
+      "location": "Budapest, Nagysándor József utca",
+      "updates": []
+    },
     {
       "id": "91328",
       "datetime": "2026.08.26. 14:31",
@@ -64,9 +75,9 @@
       "title": "Összeütközött két autó a 71-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91323",
-      "lead": "Alsóörs és Balatonalmádi között akadályozza a forgalmat a baleset.",
-      "body": "Karambolozott két személyautó a 71-es főúton, Alsóörs és Balatonalmádi között, a 28. kilométernél. A műszaki mentést végző balatonfűzfői hivatásos tűzoltók áramtalanították a járműveket, amelyekben egy-egy ember utazott. A mentők is megérkeztek a baleset helyszínére, ahol teljes szélességében lezárták az utat.",
-      "location": "Alsóörs, 71",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -305,9 +316,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 6-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91306",
-      "lead": "Adonynál egy sávon halad a forgalom.",
-      "body": "Szalagkorlátnak ütközött egy személyautó a 6-os főúton, Adonynál, az 50-es és 51-es kilométerszelvény között. A balesethez a dunaújvárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Adony, 6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -380,9 +391,9 @@
       "title": "Kigyulladt egy kamion raktere a 46-os főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91300",
-      "lead": "Gyomaendrőd és Mezőberény között lezárták az utat.",
-      "body": "Kigyulladt egy kamion raktere a 46-os főút Gyomaendrődöt és Mezőberényt összekötő szakaszán, a 49-es és az 50-es kilométerszelvény között. A tűz átterjedt a körülötte lévő aljnövényzetre is. A lángokat a gyomaendrődi önkormányzati tűzoltók oltották el. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Gyomaendrőd, 46",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -402,9 +413,9 @@
       "title": "Baleset történt Keszthelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91298",
-      "lead": "A Toldi Miklós utca és a Semmelweis utca találkozásánál dolgoznak a tűzoltók.",
-      "body": "Villanyoszlopnak ütközött majd árokba sodródott egy személyautó Keszthelyen, a Toldi Miklós utca és a Semmelweis utca találkozásánál. A műszaki mentést a helyi hivatásos tűzoltók végzik. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Keszthely, Toldi Miklós utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
