@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T14:06:56.152451+00:00",
-  "count": 3505,
+  "updated_at": "2026-08-26T14:10:37.819381+00:00",
+  "count": 3506,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91335",
+      "datetime": "2026.08.26. 16:08",
+      "title": "Összeütközött egy busz és egy autó Nagyesztergárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91335",
+      "lead": "A 8216-os úton van szükség a tűzoltók beavatkozására.",
+      "body": "Karambolozott egy autóbusz és egy személygépkocsi Nagyesztergár közelében, a 8216-os úton. A zirci önkormányzati tűzoltók végzik a műszaki mentést a balesetnél. A raj áramtalanította az autót. A helyszínen vannak a mentők is. A járművek teljes szélességében elzárják az érintett útszakaszt.",
+      "location": "Nagyesztergár, 8216",
+      "updates": []
+    },
     {
       "id": "91334",
       "datetime": "2026.08.26. 16:05",
