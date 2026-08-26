@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T23:48:39.778361+00:00",
-  "count": 3526,
+  "updated_at": "2026-08-26T23:52:06.236331+00:00",
+  "count": 3527,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91356",
+      "datetime": "2026.08.27. 01:50",
+      "title": "Tűz ütött ki egy nagykónyi családi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91356",
+      "lead": "A település külterületére, Medgyes-pusztára riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház két helyisége Nagykónyi külterületén, a Medgyes-pusztán. A tűz kis területen átterjedt a padlástérre is. A tamási önkormányzati és a dombóvári hivatásos tűzoltók több vízsugárral eloltották a lángokat. Beavatkozás közben gázpalackokat is a szabadba vittek, az egyiket vissza kellett hűteni, a másik sértetlen volt.",
+      "location": "Nagykónyi, Medgyes puszta",
+      "updates": []
+    },
     {
       "id": "91355",
       "datetime": "2026.08.27. 01:24",
