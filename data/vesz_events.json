@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T13:48:01.113922+00:00",
+  "updated_at": "2026-08-26T13:52:26.275299+00:00",
   "count": 3504,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -153,7 +153,16 @@
       "lead": "A Táncsics Mihály utca közelében kell beavatkozniuk a tűzoltóknak.",
       "body": "Kigyulladt a nádas egy kiszáradt tó medrében, Tiszaburán, a Táncsics Mihály utca közelében. Mintegy másfél-két hektárt érint, és lakóházak felé is terjed a tűz, amelyet az abádszalóki önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Tiszabura, Táncsics Mihály utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nincs már tűz Tiszaburán",
+          "datetime": "2026.08.26. 11:04",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Tiszaburán, a Táncsics Mihály utca közelében, ahol kigyulladt a nádas egy kiszáradt tó medrében. Mintegy másfél-két hektárt érintett, és lakóházak, valamint egy száraz, füves terület felé terjedt a tűz. A tiszafüredi és a karcagi hivatásos, valamint az abádszalóki önkormányzati tűzoltók egy-egy tiszafüredi és mezőkövesdi vízszállító jármű segítségével, a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. A tűzoltást egy munkagép is segítette. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Tiszabura, Táncsics Mihály utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91321/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91321"
+        }
+      ]
     },
     {
       "id": "91320",
@@ -327,8 +336,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91309",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
