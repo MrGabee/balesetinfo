@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T14:03:06.917922+00:00",
-  "count": 3504,
+  "updated_at": "2026-08-26T14:06:56.152451+00:00",
+  "count": 3505,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91334",
+      "datetime": "2026.08.26. 16:05",
+      "title": "Épületnek ütközött egy kamion a tompai határátkelőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91334",
+      "lead": "A baleset nem akadályozza az átkelőhely forgalmát.",
+      "body": "Kisebb baleset történt a tompai határátkelőn: manőverezés közben egy épületnek ütközött, és beszorult egy kamion. A jármű autóalkatrészeket szállít. A kiskunhalasi hivatásos tűzoltókat riasztották az esethez. Az átkelőhely működését a történtek nem befolyásolják, zavartalanul üzemel.",
+      "location": "Tompa, határátkelő",
+      "updates": []
+    },
     {
       "id": "91333",
       "datetime": "2026.08.26. 15:38",
