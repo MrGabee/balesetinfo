@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T11:14:12.326801+00:00",
-  "count": 3495,
+  "updated_at": "2026-08-26T11:17:51.992201+00:00",
+  "count": 3496,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91325",
+      "datetime": "2026.08.26. 13:14",
+      "title": "Ráfutásos baleset az M0-ás autóúton, Nagytarcsa térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91325",
+      "lead": "Az 55-56-os kilométer között egy tehergépkocsi és egy kamion karambolozott.",
+      "body": "Ráfutásos balesetet szenvedett egy húst szállító teherautó és egy elektronikai eszközöket szállító kamion az M0-ás autóúton. Az 55-56-os kilométer között, Nagytarcsa térségében történt karambolhoz a fővárosi hivatásos tűzoltók vonultak, az egység áramtalanított. A helyszínre érkeztek a társhatóságok is. Az M3-as sztráda felé vezető oldal érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Nagytarcsa, M0",
+      "updates": []
+    },
     {
       "id": "91324",
       "datetime": "2026.08.26. 09:26",
