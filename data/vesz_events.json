@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:40:40.291251+00:00",
+  "updated_at": "2026-08-26T09:44:37.175132+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -408,19 +408,10 @@
       "title": "Kigyulladt több bódé Újpalotán",
       "category": "Kigyulladt több bódé Újpalotán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91295",
-      "lead": "A Vasgolyó és a Neptun utca között, egy füves, fás területen van tűz.",
-      "body": "Tűz keletkezett Budapest XV. kerületében, a Vasgolyó és a Neptun utca közötti, füves, fás területen. Több bódé is teljes terjedelmében ég, és összesen mintegy kétszáz-háromszáz négyzetmétert érintenek a lángok, amelyeket két vízsugárral oltanak a fővárosi hivatásos tűzoltók. A rajok megakadályozták a tűz továbbterjedését. A helyszínen vannak a mentők is.",
-      "location": "Budapest, Vasgolyó utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Újpalotán",
-          "datetime": "2026.08.25. 13:26",
-          "category": "Közlekedési baleset",
-          "text": "Elfojtották annak a tűznek a lángjait, amely Budapest XV. kerületében, a Vasgolyó és a Neptun utca közötti, füves, fás területen keletkezett. Teljes terjedelmében égett több bódé. Összesen mintegy kétszáz-háromszáz négyzetmétert érintettek a lángok, amelyeket két vízsugárral oltottak el a fővárosi hivatásos tűzoltók. A rajok átvizsgálják a tűzzel érintett területet.",
-          "location": "Budapest, Vasgolyó utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91295/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91295"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91294",
@@ -504,16 +495,7 @@
       "lead": "A Béke út mellett oltják a lángokat.",
       "body": "Mezőgazdasági területen ütött ki tűz Tardon, a Béke út mellett. Körülbelül egy hektáron ég a száraz fű és a bozótos, valamint munkagépek. A lángok egy dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa. A mezőkövesdi, mezőcsáti hivatásos valamint a szomolyai önkéntes tűzoltók dolgoznak a tűz eloltásán.",
       "location": "Tard, Béke út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Tardon",
-          "datetime": "2026.08.25. 12:20",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Tardon, ahol egy mezőgazdasági terület égett a Béke út mellett. A tűz két dissou-palackot is érintett, amit egy mesterlövész ártalmatlanított. A közeli lakóházakat a beavatkozás idejére kiürítették. A lángokat a mezőkövesdi, mezőcsáti hivatásos valamint a szomolyai önkéntes tűzoltók oltották el.",
-          "location": "Tard, Béke út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91289/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91289"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91288",
@@ -532,9 +514,9 @@
       "title": "Utoléréses baleset az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91287",
-      "lead": "A XXIII. kerület térségében, az M1-es felé nagy a torlódás.",
-      "body": "Összeütközött egy kamion és egy személygépkocsi Budapest XXIII. kerületében, az M0-s autóútnak az M1-es autópálya felé vezető oldalán, a 27. kilométernél. Utoléréses baleset történt, amelyhez a fővárosi hivatásos és a gyáli önkéntes tűzoltókat riasztották. A raj áramtalanítja az autót.  A baleset helyszínén két sávon halad a forgalom, nagy a torlódás.",
-      "location": "Budapest, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -554,9 +536,9 @@
       "title": "Égett egy kerti tároló Székesfehérváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91285",
-      "lead": "A tűzoltók a Zsolnay úton fékezték meg a lángokat.",
-      "body": "Kigyulladt egy kerti tároló Székesfehérváron, a Zsolnay úton, a Borsi köznél. Teljes terjedelmében égett a mintegy tíz-tizenöt négyzetméteres építmény. A város hivatásos tűzoltói megakadályozták a lángok továbbterjedését, eloltották a tüzet, majd megkezdték az utómunkálatokat.",
-      "location": "Székesfehérvár, Zsolnai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
