@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T17:53:19.072045+00:00",
-  "count": 3515,
+  "updated_at": "2026-08-26T17:57:03.485537+00:00",
+  "count": 3516,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91345",
+      "datetime": "2026.08.26. 19:54",
+      "title": "Öt hektáron égett a vegetáció Baks és Csanytelek között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91345",
+      "lead": "Hat település tűzoltói fékezték meg a lángokat.",
+      "body": "Tűz ütött ki a 4519-es út mellett, Baks és Csanytelek között: nagyjából öt hektáron gazos, fás terület, illetve nádas égett. A lángok veszélyt jelentettek egy lovardára és számos szalmabálára, de sikerült megakadályozni, hogy a tűz azokra is átterjedjen. Csongrádi, kisteleki, szentesi és kiskunfélegyházi hivatásos, valamint csanyteleki és baksi önkéntes tűzoltók a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányításával avatkoztak be. Az egységek hat vízsugárral és kéziszerszámokkal eloltották a lángokat, már az izzó, parázsló részeket számolják fel.",
+      "location": "Csanytelek, külterület",
+      "updates": []
+    },
     {
       "id": "91344",
       "datetime": "2026.08.26. 19:09",
