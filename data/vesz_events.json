@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T00:02:01.850336+00:00",
-  "count": 3488,
+  "updated_at": "2026-08-26T00:05:13.492772+00:00",
+  "count": 3489,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91318",
+      "datetime": "2026.08.26. 02:03",
+      "title": "Tűz ütött ki egy ipari telephelyen Ócsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91318",
+      "lead": "Az Alsópakony utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy ipari telephelyen Ócsán, az Alsópakony utcában. A helyszínen körülbelül négyszáz négyzetméternyi raklap, valamint több személyautó is ég. A fővárosi és dabasi hivatásos, valamint a délegyházai és alsónémedi önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját egy monori, egy fővárosi és egy délegyházi vízszállító is segíti.",
+      "location": "Ócsa, Alsópakony puszta",
+      "updates": []
+    },
     {
       "id": "91317",
       "datetime": "2026.08.25. 23:10",
