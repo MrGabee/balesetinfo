@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:12:09.985589+00:00",
+  "updated_at": "2026-08-26T08:16:00.514850+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -126,9 +126,9 @@
       "title": "Felborult egy autó Kunszentmiklós közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91315",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 5203-as utat lezárták.",
+      "body": "Felborult egy személyautó Kunszentmiklós közelében, az 5203-as út 25-ös kilométerszelvényénél. A kunszentmiklósi önkormányzati tűzoltók feszítővágó segítségével egy embert kiemeltek a gépkocsiból, majd átadták a mentőknek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kunszentmiklós, 5203",
       "updates": []
     },
     {
@@ -157,9 +157,9 @@
       "title": "Ráfutásos baleset Miskolcon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91313",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Móra Ferenc utca és a Körmöci utca kereszteződésénél történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi ütközött össze Miskolcon, a Móra Ferenc utca és a Körmöci utca kereszteződésénél. A ráfutásos balesethez a helyi hivatásos tűzoltókat riasztották, akik az egyik járművet áramtalanították. A helyszínre mentő is érkezett. AZ érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Miskolc, Körmöci utca",
       "updates": []
     },
     {
@@ -773,7 +773,7 @@
     {
       "id": "91264",
       "datetime": "2026.08.24. 14:45 -",
-      "title": "1 db frissítés",
+      "title": "2 db frissítés",
       "category": "Kazlak égnek Jászkisérnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91264",
       "lead": "",
