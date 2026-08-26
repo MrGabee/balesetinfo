@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T10:23:26.946730+00:00",
+  "updated_at": "2026-08-26T10:27:21.054779+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -84,19 +84,10 @@
       "title": "Tűz ütött ki egy ipari telephelyen Ócsán",
       "category": "Tűz ütött ki egy ipari telephelyen Ócsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91318",
-      "lead": "Az Alsópakony utcába riasztották a tűzoltókat.",
-      "body": "Tűz ütött ki egy ipari telephelyen Ócsán, az Alsópakony utcában. A helyszínen körülbelül négyszáz négyzetméternyi raklap, valamint több személyautó is ég. A fővárosi és dabasi hivatásos, valamint a délegyházai és alsónémedi önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját egy monori, egy fővárosi és egy délegyházi vízszállító is segíti.",
-      "location": "Ócsa, Alsópakony puszta",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik Ócsán",
-          "datetime": "2026.08.26. 05:40",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Ócsán, ahol teljes terjedelmében égett egy csarnok az Alsópakony utcában. A tűzben több személyautó és kisteherautó is kiégett. A lángokat a fővárosi és dabasi hivatásos, valamint a délegyházai és alsónémedi önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el. A rajok munkáját egy monori, egy fővárosi, egy délegyházi vízszállító és munkagép is segíti.",
-          "location": "Ócsa, Alsópakony puszta",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91318/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91318"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91317",
@@ -336,9 +327,9 @@
       "title": "Kigyulladt egy kamion raktere a 46-os főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91300",
-      "lead": "Gyomaendrőd és Mezőberény között lezárták az utat.",
-      "body": "Kigyulladt egy kamion raktere a 46-os főút Gyomaendrődöt és Mezőberényt összekötő szakaszán, a 49-es és az 50-es kilométerszelvény között. A tűz átterjedt a körülötte lévő aljnövényzetre is. A lángokat a gyomaendrődi önkormányzati tűzoltók oltották el. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Gyomaendrőd, 46",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -347,9 +338,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 83-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91299",
-      "lead": "Tét és Pápa között forgalmi akadályra kell számítani.",
-      "body": "Szalagkorlátnak ütközött egy személyautó a 83-as főút Tét és Pápa közötti szakaszán, a 42-es kilométerszelvénynél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Takácsi, 83",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -358,9 +349,9 @@
       "title": "Baleset történt Keszthelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91298",
-      "lead": "A Toldi Miklós utca és a Semmelweis utca találkozásánál dolgoznak a tűzoltók.",
-      "body": "Villanyoszlopnak ütközött majd árokba sodródott egy személyautó Keszthelyen, a Toldi Miklós utca és a Semmelweis utca találkozásánál. A műszaki mentést a helyi hivatásos tűzoltók végzik. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Keszthely, Toldi Miklós utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -369,9 +360,9 @@
       "title": "Egymásnak ütközött két autó Budapest IX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91297",
-      "lead": "A Gyáli úton van szükség műszaki mentésre.",
-      "body": "Összeütközött két személyautó Budapest IX. kerületében, a Gyáli úton. A Kiskalmár utca és az Illatos út közötti szakaszon történt balesetnél a fővárosi hivatásos tűzoltók végeznek műszaki mentést. A helyszínre mentő is érkezett.",
-      "location": "Budapest, Gyáli út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -391,14 +382,6 @@
           "text": "Megakadályozták annak a szabadtéri tűznek a továbbterjedését, amely Sárkeresztúr, Sárszentágota és Káloz között keletkezett. Egy erdő aljnövényzete és egy száraz, füves, bokros, cserjés terület gyulladt ki. Több mint harminc hektár égett le, és helyenként lángra kapott a fák koronája is. A székesfehérvári, a pétfürdői, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki és egy székesfehérvári vízszállító jármű segítségével, a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, hét vízsugárral és kéziszerszámokkal oltják a lángokat, felszámolják a még izzó részeket. Erőgépekkel és lajtos kocsikkal a helyi gazdák is segítik a munkálatokat.",
           "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91296"
-        },
-        {
-          "title": "Már az utómunkálatokat végzik Sárkeresztúrnál",
-          "datetime": "2026.08.25. 17:55",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Sárkeresztúr, Sárszentágota és Káloz között, ahol több helyen is égett a száraz fű és az erdő aljnövényzete. A székesfehérvári, a pétfürdői, a pusztaszabolcsi és a dunaújvárosi hivatásos tűzoltók egy siófoki és egy székesfehérvári vízszállító jármű segítségével, a Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a lángokat.",
-          "location": "Sárkeresztúr, Sárkeresztúr, Sárszentágota és Káloz között",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91296/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91296"
         }
       ]
     },
@@ -411,7 +394,16 @@
       "lead": "A Vasgolyó és a Neptun utca között, egy füves, fás területen van tűz.",
       "body": "Tűz keletkezett Budapest XV. kerületében, a Vasgolyó és a Neptun utca közötti, füves, fás területen. Több bódé is teljes terjedelmében ég, és összesen mintegy kétszáz-háromszáz négyzetmétert érintenek a lángok, amelyeket két vízsugárral oltanak a fővárosi hivatásos tűzoltók. A rajok megakadályozták a tűz továbbterjedését. A helyszínen vannak a mentők is.",
       "location": "Budapest, Vasgolyó utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Újpalotán",
+          "datetime": "2026.08.25. 13:26",
+          "category": "Közlekedési baleset",
+          "text": "Elfojtották annak a tűznek a lángjait, amely Budapest XV. kerületében, a Vasgolyó és a Neptun utca közötti, füves, fás területen keletkezett. Teljes terjedelmében égett több bódé. Összesen mintegy kétszáz-háromszáz négyzetmétert érintettek a lángok, amelyeket két vízsugárral oltottak el a fővárosi hivatásos tűzoltók. A rajok átvizsgálják a tűzzel érintett területet.",
+          "location": "Budapest, Vasgolyó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91295/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91295"
+        }
+      ]
     },
     {
       "id": "91294",
