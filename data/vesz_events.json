@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T23:23:47.244819+00:00",
-  "count": 3525,
+  "updated_at": "2026-08-26T23:27:34.569307+00:00",
+  "count": 3526,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91355",
+      "datetime": "2026.08.27. 01:24",
+      "title": "Felborult egy kamion az M5-ösön, Kunszállás térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91355",
+      "lead": "A főváros felé vezető oldal 103-as kilométerénél történt a baleset.",
+      "body": "Árokba borult egy autóalkatrészeket szállító kamion az M5-ös autópályán, Kunszállás térségében. A Budapest felé vezető oldal 103-as kilométerénél balesetet szenvedett járműben ketten utaztak, mindketten ki tudtak szállni a vezetőfülkéből. A kiskunfélegyházi hivatásos tűzoltókat riasztották az esethez, a helyszínen ott voltak a társhatóságok is.",
+      "location": "Kunszállás, M5",
+      "updates": []
+    },
     {
       "id": "91354",
       "datetime": "2026.08.27. 00:47",
