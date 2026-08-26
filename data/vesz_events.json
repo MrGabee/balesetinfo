@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:53:11.103353+00:00",
+  "updated_at": "2026-08-26T09:56:53.488794+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -205,13 +205,22 @@
     {
       "id": "91310",
       "datetime": "2026.08.25. 17:31 -",
-      "title": "1 db frissítés",
+      "title": "Kigyulladt a száraz fű Mátraterenyén",
       "category": "Kigyulladt a száraz fű Mátraterenyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91310",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Kossuth út mellett csaptak fel a lángok.",
+      "body": "Mintegy három hektáron ég a száraz fű Mátraterenyén, a Kossuth út mellett. A tűz lakóépületeket és bálákat is veszélyeztet. A salgótarjáni, bátonyterenyei és a pétervásárai hivatásos tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Mátraterenye, Kossuth út",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Mátraterenyén",
+          "datetime": "2026.08.25. 18:07",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Mátraterenyén, ahol száraz fű égett a Kossuth út mellett. A tűz körülbelül tíz hektárnyi területet érintett, valamint egy melléképületbe is belekapott. A lángokat a salgótarjáni, bátonyterenyei és a pétervásárai hivatásos tűzoltók oltották el.",
+          "location": "Mátraterenye, Kossuth út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91310/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91310"
+        }
+      ]
     },
     {
       "id": "91309",
@@ -219,8 +228,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91309",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -241,9 +250,9 @@
       "title": "Összeütközött két autó Budapest XIX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91307",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hofherr Albert utca és a Nádasdy utca találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XIX. kerületében, a Hofherr Albert utca és a Nádasdy utca találkozásánál. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Hofherr Albert utca",
       "updates": []
     },
     {
@@ -274,9 +283,9 @@
       "title": "Oszlopnak ütközött egy kisbusz Okányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91304",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre utcában történt a baleset.",
+      "body": "Faoszlopnak ütközött egy kisbusz Okányban, az Ady Endre utcában. A Rákóczi utca és a Bacsó Béla utca közötti szakaszon történt baleset következtében az oszlop eltört. A szeghalmi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Okány, Ady Endre utca",
       "updates": []
     },
     {
