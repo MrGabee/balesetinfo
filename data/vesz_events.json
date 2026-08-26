@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T14:25:35.789065+00:00",
-  "count": 3507,
+  "updated_at": "2026-08-26T14:29:15.199634+00:00",
+  "count": 3508,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91337",
+      "datetime": "2026.08.26. 16:25",
+      "title": "Ráfutásos baleset az M0-áson, Vecsés és Üllő között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91337",
+      "lead": "Az M1-es felé vezető oldal 39-es kilométeréhez riasztották a tűzoltókat.",
+      "body": "Ráfutásos balesetet szenvedett három gépkocsi az M0-ás autóút 39-es kilométerénél, az M1-es felé vezető oldalon. Az utolsó autó hűtővize elfolyt az ütközés következtében. A monori hivatásos tűzoltók végzik a műszaki mentést. A járművek elfoglalják a belső sávot, az autóút forgalma torlódik.",
+      "location": "Vecsés, M0",
+      "updates": []
+    },
     {
       "id": "91336",
       "datetime": "2026.08.26. 16:20",
@@ -80,9 +91,9 @@
     },
     {
       "id": "91330",
-      "datetime": "2026.08.26. 15:00",
+      "datetime": "2026.08.26. 15:00 -",
       "title": "Ég az aljnövényzet Gyepűkaján közelében",
-      "category": "Tűzeset",
+      "category": "Ég az aljnövényzet Gyepűkaján közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91330",
       "lead": "Nagy területet érint a tűz, helyenként a fák koronája is ég.",
       "body": "Kigyulladt egy erdő aljnövényzete és egy bokros, füves rész Csabrendek és Gyepűkaján között. Nagy területet érint a tűz, és helyenként a fák koronája is ég. Az ajkai hivatásos, a sümegi önkormányzati és a csabrendeki önkéntes tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat. A helyszínre indult több más egység is.",
