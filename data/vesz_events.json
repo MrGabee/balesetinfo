@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:42:13.001186+00:00",
+  "updated_at": "2026-08-26T08:46:56.842680+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Összeütközött két autó a 71-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91323",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Alsóörs és Balatonalmádi között akadályozza a forgalmat a baleset.",
+      "body": "Karambolozott két személyautó a 71-es főúton, Alsóörs és Balatonalmádi között, a 28. kilométernél. A műszaki mentést végző balatonfűzfői hivatásos tűzoltók áramtalanították a járműveket, amelyekben egy-egy ember utazott. A mentők is megérkeztek a baleset helyszínére, ahol teljes szélességében lezárták az utat.",
+      "location": "Alsóörs, 71",
       "updates": []
     },
     {
@@ -31,9 +31,9 @@
       "title": "Öt hektáron égett a tarló Mikepércs mellett",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91322",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tüzet a debreceni tűzoltók fékezték meg.",
+      "body": "Öthektáros terület kapott lángra Mikepércs külterületén. A kigyulladt búzatarló veszélyeztette a mellette lévő, még le nem aratott kukoricást is. A debreceni hivatásos tűzoltók két gépjárműfecskendővel, valamint a vízszállítóval vonultak az esethez. A rajok három vízsugárral és kéziszerszámokkal körülhatárolták, eloltották a lángokat. Az egységek már az utómunkálatokat végzik.",
+      "location": "Mikepércs, külterület",
       "updates": []
     },
     {
@@ -42,9 +42,9 @@
       "title": "Ég egy nádas Tiszaburán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91321",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály utca közelében kell beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt a nádas egy kiszáradt tó medrében, Tiszaburán, a Táncsics Mihály utca közelében. Mintegy másfél-két hektárra terjed ki, és lakóházak felé is terjed a tűz, amelyet az abádszalóki önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Tiszabura, Táncsics Mihály utca",
       "updates": []
     },
     {
@@ -179,10 +179,19 @@
       "title": "Tarló ég Pocsajon",
       "category": "Tarló ég Pocsajon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91311",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűz körülbelül nyolc hektárnyi területet érint.",
+      "body": "Tarló ég Pocsajon, a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érint, lakóházakat is veszélyeztetve. A berettyóújfalui hivatásos és a létavértesi önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Pocsaj, Petőfi utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Pocsajon",
+          "datetime": "2026.08.25. 19:04",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Pocsajon, ahol tarló égett a Petőfi utcában. A tűz körülbelül nyolc hektárnyi területet érintett. A berettyóújfalui, debreceni hivatásos és a létavértesi önkormányzati tűzoltók már elvégezték az utómunkálatokat.",
+          "location": "Pocsaj, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91311/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91311"
+        }
+      ]
     },
     {
       "id": "91310",
@@ -201,8 +210,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91309",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -234,9 +243,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 6-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91306",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Adonynál egy sávon halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 6-os főúton, Adonynál, az 50-es és 51-es kilométerszelvény között. A balesethez a dunaújvárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Adony, 6",
       "updates": []
     },
     {
@@ -245,9 +254,9 @@
       "title": "Kidöntött egy villanyoszlopot egy autó Solymáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91305",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dózsa György utcában félpályán halad a forgalom.",
+      "body": "Kidöntött egy villanyoszlopot egy személyautó Solymáron, a Dózsa György utcában. Az Aradi utca és a József Attila utca közötti szakaszon történt balesethez a solymári önkéntes tűzoltók vonultak, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Solymár, Dózsa György utca",
       "updates": []
     },
     {
@@ -412,10 +421,19 @@
       "title": "Tarló lángol Zengővárkonynál",
       "category": "Tarló lángol Zengővárkonynál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91293",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 6-os főút közelében dolgoznak a tűzoltók.",
+      "body": "Kigyulladt a gabonatarló Zengővárkony közelében, a 6-os főút és az 5613-as út mellett. Mintegy négy-öt hektárt érint, és helyenként egy cserjés, bokros területre is átterjedt a tűz, amelyet a pécsi, a bonyhádi és a véméndi hivatásos tűzoltók oltanak. A rajok megakadályozták a lángok továbbterjedését.",
+      "location": "Zengővárkony, Zengővárkony közelében",
+      "updates": [
+        {
+          "title": "Eloltották a zengővárkonyi tarlótüzet",
+          "datetime": "2026.08.25. 12:41",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Zengővárkony közelében, ahol kigyulladt a gabonatarló a 6-os főút és az 5613-as út mellett. Mintegy négy-öt hektárra terjedtek ki, és egy cserjés, bokros területbe is belekaptak a lángok, amelyeket három vízsugárral fékeztek meg a pécsi, a bonyhádi és a véméndi hivatásos tűzoltók. A rajok átvizsgálták az érintett területet.",
+          "location": "Zengővárkony, Zengővárkony közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91293/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91293"
+        }
+      ]
     },
     {
       "id": "91292",
