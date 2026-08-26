@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:47:38.228790+00:00",
+  "updated_at": "2026-08-26T07:50:59.987642+00:00",
   "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -453,16 +453,7 @@
       "lead": "Az Alkotmány utcában van tűz, amely családi házakat is veszélyeztetett.",
       "body": "Kigyulladt a kommunális hulladék egy bozótos területen, Sárkeresztúron, az Alkotmány utcában. Mintegy két-két és fél hektárt érint és családi házakat is veszélyeztetett a tűz. A székesfehérvári és a sárbogárdi hivatásos tűzoltók öt vízsugárral oltják a lángokat, és már megakadályozták a tűz továbbterjedését. A környéken nagy a füst.",
       "location": "Sárkeresztúr, Alkotmány utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Sárkeresztúron",
-          "datetime": "2026.08.25. 12:04",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a tűznek a lángjait, amely Sárkeresztúron, az Alkotmány utcában keletkezett. Kommunális hulladék gyulladt ki egy bozótos területen. Mintegy két-két és fél hektárra terjedt ki és családi házakat is veszélyeztetett a tűz, amelyet öt vízsugárral fékeztek meg a székesfehérvári és a sárbogárdi hivatásos tűzoltók.",
-          "location": "Sárkeresztúr, Alkotmány utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91292/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91292"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91291",
@@ -481,9 +472,9 @@
       "title": "Kigyulladt egy melléképület Sajópetriben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91290",
-      "lead": "A Deák Ferenc utcában fékezték meg a lángokat a tűzoltók.",
-      "body": "Tűz keletkezett Sajópetriben, a Deák Ferenc utcában. Egy melléképület tetőszerkezete teljes terjedelmében, egy közeli lakóházé pedig részben égett. A miskolci hivatásos tűzoltók három vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat.",
-      "location": "Sajópetri, Deák Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
