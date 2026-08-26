@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T13:44:41.273398+00:00",
+  "updated_at": "2026-08-26T13:48:01.113922+00:00",
   "count": 3504,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -153,16 +153,7 @@
       "lead": "A Táncsics Mihály utca közelében kell beavatkozniuk a tűzoltóknak.",
       "body": "Kigyulladt a nádas egy kiszáradt tó medrében, Tiszaburán, a Táncsics Mihály utca közelében. Mintegy másfél-két hektárt érint, és lakóházak felé is terjed a tűz, amelyet az abádszalóki önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Tiszabura, Táncsics Mihály utca",
-      "updates": [
-        {
-          "title": "Nincs már tűz Tiszaburán",
-          "datetime": "2026.08.26. 11:04",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Tiszaburán, a Táncsics Mihály utca közelében, ahol kigyulladt a nádas egy kiszáradt tó medrében. Mintegy másfél-két hektárt érintett, és lakóházak, valamint egy száraz, füves terület felé terjedt a tűz. A tiszafüredi és a karcagi hivatásos, valamint az abádszalóki önkormányzati tűzoltók egy-egy tiszafüredi és mezőkövesdi vízszállító jármű segítségével, a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. A tűzoltást egy munkagép is segítette. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Tiszabura, Táncsics Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91321/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91321"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91320",
