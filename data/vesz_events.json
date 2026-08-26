@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T19:04:19.205691+00:00",
-  "count": 3520,
+  "updated_at": "2026-08-26T19:07:54.022727+00:00",
+  "count": 3521,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91350",
+      "datetime": "2026.08.26. 21:05",
+      "title": "Lakóautó gyulladt ki Noszvaj és Bogács között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91350",
+      "lead": "Tüzet fogott a mellette lévő száraz fű is.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy lakóautó a 2504-es úton, Noszvaj és Bogács között. A jármű tüze átterjedt a környezetében lévő száraz növényzetre is. A szomolyai önkéntes és az egri hivatásos tűzoltók vízsugarakkal és kéziszerszámokkal fékezték meg a lángokat.",
+      "location": "Noszvaj, 2504",
+      "updates": []
+    },
     {
       "id": "91349",
       "datetime": "2026.08.26. 20:56",
