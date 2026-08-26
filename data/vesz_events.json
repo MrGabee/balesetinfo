@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T06:57:48.558515+00:00",
-  "count": 3490,
+  "updated_at": "2026-08-26T07:01:41.936086+00:00",
+  "count": 3491,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91320",
+      "datetime": "2026.08.26. 08:59",
+      "title": "Ráfutásos baleset az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91320",
+      "lead": "Füzesabony közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött egy személygépkocsi és egy teherautó az M3-as autópálya Nyíregyháza felé vezető oldalán, Füzesabony közelében. Ráfutásos baleset történt, amelyhez a füzesabonyi hivatásos tűzoltókat riasztották. A raj áramtalanította a személyautót. Az érintett sztrádaszakaszon a leállósávban, szakaszosan halad a forgalom.",
+      "location": "Füzesabony, M3",
+      "updates": []
+    },
     {
       "id": "91319",
       "datetime": "2026.08.26. 06:22",
