@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T22:43:33.569117+00:00",
-  "count": 3524,
+  "updated_at": "2026-08-26T22:47:07.448270+00:00",
+  "count": 3525,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91354",
+      "datetime": "2026.08.27. 00:47",
+      "title": "Felborult egy kisteherautó Tényő külterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91354",
+      "lead": "Győrszemerei és győri tűzoltók vonultak az esethez.",
+      "body": "Lesodródott az úttestről, majd a tetejére borulva, egy út menti fának hajtott egy kisteherautó Tényő külterületén.  A jármű két utasához mentő érkezett. A helyszínre a győrszemerei önkéntes és a győri hivatásos tűzoltók vonultak. A forgalmat nem akadályozó járművet az egységek azután áramtalanítják majd, hogy kerekeire fordították azt. Az érintett útszakaszon tűzoltói irányítás mellett halad a forgalom.",
+      "location": "Tényő, 83127",
+      "updates": []
+    },
     {
       "id": "91353",
       "datetime": "2026.08.27. 00:38",
