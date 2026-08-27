@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T08:04:09.805501+00:00",
-  "count": 3533,
+  "updated_at": "2026-08-27T08:08:08.211618+00:00",
+  "count": 3534,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91363",
+      "datetime": "2026.08.27. 10:06",
+      "title": "Összeütközött két gépkocsi az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91363",
+      "lead": "A Megyeri híd közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott egy személygépkocsi és egy teherautó Budapesten, az M0-s autóút IV. kerületi szakaszán, a Megyeri híd felé vezető oldalon, a híd közelében. A személyautó akadályozza a forgalmat, a másik járműből pedig nagy mennyiségű üzemanyag folyt az útburkolatra. A fővárosi hivatásos tűzoltók áramtalanítják a gépkocsikat, és megszüntetik a forgalmi akadályt.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "91362",
       "datetime": "2026.08.27. 09:41",
