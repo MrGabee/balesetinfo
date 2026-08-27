@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T16:58:19.005062+00:00",
-  "count": 3553,
+  "updated_at": "2026-08-27T17:02:03.030512+00:00",
+  "count": 3554,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91383",
+      "datetime": "2026.08.27. 18:59",
+      "title": "Árokba borult egy autó a 7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91383",
+      "lead": "Lepsénynél történt a baleset.",
+      "body": "Oldalával az árokba borult egy személygépkocsi Lepsénynél, a 7-es főút 92-es kilométerénél. A műszaki mentési munkálatok elvégzéséhez a polgárdi önkormányzati tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Lepsény, 7",
+      "updates": []
+    },
     {
       "id": "91382",
       "datetime": "2026.08.27. 18:38",
