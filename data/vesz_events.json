@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T19:24:59.647272+00:00",
-  "count": 3556,
+  "updated_at": "2026-08-27T19:28:15.375641+00:00",
+  "count": 3557,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91386",
+      "datetime": "2026.08.27. 21:27",
+      "title": "Tetejére borult egy autó Vásárosnaményben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91386",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Tetejére borult egy személygépkocsi Vásárosnaményben, a Kazinczy Lajos úton. A helyi önkormányzati tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Vásárosnamény, Kazinczy Lajos út",
+      "updates": []
+    },
     {
       "id": "91385",
       "datetime": "2026.08.27. 19:21",
