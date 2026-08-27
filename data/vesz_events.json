@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T09:13:52.585738+00:00",
-  "count": 3536,
+  "updated_at": "2026-08-27T09:17:12.676250+00:00",
+  "count": 3537,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91366",
+      "datetime": "2026.08.27. 11:13",
+      "title": "Két jármű karambolozott Pécsváradnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91366",
+      "lead": "A 6-os főút érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött egy személygépkocsi és egy kisteherautó Pécsváradnál, a 6-os főút 182-es kilométerénél. A pécsi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességben lezárták.",
+      "location": "Pécsvárad, 6",
+      "updates": []
+    },
     {
       "id": "91365",
       "datetime": "2026.08.27. 10:52",
