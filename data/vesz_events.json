@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T08:48:11.230180+00:00",
+  "updated_at": "2026-08-27T08:51:52.998197+00:00",
   "count": 3535,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -410,7 +410,16 @@
       "lead": "A Batthyány téren egy embert elütött a szerelvény.",
       "body": "Elgázolt egy embert a villamos Budapesten, a Batthyány téren. A fővárosi hivatásos tűzoltók mentik ki a gyalogost a jármű alól. A BKK tájékoztatása alapján a baleset miatt a 41-es villamos terelve közlekedik, nem érinti a Rudas Gyógyfürdő és a Szent Lukács Gyógyfürdő közötti megállókat, a 19-es villamos pedig nem közlekedik a Komjádi Béla utca és a Batthyány tér között.",
       "location": "Budapest, Batthyány tér",
-      "updates": []
+      "updates": [
+        {
+          "title": "Kiemelték a gyalogost a villamos alól",
+          "datetime": "2026.08.26. 15:28",
+          "category": "Közlekedési baleset",
+          "text": "A Budapest első kerületében, a Batthyány téren egy embert elütött a villamos. A járókelőt az első zsámoly alól a fővárosi hivatásos tűzoltók feszítővágó és emelők segítségével szabadították ki. Az egységek ezután visszahelyezték a villamost a sínre. A helyszínre mentő érkezett.",
+          "location": "Budapest, Batthyány tér",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91331/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91331"
+        }
+      ]
     },
     {
       "id": "91330",
