@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T08:41:12.945239+00:00",
-  "count": 3534,
+  "updated_at": "2026-08-27T08:44:31.484183+00:00",
+  "count": 3535,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91364",
+      "datetime": "2026.08.27. 10:44",
+      "title": "Motor és autó ütközött a III. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
+      "lead": "A Szentendrei úton történt a baleset.",
+      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár Budapest III. kerületében, a Szentendrei úton, a Bogdáni út közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak a helyszínre. A társhatóság is az esethez érkezett.",
+      "location": "Budapest, Szentendrei út",
+      "updates": []
+    },
     {
       "id": "91363",
       "datetime": "2026.08.27. 10:06",
