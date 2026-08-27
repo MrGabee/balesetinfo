@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T10:53:18.636198+00:00",
-  "count": 3540,
+  "updated_at": "2026-08-27T10:57:07.991711+00:00",
+  "count": 3541,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91370",
+      "datetime": "2026.08.27. 12:56",
+      "title": "Árokba hajtott egy autó Martfűnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91370",
+      "lead": "A 442-es főútra riasztották a tűzoltókat.",
+      "body": "Árokba sodródott egy személyautó a 442-es főút Martfű és Rákócziújfalu közötti szakaszán. A járműben ketten utaztak, mindketten ki tudtak szállni, a mentők vizsgálják őket. A műszaki mentést végző tiszaföldvári önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Martfű, 442",
+      "updates": []
+    },
     {
       "id": "91369",
       "datetime": "2026.08.27. 12:51",
