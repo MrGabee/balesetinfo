@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T17:21:16.859885+00:00",
-  "count": 3555,
+  "updated_at": "2026-08-27T17:24:13.547818+00:00",
+  "count": 3556,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91385",
+      "datetime": "2026.08.27. 19:21",
+      "title": "Két autó karambolozott az Mélykútnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91385",
+      "lead": "Az 55-os főút érintett szakaszán félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Mélykútnál, az 55-ös főút 62-es kilométerénél. A jánoshalmai önkormányzati és a mélykúti önkéntes tűzoltók végzik a műszaki mentést, amely során áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mélykút, 55",
+      "updates": []
+    },
     {
       "id": "91384",
       "datetime": "2026.08.27. 19:10",
