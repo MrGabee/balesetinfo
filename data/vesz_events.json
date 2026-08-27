@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T13:53:04.612109+00:00",
-  "count": 3547,
+  "updated_at": "2026-08-27T13:57:20.482227+00:00",
+  "count": 3548,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91377",
+      "datetime": "2026.08.27. 15:54",
+      "title": "Hármas karambol a XII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91377",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi és egy motorkerékpár Budapest XII. kerületében, az Istenhegyi úton, az Ügyész utca közelében. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budapest, Istenhegyi út",
+      "updates": []
+    },
     {
       "id": "91376",
       "datetime": "2026.08.27. 15:27",
@@ -75,9 +86,9 @@
       "title": "Árokba hajtott egy autó Martfűnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91370",
-      "lead": "A 442-es főútra riasztották a tűzoltókat.",
-      "body": "Árokba sodródott egy személyautó a 442-es főút Martfű és Rákócziújfalu közötti szakaszán. A járműben ketten utaztak, mindketten ki tudtak szállni, a mentők vizsgálják őket. A műszaki mentést végző tiszaföldvári önkormányzati tűzoltók áramtalanították a gépkocsit.",
-      "location": "Martfű, 442",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -86,9 +97,9 @@
       "title": "Karambolozott két autó Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91369",
-      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
-      "body": "Összeütközött két személyautó Pécsen, a Megyeri úton, a Mártírok útjánál. Az egyik járműbe beszorult egy ember. Őt feszítővágóval mentették ki a műszaki mentést végző pécsi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén forgalmi akadály van.",
-      "location": "Pécs, Megyeri út, Mártírok útja",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +108,9 @@
       "title": "Baleset történt a 4628-as úton, Tiszaföldvárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91368",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Letért az útról és az árokba hajtott egy személygépkocsi Tiszaföldvárnál, a 4628-as út 4-es kilométerénél. A baleset következtében egy távközlési oszlopot is megrongált az autó. A tiszaföldvári önkormányzati tűzoltók egy embert feszítővágó segítségével emeltek ki a járműből és átadták a mentőszolgálatnak. A rajok áramtalanították az autót. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Tiszaföldvár, 4628",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -111,16 +122,7 @@
       "lead": "A szél nehezíti az oltást.",
       "body": "Kigyulladt a száraz fű és az aljnövényzet Kenyeri külterületén, a 8611-es út 29-es kilométerénél. A sárvári hivatásos és a kenyeri, valamint a pápoci önkéntes tűzoltók oltják a lángokat. A szél nehezíti a munkálatokat. Az érintett útszakaszt teljes szélességben lezárták.",
       "location": "Kenyeri, 8611",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Kenyeri külterületén",
-          "datetime": "2026.08.27. 12:27",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Kenyeri külterületén, a 8611-es út 29-es kilométerénél, ahol az árokpart égett. A sárvári hivatásos, a csöngei és a kenyeri, valamint a pápoci önkéntes tűzoltók fékezték meg a tüzet. A szél nehezítette az oltást. A munkálatokat egy sárvári vízszállító jármű és egy munkagép is segítette.",
-          "location": "Kenyeri, 8611",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91367/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91367"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91366",
@@ -128,9 +130,9 @@
       "title": "Két jármű karambolozott Pécsváradnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91366",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6-os főút érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött egy személygépkocsi és egy kisteherautó Pécsváradnál, a 6-os főút 182-es kilométerénél. A pécsi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességben lezárták.",
+      "location": "Pécsvárad, 6",
       "updates": []
     },
     {
@@ -150,9 +152,9 @@
       "title": "Motor és autó ütközött a III. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
-      "lead": "A Szentendrei úton történt a baleset.",
-      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár Budapest III. kerületében, a Szentendrei úton, a Bogdáni út közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak a helyszínre. A társhatóság is az esethez érkezett.",
-      "location": "Budapest, Szentendrei út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -311,9 +313,9 @@
       "title": "Baleset történt Soroksáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91351",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Grassalkovich út elején két autó karambolozott.",
+      "body": "Összeütközött két személykocsi Budapest huszonharmadik kerületében, a Grassalkovich úton. A járművek akadályozzák a forgalmat. A két autóban összesen négyen ültek, az utasokhoz mentő érkezett. A fővárosi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Budapest, Grassalkovich út",
       "updates": []
     },
     {
@@ -333,9 +335,9 @@
       "title": "Mobil- és faház gyulladt ki Tóalmáson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91349",
-      "lead": "A Rezeda utcában nagykátai és helyi tűzoltók dolgoznak.",
-      "body": "Tűz ütött ki egy nagyjából harminc négyzetméteres faházba, illetve egy tizenöt négyzetméteres mobilházban Tóalmáson, a Rezeda utcában. Mindkét épület teljes terjedelmében égett. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, azonnal megkezdték az oltást. A munkához néhány perccel később csatlakozott három hivatásos nagykátai egység. A rajok több vízsugárral eloltották a tüzet, már az utómunkálatoknál tartanak.",
-      "location": "Tóalmás, Rezeda utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -366,9 +368,9 @@
       "title": "Baleset történt a 86-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91346",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 183-as kilométernél egy autó szántóföldre hajtott.",
+      "body": "Letért az úttestről és a szántóföldön állt meg egy személykocsi a 86-os főút 183-as kilométerénél. A baleset Újrónafő térségében történt, a mosonmagyaróvári hivatásos és a mosonszolnoki önkéntes tűzoltók végezték a műszaki mentést. Az autót kivontatták a 86-os főútra, amelynek forgalmát egy időre teljesen megállították, de már egy sávon lehet közlekedni.",
+      "location": "Újrónafő, 86",
       "updates": []
     },
     {
@@ -388,9 +390,9 @@
       "title": "Felborult egy autó a 65-ös főúton, Iregszemcse közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91344",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 55-56-os kilométer között történt balesethez tamási és iregszemcsei tűzoltók vonultak.",
+      "body": "Felborult egy személykocsi a 65-ös főút 55-56-os kilométere között, Iregszemcse közelében. A járműben csak a sofőr ült, ki tudott szállni az autóból. A tamási önkormányzati és az iregszemcsei önkéntes tűzoltók vonultak az esethez. A főúton az érintett szakaszon csak félpályán lehet közlekedni.",
+      "location": "Iregszemcse, 65",
       "updates": []
     },
     {
@@ -399,9 +401,9 @@
       "title": "Motor és autó ütközött a fővárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91343",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tizenkettedik kerületbe riasztották a tűzoltókat.",
+      "body": "Összeütközött egy motorkerékpár és egy személykocsi Budapest tizenkettedik kerületében, az Istenhegyi út és a Béla király út találkozásánál. Az esethez a fővárosi hivatásos tűzoltókat riasztották, és a társszervek is a helyszínre vonultak. A raj biztosítja a helyszínt.",
+      "location": "Budapest, Istenhegyi út",
       "updates": []
     },
     {
@@ -410,9 +412,9 @@
       "title": "Baleset történt Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91342",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Székely soron egy busz és egy személykocsi karambolozott.",
+      "body": "Összeütközött egy menetrend szerint közlekedő helyi járatos autóbusz egy személykocsival Szegeden, a Székely soron. A buszon a sofőrön kívül tizenöten utaztak, senkinek nem esett baja. A személyautó három utasához mentő érkezett. A vármegyeszékhely hivatásos tűzoltói végzik a műszaki mentést.",
+      "location": "Szeged, Székely sor",
       "updates": []
     },
     {
@@ -421,9 +423,9 @@
       "title": "Négyes karambol az M1-esen, Bicskénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91341",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 37-es kilométernél avatkoznak be a bicskei tűzoltók.",
+      "body": "Utoléréses balesetet szenvedett négy autó az M1-es sztráda 37-es kilométerénél, az átterelésnél. A járművekben összesen tizenegyen utaztak. A bicskei önkormányzati tűzoltók két járművet áramtalanítottak, ezeket autómentő szállítja majd el, a másik két gépkocsi tovább tud haladni. A helyszínre vonultak a társhatóságok is. A sztráda érintett szakaszán fennakadásra kell számítani.",
+      "location": "Bicske, M1",
       "updates": []
     },
     {
@@ -432,10 +434,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91340",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.26. 18:46",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91340/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91340"
+        }
+      ]
     },
     {
       "id": "91339",
@@ -443,9 +454,9 @@
       "title": "Karambol a 86-os főúton, Mosonudvaron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91339",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A főút és a Verseny utca kereszteződésében két személykocsi ütközött össze.",
+      "body": "Egymásba hajtott két autó a 86-os főút mosonudvari szakaszán, a Verseny utcai kereszteződésnél. A két kocsiban összesen négyen ültek, ki tudtak szállni az autóból. A mosonmagyaróvári hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Mosonudvar, 86",
       "updates": []
     },
     {
