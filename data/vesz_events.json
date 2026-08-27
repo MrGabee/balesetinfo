@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T10:50:16.809104+00:00",
-  "count": 3539,
+  "updated_at": "2026-08-27T10:53:18.636198+00:00",
+  "count": 3540,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91369",
+      "datetime": "2026.08.27. 12:51",
+      "title": "Karambolozott két autó Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91369",
+      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
+      "body": "Összeütközött két személyautó Pécsen, a Megyeri úton, a Mártírok útjánál. Az egyik járműbe beszorult egy ember. Őt feszítővágóval mentették ki a műszaki mentést végző pécsi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén forgalmi akadály van.",
+      "location": "Pécs, Megyeri út, Mártírok útja",
+      "updates": []
+    },
     {
       "id": "91368",
       "datetime": "2026.08.27. 12:13",
