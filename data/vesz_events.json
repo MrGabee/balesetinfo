@@ -1,12 +1,23 @@
 {
-  "updated_at": "2026-08-27T08:51:52.998197+00:00",
-  "count": 3535,
+  "updated_at": "2026-08-27T08:56:07.211568+00:00",
+  "count": 3536,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "91365",
+      "datetime": "2026.08.27. 10:52",
+      "title": "Karambol Ürömön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91365",
+      "lead": "Az Ürömi út egy szakaszát lezárták a baleset miatt.",
+      "body": "Egymásnak ütközött két személyautó Ürömön, az Ürömi úton, a Budai útnál. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen öten utaztak. A helyszínen vannak a mentők is. A baleset miatt teljes szélességében lezárták az érintett útszakaszt, ami a közösségi közlekedést is érinti.",
+      "location": "Üröm, Ürömi út",
+      "updates": []
+    },
+    {
       "id": "91364",
       "datetime": "2026.08.27. 10:44",
-      "title": "Motor és autó ütközött a III. kerületében",
+      "title": "Motor és autó ütközött a III. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
       "lead": "A Szentendrei úton történt a baleset.",
