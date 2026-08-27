@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T06:02:06.162360+00:00",
+  "updated_at": "2026-08-27T06:05:42.140382+00:00",
   "count": 3530,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,16 +78,7 @@
       "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
       "location": "Szigetszentmiklós, Szilvásutca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
-          "datetime": "2026.08.27. 01:14",
-          "category": "Tűzeset",
-          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
-          "location": "Szigetszentmiklós, Szilvásutca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91352",
@@ -95,9 +86,9 @@
       "title": "Motorosbaleset Szolnokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91352",
-      "lead": "Az ipari park mögötti területen álló kocsiba rohant egy motorkerékpár.",
-      "body": "Álló autóba csapódott egy motor Szolnokon, az ipari park mögötti területen. A helyszínen tartózkodók kihúzták a motorost a gépkocsi alól, a sofőrhöz mentő érkezett. A vármegyeszékhely hivatásos tűzoltói áramtalanították a kétkerekű járművet.",
-      "location": "Szolnok, Déri Miksa körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -150,9 +141,9 @@
       "title": "Tűz volt egy püspökladányi épületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91347",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A város tűzoltóit az Esze Tamás utcába riasztották.",
+      "body": "Berendezési tárgyak égtek egy családi házhoz épített melléképületben Püspökladányban. Az Esze Tamás utcai helyszínre a város hivatásos tűzoltóságának két egysége vonult. A tűzoltók vízsugárral, kéziszerszámokkal, légzésvédelem mellett avatkoztak be. Az ingatlanban ketten laknak, hozzájuk mentő érkezett.",
+      "location": "Püspökladány, Esze Tamás utca",
       "updates": []
     },
     {
@@ -161,9 +152,9 @@
       "title": "Baleset történt a 86-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91346",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 183-as kilométernél egy autó szántóföldre hajtott.",
+      "body": "Letért az úttestről és a szántóföldön állt meg egy személykocsi a 86-os főút 183-as kilométerénél. A baleset Újrónafő térségében történt, a mosonmagyaróvári hivatásos és a mosonszolnoki önkéntes tűzoltók végezték a műszaki mentést. Az autót kivontatták a 86-os főútra, amelynek forgalmát egy időre teljesen megállították, de már egy sávon lehet közlekedni.",
+      "location": "Újrónafő, 86",
       "updates": []
     },
     {
