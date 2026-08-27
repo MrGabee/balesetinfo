@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T14:01:05.214413+00:00",
+  "updated_at": "2026-08-27T14:04:53.349449+00:00",
   "count": 3548,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.27. 16:05",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91376/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91376"
+        }
+      ]
     },
     {
       "id": "91375",
@@ -86,9 +95,9 @@
       "title": "Árokba hajtott egy autó Martfűnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91370",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 442-es főútra riasztották a tűzoltókat.",
+      "body": "Árokba sodródott egy személyautó a 442-es főút Martfű és Rákócziújfalu közötti szakaszán. A járműben ketten utaztak, mindketten ki tudtak szállni, a mentők vizsgálják őket. A műszaki mentést végző tiszaföldvári önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Martfű, 442",
       "updates": []
     },
     {
@@ -366,9 +375,9 @@
       "title": "Tűz volt egy püspökladányi épületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91347",
-      "lead": "A város tűzoltóit az Esze Tamás utcába riasztották.",
-      "body": "Berendezési tárgyak égtek egy családi házhoz épített melléképületben Püspökladányban. Az Esze Tamás utcai helyszínre a város hivatásos tűzoltóságának két egysége vonult. A tűzoltók vízsugárral, kéziszerszámokkal, légzésvédelem mellett avatkoztak be. Az ingatlanban ketten laknak, hozzájuk mentő érkezett.",
-      "location": "Püspökladány, Esze Tamás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -377,9 +386,9 @@
       "title": "Baleset történt a 86-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91346",
-      "lead": "A 183-as kilométernél egy autó szántóföldre hajtott.",
-      "body": "Letért az úttestről és a szántóföldön állt meg egy személykocsi a 86-os főút 183-as kilométerénél. A baleset Újrónafő térségében történt, a mosonmagyaróvári hivatásos és a mosonszolnoki önkéntes tűzoltók végezték a műszaki mentést. Az autót kivontatták a 86-os főútra, amelynek forgalmát egy időre teljesen megállították, de már egy sávon lehet közlekedni.",
-      "location": "Újrónafő, 86",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -399,9 +408,9 @@
       "title": "Felborult egy autó a 65-ös főúton, Iregszemcse közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91344",
-      "lead": "Az 55-56-os kilométer között történt balesethez tamási és iregszemcsei tűzoltók vonultak.",
-      "body": "Felborult egy személykocsi a 65-ös főút 55-56-os kilométere között, Iregszemcse közelében. A járműben csak a sofőr ült, ki tudott szállni az autóból. A tamási önkormányzati és az iregszemcsei önkéntes tűzoltók vonultak az esethez. A főúton az érintett szakaszon csak félpályán lehet közlekedni.",
-      "location": "Iregszemcse, 65",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -474,9 +483,9 @@
       "title": "Árokba hajtott egy autó a 22-es főúton, Érsekvadkert és Rétság között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91338",
-      "lead": "A baleset az 5-6-os kilométer között történt.",
-      "body": "Letért az útról és árokba hajtott egy személykocsi a 22-es főút Rétság és Érsekvadkert közötti szakaszán. Az 5-6-os kilométer között balesetet szenvedett járműben hárman utaztak, mindannyian elhagyták az autót, mentő érkezett hozzájuk. A gépkocsit egy szabadnapos tűzoltó áramtalanította még a rétsági hivatásos tűzoltók megérkezése előtt. Az érintett szakaszon a főút forgalma félpályán halad.",
-      "location": "Pusztaberki, 22",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
