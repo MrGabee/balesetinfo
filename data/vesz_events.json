@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T17:54:19.158702+00:00",
+  "updated_at": "2026-08-27T18:03:08.461582+00:00",
   "count": 3556,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A tűzoltókat a Váltó útra riasztották.",
       "body": "Kigyulladt egy parasztház Jászberényben, a Váltó úton. Az épület tetőszerkezete ég. A helyi és a nagykátai hivatásos tűzoltók oltják a lángokat.",
       "location": "Jászberény, Váltó út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Jászberényben",
+          "datetime": "2026.08.27. 19:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Jászberényben, a Váltó úton, ahol egy parasztház tetőszerkezete égett. A helyi és a nagykátai hivatásos tűzoltók oltották el a lángokat. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is az esetnél dolgozik. A munkálatokat egy jászberényi vízszállító jármű is segíti.",
+          "location": "Jászberény, Váltó út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91384/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91384"
+        }
+      ]
     },
     {
       "id": "91383",
@@ -64,9 +73,9 @@
       "title": "Összeütközött két autó Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91380",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Tatabányán, a Búzavirág utcában. A járműveket egy szabadnapos tűzoltó áramtalanította a helyszínen. A tatabányai hivatásos tűzoltókat riasztották az esethez. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Tatabánya, Búzavirág utca",
       "updates": []
     },
     {
