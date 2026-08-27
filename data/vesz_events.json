@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T21:20:27.751937+00:00",
-  "count": 3558,
+  "updated_at": "2026-08-27T21:24:31.086145+00:00",
+  "count": 3559,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91388",
+      "datetime": "2026.08.27. 23:22",
+      "title": "Tűz keletkezett Tatárszentgyörgyön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91388",
+      "lead": "A Kinizsi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Tatárszentgyörgyön, a Kinizsi utcában, ahol mintegy százötven négyzetméteren összehordott szemét ég. A dabasi és a kecskeméti hivatásos tűzoltók oltják a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A munkálatokat egy erőgép is segíti.",
+      "location": "Tatárszentgyörgy, Kinizsi utca",
+      "updates": []
+    },
     {
       "id": "91387",
       "datetime": "2026.08.27. 22:32",
