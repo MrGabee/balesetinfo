@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T12:37:36.044383+00:00",
+  "updated_at": "2026-08-27T12:41:03.175840+00:00",
   "count": 3543,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -236,10 +236,19 @@
       "title": "Autómosó gyulladt ki Szigetszentmiklóson",
       "category": "Autómosó gyulladt ki Szigetszentmiklóson",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
+      "location": "Szigetszentmiklós, Szilvásutca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
+          "datetime": "2026.08.27. 01:14",
+          "category": "Tűzeset",
+          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
+          "location": "Szigetszentmiklós, Szilvásutca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
+        }
+      ]
     },
     {
       "id": "91352",
@@ -258,9 +267,9 @@
       "title": "Baleset történt Soroksáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91351",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Grassalkovich út elején két autó karambolozott.",
+      "body": "Összeütközött két személykocsi Budapest huszonharmadik kerületében, a Grassalkovich úton. A járművek akadályozzák a forgalmat. A két autóban összesen négyen ültek, az utasokhoz mentő érkezett. A fővárosi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Budapest, Grassalkovich út",
       "updates": []
     },
     {
@@ -269,9 +278,9 @@
       "title": "Lakóautó gyulladt ki Noszvaj és Bogács között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91350",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Tüzet fogott a mellette lévő száraz fű is.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy lakóautó a 2504-es úton, Noszvaj és Bogács között. A jármű tüze átterjedt a környezetében lévő száraz növényzetre is. A szomolyai önkéntes és az egri hivatásos tűzoltók vízsugarakkal és kéziszerszámokkal fékezték meg a lángokat.",
+      "location": "Noszvaj, 2504",
       "updates": []
     },
     {
@@ -280,9 +289,9 @@
       "title": "Mobil- és faház gyulladt ki Tóalmáson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91349",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rezeda utcában nagykátai és helyi tűzoltók dolgoznak.",
+      "body": "Tűz ütött ki egy nagyjából harminc négyzetméteres faházba, illetve egy tizenöt négyzetméteres mobilházban Tóalmáson, a Rezeda utcában. Mindkét épület teljes terjedelmében égett. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, azonnal megkezdték az oltást. A munkához néhány perccel később csatlakozott három hivatásos nagykátai egység. A rajok több vízsugárral eloltották a tüzet, már az utómunkálatoknál tartanak.",
+      "location": "Tóalmás, Rezeda utca",
       "updates": []
     },
     {
@@ -291,9 +300,9 @@
       "title": "Karambol az M5-ös sztrádán, Balástya térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91348",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 147-es kilométernél két autó ütközött össze.",
+      "body": "Egymásba hajtott két személykocsi az M5-ös autópálya Balástya-Forráskút csomópontjának közelében, a 147-es kilométernél. A főváros felé vezető oldalon történt balesetben négy ember érintett, az utasokhoz mentőt riasztottak. A szegedi hivatásos tűzoltók áramtalanítottak. A sztráda forgalma az érintett szakaszon egy sávon halad.",
+      "location": "Balástya, M5",
       "updates": []
     },
     {
@@ -302,9 +311,9 @@
       "title": "Tűz volt egy püspökladányi épületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91347",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A város tűzoltóit az Esze Tamás utcába riasztották.",
+      "body": "Berendezési tárgyak égtek egy családi házhoz épített melléképületben Püspökladányban. Az Esze Tamás utcai helyszínre a város hivatásos tűzoltóságának két egysége vonult. A tűzoltók vízsugárral, kéziszerszámokkal, légzésvédelem mellett avatkoztak be. Az ingatlanban ketten laknak, hozzájuk mentő érkezett.",
+      "location": "Püspökladány, Esze Tamás utca",
       "updates": []
     },
     {
@@ -313,9 +322,9 @@
       "title": "Baleset történt a 86-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91346",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 183-as kilométernél egy autó szántóföldre hajtott.",
+      "body": "Letért az úttestről és a szántóföldön állt meg egy személykocsi a 86-os főút 183-as kilométerénél. A baleset Újrónafő térségében történt, a mosonmagyaróvári hivatásos és a mosonszolnoki önkéntes tűzoltók végezték a műszaki mentést. Az autót kivontatták a 86-os főútra, amelynek forgalmát egy időre teljesen megállították, de már egy sávon lehet közlekedni.",
+      "location": "Újrónafő, 86",
       "updates": []
     },
     {
@@ -335,9 +344,9 @@
       "title": "Felborult egy autó a 65-ös főúton, Iregszemcse közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91344",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 55-56-os kilométer között történt balesethez tamási és iregszemcsei tűzoltók vonultak.",
+      "body": "Felborult egy személykocsi a 65-ös főút 55-56-os kilométere között, Iregszemcse közelében. A járműben csak a sofőr ült, ki tudott szállni az autóból. A tamási önkormányzati és az iregszemcsei önkéntes tűzoltók vonultak az esethez. A főúton az érintett szakaszon csak félpályán lehet közlekedni.",
+      "location": "Iregszemcse, 65",
       "updates": []
     },
     {
@@ -346,9 +355,9 @@
       "title": "Motor és autó ütközött a fővárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91343",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tizenkettedik kerületbe riasztották a tűzoltókat.",
+      "body": "Összeütközött egy motorkerékpár és egy személykocsi Budapest tizenkettedik kerületében, az Istenhegyi út és a Béla király út találkozásánál. Az esethez a fővárosi hivatásos tűzoltókat riasztották, és a társszervek is a helyszínre vonultak. A raj biztosítja a helyszínt.",
+      "location": "Budapest, Istenhegyi út",
       "updates": []
     },
     {
@@ -379,10 +388,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91340",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.26. 18:46",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91340/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91340"
+        }
+      ]
     },
     {
       "id": "91339",
@@ -390,9 +408,9 @@
       "title": "Karambol a 86-os főúton, Mosonudvaron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91339",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A főút és a Verseny utca kereszteződésében két személykocsi ütközött össze.",
+      "body": "Egymásba hajtott két autó a 86-os főút mosonudvari szakaszán, a Verseny utcai kereszteződésnél. A két kocsiban összesen négyen ültek, ki tudtak szállni az autóból. A mosonmagyaróvári hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Mosonudvar, 86",
       "updates": []
     },
     {
@@ -412,9 +430,9 @@
       "title": "Ráfutásos baleset az M0-áson, Vecsés és Üllő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91337",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az M1-es felé vezető oldal 39-es kilométeréhez riasztották a tűzoltókat.",
+      "body": "Ráfutásos balesetet szenvedett három gépkocsi az M0-ás autóút 39-es kilométerénél, az M1-es felé vezető oldalon. Az utolsó autó hűtővize elfolyt az ütközés következtében. A monori hivatásos tűzoltók végzik a műszaki mentést. A járművek elfoglalják a belső sávot, az autóút forgalma torlódik.",
+      "location": "Vecsés, M0",
       "updates": []
     },
     {
@@ -423,9 +441,9 @@
       "title": "Felborult egy kamion a 31-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91336",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 59-60-as kilométer között történt a baleset.",
+      "body": "Letért az úttestről és az árokban az oldalára borult egy gabonát szállító kamion a 31-es főúton, Nagykáta közelében. Az 59-60-as kilométer között történt balesethez a nagykátai hivatásos tűzoltók vonultak, az egység áramtalanította a járművet. A kamionban csak a sofőr ült, a helyszínre mentőt is riasztottak. A baleset miatt a főút forgalma csak egy sávon halad, torlódásra kell számítani.",
+      "location": "Nagykáta, 31",
       "updates": []
     },
     {
