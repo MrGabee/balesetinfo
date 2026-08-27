@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T06:05:42.140382+00:00",
+  "updated_at": "2026-08-27T06:09:30.644288+00:00",
   "count": 3530,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Felborult egy kamion az M5-ösön, Kunszállás térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91355",
-      "lead": "A főváros felé vezető oldal 103-as kilométerénél történt a baleset.",
-      "body": "Árokba borult egy autóalkatrészeket szállító kamion az M5-ös autópályán, Kunszállás térségében. A Budapest felé vezető oldal 103-as kilométerénél balesetet szenvedett járműben ketten utaztak, mindketten ki tudtak szállni a vezetőfülkéből. A kiskunfélegyházi hivatásos tűzoltókat riasztották az esethez, a helyszínen ott voltak a társhatóságok is.",
-      "location": "Kunszállás, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -78,7 +78,16 @@
       "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
       "location": "Szigetszentmiklós, Szilvásutca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
+          "datetime": "2026.08.27. 01:14",
+          "category": "Tűzeset",
+          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
+          "location": "Szigetszentmiklós, Szilvásutca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
+        }
+      ]
     },
     {
       "id": "91352",
@@ -86,9 +95,9 @@
       "title": "Motorosbaleset Szolnokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91352",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az ipari park mögötti területen álló kocsiba rohant egy motorkerékpár.",
+      "body": "Álló autóba csapódott egy motor Szolnokon, az ipari park mögötti területen. A helyszínen tartózkodók kihúzták a motorost a gépkocsi alól, a sofőrhöz mentő érkezett. A vármegyeszékhely hivatásos tűzoltói áramtalanították a kétkerekű járművet.",
+      "location": "Szolnok, Déri Miksa körút",
       "updates": []
     },
     {
@@ -394,9 +403,9 @@
       "title": "Karambol Óbudán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91328",
-      "lead": "A Lajos utca egy szakaszán forgalomkorlátozásra kell számítani.",
-      "body": "Összeütközött két személyautó Budapest III. kerületében, a Lajos utcában, a Galagonya utcánál. A műszaki mentést végző fővárosi hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen ketten utaztak. Az érintett útszakaszon, a Margit híd irányában forgalmi akadály van a belső sávban.",
-      "location": "Budapest, Lajos utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -405,9 +414,9 @@
       "title": "Lakástűz Tatabányán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91327",
-      "lead": "A Béla király körtérre riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy társasház egyik földszinti lakása Tatabányán, a Béla király körtéren. Az egyik szobában keletkezett tűz, amelyet két vízsugárral eloltottak a város hivatásos tűzoltói. A rajok megkezdték az utómunkálatokat.",
-      "location": "Tatabánya, Béla király körtér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -416,9 +425,9 @@
       "title": "Felborult egy autó Balatonalmádiban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91326",
-      "lead": "A Dózsa György útra a balatonfűzfői tűzoltókat riasztották.",
-      "body": "Felborult egy személygépkocsi Balatonalmádiban, a Dózsa György úton. A jármű egyedül utazó sofőrjéhez mentő érkezett. A balatonfűzfői hivatásos tűzoltók végzik a műszaki mentést.",
-      "location": "Balatonalmádi, Dózsa György út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -427,9 +436,9 @@
       "title": "Ráfutásos baleset az M0-ás autóúton, Nagytarcsa térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91325",
-      "lead": "Az 55-56-os kilométer között egy tehergépkocsi és egy kamion karambolozott.",
-      "body": "Ráfutásos balesetet szenvedett egy húst szállító teherautó és egy elektronikai eszközöket szállító kamion az M0-ás autóúton. Az 55-56-os kilométer között, Nagytarcsa térségében történt karambolhoz a fővárosi hivatásos tűzoltók vonultak, az egység áramtalanított. A helyszínre érkeztek a társhatóságok is. Az M3-as sztráda felé vezető oldal érintett szakaszán egy sávon halad a forgalom.",
-      "location": "Nagytarcsa, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
