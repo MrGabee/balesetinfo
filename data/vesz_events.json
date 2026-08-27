@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-26T23:59:38.230435+00:00",
-  "count": 3527,
+  "updated_at": "2026-08-27T00:03:22.115111+00:00",
+  "count": 3528,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91357",
+      "datetime": "2026.08.27. 02:00",
+      "title": "Baleset történt az M1-es autópályán, Tatabányánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91357",
+      "lead": "Az 52-53-as kilométer között két személykocsi karambolozott.",
+      "body": "Összeütközött két autó az M1-es sztráda országhatár felé vezető oldalán, Tatabánya térségében. Az 52-53-as kilométer között történt balesethez a vármegyeszékhely hivatásos tűzoltói vonultak. A két járműben összesen hatan utaztak, a helyszínre mentőt riasztottak. A gépkocsik akadályozzák az autópálya forgalmát.",
+      "location": "Tatabánya, M1",
+      "updates": []
+    },
     {
       "id": "91356",
       "datetime": "2026.08.27. 01:50",
