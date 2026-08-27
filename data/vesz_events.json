@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T15:27:44.853029+00:00",
-  "count": 3549,
+  "updated_at": "2026-08-27T15:31:42.992496+00:00",
+  "count": 3550,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91379",
+      "datetime": "2026.08.27. 17:29",
+      "title": "Két autó ütközött Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91379",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Zalaegerszegen, a Göcseji út és a Mártírok útja kereszteződésénél. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Zalaegerszeg, Mártírok útja",
+      "updates": []
+    },
     {
       "id": "91378",
       "datetime": "2026.08.27. 16:35",
