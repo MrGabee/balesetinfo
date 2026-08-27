@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T06:59:02.328198+00:00",
+  "updated_at": "2026-08-27T07:02:41.379569+00:00",
   "count": 3531,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Felborult egy kisteherautó Tényő külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91354",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Győrszemerei és győri tűzoltók vonultak az esethez.",
+      "body": "Lesodródott az úttestről, majd a tetejére borulva, egy út menti fának hajtott egy kisteherautó Tényő külterületén.  A jármű két utasához mentő érkezett. A helyszínre a győrszemerei önkéntes és a győri hivatásos tűzoltók vonultak. A forgalmat nem akadályozó járművet az egységek azután áramtalanítják majd, hogy kerekeire fordították azt. Az érintett útszakaszon tűzoltói irányítás mellett halad a forgalom.",
+      "location": "Tényő, 83127",
       "updates": []
     },
     {
@@ -360,24 +360,42 @@
     {
       "id": "91331",
       "datetime": "2026.08.26. 15:15 -",
-      "title": "1 db frissítés",
+      "title": "Villamosbaleset Budapest első kerületében",
       "category": "Villamosbaleset Budapest első kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91331",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Batthyány téren egy embert elütött a szerelvény.",
+      "body": "Elgázolt egy embert a villamos Budapesten, a Batthyány téren. A fővárosi hivatásos tűzoltók mentik ki a gyalogost a jármű alól. A BKK tájékoztatása alapján a baleset miatt a 41-es villamos terelve közlekedik, nem érinti a Rudas Gyógyfürdő és a Szent Lukács Gyógyfürdő közötti megállókat, a 19-es villamos pedig nem közlekedik a Komjádi Béla utca és a Batthyány tér között.",
+      "location": "Budapest, Batthyány tér",
+      "updates": [
+        {
+          "title": "Kiemelték a gyalogost a villamos alól",
+          "datetime": "2026.08.26. 15:28",
+          "category": "Közlekedési baleset",
+          "text": "A Budapest első kerületében, a Batthyány téren egy embert elütött a villamos. A járókelőt az első zsámoly alól a fővárosi hivatásos tűzoltók feszítővágó és emelők segítségével szabadították ki. Az egységek ezután visszahelyezték a villamost a sínre. A helyszínre mentő érkezett.",
+          "location": "Budapest, Batthyány tér",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91331/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91331"
+        }
+      ]
     },
     {
       "id": "91330",
       "datetime": "2026.08.26. 15:00 -",
-      "title": "1 db frissítés",
+      "title": "Ég az aljnövényzet Gyepűkaján közelében",
       "category": "Ég az aljnövényzet Gyepűkaján közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91330",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Nagy területet érint a tűz, helyenként a fák koronája is ég.",
+      "body": "Kigyulladt egy erdő aljnövényzete és egy bokros, füves rész Csabrendek és Gyepűkaján között. Nagy területet érint a tűz, és helyenként a fák koronája is ég. Az ajkai hivatásos, a sümegi önkormányzati és a csabrendeki önkéntes tűzoltók hat vízsugárral és kéziszerszámokkal oltják a lángokat. A helyszínre indult több más egység is.",
+      "location": "Gyepükaján, Csabrendek és Gyepűkaján között",
+      "updates": [
+        {
+          "title": "Eloltották a gyepűkajáni tüzet",
+          "datetime": "2026.08.26. 16:26",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Csabrendek és Gyepűkaján között, ahol kigyulladt egy erdő aljnövényzete és egy bokros, füves terület. Valamivel több, mint tíz hektár égett le. Az ajkai, a keszthelyi és a badacsonytomaji hivatásos, a sümegi önkormányzati, a csabrendeki és a sümegi önkéntes tűzoltók, valamint a celldömölki Kráter Önkéntes Tűzoltó Egyesület önkéntesei fékeztek meg a lángokat. A munkálatokat egy keszthelyi és egy ajkai vízszállító jármű és erőgép is segítette. A rajok utómunkálatokat végeznek.",
+          "location": "Gyepükaján, Csabrendek és Gyepűkaján között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91330/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91330"
+        }
+      ]
     },
     {
       "id": "91329",
@@ -385,9 +403,9 @@
       "title": "Baleset történt Pesterzsébeten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91329",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagysándor József utcában két autó karambolozott és elsodortak egy gyalogost is.",
+      "body": "Egymásba hajtott egy kisteherautó és egy személykocsi Budapest huszadik kerületében. A Nagysándor József és a Fás utca kereszteződésénél történt utoléréses balesetnél a kisebbik jármű a zebra felé sodródott, és elütött egy gyalogost. A fővárosi hivatásos tűzoltók vonultak az esethez, a helyszínre mentőt is riasztottak.",
+      "location": "Budapest, Nagysándor József utca",
       "updates": []
     },
     {
