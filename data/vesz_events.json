@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T12:20:14.881077+00:00",
-  "count": 3542,
+  "updated_at": "2026-08-27T12:23:57.202995+00:00",
+  "count": 3543,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91372",
+      "datetime": "2026.08.27. 14:22",
+      "title": "Karambol Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91372",
+      "lead": "A Dorozsmai úton történt a baleset.",
+      "body": "Karambolozott egy busz és egy személyautó Szeged határában, a Dorozsmai úton, az 52. kilométer közelében. A szegedi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az egységek áramtalanították a járműveket. A buszon harmincan utaztak, mindannyian továbbmentek egy mentesítő járattal. A baleset helyszínén forgalmi akadály lehet.",
+      "location": "Szeged, Dorozsmai út",
+      "updates": []
+    },
     {
       "id": "91371",
       "datetime": "2026.08.27. 14:08",
