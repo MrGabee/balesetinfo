@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T12:05:32.302462+00:00",
-  "count": 3540,
+  "updated_at": "2026-08-27T12:09:24.579901+00:00",
+  "count": 3542,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91371",
+      "datetime": "2026.08.27. 14:08",
+      "title": "Erkélytűz Keszthelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91371",
+      "lead": "A Fodor utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy társasházi lakás Keszthelyen, a Fodor utcában. Az ingatlan erkélyén hat négyzetméteren berendezési tárgyak égtek. A tűz három négyzetméteren átterjedt a lakás egyik szobájára is, ahol szintén berendezési tárgyak kaptak lángra, valamint a füst a szomszédos lakást is érintette. A keszthelyi és a marcali hivatásos tűzoltók a Zala vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a lángokat. A munkálatokat egy helyi vízszállító jármű is segíti. A rajok utómunkálatokat végeznek a helyszínen.",
+      "location": "Keszthely, Fodor utca",
+      "updates": []
+    },
     {
       "id": "91370",
       "datetime": "2026.08.27. 12:56",
@@ -84,9 +95,9 @@
       "title": "Motor és autó ütközött a III. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
-      "lead": "A Szentendrei úton történt a baleset.",
-      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár Budapest III. kerületében, a Szentendrei úton, a Bogdáni út közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak a helyszínre. A társhatóság is az esethez érkezett.",
-      "location": "Budapest, Szentendrei út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -106,9 +117,9 @@
       "title": "Karambol Szécsénynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91362",
-      "lead": "Kisbusz és személyautó ütközött.",
-      "body": "Összeütközött egy személygépkocsi és egy kisbusz Szécsény külterületén, a 22-es főúton, a 21134-es út kereszteződésénél. A szécsényi hivatásos tűzoltókat riasztották az esethez. A társhatóságokat is a helyszínre várják.",
-      "location": "Szécsény, 22",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -117,9 +128,9 @@
       "title": "Három gépkocsi karambolozott Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91361",
-      "lead": "A 610-es főút egy szakaszán lassítja a forgalmat a baleset.",
-      "body": "Összeütközött két személygépkocsi és egy furgon a 610-es főúton, Kaposváron, a Kőhárs utca közelében. A város hivatásos tűzoltói áramtalanítják a személyautókat. A járművekben összesen négyen utaztak, mindannyian ki tudtak szállni. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kaposvár, 610",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -131,6 +142,17 @@
       "lead": "A Régi Főti út és a Cserba Elemér út sarkán három jármű ütközött össze.",
       "body": "Egymásba hajtott három jármű Budapest tizenötödik kerületében. A Régi Fóti út és a Cserba Elemér út kereszteződésénél történt balesethez a fővárosi hivatásos tűzoltók vonultak. A járművek akadályozzák a forgalmat.",
       "location": "Budapest, Régi Fóti út",
+      "updates": []
+    },
+    {
+      "id": "91359",
+      "datetime": "2026.08.27. 06:36 -",
+      "title": "1 db frissítés",
+      "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91359",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -377,9 +399,9 @@
       "title": "Árokba hajtott egy autó a 22-es főúton, Érsekvadkert és Rétság között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91338",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset az 5-6-os kilométer között történt.",
+      "body": "Letért az útról és árokba hajtott egy személykocsi a 22-es főút Rétság és Érsekvadkert közötti szakaszán. Az 5-6-os kilométer között balesetet szenvedett járműben hárman utaztak, mindannyian elhagyták az autót, mentő érkezett hozzájuk. A gépkocsit egy szabadnapos tűzoltó áramtalanította még a rétsági hivatásos tűzoltók megérkezése előtt. Az érintett szakaszon a főút forgalma félpályán halad.",
+      "location": "Pusztaberki, 22",
       "updates": []
     },
     {
@@ -388,9 +410,9 @@
       "title": "Ráfutásos baleset az M0-áson, Vecsés és Üllő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91337",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az M1-es felé vezető oldal 39-es kilométeréhez riasztották a tűzoltókat.",
+      "body": "Ráfutásos balesetet szenvedett három gépkocsi az M0-ás autóút 39-es kilométerénél, az M1-es felé vezető oldalon. Az utolsó autó hűtővize elfolyt az ütközés következtében. A monori hivatásos tűzoltók végzik a műszaki mentést. A járművek elfoglalják a belső sávot, az autóút forgalma torlódik.",
+      "location": "Vecsés, M0",
       "updates": []
     },
     {
