@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T06:14:23.916411+00:00",
-  "count": 3530,
+  "updated_at": "2026-08-27T06:18:23.088005+00:00",
+  "count": 3531,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91360",
+      "datetime": "2026.08.27. 08:15",
+      "title": "Karambol Budapest tizenötödik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91360",
+      "lead": "A Régi Főti út és a Cserba Elemér út sarkán három jármű ütközött össze.",
+      "body": "Egymásba hajtott három jármű Budapest tizenötödik kerületében. A Régi Fóti út és a Cserba Elemér út kereszteződésénél történt balesethez a fővárosi hivatásos tűzoltók vonultak. A járművek akadályozzák a forgalmat.",
+      "location": "Budapest, Régi Fóti út",
+      "updates": []
+    },
     {
       "id": "91359",
       "datetime": "2026.08.27. 06:36",
