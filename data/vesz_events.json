@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T20:31:52.512525+00:00",
-  "count": 3557,
+  "updated_at": "2026-08-27T20:35:19.198197+00:00",
+  "count": 3558,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91387",
+      "datetime": "2026.08.27. 22:32",
+      "title": "Melléképület égett Kunmadarason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91387",
+      "lead": "A Budai Nagy Antal utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy melléképület Kunmadarason, a Budai Nagy Antal utcába. A tizennyolc négyzetméteres épület teljes terjedelmében égett. A tiszafüredi és a püspökladányi hivatásos tűzoltók, valamint egy karcagi vízszállító dolgozik az esetnél. A rajok két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
+      "location": "Kunmadaras, Budai Nagy Antal utca",
+      "updates": []
+    },
     {
       "id": "91386",
       "datetime": "2026.08.27. 21:27",
