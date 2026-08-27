@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T14:32:29.286869+00:00",
-  "count": 3548,
+  "updated_at": "2026-08-27T14:35:51.625817+00:00",
+  "count": 3549,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91378",
+      "datetime": "2026.08.27. 16:35",
+      "title": "Autótűz a XVI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91378",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Budapest YVI. kerületében, a Szabadság utcában. A jármű teljes terjedelmében égett. A fővárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Budapest, Szabadság utca",
+      "updates": []
+    },
     {
       "id": "91377",
       "datetime": "2026.08.27. 15:54",
@@ -58,14 +69,23 @@
     },
     {
       "id": "91373",
-      "datetime": "2026.08.27. 14:46",
+      "datetime": "2026.08.27. 14:46 -",
       "title": "Baleset történt az M3-as mindkét oldalán",
-      "category": "Közlekedési baleset",
+      "category": "Baleset történt az M3-as mindkét oldalán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91373",
       "lead": "Kál közelében dolgoznak a tűzoltók. A Nyíregyháza félé vezető oldalon a száraz fű is kigyulladt.",
       "body": "Két karambol és egy tűzeset is történt az M3-as autópályán, Kál közelében, a 101. és a 102. kilométer között. Előbb a Nyíregyháza felé vezető oldalon ütközött össze két autó, és mintegy három hektáron a száraz fű is kigyulladt. A gyöngyösi hivatásos tűzoltók egyik raja a műszaki mentést végzi a balesetnél, egy másik pedig egy hevesi vízszállító jármű segítségével oltja a lángokat. Az autópálya másik oldalán három személygépkocsi karambolozott. Ott a füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az sztráda érintett szakaszán mindkét oldalon forgalomkorlátozásra kell számítani.",
       "location": "Kál, M3",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nem terjed tovább a tűz az M3-asnál",
+          "datetime": "2026.08.27. 16:35",
+          "category": "Közlekedési baleset",
+          "text": "Megakadályozták a tűz továbbterjedését az M3-as autópálya Nyíregyháza felé vezető oldala mellett, Kál közelében, a 101. és a 102. kilométer között, ahol kigyulladt és két-három hektáron égett a száraz fű, valamint egy erdő aljnövényzete. Egy állattartó telepre is átterjedt a tűz, amelyet a gyöngyösi, a hevesi és a füzesabonyi hivatásos tűzoltók egy hevesi vízszállító jármű segítségével, a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak. Korábban ugyanezen a helyszínen, a sztráda mindkét oldalán történt egy-egy karambol, amelynél ugyancsak a gyöngyösi, valamint a füzesabonyi hivatásos tűzoltók végezték a műszaki mentést.",
+          "location": "Kál, M3",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91373/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91373"
+        }
+      ]
     },
     {
       "id": "91372",
