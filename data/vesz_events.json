@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T13:57:20.482227+00:00",
+  "updated_at": "2026-08-27T14:01:05.214413+00:00",
   "count": 3548,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Baleset történt az M3-as mindkét oldalán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91373",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kál közelében dolgoznak a tűzoltók. A Nyíregyháza félé vezető oldalon a száraz fű is kigyulladt.",
+      "body": "Két karambol és egy tűzeset is történt az M3-as autópályán, Kál közelében, a 101. és a 102. kilométer között. Előbb a Nyíregyháza felé vezető oldalon ütközött össze két autó, és mintegy három hektáron a száraz fű is kigyulladt. A gyöngyösi hivatásos tűzoltók egyik raja a műszaki mentést végzi a balesetnél, egy másik pedig egy hevesi vízszállító jármű segítségével oltja a lángokat. Az autópálya másik oldalán három személygépkocsi karambolozott. Ott a füzesabonyi hivatásos tűzoltók áramtalanítják a járműveket. Az sztráda érintett szakaszán mindkét oldalon forgalomkorlátozásra kell számítani.",
+      "location": "Kál, M3",
       "updates": []
     },
     {
@@ -64,9 +64,9 @@
       "title": "Karambol Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91372",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dorozsmai úton történt a baleset.",
+      "body": "Karambolozott egy busz és egy személyautó Szeged határában, a Dorozsmai úton, az 52. kilométer közelében. A szegedi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az egységek áramtalanították a járműveket. A buszon harmincan utaztak, mindannyian továbbmentek egy mentesítő járattal. A baleset helyszínén forgalmi akadály lehet.",
+      "location": "Szeged, Dorozsmai út",
       "updates": []
     },
     {
@@ -75,9 +75,9 @@
       "title": "Erkélytűz Keszthelyen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91371",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Fodor utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy társasházi lakás Keszthelyen, a Fodor utcában. Az ingatlan erkélyén hat négyzetméteren berendezési tárgyak égtek. A tűz három négyzetméteren átterjedt a lakás egyik szobájára is, ahol szintén berendezési tárgyak kaptak lángra, valamint a füst a szomszédos lakást is érintette. A keszthelyi és a marcali hivatásos tűzoltók a Zala vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el a lángokat. A munkálatokat egy helyi vízszállító jármű is segíti. A rajok utómunkálatokat végeznek a helyszínen.",
+      "location": "Keszthely, Fodor utca",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Karambolozott két autó Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91369",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
+      "body": "Összeütközött két személyautó Pécsen, a Megyeri úton, a Mártírok útjánál. Az egyik járműbe beszorult egy ember. Őt feszítővágóval mentették ki a műszaki mentést végző pécsi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén forgalmi akadály van.",
+      "location": "Pécs, Megyeri út, Mártírok útja",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Baleset történt a 4628-as úton, Tiszaföldvárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91368",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Letért az útról és az árokba hajtott egy személygépkocsi Tiszaföldvárnál, a 4628-as út 4-es kilométerénél. A baleset következtében egy távközlési oszlopot is megrongált az autó. A tiszaföldvári önkormányzati tűzoltók egy embert feszítővágó segítségével emeltek ki a járműből és átadták a mentőszolgálatnak. A rajok áramtalanították az autót. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tiszaföldvár, 4628",
       "updates": []
     },
     {
@@ -122,7 +122,16 @@
       "lead": "A szél nehezíti az oltást.",
       "body": "Kigyulladt a száraz fű és az aljnövényzet Kenyeri külterületén, a 8611-es út 29-es kilométerénél. A sárvári hivatásos és a kenyeri, valamint a pápoci önkéntes tűzoltók oltják a lángokat. A szél nehezíti a munkálatokat. Az érintett útszakaszt teljes szélességben lezárták.",
       "location": "Kenyeri, 8611",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kenyeri külterületén",
+          "datetime": "2026.08.27. 12:27",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Kenyeri külterületén, a 8611-es út 29-es kilométerénél, ahol az árokpart égett. A sárvári hivatásos, a csöngei és a kenyeri, valamint a pápoci önkéntes tűzoltók fékezték meg a tüzet. A szél nehezítette az oltást. A munkálatokat egy sárvári vízszállító jármű és egy munkagép is segítette.",
+          "location": "Kenyeri, 8611",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91367/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91367"
+        }
+      ]
     },
     {
       "id": "91366",
@@ -152,9 +161,9 @@
       "title": "Motor és autó ütközött a III. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szentendrei úton történt a baleset.",
+      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár Budapest III. kerületében, a Szentendrei úton, a Bogdáni út közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak a helyszínre. A társhatóság is az esethez érkezett.",
+      "location": "Budapest, Szentendrei út",
       "updates": []
     },
     {
@@ -335,9 +344,9 @@
       "title": "Mobil- és faház gyulladt ki Tóalmáson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91349",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rezeda utcában nagykátai és helyi tűzoltók dolgoznak.",
+      "body": "Tűz ütött ki egy nagyjából harminc négyzetméteres faházba, illetve egy tizenöt négyzetméteres mobilházban Tóalmáson, a Rezeda utcában. Mindkét épület teljes terjedelmében égett. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, azonnal megkezdték az oltást. A munkához néhány perccel később csatlakozott három hivatásos nagykátai egység. A rajok több vízsugárral eloltották a tüzet, már az utómunkálatoknál tartanak.",
+      "location": "Tóalmás, Rezeda utca",
       "updates": []
     },
     {
@@ -346,9 +355,9 @@
       "title": "Karambol az M5-ös sztrádán, Balástya térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91348",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 147-es kilométernél két autó ütközött össze.",
+      "body": "Egymásba hajtott két személykocsi az M5-ös autópálya Balástya-Forráskút csomópontjának közelében, a 147-es kilométernél. A főváros felé vezető oldalon történt balesetben négy ember érintett, az utasokhoz mentőt riasztottak. A szegedi hivatásos tűzoltók áramtalanítottak. A sztráda forgalma az érintett szakaszon egy sávon halad.",
+      "location": "Balástya, M5",
       "updates": []
     },
     {
@@ -357,9 +366,9 @@
       "title": "Tűz volt egy püspökladányi épületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91347",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A város tűzoltóit az Esze Tamás utcába riasztották.",
+      "body": "Berendezési tárgyak égtek egy családi házhoz épített melléképületben Püspökladányban. Az Esze Tamás utcai helyszínre a város hivatásos tűzoltóságának két egysége vonult. A tűzoltók vízsugárral, kéziszerszámokkal, légzésvédelem mellett avatkoztak be. Az ingatlanban ketten laknak, hozzájuk mentő érkezett.",
+      "location": "Püspökladány, Esze Tamás utca",
       "updates": []
     },
     {
