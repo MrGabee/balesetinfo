@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T12:09:24.579901+00:00",
+  "updated_at": "2026-08-27T12:13:02.656886+00:00",
   "count": 3542,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Motor és autó ütközött a III. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szentendrei úton történt a baleset.",
+      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár Budapest III. kerületében, a Szentendrei úton, a Bogdáni út közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak a helyszínre. A társhatóság is az esethez érkezett.",
+      "location": "Budapest, Szentendrei út",
       "updates": []
     },
     {
@@ -117,9 +117,9 @@
       "title": "Karambol Szécsénynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91362",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kisbusz és személyautó ütközött.",
+      "body": "Összeütközött egy személygépkocsi és egy kisbusz Szécsény külterületén, a 22-es főúton, a 21134-es út kereszteződésénél. A szécsényi hivatásos tűzoltókat riasztották az esethez. A társhatóságokat is a helyszínre várják.",
+      "location": "Szécsény, 22",
       "updates": []
     },
     {
@@ -128,9 +128,9 @@
       "title": "Három gépkocsi karambolozott Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91361",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 610-es főút egy szakaszán lassítja a forgalmat a baleset.",
+      "body": "Összeütközött két személygépkocsi és egy furgon a 610-es főúton, Kaposváron, a Kőhárs utca közelében. A város hivatásos tűzoltói áramtalanítják a személyautókat. A járművekben összesen négyen utaztak, mindannyian ki tudtak szállni. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposvár, 610",
       "updates": []
     },
     {
@@ -147,13 +147,22 @@
     {
       "id": "91359",
       "datetime": "2026.08.27. 06:36 -",
-      "title": "1 db frissítés",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91359",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.27. 14:05",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91359/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91359"
+        }
+      ]
     },
     {
       "id": "91358",
