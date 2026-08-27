@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T05:55:01.021738+00:00",
+  "updated_at": "2026-08-27T05:59:03.645332+00:00",
   "count": 3530,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,16 +78,7 @@
       "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
       "location": "Szigetszentmiklós, Szilvásutca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
-          "datetime": "2026.08.27. 01:14",
-          "category": "Tűzeset",
-          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
-          "location": "Szigetszentmiklós, Szilvásutca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91352",
@@ -150,9 +141,9 @@
       "title": "Tűz volt egy püspökladányi épületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91347",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A város tűzoltóit az Esze Tamás utcába riasztották.",
+      "body": "Berendezési tárgyak égtek egy családi házhoz épített melléképületben Püspökladányban. Az Esze Tamás utcai helyszínre a város hivatásos tűzoltóságának két egysége vonult. A tűzoltók vízsugárral, kéziszerszámokkal, légzésvédelem mellett avatkoztak be. Az ingatlanban ketten laknak, hozzájuk mentő érkezett.",
+      "location": "Püspökladány, Esze Tamás utca",
       "updates": []
     },
     {
@@ -161,9 +152,9 @@
       "title": "Baleset történt a 86-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91346",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 183-as kilométernél egy autó szántóföldre hajtott.",
+      "body": "Letért az úttestről és a szántóföldön állt meg egy személykocsi a 86-os főút 183-as kilométerénél. A baleset Újrónafő térségében történt, a mosonmagyaróvári hivatásos és a mosonszolnoki önkéntes tűzoltók végezték a műszaki mentést. Az autót kivontatták a 86-os főútra, amelynek forgalmát egy időre teljesen megállították, de már egy sávon lehet közlekedni.",
+      "location": "Újrónafő, 86",
       "updates": []
     },
     {
@@ -403,9 +394,9 @@
       "title": "Karambol Óbudán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91328",
-      "lead": "A Lajos utca egy szakaszán forgalomkorlátozásra kell számítani.",
-      "body": "Összeütközött két személyautó Budapest III. kerületében, a Lajos utcában, a Galagonya utcánál. A műszaki mentést végző fővárosi hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen ketten utaztak. Az érintett útszakaszon, a Margit híd irányában forgalmi akadály van a belső sávban.",
-      "location": "Budapest, Lajos utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -425,9 +416,9 @@
       "title": "Felborult egy autó Balatonalmádiban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91326",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dózsa György útra a balatonfűzfői tűzoltókat riasztották.",
+      "body": "Felborult egy személygépkocsi Balatonalmádiban, a Dózsa György úton. A jármű egyedül utazó sofőrjéhez mentő érkezett. A balatonfűzfői hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Balatonalmádi, Dózsa György út",
       "updates": []
     },
     {
@@ -436,9 +427,9 @@
       "title": "Ráfutásos baleset az M0-ás autóúton, Nagytarcsa térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91325",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 55-56-os kilométer között egy tehergépkocsi és egy kamion karambolozott.",
+      "body": "Ráfutásos balesetet szenvedett egy húst szállító teherautó és egy elektronikai eszközöket szállító kamion az M0-ás autóúton. Az 55-56-os kilométer között, Nagytarcsa térségében történt karambolhoz a fővárosi hivatásos tűzoltók vonultak, az egység áramtalanított. A helyszínre érkeztek a társhatóságok is. Az M3-as sztráda felé vezető oldal érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Nagytarcsa, M0",
       "updates": []
     },
     {
@@ -480,19 +471,10 @@
       "title": "Ég egy nádas Tiszaburán",
       "category": "Ég egy nádas Tiszaburán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91321",
-      "lead": "A Táncsics Mihály utca közelében kell beavatkozniuk a tűzoltóknak.",
-      "body": "Kigyulladt a nádas egy kiszáradt tó medrében, Tiszaburán, a Táncsics Mihály utca közelében. Mintegy másfél-két hektárt érint, és lakóházak felé is terjed a tűz, amelyet az abádszalóki önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
-      "location": "Tiszabura, Táncsics Mihály utca",
-      "updates": [
-        {
-          "title": "Nincs már tűz Tiszaburán",
-          "datetime": "2026.08.26. 11:04",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Tiszaburán, a Táncsics Mihály utca közelében, ahol kigyulladt a nádas egy kiszáradt tó medrében. Mintegy másfél-két hektárt érintett, és lakóházak, valamint egy száraz, füves terület felé terjedt a tűz. A tiszafüredi és a karcagi hivatásos, valamint az abádszalóki önkormányzati tűzoltók egy-egy tiszafüredi és mezőkövesdi vízszállító jármű segítségével, a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. A tűzoltást egy munkagép is segítette. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Tiszabura, Táncsics Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91321/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91321"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91320",
@@ -500,9 +482,9 @@
       "title": "Ráfutásos baleset az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91320",
-      "lead": "Füzesabony közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött egy személygépkocsi és egy teherautó az M3-as autópálya Nyíregyháza felé vezető oldalán, Füzesabony közelében. Ráfutásos baleset történt, amelyhez a füzesabonyi hivatásos tűzoltókat riasztották. A raj áramtalanította a személyautót. Az érintett sztrádaszakaszon a leállósávban, szakaszosan halad a forgalom.",
-      "location": "Füzesabony, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
