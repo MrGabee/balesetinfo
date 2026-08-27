@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T17:07:25.041049+00:00",
-  "count": 3554,
+  "updated_at": "2026-08-27T17:10:33.810564+00:00",
+  "count": 3555,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91384",
+      "datetime": "2026.08.27. 19:10",
+      "title": "Parasztház ég Jászberényben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91384",
+      "lead": "A tűzoltókat a Váltó útra riasztották.",
+      "body": "Kigyulladt egy parasztház Jászberényben, a Váltó úton. Az épület tetőszerkezete ég. A helyi és a nagykátai hivatásos tűzoltók oltják a lángokat.",
+      "location": "Jászberény, Váltó út",
+      "updates": []
+    },
     {
       "id": "91383",
       "datetime": "2026.08.27. 18:59",
@@ -141,10 +152,10 @@
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91373/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91373"
         },
         {
-          "title": "Nem terjed tovább a tűz az M3-asnál",
-          "datetime": "2026.08.27. 16:35",
+          "title": "Eloltották a lángokat az M3-asnál",
+          "datetime": "2026.08.27. 19:06",
           "category": "Közlekedési baleset",
-          "text": "Megakadályozták a tűz továbbterjedését az M3-as autópálya Nyíregyháza felé vezető oldala mellett, Kál közelében, a 101. és a 102. kilométer között, ahol kigyulladt és két-három hektáron égett a száraz fű, valamint egy erdő aljnövényzete. Egy állattartó telepre is átterjedt a tűz, amelyet a gyöngyösi, a hevesi és a füzesabonyi hivatásos tűzoltók egy hevesi vízszállító jármű segítségével, a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak. Korábban ugyanezen a helyszínen, a sztráda mindkét oldalán történt egy-egy karambol, amelynél ugyancsak a gyöngyösi, valamint a füzesabonyi hivatásos tűzoltók végezték a műszaki mentést.",
+          "text": "Eloltották a lángokat az M3-as autópálya Nyíregyháza felé vezető oldala mellett, Kál közelében, a 101-es és 102-es kilométer között, ahol mintegy három hektáron száraz fű és egy erdő aljnövényzete égett. A tűz egy állattartó telepet is érintett. A gyöngyösi, a hevesi és a füzesabonyi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. Az oltást egy hevesi vízszállító jármű is segítette. Korábban ugyanezen a helyszínen, a sztráda mindkét oldalán történt egy-egy karambol, amelynél ugyancsak a gyöngyösi, valamint a füzesabonyi hivatásos tűzoltók végezték a műszaki mentést.",
           "location": "Kál, M3",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91373/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91373"
         }
