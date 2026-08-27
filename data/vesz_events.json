@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T16:26:12.177485+00:00",
-  "count": 3551,
+  "updated_at": "2026-08-27T16:29:37.769196+00:00",
+  "count": 3552,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91381",
+      "datetime": "2026.08.27. 18:26",
+      "title": "Hármas karambol az Árpád hídon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91381",
+      "lead": "A híd Buda felé vezető szakaszán történt a baleset.",
+      "body": "Összeütközött három személygépkocsi Budapest XIII. kerületében, az Árpád hídon, a Buda felé vezető oldalán. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Árpád híd",
+      "updates": []
+    },
     {
       "id": "91380",
       "datetime": "2026.08.27. 18:09",
