@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-27T07:39:08.624053+00:00",
-  "count": 3531,
+  "updated_at": "2026-08-27T07:42:52.198171+00:00",
+  "count": 3533,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91362",
+      "datetime": "2026.08.27. 09:41",
+      "title": "Karambol Szécsénynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91362",
+      "lead": "Kisbusz és személyautó ütközött.",
+      "body": "Összeütközött egy személygépkocsi és egy kisbusz Szécsény külterületén, a 22-es főúton, a 21134-es út kereszteződésénél. A szécsényi hivatásos tűzoltókat riasztották az esethez. A társhatóságokat is a helyszínre várják.",
+      "location": "Szécsény, 22",
+      "updates": []
+    },
+    {
+      "id": "91361",
+      "datetime": "2026.08.27. 09:41",
+      "title": "Három gépkocsi karambolozott Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91361",
+      "lead": "A 610-es főút egy szakaszán lassítja a forgalmat a baleset.",
+      "body": "Összeütközött két személygépkocsi és egy furgon a 610-es főúton, Kaposváron, a Kőhárs utca közelében. A város hivatásos tűzoltói áramtalanítják a személyautókat. A járművekben összesen négyen utaztak, mindannyian ki tudtak szállni. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposvár, 610",
+      "updates": []
+    },
     {
       "id": "91360",
       "datetime": "2026.08.27. 08:15",
