@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T16:08:32.776745+00:00",
-  "count": 3550,
+  "updated_at": "2026-08-27T16:12:09.254969+00:00",
+  "count": 3551,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91380",
+      "datetime": "2026.08.27. 18:09",
+      "title": "Összeütközött két autó Tatabányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91380",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Tatabányán, a Búzavirág utcában. A járműveket egy szabadnapos tűzoltó áramtalanította a helyszínen. A tatabányai hivatásos tűzoltókat riasztották az esethez. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Tatabánya, Búzavirág utca",
+      "updates": []
+    },
     {
       "id": "91379",
       "datetime": "2026.08.27. 17:29",
