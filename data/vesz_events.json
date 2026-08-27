@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-27T04:32:10.215366+00:00",
-  "count": 3528,
+  "updated_at": "2026-08-27T04:35:40.013635+00:00",
+  "count": 3529,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91358",
+      "datetime": "2026.08.27. 06:34",
+      "title": "Tűz egy üzemben Debrecen mellett",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91358",
+      "lead": "Egy pizzagyártó cég kemencéje gyulladt ki a Madár utcában.",
+      "body": "Kigyulladt a kemence elszívóberendezése egy pizzagyártó üzemben Debrecen mellett, a 471-es főút 5-ös kilométerének közvetlen közelében. A Madár utcai helyszínre a vármegyeszékhely hivatásos tűzoltóságának két gépjárműfecskendőjét, illetve a vízszállítót riasztották. Mire a rajok odaértek, a lángokat a dolgozók már elfojtották, az egységek átvizsgálják, illetve megbontják a légtechnikai berendezést. A tűz keletkezésekor negyvenkilencen tartózkodtak az épületben, mindannyian elhagyták azt.",
+      "location": "Debrecen, Madár utca",
+      "updates": []
+    },
     {
       "id": "91357",
       "datetime": "2026.08.27. 02:00",
