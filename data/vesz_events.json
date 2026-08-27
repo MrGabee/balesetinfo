@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T17:38:33.344181+00:00",
+  "updated_at": "2026-08-27T17:42:04.751347+00:00",
   "count": 3556,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -236,16 +236,7 @@
       "lead": "A szél nehezíti az oltást.",
       "body": "Kigyulladt a száraz fű és az aljnövényzet Kenyeri külterületén, a 8611-es út 29-es kilométerénél. A sárvári hivatásos és a kenyeri, valamint a pápoci önkéntes tűzoltók oltják a lángokat. A szél nehezíti a munkálatokat. Az érintett útszakaszt teljes szélességben lezárták.",
       "location": "Kenyeri, 8611",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Kenyeri külterületén",
-          "datetime": "2026.08.27. 12:27",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Kenyeri külterületén, a 8611-es út 29-es kilométerénél, ahol az árokpart égett. A sárvári hivatásos, a csöngei és a kenyeri, valamint a pápoci önkéntes tűzoltók fékezték meg a tüzet. A szél nehezítette az oltást. A munkálatokat egy sárvári vízszállító jármű és egy munkagép is segítette.",
-          "location": "Kenyeri, 8611",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91367/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91367"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91366",
@@ -264,9 +255,9 @@
       "title": "Karambol Ürömön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91365",
-      "lead": "Az Ürömi út egy szakaszát lezárták a baleset miatt.",
-      "body": "Egymásnak ütközött két személyautó Ürömön, az Ürömi úton, a Budai útnál. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen öten utaztak. A helyszínen vannak a mentők is. A baleset miatt teljes szélességében lezárták az érintett útszakaszt, ami a közösségi közlekedést is érinti.",
-      "location": "Üröm, Ürömi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -275,9 +266,9 @@
       "title": "Motor és autó ütközött a III. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91364",
-      "lead": "A Szentendrei úton történt a baleset.",
-      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár Budapest III. kerületében, a Szentendrei úton, a Bogdáni út közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak a helyszínre. A társhatóság is az esethez érkezett.",
-      "location": "Budapest, Szentendrei út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -286,9 +277,9 @@
       "title": "Összeütközött két gépkocsi az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91363",
-      "lead": "A Megyeri híd közelében van szükség tűzoltói beavatkozásra.",
-      "body": "Karambolozott egy személygépkocsi és egy teherautó Budapesten, az M0-s autóút IV. kerületi szakaszán, a Megyeri híd felé vezető oldalon, a híd közelében. A személyautó akadályozza a forgalmat, a másik járműből pedig nagy mennyiségű üzemanyag folyt az útburkolatra. A fővárosi hivatásos tűzoltók áramtalanítják a gépkocsikat, és megszüntetik a forgalmi akadályt.",
-      "location": "Budapest, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -297,9 +288,9 @@
       "title": "Karambol Szécsénynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91362",
-      "lead": "Kisbusz és személyautó ütközött.",
-      "body": "Összeütközött egy személygépkocsi és egy kisbusz Szécsény külterületén, a 22-es főúton, a 21134-es út kereszteződésénél. A szécsényi hivatásos tűzoltókat riasztották az esethez. A társhatóságokat is a helyszínre várják.",
-      "location": "Szécsény, 22",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -319,9 +310,9 @@
       "title": "Karambol Budapest tizenötödik kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91360",
-      "lead": "A Régi Főti út és a Cserba Elemér út sarkán három jármű ütközött össze.",
-      "body": "Egymásba hajtott három jármű Budapest tizenötödik kerületében. A Régi Fóti út és a Cserba Elemér út kereszteződésénél történt balesethez a fővárosi hivatásos tűzoltók vonultak. A járművek akadályozzák a forgalmat.",
-      "location": "Budapest, Régi Fóti út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
