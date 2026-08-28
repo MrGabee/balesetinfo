@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T08:34:26.187638+00:00",
-  "count": 3566,
+  "updated_at": "2026-08-28T08:37:49.037394+00:00",
+  "count": 3567,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91396",
+      "datetime": "2026.08.28. 10:35",
+      "title": "Autó égett Keszthelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91396",
+      "lead": "A Murvás úton dolgoznak a tűzoltók",
+      "body": "Kigyulladt egy személygépkocsi Keszthelyen, a Murvás úton. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Keszthely, Murvás út",
+      "updates": []
+    },
     {
       "id": "91395",
       "datetime": "2026.08.28. 10:27",
