@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T11:22:48.614440+00:00",
+  "updated_at": "2026-08-28T11:26:21.096339+00:00",
   "count": 3578,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91405",
-      "datetime": "2026.08.28. 12:39",
+      "datetime": "2026.08.28. 12:39 -",
       "title": "Ég a tarló Nyirádnál",
-      "category": "Tűzeset",
+      "category": "Ég a tarló Nyirádnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91405",
       "lead": "Egy erdőt is veszélyeztetnek a lángok.",
       "body": "Kigyulladt a tarló Nyirád külterületén, a 7317-es út közelében. Nagy területet érint a tűz, amely egy erdőt is veszélyeztet. Az ajkai hivatásos és a nyirádi önkéntes tűzoltók oltják a lángokat. A munkálatokat erőgépek is segítik.",
       "location": "Nyirád, 7317",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a nyirádi tarlótüzet",
+          "datetime": "2026.08.28. 13:25",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Nyirád külterületén, a 7317-es út közelében, ahol kigyulladt a tarló és egy bokros terület. Mintegy nyolc hektárt érintett és egy erdőt is veszélyeztetett a tűz, amelyet öt vízsugárral fékeztek meg az ajkai és a pápai hivatásos, valamint a nyirádi önkéntes tűzoltók. A munkálatokat két traktor is segíti.",
+          "location": "Nyirád, 7317",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91405/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91405"
+        }
+      ]
     },
     {
       "id": "91404",
