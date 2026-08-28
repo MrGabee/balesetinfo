@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T11:15:42.565411+00:00",
-  "count": 3577,
+  "updated_at": "2026-08-28T11:19:09.655681+00:00",
+  "count": 3578,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91407",
+      "datetime": "2026.08.28. 13:18",
+      "title": "Karambol történt a XX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91407",
+      "lead": "A Mártírok útjára vonultak a tűzoltók.",
+      "body": "Összeütközött egy teherautó és egy személygépkocsi Budapest XX. kerületében, a Mártírok útja és a Perczel Mór utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, amelyek kidöntöttek egy kerítést a karambol következtében. A helyszínre érkeztek a mentők is.",
+      "location": "Budapest, Mártírok útja",
+      "updates": []
+    },
     {
       "id": "91406",
       "datetime": "2026.08.28. 12:50",
@@ -174,9 +185,9 @@
       "title": "Melléképület égett Mohácson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91391",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Baross utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy családi házhoz csatlakozó melléképület Mohácson, a Baross utcában. Teljes terjedelmében égett a mintegy húsz négyzetméteres ingatlan. A lakóház tetőszerkezetére is átterjedtek a lángok, amelyeket eloltottak a város hivatásos tűzoltói. A rajok megbontják a családi ház tetőszerkezetét.",
+      "location": "Mohács, Baross utca",
       "updates": []
     },
     {
