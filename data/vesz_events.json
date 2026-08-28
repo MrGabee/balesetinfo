@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T20:40:48.548408+00:00",
-  "count": 3599,
+  "updated_at": "2026-08-28T20:44:39.920947+00:00",
+  "count": 3600,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91429",
+      "datetime": "2026.08.28. 22:43",
+      "title": "Másodfokú (narancs) meteorológiai riasztás kiadva Zala vármegye területére",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91429",
+      "lead": "A HungaroMet zivatar veszélye miatt  riasztást adott ki Zala vármegye területére.",
+      "body": "Az érintett területen: veszély! Hevesebb zivatarok kialakulására lehet számítani. A villámlások mellett kockázatot jelent a zivatarokat kísérő szél, jégeső is! Amennyiben a HungaroMet visszavonja az ország területéről a riasztást, vagy módosítja annak szintjét, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nMegyék:Zala",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91428",
       "datetime": "2026.08.28. 22:11",
