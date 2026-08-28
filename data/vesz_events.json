@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T11:03:49.327943+00:00",
+  "updated_at": "2026-08-28T11:07:47.672580+00:00",
   "count": 3577,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Kigyulladt egy épület Rákosszentmihályon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91400",
-      "lead": "A Hársfavirág utcában csaptak fel a lángok, amelyeket megfékeztek a tűzoltók.",
-      "body": "Tűz keletkezett egy melléképületben, Budapest XVI. kerületében, a Hársfavirág utcában. Teljes terjedelmében égett a mintegy negyven négyzetméteres ingatlan. A fővárosi hivatásos tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A rajok jelenleg az utómunkálatokat végzik.",
-      "location": "Budapest, Hársfavirág utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Baleset történt a 7324-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91397",
-      "lead": "Devecser közelében van szükség tűzoltói beavatkozásra.",
-      "body": "Egymásnak ütközött egy kukásautó és egy motorkerékpár a 7324-es úton, Devecser és Nemeshany között, az 5. kilométernél. Az ajkai hivatásos tűzoltók áramtalanítják a motort és felitatják a belőle kifolyt üzemanyagot. Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az érintett útszakaszt.",
-      "location": "Devecser, 7324",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -119,9 +119,9 @@
       "title": "Autó égett Keszthelyen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91396",
-      "lead": "A Murvás úton dolgoznak a tűzoltók",
-      "body": "Kigyulladt egy személygépkocsi Keszthelyen, a Murvás úton. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
-      "location": "Keszthely, Murvás út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -130,9 +130,9 @@
       "title": "Összeütközött két autó a 82-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91395",
-      "lead": "Bakonyszentkirály közelébe riasztották a tűzoltókat.",
-      "body": "Karambolozott két személyautó a 82-es főúton, Bakonyszentkirály határában. A zirci önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen négyen utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Bakonyszentkirály, 82",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -238,9 +238,9 @@
       "title": "Tetejére borult egy autó Vásárosnaményben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91386",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Tetejére borult egy személygépkocsi Vásárosnaményben, a Kazinczy Lajos úton. A helyi önkormányzati tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Vásárosnamény, Kazinczy Lajos út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,9 +291,9 @@
       "title": "Két autó ütközött a XVIII. kerület és Gyál határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91382",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Karambolozott két személygépkocsi Budapest XVIII. kerület és Gyál határában, a Mátyás király utca, az Alacskai utca, az Aratás utca és a Határ út kereszteződésénél. A fővárosi tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület önkéntesei áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Alacskai út",
       "updates": []
     },
     {
@@ -302,9 +302,9 @@
       "title": "Hármas karambol az Árpád hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91381",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A híd Buda felé vezető szakaszán történt a baleset.",
+      "body": "Összeütközött három személygépkocsi Budapest XIII. kerületében, az Árpád hídon, a Buda felé vezető oldalán. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Árpád híd",
       "updates": []
     },
     {
@@ -313,9 +313,9 @@
       "title": "Összeütközött két autó Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91380",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Tatabányán, a Búzavirág utcában. A járműveket egy szabadnapos tűzoltó áramtalanította a helyszínen. A tatabányai hivatásos tűzoltókat riasztották az esethez. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Tatabánya, Búzavirág utca",
       "updates": []
     },
     {
@@ -324,9 +324,9 @@
       "title": "Két autó ütközött Zalaegerszegen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91379",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Zalaegerszegen, a Göcseji út és a Mártírok útja kereszteződésénél. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Zalaegerszeg, Mártírok útja",
       "updates": []
     },
     {
@@ -335,9 +335,9 @@
       "title": "Autótűz a XVI. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91378",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Budapest YVI. kerületében, a Szabadság utcában. A jármű teljes terjedelmében égett. A fővárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Budapest, Szabadság utca",
       "updates": []
     },
     {
@@ -357,8 +357,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91376",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -368,9 +368,9 @@
       "title": "Ráfutásos baleset Pápán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91375",
-      "lead": "A Veszprémi út egy szakaszán félpályán halad a forgalom.",
-      "body": "Egymásnak ütközött négy személygépkocsi Pápán, a Veszprémi úton. Ráfutásos baleset történt, amelyhez a város hivatásos tűzoltói vonultak ki. A raj áramtalanította a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pápa, Veszprémi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
