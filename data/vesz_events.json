@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T14:53:09.046148+00:00",
-  "count": 3588,
+  "updated_at": "2026-08-28T14:56:31.569869+00:00",
+  "count": 3589,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91418",
+      "datetime": "2026.08.28. 16:54",
+      "title": "Árokba hajtott egy autó a 67-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91418",
+      "lead": "Szigetvár közelében forgalmi akadályra kell számítani.",
+      "body": "Árokba hajtott egy személygépkocsi a 67-es főúton, Szigetvár közelében, a 2-es kilométerszelvénynél. Az autóban hárman utaztak. A szigetvári hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szigetvár, Turbéki utca",
+      "updates": []
+    },
     {
       "id": "91417",
       "datetime": "2026.08.28. 16:23",
@@ -337,10 +348,19 @@
       "title": "Tűz keletkezett Tatárszentgyörgyön",
       "category": "Tűz keletkezett Tatárszentgyörgyön",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91388",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Kinizsi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Tatárszentgyörgyön, a Kinizsi utcában, ahol mintegy százötven négyzetméteren összehordott szemét ég. A dabasi és a kecskeméti hivatásos tűzoltók oltják a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A munkálatokat egy erőgép is segíti.",
+      "location": "Tatárszentgyörgy, Kinizsi utca",
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Tatárszentgyörgyön",
+          "datetime": "2026.08.28. 00:21",
+          "category": "Tűzeset",
+          "text": "Mintegy százötven négyzetméteren összehordott szemét Tatárszentgyörgyön, a Kinizsi utcában. A dabasi és a kecskeméti hivatásos tűzoltók vízsugarak és munkagépek segítségével eloltották a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozott.",
+          "location": "Tatárszentgyörgy, Kinizsi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91388/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91388"
+        }
+      ]
     },
     {
       "id": "91387",
