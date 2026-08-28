@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T16:17:12.353022+00:00",
-  "count": 3590,
+  "updated_at": "2026-08-28T16:20:43.523370+00:00",
+  "count": 3591,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91420",
+      "datetime": "2026.08.28. 18:19",
+      "title": "Három autó ütközött össze az M1-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91420",
+      "lead": "Biatorbágy és Herceghalom között forgalmi akadály van.",
+      "body": "Összeütközött három személygépkocsi az M1-es autópályán, Győr felé, Biatorbágy és Herceghalom között, a 23-as kilométerszelvénynél. Az autókban összesen öten utaztak. A törökbálinti hivatásos tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Páty, Csonka János utca",
+      "updates": []
+    },
     {
       "id": "91419",
       "datetime": "2026.08.28. 17:58",
