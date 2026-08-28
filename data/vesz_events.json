@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T11:40:41.696816+00:00",
-  "count": 3578,
+  "updated_at": "2026-08-28T11:44:20.942018+00:00",
+  "count": 3579,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91408",
+      "datetime": "2026.08.28. 13:42",
+      "title": "Baleset Békésszentandráson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91408",
+      "lead": "A Szarvasi út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött egy motorkerékpár és egy személygépkocsi Békésszentandráson, a Szentesi úton. A szarvasi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Békésszentandrás, Szentesi út",
+      "updates": []
+    },
     {
       "id": "91407",
       "datetime": "2026.08.28. 13:18",
