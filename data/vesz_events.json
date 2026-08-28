@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T10:37:43.045535+00:00",
-  "count": 3575,
+  "updated_at": "2026-08-28T10:41:22.192712+00:00",
+  "count": 3576,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91405",
+      "datetime": "2026.08.28. 12:39",
+      "title": "Ég a tarló Nyirádnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91405",
+      "lead": "Egy erdőt is veszélyeztetnek a lángok.",
+      "body": "Kigyulladt a tarló Nyirád külterületén, a 7317-es út közelében. Nagy területet érint a tűz, amely egy erdőt is veszélyeztet. Az ajkai hivatásos és a nyirádi önkéntes tűzoltók oltják a lángokat. A munkálatokat erőgépek is segítik.",
+      "location": "Nyirád, 7317",
+      "updates": []
+    },
     {
       "id": "91404",
       "datetime": "2026.08.28. 12:36",
