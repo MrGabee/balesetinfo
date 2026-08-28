@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T12:46:11.787361+00:00",
-  "count": 3581,
+  "updated_at": "2026-08-28T12:49:49.365156+00:00",
+  "count": 3582,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91411",
+      "datetime": "2026.08.28. 14:47",
+      "title": "Műhely égett Hajdúszoboszlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91411",
+      "lead": "A Vásártér soron dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy autószerelő műhely tetőszerkezetén Hajdúszoboszlón, a Vásártér soron. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Hajdúszoboszló, Vásártér sor",
+      "updates": []
+    },
     {
       "id": "91410",
       "datetime": "2026.08.28. 14:26",
