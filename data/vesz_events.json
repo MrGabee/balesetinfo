@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T09:42:16.159493+00:00",
-  "count": 3569,
+  "updated_at": "2026-08-28T09:45:40.796306+00:00",
+  "count": 3570,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91399",
+      "datetime": "2026.08.28. 11:45",
+      "title": "Baleset történt Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91399",
+      "lead": "A Kisfaludy utcában forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Kaposváron, a Kisfaludy utcában. Az autókban csak a sofőrök utaztak. A kaposvári hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentők is érkeztek. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Kaposvár, Kisfaludy utca",
+      "updates": []
+    },
     {
       "id": "91398",
       "datetime": "2026.08.28. 11:20",
