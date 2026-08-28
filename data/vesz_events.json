@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T07:35:49.457426+00:00",
-  "count": 3563,
+  "updated_at": "2026-08-28T07:40:20.735640+00:00",
+  "count": 3564,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91393",
+      "datetime": "2026.08.28. 09:40",
+      "title": "Karambol az M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91393",
+      "lead": "Sukorónál végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött egy autóbusz és egy személygépkocsi az M7-es autópálya Balaton felé vezető oldalán, Sukorónál, a 48. kilométer közelében. A műszaki mentést végző székesfehérvári hivatásos tűzoltók áramtalanították az autót, amely a belső sávban akadályozza a forgalmat. A busz a leállósávban áll. A helyszínen vannak a mentők is.",
+      "location": "Sukoró, M7",
+      "updates": []
+    },
     {
       "id": "91392",
       "datetime": "2026.08.28. 09:28",
