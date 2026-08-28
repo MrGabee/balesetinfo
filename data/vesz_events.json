@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T07:08:32.999858+00:00",
+  "updated_at": "2026-08-28T07:12:03.873085+00:00",
   "count": 3562,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,10 +95,19 @@
       "title": "Parasztház ég Jászberényben",
       "category": "Parasztház ég Jászberényben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91384",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltókat a Váltó útra riasztották.",
+      "body": "Kigyulladt egy parasztház Jászberényben, a Váltó úton. Az épület tetőszerkezete ég. A helyi és a nagykátai hivatásos tűzoltók oltják a lángokat.",
+      "location": "Jászberény, Váltó út",
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Jászberényben",
+          "datetime": "2026.08.27. 19:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Jászberényben, a Váltó úton, ahol egy parasztház tetőszerkezete égett. A helyi és a nagykátai hivatásos tűzoltók oltották el a lángokat. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is az esetnél dolgozik. A munkálatokat egy jászberényi vízszállító jármű is segíti.",
+          "location": "Jászberény, Váltó út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91384/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91384"
+        }
+      ]
     },
     {
       "id": "91383",
@@ -106,9 +115,9 @@
       "title": "Árokba borult egy autó a 7-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91383",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lepsénynél történt a baleset.",
+      "body": "Oldalával az árokba borult egy személygépkocsi Lepsénynél, a 7-es főút 92-es kilométerénél. A műszaki mentési munkálatok elvégzéséhez a polgárdi önkormányzati tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Lepsény, 7",
       "updates": []
     },
     {
@@ -469,9 +478,9 @@
       "title": "Felborult egy kisteherautó Tényő külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91354",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Győrszemerei és győri tűzoltók vonultak az esethez.",
+      "body": "Lesodródott az úttestről, majd a tetejére borulva, egy út menti fának hajtott egy kisteherautó Tényő külterületén.  A jármű két utasához mentő érkezett. A helyszínre a győrszemerei önkéntes és a győri hivatásos tűzoltók vonultak. A forgalmat nem akadályozó járművet az egységek azután áramtalanítják majd, hogy kerekeire fordították azt. Az érintett útszakaszon tűzoltói irányítás mellett halad a forgalom.",
+      "location": "Tényő, 83127",
       "updates": []
     },
     {
@@ -483,7 +492,16 @@
       "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
       "location": "Szigetszentmiklós, Szilvásutca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
+          "datetime": "2026.08.27. 01:14",
+          "category": "Tűzeset",
+          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
+          "location": "Szigetszentmiklós, Szilvásutca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
+        }
+      ]
     },
     {
       "id": "91352",
