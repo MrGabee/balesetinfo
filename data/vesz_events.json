@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T20:06:21.690350+00:00",
-  "count": 3597,
+  "updated_at": "2026-08-28T20:10:03.973676+00:00",
+  "count": 3598,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91427",
+      "datetime": "2026.08.28. 22:07",
+      "title": "Autó égett Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91427",
+      "lead": "A Selyemrét utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Miskolcon, a Selyemrét utcában. A helyi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Miskolc, Selyemrét utca",
+      "updates": []
+    },
     {
       "id": "91426",
       "datetime": "2026.08.28. 21:27",
