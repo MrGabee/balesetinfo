@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T22:00:58.168090+00:00",
-  "count": 3605,
+  "updated_at": "2026-08-28T22:04:12.231043+00:00",
+  "count": 3606,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91435",
+      "datetime": "2026.08.29. 00:01",
+      "title": "Lakás égett Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91435",
+      "lead": "A Vértói úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakás Szegeden, a Vértói úton. Az ingatlanban két helyiség égett teljes terjedelmében. A szegedi hivatásos tűzoltók két vízsugárral eloltották a lángokat és két embert kimentettek az épületből. A helyszínre mentő is érkezett.",
+      "location": "Szeged, Vértói út",
+      "updates": []
+    },
     {
       "id": "91434",
       "datetime": "2026.08.28. 23:44",
