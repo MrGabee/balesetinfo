@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T13:40:55.739177+00:00",
-  "count": 3582,
+  "updated_at": "2026-08-28T13:45:01.496052+00:00",
+  "count": 3583,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91412",
+      "datetime": "2026.08.28. 15:41",
+      "title": "Hulladék égett Szolnokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91412",
+      "lead": "A Törteli utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt nagyobb mennyiségű hulladék Szolnokon, a Törteli utcában. A helyi hivatásos tűzoltók öt vízsugárral elfojtották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat végzik.",
+      "location": "Szolnok, Törteli utca",
+      "updates": []
+    },
     {
       "id": "91411",
       "datetime": "2026.08.28. 14:47",
