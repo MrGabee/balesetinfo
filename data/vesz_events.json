@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T10:30:28.078959+00:00",
-  "count": 3573,
+  "updated_at": "2026-08-28T10:34:08.466867+00:00",
+  "count": 3574,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91403",
+      "datetime": "2026.08.28. 12:32",
+      "title": "Kisteherautó és személyautó ütközött Orosházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91403",
+      "lead": "A Szentesi úton forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy kisteherautó és egy személygépkocsi Orosházán, a Szentesi úton. Az orosházi hivatásos tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Orosháza, Szentesi út",
+      "updates": []
+    },
     {
       "id": "91402",
       "datetime": "2026.08.28. 11:55",
