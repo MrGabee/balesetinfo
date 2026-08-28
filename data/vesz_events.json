@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T21:29:29.806590+00:00",
-  "count": 3603,
+  "updated_at": "2026-08-28T21:33:00.516672+00:00",
+  "count": 3604,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91433",
+      "datetime": "2026.08.28. 23:29",
+      "title": "Kigyulladt egy hotel Salgótarjánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91433",
+      "lead": "A tűzoltók több vízsugárral oltják a lángokat.",
+      "body": "Tűz keletkezett egy hotelben, Salgótarjánban, a Medvesi úton. A tűz egy különálló épületrészt érint, amelynek a tetőszerkezete beomlott. A Nógrád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a salgótarjáni, a bátonyterenyei, a szécsényi és a pétervásárai hivatásos tűzoltók érkeztek a helyszínre. A rajok több vízsugárral oltják a lángokat.",
+      "location": "Salgótarján, Medvesi út",
+      "updates": []
+    },
     {
       "id": "91432",
       "datetime": "2026.08.28. 23:02",
