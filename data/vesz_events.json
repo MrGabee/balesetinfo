@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T08:11:55.061369+00:00",
+  "updated_at": "2026-08-28T08:15:55.989403+00:00",
   "count": 3565,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -228,7 +228,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.27. 16:05",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91376/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91376"
+        }
+      ]
     },
     {
       "id": "91375",
@@ -469,9 +478,9 @@
       "title": "Baleset történt az M1-es autópályán, Tatabányánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91357",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 52-53-as kilométer között két személykocsi karambolozott.",
+      "body": "Összeütközött két autó az M1-es sztráda országhatár felé vezető oldalán, Tatabánya térségében. Az 52-53-as kilométer között történt balesethez a vármegyeszékhely hivatásos tűzoltói vonultak. A két járműben összesen hatan utaztak, a helyszínre mentőt riasztottak. A gépkocsik akadályozzák az autópálya forgalmát.",
+      "location": "Tatabánya, M1",
       "updates": []
     },
     {
