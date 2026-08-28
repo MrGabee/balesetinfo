@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T21:01:39.780725+00:00",
-  "count": 3602,
+  "updated_at": "2026-08-28T21:05:06.613906+00:00",
+  "count": 3603,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91432",
+      "datetime": "2026.08.28. 23:02",
+      "title": "Melléképület égett Kiskorpádon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91432",
+      "lead": "A Petőfi Sándor utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy fa melléképület és a mellette lévő tűzifa Kiskorpádon, a Petőfi Sándor utcában. A tűz egy szomszédos melléképületet is érintett. A kaposvári hivatásos és a nagybajomi önkéntes tűzoltók három vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kiskorpád, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "91431",
       "datetime": "2026.08.28. 22:47",
