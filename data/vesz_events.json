@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T21:44:11.367077+00:00",
-  "count": 3604,
+  "updated_at": "2026-08-28T21:47:32.629784+00:00",
+  "count": 3605,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91434",
+      "datetime": "2026.08.28. 23:44",
+      "title": "Karambol a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91434",
+      "lead": "Surjánynál forgalmi akadály van az érintett útszakaszon.",
+      "body": "Összeütközött két személygépkocsi a 4-es főúton, Törökszentmiklós Surjány városrészénél. Az autókban csak a sofőrök utaztak. A törökszentmiklósi önkormányzati tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Törökszentmiklós, Surjány-Újtelep Barackfa utca",
+      "updates": []
+    },
     {
       "id": "91433",
       "datetime": "2026.08.28. 23:29",
