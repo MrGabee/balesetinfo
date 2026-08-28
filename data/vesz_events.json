@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T17:00:08.832253+00:00",
-  "count": 3593,
+  "updated_at": "2026-08-28T17:03:10.182437+00:00",
+  "count": 3594,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91423",
+      "datetime": "2026.08.28. 19:03",
+      "title": "Családi ház égett Taron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91423",
+      "lead": "A Kossuth úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy családi házban Taron, a Kossuth úton. A pásztói és a bátonyterenyei hivatásos tűzoltók két vízsugárral eloltották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat végzik.",
+      "location": "Tar, Kossuth út",
+      "updates": []
+    },
     {
       "id": "91422",
       "datetime": "2026.08.28. 18:52",
