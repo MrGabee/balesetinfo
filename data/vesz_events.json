@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T07:28:20.528947+00:00",
-  "count": 3562,
+  "updated_at": "2026-08-28T07:32:34.752053+00:00",
+  "count": 3563,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91392",
+      "datetime": "2026.08.28. 09:28",
+      "title": "Árokba hajtott egy autó Vértesszőlősön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91392",
+      "lead": "A Sólyom utcában történt a baleset.",
+      "body": "Árokba hajtott és felborult egy személygépkocsi Vértesszőlősön, a Sólyom utcában. Az autóban csak a sofőr utazott, aki ki tudott szállni. A tatabányai hivatásos tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett.",
+      "location": "Vértesszőlős, Sólyom utca",
+      "updates": []
+    },
     {
       "id": "91391",
       "datetime": "2026.08.28. 08:46",
@@ -31,9 +42,9 @@
       "title": "Baleset történt Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91389",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Korlátnak ütközött egy személygépkocsi Székesfehérváron, a Piac térnél, a Selymes utca közelében. A helyi hivatásos tűzoltók végzik a műszaki mentést. A rajok áramtalanították a járművet.",
+      "location": "Székesfehérvár, Megyeház köz",
       "updates": []
     },
     {
@@ -45,7 +56,16 @@
       "lead": "A Kinizsi utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett Tatárszentgyörgyön, a Kinizsi utcában, ahol mintegy százötven négyzetméteren összehordott szemét ég. A dabasi és a kecskeméti hivatásos tűzoltók oltják a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A munkálatokat egy erőgép is segíti.",
       "location": "Tatárszentgyörgy, Kinizsi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Tatárszentgyörgyön",
+          "datetime": "2026.08.28. 00:21",
+          "category": "Tűzeset",
+          "text": "Mintegy százötven négyzetméteren összehordott szemét Tatárszentgyörgyön, a Kinizsi utcában. A dabasi és a kecskeméti hivatásos tűzoltók vízsugarak és munkagépek segítségével eloltották a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozott.",
+          "location": "Tatárszentgyörgy, Kinizsi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91388/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91388"
+        }
+      ]
     },
     {
       "id": "91387",
@@ -275,9 +295,9 @@
       "title": "Árokba hajtott egy autó Martfűnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91370",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 442-es főútra riasztották a tűzoltókat.",
+      "body": "Árokba sodródott egy személyautó a 442-es főút Martfű és Rákócziújfalu közötti szakaszán. A járműben ketten utaztak, mindketten ki tudtak szállni, a mentők vizsgálják őket. A műszaki mentést végző tiszaföldvári önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Martfű, 442",
       "updates": []
     },
     {
@@ -286,9 +306,9 @@
       "title": "Karambolozott két autó Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91369",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
+      "body": "Összeütközött két személyautó Pécsen, a Megyeri úton, a Mártírok útjánál. Az egyik járműbe beszorult egy ember. Őt feszítővágóval mentették ki a műszaki mentést végző pécsi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén forgalmi akadály van.",
+      "location": "Pécs, Megyeri út, Mártírok útja",
       "updates": []
     },
     {
@@ -480,10 +500,19 @@
       "title": "Autómosó gyulladt ki Szigetszentmiklóson",
       "category": "Autómosó gyulladt ki Szigetszentmiklóson",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
+      "location": "Szigetszentmiklós, Szilvásutca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
+          "datetime": "2026.08.27. 01:14",
+          "category": "Tűzeset",
+          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
+          "location": "Szigetszentmiklós, Szilvásutca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
+        }
+      ]
     },
     {
       "id": "91352",
