@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T12:13:10.261419+00:00",
-  "count": 3579,
+  "updated_at": "2026-08-28T12:17:37.009789+00:00",
+  "count": 3580,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91409",
+      "datetime": "2026.08.28. 14:15",
+      "title": "Autók égtek Budapest XVIII. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91409",
+      "lead": "A Thököly úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt két személygépkocsi Budapest XVIII. kerületében, a Thököly úton. A tűz átterjedt két másik autóra is. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Budapest, Thököly út",
+      "updates": []
+    },
     {
       "id": "91408",
       "datetime": "2026.08.28. 13:42",
