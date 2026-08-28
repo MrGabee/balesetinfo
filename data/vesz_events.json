@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T14:13:12.234375+00:00",
-  "count": 3585,
+  "updated_at": "2026-08-28T14:16:14.066981+00:00",
+  "count": 3586,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91415",
+      "datetime": "2026.08.28. 16:13",
+      "title": "Karambol az 5112-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91415",
+      "lead": "Szekszárd közelében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi az 5112-es úton, Szekszárd közelében, a 24-es kilométerszelvénynél. Az autókban összesen hárman utaztak. A szekszárdi hivatásos tűzoltók egy járművet áramtalanítottak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szekszárd, Palánk",
+      "updates": []
+    },
     {
       "id": "91414",
       "datetime": "2026.08.28. 16:07",
