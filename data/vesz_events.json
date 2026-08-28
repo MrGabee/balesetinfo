@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T10:18:51.506880+00:00",
+  "updated_at": "2026-08-28T10:23:00.624234+00:00",
   "count": 3573,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -441,16 +441,7 @@
       "lead": "A szél nehezíti az oltást.",
       "body": "Kigyulladt a száraz fű és az aljnövényzet Kenyeri külterületén, a 8611-es út 29-es kilométerénél. A sárvári hivatásos és a kenyeri, valamint a pápoci önkéntes tűzoltók oltják a lángokat. A szél nehezíti a munkálatokat. Az érintett útszakaszt teljes szélességben lezárták.",
       "location": "Kenyeri, 8611",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Kenyeri külterületén",
-          "datetime": "2026.08.27. 12:27",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Kenyeri külterületén, a 8611-es út 29-es kilométerénél, ahol az árokpart égett. A sárvári hivatásos, a csöngei és a kenyeri, valamint a pápoci önkéntes tűzoltók fékezték meg a tüzet. A szél nehezítette az oltást. A munkálatokat egy sárvári vízszállító jármű és egy munkagép is segítette.",
-          "location": "Kenyeri, 8611",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91367/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91367"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91366",
