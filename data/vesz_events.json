@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T15:56:24.715852+00:00",
-  "count": 3589,
+  "updated_at": "2026-08-28T16:00:03.069495+00:00",
+  "count": 3590,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91419",
+      "datetime": "2026.08.28. 17:58",
+      "title": "Tűz volt Pomázon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91419",
+      "lead": "A Majdán utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy nagyobb kiterjedésű területen Pomáz térségében, a Majdán utcában. A helyszínen zsákok és aljnövényzet égett. A pomázi önkormányzati tűzoltók és a szentendrei önkéntes tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Pomáz, Majdán utca",
+      "updates": []
+    },
     {
       "id": "91418",
       "datetime": "2026.08.28. 16:54",
