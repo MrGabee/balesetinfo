@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T08:27:02.207197+00:00",
-  "count": 3565,
+  "updated_at": "2026-08-28T08:30:30.407111+00:00",
+  "count": 3566,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91395",
+      "datetime": "2026.08.28. 10:27",
+      "title": "Összeütközött két autó a 82-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91395",
+      "lead": "Bakonyszentkirály közelébe riasztották a tűzoltókat.",
+      "body": "Karambolozott két személyautó a 82-es főúton, Bakonyszentkirály határában. A zirci önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen négyen utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Bakonyszentkirály, 82",
+      "updates": []
+    },
     {
       "id": "91394",
       "datetime": "2026.08.28. 10:07",
@@ -159,9 +170,9 @@
       "title": "Két autó ütközött a XVIII. kerület és Gyál határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91382",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Karambolozott két személygépkocsi Budapest XVIII. kerület és Gyál határában, a Mátyás király utca, az Alacskai utca, az Aratás utca és a Határ út kereszteződésénél. A fővárosi tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület önkéntesei áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Alacskai út",
       "updates": []
     },
     {
