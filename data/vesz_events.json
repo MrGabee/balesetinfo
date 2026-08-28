@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T10:49:39.054570+00:00",
-  "count": 3576,
+  "updated_at": "2026-08-28T10:52:58.027769+00:00",
+  "count": 3577,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91406",
+      "datetime": "2026.08.28. 12:50",
+      "title": "Baleset történt az M4-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91406",
+      "lead": "Monor közelében forgalomkorlátozásra kell számítani.",
+      "body": "Defektet miatt a belső szalagkorlátnak ütközött egy kamion az M4-es autóút Szolnok felé vezető oldalán, Monor közelében, a 33. és a 34. kilométer között. A balesethez a monori hivatásos tűzoltók vonultak ki. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Monor, M4",
+      "updates": []
+    },
     {
       "id": "91405",
       "datetime": "2026.08.28. 12:39",
