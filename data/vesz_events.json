@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T16:48:59.845846+00:00",
-  "count": 3592,
+  "updated_at": "2026-08-28T16:52:52.279043+00:00",
+  "count": 3593,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91422",
+      "datetime": "2026.08.28. 18:52",
+      "title": "Baleset történt Naszályon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91422",
+      "lead": "A Rákóczi Ferenc utcát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Naszályon, a Rákóczi Ferenc utcában. A komáromi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Naszály, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91421",
       "datetime": "2026.08.28. 18:41",
