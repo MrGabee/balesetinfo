@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T14:06:44.521125+00:00",
-  "count": 3584,
+  "updated_at": "2026-08-28T14:09:35.094686+00:00",
+  "count": 3585,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91414",
+      "datetime": "2026.08.28. 16:07",
+      "title": "Három autó ütközött Budapest huszadik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91414",
+      "lead": "A Török Flóris utcában forgalmi akadályra van.",
+      "body": "Egymásnak ütközött három személygépkocsi Budapest XX. kerületében, a Török Flóris utcában. Az autókban összesen négyen utaztak. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Török Flóris utca",
+      "updates": []
+    },
     {
       "id": "91413",
       "datetime": "2026.08.28. 15:54",
