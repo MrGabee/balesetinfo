@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T10:34:08.466867+00:00",
-  "count": 3574,
+  "updated_at": "2026-08-28T10:37:43.045535+00:00",
+  "count": 3575,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91404",
+      "datetime": "2026.08.28. 12:36",
+      "title": "Autó égett Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91404",
+      "lead": "Az Orci úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi motortere Kaposváron, az Orci úton. A kaposvári hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Kaposvár, Orci út",
+      "updates": []
+    },
     {
       "id": "91403",
       "datetime": "2026.08.28. 12:32",
