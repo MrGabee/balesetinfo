@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T14:16:14.066981+00:00",
-  "count": 3586,
+  "updated_at": "2026-08-28T14:20:13.405920+00:00",
+  "count": 3587,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91416",
+      "datetime": "2026.08.28. 16:18",
+      "title": "Kamion és két autó ütközött Budapest XXII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91416",
+      "lead": "A Kolozsvári utcában forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi és egy kamion Budapest XXII. kerületében, a Kolozsvári utcában. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Kolozsvári utca",
+      "updates": []
+    },
     {
       "id": "91415",
       "datetime": "2026.08.28. 16:13",
