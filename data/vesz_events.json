@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T14:20:13.405920+00:00",
-  "count": 3587,
+  "updated_at": "2026-08-28T14:24:03.534181+00:00",
+  "count": 3588,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91417",
+      "datetime": "2026.08.28. 16:23",
+      "title": "Szalagkorlátnak ütközött egy autó az M1-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91417",
+      "lead": "Mosonmagyaróvár közelében forgalmi akadály van.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi az M1-es autópályán, Hegyeshalom felé, Mosonmagyaróvár közelében, a 155-ös kilométerszelvénynél. A mosonmagyaróvári hivatásos tűzoltók áramtalanították a járművet. Az érintett pályaszakaszon forgalmi akadály van.",
+      "location": "Mosonmagyaróvár, Mezőföld utca",
+      "updates": []
+    },
     {
       "id": "91416",
       "datetime": "2026.08.28. 16:18",
