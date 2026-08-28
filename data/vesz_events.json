@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T04:41:11.021394+00:00",
-  "count": 3559,
+  "updated_at": "2026-08-28T04:45:21.174278+00:00",
+  "count": 3560,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91389",
+      "datetime": "2026.08.28. 06:43",
+      "title": "Baleset történt Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91389",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Korlátnak ütközött egy személygépkocsi Székesfehérváron, a Piac térnél, a Selymes utca közelében. A helyi hivatásos tűzoltók végzik a műszaki mentést. A rajok áramtalanították a járművet.",
+      "location": "Székesfehérvár, Megyeház köz",
+      "updates": []
+    },
     {
       "id": "91388",
       "datetime": "2026.08.27. 23:22 -",
