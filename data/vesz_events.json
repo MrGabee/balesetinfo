@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T06:45:52.483498+00:00",
-  "count": 3561,
+  "updated_at": "2026-08-28T06:49:40.326308+00:00",
+  "count": 3562,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91391",
+      "datetime": "2026.08.28. 08:46",
+      "title": "Melléképület égett Mohácson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91391",
+      "lead": "A Baross utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy családi házhoz csatlakozó melléképület Mohácson, a Baross utcában. Teljes terjedelmében égett a mintegy húsz négyzetméteres ingatlan. A lakóház tetőszerkezetére is átterjedtek a lángok, amelyeket eloltottak a város hivatásos tűzoltói. A rajok megbontják a családi ház tetőszerkezetét.",
+      "location": "Mohács, Baross utca",
+      "updates": []
+    },
     {
       "id": "91390",
       "datetime": "2026.08.28. 07:18",
@@ -51,9 +62,9 @@
       "title": "Melléképület égett Kunmadarason",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91387",
-      "lead": "A Budai Nagy Antal utcába riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy melléképület Kunmadarason, a Budai Nagy Antal utcába. A tizennyolc négyzetméteres épület teljes terjedelmében égett. A tiszafüredi és a püspökladányi hivatásos tűzoltók, valamint egy karcagi vízszállító dolgozik az esetnél. A rajok két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
-      "location": "Kunmadaras, Budai Nagy Antal utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
