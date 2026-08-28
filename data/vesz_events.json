@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T07:24:20.709882+00:00",
+  "updated_at": "2026-08-28T07:28:20.528947+00:00",
   "count": 3562,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Tűz keletkezett Tatárszentgyörgyön",
       "category": "Tűz keletkezett Tatárszentgyörgyön",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91388",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kinizsi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Tatárszentgyörgyön, a Kinizsi utcában, ahol mintegy százötven négyzetméteren összehordott szemét ég. A dabasi és a kecskeméti hivatásos tűzoltók oltják a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A munkálatokat egy erőgép is segíti.",
+      "location": "Tatárszentgyörgy, Kinizsi utca",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Melléképület égett Kunmadarason",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91387",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budai Nagy Antal utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy melléképület Kunmadarason, a Budai Nagy Antal utcába. A tizennyolc négyzetméteres épület teljes terjedelmében égett. A tiszafüredi és a püspökladányi hivatásos tűzoltók, valamint egy karcagi vízszállító dolgozik az esetnél. A rajok két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
+      "location": "Kunmadaras, Budai Nagy Antal utca",
       "updates": []
     },
     {
@@ -64,9 +64,9 @@
       "title": "Tetejére borult egy autó Vásárosnaményben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91386",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Tetejére borult egy személygépkocsi Vásárosnaményben, a Kazinczy Lajos úton. A helyi önkormányzati tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Vásárosnamény, Kazinczy Lajos út",
       "updates": []
     },
     {
@@ -75,9 +75,9 @@
       "title": "Két autó karambolozott az Mélykútnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91385",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 55-os főút érintett szakaszán félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Mélykútnál, az 55-ös főút 62-es kilométerénél. A jánoshalmai önkormányzati és a mélykúti önkéntes tűzoltók végzik a műszaki mentést, amely során áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mélykút, 55",
       "updates": []
     },
     {
@@ -275,9 +275,9 @@
       "title": "Árokba hajtott egy autó Martfűnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91370",
-      "lead": "A 442-es főútra riasztották a tűzoltókat.",
-      "body": "Árokba sodródott egy személyautó a 442-es főút Martfű és Rákócziújfalu közötti szakaszán. A járműben ketten utaztak, mindketten ki tudtak szállni, a mentők vizsgálják őket. A műszaki mentést végző tiszaföldvári önkormányzati tűzoltók áramtalanították a gépkocsit.",
-      "location": "Martfű, 442",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -286,9 +286,9 @@
       "title": "Karambolozott két autó Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91369",
-      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
-      "body": "Összeütközött két személyautó Pécsen, a Megyeri úton, a Mártírok útjánál. Az egyik járműbe beszorult egy ember. Őt feszítővágóval mentették ki a műszaki mentést végző pécsi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén forgalmi akadály van.",
-      "location": "Pécs, Megyeri út, Mártírok útja",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -308,10 +308,19 @@
       "title": "Száraz fű és aljnövényzet ég Kenyeri külterületén",
       "category": "Száraz fű és aljnövényzet ég Kenyeri külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91367",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A szél nehezíti az oltást.",
+      "body": "Kigyulladt a száraz fű és az aljnövényzet Kenyeri külterületén, a 8611-es út 29-es kilométerénél. A sárvári hivatásos és a kenyeri, valamint a pápoci önkéntes tűzoltók oltják a lángokat. A szél nehezíti a munkálatokat. Az érintett útszakaszt teljes szélességben lezárták.",
+      "location": "Kenyeri, 8611",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kenyeri külterületén",
+          "datetime": "2026.08.27. 12:27",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Kenyeri külterületén, a 8611-es út 29-es kilométerénél, ahol az árokpart égett. A sárvári hivatásos, a csöngei és a kenyeri, valamint a pápoci önkéntes tűzoltók fékezték meg a tüzet. A szél nehezítette az oltást. A munkálatokat egy sárvári vízszállító jármű és egy munkagép is segítette.",
+          "location": "Kenyeri, 8611",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91367/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91367"
+        }
+      ]
     },
     {
       "id": "91366",
@@ -471,19 +480,10 @@
       "title": "Autómosó gyulladt ki Szigetszentmiklóson",
       "category": "Autómosó gyulladt ki Szigetszentmiklóson",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353",
-      "lead": "A Szilvás utcába helyi és fővárosi tűzoltókat riasztottak.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy autómosó Szigetszentmiklóson. A Szilvás utcába a helyi és fővárosi hivatásos tűzoltók vonultak, a helyszínre tart a Pest vármegyei katasztrófavédelmi műveleti szolgálat is. A nagyjából száz négyzetméteres épületet az egységek áramtalanították, a tüzet több vízsugárral körülhatárolták, a lángokat megfékezték.",
-      "location": "Szigetszentmiklós, Szilvásutca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Szigetszentmiklóson",
-          "datetime": "2026.08.27. 01:14",
-          "category": "Tűzeset",
-          "text": "A Szilvás utcában egy könnyűszerkezetes autómosó gyulladt ki, és tárolók is égtek. A tűzben megsemmisült két motor, felhasadt három gázpalack, és autógumik is tüzet fogtak. A helyi és fővárosi hivatásos tűzoltók eloltották a tüzet, már az utómunkálatoknál tartanak, egyebek mellett hőkamerával átvizsgálják a területet.",
-          "location": "Szigetszentmiklós, Szilvásutca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91353"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91352",
