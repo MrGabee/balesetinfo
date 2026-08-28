@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T09:53:07.727440+00:00",
-  "count": 3572,
+  "updated_at": "2026-08-28T09:56:49.125469+00:00",
+  "count": 3573,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91402",
+      "datetime": "2026.08.28. 11:55",
+      "title": "Ráfutásos baleset az 1-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91402",
+      "lead": "Győr közelében egy szakaszon egy sávon halad a forgalom.",
+      "body": "Egymásnak ütközött három személyautó Győr közelében, az 1-es főút Abda felé vezető szakaszán, a 130. és a 131. kilométer között. Ráfutásos baleset történt, amelyhez a győri hivatásos tűzoltókat riasztották. A raj áramtalanít két gépkocsit. Az érintett útszakaszon váltakozó irányban, egy sávon halad a forgalom.",
+      "location": "Győr, 1",
+      "updates": []
+    },
     {
       "id": "91401",
       "datetime": "2026.08.28. 11:49",
