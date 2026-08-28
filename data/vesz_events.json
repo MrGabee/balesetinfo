@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T13:52:05.595132+00:00",
-  "count": 3583,
+  "updated_at": "2026-08-28T13:55:29.236640+00:00",
+  "count": 3584,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91413",
+      "datetime": "2026.08.28. 15:54",
+      "title": "Karambol a 8102-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91413",
+      "lead": "Budakeszi közelében váltakozva halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 8102-es úton, Budakeszi közelében, a 13-as kilométerszelvénynél. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon váltakozva halad a forgalom.",
+      "location": "Budakeszi, Présház utca",
+      "updates": []
+    },
     {
       "id": "91412",
       "datetime": "2026.08.28. 15:41",
