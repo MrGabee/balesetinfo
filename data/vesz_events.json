@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T20:10:03.973676+00:00",
-  "count": 3598,
+  "updated_at": "2026-08-28T20:13:20.866613+00:00",
+  "count": 3599,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91428",
+      "datetime": "2026.08.28. 22:11",
+      "title": "Szalagkorlátnak hajtott egy autó az M3-on",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91428",
+      "lead": "Kál és Füzesabony között forgalmi akadály van.",
+      "body": "Szalagkorlátnak hajtott egy személygépkocsi az M3-as autópályán, Nyíregyháza felé, Kál és Füzesabony között, a 105-ös kilométerszelvénynél. Az autóban csak a sofőr utazott. A füzesabonyi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kál, Füsti erdei vadászház",
+      "updates": []
+    },
     {
       "id": "91427",
       "datetime": "2026.08.28. 22:07",
