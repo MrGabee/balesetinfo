@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T11:00:24.481720+00:00",
+  "updated_at": "2026-08-28T11:03:49.327943+00:00",
   "count": 3577,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -291,9 +291,9 @@
       "title": "Két autó ütközött a XVIII. kerület és Gyál határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91382",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Karambolozott két személygépkocsi Budapest XVIII. kerület és Gyál határában, a Mátyás király utca, az Alacskai utca, az Aratás utca és a Határ út kereszteződésénél. A fővárosi tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület önkéntesei áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Budapest, Alacskai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -302,9 +302,9 @@
       "title": "Hármas karambol az Árpád hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91381",
-      "lead": "A híd Buda felé vezető szakaszán történt a baleset.",
-      "body": "Összeütközött három személygépkocsi Budapest XIII. kerületében, az Árpád hídon, a Buda felé vezető oldalán. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. A társhatóságok is a helyszínre érkeztek.",
-      "location": "Budapest, Árpád híd",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +313,9 @@
       "title": "Összeütközött két autó Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91380",
-      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
-      "body": "Két személygépkocsi karambolozott Tatabányán, a Búzavirág utcában. A járműveket egy szabadnapos tűzoltó áramtalanította a helyszínen. A tatabányai hivatásos tűzoltókat riasztották az esethez. Az érintett útszakaszon irányítás mellett halad a forgalom.",
-      "location": "Tatabánya, Búzavirág utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -324,9 +324,9 @@
       "title": "Két autó ütközött Zalaegerszegen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91379",
-      "lead": "Forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Zalaegerszegen, a Göcseji út és a Mártírok útja kereszteződésénél. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Zalaegerszeg, Mártírok útja",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -335,9 +335,9 @@
       "title": "Autótűz a XVI. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91378",
-      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "body": "Kigyulladt egy személygépkocsi Budapest YVI. kerületében, a Szabadság utcában. A jármű teljes terjedelmében égett. A fővárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "location": "Budapest, Szabadság utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -357,19 +357,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91376",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.08.27. 16:05",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91376/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91376"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91375",
