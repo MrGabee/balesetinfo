@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T09:04:13.472488+00:00",
-  "count": 3567,
+  "updated_at": "2026-08-28T09:07:46.812561+00:00",
+  "count": 3568,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91397",
+      "datetime": "2026.08.28. 11:06",
+      "title": "Baleset történt a 7324-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91397",
+      "lead": "Devecser közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Egymásnak ütközött egy kukásautó és egy motorkerékpár a 7324-es úton, Devecser és Nemeshany között, az 5. kilométernél. Az ajkai hivatásos tűzoltók áramtalanítják a motort és felitatják a belőle kifolyt üzemanyagot. Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Devecser, 7324",
+      "updates": []
+    },
     {
       "id": "91396",
       "datetime": "2026.08.28. 10:35",
