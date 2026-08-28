@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T17:34:25.735543+00:00",
-  "count": 3594,
+  "updated_at": "2026-08-28T17:37:35.693366+00:00",
+  "count": 3595,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91424",
+      "datetime": "2026.08.28. 19:36",
+      "title": "Kisbusz és autó ütközött Karácsondnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91424",
+      "lead": "A 3204-es utat teljes szélességében lezárták.",
+      "body": "Összeütközött egy személygépkocsi és egy kisbusz a 3204-es úton, Karácsond közelében, a 7-es kilométerszelvénynél. A gyöngyösi hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Karácsond, Jókai Mór út",
+      "updates": []
+    },
     {
       "id": "91423",
       "datetime": "2026.08.28. 19:03",
