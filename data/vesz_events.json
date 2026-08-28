@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T16:38:51.628083+00:00",
-  "count": 3591,
+  "updated_at": "2026-08-28T16:42:12.471898+00:00",
+  "count": 3592,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91421",
+      "datetime": "2026.08.28. 18:41",
+      "title": "Melléképület égett Iszkaszentgyörgyön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91421",
+      "lead": "A Vörösmarty Mihály utcában dolgoznak a tűzoltók.",
+      "body": "Melléképület égett Iszkaszentgyörgyön, a Vörösmarty Mihály utcában. A székesfehérvári hivatásos és a helyi önkéntes tűzoltók két vízsugárral elfojtották a lángokat. A helyszínre mentő is érkezett. A raj az utómunkálatokat kezdi meg.",
+      "location": "Iszkaszentgyörgy, Vörösmarty Mihály utca",
+      "updates": []
+    },
     {
       "id": "91420",
       "datetime": "2026.08.28. 18:19",
