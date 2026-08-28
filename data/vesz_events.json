@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T12:24:57.593817+00:00",
-  "count": 3580,
+  "updated_at": "2026-08-28T12:28:41.251445+00:00",
+  "count": 3581,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91410",
+      "datetime": "2026.08.28. 14:26",
+      "title": "Kigyulladt az aljnövényzet a XVI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91410",
+      "lead": "A Vidámvásár utca közelében van szükség a tűzoltók beavatkozására.",
+      "body": "Lángra kapott a száraz aljnövényzet Budapest XVI. kerületében, a Vidámvásár utca mellett, a Batthyány Ilona utca közelében. Mintegy kétezer-háromezer négyzetmétert érintett, és családi házakat is veszélyeztetett a tűz. A fővárosi hivatásos tűzoltók eloltották a lángokat.",
+      "location": "Budapest, Vidámvásár utca",
+      "updates": []
+    },
     {
       "id": "91409",
       "datetime": "2026.08.28. 14:15",
