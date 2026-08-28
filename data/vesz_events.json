@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-28T19:25:04.472555+00:00",
-  "count": 3596,
+  "updated_at": "2026-08-28T19:28:36.220010+00:00",
+  "count": 3597,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91426",
+      "datetime": "2026.08.28. 21:27",
+      "title": "Baleset történt az M1-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91426",
+      "lead": "Tatabánya közelében teljes szélességében lezárták az utat.",
+      "body": "Vaddal ütközött össze egy kisbusz az M1-es autópályán, Győr felé, Tatabánya közelében, az 55-ös kilométerszelvénynél. A buszban heten utaztak. A tatabányai hivatásos tűzoltók áramtalanítják a járművet. A helyszínre mentő is érkezett. Az érintett pályaszakaszt teljes szélességében lezárták.",
+      "location": "Tatabánya, Zöld-dombi utca",
+      "updates": []
+    },
     {
       "id": "91425",
       "datetime": "2026.08.28. 19:59",
