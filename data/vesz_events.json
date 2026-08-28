@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-28T20:44:39.920947+00:00",
-  "count": 3600,
+  "updated_at": "2026-08-28T20:48:24.250293+00:00",
+  "count": 3602,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91431",
+      "datetime": "2026.08.28. 22:47",
+      "title": "Meteorológiai riasztás visszavonva",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91431",
+      "lead": "Nincsen zivatar esemény Zala vármegye területén.",
+      "body": "A HungaroMet visszavonta a korábban zivatar veszélye miatt kiadott riasztást Zala vármegye területén.\n\nMegyék:Zala",
+      "location": "",
+      "updates": []
+    },
+    {
+      "id": "91430",
+      "datetime": "2026.08.28. 22:46",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91430",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91429",
       "datetime": "2026.08.28. 22:43",
