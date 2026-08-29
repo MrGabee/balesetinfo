@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T14:29:06.487910+00:00",
-  "count": 3623,
+  "updated_at": "2026-08-29T14:32:44.855691+00:00",
+  "count": 3624,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91453",
+      "datetime": "2026.08.29. 16:30",
+      "title": "Felborult egy autó az M6-oson, Himesházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91453",
+      "lead": "A Pécs felé vezető oldalon félpályán halad a forgalom.",
+      "body": "Felborult egy személyautó az M6-os autópálya Pécs felé vezető oldalán, Himesháza közelében, a 181-es és 182-es kilométerszelvény között. A balesethez a véméndi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Himesháza, M6",
+      "updates": []
+    },
     {
       "id": "91452",
       "datetime": "2026.08.29. 15:59",
