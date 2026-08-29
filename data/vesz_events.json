@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T13:57:10.712314+00:00",
-  "count": 3622,
+  "updated_at": "2026-08-29T14:00:15.635596+00:00",
+  "count": 3623,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91452",
+      "datetime": "2026.08.29. 15:59",
+      "title": "Hármas karambol Újfehértón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91452",
+      "lead": "A Nyíregyházi utca és a Lehet utca találkozásánál félpályán halad a forgalom.",
+      "body": "Három személyautó karambolozott Újfehértón, a Nyíregyházi utca és a Lehet utca találkozásánál. A balesethez a helyi önkormányzati tűzoltókat riasztották, akik két gépkocsit áramtalanítottak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Újfehértó, Nyíregyházi utca",
+      "updates": []
+    },
     {
       "id": "91451",
       "datetime": "2026.08.29. 15:45",
