@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T08:07:12.673679+00:00",
-  "count": 3609,
+  "updated_at": "2026-08-29T08:09:50.237602+00:00",
+  "count": 3610,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91439",
+      "datetime": "2026.08.29. 10:09",
+      "title": "Szalagkorlátnak ütközött egy autó az M70-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91439",
+      "lead": "Tornyiszentmiklós felé, Letenye közelében egy sávon halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M70-es autópálya Tornyiszentmiklós felé vezető oldalán, Letenye közelében, az 5-ös és 6-os kilométerszelvény között. A letenyei hivatásos és önkéntes tűzoltók áramtalanították a gépkocsit. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Letenye, M70",
+      "updates": []
+    },
     {
       "id": "91438",
       "datetime": "2026.08.29. 09:44",
