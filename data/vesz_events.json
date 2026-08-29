@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T09:53:07.620841+00:00",
+  "updated_at": "2026-08-29T09:57:14.862802+00:00",
   "count": 3613,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "91441",
-      "datetime": "2026.08.29. 10:53",
+      "datetime": "2026.08.29. 10:53 -",
       "title": "Száraz fű és bozótos ég Őrhalomnál",
-      "category": "Tűzeset",
+      "category": "Száraz fű és bozótos ég Őrhalomnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91441",
       "lead": "A tűz körülbelül tíz hektárt érint.",
       "body": "Száraz fű és bozótos terület ég Őrhalomnál, a Rákóczi fejedelem út mellett. A tűz körülbelül tíz hektárt érint. A balassagyarmati és szécsényi hivatásos tűzoltók dolgoznak a lángok megfékezésén.",
       "location": "Őrhalom, Rákóczi fejedelem út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Őrhalom térségében",
+          "datetime": "2026.08.29. 11:57",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Őrhalom térségében, ahol száraz fű és bozótos égett a Rákóczi fejedelem út közelében. A tűz körülbelül tíz hektárnyi területet érintett. A balassagyarmati és szécsényi hivatásos tűzoltók további izzó pontok után kutatnak.",
+          "location": "Őrhalom, Rákóczi fejedelem út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91441/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91441"
+        }
+      ]
     },
     {
       "id": "91440",
