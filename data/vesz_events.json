@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T10:18:09.498494+00:00",
-  "count": 3613,
+  "updated_at": "2026-08-29T10:22:16.614218+00:00",
+  "count": 3614,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91443",
+      "datetime": "2026.08.29. 12:20",
+      "title": "Vadat gázolt egy autó a 82-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91443",
+      "lead": "Ravazd és Bakonypéterd között történt a baleset.",
+      "body": "Vadat gázolt egy személyautó a 82-es főút Ravazdot és Bakonypéterdet összekötő szakaszán, az 52-es és 53-as kilométerszelvény között. A pannonhalmi hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett. A baleset nem okoz fennakadást a forgalomban.",
+      "location": "Ravazd, 82",
+      "updates": []
+    },
     {
       "id": "91442",
       "datetime": "2026.08.29. 11:38",
