@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T05:59:57.893669+00:00",
-  "count": 3606,
+  "updated_at": "2026-08-29T06:03:17.277099+00:00",
+  "count": 3607,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91436",
+      "datetime": "2026.08.29. 08:00",
+      "title": "Felborult egy autó Abánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91436",
+      "lead": "A Kossuth Lajos utcát teljes szélességében lezárták.",
+      "body": "Felborult egy személygépkocsi Aba térségében, a Kossuth Lajos utcában. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a sárbogárdi és a székesfehérvári hivatásos tűzoltók egy utast feszítővágóval kimentettek. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Aba, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91435",
       "datetime": "2026.08.29. 00:01",
