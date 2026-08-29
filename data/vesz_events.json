@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T16:13:09.473042+00:00",
-  "count": 3625,
+  "updated_at": "2026-08-29T16:16:51.393407+00:00",
+  "count": 3626,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91455",
+      "datetime": "2026.08.29. 18:14",
+      "title": "Egymásnak ütközött két autó a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91455",
+      "lead": "Debrecen és Mikepércs között lezárták az utat.",
+      "body": "Két személyautó ütközött össze a 47-es főút Debrecen és Mikepércs közötti szakaszán, a 8-as kilométerszelvénynél. A baleset következtében az egyik gépkocsi az árokba sodródott és a tetejére borult. A debreceni hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Debrecen, Mikepércsi út",
+      "updates": []
+    },
     {
       "id": "91454",
       "datetime": "2026.08.29. 16:51",
