@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T08:48:22.313365+00:00",
-  "count": 3610,
+  "updated_at": "2026-08-29T08:51:09.589982+00:00",
+  "count": 3611,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91440",
+      "datetime": "2026.08.29. 10:50",
+      "title": "Baleset történt Budapest XIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91440",
+      "lead": "A Frangepán utca és a Hajdú utca kereszteződésében ütközött két autó.",
+      "body": "Összeütközött két személyautó Budapest XIII. kerületében, a Frangepán utca és a Hajdú utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. A rajok a helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Budapest, Hajdú utca",
+      "updates": []
+    },
     {
       "id": "91439",
       "datetime": "2026.08.29. 10:09",
