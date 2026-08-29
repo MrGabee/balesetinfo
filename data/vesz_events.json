@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T06:24:15.228065+00:00",
-  "count": 3607,
+  "updated_at": "2026-08-29T06:27:48.722423+00:00",
+  "count": 3608,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91437",
+      "datetime": "2026.08.29. 08:26",
+      "title": "Árokba borult egy autó Jászfényszarun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91437",
+      "lead": "A Dózsa György úton félpályán halad a forgalom.",
+      "body": "Árokba borult egy személyautó Jászfényszarun, a Dózsa György úton. A balesethez a jászberényi hivatásos és a jászfényszarui önkéntes tűzoltókat riasztották, akik áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Jászfényszaru, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "91436",
       "datetime": "2026.08.29. 08:00",
