@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-08-29T10:50:56.773536+00:00",
-  "count": 3614,
+  "updated_at": "2026-08-29T10:55:24.276352+00:00",
+  "count": 3616,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91445",
+      "datetime": "2026.08.29. 12:54",
+      "title": "Motor és autó ütközött Adonyban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91445",
+      "lead": "A 6-os főút és a Rév utca kereszteződésében van szükség műszaki mentésre.",
+      "body": "Motorkerékpár és személyautó karambolozott Adonyban, a 6-os főút és a Rév utca kereszteződésében. A balesethez a pusztaszabolcsi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Adony, Rév utca",
+      "updates": []
+    },
+    {
+      "id": "91444",
+      "datetime": "2026.08.29. 12:52",
+      "title": "Frontális karambol Salgótarjánban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91444",
+      "lead": "A 21-es főút belterületi szakasza és a Budapesti út találkozásánál félpályán halad a forgalom.",
+      "body": "Frontálisan ütközött két személyautó Salgótarjánban, a 21-es főút belterületi szakasza és a Budapesti út találkozásánál. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Salgótarján, Budapesti út",
+      "updates": []
+    },
     {
       "id": "91443",
       "datetime": "2026.08.29. 12:20",
