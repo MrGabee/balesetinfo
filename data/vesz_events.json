@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T21:46:47.889589+00:00",
-  "count": 3632,
+  "updated_at": "2026-08-29T21:49:49.938683+00:00",
+  "count": 3633,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91462",
+      "datetime": "2026.08.29. 23:47",
+      "title": "Ház falának ütközött egy autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91462",
+      "lead": "A Sámsoni út és a Mátyás király utca kereszteződésében van szükség műszaki mentésre.",
+      "body": "Ház falának ütközött egy személyautó Debrecenben, a Sámsoni út és a Mátyás király utca kereszteződésében. A balesethez a helyi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Debrecen, Sámsoni út",
+      "updates": []
+    },
     {
       "id": "91461",
       "datetime": "2026.08.29. 23:45",
