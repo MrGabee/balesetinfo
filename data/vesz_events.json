@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T13:42:10.414080+00:00",
-  "count": 3621,
+  "updated_at": "2026-08-29T13:46:01.047200+00:00",
+  "count": 3622,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91451",
+      "datetime": "2026.08.29. 15:45",
+      "title": "Tarló és erdő alja ég Ács és Gönyű között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91451",
+      "lead": "Az 1-es főút mellett van szükség tűzoltói beavatkozásra.",
+      "body": "Tarló és erdő alja ég az 1-es főút melletti területen, Ács és Gönyű közötti szakaszán. A tűz körülbelül tizenöt hektárt érint. Az ácsi önkormányzati és önkéntes tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
+      "location": "Ács, 1",
+      "updates": []
+    },
     {
       "id": "91450",
       "datetime": "2026.08.29. 14:39 -",
