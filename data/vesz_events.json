@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T14:48:52.042858+00:00",
-  "count": 3624,
+  "updated_at": "2026-08-29T14:52:20.066995+00:00",
+  "count": 3625,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91454",
+      "datetime": "2026.08.29. 16:51",
+      "title": "Busz és autó ütközött Budapest XIV. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91454",
+      "lead": "A Thököly úton forgalmi akadályra kell számítani.",
+      "body": "Busz és személyautó ütközött össze Budapest XIV. kerületében, a Thököly úton. A Szabó József utca és az Izsó utca közötti szakaszon történt balesetnél a fővárosi hivatásos tűzoltók végeznek műszaki mentést. A rajok a helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Budapest, Thököly út",
+      "updates": []
+    },
     {
       "id": "91453",
       "datetime": "2026.08.29. 16:30",
