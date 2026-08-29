@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T17:03:24.002102+00:00",
-  "count": 3626,
+  "updated_at": "2026-08-29T17:06:41.792578+00:00",
+  "count": 3627,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91456",
+      "datetime": "2026.08.29. 19:03",
+      "title": "Motor és autó karambolozott Budapest VIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91456",
+      "lead": "A Thököly út és a Kerepesi út találkozásánál történt a baleset.",
+      "body": "Motorkerékpár és személyautó ütközött össze Budapest VIII. kerületében, a Thököly út és a Kerepesi út találkozásánál, a Baross téren. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Baross tér",
+      "updates": []
+    },
     {
       "id": "91455",
       "datetime": "2026.08.29. 18:14",
