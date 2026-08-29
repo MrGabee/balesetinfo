@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T09:35:25.172629+00:00",
-  "count": 3612,
+  "updated_at": "2026-08-29T09:39:09.130520+00:00",
+  "count": 3613,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91442",
+      "datetime": "2026.08.29. 11:38",
+      "title": "Autótűz Püspökhatvanban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91442",
+      "lead": "A Petőfi Sándor utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy kisteherautó Püspökhatvanban, a Petőfi Sándor utcában. A jármű teljes terjedelmében égett. A lángokat a berceli hivatásos tűzoltók oltották el.",
+      "location": "Püspökhatvan, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "91441",
       "datetime": "2026.08.29. 10:53",
