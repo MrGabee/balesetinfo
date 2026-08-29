@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T20:09:41.390904+00:00",
-  "count": 3629,
+  "updated_at": "2026-08-29T20:12:57.131722+00:00",
+  "count": 3630,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91459",
+      "datetime": "2026.08.29. 22:10",
+      "title": "Tároló égett Kiskunlacházán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91459",
+      "lead": "A Pipacs utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy tároló Kiskunlacházán, a Pipacs utcában. A szigetszentmiklósi és a ráckevei önkormányzati tűzoltók két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Kiskunlacháza, Pipacs utca",
+      "updates": []
+    },
     {
       "id": "91458",
       "datetime": "2026.08.29. 20:48",
