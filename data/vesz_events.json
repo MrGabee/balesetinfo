@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T21:43:02.889988+00:00",
-  "count": 3631,
+  "updated_at": "2026-08-29T21:46:47.889589+00:00",
+  "count": 3632,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91461",
+      "datetime": "2026.08.29. 23:45",
+      "title": "Kigyulladt egy autó az M4-esen, Ceglédnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91461",
+      "lead": "A Budapest felé vezető oldalon félpályán halad a forgalom.",
+      "body": "Teljes terjedelmében égett egy személyautó az M4-es autóút Budapest felé vezető oldalán, Cegléd közelében, a 81-es kilométerszelvénynél. A lángokat a ceglédi hivatásos tűzoltók oltották el. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Cegléd, M4",
+      "updates": []
+    },
     {
       "id": "91460",
       "datetime": "2026.08.29. 22:38",
