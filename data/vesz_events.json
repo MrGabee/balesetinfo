@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T11:44:56.859862+00:00",
-  "count": 3618,
+  "updated_at": "2026-08-29T11:48:37.842240+00:00",
+  "count": 3619,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91448",
+      "datetime": "2026.08.29. 13:45",
+      "title": "Árokba borult egy autó az M4-esen, Ceglédnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91448",
+      "lead": "A Szolnok felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Árokba borult egy személyautó az M4-es autóút Szolnok felé vezető oldalán, Cegléd közelében, a 65-ös kilométerszelvénynél. A ceglédi hivatásos tűzoltók és a Dolinavölgye Mikrotérségi Önkéntes Tűzoltó Egyesület hidraulikus feszítővágó segítségével egy embert kiemeltek a gépkocsiból. A helyszínre mentőhelikopter is érkezik. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Cegléd, M4",
+      "updates": []
+    },
     {
       "id": "91447",
       "datetime": "2026.08.29. 13:25",
