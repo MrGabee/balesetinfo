@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:42:21.958597+00:00",
+  "updated_at": "2026-08-29T15:46:07.198154+00:00",
   "count": 3625,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "91451",
-      "datetime": "2026.08.29. 15:45",
+      "datetime": "2026.08.29. 15:45 -",
       "title": "Tarló és erdő aljnövényzete ég Ács és Gönyű között",
-      "category": "Tűzeset",
+      "category": "Tarló és erdő aljnövényzete ég Ács és Gönyű között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91451",
       "lead": "Az 1-es főút mellett van szükség tűzoltói beavatkozásra.",
       "body": "Tarló és erdő aljnövényzete ég az 1-es főút melletti területen, Ács és Gönyű közötti szakaszán. A tűz körülbelül tizenöt hektárt érint. Az ácsi önkormányzati és önkéntes tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Ács, 1",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nincs tűz Ács és Gönyű között",
+          "datetime": "2026.08.29. 17:43",
+          "category": "Tűzeset",
+          "text": "Befejezték az utómunkálatokat a tűzoltók az 1-es főút melletti területen, ahol tarló és erdő aljnövényzete égett Ács és Gönyű közötti szakaszán. A tűz körülbelül nyolc hektárt érintett összesen. A komáromi, győri és kibéri hivatásos, az ácsi önkormányzati és az ácsi, babi és komáromi önkéntes tűzoltók, a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett eloltották a lángokat.",
+          "location": "Ács, 1",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91451/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91451"
+        }
+      ]
     },
     {
       "id": "91450",
