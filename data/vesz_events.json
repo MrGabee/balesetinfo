@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T04:15:05.651098+00:00",
+  "updated_at": "2026-08-29T04:19:02.438264+00:00",
   "count": 3606,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,7 +34,16 @@
       "lead": "A tűzoltók több vízsugárral oltják a lángokat.",
       "body": "Tűz keletkezett egy hotelben, Salgótarjánban, a Medvesi úton. A tűz egy különálló épületrészt érint, amelynek a tetőszerkezete beomlott. A Nógrád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a salgótarjáni, a bátonyterenyei, a szécsényi és a pétervásárai hivatásos tűzoltók érkeztek a helyszínre. A rajok több vízsugárral oltják a lángokat.",
       "location": "Salgótarján, Medvesi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Salgótarjánban",
+          "datetime": "2026.08.29. 06:13",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy hotelben, Salgótarjánban, a Medvesi úton. A tűz ötszáz négyzetméteren érintette a torna- és uszodacsarnokot, amelynek a tetőszerkezete beomlott. A Nógrád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a salgótarjáni, a bátonyterenyei, a szécsényi és a pétervásárai hivatásos tűzoltók érkeztek a helyszínre. A rajok hét vízsugárral oltották el a lángokat.",
+          "location": "Salgótarján, Medvesi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91433/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91433"
+        }
+      ]
     },
     {
       "id": "91432",
