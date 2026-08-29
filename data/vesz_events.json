@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T11:48:37.842240+00:00",
-  "count": 3619,
+  "updated_at": "2026-08-29T11:52:08.247598+00:00",
+  "count": 3620,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91449",
+      "datetime": "2026.08.29. 13:50",
+      "title": "Tűz van Borsodivánka és Négyes között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91449",
+      "lead": "A tűz körülbelül két hektárnyi területet érint.",
+      "body": "Nádas ég Borsodivánka és Négyes között, a 3302-es út mellett. A tűz körülbelül két hektárnyi területet érint. A mezőkövesdi hivatásos és a tiszabábolnai önkéntes tűzoltók oltják a lángokat, valamint több egység is a helyszínre tart.",
+      "location": "Négyes, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "91448",
       "datetime": "2026.08.29. 13:45",
