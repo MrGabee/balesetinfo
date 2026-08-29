@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:57:47.513345+00:00",
+  "updated_at": "2026-08-29T13:00:57.189512+00:00",
   "count": 3621,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Gábor Áron utcában oltják a lángokat.",
       "body": "Teljes terjedelmében ég egy családi házzal egybeépített melléképület Lébényben, a Gábor Áron utcában. A helyi hivatásos és önkéntes tűzoltók két gázpalackot hoztak ki az ingatlanból. A rajok több vízsugárral dolgoznak a lángok eloltásán.",
       "location": "Lébény, Gábor Áron utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a tűzoltók Lébényben",
+          "datetime": "2026.08.29. 14:57",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik a tűzoltók Lébényben, ahol egy családi házhoz hozzáépített garázs és melléképület égett a Gábor Áron utcában. A tűz a főépület tetőszerkezetének egy részére is átterjedt. A lébényi és győri hivatásos tűzoltók, valamint a lébényi és mosonszentmiklósi önkéntes tűzoltók eloltották a lángokat. A rajok két gázpalackot is kihoztak az ingatlanból",
+          "location": "Lébény, Gábor Áron utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91450/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91450"
+        }
+      ]
     },
     {
       "id": "91449",
