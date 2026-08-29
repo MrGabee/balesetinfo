@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T10:55:24.276352+00:00",
-  "count": 3616,
+  "updated_at": "2026-08-29T10:58:46.808535+00:00",
+  "count": 3617,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91446",
+      "datetime": "2026.08.29. 12:57",
+      "title": "Villamos és személyautó ütközött Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91446",
+      "lead": "Az István útra vonultak a tűzoltók.",
+      "body": "Villamos és személyautó ütközött össze Újpesten, az István úton, a Szent István tér közelében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A rajok megszüntették a forgalmi akadályt.",
+      "location": "Budapest, István út",
+      "updates": []
+    },
     {
       "id": "91445",
       "datetime": "2026.08.29. 12:54",
