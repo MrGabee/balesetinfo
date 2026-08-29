@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T07:42:22.342018+00:00",
-  "count": 3608,
+  "updated_at": "2026-08-29T07:45:55.958993+00:00",
+  "count": 3609,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91438",
+      "datetime": "2026.08.29. 09:44",
+      "title": "Tűz volt egy családi házban Somogysárdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91438",
+      "lead": "A Petőfi utcába vonultak a tűzoltók.",
+      "body": "Tűz volt egy családi házban Somogysárdon, a Petőfi utcában. A kaposvári hivatásos tűzoltók légzésvédelem mellett eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Somogysárd, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91437",
       "datetime": "2026.08.29. 08:26",
