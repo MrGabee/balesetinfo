@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T20:38:24.073669+00:00",
-  "count": 3630,
+  "updated_at": "2026-08-29T20:41:40.648797+00:00",
+  "count": 3631,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91460",
+      "datetime": "2026.08.29. 22:38",
+      "title": "Két autó karambolozott Gyula közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91460",
+      "lead": "Az Eleki út és a 4434-es út találkozásánál van szükség műszaki mentésre.",
+      "body": "Összeütközött két személyautó Gyula közelében, az Eleki út és a 4434-es út találkozásánál. A balesethez a gyulai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Gyula, Eleki út",
+      "updates": []
+    },
     {
       "id": "91459",
       "datetime": "2026.08.29. 22:10",
