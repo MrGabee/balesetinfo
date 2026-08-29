@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-29T11:25:05.471576+00:00",
-  "count": 3617,
+  "updated_at": "2026-08-29T11:27:57.848112+00:00",
+  "count": 3618,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91447",
+      "datetime": "2026.08.29. 13:25",
+      "title": "Árokba borult egy autó Becsehely és Borsfa között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91447",
+      "lead": "A 7536-os úton félpályán halad a forgalom.",
+      "body": "Árokba borult egy személyautó a Becsehelyet és Borsfát összekötő, 7536-os út  4-es és 5-ös kilométerszelvénye között. A balesethez a letenyei hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Borsfa, Kossuth út",
+      "updates": []
+    },
     {
       "id": "91446",
       "datetime": "2026.08.29. 12:57",
