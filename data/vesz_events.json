@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T08:10:46.619603+00:00",
-  "count": 3634,
+  "updated_at": "2026-08-30T08:14:39.181377+00:00",
+  "count": 3635,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91464",
+      "datetime": "2026.08.30. 10:12",
+      "title": "Felborult egy autó lakókocsija az M7-esen, Szabadbattyánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91464",
+      "lead": "Forgalmi akadály alakult ki a baleset miatt a főváros felé vezető oldalon.",
+      "body": "Szalagkorlátnak ütközött egy lakókocsit vontató személyautó az M7-es autópálya 69-es kilométerszelvényénél, Szabadbattyán térségében, a Budapest felé vezető irányban. A baleset következtében, a lakókocsi felborult, forgalmi akadályt okoz. A székesfehérvári hivatásos tűzoltók és a társhatóságok megkezdték a helyszíni munkálatokat.",
+      "location": "Szabadbattyán, M7",
+      "updates": []
+    },
     {
       "id": "91463",
       "datetime": "2026.08.30. 09:34",
