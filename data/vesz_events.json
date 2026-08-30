@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T17:19:04.281123+00:00",
-  "count": 3655,
+  "updated_at": "2026-08-30T17:22:16.784212+00:00",
+  "count": 3656,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91485",
+      "datetime": "2026.08.30. 19:19",
+      "title": "Motorossal karambolozott egy személyautó Hajdúnánáson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91485",
+      "lead": "Lezárták az érintett kereszteződést a hatósági munkálatok idejére.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó Hajdúnánáson, a Magyar utca és a Kossuth utca kereszteződésénél. A motoron és az autóban is csak a vezetője utazott. A hajdúnánási hivatásos tűzoltók és a társhatóságok teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Hajdúnánás, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "91484",
       "datetime": "2026.08.30. 18:27",
