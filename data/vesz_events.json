@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T11:21:04.973136+00:00",
-  "count": 3642,
+  "updated_at": "2026-08-30T11:25:01.780136+00:00",
+  "count": 3643,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91472",
+      "datetime": "2026.08.30. 13:23",
+      "title": "Két autó karambolozott a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91472",
+      "lead": "Az egyik jármű az oldalára borult az ütközés következtében.",
+      "body": "Összeütközött két gépkocsi a XVIII. kerületben, a Garay utca és a Bókay Árpád utca kereszteződésénél. Az ütközés erejétől az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók és a Foka ÖTE önkéntes tűzoltói már a helyszínre értek, megkezdték az autók áramtalanítását, valamint a társhatóságokat várják az esethez. A baleset miatt lezárták az érintett kereszteződést.",
+      "location": "Budapest, Bókay Árpád utca",
+      "updates": []
+    },
     {
       "id": "91471",
       "datetime": "2026.08.30. 13:09",
