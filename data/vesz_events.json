@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T07:30:31.766968+00:00",
-  "count": 3633,
+  "updated_at": "2026-08-30T07:35:06.784070+00:00",
+  "count": 3634,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91463",
+      "datetime": "2026.08.30. 09:34",
+      "title": "Traktorral karambolozott egy személyautó Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91463",
+      "lead": "A tűzoltók a közútkezelő munkatársait is a helyszínre kérték.",
+      "body": "Traktorral ütközött össze egy személyautó Kaposváron, a Jutai út és a Hajnóczi József utca kereszteződésénél. A traktoron csak a vezetője tartózkodott, míg az autóban hárman utaztak. A kaposvári hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a balesethez, illetve az úttestre került törmelék miatt az egység a közútkezelő munkatársait is a helyszínre kérte.",
+      "location": "Kaposvár, Jutai út",
+      "updates": []
+    },
     {
       "id": "91462",
       "datetime": "2026.08.29. 23:47",
@@ -190,9 +201,9 @@
       "title": "Árokba borult egy autó az M4-esen, Ceglédnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91448",
-      "lead": "A Szolnok felé vezető oldalon forgalomkorlátozásra kell számítani.",
-      "body": "Árokba borult egy személyautó az M4-es autóút Szolnok felé vezető oldalán, Cegléd közelében, a 65-ös kilométerszelvénynél. A ceglédi hivatásos tűzoltók és a Dolinavölgye Mikrotérségi Önkéntes Tűzoltó Egyesület hidraulikus feszítővágó segítségével egy embert kiemeltek a gépkocsiból. A helyszínre mentőhelikopter is érkezik. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Cegléd, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -201,9 +212,9 @@
       "title": "Árokba borult egy autó Becsehely és Borsfa között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91447",
-      "lead": "A 7536-os úton félpályán halad a forgalom.",
-      "body": "Árokba borult egy személyautó a Becsehelyet és Borsfát összekötő, 7536-os út  4-es és 5-ös kilométerszelvénye között. A balesethez a letenyei hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Borsfa, Kossuth út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
