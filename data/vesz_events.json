@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T13:17:13.802032+00:00",
-  "count": 3648,
+  "updated_at": "2026-08-30T13:20:54.670152+00:00",
+  "count": 3649,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91478",
+      "datetime": "2026.08.30. 15:19",
+      "title": "Utoléréses baleset történt a 81-esen, Mórnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91478",
+      "lead": "A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "body": "Három gépkocsi szenvedett utoléréses balesetet a 81-es főút 26-os kilométerszelvényénél, Mór térségében. A móri önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen nyolcan utaztak. A balesethez az egység mellett a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Mór, 81",
+      "updates": []
+    },
     {
       "id": "91477",
       "datetime": "2026.08.30. 15:14",
