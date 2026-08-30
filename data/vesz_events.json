@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T16:20:13.379897+00:00",
-  "count": 3653,
+  "updated_at": "2026-08-30T16:23:51.969398+00:00",
+  "count": 3654,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91483",
+      "datetime": "2026.08.30. 18:21",
+      "title": "Árokba hajtott egy autó Püspökhatvan és Galgagyörk között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91483",
+      "lead": "Félpályán halad a forgalom a 2108-as út érintett szakaszán.",
+      "body": "Árokba hajtott egy gépkocsi Püspökhatvan és Galgagyörk között, a 2108-as út 41-es kilométerszelvényénél. A két utas a berceli hivatásos tűzoltók kiérkezése előtt ki tudott szállni a járműből. A balesethez az egység mellett a mentők is kiérkeztek, a beavatkozást félpályás útlezárás mellett végzik.",
+      "location": "Püspökhatvan, 2108",
+      "updates": []
+    },
     {
       "id": "91482",
       "datetime": "2026.08.30. 18:15",
