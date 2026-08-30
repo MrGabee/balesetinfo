@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T09:11:53.861071+00:00",
-  "count": 3636,
+  "updated_at": "2026-08-30T09:15:41.190025+00:00",
+  "count": 3637,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91466",
+      "datetime": "2026.08.30. 11:12",
+      "title": "Hármas karambol az M5-ösön, Lajosmizsénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91466",
+      "lead": "Torlódás alakult ki a baleset miatt a főváros felé.",
+      "body": "Három gépkocsi ütközött össze az M5-ös autópálya 67-es kilométerszelvényénél, Lajosmizse térségében, a Budapest felé vezető oldalon. Összesen kilencen utaztak a járművekben, amelyek áramtalanítását a lajosmizsei önkormányzati tűzoltók már megkezdték. A baleset miatt torlódás alakult ki az érintett pályaszakaszon.",
+      "location": "Lajosmizse, M5",
+      "updates": []
+    },
     {
       "id": "91465",
       "datetime": "2026.08.30. 10:56",
