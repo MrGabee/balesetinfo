@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T15:48:56.282242+00:00",
-  "count": 3651,
+  "updated_at": "2026-08-30T15:52:24.545654+00:00",
+  "count": 3652,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91481",
+      "datetime": "2026.08.30. 17:50",
+      "title": "Árokba csapódott egy kisteherautó a 4-esen, Újfehértónál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91481",
+      "lead": "A balesethez mentőhelikopter is érkezett, az érintett útszakaszt lezárták.",
+      "body": "Árokba csapódott egy kisteherautó a 4-es főút 257-es kilométerszelvényénél, Újfehértó térségében. A járműben csak a vezetője utazott, akinek kiemelését a nyíregyházi hivatásos és az újfehértói önkormányzati tűzoltók feszítővágóval kezdték meg. A balesethez az egységek és a társhatóságok járművei mellett mentőhelikopter is érkezett, a beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Újfehértó, 4",
+      "updates": []
+    },
     {
       "id": "91480",
       "datetime": "2026.08.30. 15:34",
