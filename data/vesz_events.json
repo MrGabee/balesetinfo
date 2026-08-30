@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T17:49:43.111644+00:00",
-  "count": 3657,
+  "updated_at": "2026-08-30T17:53:25.240587+00:00",
+  "count": 3658,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91487",
+      "datetime": "2026.08.30. 19:51",
+      "title": "Tűzhelyen melegített olaj gyulladt meg egy komlói lakás konyhájában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91487",
+      "lead": "A tűzoltók három embert kísértek ki az épületből.",
+      "body": "A tűzhelyen melegített olaj gyulladt meg egy kétemeletes lakóház egyik lakásának konyhájában Komlón, a Bányász utcában. A városi és a sásdi hivatásos tűzoltók egy vízsugárral átvizsgálták az érintett lakást, amelyet áramtalanítottak. Az egységek a munkálatok idejére három embert kísértek ki a füsttel telítődött lépcsőházból.",
+      "location": "Komló, Bányász utca",
+      "updates": []
+    },
     {
       "id": "91486",
       "datetime": "2026.08.30. 19:41",
