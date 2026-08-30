@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T09:29:36.483754+00:00",
-  "count": 3638,
+  "updated_at": "2026-08-30T09:33:19.835087+00:00",
+  "count": 3639,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91468",
+      "datetime": "2026.08.30. 11:33",
+      "title": "Két autó karambolozott a 76-oson, Balatonberénynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91468",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Összeütközött két gépkocsi a 76-os főút 1-es kilométerszelvényénél, Balatonberény térségében. A keszthelyi hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen hatan utaztak. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Balatonberény, 76",
+      "updates": []
+    },
     {
       "id": "91467",
       "datetime": "2026.08.30. 11:18",
