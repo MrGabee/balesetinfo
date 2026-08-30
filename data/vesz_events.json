@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T13:31:13.268396+00:00",
-  "count": 3650,
+  "updated_at": "2026-08-30T13:34:50.063505+00:00",
+  "count": 3651,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91480",
+      "datetime": "2026.08.30. 15:34",
+      "title": "Összeütközött két autó a 87-esen, Lukácsházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91480",
+      "lead": "Az egyik jármű az árokba borult az ütközés következtében.",
+      "body": "Két gépkocsi karambolozott a 87-es főút 41-es kilométerszelvényénél, Lukácsháza térségében. Az ütközés következtében az egyik jármű az árokba borult, a másik az úttesten maradt. A szombathelyi hivatásos, a kőszegi önkormányzati és a kőszegszerdahelyi önkéntes tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. Az egyik utas saját erejéből nem tudta elhagyni a járművét, a tűzoltók emelték ki. A hatósági beavatkozás idejére félpályán lezárták az érintett útszakaszt, a forgalom irányítás mellett halad.",
+      "location": "Lukácsháza, 87",
+      "updates": []
+    },
     {
       "id": "91479",
       "datetime": "2026.08.30. 15:25",
