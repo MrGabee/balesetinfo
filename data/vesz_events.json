@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T13:13:22.240157+00:00",
-  "count": 3647,
+  "updated_at": "2026-08-30T13:17:13.802032+00:00",
+  "count": 3648,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91477",
+      "datetime": "2026.08.30. 15:14",
+      "title": "Árokba borult egy lószállító Izsák és Szabadszállás között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91477",
+      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Szállítás közben leszakadt egy lovakat szállító vontatmány egy járműről Izsák és Szabadszállás között, az 5203-as út 51-es kilométerszelvényénél. A baleset következtében a szállító vontatmány fának ütközött, majd árokba borult. A szállított két ló egyike kiesett, a másik állat a vontatmányban maradt. A szabadszállási önkormányzati tűzoltók félpályás útlezárás mellett dolgoznak a helyszínen.",
+      "location": "Izsák, 5203",
+      "updates": []
+    },
     {
       "id": "91476",
       "datetime": "2026.08.30. 14:45",
