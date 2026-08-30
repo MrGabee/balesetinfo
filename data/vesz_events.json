@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T16:27:22.851581+00:00",
-  "count": 3654,
+  "updated_at": "2026-08-30T16:30:51.970160+00:00",
+  "count": 3655,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91484",
+      "datetime": "2026.08.30. 18:27",
+      "title": "Árokba borult egy autó a 63-ason, Sárbogárdnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91484",
+      "lead": "A vezetőt a tűzoltók kiérkezése előtt kiemelték a járműből.",
+      "body": "Árokba borult egy gépkocsi a 63-as főút 61-es kilométerszelvényénél, Sárbogárd térségében. A járműben csak a vezetője utazott, akit a helyszínen tartózkodók a sárbogárdi hivatásos tűzoltók kiérkezése előtt kisegítettek a kocsiból. A balesethez a mentők is kiérkeztek.",
+      "location": "Sárbogárd, 63",
+      "updates": []
+    },
     {
       "id": "91483",
       "datetime": "2026.08.30. 18:21",
