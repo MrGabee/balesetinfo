@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T08:53:15.909564+00:00",
-  "count": 3635,
+  "updated_at": "2026-08-30T08:57:40.890996+00:00",
+  "count": 3636,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91465",
+      "datetime": "2026.08.30. 10:56",
+      "title": "Ráfutásos baleset történt az 578-ason, Pécsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91465",
+      "lead": "A tűzoltók áramtalanították az egyik járművet.",
+      "body": "Ráfutásos balesetet szenvedett két gépkocsi Pécsen, az 578-as főút 2-es kilométerszelvényénél. Összesen négyen utaztak a járművekben, amelyek közül az egyiket a pécsi hivatásos tűzoltók áramtalanították. Az egység emellett eltávolítja az úttestre került szennyeződést. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Pécs, 578",
+      "updates": []
+    },
     {
       "id": "91464",
       "datetime": "2026.08.30. 10:12",
