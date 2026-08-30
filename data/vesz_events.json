@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T11:07:54.588757+00:00",
-  "count": 3641,
+  "updated_at": "2026-08-30T11:11:11.313894+00:00",
+  "count": 3642,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91471",
+      "datetime": "2026.08.30. 13:09",
+      "title": "Autóbusznak ütközött egy személyautó a XXIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91471",
+      "lead": "Forgalmi akadály alakult ki a Szent László utca érintett szakaszán.",
+      "body": "Menetrend szerint közlekedő autóbusznak ütközött egy gépkocsi a XXIII. kerületi Szent László utcában, a Mesgye utca és a Kiskócsag utca között. A fővárosi hivatásos tűzoltók a mentőket is a helyszínre kérték. A karambolos járművek miatt forgalmi akadály alakult ki a Szent László utca érintett szakaszán.",
+      "location": "Budapest, Szent László utca",
+      "updates": []
+    },
     {
       "id": "91470",
       "datetime": "2026.08.30. 11:59",
