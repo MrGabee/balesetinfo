@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T16:12:27.597839+00:00",
-  "count": 3652,
+  "updated_at": "2026-08-30T16:16:52.122516+00:00",
+  "count": 3653,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91482",
+      "datetime": "2026.08.30. 18:15",
+      "title": "Lakóházak égtek Pilisvörösváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91482",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy harminc négyzetméteres, rossz állapotú lakóház égett ki Pilisvörösváron, a Tó dűlőn. A tűz átterjedt a mellette álló, hasonlóan rossz állapotú lakóépületre. A fővárosi hivatásos és a pilisvörösvári önkéntes tűzoltók érkeztek a helyszínre, két vízsugárral fékezték meg a lángokat.",
+      "location": "Pilisvörösvár, Tó dűlő",
+      "updates": []
+    },
     {
       "id": "91481",
       "datetime": "2026.08.30. 17:50",
