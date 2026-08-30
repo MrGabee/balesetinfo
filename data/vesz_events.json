@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T17:40:15.541095+00:00",
-  "count": 3656,
+  "updated_at": "2026-08-30T17:43:28.733826+00:00",
+  "count": 3657,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91486",
+      "datetime": "2026.08.30. 19:41",
+      "title": "Tűz volt egy kiskunhalasi asztalosműhelyben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91486",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "A porelszívó berendezés gyulladt ki egy kétszáz négyzetméteres asztalosműhelyben Kiskunhalas külterületén, az Alsóöregszőlőknél. A város hivatásos tűzoltói érkeztek a helyszínre, egy vízsugárral előbb körülhatárolták, majd eloltották a tüzet. Az egységek átvizsgálták a fémvázas, szendvicspanel borítású épületet, amelyben a lángok nem terjedtek tovább.",
+      "location": "Kiskunhalas, Alsóöregszőlők",
+      "updates": []
+    },
     {
       "id": "91485",
       "datetime": "2026.08.30. 19:19",
