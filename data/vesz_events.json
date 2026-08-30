@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T18:14:34.284451+00:00",
-  "count": 3658,
+  "updated_at": "2026-08-30T18:17:54.092777+00:00",
+  "count": 3659,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91488",
+      "datetime": "2026.08.30. 20:15",
+      "title": "Kigyulladt egy autó Soroksáron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91488",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt, majd teljesen kiégett egy gépkocsi a XXIII. kerületi Túri István úton. A Foka ÖTE önkéntes tűzoltói egy vízsugárral körülhatárolták, majd eloltották a lángokat. Az esethez a fővárosi hivatásos tűzoltók is kiérkeztek. Az egységek jelenleg az utómunkálatokat végzik.",
+      "location": "Budapest, Túri István utca",
+      "updates": []
+    },
     {
       "id": "91487",
       "datetime": "2026.08.30. 19:51",
