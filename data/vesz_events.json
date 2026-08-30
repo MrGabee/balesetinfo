@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T11:42:30.468125+00:00",
-  "count": 3643,
+  "updated_at": "2026-08-30T11:46:06.631262+00:00",
+  "count": 3644,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91473",
+      "datetime": "2026.08.30. 13:43",
+      "title": "Négyes karambol történt az M7-esen, Pákozdnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91473",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Négy gépkocsi ütközött össze az M7-es autópálya 54-es kilométerszelvényénél, Pákozd térségében, a Budapest felé vezető irányban. Összesen nyolcan utaztak a járművekben, amelyek közül az egyiket a székesfehérvári hivatásos tűzoltók áramtalanították. Az egységek emellett megkezdték a forgalmi akadály megszüntetését. A hatósági beavatkozás idejére lezárták az érintett pályaszakaszt.",
+      "location": "Pákozd, M7",
+      "updates": []
+    },
     {
       "id": "91472",
       "datetime": "2026.08.30. 13:23",
