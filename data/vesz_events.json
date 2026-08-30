@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T09:36:46.054915+00:00",
-  "count": 3639,
+  "updated_at": "2026-08-30T09:41:06.656368+00:00",
+  "count": 3640,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91469",
+      "datetime": "2026.08.30. 11:39",
+      "title": "Négyes karambol történt a 31-esen, Gyömrő és Mende között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91469",
+      "lead": "A baleset miatt lezárták az érintett útszakaszt.",
+      "body": "Négy gépkocsi karambolozott, két jármű közülük frontálisan ütközött Gyömrő és Mende között, a 31-es főút 34-es kilométerszelvényénél. A monori hivatásos tűzoltók mindegyik járművet áramtalanították. A baleset miatt lezárták a 31-es főút érintett szakaszát.",
+      "location": "Mende, 31",
+      "updates": []
+    },
     {
       "id": "91468",
       "datetime": "2026.08.30. 11:33",
