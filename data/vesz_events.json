@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T11:49:39.063574+00:00",
-  "count": 3644,
+  "updated_at": "2026-08-30T11:52:48.366720+00:00",
+  "count": 3645,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91474",
+      "datetime": "2026.08.30. 13:51",
+      "title": "Ráfutásos baleset történt az M1-esen, Levélnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91474",
+      "lead": "A tűzoltók eltávolítják az úttestre került szennyeződést.",
+      "body": "Két gépkocsi szenvedett ráfutásos balesetet az M1-es autópálya 163-as kilométerszelvényénél, Levél térségében, a Hegyeshalom felé vezető oldalon. A járművekben összesen hárman utaztak. A mosonmagyaróvári hivatásos tűzoltók megkezdték az úttestre került szennyeződés eltávolítását. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Levél, M1",
+      "updates": []
+    },
     {
       "id": "91473",
       "datetime": "2026.08.30. 13:43",
