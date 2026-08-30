@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T09:58:19.597452+00:00",
-  "count": 3640,
+  "updated_at": "2026-08-30T10:02:13.046464+00:00",
+  "count": 3641,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91470",
+      "datetime": "2026.08.30. 11:59",
+      "title": "Kigyulladt egy autó motortere az I. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91470",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Egy gépkocsi motortere égett az I. kerületi Krisztina körúton, a Mikó utca közelében. A fővárosi hivatásos tűzoltók rövid időn belül egy vízsugárral eloltották a lángokat. Az egység jelenleg az utómunkálatokat végzi.",
+      "location": "Budapest, Krisztina körút",
+      "updates": []
+    },
     {
       "id": "91469",
       "datetime": "2026.08.30. 11:39",
