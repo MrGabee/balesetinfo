@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T11:56:07.440418+00:00",
-  "count": 3645,
+  "updated_at": "2026-08-30T11:59:42.188662+00:00",
+  "count": 3646,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91475",
+      "datetime": "2026.08.30. 13:58",
+      "title": "Három autó ütközött össze az M7-esen, Polgárdinál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91475",
+      "lead": "A tűzoltók megkezdték a járművek áramtalanítását.",
+      "body": "Három gépkocsi ütközött össze az M7-es autópálya 76-os kilométerszelvényénél, Polgárdi térségében, a Budapest felé vezető irányban. Nyolcan utaztak összesen a járművekben, amelyek áramtalanítását a polgárdi önkormányzati tűzoltók végzik el. A baleset miatt forgalmi akadályra kell számítani az érintett pályaszakaszon.",
+      "location": "Polgárdi, M7",
+      "updates": []
+    },
     {
       "id": "91474",
       "datetime": "2026.08.30. 13:51",
