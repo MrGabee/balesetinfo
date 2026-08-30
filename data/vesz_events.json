@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T18:35:38.455876+00:00",
-  "count": 3660,
+  "updated_at": "2026-08-30T18:39:11.868021+00:00",
+  "count": 3661,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91490",
+      "datetime": "2026.08.30. 20:35",
+      "title": "Kiégett egy autó az M35-ösön, Hajdúböszörménynél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91490",
+      "lead": "A tűz az aljnövényzetre is átterjedt.",
+      "body": "Teljesen kiégett egy gépkocsi az M35-ös autópálya 19-es kilométerszelvényénél, Hajdúböszörmény térségében. A tűz mintegy kétszáz négyzetméteren átterjedt az aljnövényzetre a kocsi környezetében. A hajdúnánási hivatásos tűzoltók két vízsugárral körülhatárolták, majd megszüntették a lángokat. Az esethez a debreceni hivatásos tűzoltók vízszállítója is kiérkezett.",
+      "location": "Hajdúböszörmény, M35",
+      "updates": []
+    },
     {
       "id": "91489",
       "datetime": "2026.08.30. 20:29",
