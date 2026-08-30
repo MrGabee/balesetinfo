@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T07:56:48.022818+00:00",
+  "updated_at": "2026-08-30T08:00:32.497395+00:00",
   "count": 3634,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -278,19 +278,10 @@
       "title": "Száraz fű és bozótos ég Őrhalomnál",
       "category": "Száraz fű és bozótos ég Őrhalomnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91441",
-      "lead": "A tűz körülbelül tíz hektárt érint.",
-      "body": "Száraz fű és bozótos terület ég Őrhalomnál, a Rákóczi fejedelem út mellett. A tűz körülbelül tíz hektárt érint. A balassagyarmati és szécsényi hivatásos tűzoltók dolgoznak a lángok megfékezésén.",
-      "location": "Őrhalom, Rákóczi fejedelem út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Őrhalom térségében",
-          "datetime": "2026.08.29. 11:57",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Őrhalom térségében, ahol száraz fű és bozótos égett a Rákóczi fejedelem út közelében. A tűz körülbelül tíz hektárnyi területet érintett. A balassagyarmati és szécsényi hivatásos tűzoltók további izzó pontok után kutatnak.",
-          "location": "Őrhalom, Rákóczi fejedelem út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91441/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91441"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91440",
@@ -364,9 +355,9 @@
       "title": "Karambol a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91434",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Surjánynál forgalmi akadály van az érintett útszakaszon.",
+      "body": "Összeütközött két személygépkocsi a 4-es főúton, Törökszentmiklós Surjány városrészénél. Az autókban csak a sofőrök utaztak. A törökszentmiklósi önkormányzati tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Törökszentmiklós, Surjány-Újtelep Barackfa utca",
       "updates": []
     },
     {
