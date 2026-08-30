@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T13:24:05.006124+00:00",
-  "count": 3649,
+  "updated_at": "2026-08-30T13:28:03.675577+00:00",
+  "count": 3650,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91479",
+      "datetime": "2026.08.30. 15:25",
+      "title": "Négy jármű karambolozott a 83-ason, Farkasgyepűnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91479",
+      "lead": "Teljes útlezárás mellett tart a hatósági beavatkozás.",
+      "body": "Egy kamion és három személyautó ütközött össze a 83-as főút 8-as kilométerszelvényénél, Farkasgyepű térségében. A járművekben összesen kilencen utaztak. A pápai hivatásos tűzoltók és a társhatóságok megkezdték a munkálatokat, a tűzoltók áramtalanították az autókat. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Farkasgyepű, 83",
+      "updates": []
+    },
     {
       "id": "91478",
       "datetime": "2026.08.30. 15:19",
