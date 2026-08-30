@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-30T09:15:41.190025+00:00",
-  "count": 3637,
+  "updated_at": "2026-08-30T09:19:42.432551+00:00",
+  "count": 3638,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91467",
+      "datetime": "2026.08.30. 11:18",
+      "title": "Kigyulladt egy autó az M7-esen, Zamárdi és Siófok között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91467",
+      "lead": "Az oltási munkálatok idejére lezárták az érintett pályaszakaszt Budapest felé.",
+      "body": "Kigyulladt, és teljes egészében ég egy gépkocsi az M7-es autópálya 108-as kilométerszelvényénél, Zamárdi és Siófok között, a Budapest felé vezető oldalon. A helyszínre kiérkezett siófoki hivatásos tűzoltók két vízsugárral oltják a lángokat. A munkálatok idejére lezárták az érintett pályaszakaszt.",
+      "location": "Siófok, M7",
+      "updates": []
+    },
     {
       "id": "91466",
       "datetime": "2026.08.30. 11:12",
