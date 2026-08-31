@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T17:44:40.251590+00:00",
-  "count": 3700,
+  "updated_at": "2026-08-31T17:48:19.339332+00:00",
+  "count": 3701,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91530",
+      "datetime": "2026.08.31. 19:45",
+      "title": "Ég a vegetáció Bagamér és Álmosd között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91530",
+      "lead": "Több hektáron fenyőfa tarvágás, illetve fiatal akácos kapott lángra.",
+      "body": "Nagy területen gyulladt meg a fenyőfa tarvágás, valamint a fiatal akácos Álmosd és Bagamér között. A tűz több irányba terjedt, veszélyt jelentett egy vadászházra is. Létavértesi önkormányzati, berettyóújfalui, hajdúszoboszlói, debreceni hivatásos, álmosdi, konyári és debreceni önkéntes tűzoltók oltják a lángokat, a munkát helyi lakosok is segítik, például azzal, hogy járható utat készítenek a szerek számára. Az oltóvízellátásban hat lajtoskocsi is részt vesz. Az egységek vízsugarakkal, kéziszerzámokkal, puttonyfecskendőkkel dolgoznak, a beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Álmosd, külterület",
+      "updates": []
+    },
     {
       "id": "91529",
       "datetime": "2026.08.31. 19:27",
