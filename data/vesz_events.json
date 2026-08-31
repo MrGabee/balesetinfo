@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T06:55:54.865723+00:00",
+  "updated_at": "2026-08-31T06:59:51.108070+00:00",
   "count": 3663,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -185,19 +185,10 @@
       "title": "Melléképület ég Gyálon",
       "category": "Melléképület ég Gyálon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91476",
-      "lead": "A tűz átterjedt egy lakóépület tetejére.",
-      "body": "Egy húsz négyzetméteres, könnyűszerkezetes melléképület ég teljes egészében Gyálon, az Egressy úton. A tűz átterjedt az épület mellett álló, száz négyzetméteres lakóház tetejére. A fővárosi hivatásos és a gyáli önkéntes tűzoltók érkeztek a helyszínre, megkezdték az oltási munkálatokat.",
-      "location": "Gyál, Egressy út",
-      "updates": [
-        {
-          "title": "Eloltották a tűzoltók a melléképület lángjait Gyálon",
-          "datetime": "2026.08.30. 16:43",
-          "category": "Tűzeset",
-          "text": "A fővárosi hivatásos és a gyáli önkéntes tűzoltók, valamint a Foka ÖTE önkéntes tűzoltói öt vízsugárral megfékezték a lángokat Gyálon, ahol egy lakóház húsz négyzetméteres, könnyűszerkezetes melléképülete égett teljes egészében az Egressy úton. A tűz átterjedt a szomszédos telken álló, száz négyzetméteres családi ház tetőterére. Az egységek a ház padlásfeljáróján felhatolva oltották ennek tüzét. Az esethez a mentők is kiérkeztek.",
-          "location": "Gyál, Egressy út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91476/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91476"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91475",
