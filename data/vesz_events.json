@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:47:40.071667+00:00",
+  "updated_at": "2026-08-31T11:52:04.246514+00:00",
   "count": 3679,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -97,10 +97,19 @@
       "title": "Ég a száraz fű Miskolcon",
       "category": "Ég a száraz fű Miskolcon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91500",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 26-os főút közelében keletkezett tűz.",
+      "body": "Kigyulladt a száraz fű Miskolcon, a 26-os főút és a Széphegy dűlő között, a Katowice utca közelében. Nagy területet érint, és egy fenyőerdőt, egy idősek otthonát, valamint lakóházakat is veszélyeztet a tűz. A város hivatásos tűzoltóik oltják a lángokat.",
+      "location": "Miskolc, Katowice utca",
+      "updates": [
+        {
+          "title": "Megfékezték a miskolci tüzet",
+          "datetime": "2026.08.31. 13:01",
+          "category": "Tűzeset",
+          "text": "A város hivatásos tűzoltói eloltották a lángokat Miskolc határában, a 26-os főút és a Széphegy dűlő között, a Katowice utca közelében, ahol kigyulladt a száraz fű. Mintegy hat hektárra terjedt ki, és egy fenyőerdőt, egy idősek otthonát, valamint lakóházakat is veszélyeztettek a lángok. A rajok átvizsgálják a leégett területet.",
+          "location": "Miskolc, Katowice utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91500/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91500"
+        }
+      ]
     },
     {
       "id": "91499",
@@ -108,9 +117,9 @@
       "title": "Három jármű ütközött össze a 84-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91499",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 34-es kilométernél, Megyer térségében történt a baleset.",
+      "body": "Egymásba hajtott három gépkocsi a 84-es főút 34-es kilométerénél, Megyer térségében. A sümegi önkormányzati tűzoltók áramtalanították a járműveket. A takarmányt és háztartási dolgokat szállító furgonban ketten ültek, a két személyautóban csak a sofőrök tartózkodtak. A helyszínre mentő is érkezett. A 84-es főút érintett szakaszán forgalomkorlátozásra kell számítani.",
+      "location": "Megyer, 84",
       "updates": []
     },
     {
@@ -218,9 +227,9 @@
       "title": "Tűz ütött ki egy fülöpszállási családi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91489",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral fékezték meg a lángokat.",
+      "body": "Egy családi ház egyik helyiségében keletkezett tűz Fülöpszálláson, a Petőfi Sándor utcánál. A lángok az épület tetejét is érintették. A szabadszállási önkormányzati és az önkéntes tűzoltók két vízsugárral dolgoztak a lángok megszüntetésén. Az esethez a solti hivatásos tűzoltók is kiérkeztek.",
+      "location": "Fülöpszállás, Petőfi Sándor utca",
       "updates": []
     },
     {
