@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T13:15:27.089546+00:00",
-  "count": 3688,
+  "updated_at": "2026-08-31T13:18:51.499720+00:00",
+  "count": 3689,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91518",
+      "datetime": "2026.08.31. 15:17",
+      "title": "Hűtőventilátor izzott egy kőbányai üzlet tetején",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91518",
+      "lead": "A Kada utcába vonultak a tűzoltók, akik visszahűtötték a berendezést.",
+      "body": "Kisebb tűz volt egy üzlet tetején Budapest X. kerületében, a Kada utcában. A légkondicionálóhoz tartozó hűtőventilátor izzott. A fővárosi hivatásos tűzoltók visszahűtötték a berendezést.",
+      "location": "Budapest, Kada utca",
+      "updates": []
+    },
     {
       "id": "91517",
       "datetime": "2026.08.31. 15:08",
