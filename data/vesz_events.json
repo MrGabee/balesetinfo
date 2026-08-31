@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-31T12:53:58.909075+00:00",
+  "updated_at": "2026-08-31T12:57:19.612128+00:00",
   "count": 3686,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91515",
       "datetime": "2026.08.31. 14:49",
-      "title": "Összeütközött két autó a 3216-os úton",
+      "title": "Egymásnak ütközött két autó a 3216-os úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91515",
       "lead": "Tiszabura közelében van szükség a tűzoltók beavatkozására.",
       "body": "Karambolozott két személyautó a 3216-os úton, Tiszabura közelében, a 34. kilométernél. Az abádszalóki önkormányzati tűzoltók áramtalanították a gépkocsikat. A balesethez a mentők is kivonultak. A karambol helyszínén sok törmelék van, az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Tiszabura, 3216",
+      "location": "Tiszabura, Mirhó út",
       "updates": []
     },
     {
@@ -126,14 +126,23 @@
     },
     {
       "id": "91504",
-      "datetime": "2026.08.31. 12:45",
+      "datetime": "2026.08.31. 12:45 -",
       "title": "Lezárták a 47-es főutat Berettyóújfalun",
-      "category": "Egyéb esemény",
+      "category": "Lezárták a 47-es főutat Berettyóújfalun",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91504",
       "lead": "A körforgalom és a szupermarket közötti szakaszon elvágtak egy gázvezetéket.",
       "body": "Földmunkavégzés közben elvágtak egy gázvezetéket a 47-es főút berettyóújfalui szakaszán. A csőből áramlik ki a gáz, a helyszínre a város hivatásos tűzoltóit riasztották. A történtek miatt az érintett útszakaszt lezárják.",
       "location": "Berettyóújfalu, 47",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megindult a forgalom a 47-es főút berettyóújfalui szakaszán",
+          "datetime": "2026.08.31. 14:55",
+          "category": "Egyéb esemény",
+          "text": "Korábban a körforgalom és a szupermarket közötti szakaszon elvágtak egy gázvezetéket, emiatt az utat teljes szélességében lezárták. A város hivatásos tűzoltói biztosították a helyszínt. A gázszolgáltató munkatársai kiszakaszolták a sérült részt, majd megkezdték a gázvezeték helyreállítását. A szolgáltatáskiesés két utcát érint és körülbelül három órán keresztül tart.",
+          "location": "Berettyóújfalu, 47",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91504/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91504"
+        }
+      ]
     },
     {
       "id": "91503",
