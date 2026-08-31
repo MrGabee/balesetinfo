@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T13:29:33.695091+00:00",
-  "count": 3690,
+  "updated_at": "2026-08-31T13:32:55.822740+00:00",
+  "count": 3691,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91520",
+      "datetime": "2026.08.31. 15:30",
+      "title": "Karambol Bábolnán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91520",
+      "lead": "Lezárták a Mészáros utca egy szakaszát.",
+      "body": "Frontálisan karambolozott egy személygépkocsi és egy kisteherautó Bábolnán, a Mészáros utcában, azaz a 8136-os úton. Az ácsi és a nagyigmándi önkormányzati tűzoltók áramtalanítják a járműveket, amelyek az árokba sodródtak az ütközés következtében A helyszínen vannak a mentők és az ácsi önkéntes tűzoltók is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Bábolna, Mészáros utca",
+      "updates": []
+    },
     {
       "id": "91519",
       "datetime": "2026.08.31. 15:19",
