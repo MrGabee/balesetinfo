@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:07:27.818472+00:00",
-  "count": 3693,
+  "updated_at": "2026-08-31T14:11:07.696909+00:00",
+  "count": 3694,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91523",
+      "datetime": "2026.08.31. 16:07",
+      "title": "Karambol Izsáknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91523",
+      "lead": "Egy motorkerékpár és az avar is kigyulladt az 5302-es úton.",
+      "body": "Összeütközött egy motorkerékpár és egy személyautó az 5302-es úton, Izsák közelében, az 1. kilométernél. A motorkerékpár és mintegy ötszáz négyzetméteren az avar is kigyulladt.  A kiskőrösi hivatásos és a szabadszállási önkormányzati tűzoltók két vízsugárral és kéziszerszámokkal eloltották a lángokat. A rajok áramtalanították az autót. A baleset helyszínére mentőhelikopter is érkezett.",
+      "location": "Izsák, 5302",
+      "updates": []
+    },
     {
       "id": "91522",
       "datetime": "2026.08.31. 15:54",
