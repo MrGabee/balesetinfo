@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T13:08:00.034205+00:00",
-  "count": 3687,
+  "updated_at": "2026-08-31T13:11:31.920988+00:00",
+  "count": 3688,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91517",
+      "datetime": "2026.08.31. 15:08",
+      "title": "Tűz ütött ki a szegedi rendező pályaudvar közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91517",
+      "lead": "A város hivatásos tűzoltói nagy erőkkel vonultak a helyszínre.",
+      "body": "Több épület is kigyulladt Szegeden, a rendező pályaudvar közelében, a Téli-kikötő útnál. Egy könnyűszerkezetes épület teljes terjedelmében égett és több hétvégi ház is lángolt. A város hivatásos tűzoltói három gépjárműfecskendővel és a vízszállítóval vonultak az esethez. A rajok vízsugarakkal, kéziszerszámokkal oltják a lángokat.",
+      "location": "Szeged, Ballagi-Tó sor",
+      "updates": []
+    },
     {
       "id": "91516",
       "datetime": "2026.08.31. 15:02",
@@ -64,9 +75,9 @@
       "title": "Összeütközött két autó Győrben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91511",
-      "lead": "A 83-as főút bevezető szakaszán, a 71-72-es kilométer között történt a baleset.",
-      "body": "Két személykocsi karambolozott a 83-as főút győri bevezető szakaszán, a 71-72-es kilométer között. A bútoráruház közelében történt balesethez a város hivatásos tűzoltói vonultak. A két autóban összesen hárman ültek, a helyszínre mentőt is riasztottak.",
-      "location": "Győr, 83",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
