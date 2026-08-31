@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:00:02.263767+00:00",
+  "updated_at": "2026-08-31T22:04:04.929090+00:00",
   "count": 3704,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -340,7 +340,16 @@
       "lead": "Nagy területet és egy erdősávot is érintenek a lángok.",
       "body": "Kigyulladt a száraz aljnövényzet egy Rajka és Hegyeshalom közötti területen. Mintegy ötven hektárt érint, és egy erdősávra is átterjedt a tűz, amelyet a Győr-Moson-Sopron vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak a mosonmagyaróvári, a csornai, a győri és a lébényi hivatásos, valamint a rajkai önkéntes tűzoltók. A helyszínre indult több más egység is. A tűzoltást munkagépek is segítik.",
       "location": "Rajka, Rajka és Hegyeshalom között",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nem terjed tovább a tűz Rajkánál",
+          "datetime": "2026.08.31. 15:44",
+          "category": "Tűzeset",
+          "text": "Megakadályozták annak a szabadtéri tűznek a továbbterjedését, amely kora délután keletkezett Rajka és Hegyeshalom között. Több mint kilencven hektáron lucerna, két helyen, összesen mintegy hat és fél hektáron erdő gyulladt meg. A mosonmagyaróvári, a csornai, a győri, a lébényi és a pannonhalmi hivatásos, valamint a rajkai, a dunakiliti, a hegyeshalmi, a mosonszolnoki és a bősárkányi önkéntes tűzoltók, egy győri és egy kapuvári vízszállító jármű közreműködésével, tizenkét vízsugárral és kéziszerszámokkal oltják a lángokat. A munkálatokat, amelyeket erőgép is segít, a Győr-Moson-Sopron vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Rajka, Rajka és Hegyeshalom között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91508/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91508"
+        }
+      ]
     },
     {
       "id": "91507",
