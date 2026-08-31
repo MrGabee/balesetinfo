@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:11:07.696909+00:00",
-  "count": 3694,
+  "updated_at": "2026-08-31T14:15:25.538813+00:00",
+  "count": 3695,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91524",
+      "datetime": "2026.08.31. 16:15",
+      "title": "Ráfutásos baleset a 63-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91524",
+      "lead": "Sárbogárd közelében egy szakaszon egy sávon halad a forgalom.",
+      "body": "Egymásnak ütközött két személyautó a 63-as úton, Sárbogárd közelében, az 59. és a 60. kilométer között. Ráfutásos baleset történt. A dunaújvárosi hivatásos tűzoltók áramtalanították az egyik járművet. A karambol helyszínén egy sávon halad a forgalom.",
+      "location": "Sárbogárd, 63",
+      "updates": []
+    },
     {
       "id": "91523",
       "datetime": "2026.08.31. 16:07",
@@ -135,14 +146,23 @@
     },
     {
       "id": "91512",
-      "datetime": "2026.08.31. 14:23",
+      "datetime": "2026.08.31. 14:23 -",
       "title": "Több hektáron meggyulladt a tarló Hajdúhadház mellett",
-      "category": "Tűzeset",
+      "category": "Több hektáron meggyulladt a tarló Hajdúhadház mellett",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91512",
       "lead": "Az Epres utca végébe öt település tűzoltóit riasztották.",
       "body": "Négy hektáron meggyulladt a búzatarló Hajdúhadház külterületén, az Epres utca végében. A tűz átterjedt egy akácerdő lombkoronájára, illetve lakóházakat is veszélyeztetett. Hajdúböszörményi, debreceni, adonyi, hajdúnánási és nyíregyházi hivatásos tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról, vízsugarakkal, puttonyfecskendőkkel, kéziszerszámokkal oltják a tüzet.",
       "location": "Hajdúhadház, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az egységek az utómunkálatokat végzik Hajdúhadháznál",
+          "datetime": "2026.08.31. 16:12",
+          "category": "Tűzeset",
+          "text": "Az Epres utca végében a drónfelvételek alapján körülbelül tizennégy hektár égett le, a tüzet hajdúböszörményi, debreceni, adonyi, hajdúnánási és nyíregyházi tűzoltók fékezték meg. A területet az erdészet saját erőgéppel körbetárcsázza, a honvédség pedig egy vízszállítóval segíti a hivatásos egységek munkáját. A tüzet a rajok körülhatárolták, eloltották, az utómunkálatokat végzik, amelyek elhúzódhatnak.",
+          "location": "Hajdúhadház, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91512/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91512"
+        }
+      ]
     },
     {
       "id": "91511",
