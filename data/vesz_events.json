@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T09:43:36.562623+00:00",
-  "count": 3669,
+  "updated_at": "2026-08-31T09:47:28.739800+00:00",
+  "count": 3670,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91499",
+      "datetime": "2026.08.31. 11:45",
+      "title": "Három jármű ütközött össze a 84-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91499",
+      "lead": "A 34-es kilométernél, Megyer térségében történt a baleset.",
+      "body": "Egymásba hajtott három gépkocsi a 84-es főút 34-es kilométerénél, Megyer térségében. A sümegi önkormányzati tűzoltók áramtalanították a járműveket. A takarmányt és háztartási dolgokat szállító furgonban ketten ültek, a két személyautóban csak a sofőrök tartózkodtak. A helyszínre mentő is érkezett. A 84-es főút érintett szakaszán forgalomkorlátozásra kell számítani.",
+      "location": "Megyer, 84",
+      "updates": []
+    },
     {
       "id": "91498",
       "datetime": "2026.08.31. 11:04",
@@ -359,19 +370,10 @@
       "title": "Kigyulladt egy autó az M7-esen, Zamárdi és Siófok között",
       "category": "Kigyulladt egy autó az M7-esen, Zamárdi és Siófok között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91467",
-      "lead": "Az oltási munkálatok idejére lezárták az érintett pályaszakaszt Budapest felé.",
-      "body": "Kigyulladt, és teljes egészében ég egy gépkocsi az M7-es autópálya 108-as kilométerszelvényénél, Zamárdi és Siófok között, a Budapest felé vezető oldalon. A helyszínre kiérkezett siófoki hivatásos tűzoltók két vízsugárral oltják a lángokat. A munkálatok idejére lezárták az érintett pályaszakaszt.",
-      "location": "Siófok, M7",
-      "updates": [
-        {
-          "title": "Megfékezték a tűzoltók a kigyulladt autó lángjait az M7-esen",
-          "datetime": "2026.08.30. 11:43",
-          "category": "Tűzeset",
-          "text": "A siófoki hivatásos tűzoltók két vízsugárral megfékezték annak az autónak a lángjait, amely az M7-es autópálya 108-as kilométerszelvényénél, Zamárdi és Siófok között, a Budapest felé vezető oldalon gyulladt ki. A tűz két négyzetméteren az aljnövényzetet is elérte a jármű környezetében. A munkálatok idejére lezárták az érintett pályaszakaszt, jelenleg már egy sávon megindult a forgalom.",
-          "location": "Siófok, M7",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91467/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91467"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91466",
@@ -445,9 +447,9 @@
       "title": "Két autó karambolozott Gyula közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91460",
-      "lead": "Az Eleki út és a 4434-es út találkozásánál van szükség műszaki mentésre.",
-      "body": "Összeütközött két személyautó Gyula közelében, az Eleki út és a 4434-es út találkozásánál. A balesethez a gyulai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
-      "location": "Gyula, Eleki út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
