@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T20:21:22.950404+00:00",
-  "count": 3702,
+  "updated_at": "2026-08-31T20:26:13.112443+00:00",
+  "count": 3703,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91532",
+      "datetime": "2026.08.31. 22:22",
+      "title": "Kerítésnek hajtott egy autó Sopronban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91532",
+      "lead": "A baleset a Lőver körúton történt.",
+      "body": "Kerítésnek hajtott egy személykocsi Sopronban, a Lőver körúton. A jármű eközben kidöntött egy buszmegállót jelző táblát, megrongált egy hulladékgyűjtőt és egy padot is. A kocsiban csak a sofőr utazott, hozzá mentő érkezett. A város hivatásos tűzoltói áramtalanították az autót.",
+      "location": "Sopron, Lőver körút",
+      "updates": []
+    },
     {
       "id": "91531",
       "datetime": "2026.08.31. 21:22",
