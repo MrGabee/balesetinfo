@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:33:58.140072+00:00",
-  "count": 3695,
+  "updated_at": "2026-08-31T14:37:22.017397+00:00",
+  "count": 3696,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91525",
+      "datetime": "2026.08.31. 16:34",
+      "title": "Kamionok karamboloztak az M4-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91525",
+      "lead": "Az autóút Budapest felé vezető oldalán, a 135-ös kilométernél történt a baleset.",
+      "body": "Utoléréses balesetet szenvedett három kamion az M4-es autóúton, Örményes térségében. A 135-ös kilométernél történt balesethez karcagi hivatásos, valamint kisújszállási és törökszentmiklósi önkormányzati tűzoltók vonultak. A rajok áramtalanítottak, illetve az egyik kamion sofőrjét feszítővágó, illetve feszítőhenger segítségével szabadították ki járművéből. A helyszínre mentőhelikopter is érkezett. Az érintett szakaszon átmenetileg szünetel a forgalom.",
+      "location": "Kisújszállás, M4",
+      "updates": []
+    },
     {
       "id": "91524",
       "datetime": "2026.08.31. 16:15",
@@ -124,14 +135,23 @@
     },
     {
       "id": "91514",
-      "datetime": "2026.08.31. 14:38",
+      "datetime": "2026.08.31. 14:38 -",
       "title": "Tapolcánál is kigyulladt a száraz fű",
-      "category": "Tűzeset",
+      "category": "Tapolcánál is kigyulladt a száraz fű",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514",
       "lead": "Belekapott egy fenyőerdőbe, és kiskerteket is veszélyeztet a tűz.",
       "body": "Lángra kapott a száraz fű Tapolca külterületén, a 77-es főút közelében. Több mint egy hektárra terjed ki, és legalább háromszáz méter hosszan egy fenyőerdőbe is belekapott a tűz, fák koronája is ég. Kiskerteket, lakóautót, melléképületet és lovardát, valamint egy napelemparkot veszélyeztetnek a lángok, amelyeket a badacsonytomaji, a veszprémi és a pápai hivatásos, valamint a tapolcai önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Tapolca, Tapolca külterülete",
-      "updates": []
+      "updates": [
+        {
+          "title": "A levegőből is oltják a tapolcai tüzet",
+          "datetime": "2026.08.31. 16:35",
+          "category": "Tűzeset",
+          "text": "Honvédségi helikopterek a levegőből is oltják azt a tüzet, amely Tapolca külterületén, a 77-es főút közelében keletkezett. Nagy területre terjedt ki, és egy fenyőerdőbe is belekaptak a lángok, amelyek egyebek közt kiskerteket, lovardát, valamint egy napelemparkot veszélyeztetnek. A badacsonytomaji, a veszprémi, a keszthelyi, a pápai, a sárvári és az ajkai hivatásos, a tapolcai önkormányzati, valamint a tapolcai, a nagyvázsonyi, a köveskáli, a kővágóörsi, a monostorapáti, a balatonfüredi, a taliándörögdi, a gógánfai és a zalahalápi-sáskai önkéntes tűzoltók egy keszthelyi és egy badacsonytomaji vízszállító jármű közreműködésével oltják a tüzet. A munkálatokat a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A füst miatt a 77-es főút érintett szakaszán forgalomkorlátozásra lehet számítani.",
+          "location": "Tapolca, Tapolca külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91514"
+        }
+      ]
     },
     {
       "id": "91513",
