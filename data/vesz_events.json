@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T19:21:02.252785+00:00",
-  "count": 3701,
+  "updated_at": "2026-08-31T19:25:03.766588+00:00",
+  "count": 3702,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91531",
+      "datetime": "2026.08.31. 21:22",
+      "title": "Lakatlan ház égett Rinyaszentkirályon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91531",
+      "lead": "Nagyatádi és görgetegi tűzoltók vonultak a Fő utcába.",
+      "body": "Kigyulladt egy körülbelül negyven négyzetméteres épület egyik fele Rinyaszentkirályon, a Fő utcában. A régebb óta lakatlan ház tüzét a nagyatádi hivatásos és a görgetegi önkéntes tűzoltók vízsugarakkal eloltották. A rajoknak sikerült megakadályozni, hogy a tűz átterjedjen a vegetációra.",
+      "location": "Rinyaszentkirály, Fő utca",
+      "updates": []
+    },
     {
       "id": "91530",
       "datetime": "2026.08.31. 19:45 -",
