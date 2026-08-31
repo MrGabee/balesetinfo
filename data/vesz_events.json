@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T10:52:24.580508+00:00",
-  "count": 3675,
+  "updated_at": "2026-08-31T10:55:24.319875+00:00",
+  "count": 3676,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91505",
+      "datetime": "2026.08.31. 12:53",
+      "title": "Utoléréses baleset Újhartyánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91505",
+      "lead": "A 4606-os út egy szakaszát félpályán lezárták.",
+      "body": "Összeütközött két személyautó a 4606-os úton, Újhartyán határában. Utoléréses baleset történt, amelyhez a dabasi hivatásos tűzoltók vonultak ki. A raj áramtalanította a járműveket, amelyek egyike akadályozza a forgalmat. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Újhartyán, 4606",
+      "updates": []
+    },
     {
       "id": "91504",
       "datetime": "2026.08.31. 12:45",
