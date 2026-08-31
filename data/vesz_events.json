@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T12:02:14.186609+00:00",
-  "count": 3680,
+  "updated_at": "2026-08-31T12:05:42.030818+00:00",
+  "count": 3681,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91510",
+      "datetime": "2026.08.31. 14:05",
+      "title": "Karambol Egerben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91510",
+      "lead": "A Liszt Ferenc és a Vajda János utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Egymásba hajtott két autó Egerben, a Liszt Ferenc és a Vajda János utca sarkánál. A két járműben összesen öten utaztak, a helyszínre mentő is érkezett. A vármegyeszékhely hivatásos tűzoltói végzik a műszaki mentést.",
+      "location": "Eger, Liszt Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91509",
       "datetime": "2026.08.31. 13:52",
