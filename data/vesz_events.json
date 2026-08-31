@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T13:48:30.805876+00:00",
-  "count": 3691,
+  "updated_at": "2026-08-31T13:51:45.114607+00:00",
+  "count": 3692,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91521",
+      "datetime": "2026.08.31. 15:49",
+      "title": "Több jármű karambolozott a 64-es főúton, Enyingnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91521",
+      "lead": "A 37-es kilométernél két személykocsi és két teherautó ütközött össze.",
+      "body": "Baleset történt a 64-es főút 37-es kilométerénél, Enying közelében, ahol két személyautó és két tehergépkocsi hajtott egymásba. A járművekben összesen öten utaztak, a helyszínre mentő érkezett. A siófoki hivatásos tűzoltók áramtalanítottak, az egyik autó kivételével, mert az a két teherkocsi közé szorult, nem lehetett hozzáférni. A főút érintett szakaszán forgalmi akadályra kell számítani.",
+      "location": "Enying, 64",
+      "updates": []
+    },
     {
       "id": "91520",
       "datetime": "2026.08.31. 15:30",
