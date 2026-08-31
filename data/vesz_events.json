@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T12:46:49.006852+00:00",
-  "count": 3685,
+  "updated_at": "2026-08-31T12:50:05.576340+00:00",
+  "count": 3686,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91515",
+      "datetime": "2026.08.31. 14:49",
+      "title": "Összeütközött két autó a 3216-os úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91515",
+      "lead": "Tiszabura közelében van szükség a tűzoltók beavatkozására.",
+      "body": "Karambolozott két személyautó a 3216-os úton, Tiszabura közelében, a 34. kilométernél. Az abádszalóki önkormányzati tűzoltók áramtalanították a gépkocsikat. A balesethez a mentők is kivonultak. A karambol helyszínén sok törmelék van, az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tiszabura, 3216",
+      "updates": []
+    },
     {
       "id": "91514",
       "datetime": "2026.08.31. 14:38",
