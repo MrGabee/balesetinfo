@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T06:59:51.108070+00:00",
-  "count": 3663,
+  "updated_at": "2026-08-31T07:04:11.917147+00:00",
+  "count": 3664,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91493",
+      "datetime": "2026.08.31. 09:01",
+      "title": "Karambol Leveleken",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91493",
+      "lead": "A Táncsics utca és az Ady Endre utca kereszteződésénél forgalmi akadály van.",
+      "body": "Összeütközött egy személygépkocsi és egy kisteherautó Leveleken, a Táncsics utca és az Ady Endre utca kereszteződésénél. A balesethez a baktalórántházai hivatásos tűzoltók vonultak ki. A járművekben egy-egy ember utazott, mindketten ki tudtak szállni. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Levelek, Táncsics utca, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "91492",
       "datetime": "2026.08.31. 07:08",
