@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T21:40:18.611667+00:00",
-  "count": 3703,
+  "updated_at": "2026-08-31T21:44:47.907176+00:00",
+  "count": 3704,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91533",
+      "datetime": "2026.08.31. 23:44",
+      "title": "Villanyoszlopnak hajtott egy személykocsi Tornyosnémetin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91533",
+      "lead": "A Gazdasor úton történt a baleset.",
+      "body": "Villanyoszlopnak rohant, majd árokba sodródott egy autó Tornyosnémetin, a Gazdasor úton. A gönci hivatásos tűzoltók áramtalanították a járművet. A kocsiban csak annak vezetője ült, a sofőrhöz mentő érkezett.",
+      "location": "Tornyosnémeti, Gazdasor út",
+      "updates": []
+    },
     {
       "id": "91532",
       "datetime": "2026.08.31. 22:22",
