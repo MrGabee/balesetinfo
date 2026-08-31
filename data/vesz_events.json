@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:41:15.566560+00:00",
-  "count": 3696,
+  "updated_at": "2026-08-31T14:44:49.955726+00:00",
+  "count": 3697,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91526",
+      "datetime": "2026.08.31. 16:42",
+      "title": "Hármas karambol az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91526",
+      "lead": "Vecsés közelében forgalmi akadály van az M1-es felé.",
+      "body": "Karambolozott három személyautó az M0-s autóúton, az M1-es autópálya felé vezető oldalon, Vecsés közelében, a 39. és a 40. kilométer között. A monori hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Vecsés, M0",
+      "updates": []
+    },
     {
       "id": "91525",
       "datetime": "2026.08.31. 16:34",
