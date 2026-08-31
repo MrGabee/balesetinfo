@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T12:12:40.112920+00:00",
-  "count": 3681,
+  "updated_at": "2026-08-31T12:16:17.114667+00:00",
+  "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91511",
+      "datetime": "2026.08.31. 14:13",
+      "title": "Összeütközött két autó Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91511",
+      "lead": "A 83-as főút bevezető szakaszán, a 71-72-es kilométer között történt a baleset.",
+      "body": "Két személykocsi karambolozott a 83-as főút győri bevezető szakaszán, a 71-72-es kilométer között. A bútoráruház közelében történt balesethez a város hivatásos tűzoltói vonultak. A két autóban összesen hárman ültek, a helyszínre mentőt is riasztottak.",
+      "location": "Győr, 83",
+      "updates": []
+    },
     {
       "id": "91510",
       "datetime": "2026.08.31. 14:05",
