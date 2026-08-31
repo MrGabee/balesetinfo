@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:14:13.778056+00:00",
+  "updated_at": "2026-08-31T11:18:23.460961+00:00",
   "count": 3677,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Lezárták a 47-es főutat Berettyóújfalun",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91504",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A körforgalom és a szupermarket közötti szakaszon elvágtak egy gázvezetéket.",
+      "body": "Földmunkavégzés közben elvágtak egy gázvezetéket a 47-es főút berettyóújfalui szakaszán. A csőből áramlik ki a gáz, a helyszínre a város hivatásos tűzoltóit riasztották. A történtek miatt az érintett útszakaszt lezárják.",
+      "location": "Berettyóújfalu, 47",
       "updates": []
     },
     {
@@ -42,9 +42,9 @@
       "title": "Egymásnak ütközött két autó az 5-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91503",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Kecskemét közelében áramtalanították a járműveket.",
+      "body": "Összeütközött két furgon az 5-ös főúton, Kecskemét közelében, a 80. kilométernél. A kecskeméti hivatásos tűzoltók áramtalanították a járműveket. A mentők is kivonultak a balesethez, amelynek helyszínénél félpályán lezárták az érintett útszakaszt.",
+      "location": "Kecskemét, 5",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Karambol Budapest VII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91502",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A járművek a közösségi közlekedést is akadályozzák.",
+      "body": "Egymásnak ütközött két személyautó Budapest VII. kerületében, az Alpár utcában, a Garay térnél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a karambolnál, amelyben két parkoló gépkocsi is megrongálódott. A baleset akadályozza a forgalmat, így a trolibusz-közlekedést is.",
+      "location": "Budapest, Alpár utca",
       "updates": []
     },
     {
@@ -64,8 +64,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91501",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -75,10 +75,19 @@
       "title": "Ég a száraz fű Miskolcon",
       "category": "Ég a száraz fű Miskolcon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91500",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 26-os főút közelében keletkezett tűz.",
+      "body": "Kigyulladt a száraz fű Miskolcon, a 26-os főút és a Széphegy dűlő között, a Katowice utca közelében. Nagy területet érint, és egy fenyőerdőt, egy idősek otthonát, valamint lakóházakat is veszélyeztet a tűz. A város hivatásos tűzoltóik oltják a lángokat.",
+      "location": "Miskolc, Katowice utca",
+      "updates": [
+        {
+          "title": "Megfékezték a miskolci tüzet",
+          "datetime": "2026.08.31. 13:01",
+          "category": "Tűzeset",
+          "text": "A város hivatásos tűzoltói eloltották a lángokat Miskolc határában, a 26-os főút és a Széphegy dűlő között, a Katowice utca közelében, ahol kigyulladt a száraz fű. Mintegy hat hektárra terjedt ki, és egy fenyőerdőt, egy idősek otthonát, valamint lakóházakat is veszélyeztettek a lángok. A rajok átvizsgálják a leégett területet.",
+          "location": "Miskolc, Katowice utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91500/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91500"
+        }
+      ]
     },
     {
       "id": "91499",
@@ -86,9 +95,9 @@
       "title": "Három jármű ütközött össze a 84-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91499",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 34-es kilométernél, Megyer térségében történt a baleset.",
+      "body": "Egymásba hajtott három gépkocsi a 84-es főút 34-es kilométerénél, Megyer térségében. A sümegi önkormányzati tűzoltók áramtalanították a járműveket. A takarmányt és háztartási dolgokat szállító furgonban ketten ültek, a két személyautóban csak a sofőrök tartózkodtak. A helyszínre mentő is érkezett. A 84-es főút érintett szakaszán forgalomkorlátozásra kell számítani.",
+      "location": "Megyer, 84",
       "updates": []
     },
     {
@@ -97,9 +106,9 @@
       "title": "Vonatbaleset Olaszfalu külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91498",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy vasúti átjáróban mezőgazdasági vontatóval ütközött egy vonat.",
+      "body": "Összeütközött egy Veszprémből Győrbe közlekedő vonat egy mezőgazdasági vontatóval Olaszfalu külterületén, a vasúti átjáróban. A vonaton egytucatnyian utaztak, a traktoron csak annak vezetője ült, senkinek nem esett baja. Az esethez a zirci A vonat nem tud továbbhaladni, vonatásáról a vasúttársaság gondoskodik. Az utasokért pótlóbuszt indítottak.",
+      "location": "Olaszfalu, külterület",
       "updates": []
     },
     {
@@ -108,9 +117,9 @@
       "title": "Összeütközött két jármű Ferencvárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91497",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset a Soroksári úton lassítja a forgalmat.",
+      "body": "Karambolozott egy kisbusz és egy személyautó Budapest IX. kerületében, a Soroksári úton, a Földváry utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A gépkocsik akadályozzák a forgalmat, a háromból egy sávon haladnak a járművek.",
+      "location": "Budapest, Soroksári út",
       "updates": []
     },
     {
@@ -119,9 +128,9 @@
       "title": "Kamionok karamboloztak az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91496",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldal 36-37-es kilométere között történt a baleset.",
+      "body": "Ráfutásos balesetet szenvedett két kamion az M5-ös autópályán, Inárcsnál. Egyik járműnek sem volt rakománya. A főváros felé vezető oldal 36-37-es kilométere között történt karambolhoz a dabasi hivatásos tűzoltók vonultak, a raj áramtalanította a teherautókat. Mindkét kamionban csak annak vezetője ült, a helyszínre mentő érkezett. A baleset miatt az érintett szakaszon csak a leállósáv járható, a forgalmat rendőrök irányítják, több kilométeres a torlódás.",
+      "location": "Inárcs, M5",
       "updates": []
     },
     {
@@ -152,9 +161,9 @@
       "title": "Karambol Leveleken",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91493",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics utca és az Ady Endre utca kereszteződésénél forgalmi akadály van.",
+      "body": "Összeütközött egy személygépkocsi és egy kisteherautó Leveleken, a Táncsics utca és az Ady Endre utca kereszteződésénél. A balesethez a baktalórántházai hivatásos tűzoltók vonultak ki. A járművekben egy-egy ember utazott, mindketten ki tudtak szállni. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Levelek, Táncsics utca, Ady Endre utca",
       "updates": []
     },
     {
@@ -163,9 +172,9 @@
       "title": "Szalagkorlátnak ütközött egy kamion az M5-ösön, Kiskunfélegyházánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91492",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A belső sávban halad a forgalom a Röszke felé vezető irányban.",
+      "body": "A külső szalagkorlátnak ütközött egy kamion az M5-ös autópálya 108-as kilométerszelvényénél, Kiskunfélegyháza térségében, a Röszke felé vezető oldalon. A baleset következtében a szalagkorlát a kamionba akadt. A kiskunfélegyházi hivatásos tűzoltók a helyszínelést követően kivágják a szalagkorlátot a járműből. A baleset miatt a belső sávban halad a forgalom az érintett pályaszakaszon.",
+      "location": "Kiskunfélegyháza, M5",
       "updates": []
     },
     {
@@ -196,9 +205,9 @@
       "title": "Tűz ütött ki egy fülöpszállási családi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91489",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral fékezték meg a lángokat.",
+      "body": "Egy családi ház egyik helyiségében keletkezett tűz Fülöpszálláson, a Petőfi Sándor utcánál. A lángok az épület tetejét is érintették. A szabadszállási önkormányzati és az önkéntes tűzoltók két vízsugárral dolgoztak a lángok megszüntetésén. Az esethez a solti hivatásos tűzoltók is kiérkeztek.",
+      "location": "Fülöpszállás, Petőfi Sándor utca",
       "updates": []
     },
     {
@@ -218,9 +227,9 @@
       "title": "Tűzhelyen melegített olaj gyulladt meg egy komlói lakás konyhájában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91487",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók három embert kísértek ki az épületből.",
+      "body": "A tűzhelyen melegített olaj gyulladt meg egy kétemeletes lakóház egyik lakásának konyhájában Komlón, a Bányász utcában. A városi és a sásdi hivatásos tűzoltók egy vízsugárral átvizsgálták az érintett lakást, amelyet áramtalanítottak. Az egységek a munkálatok idejére három embert kísértek ki a füsttel telítődött lépcsőházból.",
+      "location": "Komló, Bányász utca",
       "updates": []
     },
     {
@@ -317,9 +326,9 @@
       "title": "Utoléréses baleset történt a 81-esen, Mórnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91478",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "body": "Három gépkocsi szenvedett utoléréses balesetet a 81-es főút 26-os kilométerszelvényénél, Mór térségében. A móri önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen nyolcan utaztak. A balesethez az egység mellett a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Mór, 81",
       "updates": []
     },
     {
@@ -414,9 +423,9 @@
       "title": "Kigyulladt egy autó motortere az I. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91470",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Egy gépkocsi motortere égett az I. kerületi Krisztina körúton, a Mikó utca közelében. A fővárosi hivatásos tűzoltók rövid időn belül egy vízsugárral eloltották a lángokat. Az egység jelenleg az utómunkálatokat végzi.",
+      "location": "Budapest, Krisztina körút",
       "updates": []
     },
     {
