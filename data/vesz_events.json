@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-08-31T15:53:43.929786+00:00",
+  "updated_at": "2026-08-31T15:57:44.224380+00:00",
   "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91527",
-      "datetime": "2026.08.31. 16:54",
+      "datetime": "2026.08.31. 16:54 -",
       "title": "Már öt órája oltják a tüzet Hernádvécse külterületén",
-      "category": "Tűzeset",
+      "category": "Már öt órája oltják a tüzet Hernádvécse külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91527",
       "lead": "Több encsi és egy gönci tűzoltóegység dolgozik a helyszínen.",
       "body": "Száraz fű gyulladt ki Hernádvécse külterületén, a 2627-es út közelében. A helyszínre a gönci katasztrófavédelmi őrs tűzoltóit, valamint az encsi hivatásos tűzoltóság két gépjárműfecskendőjét és erdőtüzes járművét riasztották. Az egységek kéziszerszámokkal, háti permetezőkkel oltják a tüzet, amelyet már körül is határoltak. A füst veszélyt jelent a közlekedésre is, ezért a rendőrséget kérték a helyszínre.",
       "location": "Hernádvécse, 2627",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatokat végzik a tűzoltók Hernádvécse külterületén",
+          "datetime": "2026.08.31. 17:54",
+          "category": "Tűzeset",
+          "text": "Nagyjából ötven hektáron égett a száraz fű, az aljnövényzet Hernádvécse külterületén. A tűz elpusztított tíz hengerbálát is. Az encsi és gönci hivatásos tűzoltók nagyjából hatórás munkával, vízsugarakkal, kéziszerszámokkal, háti permetezővel oltották el. LÁngok már nincsenek, az egységek az utómunkálatoknál tartanak.",
+          "location": "Hernádvécse, 2627",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91527/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91527"
+        }
+      ]
     },
     {
       "id": "91526",
