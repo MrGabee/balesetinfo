@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T12:30:01.820010+00:00",
-  "count": 3683,
+  "updated_at": "2026-08-31T12:33:48.677422+00:00",
+  "count": 3684,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91513",
+      "datetime": "2026.08.31. 14:31",
+      "title": "Összeütközött két autó az 5312-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91513",
+      "lead": "Kéleshalom külterületén, a 28-as kilométernél van szükség tűzoltói beavatkozásra.",
+      "body": "Egymásba hajtott két gépkocsi az 5312-es út 28-as kilométerénél, Kéleshalom térségében. Mindkét autóban csak annak vezetője utazott, mentő is érkezett a helyszínre. A jánoshalmai önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Kéleshalom, 5312",
+      "updates": []
+    },
     {
       "id": "91512",
       "datetime": "2026.08.31. 14:23",
