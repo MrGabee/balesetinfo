@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T10:59:13.324371+00:00",
-  "count": 3676,
+  "updated_at": "2026-08-31T11:02:41.824718+00:00",
+  "count": 3677,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91506",
+      "datetime": "2026.08.31. 13:00",
+      "title": "Baleset történt a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91506",
+      "lead": "A 215-ös kilométernél, az M35-ös csomópont és Ebes között három jármű karambolozott.",
+      "body": "Összeütközött két személykocsi és egy kisteherautó a 4-es főút 215-ös kilométernél, Ebes és az M35-ös között. Az egyik autónak három utasa volt, a másikban csak a sofőr ült, a kisteherautóban ketten utaztak. A hajdúszoboszlói hivatásos tűzoltók áramtalanítottak. A főút forgalma félpályán halad, a helyszínre érkeztek a társhatóságok is.",
+      "location": "Ebes, 4",
+      "updates": []
+    },
     {
       "id": "91505",
       "datetime": "2026.08.31. 12:53",
@@ -60,14 +71,23 @@
     },
     {
       "id": "91500",
-      "datetime": "2026.08.31. 11:50",
+      "datetime": "2026.08.31. 11:50 -",
       "title": "Ég a száraz fű Miskolcon",
-      "category": "Tűzeset",
+      "category": "Ég a száraz fű Miskolcon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91500",
       "lead": "A 26-os főút közelében keletkezett tűz.",
       "body": "Kigyulladt a száraz fű Miskolcon, a 26-os főút és a Széphegy dűlő között, a Katowice utca közelében. Nagy területet érint, és egy fenyőerdőt, egy idősek otthonát, valamint lakóházakat is veszélyeztet a tűz. A város hivatásos tűzoltóik oltják a lángokat.",
       "location": "Miskolc, Katowice utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a miskolci tüzet",
+          "datetime": "2026.08.31. 13:01",
+          "category": "Tűzeset",
+          "text": "A város hivatásos tűzoltói eloltották a lángokat Miskolc határában, a 26-os főút és a Széphegy dűlő között, a Katowice utca közelében, ahol kigyulladt a száraz fű. Mintegy hat hektárra terjedt ki, és egy fenyőerdőt, egy idősek otthonát, valamint lakóházakat is veszélyeztettek a lángok. A rajok átvizsgálják a leégett területet.",
+          "location": "Miskolc, Katowice utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91500/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91500"
+        }
+      ]
     },
     {
       "id": "91499",
