@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:21:39.244370+00:00",
+  "updated_at": "2026-08-31T15:25:23.256725+00:00",
   "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -345,14 +345,23 @@
     },
     {
       "id": "91501",
-      "datetime": "2026.08.31. 12:01",
+      "datetime": "2026.08.31. 12:01 -",
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
-      "category": "Meteorológiai riasztás",
+      "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91501",
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.08.31. 17:23",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91501/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91501"
+        }
+      ]
     },
     {
       "id": "91500",
