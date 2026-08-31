@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T13:18:51.499720+00:00",
-  "count": 3689,
+  "updated_at": "2026-08-31T13:22:25.097064+00:00",
+  "count": 3690,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91519",
+      "datetime": "2026.08.31. 15:19",
+      "title": "Tűz volt egy óbudai családi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91519",
+      "lead": "A Flóra utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy családi házban, Budapest III. kerületében, a Flóra utcában. Elektromos berendezési tárgyak égtek mintegy két négyzetméteren az ingatlan emeleti szintjének egyik helyiségében. A fővárosi hivatásos tűzoltók kiérkezésekor lángolás már nem volt. A rajok megakadályozták a tűz továbbterjedését, megszüntették az izzásokat, és visszabontják, hűtik az égett részeket. Az épületet öt ember hagyta el a tűz miatt.",
+      "location": "Budapest, Flóra utca",
+      "updates": []
+    },
     {
       "id": "91518",
       "datetime": "2026.08.31. 15:17",
