@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T06:23:05.462997+00:00",
+  "updated_at": "2026-08-31T06:26:51.357416+00:00",
   "count": 3663,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -141,9 +141,9 @@
       "title": "Összeütközött két autó a 87-esen, Lukácsházánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91480",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik jármű az árokba borult az ütközés következtében.",
+      "body": "Két gépkocsi karambolozott a 87-es főút 41-es kilométerszelvényénél, Lukácsháza térségében. Az ütközés következtében az egyik jármű az árokba borult, a másik az úttesten maradt. A szombathelyi hivatásos, a kőszegi önkormányzati és a kőszegszerdahelyi önkéntes tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. Az egyik utas saját erejéből nem tudta elhagyni a járművét, a tűzoltók emelték ki. A hatósági beavatkozás idejére félpályán lezárták az érintett útszakaszt, a forgalom irányítás mellett halad.",
+      "location": "Lukácsháza, 87",
       "updates": []
     },
     {
@@ -152,9 +152,9 @@
       "title": "Négy jármű karambolozott a 83-ason, Farkasgyepűnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91479",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Teljes útlezárás mellett tart a hatósági beavatkozás.",
+      "body": "Egy kamion és három személyautó ütközött össze a 83-as főút 8-as kilométerszelvényénél, Farkasgyepű térségében. A járművekben összesen kilencen utaztak. A pápai hivatásos tűzoltók és a társhatóságok megkezdték a munkálatokat, a tűzoltók áramtalanították az autókat. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Farkasgyepű, 83",
       "updates": []
     },
     {
@@ -163,9 +163,9 @@
       "title": "Utoléréses baleset történt a 81-esen, Mórnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91478",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "body": "Három gépkocsi szenvedett utoléréses balesetet a 81-es főút 26-os kilométerszelvényénél, Mór térségében. A móri önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen nyolcan utaztak. A balesethez az egység mellett a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Mór, 81",
       "updates": []
     },
     {
@@ -174,9 +174,9 @@
       "title": "Árokba borult egy lószállító Izsák és Szabadszállás között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91477",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Szállítás közben leszakadt egy lovakat szállító vontatmány egy járműről Izsák és Szabadszállás között, az 5203-as út 51-es kilométerszelvényénél. A baleset következtében a szállító vontatmány fának ütközött, majd árokba borult. A szállított két ló egyike kiesett, a másik állat a vontatmányban maradt. A szabadszállási önkormányzati tűzoltók félpályás útlezárás mellett dolgoznak a helyszínen.",
+      "location": "Izsák, 5203",
       "updates": []
     },
     {
@@ -227,9 +227,9 @@
       "title": "Négyes karambol történt az M7-esen, Pákozdnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91473",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Négy gépkocsi ütközött össze az M7-es autópálya 54-es kilométerszelvényénél, Pákozd térségében, a Budapest felé vezető irányban. Összesen nyolcan utaztak a járművekben, amelyek közül az egyiket a székesfehérvári hivatásos tűzoltók áramtalanították. Az egységek emellett megkezdték a forgalmi akadály megszüntetését. A hatósági beavatkozás idejére lezárták az érintett pályaszakaszt.",
+      "location": "Pákozd, M7",
       "updates": []
     },
     {
@@ -260,9 +260,9 @@
       "title": "Kigyulladt egy autó motortere az I. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91470",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Egy gépkocsi motortere égett az I. kerületi Krisztina körúton, a Mikó utca közelében. A fővárosi hivatásos tűzoltók rövid időn belül egy vízsugárral eloltották a lángokat. Az egység jelenleg az utómunkálatokat végzi.",
+      "location": "Budapest, Krisztina körút",
       "updates": []
     },
     {
@@ -290,13 +290,22 @@
     {
       "id": "91467",
       "datetime": "2026.08.30. 11:18 -",
-      "title": "1 db frissítés",
+      "title": "Kigyulladt egy autó az M7-esen, Zamárdi és Siófok között",
       "category": "Kigyulladt egy autó az M7-esen, Zamárdi és Siófok között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91467",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az oltási munkálatok idejére lezárták az érintett pályaszakaszt Budapest felé.",
+      "body": "Kigyulladt, és teljes egészében ég egy gépkocsi az M7-es autópálya 108-as kilométerszelvényénél, Zamárdi és Siófok között, a Budapest felé vezető oldalon. A helyszínre kiérkezett siófoki hivatásos tűzoltók két vízsugárral oltják a lángokat. A munkálatok idejére lezárták az érintett pályaszakaszt.",
+      "location": "Siófok, M7",
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a kigyulladt autó lángjait az M7-esen",
+          "datetime": "2026.08.30. 11:43",
+          "category": "Tűzeset",
+          "text": "A siófoki hivatásos tűzoltók két vízsugárral megfékezték annak az autónak a lángjait, amely az M7-es autópálya 108-as kilométerszelvényénél, Zamárdi és Siófok között, a Budapest felé vezető oldalon gyulladt ki. A tűz két négyzetméteren az aljnövényzetet is elérte a jármű környezetében. A munkálatok idejére lezárták az érintett pályaszakaszt, jelenleg már egy sávon megindult a forgalom.",
+          "location": "Siófok, M7",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91467/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91467"
+        }
+      ]
     },
     {
       "id": "91466",
@@ -315,9 +324,9 @@
       "title": "Ráfutásos baleset történt az 578-ason, Pécsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91465",
-      "lead": "A tűzoltók áramtalanították az egyik járművet.",
-      "body": "Ráfutásos balesetet szenvedett két gépkocsi Pécsen, az 578-as főút 2-es kilométerszelvényénél. Összesen négyen utaztak a járművekben, amelyek közül az egyiket a pécsi hivatásos tűzoltók áramtalanították. Az egység emellett eltávolítja az úttestre került szennyeződést. A balesethez a társhatóságok is kiérkeztek.",
-      "location": "Pécs, 578",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -359,9 +368,9 @@
       "title": "Kigyulladt egy autó az M4-esen, Ceglédnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91461",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon félpályán halad a forgalom.",
+      "body": "Teljes terjedelmében égett egy személyautó az M4-es autóút Budapest felé vezető oldalán, Cegléd közelében, a 81-es kilométerszelvénynél. A lángokat a ceglédi hivatásos tűzoltók oltották el. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Cegléd, M4",
       "updates": []
     },
     {
@@ -370,9 +379,9 @@
       "title": "Két autó karambolozott Gyula közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91460",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Eleki út és a 4434-es út találkozásánál van szükség műszaki mentésre.",
+      "body": "Összeütközött két személyautó Gyula közelében, az Eleki út és a 4434-es út találkozásánál. A balesethez a gyulai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Gyula, Eleki út",
       "updates": []
     },
     {
@@ -381,9 +390,9 @@
       "title": "Tároló égett Kiskunlacházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91459",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pipacs utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy tároló Kiskunlacházán, a Pipacs utcában. A szigetszentmiklósi és a ráckevei önkormányzati tűzoltók két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Kiskunlacháza, Pipacs utca",
       "updates": []
     },
     {
@@ -392,9 +401,9 @@
       "title": "Összeütközött két autó Gyöngyösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91458",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Mérges utcában forgalomkorlátozásra kell számítani.",
+      "body": "Két személyautó ütközött össze Gyöngyösön, a Mérges utcában. A Bethlen Gábor utca és az Egri út közötti szakaszon történt balesethez a helyi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Gyöngyös, Mérges utca",
       "updates": []
     },
     {
@@ -414,9 +423,9 @@
       "title": "Motor és autó karambolozott Budapest VIII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91456",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Thököly út és a Kerepesi út találkozásánál történt a baleset.",
+      "body": "Motorkerékpár és személyautó ütközött össze Budapest VIII. kerületében, a Thököly út és a Kerepesi út találkozásánál, a Baross téren. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Baross tér",
       "updates": []
     },
     {
