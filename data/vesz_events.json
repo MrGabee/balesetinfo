@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:52:28.349731+00:00",
-  "count": 3697,
+  "updated_at": "2026-08-31T14:56:34.251846+00:00",
+  "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91527",
+      "datetime": "2026.08.31. 16:54",
+      "title": "Már öt órája oltják a tüzet Hernádvécse külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91527",
+      "lead": "Több encsi és egy gönci tűzoltóegység dolgozik a helyszínen.",
+      "body": "Száraz fű gyulladt ki Hernádvécse külterületén, a 2627-es út közelében. A helyszínre a gönci katasztrófavédelmi őrs tűzoltóit, valamint az encsi hivatásos tűzoltóság két gépjárműfecskendőjét és erdőtüzes járművét riasztották. Az egységek kéziszerszámokkal, háti permetezőkkel oltják a tüzet, amelyet már körül is határoltak. A füst veszélyt jelent a közlekedésre is, ezért a rendőrséget kérték a helyszínre.",
+      "location": "Hernádvécse, 2627",
+      "updates": []
+    },
     {
       "id": "91526",
       "datetime": "2026.08.31. 16:42",
@@ -20,9 +31,9 @@
       "title": "Kamionok karamboloztak az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91525",
-      "lead": "Az autóút Budapest felé vezető oldalán, a 135-ös kilométernél történt a baleset.",
-      "body": "Utoléréses balesetet szenvedett három kamion az M4-es autóúton, Örményes térségében. A 135-ös kilométernél történt balesethez karcagi hivatásos, valamint kisújszállási és törökszentmiklósi önkormányzati tűzoltók vonultak. A rajok áramtalanítottak, illetve az egyik kamion sofőrjét feszítővágó, illetve feszítőhenger segítségével szabadították ki járművéből. A helyszínre mentőhelikopter is érkezett. Az érintett szakaszon átmenetileg szünetel a forgalom.",
-      "location": "Kisújszállás, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
