@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T17:26:50.102958+00:00",
-  "count": 3699,
+  "updated_at": "2026-08-31T17:30:52.118487+00:00",
+  "count": 3700,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91529",
+      "datetime": "2026.08.31. 19:27",
+      "title": "Elsodort egy embert a vonat Nyékládházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91529",
+      "lead": "A tiszaújvárosi tűzoltók vonultak az esethez.",
+      "body": "Elsodort egy embert a Keleti pályaudvarról Kassára közlekedő Hernád-Zemplén InterCity Nyékládházán. A szerencsétlenül járt gyalogoshoz mentőhelikopter érkezett. A tiszaújvárosi hivatásos tűzoltók vonultak az esethez, az egység segít az utasok átszállásában.",
+      "location": "Nyékládháza, Vasút utca",
+      "updates": []
+    },
     {
       "id": "91528",
       "datetime": "2026.08.31. 19:19",
