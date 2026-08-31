@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T11:40:32.943640+00:00",
-  "count": 3677,
+  "updated_at": "2026-08-31T11:44:08.271373+00:00",
+  "count": 3678,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91507",
+      "datetime": "2026.08.31. 13:43",
+      "title": "Öthektáros terület gyulladt ki Vigántpetend külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91507",
+      "lead": "Ajkai, nagyvázsonyi és taliándörögdi tűzoltók oltják a tüzet.",
+      "body": "Kigyulladt egy nagyjából öthektáros terület Vigántpetend külterületén. A terület háromnegyede leégett, a lángok négyszáz méter hosszan egy erdőbe is bejutottak, emellett tüzet fogott egy bokros terület is. Az ajkai hivatásos, valamint a nagyvázsonyi és taliándörögdi önkéntes tűzoltók vízsugarakkal, rézsűoltóval, puttonyfecskendőkkel körülhatárolták, megfékezték a lángokat. A tűzoltók munkáját két mezőgazdasági munkagép is segítette, amelyek tartályukban oltóvizet vittek magukkal.",
+      "location": "Vigántpetend, külterület",
+      "updates": []
+    },
     {
       "id": "91506",
       "datetime": "2026.08.31. 13:00",
