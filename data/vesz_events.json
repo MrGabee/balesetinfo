@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T04:02:50.038520+00:00",
-  "count": 3661,
+  "updated_at": "2026-08-31T04:06:32.219680+00:00",
+  "count": 3662,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91491",
+      "datetime": "2026.08.31. 06:03",
+      "title": "Vadat gázolt egy autó a 8-ason, Kislődnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91491",
+      "lead": "Forgalmi akadály alakult ki a baleset miatt.",
+      "body": "Vadat gázolt el egy gépkocsi a 8-as főút 76-os és 77-es kilométerszelvénye között, Kislőd térségében. A járműben négyen utaztak, mindannyian saját erejükből ki tudtak szállni. Az ajkai hivatásos tűzoltók érkeztek a helyszínre, ahol forgalmi akadály alakult ki a baleset miatt az érintett útszakaszon.",
+      "location": "Kislőd, 8",
+      "updates": []
+    },
     {
       "id": "91490",
       "datetime": "2026.08.30. 20:35",
