@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T14:04:01.041772+00:00",
+  "updated_at": "2026-08-31T14:07:27.818472+00:00",
   "count": 3693,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "91517",
-      "datetime": "2026.08.31. 15:08",
+      "datetime": "2026.08.31. 15:08 -",
       "title": "Tűz ütött ki a szegedi rendező pályaudvar közelében",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki a szegedi rendező pályaudvar közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91517",
       "lead": "A város hivatásos tűzoltói nagy erőkkel vonultak a helyszínre.",
       "body": "Több épület is kigyulladt Szegeden, a rendező pályaudvar közelében, a Téli-kikötő útnál. Egy könnyűszerkezetes épület teljes terjedelmében égett és több hétvégi ház is lángolt. A város hivatásos tűzoltói három gépjárműfecskendővel és a vízszállítóval vonultak az esethez. A rajok vízsugarakkal, kéziszerszámokkal oltják a lángokat.",
       "location": "Szeged, Ballagi-Tó sor",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a szegedi rendező pályaudvarnál",
+          "datetime": "2026.08.31. 16:05",
+          "category": "Tűzeset",
+          "text": "Száraz fű, avar, sok hulladék égett a Téli-kikötő út közelében, a tűzben megsemmisült egy húsz négyzetméteres faépület és egy tizenöt négyzetméteres lemezgarázs, a benne tárolt holmikkal együtt. A lángok három kiskertet is érintettek. A szegedi hiatásos tűzoltók gázpalackokat is találtak a helyszínen, az egyik fel is hasadt. Az egységek a lángokat eloltották, az utómunkálatokat végzik.",
+          "location": "Szeged, Ballagi-Tó sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91517/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91517"
+        }
+      ]
     },
     {
       "id": "91516",
