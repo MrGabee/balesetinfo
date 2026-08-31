@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T10:23:02.040047+00:00",
-  "count": 3673,
+  "updated_at": "2026-08-31T10:27:02.628734+00:00",
+  "count": 3674,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91503",
+      "datetime": "2026.08.31. 12:24",
+      "title": "Egymásnak ütközött két autó az 5-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91503",
+      "lead": "A tűzoltók Kecskemét közelében áramtalanították a járműveket.",
+      "body": "Összeütközött két furgon az 5-ös főúton, Kecskemét közelében, a 80. kilométernél. A kecskeméti hivatásos tűzoltók áramtalanították a járműveket. A mentők is kivonultak a balesethez, amelynek helyszínénél félpályán lezárták az érintett útszakaszt.",
+      "location": "Kecskemét, 5",
+      "updates": []
+    },
     {
       "id": "91502",
       "datetime": "2026.08.31. 12:07",
@@ -229,9 +240,9 @@
       "title": "Lakóházak égtek Pilisvörösváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91482",
-      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
-      "body": "Egy harminc négyzetméteres, rossz állapotú lakóház égett ki Pilisvörösváron, a Tó dűlőn. A tűz átterjedt a mellette álló, hasonlóan rossz állapotú lakóépületre. A fővárosi hivatásos és a pilisvörösvári önkéntes tűzoltók érkeztek a helyszínre, két vízsugárral fékezték meg a lángokat.",
-      "location": "Pilisvörösvár, Tó dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -251,9 +262,9 @@
       "title": "Összeütközött két autó a 87-esen, Lukácsházánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91480",
-      "lead": "Az egyik jármű az árokba borult az ütközés következtében.",
-      "body": "Két gépkocsi karambolozott a 87-es főút 41-es kilométerszelvényénél, Lukácsháza térségében. Az ütközés következtében az egyik jármű az árokba borult, a másik az úttesten maradt. A szombathelyi hivatásos, a kőszegi önkormányzati és a kőszegszerdahelyi önkéntes tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. Az egyik utas saját erejéből nem tudta elhagyni a járművét, a tűzoltók emelték ki. A hatósági beavatkozás idejére félpályán lezárták az érintett útszakaszt, a forgalom irányítás mellett halad.",
-      "location": "Lukácsháza, 87",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -273,9 +284,9 @@
       "title": "Utoléréses baleset történt a 81-esen, Mórnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91478",
-      "lead": "A beavatkozás idejére lezárták az érintett útszakaszt.",
-      "body": "Három gépkocsi szenvedett utoléréses balesetet a 81-es főút 26-os kilométerszelvényénél, Mór térségében. A móri önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen nyolcan utaztak. A balesethez az egység mellett a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
-      "location": "Mór, 81",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -284,9 +295,9 @@
       "title": "Árokba borult egy lószállító Izsák és Szabadszállás között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91477",
-      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
-      "body": "Szállítás közben leszakadt egy lovakat szállító vontatmány egy járműről Izsák és Szabadszállás között, az 5203-as út 51-es kilométerszelvényénél. A baleset következtében a szállító vontatmány fának ütközött, majd árokba borult. A szállított két ló egyike kiesett, a másik állat a vontatmányban maradt. A szabadszállási önkormányzati tűzoltók félpályás útlezárás mellett dolgoznak a helyszínen.",
-      "location": "Izsák, 5203",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -295,19 +306,10 @@
       "title": "Melléképület ég Gyálon",
       "category": "Melléképület ég Gyálon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91476",
-      "lead": "A tűz átterjedt egy lakóépület tetejére.",
-      "body": "Egy húsz négyzetméteres, könnyűszerkezetes melléképület ég teljes egészében Gyálon, az Egressy úton. A tűz átterjedt az épület mellett álló, száz négyzetméteres lakóház tetejére. A fővárosi hivatásos és a gyáli önkéntes tűzoltók érkeztek a helyszínre, megkezdték az oltási munkálatokat.",
-      "location": "Gyál, Egressy út",
-      "updates": [
-        {
-          "title": "Eloltották a tűzoltók a melléképület lángjait Gyálon",
-          "datetime": "2026.08.30. 16:43",
-          "category": "Tűzeset",
-          "text": "A fővárosi hivatásos és a gyáli önkéntes tűzoltók, valamint a Foka ÖTE önkéntes tűzoltói öt vízsugárral megfékezték a lángokat Gyálon, ahol egy lakóház húsz négyzetméteres, könnyűszerkezetes melléképülete égett teljes egészében az Egressy úton. A tűz átterjedt a szomszédos telken álló, száz négyzetméteres családi ház tetőterére. Az egységek a ház padlásfeljáróján felhatolva oltották ennek tüzét. Az esethez a mentők is kiérkeztek.",
-          "location": "Gyál, Egressy út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91476/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91476"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91475",
@@ -315,9 +317,9 @@
       "title": "Három autó ütközött össze az M7-esen, Polgárdinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91475",
-      "lead": "A tűzoltók megkezdték a járművek áramtalanítását.",
-      "body": "Három gépkocsi ütközött össze az M7-es autópálya 76-os kilométerszelvényénél, Polgárdi térségében, a Budapest felé vezető irányban. Nyolcan utaztak összesen a járművekben, amelyek áramtalanítását a polgárdi önkormányzati tűzoltók végzik el. A baleset miatt forgalmi akadályra kell számítani az érintett pályaszakaszon.",
-      "location": "Polgárdi, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -337,9 +339,9 @@
       "title": "Négyes karambol történt az M7-esen, Pákozdnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91473",
-      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
-      "body": "Négy gépkocsi ütközött össze az M7-es autópálya 54-es kilométerszelvényénél, Pákozd térségében, a Budapest felé vezető irányban. Összesen nyolcan utaztak a járművekben, amelyek közül az egyiket a székesfehérvári hivatásos tűzoltók áramtalanították. Az egységek emellett megkezdték a forgalmi akadály megszüntetését. A hatósági beavatkozás idejére lezárták az érintett pályaszakaszt.",
-      "location": "Pákozd, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
