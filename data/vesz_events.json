@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T12:22:59.224076+00:00",
-  "count": 3682,
+  "updated_at": "2026-08-31T12:26:31.050267+00:00",
+  "count": 3683,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91512",
+      "datetime": "2026.08.31. 14:23",
+      "title": "Több hektáron meggyulladt a tarló Hajdúhadház mellett",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91512",
+      "lead": "Az Epres utca végébe öt település tűzoltóit riasztották.",
+      "body": "Négy hektáron meggyulladt a búzatarló Hajdúhadház külterületén, az Epres utca végében. A tűz átterjedt egy akácerdő lombkoronájára, illetve lakóházakat is veszélyeztetett. Hajdúböszörményi, debreceni, adonyi, hajdúnánási és nyíregyházi hivatásos tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról, vízsugarakkal, puttonyfecskendőkkel, kéziszerszámokkal oltják a tüzet.",
+      "location": "Hajdúhadház, külterület",
+      "updates": []
+    },
     {
       "id": "91511",
       "datetime": "2026.08.31. 14:13",
