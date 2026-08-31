@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T11:52:04.246514+00:00",
-  "count": 3679,
+  "updated_at": "2026-08-31T11:54:56.657110+00:00",
+  "count": 3680,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91509",
+      "datetime": "2026.08.31. 13:52",
+      "title": "Baleset történt Nagyhalászon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91509",
+      "lead": "A Kossuth utcában árokba csapódott egy autó.",
+      "body": "Letért az úttestről, árokba csapódott és ott az oldalára borulva állt meg egy személykocsi Nagyhalászon, a Kossuth utcában. A járműben csak a sofőr utazott, őt az ibrányi önkormányzati tűzoltók emelték ki az összetört járműből. A helyszínre mentő is érkezett. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
+      "location": "Nagyhalász, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "91508",
       "datetime": "2026.08.31. 13:47",
