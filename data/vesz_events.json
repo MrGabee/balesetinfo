@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T12:37:11.462795+00:00",
-  "count": 3684,
+  "updated_at": "2026-08-31T12:40:14.925438+00:00",
+  "count": 3685,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91514",
+      "datetime": "2026.08.31. 14:38",
+      "title": "Tapolcánál is kigyulladt a száraz fű",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514",
+      "lead": "Belekapott egy fenyőerdőbe, és kiskerteket is veszélyeztet a tűz.",
+      "body": "Lángra kapott a száraz fű Tapolca külterületén, a 77-es főút közelében. Több mint egy hektárra terjed ki, és legalább háromszáz méter hosszan egy fenyőerdőbe is belekapott a tűz, fák koronája is ég. Kiskerteket, lakóautót, melléképületet és lovardát, valamint egy napelemparkot veszélyeztetnek a lángok, amelyeket a badacsonytomaji, a veszprémi és a pápai hivatásos, valamint a tapolcai önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Tapolca, Tapolca külterülete",
+      "updates": []
+    },
     {
       "id": "91513",
       "datetime": "2026.08.31. 14:31",
