@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-31T13:01:10.914500+00:00",
-  "count": 3686,
+  "updated_at": "2026-08-31T13:04:28.234901+00:00",
+  "count": 3687,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91516",
+      "datetime": "2026.08.31. 15:02",
+      "title": "Melléképülettűz Nagyfügeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91516",
+      "lead": "Az Ady Endre úton csaptak fel a lángok, amelyeket megfékeztek a tűzoltók.",
+      "body": "Kigyulladt egy melléképület és egy családi ház tetőszerkezete Nagyfügeden, az Ady Endre úton. A szomszédos ház kertjében a száraz fű is lángra kapott. A gyöngyösi hivatásos tűzoltók három vízsugárral eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Nagyfüged, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "91515",
       "datetime": "2026.08.31. 14:49",
@@ -100,7 +111,16 @@
       "lead": "Ajkai, nagyvázsonyi és taliándörögdi tűzoltók oltják a tüzet.",
       "body": "Kigyulladt egy nagyjából öthektáros terület Vigántpetend külterületén. A terület háromnegyede leégett, a lángok négyszáz méter hosszan egy erdőbe is bejutottak, emellett tüzet fogott egy bokros terület is. Az ajkai hivatásos, valamint a nagyvázsonyi és taliándörögdi önkéntes tűzoltók vízsugarakkal, rézsűoltóval, puttonyfecskendőkkel körülhatárolták, megfékezték a lángokat. A tűzoltók munkáját két mezőgazdasági munkagép is segítette, amelyek tartályukban oltóvizet vittek magukkal.",
       "location": "Vigántpetend, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a Vigántpetend külterületén égő tüzet",
+          "datetime": "2026.08.31. 15:01",
+          "category": "Tűzeset",
+          "text": "Ajkai, nagyvázsonyi és taliándörögdi tűzoltók vonultak Vigántpetend külterületére, ahol öt hektáron égett a vegetáció. Az egységek vízsugarakkal, kéziszerszámokkal, puttonyfecskendőkkel fékezték meg a lángokat, a rajok már az utómunkálatokat is befejezték.",
+          "location": "Vigántpetend, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91507/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91507"
+        }
+      ]
     },
     {
       "id": "91506",
