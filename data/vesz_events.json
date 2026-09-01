@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T21:33:55.279858+00:00",
-  "count": 2918,
+  "updated_at": "2026-09-01T21:37:38.450353+00:00",
+  "count": 2919,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91576",
+      "datetime": "2026.09.01. 23:34",
+      "title": "Autó égett Békésen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91576",
+      "lead": "A Gagarin utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Békésen, a Gagarin utcában. A helyi önkormányzati tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Békés, Gagarin utca",
+      "updates": []
+    },
     {
       "id": "91575",
       "datetime": "2026.09.01. 23:06",
