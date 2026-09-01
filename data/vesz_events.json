@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T06:19:23.333954+00:00",
-  "count": 2891,
+  "updated_at": "2026-09-01T06:23:01.547237+00:00",
+  "count": 2892,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91549",
+      "datetime": "2026.09.01. 08:20",
+      "title": "Két autó ütközött Mikepércsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91549",
+      "lead": "A Petőfi utca ás az Arany János utca kereszteződésénél félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi a 47-es főút belterületi szakaszán, azaz a Petőfi utcán, az Arany János utca kereszteződésében, Mikepércsen. Az egyik autó egy álló busznak ütközött. A debreceni hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mikepércs, Arany János utca",
+      "updates": []
+    },
     {
       "id": "91548",
       "datetime": "2026.09.01. 08:13",
@@ -64,9 +75,9 @@
       "title": "Karambol Debrecen és Létavértes között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91543",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4814-es út 11-12-es kilométere között két személykocsi hajtott egymásba.",
+      "body": "Baleset történt a 4814-es úton, Debrecen és Létavértes között, a 11-12-es kilométer között. Debrecen-Bánk térségében két autó karambolozott. A debreceni hivatásos tűzoltók áramtalanítottak, átvizsgálták a járműveket, irányítják a félpályán haladó forgalmat. A két kocsiban összesen hárman utaztak, a helyszínre mentő is érkezett.",
+      "location": "Debrecen, 4814",
       "updates": []
     },
     {
@@ -428,10 +439,27 @@
       "title": "Tapolcánál is kigyulladt a száraz fű",
       "category": "Tapolcánál is kigyulladt a száraz fű",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Belekapott egy fenyőerdőbe, és kiskerteket is veszélyeztet a tűz.",
+      "body": "Lángra kapott a száraz fű Tapolca külterületén, a 77-es főút közelében. Több mint egy hektárra terjed ki, és legalább háromszáz méter hosszan egy fenyőerdőbe is belekapott a tűz, fák koronája is ég. Kiskerteket, lakóautót, melléképületet és lovardát, valamint egy napelemparkot veszélyeztetnek a lángok, amelyeket a badacsonytomaji, a veszprémi és a pápai hivatásos, valamint a tapolcai önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Tapolca, Tapolca külterülete",
+      "updates": [
+        {
+          "title": "A levegőből is oltják a tapolcai tüzet",
+          "datetime": "2026.08.31. 16:35",
+          "category": "Tűzeset",
+          "text": "Honvédségi helikopterek a levegőből is oltják azt a tüzet, amely Tapolca külterületén, a 77-es főút közelében keletkezett. Nagy területre terjedt ki, és egy fenyőerdőbe is belekaptak a lángok, amelyek egyebek közt kiskerteket, lovardát, valamint egy napelemparkot veszélyeztetnek. A badacsonytomaji, a veszprémi, a keszthelyi, a pápai, a sárvári és az ajkai hivatásos, a tapolcai önkormányzati, valamint a tapolcai, a nagyvázsonyi, a köveskáli, a kővágóörsi, a monostorapáti, a balatonfüredi, a taliándörögdi, a gógánfai és a zalahalápi-sáskai önkéntes tűzoltók egy keszthelyi és egy badacsonytomaji vízszállító jármű közreműködésével oltják a tüzet. A munkálatokat a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A füst miatt a 77-es főút érintett szakaszán forgalomkorlátozásra lehet számítani.",
+          "location": "Tapolca, Tapolca külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91514"
+        },
+        {
+          "title": "Az utómunkálatokat végzik a tűzoltók Tapolcánál",
+          "datetime": "2026.08.31. 20:06",
+          "category": "Tűzeset",
+          "text": "A 77-es főút közelében nagyjából negyven hektáron cserjék, bokros terület, nagy részben fenyveserdő kapott lángra. Tizenhat település hivatásos, önkormányzati és önkéntes tűzoltói oltják a lángokat. Az oltáshoz kora este a honvédség két helikoptere is csatlakozott, a légi járművek tucatnyi alkalommal dobtak vizet a magasból az égő területre. Az oltóvizet a tűzoltósági vízszállítók mellett két katonai vízszállító is biztosítja. Az egységek már megfékezték a lángokat, az utómunkálatokat végzik.",
+          "location": "Tapolca, Tapolca külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91514"
+        }
+      ]
     },
     {
       "id": "91513",
