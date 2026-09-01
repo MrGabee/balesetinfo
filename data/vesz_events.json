@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T20:08:15.917314+00:00",
-  "count": 2915,
+  "updated_at": "2026-09-01T20:12:25.669318+00:00",
+  "count": 2916,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91573",
+      "datetime": "2026.09.01. 22:11",
+      "title": "Családi ház égett Bükkaranyoson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91573",
+      "lead": "A Vörösmarty Mihály úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy harminckét négyzetméteres családi ház Bükkaranyoson, a Vörösmarty Mihály úton. A tűz átterjedt az udvaron tárolt hulladékra is. A miskolci hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Bükkaranyos, Vörösmarty Mihály út",
+      "updates": []
+    },
     {
       "id": "91572",
       "datetime": "2026.09.01. 21:29",
