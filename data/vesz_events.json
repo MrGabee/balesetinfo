@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T02:43:18.878241+00:00",
-  "count": 2883,
+  "updated_at": "2026-09-01T02:46:56.882573+00:00",
+  "count": 2884,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91541",
+      "datetime": "2026.09.01. 04:44",
+      "title": "Súlyos baleset történt a 61-es főúton Előszállás és Alsószentiván között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91541",
+      "lead": "A 10-11-es kilométer között árokba hajtott egy hűtőkamion.",
+      "body": "Letért az útról, egy öt méter mély árokba hajtott és ott felborult egy sertéshúst szállító hűtőkamion a 61-es főút 10-11-es kilométere között. Az Alsószentiván és Előszállás között történt balesethez a dunaújvárosi hivatásos tűzoltók két egysége, valamint a Fejér vármegyei katasztrófavédelmi műveleti szolgálat vonult. A tűzoltók a hűtő aggregátorát már áramtalanították, a jármű áramtalanítása még várat magára. A jármű sofőrje beszorult a roncsba, az egységek feszítővágó és munkahenger segítségével szabadították ki a vezetőfülkéből. A főút érintett szakaszán rendőri segítséggel, félpályán halad a forgalom.",
+      "location": "Előszállás, 61",
+      "updates": []
+    },
     {
       "id": "91540",
       "datetime": "2026.09.01. 04:00",
