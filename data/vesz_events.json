@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T00:53:28.176101+00:00",
+  "updated_at": "2026-09-01T00:57:20.609569+00:00",
   "count": 2881,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "Paksi és helyi tűzoltók vonultak a Petőfi Sándor utcába.",
       "body": "Kigyulladt és teljes terjedelmében égett egy faszerkezetű melléképület Tengelicen, a Petőfi Sándor utcában. Az épületben volt egy lakókocsi is, de azzal időben ki tudtak állni. Hordókban nagyobb mennyiségű gázolajat tárolnak, a hordókat a paksi hivatásos és a tengelici önkéntes tűzoltók a szabadba vitték, folyamatosan hűtötték. Az egységek több vízsugárral megfékezték a lángokat.",
       "location": "Tengelic, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tüzet eloltották, az utómunkálatok zajlanak Tengelicen",
+          "datetime": "2026.09.01. 02:51",
+          "category": "Tűzeset",
+          "text": "A Petőfi Sándor utcában egy faszerkezetű melléképület gyulladt ki, a paksi hivatásos és a helyi önkéntes tűzoltók avatkoztak be. Az építményben hordókban jelentősebb mennyiségű gázolaj is volt, a hordókat a szabadba vitték és hűtötték. Emellett a tűzoltók három oxigénpalackot is találtak odabenn, azokat is kivitték az épületből, hőkamerával átvizsgálták és hűtötték. A rajok eloltották a tüzet, már az utómunkálatokat végzik.",
+          "location": "Tengelic, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91537/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91537"
+        }
+      ]
     },
     {
       "id": "91536",
