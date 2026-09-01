@@ -1,8 +1,259 @@
 {
-  "updated_at": "2026-09-01T10:02:51.299174+00:00",
-  "count": 2876,
+  "updated_at": "2026-09-01T10:06:54.800230+00:00",
+  "count": 2898,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91555",
+      "datetime": "2026.09.01. 11:57",
+      "title": "Baleset történt Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91555",
+      "lead": "A Rákóczi úton félpályán halad a forgalom.",
+      "body": "Álló autóba ütközött egy személygépkocsi Szolnokon, a Rákóczi úton. A szolnoki hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szolnok, Rákóczi út",
+      "updates": []
+    },
+    {
+      "id": "91554",
+      "datetime": "2026.09.01. 11:54",
+      "title": "Karambolozott két autó az 5408-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91554",
+      "lead": "A baleset Bordány és Üllés között akadályozza a forgalmat.",
+      "body": "Egymásnak ütközött két kisteherautó Bordány közelében, az 5408-as út Üllés felé vezető szakaszán, a 34. és a 35. kilométer között. A ruzsai hivatásos és az üllési önkéntes tűzoltók vonultak ki a balesethez. A rajok áramtalanították a járműveket, amelyek egyike akadályozza a forgalmat.",
+      "location": "Bordány, 5408",
+      "updates": []
+    },
+    {
+      "id": "91553",
+      "datetime": "2026.09.01. 11:23",
+      "title": "Oldalára borult egy autó Tapolcán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91553",
+      "lead": "A tűzoltók egy utast kimentettek a járműből.",
+      "body": "Oldalára borult egy személygépkocsi Tapolcán, a Bartók Béla utcában. A helyi önkormányzati tűzoltók egy utast kimentettek az autóból és áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Tapolca, Bartók Béla utca",
+      "updates": []
+    },
+    {
+      "id": "91552",
+      "datetime": "2026.09.01. 10:16",
+      "title": "Árokba hajtott egy autó a 4915-ös úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91552",
+      "lead": "Nyírvasvári és Nyírbátor között forgalmi akadály van.",
+      "body": "Árokba hajtott egy személygépkocsi a 4915-ös úton, Nyírvasvári és Nyírbátor között, a 3-as kilométerszelvénynél. Az autó egy távközlési oszlopot is kitört. A nyírbátori hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Nyírvasvári, Bátori utca",
+      "updates": []
+    },
+    {
+      "id": "91551",
+      "datetime": "2026.09.01. 10:00",
+      "title": "Karambol Bérbaltaváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91551",
+      "lead": "A Kossuth Lajos utca és a Rákóczi Ferenc utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személyautó Bérbaltaváron a Kossuth Lajos utca és a Rákóczi Ferenc utca találkozásánál. A vasvári önkormányzati tűzoltók áramtalanították a járműveket, amelyek egyikéből hűtőfolyadék és olaj került az útburkolatra. A helyszínre érkeztek a mentők is.",
+      "location": "Bérbaltavár, Rákóczi Ferenc utca",
+      "updates": []
+    },
+    {
+      "id": "91550",
+      "datetime": "2026.09.01. 08:56",
+      "title": "Összeütközött két autó a 7306-os úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91550",
+      "lead": "Ajkarendeken végeznek műszakik mentést a tűzoltók.",
+      "body": "Karambolozott két személyautó a 7306-os úton, az Ajkához tartozó Ajkarendeken. Az ajkai hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen négyen utaztak. Hozzájuk mentő érkezett a helyszínre. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Ajka, 7306",
+      "updates": []
+    },
+    {
+      "id": "91549",
+      "datetime": "2026.09.01. 08:20",
+      "title": "Két autó ütközött Mikepércsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91549",
+      "lead": "A Petőfi utca ás az Arany János utca kereszteződésénél félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi a 47-es főút belterületi szakaszán, azaz a Petőfi utcán, az Arany János utca kereszteződésében, Mikepércsen. Az egyik autó egy álló busznak ütközött. A debreceni hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mikepércs, Arany János utca",
+      "updates": []
+    },
+    {
+      "id": "91548",
+      "datetime": "2026.09.01. 08:13",
+      "title": "Karambol Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91548",
+      "lead": "A Maglódi út és a Gitár utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest X. kerületében, a Maglódi út és a Gitár utca kereszteződésében. Az autókban összesen hárman utaztak. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Maglódi út",
+      "updates": []
+    },
+    {
+      "id": "91547",
+      "datetime": "2026.09.01. 08:02",
+      "title": "Két baleset is történt az M0-áson, Nagytéténynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91547",
+      "lead": "Az M3-as felé vezető oldalra, a 13-as kilométerhez vonultak a fővárosi tűzoltók.",
+      "body": "Két karambol is történt az M0-ás autóúton, Nagytéténynél, a 6-os főúti csomópont közelében. Az egyiknél egy kamion és egy autó hajtott egymásba, a másiknál két személykocsi ütközött össze. Utóbbi esetben a belső sávban álló autó mozgásképtelenné vált. A fővárosi hivatásos tűzoltók áramtalanítottak. A balesetek miatt az M0-ás autóút Nyíregyháza felé vezető oldalán több kilométeres torlódás alakult ki.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
+    {
+      "id": "91546",
+      "datetime": "2026.09.01. 07:55",
+      "title": "Baleset Balatonfenyvesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91546",
+      "lead": "A Vörösmarty utcában forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi a 7-es főút belterületi szakaszán, azaz a Vörösmarty utcában, Balatonfenyvesen. A balatonboglári önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Balatonfenyves, Vörösmarty utca",
+      "updates": []
+    },
+    {
+      "id": "91545",
+      "datetime": "2026.09.01. 07:47",
+      "title": "Felborult egy autó a 8617-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91545",
+      "lead": "A Csáfordjánosfa és Iván között történt balesethez a répcelaki tűzoltók vonultak.",
+      "body": "Felborult egy személykocsi a 8617-es út 3-as kilométerénél, Csáfordjánosfa és Iván között. A forgalmat akadályozó autóban csak a sofőr ült, ki tudott szállni járművéből, mentő érkezett hozzá. A répcelaki önkormányzati tűzoltók végzik a műszaki mentést.",
+      "location": "Csáfordjánosfa, 8617",
+      "updates": []
+    },
+    {
+      "id": "91544",
+      "datetime": "2026.09.01. 07:41",
+      "title": "Motor és traktor karambolozott az 1-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91544",
+      "lead": "Motor és traktor karambolozott az 1-es főúton",
+      "body": "Összeütközött egy motorkerékpár és egy trágyaszórót vontató traktor az 1-es főút Bicske és Herceghalom közötti szakaszán. A 26-27-es kilométer között történt balesethez a bicskei önkormányzati tűzoltókat riasztották. Az egység áramtalanított, megszüntette az üzemanyag folyását. A helyszínre mentőautó és mentőhelikopter is érkezett. Az 1-es főutat teljes szélességében lezárták.",
+      "location": "Mány, 1",
+      "updates": []
+    },
+    {
+      "id": "91543",
+      "datetime": "2026.09.01. 07:30",
+      "title": "Karambol Debrecen és Létavértes között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91543",
+      "lead": "A 4814-es út 11-12-es kilométere között két személykocsi hajtott egymásba.",
+      "body": "Baleset történt a 4814-es úton, Debrecen és Létavértes között, a 11-12-es kilométer között. Debrecen-Bánk térségében két autó karambolozott. A debreceni hivatásos tűzoltók áramtalanítottak, átvizsgálták a járműveket, irányítják a félpályán haladó forgalmat. A két kocsiban összesen hárman utaztak, a helyszínre mentő is érkezett.",
+      "location": "Debrecen, 4814",
+      "updates": []
+    },
+    {
+      "id": "91542",
+      "datetime": "2026.09.01. 07:24",
+      "title": "Baleset történt Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91542",
+      "lead": "A Vas Gereben és a Nádasdy utca kereszteződésénél egy teherautó és egy személykocsi karambolozott.",
+      "body": "Összeütközött egy autó és egy tehergépkocsi Budapest tizenkilencedik kerületében, a Vas Gereben utca és a Nádasdy utca sarkánál. A járművek akadályozzák a forgalmat, a közösségi közlekedést is. A fővárosi hivatásos tűzoltók áramtalanították a kocsikat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Vas Gereben utca",
+      "updates": []
+    },
+    {
+      "id": "91541",
+      "datetime": "2026.09.01. 04:44",
+      "title": "Súlyos baleset történt a 61-es főúton Előszállás és Alsószentiván között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91541",
+      "lead": "A 10-11-es kilométer között árokba hajtott egy hűtőkamion.",
+      "body": "Letért az útról, egy öt méter mély árokba hajtott és ott felborult egy sertéshúst szállító hűtőkamion a 61-es főút 10-11-es kilométere között. Az Alsószentiván és Előszállás között történt balesethez a dunaújvárosi hivatásos tűzoltók két egysége, valamint a Fejér vármegyei katasztrófavédelmi műveleti szolgálat vonult. A tűzoltók a hűtő aggregátorát már áramtalanították, a jármű áramtalanítása még várat magára. A jármű sofőrje beszorult a roncsba, az egységek feszítővágó és munkahenger segítségével szabadították ki a vezetőfülkéből. A főút érintett szakaszán rendőri segítséggel, félpályán halad a forgalom.",
+      "location": "Előszállás, 61",
+      "updates": []
+    },
+    {
+      "id": "91540",
+      "datetime": "2026.09.01. 04:00",
+      "title": "Tűz volt Jákfán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91540",
+      "lead": "A Tölgy utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki Jákfán, a Tölgy utcában: egy huszonöt négyzetméteres terasz, valamint két, egyenként szintén huszonöt négyzetméteres melléképület égett. Sárvári hivatásos, valamint helyi és uraiújfalui önkéntes tűzoltókat riasztottak az esethez. Az egységek több vízsugárral megfékezték a lángokat.",
+      "location": "Jákfa, Tölgy utca",
+      "updates": []
+    },
+    {
+      "id": "91539",
+      "datetime": "2026.09.01. 03:04",
+      "title": "Körbálák égnek Makó határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91539",
+      "lead": "Az Ószegedi útra makói, hódmezővásárhelyi és szegedi tűzoltókat riasztottak.",
+      "body": "Körülbelül két hektáron meggyulladt a száraz fű Makó szélén, az Ószegedi útnál. A tűz veszélyt jelentett a közeli házakra, de a makói, hódmezővásárhelyi és szegedi hivatásos tűzoltók meg tudták akadályozni, hogy a lángok azokra is átterjedjenek. A tűz azonban elért egy nagyjából ötszáz körbálából álló kazlat is. A rakatot egy erőgép megbontja, a bálákat felügyelet mellett leégetik.",
+      "location": "Makó, Ószegedi út",
+      "updates": []
+    },
+    {
+      "id": "91538",
+      "datetime": "2026.09.01. 02:37",
+      "title": "Leégett egy garázs Budapest tizennyolcadik kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91538",
+      "lead": "A Nagykőrösi úton, a Gyöngyperje utca közelében dolgoztak a fővárosi tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából tíz négyzetméteres garázs Budapest tizennyolcadik kerületében, a Nagykőrösi úton. A családi ház udvarán álló, különálló épület tüzéhez a fővárosi hivatásos tűzoltókat riasztották. A rajok két vízsugárral körülhatárolták, eloltották a lángokat. Az építmény megsemmisült.",
+      "location": "Budapest, Nagykőrösi út",
+      "updates": []
+    },
+    {
+      "id": "91537",
+      "datetime": "2026.09.01. 02:20 -",
+      "title": "Melléképület gyulladt ki Tengelicen",
+      "category": "Melléképület gyulladt ki Tengelicen",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91537",
+      "lead": "Paksi és helyi tűzoltók vonultak a Petőfi Sándor utcába.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy faszerkezetű melléképület Tengelicen, a Petőfi Sándor utcában. Az épületben volt egy lakókocsi is, de azzal időben ki tudtak állni. Hordókban nagyobb mennyiségű gázolajat tárolnak, a hordókat a paksi hivatásos és a tengelici önkéntes tűzoltók a szabadba vitték, folyamatosan hűtötték. Az egységek több vízsugárral megfékezték a lángokat.",
+      "location": "Tengelic, Petőfi Sándor utca",
+      "updates": [
+        {
+          "title": "A tüzet eloltották, az utómunkálatok zajlanak Tengelicen",
+          "datetime": "2026.09.01. 02:51",
+          "category": "Tűzeset",
+          "text": "A Petőfi Sándor utcában egy faszerkezetű melléképület gyulladt ki, a paksi hivatásos és a helyi önkéntes tűzoltók avatkoztak be. Az építményben hordókban jelentősebb mennyiségű gázolaj is volt, a hordókat a szabadba vitték és hűtötték. Emellett a tűzoltók három oxigénpalackot is találtak odabenn, azokat is kivitték az épületből, hőkamerával átvizsgálták és hűtötték. A rajok eloltották a tüzet, már az utómunkálatokat végzik.",
+          "location": "Tengelic, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91537/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91537"
+        }
+      ]
+    },
+    {
+      "id": "91536",
+      "datetime": "2026.09.01. 00:39",
+      "title": "Villanyoszlopnak rohant egy autó Hajdúböszörményben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91536",
+      "lead": "A Baltazár Dezső és az Árpád utca kereszteződésénél történt a baleset.",
+      "body": "Villanyoszlopnak hajtott és tőből kidöntötte azt egy személykocsi Hajdúböszörményben, a Baltazár Dezső és az Árpád utca kereszteződésénél. Az oszlop egy épületnek dőlt. A járműben ketten ültek, még a helyi hivatásos tűzoltók megérkezése előtt kiszálltak a kocsiból, mentő érkezett hozzájuk. A tűzoltók áramtalanították az autót.",
+      "location": "Hajdúböszörmény, Baltazár Dezső utca",
+      "updates": []
+    },
+    {
+      "id": "91535",
+      "datetime": "2026.09.01. 00:34",
+      "title": "Villám csapott egy érdi házba",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91535",
+      "lead": "A város tűzoltóit a Tárnoki útra riasztották.",
+      "body": "Villámcsapás érte és ettől kigyulladt egy kétszintes érdi, Tárnok úti családi ház. A százötven négyzetméteres épület emeleti szobájában keletkezett tűz. A város hivatásos tűzoltói két gépjárműfecskendővel, illetve a magasból mentővel vonultak a helyszínre. A rajok áramtalanították az épületet, a létraszerről kívülről megbontották a tetőt, amelyet visszahűtöttek. Emellett a tűzoltók megbontották a tetőtéri lambériát is, az ott talált lángokat porral oltóval fékezték meg.",
+      "location": "Érd, Tárnoki út",
+      "updates": []
+    },
+    {
+      "id": "91534",
+      "datetime": "2026.09.01. 00:09",
+      "title": "Baleset történt az M0-ás autóúton, Diósdnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91534",
+      "lead": "Az M3-as felé vezető oldal 10-es kilométerénél megpördült egy autó.",
+      "body": "Megpördült egy autó és az út közepén állt meg az M0-áson, Diósd térségében, a 10-es kilométernél. Az M3-as felé vezető oldalon történt balesetnél a jármű a belső sávban állt meg. Az esethez a fővárosi hivatásos tűzoltók vonultak, a raj megvárja, míg a közútkezelő a helyszínre nem ér.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "91533",
       "datetime": "2026.08.31. 23:44",
