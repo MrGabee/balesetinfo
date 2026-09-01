@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T16:49:40.168963+00:00",
-  "count": 2912,
+  "updated_at": "2026-09-01T16:53:39.135254+00:00",
+  "count": 2913,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91570",
+      "datetime": "2026.09.01. 18:52",
+      "title": "Tetőszerkezet égett Mezőzomboron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91570",
+      "lead": "A Zrínyi utcában dolgoztak a tűzoltók.",
+      "body": "Kigyulladt egy tömblakás tetőszerkezete Mezőzomboron, a Zrínyi utcában. A szerencsi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat kezdik meg. A helyszínre mentő is érkezett.",
+      "location": "Mezőzombor, Zrínyi utca",
+      "updates": []
+    },
     {
       "id": "91569",
       "datetime": "2026.09.01. 18:48",
