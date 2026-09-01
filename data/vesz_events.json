@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T05:53:59.841196+00:00",
-  "count": 2888,
+  "updated_at": "2026-09-01T05:57:26.434433+00:00",
+  "count": 2889,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91546",
+      "datetime": "2026.09.01. 07:55",
+      "title": "Baleset Balatonfenyvesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91546",
+      "lead": "A Vörösmarty utcában forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi a 7-es főút belterületi szakaszán, azaz a Vörösmarty utcában, Balatonfenyvesen. A balatonboglári önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Balatonfenyves, Vörösmarty utca",
+      "updates": []
+    },
     {
       "id": "91545",
       "datetime": "2026.09.01. 07:47",
