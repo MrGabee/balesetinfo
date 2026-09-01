@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T15:22:53.673589+00:00",
-  "count": 2909,
+  "updated_at": "2026-09-01T15:26:15.695418+00:00",
+  "count": 2910,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91567",
+      "datetime": "2026.09.01. 17:23",
+      "title": "Villanyoszlopnak ütközött egy autó Budaörsön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91567",
+      "lead": "A Felsőhatár utcában félpályán halad a forgalom.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Budaörsön, a Felsőhatár utcában. Az autóban csak a sofőr utazott. A törökbálinti hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budaörs, Felsőhatár utca",
+      "updates": []
+    },
     {
       "id": "91566",
       "datetime": "2026.09.01. 17:19",
