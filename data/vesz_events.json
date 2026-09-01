@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T09:51:49.401959+00:00",
-  "count": 2896,
+  "updated_at": "2026-09-01T09:55:22.865338+00:00",
+  "count": 2897,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91554",
+      "datetime": "2026.09.01. 11:54",
+      "title": "Karambolozott két autó az 5408-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91554",
+      "lead": "A baleset Bordány és Üllés között akadályozza a forgalmat.",
+      "body": "Egymásnak ütközött két kisteherautó Bordány közelében, az 5408-as út Üllés felé vezető szakaszán, a 34. és a 35. kilométer között. A ruzsai hivatásos és az üllési önkéntes tűzoltók vonultak ki a balesethez. A rajok áramtalanították a járműveket, amelyek egyike akadályozza a forgalmat.",
+      "location": "Bordány, 5408",
+      "updates": []
+    },
     {
       "id": "91553",
       "datetime": "2026.09.01. 11:23",
@@ -216,9 +227,9 @@
       "title": "Villám csapott egy érdi házba",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91535",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A város tűzoltóit a Tárnoki útra riasztották.",
+      "body": "Villámcsapás érte és ettől kigyulladt egy kétszintes érdi, Tárnok úti családi ház. A százötven négyzetméteres épület emeleti szobájában keletkezett tűz. A város hivatásos tűzoltói két gépjárműfecskendővel, illetve a magasból mentővel vonultak a helyszínre. A rajok áramtalanították az épületet, a létraszerről kívülről megbontották a tetőt, amelyet visszahűtöttek. Emellett a tűzoltók megbontották a tetőtéri lambériát is, az ott talált lángokat porral oltóval fékezték meg.",
+      "location": "Érd, Tárnoki út",
       "updates": []
     },
     {
