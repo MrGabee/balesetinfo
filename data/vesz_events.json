@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T01:01:35.109239+00:00",
-  "count": 2881,
+  "updated_at": "2026-09-01T01:05:09.945058+00:00",
+  "count": 2882,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91539",
+      "datetime": "2026.09.01. 03:04",
+      "title": "Körbálák égnek Makó határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91539",
+      "lead": "Az Ószegedi útra makói, hódmezővásárhelyi és szegedi tűzoltókat riasztottak.",
+      "body": "Körülbelül két hektáron meggyulladt a száraz fű Makó szélén, az Ószegedi útnál. A tűz veszélyt jelentett a közeli házakra, de a makói, hódmezővásárhelyi és szegedi hivatásos tűzoltók meg tudták akadályozni, hogy a lángok azokra is átterjedjenek. A tűz azonban elért egy nagyjából ötszáz körbálából álló kazlat is. A rakatot egy erőgép megbontja, a bálákat felügyelet mellett leégetik.",
+      "location": "Makó, Ószegedi út",
+      "updates": []
+    },
     {
       "id": "91538",
       "datetime": "2026.09.01. 02:37",
