@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T14:44:59.351719+00:00",
-  "count": 2907,
+  "updated_at": "2026-09-01T14:48:49.438243+00:00",
+  "count": 2908,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91565",
+      "datetime": "2026.09.01. 16:46",
+      "title": "Fának hajtott egy autó a 4429-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91565",
+      "lead": "Kevermesnél dolgoznak a tűzoltók, akik egy embert kiszabadítottak a járműből.",
+      "body": "Fának ütközött egy személyautó a 4429-es út Kevermes és Nagykamarás közötti szakaszán, a 3. kilométernél. Egy ember beszorult a gépkocsiba. Őt feszítővágóval szabadították ki, majd átadták a mentőknek a mezőkovácsházai hivatásos tűzoltók. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kevermes, 4429",
+      "updates": []
+    },
     {
       "id": "91564",
       "datetime": "2026.09.01. 16:21",
