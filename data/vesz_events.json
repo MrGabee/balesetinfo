@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T06:53:49.924795+00:00",
-  "count": 2892,
+  "updated_at": "2026-09-01T06:57:40.916633+00:00",
+  "count": 2893,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91550",
+      "datetime": "2026.09.01. 08:56",
+      "title": "Összeütközött két autó a 7306-os úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91550",
+      "lead": "Ajkarendeken végeznek műszakik mentést a tűzoltók.",
+      "body": "Karambolozott két személyautó a 7306-os úton, az Ajkához tartozó Ajkarendeken. Az ajkai hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen négyen utaztak. Hozzájuk mentő érkezett a helyszínre. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Ajka, 7306",
+      "updates": []
+    },
     {
       "id": "91549",
       "datetime": "2026.09.01. 08:20",
