@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T19:26:40.626657+00:00",
-  "count": 2914,
+  "updated_at": "2026-09-01T19:31:11.961741+00:00",
+  "count": 2915,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91572",
+      "datetime": "2026.09.01. 21:29",
+      "title": "Száraz fű égett Nagyfügednél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91572",
+      "lead": "A tűzoltók hat vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt mintegy huszonöt hektárnyi száraz fű Nagyfüged külterületénél. A gyöngyösi hivatásos tűzoltók hat vízsugárral elfojtották a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat végzik.",
+      "location": "Nagyfüged, Széchenyi István út",
+      "updates": []
+    },
     {
       "id": "91571",
       "datetime": "2026.09.01. 20:02",
