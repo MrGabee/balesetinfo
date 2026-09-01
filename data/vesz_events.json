@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T05:41:48.294650+00:00",
+  "updated_at": "2026-09-01T05:46:05.318480+00:00",
   "count": 2887,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -199,14 +199,23 @@
     },
     {
       "id": "91528",
-      "datetime": "2026.08.31. 19:19",
+      "datetime": "2026.08.31. 19:19 -",
       "title": "Ismét elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
-      "category": "Meteorológiai riasztás",
+      "category": "Ismét elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91528",
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.01. 07:43",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91528/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91528"
+        }
+      ]
     },
     {
       "id": "91527",
@@ -217,7 +226,16 @@
       "lead": "Több encsi és egy gönci tűzoltóegység dolgozik a helyszínen.",
       "body": "Száraz fű gyulladt ki Hernádvécse külterületén, a 2627-es út közelében. A helyszínre a gönci katasztrófavédelmi őrs tűzoltóit, valamint az encsi hivatásos tűzoltóság két gépjárműfecskendőjét és erdőtüzes járművét riasztották. Az egységek kéziszerszámokkal, háti permetezőkkel oltják a tüzet, amelyet már körül is határoltak. A füst veszélyt jelent a közlekedésre is, ezért a rendőrséget kérték a helyszínre.",
       "location": "Hernádvécse, 2627",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatokat végzik a tűzoltók Hernádvécse külterületén",
+          "datetime": "2026.08.31. 17:54",
+          "category": "Tűzeset",
+          "text": "Nagyjából ötven hektáron égett a száraz fű, az aljnövényzet Hernádvécse külterületén. A tűz elpusztított tíz hengerbálát is. Az encsi és gönci hivatásos tűzoltók nagyjából hatórás munkával, vízsugarakkal, kéziszerszámokkal, háti permetezővel oltották el. LÁngok már nincsenek, az egységek az utómunkálatoknál tartanak.",
+          "location": "Hernádvécse, 2627",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91527/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91527"
+        }
+      ]
     },
     {
       "id": "91526",
@@ -344,9 +362,9 @@
       "title": "Melléképülettűz Nagyfügeden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91516",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre úton csaptak fel a lángok, amelyeket megfékeztek a tűzoltók.",
+      "body": "Kigyulladt egy melléképület és egy családi ház tetőszerkezete Nagyfügeden, az Ady Endre úton. A szomszédos ház kertjében a száraz fű is lángra kapott. A gyöngyösi hivatásos tűzoltók három vízsugárral eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Nagyfüged, Ady Endre út",
       "updates": []
     },
     {
@@ -366,10 +384,27 @@
       "title": "Tapolcánál is kigyulladt a száraz fű",
       "category": "Tapolcánál is kigyulladt a száraz fű",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Belekapott egy fenyőerdőbe, és kiskerteket is veszélyeztet a tűz.",
+      "body": "Lángra kapott a száraz fű Tapolca külterületén, a 77-es főút közelében. Több mint egy hektárra terjed ki, és legalább háromszáz méter hosszan egy fenyőerdőbe is belekapott a tűz, fák koronája is ég. Kiskerteket, lakóautót, melléképületet és lovardát, valamint egy napelemparkot veszélyeztetnek a lángok, amelyeket a badacsonytomaji, a veszprémi és a pápai hivatásos, valamint a tapolcai önkormányzati tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Tapolca, Tapolca külterülete",
+      "updates": [
+        {
+          "title": "A levegőből is oltják a tapolcai tüzet",
+          "datetime": "2026.08.31. 16:35",
+          "category": "Tűzeset",
+          "text": "Honvédségi helikopterek a levegőből is oltják azt a tüzet, amely Tapolca külterületén, a 77-es főút közelében keletkezett. Nagy területre terjedt ki, és egy fenyőerdőbe is belekaptak a lángok, amelyek egyebek közt kiskerteket, lovardát, valamint egy napelemparkot veszélyeztetnek. A badacsonytomaji, a veszprémi, a keszthelyi, a pápai, a sárvári és az ajkai hivatásos, a tapolcai önkormányzati, valamint a tapolcai, a nagyvázsonyi, a köveskáli, a kővágóörsi, a monostorapáti, a balatonfüredi, a taliándörögdi, a gógánfai és a zalahalápi-sáskai önkéntes tűzoltók egy keszthelyi és egy badacsonytomaji vízszállító jármű közreműködésével oltják a tüzet. A munkálatokat a Veszprém vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A füst miatt a 77-es főút érintett szakaszán forgalomkorlátozásra lehet számítani.",
+          "location": "Tapolca, Tapolca külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91514"
+        },
+        {
+          "title": "Az utómunkálatokat végzik a tűzoltók Tapolcánál",
+          "datetime": "2026.08.31. 20:06",
+          "category": "Tűzeset",
+          "text": "A 77-es főút közelében nagyjából negyven hektáron cserjék, bokros terület, nagy részben fenyveserdő kapott lángra. Tizenhat település hivatásos, önkormányzati és önkéntes tűzoltói oltják a lángokat. Az oltáshoz kora este a honvédség két helikoptere is csatlakozott, a légi járművek tucatnyi alkalommal dobtak vizet a magasból az égő területre. Az oltóvizet a tűzoltósági vízszállítók mellett két katonai vízszállító is biztosítja. Az egységek már megfékezték a lángokat, az utómunkálatokat végzik.",
+          "location": "Tapolca, Tapolca külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91514/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91514"
+        }
+      ]
     },
     {
       "id": "91513",
@@ -391,7 +426,16 @@
       "lead": "Az Epres utca végébe öt település tűzoltóit riasztották.",
       "body": "Négy hektáron meggyulladt a búzatarló Hajdúhadház külterületén, az Epres utca végében. A tűz átterjedt egy akácerdő lombkoronájára, illetve lakóházakat is veszélyeztetett. Hajdúböszörményi, debreceni, adonyi, hajdúnánási és nyíregyházi hivatásos tűzoltók a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több oldalról, vízsugarakkal, puttonyfecskendőkkel, kéziszerszámokkal oltják a tüzet.",
       "location": "Hajdúhadház, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az egységek az utómunkálatokat végzik Hajdúhadháznál",
+          "datetime": "2026.08.31. 16:12",
+          "category": "Tűzeset",
+          "text": "Az Epres utca végében a drónfelvételek alapján körülbelül tizennégy hektár égett le, a tüzet hajdúböszörményi, debreceni, adonyi, hajdúnánási és nyíregyházi tűzoltók fékezték meg. A területet az erdészet saját erőgéppel körbetárcsázza, a honvédség pedig egy vízszállítóval segíti a hivatásos egységek munkáját. A tüzet a rajok körülhatárolták, eloltották, az utómunkálatokat végzik, amelyek elhúzódhatnak.",
+          "location": "Hajdúhadház, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91512/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91512"
+        }
+      ]
     },
     {
       "id": "91511",
@@ -399,9 +443,9 @@
       "title": "Összeütközött két autó Győrben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91511",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 83-as főút bevezető szakaszán, a 71-72-es kilométer között történt a baleset.",
+      "body": "Két személykocsi karambolozott a 83-as főút győri bevezető szakaszán, a 71-72-es kilométer között. A bútoráruház közelében történt balesethez a város hivatásos tűzoltói vonultak. A két autóban összesen hárman ültek, a helyszínre mentőt is riasztottak.",
+      "location": "Győr, 83",
       "updates": []
     },
     {
@@ -421,9 +465,9 @@
       "title": "Baleset történt Nagyhalászon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91509",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth utcában árokba csapódott egy autó.",
+      "body": "Letért az úttestről, árokba csapódott és ott az oldalára borulva állt meg egy személykocsi Nagyhalászon, a Kossuth utcában. A járműben csak a sofőr utazott, őt az ibrányi önkormányzati tűzoltók emelték ki az összetört járműből. A helyszínre mentő is érkezett. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
+      "location": "Nagyhalász, Kossuth utca",
       "updates": []
     },
     {
@@ -432,10 +476,27 @@
       "title": "Lángra kapott az aljnövényzet Rajka közelében",
       "category": "Lángra kapott az aljnövényzet Rajka közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91508",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Nagy területet és egy erdősávot is érintenek a lángok.",
+      "body": "Kigyulladt a száraz aljnövényzet egy Rajka és Hegyeshalom közötti területen. Mintegy ötven hektárt érint, és egy erdősávra is átterjedt a tűz, amelyet a Győr-Moson-Sopron vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak a mosonmagyaróvári, a csornai, a győri és a lébényi hivatásos, valamint a rajkai önkéntes tűzoltók. A helyszínre indult több más egység is. A tűzoltást munkagépek is segítik.",
+      "location": "Rajka, Rajka és Hegyeshalom között",
+      "updates": [
+        {
+          "title": "Nem terjed tovább a tűz Rajkánál",
+          "datetime": "2026.08.31. 15:44",
+          "category": "Tűzeset",
+          "text": "Megakadályozták annak a szabadtéri tűznek a továbbterjedését, amely kora délután keletkezett Rajka és Hegyeshalom között. Több mint kilencven hektáron lucerna, két helyen, összesen mintegy hat és fél hektáron erdő gyulladt meg. A mosonmagyaróvári, a csornai, a győri, a lébényi és a pannonhalmi hivatásos, valamint a rajkai, a dunakiliti, a hegyeshalmi, a mosonszolnoki és a bősárkányi önkéntes tűzoltók, egy győri és egy kapuvári vízszállító jármű közreműködésével, tizenkét vízsugárral és kéziszerszámokkal oltják a lángokat. A munkálatokat, amelyeket erőgép is segít, a Győr-Moson-Sopron vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Rajka, Rajka és Hegyeshalom között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91508/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91508"
+        },
+        {
+          "title": "Tizenkét órás munka után fejezték be az oltást Rajkánál",
+          "datetime": "2026.09.01. 01:10",
+          "category": "Tűzeset",
+          "text": "Rajka és Hegyeshalom között délután egy óra táján keletkezett tűz. Több mint kilencven hektáron lucerna, két helyen, összesen mintegy hat és fél hektáron erdő gyulladt meg. Mosonmagyaróvári, csornai, győri, lébényi, kapuvári és pannonhalmi hivatásos, valamint rajkai, dunakiliti, hegyeshalmi, mosonszolnoki, bősárkányi, hédervári és jánossomorjai önkéntes tűzoltók vízsugarakkal és kéziszerszámokkal oltották el a lángokat. A munkálatokat erőgépek is segítették. Az egységek nagyjából tizenkét órás munka árán oltották el a tüzet.",
+          "location": "Rajka, Rajka és Hegyeshalom között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91508/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91508"
+        }
+      ]
     },
     {
       "id": "91507",
