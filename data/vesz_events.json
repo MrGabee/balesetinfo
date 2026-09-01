@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:30:01.186945+00:00",
+  "updated_at": "2026-09-01T15:33:37.512036+00:00",
   "count": 2910,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -100,7 +100,16 @@
       "lead": "A tűz egy erdőbe is belekapott.",
       "body": "Kigyulladt az aljnövényzet Kóka határában. A tűz belekapott egy akácerdőbe is. A nagykátai hivatásos és a kókai önkéntes tűzoltók oltják a lángokat.",
       "location": "Kóka, Aranyosi dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kóka határában",
+          "datetime": "2026.09.01. 17:28",
+          "category": "Tűzeset",
+          "text": "Kigyulladt az aljnövényzet Kóka határában. A tűz belekapott egy akácerdőbe is. A nagykátai és a monori hivatásos, illetve a kókai önkéntes tűzoltók oltották el a lángokat.",
+          "location": "Kóka, Aranyosi dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91559"
+        }
+      ]
     },
     {
       "id": "91558",
