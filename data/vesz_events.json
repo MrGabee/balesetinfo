@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T09:55:22.865338+00:00",
-  "count": 2897,
+  "updated_at": "2026-09-01T09:58:49.113027+00:00",
+  "count": 2898,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91555",
+      "datetime": "2026.09.01. 11:57",
+      "title": "Baleset történt Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91555",
+      "lead": "A Rákóczi úton félpályán halad a forgalom.",
+      "body": "Álló autóba ütközött egy személygépkocsi Szolnokon, a Rákóczi úton. A szolnoki hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szolnok, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "91554",
       "datetime": "2026.09.01. 11:54",
@@ -152,9 +163,9 @@
       "title": "Súlyos baleset történt a 61-es főúton Előszállás és Alsószentiván között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91541",
-      "lead": "A 10-11-es kilométer között árokba hajtott egy hűtőkamion.",
-      "body": "Letért az útról, egy öt méter mély árokba hajtott és ott felborult egy sertéshúst szállító hűtőkamion a 61-es főút 10-11-es kilométere között. Az Alsószentiván és Előszállás között történt balesethez a dunaújvárosi hivatásos tűzoltók két egysége, valamint a Fejér vármegyei katasztrófavédelmi műveleti szolgálat vonult. A tűzoltók a hűtő aggregátorát már áramtalanították, a jármű áramtalanítása még várat magára. A jármű sofőrje beszorult a roncsba, az egységek feszítővágó és munkahenger segítségével szabadították ki a vezetőfülkéből. A főút érintett szakaszán rendőri segítséggel, félpályán halad a forgalom.",
-      "location": "Előszállás, 61",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -174,9 +185,9 @@
       "title": "Körbálák égnek Makó határában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91539",
-      "lead": "Az Ószegedi útra makói, hódmezővásárhelyi és szegedi tűzoltókat riasztottak.",
-      "body": "Körülbelül két hektáron meggyulladt a száraz fű Makó szélén, az Ószegedi útnál. A tűz veszélyt jelentett a közeli házakra, de a makói, hódmezővásárhelyi és szegedi hivatásos tűzoltók meg tudták akadályozni, hogy a lángok azokra is átterjedjenek. A tűz azonban elért egy nagyjából ötszáz körbálából álló kazlat is. A rakatot egy erőgép megbontja, a bálákat felügyelet mellett leégetik.",
-      "location": "Makó, Ószegedi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -227,9 +238,9 @@
       "title": "Villám csapott egy érdi házba",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91535",
-      "lead": "A város tűzoltóit a Tárnoki útra riasztották.",
-      "body": "Villámcsapás érte és ettől kigyulladt egy kétszintes érdi, Tárnok úti családi ház. A százötven négyzetméteres épület emeleti szobájában keletkezett tűz. A város hivatásos tűzoltói két gépjárműfecskendővel, illetve a magasból mentővel vonultak a helyszínre. A rajok áramtalanították az épületet, a létraszerről kívülről megbontották a tetőt, amelyet visszahűtöttek. Emellett a tűzoltók megbontották a tetőtéri lambériát is, az ott talált lángokat porral oltóval fékezték meg.",
-      "location": "Érd, Tárnoki út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -408,9 +419,9 @@
       "title": "Több jármű karambolozott a 64-es főúton, Enyingnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91521",
-      "lead": "A 37-es kilométernél két személykocsi és két teherautó ütközött össze.",
-      "body": "Baleset történt a 64-es főút 37-es kilométerénél, Enying közelében, ahol két személyautó és két tehergépkocsi hajtott egymásba. A járművekben összesen öten utaztak, a helyszínre mentő érkezett. A siófoki hivatásos tűzoltók áramtalanítottak, az egyik autó kivételével, mert az a két teherkocsi közé szorult, nem lehetett hozzáférni. A főút érintett szakaszán forgalmi akadályra kell számítani.",
-      "location": "Enying, 64",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -419,9 +430,9 @@
       "title": "Karambol Bábolnán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91520",
-      "lead": "Lezárták a Mészáros utca egy szakaszát.",
-      "body": "Frontálisan karambolozott egy személygépkocsi és egy kisteherautó Bábolnán, a Mészáros utcában, azaz a 8136-os úton. Az ácsi és a nagyigmándi önkormányzati tűzoltók áramtalanítják a járműveket, amelyek az árokba sodródtak az ütközés következtében A helyszínen vannak a mentők és az ácsi önkéntes tűzoltók is. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Bábolna, Mészáros utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -430,9 +441,9 @@
       "title": "Tűz volt egy óbudai családi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91519",
-      "lead": "A Flóra utcába riasztották a tűzoltókat.",
-      "body": "Tűz keletkezett egy családi házban, Budapest III. kerületében, a Flóra utcában. Elektromos berendezési tárgyak égtek mintegy két négyzetméteren az ingatlan emeleti szintjének egyik helyiségében. A fővárosi hivatásos tűzoltók kiérkezésekor lángolás már nem volt. A rajok megakadályozták a tűz továbbterjedését, megszüntették az izzásokat, és visszabontják, hűtik az égett részeket. Az épületet öt ember hagyta el a tűz miatt.",
-      "location": "Budapest, Flóra utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -455,16 +466,7 @@
       "lead": "A város hivatásos tűzoltói nagy erőkkel vonultak a helyszínre.",
       "body": "Több épület is kigyulladt Szegeden, a rendező pályaudvar közelében, a Téli-kikötő útnál. Egy könnyűszerkezetes épület teljes terjedelmében égett és több hétvégi ház is lángolt. A város hivatásos tűzoltói három gépjárműfecskendővel és a vízszállítóval vonultak az esethez. A rajok vízsugarakkal, kéziszerszámokkal oltják a lángokat.",
       "location": "Szeged, Ballagi-Tó sor",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak a szegedi rendező pályaudvarnál",
-          "datetime": "2026.08.31. 16:05",
-          "category": "Tűzeset",
-          "text": "Száraz fű, avar, sok hulladék égett a Téli-kikötő út közelében, a tűzben megsemmisült egy húsz négyzetméteres faépület és egy tizenöt négyzetméteres lemezgarázs, a benne tárolt holmikkal együtt. A lángok három kiskertet is érintettek. A szegedi hiatásos tűzoltók gázpalackokat is találtak a helyszínen, az egyik fel is hasadt. Az egységek a lángokat eloltották, az utómunkálatokat végzik.",
-          "location": "Szeged, Ballagi-Tó sor",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91517/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91517"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91516",
