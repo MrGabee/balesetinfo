@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T10:28:32.707232+00:00",
-  "count": 2898,
+  "updated_at": "2026-09-01T10:33:01.333414+00:00",
+  "count": 2899,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91556",
+      "datetime": "2026.09.01. 12:29",
+      "title": "Tűz van Gyál határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91556",
+      "lead": "Lakóházakat is veszélyeztetnek a lángok.",
+      "body": "Kigyulladt a száraz aljnövényzet Gyál határában, a Puskás utca közelében. A tűz lakóházakat veszélyeztet, és érint egy erdőt is. A fővárosi hivatásos és a gyáli önkéntes tűzoltók oltják a lángokat. A helyszínre indult több más egység is.",
+      "location": "Gyál, Puskás utca",
+      "updates": []
+    },
     {
       "id": "91555",
       "datetime": "2026.09.01. 11:57",
@@ -185,9 +196,9 @@
       "title": "Körbálák égnek Makó határában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91539",
-      "lead": "Az Ószegedi útra makói, hódmezővásárhelyi és szegedi tűzoltókat riasztottak.",
-      "body": "Körülbelül két hektáron meggyulladt a száraz fű Makó szélén, az Ószegedi útnál. A tűz veszélyt jelentett a közeli házakra, de a makói, hódmezővásárhelyi és szegedi hivatásos tűzoltók meg tudták akadályozni, hogy a lángok azokra is átterjedjenek. A tűz azonban elért egy nagyjából ötszáz körbálából álló kazlat is. A rakatot egy erőgép megbontja, a bálákat felügyelet mellett leégetik.",
-      "location": "Makó, Ószegedi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
