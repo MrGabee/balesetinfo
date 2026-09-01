@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T00:36:15.600686+00:00",
-  "count": 2880,
+  "updated_at": "2026-09-01T00:39:10.700741+00:00",
+  "count": 2881,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91538",
+      "datetime": "2026.09.01. 02:37",
+      "title": "Leégett egy garázs Budapest tizennyolcadik kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91538",
+      "lead": "A Nagykőrösi úton, a Gyöngyperje utca közelében dolgoztak a fővárosi tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából tíz négyzetméteres garázs Budapest tizennyolcadik kerületében, a Nagykőrösi úton. A családi ház udvarán álló, különálló épület tüzéhez a fővárosi hivatásos tűzoltókat riasztották. A rajok két vízsugárral körülhatárolták, eloltották a lángokat. Az építmény megsemmisült.",
+      "location": "Budapest, Nagykőrösi út",
+      "updates": []
+    },
     {
       "id": "91537",
       "datetime": "2026.09.01. 02:20",
