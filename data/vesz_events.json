@@ -1,83 +1,8 @@
 {
-  "updated_at": "2026-09-01T01:05:09.945058+00:00",
-  "count": 2882,
+  "updated_at": "2026-09-01T01:09:02.947972+00:00",
+  "count": 2876,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
-    {
-      "id": "91539",
-      "datetime": "2026.09.01. 03:04",
-      "title": "Körbálák égnek Makó határában",
-      "category": "Tűzeset",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91539",
-      "lead": "Az Ószegedi útra makói, hódmezővásárhelyi és szegedi tűzoltókat riasztottak.",
-      "body": "Körülbelül két hektáron meggyulladt a száraz fű Makó szélén, az Ószegedi útnál. A tűz veszélyt jelentett a közeli házakra, de a makói, hódmezővásárhelyi és szegedi hivatásos tűzoltók meg tudták akadályozni, hogy a lángok azokra is átterjedjenek. A tűz azonban elért egy nagyjából ötszáz körbálából álló kazlat is. A rakatot egy erőgép megbontja, a bálákat felügyelet mellett leégetik.",
-      "location": "Makó, Ószegedi út",
-      "updates": []
-    },
-    {
-      "id": "91538",
-      "datetime": "2026.09.01. 02:37",
-      "title": "Leégett egy garázs Budapest tizennyolcadik kerületében",
-      "category": "Tűzeset",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91538",
-      "lead": "A Nagykőrösi úton, a Gyöngyperje utca közelében dolgoztak a fővárosi tűzoltók.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából tíz négyzetméteres garázs Budapest tizennyolcadik kerületében, a Nagykőrösi úton. A családi ház udvarán álló, különálló épület tüzéhez a fővárosi hivatásos tűzoltókat riasztották. A rajok két vízsugárral körülhatárolták, eloltották a lángokat. Az építmény megsemmisült.",
-      "location": "Budapest, Nagykőrösi út",
-      "updates": []
-    },
-    {
-      "id": "91537",
-      "datetime": "2026.09.01. 02:20 -",
-      "title": "Melléképület gyulladt ki Tengelicen",
-      "category": "Melléképület gyulladt ki Tengelicen",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91537",
-      "lead": "Paksi és helyi tűzoltók vonultak a Petőfi Sándor utcába.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy faszerkezetű melléképület Tengelicen, a Petőfi Sándor utcában. Az épületben volt egy lakókocsi is, de azzal időben ki tudtak állni. Hordókban nagyobb mennyiségű gázolajat tárolnak, a hordókat a paksi hivatásos és a tengelici önkéntes tűzoltók a szabadba vitték, folyamatosan hűtötték. Az egységek több vízsugárral megfékezték a lángokat.",
-      "location": "Tengelic, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "A tüzet eloltották, az utómunkálatok zajlanak Tengelicen",
-          "datetime": "2026.09.01. 02:51",
-          "category": "Tűzeset",
-          "text": "A Petőfi Sándor utcában egy faszerkezetű melléképület gyulladt ki, a paksi hivatásos és a helyi önkéntes tűzoltók avatkoztak be. Az építményben hordókban jelentősebb mennyiségű gázolaj is volt, a hordókat a szabadba vitték és hűtötték. Emellett a tűzoltók három oxigénpalackot is találtak odabenn, azokat is kivitték az épületből, hőkamerával átvizsgálták és hűtötték. A rajok eloltották a tüzet, már az utómunkálatokat végzik.",
-          "location": "Tengelic, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91537/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91537"
-        }
-      ]
-    },
-    {
-      "id": "91536",
-      "datetime": "2026.09.01. 00:39",
-      "title": "Villanyoszlopnak rohant egy autó Hajdúböszörményben",
-      "category": "Közlekedési baleset",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91536",
-      "lead": "A Baltazár Dezső és az Árpád utca kereszteződésénél történt a baleset.",
-      "body": "Villanyoszlopnak hajtott és tőből kidöntötte azt egy személykocsi Hajdúböszörményben, a Baltazár Dezső és az Árpád utca kereszteződésénél. Az oszlop egy épületnek dőlt. A járműben ketten ültek, még a helyi hivatásos tűzoltók megérkezése előtt kiszálltak a kocsiból, mentő érkezett hozzájuk. A tűzoltók áramtalanították az autót.",
-      "location": "Hajdúböszörmény, Baltazár Dezső utca",
-      "updates": []
-    },
-    {
-      "id": "91535",
-      "datetime": "2026.09.01. 00:34",
-      "title": "Villám csapott egy érdi házba",
-      "category": "Tűzeset",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91535",
-      "lead": "A város tűzoltóit a Tárnoki útra riasztották.",
-      "body": "Villámcsapás érte és ettől kigyulladt egy kétszintes érdi, Tárnok úti családi ház. A százötven négyzetméteres épület emeleti szobájában keletkezett tűz. A város hivatásos tűzoltói két gépjárműfecskendővel, illetve a magasból mentővel vonultak a helyszínre. A rajok áramtalanították az épületet, a létraszerről kívülről megbontották a tetőt, amelyet visszahűtöttek. Emellett a tűzoltók megbontották a tetőtéri lambériát is, az ott talált lángokat porral oltóval fékezték meg.",
-      "location": "Érd, Tárnoki út",
-      "updates": []
-    },
-    {
-      "id": "91534",
-      "datetime": "2026.09.01. 00:09",
-      "title": "Baleset történt az M0-ás autóúton, Diósdnál",
-      "category": "Közlekedési baleset",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91534",
-      "lead": "Az M3-as felé vezető oldal 10-es kilométerénél megpördült egy autó.",
-      "body": "Megpördült egy autó és az út közepén állt meg az M0-áson, Diósd térségében, a 10-es kilométernél. Az M3-as felé vezető oldalon történt balesetnél a jármű a belső sávban állt meg. Az esethez a fővárosi hivatásos tűzoltók vonultak, a raj megvárja, míg a közútkezelő a helyszínre nem ér.",
-      "location": "Budapest, M0",
-      "updates": []
-    },
     {
       "id": "91533",
       "datetime": "2026.08.31. 23:44",
