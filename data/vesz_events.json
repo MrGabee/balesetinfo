@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T14:21:28.633757+00:00",
-  "count": 2906,
+  "updated_at": "2026-09-01T14:25:31.476150+00:00",
+  "count": 2907,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91564",
+      "datetime": "2026.09.01. 16:21",
+      "title": "Melléképület égett Nyírteleken",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91564",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Teljes terjedelmében égett egy hatvan négyzetméteres fa szerkezetű melléképület Nyírteleken, a Felsősóskút tanyánál. A tűz a főépület tetőszerkezetébe is belekapott. A nyíregyházi hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nyírtelek, Felsősóskút tanya",
+      "updates": []
+    },
     {
       "id": "91563",
       "datetime": "2026.09.01. 16:12",
