@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T12:14:50.130200+00:00",
-  "count": 2902,
+  "updated_at": "2026-09-01T12:18:30.843564+00:00",
+  "count": 2903,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91560",
+      "datetime": "2026.09.01. 14:15",
+      "title": "Árokba sodródott egy autó Biharnagybajomban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91560",
+      "lead": "A Kossuth úton történt a baleset, amely miatt félpályán halad a forgalom.",
+      "body": "Áttört egy korlátot és árokba hajtott egy utánfutót vontató személyautó Biharnagybajomban, a Kossuth úton, a Baross Gábor utcánál. A püspökladányi hivatásos és a biharnagybajomi önkéntes tűzoltók vonultak a baleset helyszínére. A rajok áramtalanítják a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Biharnagybajom, Kossuth út",
+      "updates": []
+    },
     {
       "id": "91559",
       "datetime": "2026.09.01. 13:31",
