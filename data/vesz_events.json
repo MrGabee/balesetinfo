@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:07:11.122560+00:00",
+  "updated_at": "2026-09-01T18:10:36.423853+00:00",
   "count": 2914,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -113,14 +113,23 @@
     },
     {
       "id": "91562",
-      "datetime": "2026.09.01. 15:29",
+      "datetime": "2026.09.01. 15:29 -",
       "title": "Tűz keletkezett Kunadacs közelében",
-      "category": "Tűzeset",
+      "category": "Tűz keletkezett Kunadacs közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91562",
       "lead": "Nagyobb területen ég a növényzet.",
       "body": "Tűz keletkezett nagyobb területen az 5211-es út mellett, Kunadacs közelében. A tűz bokros, cserjés növényzetet érint. A solti, a dabasi és a dunaújvárosi hivatásos tűzoltók, illetve egy ceglédi vízszállító érkezett a helyszínre. A rajok öt vízsugárral oltják a lángokat.",
       "location": "Kunadacs, Alsóadacs tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem ég a növényzet Kunadacs közelében",
+          "datetime": "2026.09.01. 20:08",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett nagyobb területen az 5211-es út mellett, Kunadacs közelében. A tűz bokros, cserjés növényzetet érintett. A solti, a dabasi, a paksi és a dunaújvárosi hivatásos tűzoltók, illetve egy ceglédi, egy kiskőrösi és egy kiskunhalasi vízszállító érkezett a helyszínre. A rajok hét vízsugárral oltották el a lángokat. Az egységek az utómunkálatokat végzik.",
+          "location": "Kunadacs, Alsóadacs tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91562/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91562"
+        }
+      ]
     },
     {
       "id": "91561",
