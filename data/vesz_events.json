@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T06:12:19.063446+00:00",
-  "count": 2890,
+  "updated_at": "2026-09-01T06:15:24.589198+00:00",
+  "count": 2891,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91548",
+      "datetime": "2026.09.01. 08:13",
+      "title": "Karambol Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91548",
+      "lead": "A Maglódi út és a Gitár utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest X. kerületében, a Maglódi út és a Gitár utca kereszteződésében. Az autókban összesen hárman utaztak. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Maglódi út",
+      "updates": []
+    },
     {
       "id": "91547",
       "datetime": "2026.09.01. 08:02",
