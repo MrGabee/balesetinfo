@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T14:09:47.624834+00:00",
-  "count": 2905,
+  "updated_at": "2026-09-01T14:13:36.008831+00:00",
+  "count": 2906,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91563",
+      "datetime": "2026.09.01. 16:12",
+      "title": "Tűz van Emőd és Nyékládháza között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91563",
+      "lead": "Kukorica és repce ég nagyobb területen.",
+      "body": "Kigyulladt mintegy tíz hektárnyi kukorica és repce tarló Emőd és Nyékládháza között. A miskolci hivatásos tűzoltók érkeztek a helyszínre. A rajok egy vízsugárral oltják a lángokat.",
+      "location": "Nyékládháza, Napraforgó utca",
+      "updates": []
+    },
     {
       "id": "91562",
       "datetime": "2026.09.01. 15:29",
@@ -203,9 +214,9 @@
       "title": "Baleset Balatonfenyvesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91546",
-      "lead": "A Vörösmarty utcában forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi a 7-es főút belterületi szakaszán, azaz a Vörösmarty utcában, Balatonfenyvesen. A balatonboglári önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Balatonfenyves, Vörösmarty utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -258,9 +269,9 @@
       "title": "Súlyos baleset történt a 61-es főúton Előszállás és Alsószentiván között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91541",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 10-11-es kilométer között árokba hajtott egy hűtőkamion.",
+      "body": "Letért az útról, egy öt méter mély árokba hajtott és ott felborult egy sertéshúst szállító hűtőkamion a 61-es főút 10-11-es kilométere között. Az Alsószentiván és Előszállás között történt balesethez a dunaújvárosi hivatásos tűzoltók két egysége, valamint a Fejér vármegyei katasztrófavédelmi műveleti szolgálat vonult. A tűzoltók a hűtő aggregátorát már áramtalanították, a jármű áramtalanítása még várat magára. A jármű sofőrje beszorult a roncsba, az egységek feszítővágó és munkahenger segítségével szabadították ki a vezetőfülkéből. A főút érintett szakaszán rendőri segítséggel, félpályán halad a forgalom.",
+      "location": "Előszállás, 61",
       "updates": []
     },
     {
