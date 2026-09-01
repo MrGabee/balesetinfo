@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T16:46:19.226604+00:00",
-  "count": 2911,
+  "updated_at": "2026-09-01T16:49:40.168963+00:00",
+  "count": 2912,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91569",
+      "datetime": "2026.09.01. 18:48",
+      "title": "Erdő égett Izsáknál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91569",
+      "lead": "A tűzoltók hét vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy tíz hektáros fenyőerdő aljnövényzete Izsák és Soltszentimre határában. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, a kiskunfélegyházi és a kiskőrösi hivatásos, a kunszentmiklósi, a soltvadkerti és a keceli önkormányzati, illetve a szabadszállási önkéntes tűzoltók  érkeztek a helyszínre. Egy csongrádi és egy kunszentmártoni vízszállító közreműködésével hét vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Izsák, Vadasdűlő tanya",
+      "updates": []
+    },
     {
       "id": "91568",
       "datetime": "2026.09.01. 18:07",
