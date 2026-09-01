@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T06:00:49.691516+00:00",
-  "count": 2889,
+  "updated_at": "2026-09-01T06:04:34.257154+00:00",
+  "count": 2890,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91547",
+      "datetime": "2026.09.01. 08:02",
+      "title": "Két baleset is történt az M0-áson, Nagytéténynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91547",
+      "lead": "Az M3-as felé vezető oldalra, a 13-as kilométerhez vonultak a fővárosi tűzoltók.",
+      "body": "Két karambol is történt az M0-ás autóúton, Nagytéténynél, a 6-os főúti csomópont közelében. Az egyiknél egy kamion és egy autó hajtott egymásba, a másiknál két személykocsi ütközött össze. Utóbbi esetben a belső sávban álló autó mozgásképtelenné vált. A fővárosi hivatásos tűzoltók áramtalanítottak. A balesetek miatt az M0-ás autóút Nyíregyháza felé vezető oldalán több kilométeres torlódás alakult ki.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "91546",
       "datetime": "2026.09.01. 07:55",
