@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T07:59:17.566580+00:00",
-  "count": 2893,
+  "updated_at": "2026-09-01T08:02:59.737531+00:00",
+  "count": 2894,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91551",
+      "datetime": "2026.09.01. 10:00",
+      "title": "Karambol Bérbaltaváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91551",
+      "lead": "A Kossuth Lajos utca és a Rákóczi Ferenc utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személyautó Bérbaltaváron a Kossuth Lajos utca és a Rákóczi Ferenc utca találkozásánál. A vasvári önkormányzati tűzoltók áramtalanították a járműveket, amelyek egyikéből hűtőfolyadék és olaj került az útburkolatra. A helyszínre érkeztek a mentők is.",
+      "location": "Bérbaltavár, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91550",
       "datetime": "2026.09.01. 08:56",
