@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T13:15:52.643594+00:00",
-  "count": 2903,
+  "updated_at": "2026-09-01T13:19:27.690416+00:00",
+  "count": 2904,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91561",
+      "datetime": "2026.09.01. 15:16",
+      "title": "Tarló ég Csenyéténél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91561",
+      "lead": "Egy erdőbe is belekaptak a lángok",
+      "body": "Kigyulladt a tarló Csenyéte közelében, a település és a 26146-os út között. Nagy területet érintenek, és egy erdőbe is belekaptak a lángok, amelyeket az encsi hivatásos tűzoltók oltanak. A tűzesethez több más egységet is riasztottak.",
+      "location": "Csenyéte, Csenyéte közelében",
+      "updates": []
+    },
     {
       "id": "91560",
       "datetime": "2026.09.01. 14:15",
