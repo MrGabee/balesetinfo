@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T05:30:02.865938+00:00",
-  "count": 2885,
+  "updated_at": "2026-09-01T05:33:39.838765+00:00",
+  "count": 2886,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91543",
+      "datetime": "2026.09.01. 07:30",
+      "title": "Karambol Debrecen és Létavértes között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91543",
+      "lead": "A 4814-es út 11-12-es kilométere között két személykocsi hajtott egymásba.",
+      "body": "Baleset történt a 4814-es úton, Debrecen és Létavértes között, a 11-12-es kilométer között. Debrecen-Bánk térségében két autó karambolozott. A debreceni hivatásos tűzoltók áramtalanítottak, átvizsgálták a járműveket, irányítják a félpályán haladó forgalmat. A két kocsiban összesen hárman utaztak, a helyszínre mentő is érkezett.",
+      "location": "Debrecen, 4814",
+      "updates": []
+    },
     {
       "id": "91542",
       "datetime": "2026.09.01. 07:24",
