@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:57:20.076340+00:00",
+  "updated_at": "2026-09-01T13:01:10.513187+00:00",
   "count": 2903,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -58,14 +58,23 @@
     },
     {
       "id": "91556",
-      "datetime": "2026.09.01. 12:29",
+      "datetime": "2026.09.01. 12:29 -",
       "title": "Tűz van Gyál határában",
-      "category": "Tűzeset",
+      "category": "Tűz van Gyál határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91556",
       "lead": "Lakóházakat is veszélyeztetnek a lángok.",
       "body": "Kigyulladt a száraz aljnövényzet Gyál határában, a Puskás utca közelében. A tűz lakóházakat veszélyeztet, és érint egy erdőt is. A fővárosi hivatásos és a gyáli önkéntes tűzoltók oltják a lángokat. A helyszínre indult több más egység is.",
       "location": "Gyál, Puskás utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol az aljnövényzet Gyálnál",
+          "datetime": "2026.09.01. 14:59",
+          "category": "Tűzeset",
+          "text": "Nem terjed tovább és már nem lángol a tűz Gyál határában, a Puskás utca közelében, ahol kigyulladt a száraz aljnövényzet. Mintegy húsz-huszonöt hektárra terjedtek ki a lángok, és érintettek egy erdősávot is, ahol helyenként égett a fák koronája. A fővárosi hivatásos, a gyáli, a nagytarcsai, a rózsadombi és a zuglói önkéntes tűzoltók, valamint a FOKA Folyami Katasztrófavédelmi Önkéntes Tűzoltó Egyesület és a Lőrinc Kertváros Önkéntes Tűzoltó Egyesület tagjai fékezték meg a tüzet. Egy lakatlan parasztházat és egy lakókocsi környezetét is érintették a lángok, utóbbiból egy embert kimentettek a gyáli önkéntes tűzoltók. A rajok az erdősávban még oltják a tüzet, megszüntetik a beizzásokat, és utómunkálatokat végeznek.",
+          "location": "Gyál, Puskás utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91556/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91556"
+        }
+      ]
     },
     {
       "id": "91555",
