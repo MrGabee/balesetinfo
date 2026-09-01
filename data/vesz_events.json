@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T08:14:33.681616+00:00",
-  "count": 2894,
+  "updated_at": "2026-09-01T08:18:22.716897+00:00",
+  "count": 2895,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91552",
+      "datetime": "2026.09.01. 10:16",
+      "title": "Árokba hajtott egy autó a 4915-ös úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91552",
+      "lead": "Nyírvasvári és Nyírbátor között forgalmi akadály van.",
+      "body": "Árokba hajtott egy személygépkocsi a 4915-ös úton, Nyírvasvári és Nyírbátor között, a 3-as kilométerszelvénynél. Az autó egy távközlési oszlopot is kitört. A nyírbátori hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Nyírvasvári, Bátori utca",
+      "updates": []
+    },
     {
       "id": "91551",
       "datetime": "2026.09.01. 10:00",
