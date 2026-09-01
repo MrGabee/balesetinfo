@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T05:46:05.318480+00:00",
-  "count": 2887,
+  "updated_at": "2026-09-01T05:50:16.790885+00:00",
+  "count": 2888,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91545",
+      "datetime": "2026.09.01. 07:47",
+      "title": "Felborult egy autó a 8617-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91545",
+      "lead": "A Csáfordjánosfa és Iván között történt balesethez a répcelaki tűzoltók vonultak.",
+      "body": "Felborult egy személykocsi a 8617-es út 3-as kilométerénél, Csáfordjánosfa és Iván között. A forgalmat akadályozó autóban csak a sofőr ült, ki tudott szállni járművéből, mentő érkezett hozzá. A répcelaki önkormányzati tűzoltók végzik a műszaki mentést.",
+      "location": "Csáfordjánosfa, 8617",
+      "updates": []
+    },
     {
       "id": "91544",
       "datetime": "2026.09.01. 07:41",
@@ -53,9 +64,9 @@
       "title": "Tűz volt Jákfán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91540",
-      "lead": "A Tölgy utcába riasztották a tűzoltókat.",
-      "body": "Tűz ütött ki Jákfán, a Tölgy utcában: egy huszonöt négyzetméteres terasz, valamint két, egyenként szintén huszonöt négyzetméteres melléképület égett. Sárvári hivatásos, valamint helyi és uraiújfalui önkéntes tűzoltókat riasztottak az esethez. Az egységek több vízsugárral megfékezték a lángokat.",
-      "location": "Jákfa, Tölgy utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -75,9 +86,9 @@
       "title": "Leégett egy garázs Budapest tizennyolcadik kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91538",
-      "lead": "A Nagykőrösi úton, a Gyöngyperje utca közelében dolgoztak a fővárosi tűzoltók.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából tíz négyzetméteres garázs Budapest tizennyolcadik kerületében, a Nagykőrösi úton. A családi ház udvarán álló, különálló épület tüzéhez a fővárosi hivatásos tűzoltókat riasztották. A rajok két vízsugárral körülhatárolták, eloltották a lángokat. Az építmény megsemmisült.",
-      "location": "Budapest, Nagykőrösi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -175,16 +186,7 @@
       "lead": "Több hektáron fenyőfa tarvágás, illetve fiatal akácos kapott lángra.",
       "body": "Nagy területen gyulladt meg a fenyőfa tarvágás, valamint a fiatal akácos Álmosd és Bagamér között. A tűz több irányba terjedt, veszélyt jelentett egy vadászházra is. Létavértesi önkormányzati, berettyóújfalui, hajdúszoboszlói, debreceni hivatásos, álmosdi, konyári és debreceni önkéntes tűzoltók oltják a lángokat, a munkát helyi lakosok is segítik, például azzal, hogy járható utat készítenek a szerek számára. Az oltóvízellátásban hat lajtoskocsi is részt vesz. Az egységek vízsugarakkal, kéziszerzámokkal, puttonyfecskendőkkel dolgoznak, a beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Álmosd, külterület",
-      "updates": [
-        {
-          "title": "Biztonsági okokból felfüggesztik az utómunkálatokat Bagamér és Álmosd között",
-          "datetime": "2026.08.31. 21:16",
-          "category": "Tűzeset",
-          "text": "A drónos felderítés alapján öt hektáron fenyőerdő vágástéri hulladéka égett a két település közötti külterületen. Hat település tűzoltói állampolgári segítséggel oltották a tüzet, majd miután izzást, lánggal égést már nem tapasztaltak, megkezdték az utómunkálatokat. Késő este azonban a rossz látási viszonyok és a tereptárgyak miatt balesetveszélyessé vált a munka, így reggelig felfüggesztették azokat. A területet az éjszaka folyamán a helyi önkéntes tűzoltók és a vadásztársaság szakemberei őrzik.",
-          "location": "Álmosd, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91530/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91530"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91529",
