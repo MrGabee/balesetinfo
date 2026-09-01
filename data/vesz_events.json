@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T16:04:58.238445+00:00",
-  "count": 2910,
+  "updated_at": "2026-09-01T16:08:37.354388+00:00",
+  "count": 2911,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91568",
+      "datetime": "2026.09.01. 18:07",
+      "title": "Karambol az 5412-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91568",
+      "lead": "Kunfehértó és Jánoshalma között félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi az 5412-es úton, Kunfehértó és Jánoshalma között, a 11-es kilométerszelvénynél. A kiskunhalasi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kunfehértó, III. körzet tanya",
+      "updates": []
+    },
     {
       "id": "91567",
       "datetime": "2026.09.01. 17:23",
