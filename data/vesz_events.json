@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-01T13:27:05.122540+00:00",
-  "count": 2904,
+  "updated_at": "2026-09-01T13:30:21.025813+00:00",
+  "count": 2905,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91562",
+      "datetime": "2026.09.01. 15:29",
+      "title": "Tűz keletkezett Kunadacs közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91562",
+      "lead": "Nagyobb területen ég a növényzet.",
+      "body": "Tűz keletkezett nagyobb területen az 5211-es út mellett, Kunadacs közelében. A tűz bokros, cserjés növényzetet érint. A solti, a dabasi és a dunaújvárosi hivatásos tűzoltók, illetve egy ceglédi vízszállító érkezett a helyszínre. A rajok öt vízsugárral oltják a lángokat.",
+      "location": "Kunadacs, Alsóadacs tanya",
+      "updates": []
+    },
     {
       "id": "91561",
       "datetime": "2026.09.01. 15:16",
