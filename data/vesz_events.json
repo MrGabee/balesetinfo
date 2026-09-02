@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T06:57:33.576938+00:00",
-  "count": 2923,
+  "updated_at": "2026-09-02T07:00:46.534455+00:00",
+  "count": 2924,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91581",
+      "datetime": "2026.09.02. 08:59",
+      "title": "Árokba hajtott egy autó a 3401-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91581",
+      "lead": "Kunmadaras és Berekfürdő között dolgoznak a tűzoltók.",
+      "body": "Az úttestről a vasúti töltésen keresztül árokba sodródott egy személyautó a 3401-es úton, Kunmadaras és Berekfürdő között, a 14. kilométer közelében. A járműben egy ember utazott, hozzá mentők érkeztek a helyszínre. A műszaki mentést végző karcagi hivatásos tűzoltók átvizsgálták a gépkocsit, amelyből kirepült az akkumulátor a baleset következtében.",
+      "location": "Kunmadaras, 3401",
+      "updates": []
+    },
     {
       "id": "91580",
       "datetime": "2026.09.02. 08:26",
