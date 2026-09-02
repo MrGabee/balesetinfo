@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T17:03:29.530087+00:00",
+  "updated_at": "2026-09-02T17:07:44.358563+00:00",
   "count": 2945,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A Ráday Gedeon utcában gyulladt ki egy lakás.",
       "body": "Tűz van egy háromszintes társasház egyik lakásában, Budapest XVIII. kerületében, a Ráday Gedeon utcában. A földszinti ingatlan teljes terjedelmében ég. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület önkéntes tűzoltói megkezdték az épület kiürítését, valamint több vízsugárral oltják a lángokat.",
       "location": "Budapest, Ráday Gedeon utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest XVIII. kerületében",
+          "datetime": "2026.09.02. 19:03",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Budapest XVIII. kerületében, ahol egy társasház földszinti lakása égett a Ráday Gedeon utcában. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület egy embert kihozott az épületből, majd átadták a mentőknek. A rajok átvizsgálják a társasházat. Az érintett útszakaszt a beavatkozás idejére lezárták.",
+          "location": "Budapest, Ráday Gedeon utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91601/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91601"
+        }
+      ]
     },
     {
       "id": "91600",
