@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T05:49:33.694852+00:00",
-  "count": 2920,
+  "updated_at": "2026-09-02T05:53:03.752490+00:00",
+  "count": 2921,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91578",
+      "datetime": "2026.09.02. 07:51",
+      "title": "Teherautó és személygépkocsi ütközött  a 24-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91578",
+      "lead": "Recsk és Sirok között történt a baleset.",
+      "body": "Teherautó és személygépkocsi ütközött össze a 24-es főút Recsk és Sirok közötti szakaszán, a 38-as kilométerszelvénynél. A balesethez a pétervásárai hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Sirok, 24",
+      "updates": []
+    },
     {
       "id": "91577",
       "datetime": "2026.09.02. 06:12 -",
