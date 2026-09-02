@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T15:56:34.221039+00:00",
-  "count": 2942,
+  "updated_at": "2026-09-02T15:59:47.275279+00:00",
+  "count": 2943,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91600",
+      "datetime": "2026.09.02. 17:56",
+      "title": "Kigyulladt egy személyautó Szombathelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91600",
+      "lead": "A Somlay Artúr utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy személyautó Szombathelyen, a Somlay Artúr utcában. A gépkocsi teljes terjedelmében égett. A lángokat a helyi hivatásos tűzoltók oltották el.",
+      "location": "Szombathely, Somlay Artúr utca",
+      "updates": []
+    },
     {
       "id": "91599",
       "datetime": "2026.09.02. 17:53",
