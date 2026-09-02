@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T18:25:48.686208+00:00",
-  "count": 2945,
+  "updated_at": "2026-09-02T18:29:19.918422+00:00",
+  "count": 2946,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91603",
+      "datetime": "2026.09.02. 20:26",
+      "title": "Erdő aljnövényzete ég Vejti külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91603",
+      "lead": "Elhúzódó munkálatokra kell számítani.",
+      "body": "Erdő aljnövényzete ég Vejti külterületén. A tűz körülbelül két hektárnyi területet, valamint több kihelyezett méhkaptárat is érintett. A siklósi, pécsi és sellyei hivatásos, valamint a Palkonya-Újpetre Német Nemzetiségi Önkéntes Erdőtűzoltó Egyesület és a villányi önkéntes tűzoltók oltják a lángokat. Elhúzódó munkálatokra kell számítani.",
+      "location": "Vejti, külterület",
+      "updates": []
+    },
     {
       "id": "91602",
       "datetime": "2026.09.02. 18:46",
