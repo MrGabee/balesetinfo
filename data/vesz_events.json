@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T13:38:14.242038+00:00",
-  "count": 2935,
+  "updated_at": "2026-09-02T13:41:21.604986+00:00",
+  "count": 2936,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91593",
+      "datetime": "2026.09.02. 15:40",
+      "title": "Karambol a 441-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91593",
+      "lead": "Nagykőrös és Katonatelep között forgalmi akadályra kell számítani.",
+      "body": "Karambolozott két személyautó a 441-es főúton, Nagykőrös és Katonatelep között. A járművekben összesen hárman utaztak. A nagykőrösi hivatásos tűzoltókat riasztották a balesethez, amelyhez a mentők is kivonultak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nagykőrös, 441",
+      "updates": []
+    },
     {
       "id": "91592",
       "datetime": "2026.09.02. 15:37",
