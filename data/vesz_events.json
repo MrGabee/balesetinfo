@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T18:29:19.918422+00:00",
-  "count": 2946,
+  "updated_at": "2026-09-02T18:32:15.917748+00:00",
+  "count": 2947,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91604",
+      "datetime": "2026.09.02. 20:30",
+      "title": "Összeütközött két autó Budapest XI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91604",
+      "lead": "A Budaörsi út és az Egér út találkozásánál forgalomkorlátozásra kell számítani.",
+      "body": "Két személyautó karambolozott Budapest XI .kerületében, a Budaörsi út és az Egér út találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, Budaörsi út",
+      "updates": []
+    },
     {
       "id": "91603",
       "datetime": "2026.09.02. 20:26",
