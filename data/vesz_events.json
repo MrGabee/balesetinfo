@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T07:34:08.245371+00:00",
-  "count": 2924,
+  "updated_at": "2026-09-02T07:38:08.881779+00:00",
+  "count": 2925,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91582",
+      "datetime": "2026.09.02. 09:36",
+      "title": "Karambol Szemelynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91582",
+      "lead": "Az 5711-es úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött egy furgon és egy személyautó Szemely közelében, az 5711-es út Kozármisleny felé vezető szakaszán, az 5. kilométernél. Ráfutásos baleset történt, amelynél a pécsi hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik gépkocsit, és felitatja az úttestre kifolyt hűtővizet. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Szemely, 5711",
+      "updates": []
+    },
     {
       "id": "91581",
       "datetime": "2026.09.02. 08:59",
