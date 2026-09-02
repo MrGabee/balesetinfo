@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T15:20:28.698006+00:00",
-  "count": 2939,
+  "updated_at": "2026-09-02T15:23:56.891546+00:00",
+  "count": 2940,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91597",
+      "datetime": "2026.09.02. 17:22",
+      "title": "Ráfutásos baleset Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91597",
+      "lead": "A Soroksári út és a Vágóhíd utca kereszteződésében forgalmi akadályra kell számítani.",
+      "body": "Három személyautó karambolozott Budapest IX. kerületében, a Soroksári út és a Vágóhíd utca kereszteződésében. A ráfutásos balesethez a fővárosi hivatásos tűzoltókat riasztották. A raj megszünteti a forgalmi akadályt.",
+      "location": "Budapest, Soroksári út",
+      "updates": []
+    },
     {
       "id": "91596",
       "datetime": "2026.09.02. 16:59",
