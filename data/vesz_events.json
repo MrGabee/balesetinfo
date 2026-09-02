@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T12:22:06.652824+00:00",
-  "count": 2932,
+  "updated_at": "2026-09-02T12:25:37.638686+00:00",
+  "count": 2933,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91590",
+      "datetime": "2026.09.02. 14:24",
+      "title": "Műhelytűz Rákoscsabán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91590",
+      "lead": "A tűzoltók már az utómunkálatokat végzik a Szabadság sugárúton.",
+      "body": "Kigyulladt egy műhely Budapest XVII. kerületében, a Szabadság sugárúton. Az ott dolgozók még a fővárosi hivatásos tűzoltók kiérkezése előtt részben megfékezték a lángokat. A rajok végleg eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Budapest, Szabadság sugárút",
+      "updates": []
+    },
     {
       "id": "91589",
       "datetime": "2026.09.02. 13:39",
