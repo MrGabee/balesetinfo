@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T15:52:54.835194+00:00",
-  "count": 2941,
+  "updated_at": "2026-09-02T15:56:34.221039+00:00",
+  "count": 2942,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91599",
+      "datetime": "2026.09.02. 17:53",
+      "title": "Egymásnak ütközött két autó Szentendrén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91599",
+      "lead": "A 11-es főút belterületi szakaszán történt a baleset.",
+      "body": "Két személyautó ütközött össze Szentendrén, a Dózsa György út és a Telep utca kereszteződésében. A helyi hivatásos és önkéntes tűzoltók mindkét gépkocsit áramtalanították. Az érintett útszakasz Budapest felé vezető oldalán félpályán halad a forgalom.",
+      "location": "Szentendre, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "91598",
       "datetime": "2026.09.02. 17:37",
