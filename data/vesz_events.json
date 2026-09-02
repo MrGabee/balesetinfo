@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T21:31:23.997708+00:00",
-  "count": 2948,
+  "updated_at": "2026-09-02T21:35:25.155909+00:00",
+  "count": 2949,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91606",
+      "datetime": "2026.09.02. 23:33",
+      "title": "Kigyulladt egy lakatlan ház Alsóbereckiben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91606",
+      "lead": "A Tóhát utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakatlan ház Alsóbereckiben, a Tóhát utcában. Az ingatlan teljes terjedelmében égett, valamint a tetőszerkezete beszakadt. A sátoraljaújhelyi hivatásos tűzoltók két vízsugárral eloltották a lángokat.",
+      "location": "Alsóberecki, Tóhát utca",
+      "updates": []
+    },
     {
       "id": "91605",
       "datetime": "2026.09.02. 22:08",
