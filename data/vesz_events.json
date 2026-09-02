@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T14:46:49.788089+00:00",
+  "updated_at": "2026-09-02T14:50:38.689514+00:00",
   "count": 2938,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -228,7 +228,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.02. 06:13",
+          "category": "Meteorológiai riasztás",
+          "text": "Nincsenek veszélyes időjárási jelenségek hazánkban.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91577/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91577"
+        }
+      ]
     },
     {
       "id": "91576",
