@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T11:04:57.862910+00:00",
-  "count": 2929,
+  "updated_at": "2026-09-02T11:08:43.657567+00:00",
+  "count": 2930,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91587",
+      "datetime": "2026.09.02. 13:07",
+      "title": "Ég egy ház Sárkeszin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91587",
+      "lead": "A tűzoltók a Kossuth Lajos utcában oltják a lángokat.",
+      "body": "Kigyulladt egy családi ház Sárkeszin, a Kossuth Lajos utcában. Teljes terjedelmében ég a tetőszerkezet. A székesfehérvári hivatásos tűzoltók és a Sárvíz Önkéntes Tűzoltó Egyesület tagjai oltják a lángokat.  A helyszínen van a Fejér Medic egyesület is.",
+      "location": "Sárkeszi, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91586",
       "datetime": "2026.09.02. 11:51",
