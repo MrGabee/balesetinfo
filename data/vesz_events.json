@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T13:59:01.488489+00:00",
-  "count": 2937,
+  "updated_at": "2026-09-02T14:02:38.010211+00:00",
+  "count": 2938,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91595",
+      "datetime": "2026.09.02. 16:01",
+      "title": "Álló autónak hajtott egy másik Jászárokszálláson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91595",
+      "lead": "A tűzoltók Bajcsy-Zsilinszky úton áramtalanítják a járműveket.",
+      "body": "Az út szélén álló autónak ütközött egy másik személygépkocsi Jászárokszálláson, a Bajcsy-Zsilinszky úton. A helyi önkormányzati tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászárokszállás, Bajcsy-Zsilinszky utca",
+      "updates": []
+    },
     {
       "id": "91594",
       "datetime": "2026.09.02. 15:50",
