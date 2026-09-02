@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T14:58:53.640250+00:00",
-  "count": 2938,
+  "updated_at": "2026-09-02T15:02:02.526901+00:00",
+  "count": 2939,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91596",
+      "datetime": "2026.09.02. 16:59",
+      "title": "Teherautó és személygépkocsi ütközött Gyál közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91596",
+      "lead": "A Kőrösi út és az M0-ás autóút lehajtója találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Teherautó és személygépkocsi ütközött össze Gyál közelében, a Kőrösi út és az M0-ás autóút lehajtója találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Gyál, Kőrösi út",
+      "updates": []
+    },
     {
       "id": "91595",
       "datetime": "2026.09.02. 16:01",
