@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T15:34:45.614667+00:00",
-  "count": 2940,
+  "updated_at": "2026-09-02T15:37:47.282402+00:00",
+  "count": 2941,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91598",
+      "datetime": "2026.09.02. 17:37",
+      "title": "Nádas ég Cibakháza külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91598",
+      "lead": "A tűz körülbelül egy hektárt érint.",
+      "body": "Nádas ég Cibakháza külterületén. A tűz körülbelül egy hektárt érint. A szolnoki és kunszentmártoni hivatásos, valamint a tiszaföldvári önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
+      "location": "Cibakháza, külterület",
+      "updates": []
+    },
     {
       "id": "91597",
       "datetime": "2026.09.02. 17:22",
