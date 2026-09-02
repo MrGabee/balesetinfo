@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T06:26:02.502649+00:00",
-  "count": 2922,
+  "updated_at": "2026-09-02T06:29:49.807030+00:00",
+  "count": 2923,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91580",
+      "datetime": "2026.09.02. 08:26",
+      "title": "Baleset történt Pesterzsébeten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91580",
+      "lead": "A Virág Benedek utca és a Királyhágó utca kereszteződésében fennakadásra kell számítani a közösségi közlekedésben is.",
+      "body": "Motorkerékpár és személyautó ütközött össze Pesterzsébeten, a Virág Benedek utca és a Királyhágó utca kereszteződésében. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom, valamint fennakadásra kell számítani a közösségi közlekedésben is.",
+      "location": "Budapest, Virág Benedek utca",
+      "updates": []
+    },
     {
       "id": "91579",
       "datetime": "2026.09.02. 08:03",
