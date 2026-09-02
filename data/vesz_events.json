@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T20:07:56.291737+00:00",
-  "count": 2947,
+  "updated_at": "2026-09-02T20:11:29.639116+00:00",
+  "count": 2948,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91605",
+      "datetime": "2026.09.02. 22:08",
+      "title": "Két autó ütközött Budapest XI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91605",
+      "lead": "A Balatoni út és a Létra utca találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XI. kerületében, a Balatoni út és a Létra utca találkozásánál. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Balatoni út",
+      "updates": []
+    },
     {
       "id": "91604",
       "datetime": "2026.09.02. 20:30",
