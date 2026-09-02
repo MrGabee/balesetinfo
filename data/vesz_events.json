@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T16:42:59.706835+00:00",
-  "count": 2944,
+  "updated_at": "2026-09-02T16:46:55.715221+00:00",
+  "count": 2945,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91602",
+      "datetime": "2026.09.02. 18:46",
+      "title": "Autó égett a 46-os főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91602",
+      "lead": "Gyomaendrőd és Mezőberény között oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy személyautó a 46-os főút Gyomaendrőd és Mezőberény közötti szakaszán, az 51-es kilométerszelvénynél. A lángokat a gyomaendrődi önkormányzati tűzoltók oltották el. A beavatkozás nem akadályozza a forgalmat.",
+      "location": "Gyomaendrőd, 46",
+      "updates": []
+    },
     {
       "id": "91601",
       "datetime": "2026.09.02. 18:28",
