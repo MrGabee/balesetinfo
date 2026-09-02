@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T11:34:02.197611+00:00",
-  "count": 2930,
+  "updated_at": "2026-09-02T11:37:59.251982+00:00",
+  "count": 2931,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91588",
+      "datetime": "2026.09.02. 13:35",
+      "title": "Házfalnak ütközött egy autó Kálmánházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91588",
+      "lead": "Lezárták a Nyíregyházi út érintett szakaszát.",
+      "body": "Ház falának csapódott egy személyautó Kálmánházán, a Nyíregyházi úton. Egy ember beszorult a járműbe. Őt a műszaki mentést végző nyíregyházi és a hajdúnánási hivatásos tűzoltók kiszabadították, majd kiemelték, és átadták a mentőknek. Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az utat.",
+      "location": "Kálmánháza, Nyíregyházi út",
+      "updates": []
+    },
     {
       "id": "91587",
       "datetime": "2026.09.02. 13:07",
