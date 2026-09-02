@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T09:05:29.704145+00:00",
-  "count": 2926,
+  "updated_at": "2026-09-02T09:09:25.302321+00:00",
+  "count": 2927,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91584",
+      "datetime": "2026.09.02. 11:06",
+      "title": "Nyaraló égett Vértesszőlősön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91584",
+      "lead": "A Szőlősi dűlőre vonultak a tűzoltók.",
+      "body": "Kigyulladt egy nyaraló Vértesszőlősön, a Szőlősi dűlőn. A kétszintes ingatlan teljes terjedelmében égett, amit a tatabányai hivatásos tűzoltók eloltottak. A helyszínre az áramszolgáltató szakemberei is kiérkeztek. A rajok átvizsgálják az épületet, beizzások után kutatva.",
+      "location": "Vértesszőlős, Szőlősi dűlő",
+      "updates": []
+    },
     {
       "id": "91583",
       "datetime": "2026.09.02. 10:07",
