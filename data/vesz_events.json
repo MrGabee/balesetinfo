@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-09-02T12:51:12.474948+00:00",
+  "updated_at": "2026-09-02T12:54:56.041664+00:00",
   "count": 2934,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91591",
-      "datetime": "2026.09.02. 14:38",
+      "datetime": "2026.09.02. 14:38 -",
       "title": "Kigyulladt egy melléképület Tóalmáson",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy melléképület Tóalmáson",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91591",
       "lead": "A szomszédos lakóházra is átterjedt a tűz.",
       "body": "Tűz keletkezett egy családi házhoz csatlakozó melléképületben, Tóalmáson, a Határ úton. A mintegy nyolc négyzetméteres építmény teljes terjedelmében leégett, és a tűz a lakóház tetőszerkezetére is átterjedt. A nagykátai hivatásos és a tóalmási önkéntes tűzoltók oltják a lángokat.",
       "location": "Tóalmás, Határ út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a tóalmási tűz lángjait",
+          "datetime": "2026.09.02. 14:54",
+          "category": "Tűzeset",
+          "text": "A nagykátai hivatásos és a tóalmási önkéntes tűzoltók elfojtották a lángokat Tóalmáson, a Határ úton, ahol tűz keletkezett egy családi házhoz csatlakozó melléképületben. A mintegy nyolc négyzetméteres építmény teljes terjedelmében leégett, és a tűz a lakóház tetőszerkezetére is átterjedt. A rajok utómunkálatokat végeznek.",
+          "location": "Tóalmás, Határ út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91591/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91591"
+        }
+      ]
     },
     {
       "id": "91590",
