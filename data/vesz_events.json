@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T12:36:18.748261+00:00",
-  "count": 2933,
+  "updated_at": "2026-09-02T12:40:46.686636+00:00",
+  "count": 2934,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91591",
+      "datetime": "2026.09.02. 14:38",
+      "title": "Kigyulladt egy melléképület Tóalmáson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91591",
+      "lead": "A szomszédos lakóházra is átterjedt a tűz.",
+      "body": "Tűz keletkezett egy családi házhoz csatlakozó melléképületben, Tóalmáson, a Határ úton. A mintegy nyolc négyzetméteres építmény teljes terjedelmében leégett, és a tűz a lakóház tetőszerkezetére is átterjedt. A nagykátai hivatásos és a tóalmási önkéntes tűzoltók oltják a lángokat.",
+      "location": "Tóalmás, Határ út",
+      "updates": []
+    },
     {
       "id": "91590",
       "datetime": "2026.09.02. 14:24",
@@ -482,9 +493,9 @@
       "title": "Baleset történt Szolnokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91555",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi úton félpályán halad a forgalom.",
+      "body": "Álló autóba ütközött egy személygépkocsi Szolnokon, a Rákóczi úton. A szolnoki hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szolnok, Rákóczi út",
       "updates": []
     },
     {
