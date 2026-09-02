@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T11:37:59.251982+00:00",
-  "count": 2931,
+  "updated_at": "2026-09-02T11:42:14.052144+00:00",
+  "count": 2932,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91589",
+      "datetime": "2026.09.02. 13:39",
+      "title": "Kigyulladt egy fatároló Nagylózson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91589",
+      "lead": "A Petőfi utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Lángra kapott egy fatároló Nagylózson, a Petőfi utcában. Teljes terjedelmében égett a mintegy tizenöt négyzetméteres faszerkezetű építmény. A sopronkövesdi hivatásos, valamint a nagylózsi és a peresztegi önkéntes tűzoltók eloltották a lángokat, amelyek a szomszédos műhelyre nem terjedtek át. A rajok kihoztak az ingatlanból egy gázpalackot is, ez felhasadt a tűzben.",
+      "location": "Nagylózs, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91588",
       "datetime": "2026.09.02. 13:35",
