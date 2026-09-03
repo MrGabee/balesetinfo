@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T22:11:06.406216+00:00",
-  "count": 2977,
+  "updated_at": "2026-09-03T22:14:51.732050+00:00",
+  "count": 2978,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91635",
+      "datetime": "2026.09.04. 00:12",
+      "title": "Karambol történt a 82-es főút győri szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91635",
+      "lead": "A Baross Gábor út és a dr. Petz Lajos utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Összeütközött egy autóalkatrészeket szállító kisteherautó és egy személykocsi Győrben, a 82-es főút városi szakaszán, vagyis a Baross Gábor úton. A kisteherautó fel is borult az ütközéstől. A két járműben összesen hatan utaztak, a helyszínre mentő is érkezett. A Dr. Petz Lajos utcai kereszteződésnél történt balesethez a város hivatásos tűzoltói vonultak. A raj áramtalanított.",
+      "location": "Győr, Dr. Petz Lajos utca",
+      "updates": []
+    },
     {
       "id": "91634",
       "datetime": "2026.09.03. 22:41",
