@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:46:03.754959+00:00",
+  "updated_at": "2026-09-03T07:50:17.537925+00:00",
   "count": 2957,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -67,7 +67,16 @@
       "lead": "Az Ady Endre út és a Haladás út találkozásánál oltják a lángokat.",
       "body": "Kigyulladt egy nyerges vontató Sárbogárdon, az Ady Endre út és a Haladás út találkozásánál. A jármű gumikat szállított, erre is átterjedtek a lángok. A sárbogárdi hivatásos tűzoltók két vízsugárral már körülhatárolták a tüzet.",
       "location": "Sárbogárd, Ady Endre út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat Sárbogárdon",
+          "datetime": "2026.09.03. 08:01",
+          "category": "Közlekedési baleset",
+          "text": "Már az utómunkálatokat Sárbogárdon, ahol egy nyerges vontató gyulladt ki az Ady Endre út és a Haladás út találkozásánál. A jármű gumikat szállított, erre is átterjedtek a lángok. A sárbogárdi hivatásos tűzoltók két vízsugárral oltották el a tüzet.",
+          "location": "Sárbogárd, Ady Endre út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91609/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91609"
+        }
+      ]
     },
     {
       "id": "91608",
@@ -338,9 +347,9 @@
       "title": "Kigyulladt egy fatároló Nagylózson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91589",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Lángra kapott egy fatároló Nagylózson, a Petőfi utcában. Teljes terjedelmében égett a mintegy tizenöt négyzetméteres faszerkezetű építmény. A sopronkövesdi hivatásos, valamint a nagylózsi és a peresztegi önkéntes tűzoltók eloltották a lángokat, amelyek a szomszédos műhelyre nem terjedtek át. A rajok kihoztak az ingatlanból egy gázpalackot is, ez felhasadt a tűzben.",
+      "location": "Nagylózs, Petőfi utca",
       "updates": []
     },
     {
