@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T10:25:01.877241+00:00",
-  "count": 2961,
+  "updated_at": "2026-09-03T10:28:13.295386+00:00",
+  "count": 2962,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91619",
+      "datetime": "2026.09.03. 12:25",
+      "title": "Baleset történt Székesfehérvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91619",
+      "lead": "A 8123-as útra riasztották a tűzoltókat.",
+      "body": "Karambolozott két személyautó a 8123-as úton, Székesfehérvár közelében, a 3. kilométernél. A székesfehérvári hivatásos tűzoltók áramtalanították a járműveket, amelyek egyike az árokba sodródott. A raj megszüntette a forgalmi akadályt.",
+      "location": "Székesfehérvár, 8123",
+      "updates": []
+    },
     {
       "id": "91618",
       "datetime": "2026.09.03. 11:08",
