@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T14:25:43.228002+00:00",
-  "count": 2969,
+  "updated_at": "2026-09-03T14:29:11.608755+00:00",
+  "count": 2970,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91627",
+      "datetime": "2026.09.03. 16:25",
+      "title": "Utoléréses baleset Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91627",
+      "lead": "A Külső-Balmazújvárosi úton van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott két személyautó Debrecenben, a Külső-Balmazújvárosi úton, azaz a 33-as főúton, a Hegedű utca közelében. Utoléréses baleset történt, amelynél a város hivatásos tűzoltói végzik a műszaki mentést. A raj áramtalanítja az egyik járművet. A karambol helyszínén egy sávon halad a forgalom.",
+      "location": "Debrecen, Külső-Balmazújvárosi út",
+      "updates": []
+    },
     {
       "id": "91626",
       "datetime": "2026.09.03. 15:34",
@@ -457,19 +468,10 @@
       "title": "Kigyulladt egy melléképület Tóalmáson",
       "category": "Kigyulladt egy melléképület Tóalmáson",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91591",
-      "lead": "A szomszédos lakóházra is átterjedt a tűz.",
-      "body": "Tűz keletkezett egy családi házhoz csatlakozó melléképületben, Tóalmáson, a Határ úton. A mintegy nyolc négyzetméteres építmény teljes terjedelmében leégett, és a tűz a lakóház tetőszerkezetére is átterjedt. A nagykátai hivatásos és a tóalmási önkéntes tűzoltók oltják a lángokat.",
-      "location": "Tóalmás, Határ út",
-      "updates": [
-        {
-          "title": "Elfojtották a tóalmási tűz lángjait",
-          "datetime": "2026.09.02. 14:54",
-          "category": "Tűzeset",
-          "text": "A nagykátai hivatásos és a tóalmási önkéntes tűzoltók elfojtották a lángokat Tóalmáson, a Határ úton, ahol tűz keletkezett egy családi házhoz csatlakozó melléképületben. A mintegy nyolc négyzetméteres építmény teljes terjedelmében leégett, és a tűz a lakóház tetőszerkezetére is átterjedt. A rajok utómunkálatokat végeznek.",
-          "location": "Tóalmás, Határ út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91591/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91591"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91590",
@@ -477,9 +479,9 @@
       "title": "Műhelytűz Rákoscsabán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91590",
-      "lead": "A tűzoltók már az utómunkálatokat végzik a Szabadság sugárúton.",
-      "body": "Kigyulladt egy műhely Budapest XVII. kerületében, a Szabadság sugárúton. Az ott dolgozók még a fővárosi hivatásos tűzoltók kiérkezése előtt részben megfékezték a lángokat. A rajok végleg eloltották a tüzet, és megkezdték az utómunkálatokat.",
-      "location": "Budapest, Szabadság sugárút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -488,9 +490,9 @@
       "title": "Kigyulladt egy fatároló Nagylózson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91589",
-      "lead": "A Petőfi utcában fékezték meg a lángokat a tűzoltók.",
-      "body": "Lángra kapott egy fatároló Nagylózson, a Petőfi utcában. Teljes terjedelmében égett a mintegy tizenöt négyzetméteres faszerkezetű építmény. A sopronkövesdi hivatásos, valamint a nagylózsi és a peresztegi önkéntes tűzoltók eloltották a lángokat, amelyek a szomszédos műhelyre nem terjedtek át. A rajok kihoztak az ingatlanból egy gázpalackot is, ez felhasadt a tűzben.",
-      "location": "Nagylózs, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -499,9 +501,9 @@
       "title": "Házfalnak ütközött egy autó Kálmánházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91588",
-      "lead": "Lezárták a Nyíregyházi út érintett szakaszát.",
-      "body": "Ház falának csapódott egy személyautó Kálmánházán, a Nyíregyházi úton. Egy ember beszorult a járműbe. Őt a műszaki mentést végző nyíregyházi és a hajdúnánási hivatásos tűzoltók kiszabadították, majd kiemelték, és átadták a mentőknek. Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az utat.",
-      "location": "Kálmánháza, Nyíregyházi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
