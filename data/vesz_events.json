@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-09-03T20:13:27.616828+00:00",
-  "count": 2975,
+  "updated_at": "2026-09-03T20:17:15.288847+00:00",
+  "count": 2976,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "91633",
+      "datetime": "2026.09.03. 22:13",
+      "title": "Baleset történt a 74-es főúton, Sárhida térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91633",
+      "lead": "A 38-39-es kilométer között árokba hajtott egy személykocsi.",
+      "body": "Letért az úttestről és árokba hajtott egy autó a 74-es főút 38-39-es kilométere között, Sárhida térségében. A járműben ketten ültek, az utasokhoz mentő érkezett. A zalaegerszegi hivatásos tűzoltók áramtalanították a gépkocsit. A főút forgalma átmenetileg félpályán halad.",
+      "location": "Sárhida, 74",
+      "updates": []
+    },
+    {
       "id": "91632",
-      "datetime": "2026.09.03. 21:44",
+      "datetime": "2026.09.03. 21:44 -",
       "title": "Ég egy gépkocsi az M7-es sztrádán",
-      "category": "Tűzeset",
+      "category": "Ég egy gépkocsi az M7-es sztrádán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91632",
       "lead": "A Budapest felé vezető oldalon, a 86-87-es kilométer között a növényzet is tüzet fogott.",
       "body": "Kigyulladt és teljes terjedelmében ég egy jármű az M7-es autópálya főváros felé vezető oldalán, Balatonfőkajár térségében. A tűz átterjedt a gépkocsi melletti fás, bokros részre, a lángok terjednek. A 86-87-es kilométer között lévő helyszínre elsőként a polgárdi önkormányzati tűzoltók érkeztek, az egység vízsugarakkal avatkozik be. A helyszínre riasztották a balatonfűzfői hivatásos tűzoltóság egy gépjárműfecskendőjét és vízszállítóját is. A főváros felé vezető oldal mindkét sávját lezárták.",
