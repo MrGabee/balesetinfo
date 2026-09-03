@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T15:06:02.330888+00:00",
-  "count": 2970,
+  "updated_at": "2026-09-03T15:09:31.112977+00:00",
+  "count": 2971,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91628",
+      "datetime": "2026.09.03. 17:09",
+      "title": "Motor és autó karambolozott Budaörsön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91628",
+      "lead": "A Kamaraerdei út és a Temető utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Összeütközött egy személykocsi és egy motorkerékpár Budaörsön, a Kamaraerdei úton. A kocsiban csak a sofőr utazott és a motoron is csak annak vezetője ült. A Temető utcai kereszteződésnél történt balesethez a fővárosi hivatásos tűzoltók vonultak, a helyszínre mentőt is riasztottak. A járművek akadályozzák a forgalmat.",
+      "location": "Budaörs, Vasútállomás és környéke dűlő",
+      "updates": []
+    },
     {
       "id": "91627",
       "datetime": "2026.09.03. 16:25",
