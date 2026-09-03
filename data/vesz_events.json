@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T16:15:51.675515+00:00",
-  "count": 2973,
+  "updated_at": "2026-09-03T16:19:33.117420+00:00",
+  "count": 2974,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91631",
+      "datetime": "2026.09.03. 18:18",
+      "title": "Családi ház égett Vizsolyon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91631",
+      "lead": "A Malom utcába gönci és encsi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából nyolcvan négyzetméteres családi ház Vizsolyon, a Malom úton. A gönci és encsi hivatásos tűzoltók vízsugarakkal fékezték meg a lángokat, átvizsgálták az épületet, senkit nem találtak odabenn. A rajok eltávolítják a füstöt az épületből. A házban egy ember lakott, őt a rendőrök vitték ki a szabadba.",
+      "location": "Vizsoly, Malom út",
+      "updates": []
+    },
     {
       "id": "91630",
       "datetime": "2026.09.03. 17:51",
