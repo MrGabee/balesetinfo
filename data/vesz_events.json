@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:19:45.382221+00:00",
+  "updated_at": "2026-09-03T15:23:25.427940+00:00",
   "count": 2972,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -49,14 +49,23 @@
     },
     {
       "id": "91625",
-      "datetime": "2026.09.03. 14:13",
+      "datetime": "2026.09.03. 14:13 -",
       "title": "Ég egy ház Ózdon",
-      "category": "Tűzeset",
+      "category": "Ég egy ház Ózdon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91625",
       "lead": "A Damjanich úton oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt egy családi ház Ózdon, a Damjanich úton. Teljes terjedelmében ég a mintegy száz négyzetméteres ingatlan tetőszerkezete és a mellette lévő melléképület. A város hivatásos tűzoltói oltják a lángokat.",
       "location": "Ózd, Damjanich út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották az ózdi ház tüzét",
+          "datetime": "2026.09.03. 17:21",
+          "category": "Tűzeset",
+          "text": "A Damjanich úton egy száz négyzetméteres családi ház tetőszerkezete, illetve egy melléképület égett. A város hivatásos tűzoltói vízsugarakkal oltották el a lángokat, a munkát nehezítette, hogy egy helyiség tele volt lomokkal, amelyeket ki kellett hordani. A rajok a szabadba vittek egy háztartási méretű propánbutángáz-palackot is. A palackot hő érte, de nem hasadt fel. Az egységek megfékezték a lángokat, már az utómunkálatoknál tartanak.",
+          "location": "Ózd, Damjanich út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91625/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91625"
+        }
+      ]
     },
     {
       "id": "91624",
