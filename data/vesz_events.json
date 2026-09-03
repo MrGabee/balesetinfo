@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T11:17:26.724906+00:00",
-  "count": 2966,
+  "updated_at": "2026-09-03T11:21:24.128401+00:00",
+  "count": 2967,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91624",
+      "datetime": "2026.09.03. 13:18",
+      "title": "Baleset történt Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91624",
+      "lead": "A Budai úton két autó karambolozott.",
+      "body": "Baleset történt a 7-es főút székesfehérvári szakaszán. A 65-ös kilométernél, a Budai és a Zentai út kereszteződésének közelében két személykocsi ütközött össze. A két járműben összesen hárman ültek. A vármegyeszékhely hivatásos tűzoltóit riasztották az esethez.",
+      "location": "Székesfehérvár, Budai út",
+      "updates": []
+    },
     {
       "id": "91623",
       "datetime": "2026.09.03. 12:55",
@@ -45,7 +56,16 @@
       "lead": "A ceglédi tűzoltók oltják a tüzet.",
       "body": "Nagyjából öt hektáron kigyulladt a tarló, a levágott legelő Jászkarajenő külterületén. A tűz szélén bálák vannak, a lángok azokra nem terjedtek át. A ceglédi hivatásos tűzoltók egy gépjárműfecskendővel és egy vízszállítóval vonultak az esethez. A rajok vízsugárral oltják a tüzet, a munkálatban a civil lakosság is részt vesz, több lajtos kocsi is van a helyszínen, egy traktor pedig körbeszántja a területet.",
       "location": "Jászkarajenő, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a Jászkarajenő külterületén égő tüzet",
+          "datetime": "2026.09.03. 13:21",
+          "category": "Tűzeset",
+          "text": "A körülbelül öt hektáron égő vegetációt a ceglédi hivatásos tűzoltók a civil lakosság közreműködésével fékezték meg. A munkálatokban egy erőgép is részt vett, amely körbeszántotta a területet. A tűzoltók eloltották a lángokat, elvégezték az utómunkálatokat is.",
+          "location": "Jászkarajenő, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91620/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91620"
+        }
+      ]
     },
     {
       "id": "91619",
