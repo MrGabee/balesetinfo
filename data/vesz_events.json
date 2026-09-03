@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T05:52:16.057621+00:00",
-  "count": 2951,
+  "updated_at": "2026-09-03T05:56:16.836541+00:00",
+  "count": 2952,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91609",
+      "datetime": "2026.09.03. 07:56",
+      "title": "Kigyulladt egy nyerges vontató Sárbogárdon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91609",
+      "lead": "Az Ady Endre út és a Haladás út találkozásánál oltják a lángokat.",
+      "body": "Kigyulladt egy nyerges vontató Sárbogárdon, az Ady Endre út és a Haladás út találkozásánál. A jármű gumikat szállított, erre is átterjedtek a lángok. A sárbogárdi hivatásos tűzoltók két vízsugárral már körülhatárolták a tüzet.",
+      "location": "Sárbogárd, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "91608",
       "datetime": "2026.09.03. 06:27",
