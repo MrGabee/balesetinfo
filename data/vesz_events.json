@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T12:13:16.707390+00:00",
-  "count": 2967,
+  "updated_at": "2026-09-03T12:17:12.138178+00:00",
+  "count": 2968,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91625",
+      "datetime": "2026.09.03. 14:13",
+      "title": "Ég egy ház Ózdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91625",
+      "lead": "A Damjanich úton oltják a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Ózdon, a Damjanich úton. Teljes terjedelmében ég a mintegy száz négyzetméteres ingatlan tetőszerkezete és a mellette lévő melléképület. A város hivatásos tűzoltói oltják a lángokat.",
+      "location": "Ózd, Damjanich út",
+      "updates": []
+    },
     {
       "id": "91624",
       "datetime": "2026.09.03. 13:18",
