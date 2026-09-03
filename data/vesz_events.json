@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T20:38:39.652548+00:00",
-  "count": 2976,
+  "updated_at": "2026-09-03T20:42:19.436393+00:00",
+  "count": 2977,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91634",
+      "datetime": "2026.09.03. 22:41",
+      "title": "Árokba hajtott egy autó a 81-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91634",
+      "lead": "A 22-es kilométerhez riasztották a tűzoltókat.",
+      "body": "Letért az útról, árokba hajtott és ott a tetejére borulva állt meg egy személykocsi a 81-es főúton, Bodajk térségében. A kocsiban csak annak vezetője utazott, mentő érkezett hozzá. A móri önkormányzati és a bodajki önkéntes tűzoltók vonultak a helyszínre. A rajok hőkamerával átvizsgálták a kocsit, amelyet a helyszínelés után állítanak kerekeire és áramtalanítanak. A főút érintett szakaszán félpályán lehet közlekedni.",
+      "location": "Bodajk, 81",
+      "updates": []
+    },
     {
       "id": "91633",
       "datetime": "2026.09.03. 22:13",
