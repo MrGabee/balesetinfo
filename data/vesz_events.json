@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T06:18:50.599955+00:00",
-  "count": 2954,
+  "updated_at": "2026-09-03T06:22:40.439211+00:00",
+  "count": 2955,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91612",
+      "datetime": "2026.09.03. 08:20",
+      "title": "Traktor és személykocsi karambolozott az 5301-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91612",
+      "lead": "A 68-as kilométernél a kalocsai tűzoltók avatkoznak be.",
+      "body": "Hátulról beleszaladt egy fűnyíró traktorba egy személyautó a 5301-es úton, Kalocsa és Halom között, a nagy kanyarban. Mindkét járműben csak annak vezetője utazott, a helyszínre mentő is érkezett. A kalocsai hivatásos tűzoltók áramtalanítottak.",
+      "location": "Homokmégy, 5301",
+      "updates": []
+    },
     {
       "id": "91611",
       "datetime": "2026.09.03. 08:15",
@@ -210,9 +221,9 @@
       "title": "Teherautó és személygépkocsi ütközött Gyál közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91596",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kőrösi út és az M0-ás autóút lehajtója találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Teherautó és személygépkocsi ütközött össze Gyál közelében, a Kőrösi út és az M0-ás autóút lehajtója találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Gyál, Kőrösi út",
       "updates": []
     },
     {
