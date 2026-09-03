@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:25:51.922676+00:00",
+  "updated_at": "2026-09-03T13:29:43.373856+00:00",
   "count": 2968,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -228,7 +228,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.03. 08:42",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91607/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91607"
+        }
+      ]
     },
     {
       "id": "91606",
@@ -247,9 +256,9 @@
       "title": "Két autó ütközött Budapest XI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91605",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Balatoni út és a Létra utca találkozásánál forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XI. kerületében, a Balatoni út és a Létra utca találkozásánál. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Balatoni út",
       "updates": []
     },
     {
@@ -510,9 +519,9 @@
       "title": "Kigyulladt egy szoba a főváros VII. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91586",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Berendezési tárgyak és ruhaneműk égtek a Jósika utcai ingatlanban.",
+      "body": "Tűz keletkezett egy társasházban lévő szálláshelyen, Budapest VII. kerületében, a Jósika utcában, a Rottenbiller utcánál. Berendezési tárgyak és ruhaneműk égtek mintegy öt négyzetméteren a több kisebb helyiségből álló ingatlan egyik szobájában. A fővárosi hivatásos tűzoltók eloltották a lángokat, átvizsgálták és kiszellőztetik az ingatlant. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Jósika utca",
       "updates": []
     },
     {
