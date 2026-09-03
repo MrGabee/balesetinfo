@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:17:15.288847+00:00",
+  "updated_at": "2026-09-03T20:20:52.523450+00:00",
   "count": 2976,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A Budapest felé vezető oldalon, a 86-87-es kilométer között a növényzet is tüzet fogott.",
       "body": "Kigyulladt és teljes terjedelmében ég egy jármű az M7-es autópálya főváros felé vezető oldalán, Balatonfőkajár térségében. A tűz átterjedt a gépkocsi melletti fás, bokros részre, a lángok terjednek. A 86-87-es kilométer között lévő helyszínre elsőként a polgárdi önkormányzati tűzoltók érkeztek, az egység vízsugarakkal avatkozik be. A helyszínre riasztották a balatonfűzfői hivatásos tűzoltóság egy gépjárműfecskendőjét és vízszállítóját is. A főváros felé vezető oldal mindkét sávját lezárták.",
       "location": "Balatonfőkajár, M7",
-      "updates": []
+      "updates": [
+        {
+          "title": "Egy sávon megindult a forgalom az M7-esen, Balatonfőkajárnál",
+          "datetime": "2026.09.03. 22:16",
+          "category": "Tűzeset",
+          "text": "A Budapest felé vezető oldalon, a 86-87-es kilométer között teljes terjedelmében égett egy autó, a lángok átterjedtek a környező vegetációra is. Polgárdi önkormányzati és balatonfűzfői hivatásos tűzoltók több vízsugárral megfékezték a jármű tüzét, körülhatárolták a növényzet lángjait. Az egységek az utómunkálatokat végzik, a főváros felé vezető oldalon egy sávon megindult a forgalom.",
+          "location": "Balatonfőkajár, M7",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91632/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91632"
+        }
+      ]
     },
     {
       "id": "91631",
