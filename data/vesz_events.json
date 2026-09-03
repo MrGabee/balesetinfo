@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:43:47.401839+00:00",
+  "updated_at": "2026-09-03T05:48:04.186802+00:00",
   "count": 2951,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Frontális karambol Budapest IX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91608",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Soroksári úton van szükség tűzoltói beavatkozásra.",
+      "body": "Frontálisan ütközött személyautó Budapest IX. kerületében, a Soroksári úton. A Szabadkai út és a Timót utca közötti szakaszon történt balesethez a fővárosi hivatásos tűzoltókat riasztották. A rajok a katasztrófavédelmi műveleti szolgálat irányítása mellett két embert feszítővágó segítségével kiszabadítottak az egyik gépkocsiból.",
+      "location": "Budapest, Soroksári út",
       "updates": []
     },
     {
@@ -140,16 +140,7 @@
       "lead": "A tűz körülbelül egy hektárt érint.",
       "body": "Nádas ég Cibakháza külterületén. A tűz körülbelül egy hektárt érint. A szolnoki és kunszentmártoni hivatásos, valamint a tiszaföldvári önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
       "location": "Cibakháza, külterület",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Cibakháza külterületén",
-          "datetime": "2026.09.02. 18:13",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik a tűzoltók Cibakháza külterületén, ahol kigyulladt a nádas. A tűz mintegy három hektárt érintett. A szolnoki és kunszentmártoni hivatásos, valamint a tiszaföldvári önkormányzati tűzoltók hat vízsugárral oltották el a lángokat. A rajok munkáját egy szarvasi vízszállító is segítette.",
-          "location": "Cibakháza, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91598/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91598"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91597",
@@ -157,9 +148,9 @@
       "title": "Ráfutásos baleset Budapest IX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91597",
-      "lead": "A Soroksári út és a Vágóhíd utca kereszteződésében forgalmi akadályra kell számítani.",
-      "body": "Három személyautó karambolozott Budapest IX. kerületében, a Soroksári út és a Vágóhíd utca kereszteződésében. A ráfutásos balesethez a fővárosi hivatásos tűzoltókat riasztották. A raj megszünteti a forgalmi akadályt.",
-      "location": "Budapest, Soroksári út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -179,9 +170,9 @@
       "title": "Álló autónak hajtott egy másik Jászárokszálláson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91595",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Bajcsy-Zsilinszky úton áramtalanítják a járműveket.",
+      "body": "Az út szélén álló autónak ütközött egy másik személygépkocsi Jászárokszálláson, a Bajcsy-Zsilinszky úton. A helyi önkormányzati tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Jászárokszállás, Bajcsy-Zsilinszky utca",
       "updates": []
     },
     {
@@ -201,9 +192,9 @@
       "title": "Karambol a 441-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91593",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nagykőrös és Katonatelep között forgalmi akadályra kell számítani.",
+      "body": "Karambolozott két személyautó a 441-es főúton, Nagykőrös és Katonatelep között. A járművekben összesen hárman utaztak. A nagykőrösi hivatásos tűzoltókat riasztották a balesethez, amelyhez a mentők is kivonultak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nagykőrös, 441",
       "updates": []
     },
     {
@@ -212,10 +203,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91592",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.02. 19:59",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91592/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91592"
+        }
+      ]
     },
     {
       "id": "91591",
