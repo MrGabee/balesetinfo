@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T08:11:40.436858+00:00",
-  "count": 2957,
+  "updated_at": "2026-09-03T08:15:29.196816+00:00",
+  "count": 2958,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91615",
+      "datetime": "2026.09.03. 10:15",
+      "title": "Karambol Lepsényben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91615",
+      "lead": "A Vasút utcában egy sávon halad a forgalom.",
+      "body": "Frontálisan összeütközött két személyautó Lepsényben, a Vasút utcában, az Eötvös utca közelében. A polgárdi önkormányzati tűzoltók áramtalanították a járműveket, amelyekben összesen hárman utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszon, rendőri irányítás mellett, váltakozó irányban, egy sávon halad a forgalom.",
+      "location": "Lepsény, Vasút utca",
+      "updates": []
+    },
     {
       "id": "91614",
       "datetime": "2026.09.03. 08:50",
