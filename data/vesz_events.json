@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T10:54:09.354189+00:00",
-  "count": 2965,
+  "updated_at": "2026-09-03T10:58:05.842507+00:00",
+  "count": 2966,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91623",
+      "datetime": "2026.09.03. 12:55",
+      "title": "Karambol a 442-es főúton, Rákócziújfalu közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91623",
+      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
+      "body": "Összeütközött egy személygépkocsi és egy teherautó a 442-es főúton, Rákóczifalva és Rákócziújfalu között. Egy ember beszorult a személyautóba. Őz feszítővágóval és feszítőhengerrel szabadították ki, majd kiemelték és átadták a mentőknek a műszaki mentést végző szolnoki hivatásos tűzoltók. Egy szabadnapos tűzoltó még rajok kiérkezése előtt áramtalanította a járműveket. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt a műszaki mentés idejére teljes szélességben lezárták.",
+      "location": "Rákócziújfalu, 442",
+      "updates": []
+    },
     {
       "id": "91622",
       "datetime": "2026.09.03. 12:51",
