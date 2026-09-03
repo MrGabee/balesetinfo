@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T06:03:18.519357+00:00",
+  "updated_at": "2026-09-03T06:06:50.158308+00:00",
   "count": 2953,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -369,9 +369,9 @@
       "title": "Autótűz Györkönyben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91583",
-      "lead": "Egy épület fala is meggyulladt.",
-      "body": "Kigyulladt egy személyautó Györkönyben, a Hegy utca és a Szabadság utca között. Mintegy tíz négyzetméteren egy közeli épület oldala is égett. A paksi hivatásos és a györkönyi önkéntes tűzoltók három vízsugárral eloltották a lángokat. A jármű teljesen kiégett.",
-      "location": "Györköny, Hegy utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -435,19 +435,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91577",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.09.02. 06:13",
-          "category": "Meteorológiai riasztás",
-          "text": "Nincsenek veszélyes időjárási jelenségek hazánkban.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91577/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91577"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91576",
