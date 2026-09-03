@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T10:39:48.165830+00:00",
-  "count": 2963,
+  "updated_at": "2026-09-03T10:43:41.208347+00:00",
+  "count": 2964,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91621",
+      "datetime": "2026.09.03. 12:43",
+      "title": "Tűz volt egy I. kerületi lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91621",
+      "lead": "Berendezési tárgyak égtek az előszobában.",
+      "body": "Tűz keletkezett egy lakásban, Budapest I. kerületében, a Várfok utcában. Berendezési tárgyak égtek az előszobában. A tűzesethez a fővárosi hivatásos tűzoltók vonultak ki, és porral oltóval elfojtották a lángokat.",
+      "location": "Budapest, Várfok utca",
+      "updates": []
+    },
     {
       "id": "91620",
       "datetime": "2026.09.03. 12:35",
