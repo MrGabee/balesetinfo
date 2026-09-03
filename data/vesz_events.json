@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T08:19:16.841920+00:00",
-  "count": 2958,
+  "updated_at": "2026-09-03T08:23:25.117443+00:00",
+  "count": 2959,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91616",
+      "datetime": "2026.09.03. 10:20",
+      "title": "Talpfák égtek a XI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91616",
+      "lead": "A Kelenföldi pályaudvar közelében volt tűz.",
+      "body": "Tűz keletkezett Budapest XI. kerületében, a Kelenföldi vasútállomás közelében. Mintegy öt köbméter vasúti talpfa gyulladt ki, és lángra kapott körülötte a gaz és az avar is. A fővárosi hivatásos tűzoltók eloltották a lángokat.",
+      "location": "Budapest, Etele tér",
+      "updates": []
+    },
     {
       "id": "91615",
       "datetime": "2026.09.03. 10:15",
