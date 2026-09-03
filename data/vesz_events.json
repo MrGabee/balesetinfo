@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T05:56:16.836541+00:00",
-  "count": 2952,
+  "updated_at": "2026-09-03T05:59:52.466947+00:00",
+  "count": 2953,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91610",
+      "datetime": "2026.09.03. 07:57",
+      "title": "Hármas karambol Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91610",
+      "lead": "Az Üllői úton, a Hunyadi utcánál történt a baleset.",
+      "body": "Egymásba hajtott három személykocsi Budapest tizenkilencedik kerületében, az Üllői úton. A Hunyadi utcai kereszteződés közelében történt balesethez a fővárosi hivatásos tűzoltókat riasztották. A raj áramtalanított. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
     {
       "id": "91609",
       "datetime": "2026.09.03. 07:56",
