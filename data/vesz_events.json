@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T06:15:10.516525+00:00",
-  "count": 2953,
+  "updated_at": "2026-09-03T06:18:50.599955+00:00",
+  "count": 2954,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91611",
+      "datetime": "2026.09.03. 08:15",
+      "title": "Karambol az M7-es székesfehérvári lehajtójánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91611",
+      "lead": "A főváros felé vezető oldalon, az 59-es kilométernél a lehajtót teljesen elfoglalják a járművek.",
+      "body": "Összeütközött két kamion az M7-es autópálya székesfehérvári lehajtójánál. Az egyik gabonát, a másik építőipari termékeket szállított. Az 59-es kilométernél, a Budapest felé vezető oldalon karambolozott járművek teljesen elfoglalják a lehajtósávot, a felhajtás viszont zavartalan. A székesfehérvári hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Székesfehérvár, M7",
+      "updates": []
+    },
     {
       "id": "91610",
       "datetime": "2026.09.03. 07:57",
@@ -199,9 +210,9 @@
       "title": "Teherautó és személygépkocsi ütközött Gyál közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91596",
-      "lead": "A Kőrösi út és az M0-ás autóút lehajtója találkozásánál forgalmi akadályra kell számítani.",
-      "body": "Teherautó és személygépkocsi ütközött össze Gyál közelében, a Kőrösi út és az M0-ás autóút lehajtója találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Gyál, Kőrösi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
