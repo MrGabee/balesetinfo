@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T04:25:47.796923+00:00",
-  "count": 2950,
+  "updated_at": "2026-09-03T04:29:04.233888+00:00",
+  "count": 2951,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91608",
+      "datetime": "2026.09.03. 06:27",
+      "title": "Frontális karambol Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91608",
+      "lead": "A Soroksári úton van szükség tűzoltói beavatkozásra.",
+      "body": "Frontálisan ütközött személyautó Budapest IX. kerületében, a Soroksári úton. A Szabadkai út és a Timót utca közötti szakaszon történt balesethez a fővárosi hivatásos tűzoltókat riasztották. A rajok a katasztrófavédelmi műveleti szolgálat irányítása mellett két embert feszítővágó segítségével kiszabadítottak az egyik gépkocsiból.",
+      "location": "Budapest, Soroksári út",
+      "updates": []
+    },
     {
       "id": "91607",
       "datetime": "2026.09.03. 06:12",
