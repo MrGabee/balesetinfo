@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T13:33:54.093613+00:00",
-  "count": 2968,
+  "updated_at": "2026-09-03T13:38:16.213721+00:00",
+  "count": 2969,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91626",
+      "datetime": "2026.09.03. 15:34",
+      "title": "Összeütközött két autó Budapest huszadik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91626",
+      "lead": "A Szentlőrinci útra riasztották a tűzoltókat.",
+      "body": "Egymásba hajtott két személykocsi Pesterzsébeten, a Szentlőrinci úton, az M5-ös sztráda közelében. Az egyik autó elektromos meghajtású. A két kocsiban összesen hárman utaztak, mentő érkezett hozzájuk. A fővárosi hivatásos tűzoltók áramtalanítanak.",
+      "location": "Budapest, Szentlőrinci út",
+      "updates": []
+    },
     {
       "id": "91625",
       "datetime": "2026.09.03. 14:13",
