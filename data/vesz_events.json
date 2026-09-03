@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T15:13:08.126877+00:00",
-  "count": 2971,
+  "updated_at": "2026-09-03T15:16:37.487950+00:00",
+  "count": 2972,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91629",
+      "datetime": "2026.09.03. 17:14",
+      "title": "Frontális karambol Monoron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91629",
+      "lead": "A Péteri utcán, a tűzoltóság előtt történt a baleset.",
+      "body": "Szemből egymásba hajtott két autó Monoron, a Péteri utcán. A monori hivatásos tűzoltó-parancsnokság előtt történt balesetben két ember érintett. A tűzoltók áramtalanították a járműveket, illetve irányítják a 3111-es út forgalmát.",
+      "location": "Monor, Péteri utca",
+      "updates": []
+    },
     {
       "id": "91628",
       "datetime": "2026.09.03. 17:09",
