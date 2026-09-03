@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-03T10:50:25.579787+00:00",
-  "count": 2964,
+  "updated_at": "2026-09-03T10:54:09.354189+00:00",
+  "count": 2965,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91622",
+      "datetime": "2026.09.03. 12:51",
+      "title": "Felborult egy traktor Várdombon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91622",
+      "lead": "A Pilisi utcába a szekszárdi tűzoltók vonultak.",
+      "body": "Felborult egy traktor és a pótkocsija Várdombon, a Pilisi utcában. A jármű vezetőjéhez mentőhelikopter érkezett. A szekszárdi hivatásos tűzoltókat riasztották az esethez, a tűzoltók segítséget nyújtottak a mentőszolgálat munkatársainak, illetve áramtalanítják a mezőgazdasági járművet.",
+      "location": "Várdomb, Pilisi utca",
+      "updates": []
+    },
     {
       "id": "91621",
       "datetime": "2026.09.03. 12:43",
