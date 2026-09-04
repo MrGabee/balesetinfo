@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T06:54:27.359012+00:00",
-  "count": 2983,
+  "updated_at": "2026-09-04T06:58:05.677717+00:00",
+  "count": 2984,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91641",
+      "datetime": "2026.09.04. 08:55",
+      "title": "Hármas karambol Sárospatakon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91641",
+      "lead": "Az Erdélyi János út és az Eötvös út kereszteződéséhez vonultak a tűzoltók.",
+      "body": "Összeütközött három személyautó Sárospatakon, az Erdélyi János út és az Eötvös út kereszteződésénél. A sátoraljaújhelyi hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen hárman utaztak. Az egyik gépkocsiból hűtővíz folyt az úttestre",
+      "location": "Sárospatak, Erdélyi János út",
+      "updates": []
+    },
     {
       "id": "91640",
       "datetime": "2026.09.04. 08:44",
