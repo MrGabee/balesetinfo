@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T21:44:13.904520+00:00",
-  "count": 3010,
+  "updated_at": "2026-09-04T21:47:56.381486+00:00",
+  "count": 3011,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91668",
+      "datetime": "2026.09.04. 23:44",
+      "title": "Villamos és autó ütközött a IX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91668",
+      "lead": "A Lechner Ödön fasoron történt a baleset.",
+      "body": "Összeütközött egy személygépkocsi és egy villamos Budapest IX. kerületében, a Lechner Ödön fasoron. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak ki. A raj áramtalanította a személyautót. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Lechner Ödön fasor",
+      "updates": []
+    },
     {
       "id": "91667",
       "datetime": "2026.09.04. 21:58 -",
