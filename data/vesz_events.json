@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T19:56:43.856988+00:00",
-  "count": 3009,
+  "updated_at": "2026-09-04T20:00:13.133950+00:00",
+  "count": 3010,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91667",
+      "datetime": "2026.09.04. 21:58",
+      "title": "Melléképület ég Örményesen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91667",
+      "lead": "A Szabadság úton csaptak fel a lángok.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy melléképület Örményesen, a Szabadság úton. A tűz a főépület tetőszerkezetére és a szomszédos telekre is átterjedt. A mezőtúri hivatásos, a kisújszállási és a törökszentmiklósi önkormányzati tűzoltók oltják a lángokat.",
+      "location": "Örményes, Szabadság út",
+      "updates": []
+    },
     {
       "id": "91666",
       "datetime": "2026.09.04. 20:45",
