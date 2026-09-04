@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T04:49:57.491389+00:00",
-  "count": 2978,
+  "updated_at": "2026-09-04T04:53:43.624958+00:00",
+  "count": 2979,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91636",
+      "datetime": "2026.09.04. 06:52",
+      "title": "Kigyulladt egy autó az M5-ös sztrádán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91636",
+      "lead": "A 130-131-es kilométer között, a Szeged felé vezető oldalon van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy személykocsi az M5-ös autópálya Szeged felé vezető oldalán, Csengele térségében. A 130-131-es kilométer között égő járműhöz a kisteleki hivatásos tűzoltók vonultak. A raj egy vízsugárral oltja a leállósávban veszteglő autót.",
+      "location": "Csengele, M5",
+      "updates": []
+    },
     {
       "id": "91635",
       "datetime": "2026.09.04. 00:12",
