@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T16:38:17.950584+00:00",
-  "count": 3001,
+  "updated_at": "2026-09-04T16:41:52.590385+00:00",
+  "count": 3002,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91659",
+      "datetime": "2026.09.04. 18:39",
+      "title": "Árokba csapódott egy autó a 4109-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91659",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Letért az útról és az árokba csapódott egy személygépkocsi Aranyosapátinál, a 4109-es út 12-es és 13-as kilométere közötti szakaszán. A vásárosnaményi önkormányzati tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Aranyosapáti, 4109",
+      "updates": []
+    },
     {
       "id": "91658",
       "datetime": "2026.09.04. 17:39 -",
