@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T09:59:24.867627+00:00",
-  "count": 2987,
+  "updated_at": "2026-09-04T10:02:51.910878+00:00",
+  "count": 2988,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91645",
+      "datetime": "2026.09.04. 12:02",
+      "title": "Baleset Szabadbattyánban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91645",
+      "lead": "A Balatoni úton van szükség tűzoltói beavatkozásra.",
+      "body": "Árokba sodródott egy személyautó Szabadbattyánban, a Balatoni úton, azaz a 7-es főúton. A járműben egy ember utazott, aki ki tudott szállni, a mentők ellátják. A Sárvíz Önkéntes Tűzoltó Egyesület önkéntesei áramtalanították a gépkocsit. A helyszínre érkeztek a székesfehérvári hivatásos tűzoltók is.",
+      "location": "Szabadbattyán, Balatoni út",
+      "updates": []
+    },
     {
       "id": "91644",
       "datetime": "2026.09.04. 10:49",
