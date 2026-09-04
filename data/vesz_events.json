@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T18:41:30.315225+00:00",
-  "count": 3008,
+  "updated_at": "2026-09-04T18:45:31.475363+00:00",
+  "count": 3009,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91666",
+      "datetime": "2026.09.04. 20:45",
+      "title": "Traktor és autó ütközött a 441-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91666",
+      "lead": "Nyársapátnál az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Egy személygépkocsi és egy traktor karambolozott Nyársapát térségében, a Nagykőrösi úton, azaz a 441-es főút 9-es kilométerénél. A nagykőrösi önkormányzati tűzoltók végzik a műszaki mentést, amely során áramtalanították a személyautót. A mentőszolgálat is a helyszínen dolgozik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyársapát, 441",
+      "updates": []
+    },
     {
       "id": "91665",
       "datetime": "2026.09.04. 20:40",
