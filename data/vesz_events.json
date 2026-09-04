@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T14:17:54.935568+00:00",
-  "count": 2997,
+  "updated_at": "2026-09-04T14:21:24.352520+00:00",
+  "count": 2998,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91655",
+      "datetime": "2026.09.04. 16:18",
+      "title": "Utoléréses baleset történt Mosonmagyaróváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91655",
+      "lead": "A tűzoltók két járművet áramtalanítottak.",
+      "body": "Négy személygépkocsi karambolozott Mosonmagyaróváron, a Kossuth Lajos utcában, a Hunyadi János utca közelében. A lébényi és a mosonmagyaróvári hivatásos tűzoltók végzik a műszaki mentést. A rajok két járművet áramtalanítottak. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Mosonmagyaróvár, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91654",
       "datetime": "2026.09.04. 15:21",
