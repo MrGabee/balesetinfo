@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T13:20:27.482956+00:00",
-  "count": 2996,
+  "updated_at": "2026-09-04T13:23:44.967147+00:00",
+  "count": 2997,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91654",
+      "datetime": "2026.09.04. 15:21",
+      "title": "Tűzhelyen felejtett étel füstölt egy veszprémi lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91654",
+      "lead": "A Csillag utcába riasztották a tűzoltókat.",
+      "body": "Tűzhelyen felejtett étel füstölt egy veszprémi lakóház egyik lakásában, a Csillag utcában. A lakás füsttel telítődött. A balatonfűzfői hivatásos tűzoltók dolgoznak a helyszínen, átszellőztetik az ingatlant.",
+      "location": "Veszprém, Csillag utca",
+      "updates": []
+    },
     {
       "id": "91653",
       "datetime": "2026.09.04. 15:02",
