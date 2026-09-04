@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T07:37:29.682585+00:00",
-  "count": 2985,
+  "updated_at": "2026-09-04T07:41:08.874967+00:00",
+  "count": 2986,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91643",
+      "datetime": "2026.09.04. 09:40",
+      "title": "Összeütközött két autó Hatvanban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91643",
+      "lead": "A Rákóczi út és a Turai út kereszteződésénél forgalomkorlátozásra kell számítani.",
+      "body": "Karambolozott két személyautó Hatvanban, a Rákóczi út, azaz a 3-as főút és a Turai út kereszteződésében. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másiknál nem volt szükség ilyen beavatkozásra. A baleset helyszínén forgalomkorlátozásra kell számítani.",
+      "location": "Hatvan, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "91642",
       "datetime": "2026.09.04. 09:04",
