@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T17:39:18.177344+00:00",
-  "count": 3004,
+  "updated_at": "2026-09-04T17:42:53.779057+00:00",
+  "count": 3005,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91662",
+      "datetime": "2026.09.04. 19:41",
+      "title": "Tűz van Türje külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91662",
+      "lead": "Aljnövényzet és egy épület ég.",
+      "body": "Tűz keletkezett Türje külterületén, a Kopaszhegynél. Aljnövényzet és egy épület ég. A zalaegerszegi és a keszthelyi hivatásos, valamint, a zalaszentgróti önkormányzati tűzoltók a Zala vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A munkálatokat egy keszthelyi vízszállító jármű is segíti.",
+      "location": "Türje, Kopaszhegy",
+      "updates": []
+    },
     {
       "id": "91661",
       "datetime": "2026.09.04. 19:19",
