@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T11:30:57.562672+00:00",
-  "count": 2991,
+  "updated_at": "2026-09-04T11:34:44.713589+00:00",
+  "count": 2992,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91649",
+      "datetime": "2026.09.04. 13:33",
+      "title": "Égett egy autó Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91649",
+      "lead": "A tűzoltók a Sajószög utcában fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személyautó Miskolcon, egy Sajószög utcai parkolóban. A jármű utastere égett. A város hivatásos tűzoltói megakadályozták a lángok továbbterjedését, eloltották a tüzet, majd megkezdték az utómunkálatokat, és áramtalanítják a gépkocsit.",
+      "location": "Miskolc, József Attila utca",
+      "updates": []
+    },
     {
       "id": "91648",
       "datetime": "2026.09.04. 13:08",
