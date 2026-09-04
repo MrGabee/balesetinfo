@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T13:02:26.413338+00:00",
-  "count": 2995,
+  "updated_at": "2026-09-04T13:05:44.097650+00:00",
+  "count": 2996,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91653",
+      "datetime": "2026.09.04. 15:02",
+      "title": "Száraz fű, gaz és aljnövényzet ég Ács határánál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91653",
+      "lead": "A lángokat már körülhatárolták.",
+      "body": "Kigyulladt a száraz fű, a gaz és az aljnövényzet Ács határánál, az M1-es autópálya 97-es és 98-as kilométere közötti szakaszának közelében. Az ácsi, a komáromi és a kisbéri hivatásos, valamint az ácsi önkéntes tűzoltók két vízsugárral már körülhatárolták a lángokat. A munkálatokat a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett végzik a rajok. Az oltást egy győri vízszállító jármű és két munkagép is segíti.",
+      "location": "Ács, M1 közelében",
+      "updates": []
+    },
     {
       "id": "91652",
       "datetime": "2026.09.04. 14:51",
