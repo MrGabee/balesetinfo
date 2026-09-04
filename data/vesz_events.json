@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T12:23:50.787195+00:00",
-  "count": 2992,
+  "updated_at": "2026-09-04T12:26:57.826432+00:00",
+  "count": 2993,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91650",
+      "datetime": "2026.09.04. 14:23",
+      "title": "Baleset történt az M6-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91650",
+      "lead": "Adony közelében avatkoztak be a tűzoltók.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M6-os autópálya Pécs felé vezető oldalán, Adony közelében, az 56. és az 57. kilométer között. Mintegy harminc-negyven négyzetméteren az aljnövényzet is kigyulladt, de a pusztaszabolcsi hivatásos tűzoltók kiérkezésekor már csak füstölt. A raj megszüntette a füstölést, és áramtalanította a gépkocsit, amelyben ketten utaztak.",
+      "location": "Adony, M6",
+      "updates": []
+    },
     {
       "id": "91649",
       "datetime": "2026.09.04. 13:33",
