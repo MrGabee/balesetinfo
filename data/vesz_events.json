@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T05:48:16.648936+00:00",
-  "count": 2980,
+  "updated_at": "2026-09-04T05:52:22.750586+00:00",
+  "count": 2981,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91638",
+      "datetime": "2026.09.04. 07:50",
+      "title": "Kigyulladt egy melléképület Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91638",
+      "lead": "A Szirom utcába a városi tűzoltók több egysége vonult.",
+      "body": "Kigyulladt egy melléképület Szegeden, a Szirom utcában. A nagyjából húsz négyzetméteres épület lángjai kis területen, de elérték a főépület tetőszerkezetét is. A szegedi hivatásos tűzoltók két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek több vízsugárral eloltották a tüzet, és megbontották a ház tetejét is, hogy megszüntessék az izzásokat. A munkálatok közben két sértetlen, háztartási méretű gázpalackot is a szabadba vittek. A beavatkozást a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A helyszínre mentő is érkezett.",
+      "location": "Szeged, Szirom utca",
+      "updates": []
+    },
     {
       "id": "91637",
       "datetime": "2026.09.04. 07:03",
@@ -378,16 +389,7 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.09.03. 08:42",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91607/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91607"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91606",
