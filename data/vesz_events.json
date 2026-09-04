@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T18:24:02.774464+00:00",
-  "count": 3005,
+  "updated_at": "2026-09-04T18:27:42.090148+00:00",
+  "count": 3006,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91663",
+      "datetime": "2026.09.04. 20:27",
+      "title": "Ötös karambol az M7-esen, Érdnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91663",
+      "lead": "A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "body": "Összeütközött öt személygépkocsi Érd térségében, az M7-es autópálya 18-as kilométerénél, a Győr felé vezető oldalon. Az utoléréses balesethez a törökbálinti hivatásos tűzoltókat riasztották. A társhatóságok is a helyszínre érkeztek. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Érd, M7",
+      "updates": []
+    },
     {
       "id": "91662",
       "datetime": "2026.09.04. 19:41 -",
