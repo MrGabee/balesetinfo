@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T11:06:07.575748+00:00",
-  "count": 2990,
+  "updated_at": "2026-09-04T11:09:51.510780+00:00",
+  "count": 2991,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91648",
+      "datetime": "2026.09.04. 13:08",
+      "title": "Karambol Csákánydoroszlónál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91648",
+      "lead": "Három autó ütközött.",
+      "body": "Összeütközött három személygépkocsi Csákánydoroszlónál, a 8-as főút és a 7452-es út kereszteződésénél. A műszaki mentési munkálatok elvégzéséhez a körmendi hivatásos tűzoltók vonultak ki. Az egység áramtalanított két járművet. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Csákánydoroszló, 8",
+      "updates": []
+    },
     {
       "id": "91647",
       "datetime": "2026.09.04. 12:46",
@@ -421,9 +432,9 @@
       "title": "Traktor és személykocsi karambolozott az 5301-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91612",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 68-as kilométernél a kalocsai tűzoltók avatkoznak be.",
+      "body": "Hátulról beleszaladt egy fűnyíró traktorba egy személyautó a 5301-es úton, Kalocsa és Halom között, a nagy kanyarban. Mindkét járműben csak annak vezetője utazott, a helyszínre mentő is érkezett. A kalocsai hivatásos tűzoltók áramtalanítottak.",
+      "location": "Homokmégy, 5301",
       "updates": []
     },
     {
