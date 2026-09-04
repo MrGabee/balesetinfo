@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T14:45:30.718500+00:00",
-  "count": 2998,
+  "updated_at": "2026-09-04T14:48:45.519093+00:00",
+  "count": 2999,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91656",
+      "datetime": "2026.09.04. 16:46",
+      "title": "Ráfutásos baleset az M1-es és az M7-es közös szakszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91656",
+      "lead": "Budaörsnél történt a karambol.",
+      "body": "Összeütközött két személygépkocsi Budaörsnél, az M1-es és az M7-es autópálya közös szakszán, a 9-es kilométerénél, a Székesfehérvár felé vezető oldalon. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak ki. A társhatóságokat is a helyszínre riasztották.",
+      "location": "Budaörs, M1-M7",
+      "updates": []
+    },
     {
       "id": "91655",
       "datetime": "2026.09.04. 16:18",
