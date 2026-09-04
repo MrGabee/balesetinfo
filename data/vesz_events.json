@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T18:31:19.434572+00:00",
-  "count": 3006,
+  "updated_at": "2026-09-04T18:34:34.745842+00:00",
+  "count": 3007,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91664",
+      "datetime": "2026.09.04. 20:33",
+      "title": "Tetejére borult egy autó Vaján",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91664",
+      "lead": "A járműbe egy ember beszorult.",
+      "body": "Tetejére borult egy személygépkocsi Vaján, a Rohodi úton, azaz 49-es főút 2-es kilométerénél. A baleset következtében a járműbe egy ember beszorult, őt a baktalórántházai hivatásos tűzoltók szabadították ki. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Vaja, 49",
+      "updates": []
+    },
     {
       "id": "91663",
       "datetime": "2026.09.04. 20:27",
