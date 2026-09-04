@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T17:17:46.931062+00:00",
-  "count": 3003,
+  "updated_at": "2026-09-04T17:21:12.285404+00:00",
+  "count": 3004,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91661",
+      "datetime": "2026.09.04. 19:19",
+      "title": "Karambol történt Balatonfőkajárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91661",
+      "lead": "A 7107-es út érintett szakaszán félpályán halad a forgalom.",
+      "body": "Összeütközött egy személyautó és egy kombájn Balatonfőkajárnál, a 7107-es út 2-as kilométerénél. A polgárdi önkormányzati tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Balatonfőkajár, 7107",
+      "updates": []
+    },
     {
       "id": "91660",
       "datetime": "2026.09.04. 18:58",
