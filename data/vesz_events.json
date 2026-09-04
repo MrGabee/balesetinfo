@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T16:55:51.514948+00:00",
-  "count": 3002,
+  "updated_at": "2026-09-04T16:59:42.471522+00:00",
+  "count": 3003,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91660",
+      "datetime": "2026.09.04. 18:58",
+      "title": "Szalagkorlátnak ütközött egy autó az M85-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91660",
+      "lead": "Forgalmi akadály van.",
+      "body": "Szalagkorlátnak ütközött egy személyautó Ikrénynél, az M85-ös autóút 3-as kilométerénél, a Győr felé vezető oldalon. A győri hivatásos tűzoltókat riasztották a balesethez. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Ikrény, M85",
+      "updates": []
+    },
     {
       "id": "91659",
       "datetime": "2026.09.04. 18:39",
