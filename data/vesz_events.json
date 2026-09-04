@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:27:51.969683+00:00",
+  "updated_at": "2026-09-04T14:31:30.502307+00:00",
   "count": 2998,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "91653",
-      "datetime": "2026.09.04. 15:02",
+      "datetime": "2026.09.04. 15:02 -",
       "title": "Száraz fű, gaz és aljnövényzet ég Ács határánál",
-      "category": "Tűzeset",
+      "category": "Száraz fű, gaz és aljnövényzet ég Ács határánál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91653",
       "lead": "A lángokat már körülhatárolták.",
       "body": "Kigyulladt a száraz fű, a gaz és az aljnövényzet Ács határánál, az M1-es autópálya 97-es és 98-as kilométere közötti szakaszának közelében. Az ácsi, a komáromi és a kisbéri hivatásos, valamint az ácsi önkéntes tűzoltók két vízsugárral már körülhatárolták a lángokat. A munkálatokat a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett végzik a rajok. Az oltást egy győri vízszállító jármű és két munkagép is segíti.",
       "location": "Ács, M1 közelében",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Ács határánál",
+          "datetime": "2026.09.04. 16:28",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Ács határánál, az M1-es autópálya 97-es és 98-as kilométere közötti szakaszának közelében, ahol mintegy hat hektáron tarló és az erdő aljnövényzet égett. A Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett az ácsi, a komáromi és a kisbéri hivatásos, valamint az ácsi önkéntes tűzoltók öt vízsugárral és kéziszerszámokkal fékezték meg a lángokat. A munkálatokat egy győri vízszállító jármű és két munkagép is segítette a helyszínen.",
+          "location": "Ács, M1 közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91653/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91653"
+        }
+      ]
     },
     {
       "id": "91652",
