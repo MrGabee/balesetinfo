@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-09-04T18:20:36.452147+00:00",
+  "updated_at": "2026-09-04T18:24:02.774464+00:00",
   "count": 3005,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "91662",
-      "datetime": "2026.09.04. 19:41",
+      "datetime": "2026.09.04. 19:41 -",
       "title": "Tűz van Türje külterületén",
-      "category": "Tűzeset",
+      "category": "Tűz van Türje külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91662",
       "lead": "Aljnövényzet és egy épület ég.",
       "body": "Tűz keletkezett Türje külterületén, a Kopaszhegynél. Aljnövényzet és egy épület ég. A zalaegerszegi és a keszthelyi hivatásos, valamint, a zalaszentgróti önkormányzati tűzoltók a Zala vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A munkálatokat egy keszthelyi vízszállító jármű is segíti.",
       "location": "Türje, Kopaszhegy",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Türje külterületén",
+          "datetime": "2026.09.04. 20:21",
+          "category": "Tűzeset",
+          "text": "Elfojtották a lángokat Türje külterületén Kopaszhegynél, ahol mintegy három hektáron aljnövényzet égett le, valamint egy harminckét négyzetméteres használaton kívüli pince is kigyulladt. A Zala vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a zalaegerszegi és a keszthelyi hivatásos, valamint, a zalaszentgróti önkormányzati tűzoltók fékezték meg a tüzet. Egy keszthelyi és egy zalaegerszegi vízszállító jármű is segíti a munkálatokat.",
+          "location": "Türje, Kopaszhegy",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91662/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91662"
+        }
+      ]
     },
     {
       "id": "91661",
