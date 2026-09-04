@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T06:06:44.562739+00:00",
-  "count": 2981,
+  "updated_at": "2026-09-04T06:10:34.732357+00:00",
+  "count": 2982,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91639",
+      "datetime": "2026.09.04. 08:09",
+      "title": "Felborult egy autó a 3-as főúton, Füzesabony közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91639",
+      "lead": "A 127-128-as kilométer között történt a baleset.",
+      "body": "Felborult egy személykocsi a 3-as főút 127-128-as kilométere között. A Füzesabony közelében történt balesethez a város hivatásos tűzoltói vonultak. Az egység áramtalanította a kerékpárútra borult járművet. A kocsiban csak a sofőr utazott, mentő érkezett hozzá.",
+      "location": "Füzesabony, 3",
+      "updates": []
+    },
     {
       "id": "91638",
       "datetime": "2026.09.04. 07:50",
