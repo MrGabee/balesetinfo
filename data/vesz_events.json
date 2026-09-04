@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T18:37:59.407533+00:00",
-  "count": 3007,
+  "updated_at": "2026-09-04T18:41:30.315225+00:00",
+  "count": 3008,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91665",
+      "datetime": "2026.09.04. 20:40",
+      "title": "Présház égett Kaposvár külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91665",
+      "lead": "A Bojtorján utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy présház Kaposvár külterületén, a Bojtorján utcában. A kaposvári hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A munkálatokat a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Kaposvár, Bojtorján utca",
+      "updates": []
+    },
     {
       "id": "91664",
       "datetime": "2026.09.04. 20:33",
