@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T12:48:16.479679+00:00",
-  "count": 2994,
+  "updated_at": "2026-09-04T12:51:42.964172+00:00",
+  "count": 2995,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91652",
+      "datetime": "2026.09.04. 14:51",
+      "title": "Két kisteherautó ütközött a 4-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91652",
+      "lead": "Hajdúszoboszlónál történt a baleset.",
+      "body": "Összeütközött két kisteherautó Hajdúszoboszló külterületén, a Kabai úton, azaz a 4-es főút 199-es kilométerénél. A hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Hajdúszoboszló, Kabai út",
+      "updates": []
+    },
     {
       "id": "91651",
       "datetime": "2026.09.04. 14:42",
