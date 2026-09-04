@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T05:00:32.822418+00:00",
-  "count": 2979,
+  "updated_at": "2026-09-04T05:03:48.172091+00:00",
+  "count": 2980,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91637",
+      "datetime": "2026.09.04. 07:03",
+      "title": "Kisebb tűz volt egy budapesti, harmadik kerületi társasházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91637",
+      "lead": "A Nagyszombat utcában a pincében keletkezett tűz.",
+      "body": "Fa elválasztó elem izzott egy budapesti, harmadik kerületi társasház pincéjében. A Nagyszombat utcai helyszínre a fővárosi hivatásos tűzoltók két egysége vonult. A pincét légzésvédelem mellett hőkamerával átvizsgálták, és kiderült, hogy a tárolók közötti fa elválasztó elem izzott. Az egységek vízsugárral és kéziszerszámokkal avatkoztak be. A tűzoltók átszellőztetik a pincét. Az eset bejelentőjéhez mentőt riasztottak.",
+      "location": "Budapest, Nagyszombat utca",
+      "updates": []
+    },
     {
       "id": "91636",
       "datetime": "2026.09.04. 06:52",
