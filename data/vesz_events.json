@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T12:41:04.265013+00:00",
-  "count": 2993,
+  "updated_at": "2026-09-04T12:44:51.380131+00:00",
+  "count": 2994,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91651",
+      "datetime": "2026.09.04. 14:42",
+      "title": "Két autó ütközött Tiszakécskén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91651",
+      "lead": "A Fő úton történt a baleset.",
+      "body": "Karambolozott két személygépkocsi Tiszakécskén, a Fő úton, a Lehel utca közelében. A helyi önkormányzati tűzoltók végzik a műszaki mentést, amely során áramtalanítják az egyik járművet. A mentőszolgálat is a helyszínen dolgozik.",
+      "location": "Tiszakécske, Fő út",
+      "updates": []
+    },
     {
       "id": "91650",
       "datetime": "2026.09.04. 14:23",
