@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T10:35:13.060013+00:00",
-  "count": 2988,
+  "updated_at": "2026-09-04T10:38:32.704512+00:00",
+  "count": 2989,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91646",
+      "datetime": "2026.09.04. 12:38",
+      "title": "Tűz van Balatonszabadiban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91646",
+      "lead": "A Kölcsey Ferenc utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett Balatonszabadiban, a Kölcsey Ferenc utcában. Mintegy kétezer négyzetméteren több telket érintenek a lángok. Ég egy lakóház tetőszerkezete és egy melléképület is. A siófoki hivatásos tűzoltók oltják a tüzet, és a helyszínre indult több más egység is.",
+      "location": "Balatonszabadi, Kölcsey Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91645",
       "datetime": "2026.09.04. 12:02",
