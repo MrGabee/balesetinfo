@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T07:01:22.852863+00:00",
-  "count": 2984,
+  "updated_at": "2026-09-04T07:04:58.591705+00:00",
+  "count": 2985,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91642",
+      "datetime": "2026.09.04. 09:04",
+      "title": "Autók égtek Karcagon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91642",
+      "lead": "A Pálya utcában csaptak fel a lángok, amelyeket megfékeztek a tűzoltók.",
+      "body": "Kigyulladt két személygépkocsi egy családi ház udvarán, Karcagon, a Pálya utcában. Égett egy mintegy tíz négyzetméteres fészer is. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat, amelyek a lakóházra nem terjedtek át. A rajok utómunkálatokat végeznek.",
+      "location": "Karcag, Pálya utca",
+      "updates": []
+    },
     {
       "id": "91641",
       "datetime": "2026.09.04. 08:55",
