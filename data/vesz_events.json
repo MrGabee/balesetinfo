@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T14:48:45.519093+00:00",
-  "count": 2999,
+  "updated_at": "2026-09-04T14:52:12.551015+00:00",
+  "count": 3000,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91657",
+      "datetime": "2026.09.04. 16:51",
+      "title": "Árokba csapódott egy kisteherautó a 66-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91657",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Árokba csapódott egy kisteherautó Mánfánál, a 66-os főút 9-es kilométerénél. A komlói hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Mánfa, 66",
+      "updates": []
+    },
     {
       "id": "91656",
       "datetime": "2026.09.04. 16:46",
