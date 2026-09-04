@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T10:45:33.626356+00:00",
-  "count": 2989,
+  "updated_at": "2026-09-04T10:48:53.206542+00:00",
+  "count": 2990,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91647",
+      "datetime": "2026.09.04. 12:46",
+      "title": "Autótűz Budaörsön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91647",
+      "lead": "Teljes terjedelmében égett egy jármű a Szivárvány utcában.",
+      "body": "Kigyulladt egy személyautó Budaörsön, a Szivárvány utcában. Teljes terjedelmében égett a jármű, és a mellette lévő gépkocsit is érintette a tűz. A törökbálinti hivatásos tűzoltók két habosított vízsugárral eloltották a lángokat, majd megkezdték az utómunkálatokat.",
+      "location": "Budaörs, Szivárvány utca",
+      "updates": []
+    },
     {
       "id": "91646",
       "datetime": "2026.09.04. 12:38",
