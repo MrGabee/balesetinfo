@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T15:37:08.106615+00:00",
-  "count": 3000,
+  "updated_at": "2026-09-04T15:40:56.881976+00:00",
+  "count": 3001,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91658",
+      "datetime": "2026.09.04. 17:39",
+      "title": "Hulladéktelepen keletkezett tűz Oroszlány külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91658",
+      "lead": "A száraz fűre is átterjedt a tűz.",
+      "body": "Hulladék ég egy szeméttelepen, Oroszlány külterületén. A tűz a száraz fűre is átterjedt. A tatabánya hivatásos, az oroszlányi önkormányzati, valamint a kecskédi és oroszlányi önkéntes tűzoltók négy vízsugárral oltják a lángokat. A munkálatokat egy tatabányai vízszállító jármű és két munkagép is segíti.",
+      "location": "Pusztavám, külterület",
+      "updates": []
+    },
     {
       "id": "91657",
       "datetime": "2026.09.04. 16:51",
