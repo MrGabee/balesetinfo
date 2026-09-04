@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-04T08:46:56.609781+00:00",
-  "count": 2986,
+  "updated_at": "2026-09-04T08:50:45.339970+00:00",
+  "count": 2987,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91644",
+      "datetime": "2026.09.04. 10:49",
+      "title": "Tűz keletkezett Vámosszabadiban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91644",
+      "lead": "Az Újfalusi utcában dolgoznak a tűzoltó.",
+      "body": "Kigyulladt egy száz négyzetméteres építmény tetőszerkezete Vámosszabadiban, az Újfalusi utcában. A győri hivatásos tűzoltókat riasztották a helyszínre. A rajok két vízsugárral elfojtották a lángokat.",
+      "location": "Vámosszabadi, Újfalusi utca",
+      "updates": []
+    },
     {
       "id": "91643",
       "datetime": "2026.09.04. 09:40",
