@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T18:32:09.954954+00:00",
-  "count": 3043,
+  "updated_at": "2026-09-05T18:35:33.164086+00:00",
+  "count": 3044,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91701",
+      "datetime": "2026.09.05. 20:34",
+      "title": "Kigyulladt egy autó Görcsöny és Pellérd között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91701",
+      "lead": "A munkálatok idejére félpályán lezárták az 5801-es út érintett szakaszát.",
+      "body": "Kigyulladt egy gépkocsi motortere, és a jármű utastere is égett Görcsöny és Pellérd között, az 5801-es út 8-as kilométerszelvényénél. A pécsi hivatásos tűzoltók egy vízsugárral előbb körülhatárolták, majd eloltották a jármű lángjait. A munkálatok idejére félpályán lezárták az érintett útszakaszt.",
+      "location": "Görcsöny, Keresztespuszta",
+      "updates": []
+    },
     {
       "id": "91700",
       "datetime": "2026.09.05. 20:27",
