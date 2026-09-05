@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T19:41:07.100607+00:00",
-  "count": 3044,
+  "updated_at": "2026-09-05T19:44:30.280952+00:00",
+  "count": 3045,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91702",
+      "datetime": "2026.09.05. 21:41",
+      "title": "Négyes karambol történt Szentendrén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91702",
+      "lead": "Félpályán halad a forgalom a Dunakanyar körút érintett szakaszán.",
+      "body": "Négy gépkocsi ütközött össze Szentendrén, a 11-es főút Dunakanyar körúti szakaszán, a Barackos út közelében. A város hivatásos tűzoltói két járművet áramtalanítottak. A baleset miatt félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Szentendre, Dunakanyar körút",
+      "updates": []
+    },
     {
       "id": "91701",
       "datetime": "2026.09.05. 20:34",
