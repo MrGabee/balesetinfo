@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T10:34:40.114448+00:00",
-  "count": 3026,
+  "updated_at": "2026-09-05T10:38:13.817621+00:00",
+  "count": 3027,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91684",
+      "datetime": "2026.09.05. 12:34",
+      "title": "Utoléréses baleset történt a 4-esen, Debrecennél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91684",
+      "lead": "A tűzoltók mindegyik járművet áramtalanítják.",
+      "body": "Utoléréses balesetet szenvedett három gépkocsi a 4-es főút 220-as kilométerszelvényénél, Debrecen térségében. Összesen heten utaztak a járművekben, amelyek áramtalanítását a debreceni hivatásos tűzoltók már megkezdték. Az egység és a társhatóságok félpályás útlezárás mellett dolgoznak.",
+      "location": "Debrecen, 4",
+      "updates": []
+    },
     {
       "id": "91683",
       "datetime": "2026.09.05. 12:30",
