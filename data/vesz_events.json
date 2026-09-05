@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T09:24:07.095885+00:00",
-  "count": 3020,
+  "updated_at": "2026-09-05T09:27:27.899531+00:00",
+  "count": 3021,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91678",
+      "datetime": "2026.09.05. 11:24",
+      "title": "Autók égnek Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91678",
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Több személyautó ég teljes egészében Szegeden, a Czibula utcánál. Információk szerint a tűz két faházat is elért. A szegedi és a hódmezővásárhelyi hivatásos tűzoltók két vízsugárral oltják a lángokat. Az esethez tartanak a ruzsai hivatásos tűzoltók is.",
+      "location": "Szeged, Czibula utca",
+      "updates": []
+    },
     {
       "id": "91677",
       "datetime": "2026.09.05. 10:16",
