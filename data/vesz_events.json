@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T04:56:20.365665+00:00",
-  "count": 3012,
+  "updated_at": "2026-09-05T04:59:33.162589+00:00",
+  "count": 3013,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91670",
+      "datetime": "2026.09.05. 06:58",
+      "title": "Kamion és autó ütközött az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91670",
+      "lead": "A sztráda főváros felé vezető szakaszán egy sávon halad a forgalom.",
+      "body": "Összeütközött egy személygépkocsi és egy kamion Biatorbágynál, az M1-es autópálya 17-es kilométerénél, a Budapest felé vezető oldalon. A törökbálinti hivatásos tűzoltókat riasztották a balesethez. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Biatorbágy, M1",
+      "updates": []
+    },
     {
       "id": "91669",
       "datetime": "2026.09.05. 06:53",
