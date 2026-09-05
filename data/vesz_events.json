@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T13:09:46.486917+00:00",
-  "count": 3035,
+  "updated_at": "2026-09-05T13:13:19.165517+00:00",
+  "count": 3036,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91693",
+      "datetime": "2026.09.05. 15:11",
+      "title": "Tűz ütött ki egy szentesi tanyán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91693",
+      "lead": "A tűzoltók megkezdték az oltási munkálatokat.",
+      "body": "Az erdő aljnövényzete ég Szentesen, a Dónát tanyánál. A tűz beterjedt egy elzárt területre, ahol szalmabálák és az összehordott hulladék is égni kezdtek, és a terület mögötti nádas is lángra kapott. A szolnoki hivatásos tűzoltók egy vízsugárral, puttonyfecskendővel, kéziszerszámokkal oltják a lángokat. A helyszínre Orosházáról, Hódmezővásárhelyről, Kecskemétről és Kunszentmártonból is elindult a segítség.",
+      "location": "Szentes, Dónát tanya",
+      "updates": []
+    },
     {
       "id": "91692",
       "datetime": "2026.09.05. 15:04",
