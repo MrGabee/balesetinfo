@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T07:41:41.252972+00:00",
-  "count": 3017,
+  "updated_at": "2026-09-05T07:45:23.196512+00:00",
+  "count": 3018,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91675",
+      "datetime": "2026.09.05. 09:44",
+      "title": "Szalmabálák égtek Kiskunfélegyháza külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91675",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Tíz szalmabála és egy pótkocsi égett egy fóliaház alatt Kiskunfélegyháza külterületén, a III. körzet tanyán. A tűzben egy húsz négyzetméteres, nyitott melléképület is leégett. A kiskunfélegyházi hivatásos tűzoltók két vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik.",
+      "location": "Kiskunfélegyháza, III. körzet tanya",
+      "updates": []
+    },
     {
       "id": "91674",
       "datetime": "2026.09.05. 09:31",
