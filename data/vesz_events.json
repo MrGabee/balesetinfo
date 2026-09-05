@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:17:12.531882+00:00",
+  "updated_at": "2026-09-05T16:20:32.647771+00:00",
   "count": 3039,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "91693",
-      "datetime": "2026.09.05. 15:11",
+      "datetime": "2026.09.05. 15:11 -",
       "title": "Tűz ütött ki egy szentesi tanyán",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy szentesi tanyán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91693",
       "lead": "A tűzoltók megkezdték az oltási munkálatokat.",
       "body": "Az erdő aljnövényzete ég Szentesen, a Dónát tanyánál. A tűz beterjedt egy elzárt területre, ahol szalmabálák és az összehordott hulladék is égni kezdtek, és a terület mögötti nádas is lángra kapott. A szolnoki hivatásos tűzoltók egy vízsugárral, puttonyfecskendővel, kéziszerszámokkal oltják a lángokat. A helyszínre Orosházáról, Hódmezővásárhelyről, Kecskemétről és Kunszentmártonból is elindult a segítség.",
       "location": "Szentes, Dónát tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet a szentesi Dónát tanyánál is",
+          "datetime": "2026.09.05. 18:19",
+          "category": "Tűzeset",
+          "text": "Vízsugarakkal, puttonyfecskendővel és kéziszerszámokkal eloltották a lángokat a tűzoltók Szentesen, a Dónát tanyánál, ahol az erdő aljnövényzete égett. A tűz beterjedt egy elzárt területre, ahol szalmabálák és az összehordott hulladék is égni kezdtek, és a terület mögötti nádas is lángra kapott. A szolnoki hivatásos tűzoltókat követően Orosházáról, Hódmezővásárhelyről, Kecskemétről, Szentesről és Kunszentmártonból hivatásos, Fábiánsebestyénről önkéntes tűzoltók is érkeztek az esethez. Az egységek megkezdték az utómunkálatokat.",
+          "location": "Szentes, Dónát tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91693/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91693"
+        }
+      ]
     },
     {
       "id": "91692",
