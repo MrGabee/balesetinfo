@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T10:27:52.626240+00:00",
-  "count": 3025,
+  "updated_at": "2026-09-05T10:31:16.200906+00:00",
+  "count": 3026,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91683",
+      "datetime": "2026.09.05. 12:30",
+      "title": "Erdős rész ég Szeged külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91683",
+      "lead": "A tűzoltók négy vízsugárral oltják a lángokat.",
+      "body": "Egy erdős rész ég Szegeden, a Régi posta út, a Tengely utca, a Felvidéki sor melletti külterületen. A szegedi, a makói, a csongrádi hivatásos és a subasai önkéntes tűzoltók mellett a szentesi és a kiskunfélegyházi hivatásos tűzoltók vízszállítója is a helyszínre érkezett. Az egységek négy vízsugárral oltják a lángokat a katasztrófavédelmi műveleti szolgálat irányítása mellett. Munkájukat három erőgép segíti a helyszínen.",
+      "location": "Szeged, Tapolcsányi utca",
+      "updates": []
+    },
     {
       "id": "91682",
       "datetime": "2026.09.05. 12:22",
