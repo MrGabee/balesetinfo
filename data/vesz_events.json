@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T09:30:55.714819+00:00",
-  "count": 3021,
+  "updated_at": "2026-09-05T09:34:18.887124+00:00",
+  "count": 3022,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91679",
+      "datetime": "2026.09.05. 11:32",
+      "title": "Árokba hajtott egy autó Bekölcén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91679",
+      "lead": "Félpályán lezárták a Béke út érintett szakaszát.",
+      "body": "Árokba hajtott, majd hídkorlátnak ütközött egy gépkocsi Bekölcén, a Béke út elején. A bélapátfalvai önkormányzati tűzoltók áramtalanították a bajba került járművet, amelyben csak a vezetője utazott. Az egység és a társhatóságok félpályás útlezárás mellett dolgoznak a helyszínen.",
+      "location": "Bekölce, Béke út",
+      "updates": []
+    },
     {
       "id": "91678",
       "datetime": "2026.09.05. 11:24",
