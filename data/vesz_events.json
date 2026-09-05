@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T16:42:17.119787+00:00",
-  "count": 3039,
+  "updated_at": "2026-09-05T16:45:54.788247+00:00",
+  "count": 3040,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91697",
+      "datetime": "2026.09.05. 18:42",
+      "title": "Frontális karambol történt Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91697",
+      "lead": "Lezárták a Megyeri út érintett szakaszát a baleset miatt.",
+      "body": "Frontálisan ütközött össze két gépkocsi a IV. kerületi Megyeri úton, a stadion melletti szakaszon. A fővárosi hivatásos tűzoltók érkeztek a helyszínre, ahol lezárták az érintett útszakaszt a baleset miatt. A korlátozás a közösségi közlekedési járművek haladását is érinti, ezért az egység a közlekedési társaság szakembereinek értesítését kérte.",
+      "location": "Budapest, Megyeri út",
+      "updates": []
+    },
     {
       "id": "91696",
       "datetime": "2026.09.05. 18:01",
