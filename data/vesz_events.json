@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T11:40:48.634007+00:00",
-  "count": 3029,
+  "updated_at": "2026-09-05T11:44:23.182249+00:00",
+  "count": 3030,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91687",
+      "datetime": "2026.09.05. 13:41",
+      "title": "Ég a tarló Szentesen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91687",
+      "lead": "A tűz több kertre is átterjedt.",
+      "body": "Két hektáron ég a tarló Szentes külterületén, a 451-es főút mellett. A tűz több zártkertre is átterjedt, egy lakatlan tanyát is elért. A szentesi és az orosházi hivatásos tűzoltók három vízsugárral oltják a lángokat, a munkálatok közben kélt tanyáról kihoztak két lakót. A helyszínre további egységek indultak el.",
+      "location": "Szentes, Alsórét tanya",
+      "updates": []
+    },
     {
       "id": "91686",
       "datetime": "2026.09.05. 12:50",
