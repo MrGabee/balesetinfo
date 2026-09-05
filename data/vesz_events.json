@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T10:02:46.049190+00:00",
-  "count": 3022,
+  "updated_at": "2026-09-05T10:06:28.750061+00:00",
+  "count": 3023,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91680",
+      "datetime": "2026.09.05. 12:05",
+      "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91680",
+      "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91679",
       "datetime": "2026.09.05. 11:32",
