@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T04:52:33.153762+00:00",
-  "count": 3011,
+  "updated_at": "2026-09-05T04:56:20.365665+00:00",
+  "count": 3012,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91669",
+      "datetime": "2026.09.05. 06:53",
+      "title": "Bálázó égett Madocsa külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91669",
+      "lead": "A tűzoltók egy vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy bálázógép Madocsa külterületén. Mintegy kétszáz méteren a tűz a jármű körül lévő területet is érintette. A paksi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Utómunkálatokat végeznek jelenleg.",
+      "location": "Madocsa, Külterület",
+      "updates": []
+    },
     {
       "id": "91668",
       "datetime": "2026.09.04. 23:44",
