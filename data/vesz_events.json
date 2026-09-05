@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:51:22.747055+00:00",
+  "updated_at": "2026-09-05T12:55:14.435133+00:00",
   "count": 3033,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "Lakóházak állnak a tűztől hat-nyolcszáz méterre.",
       "body": "A vasúti töltés mellett háromszáz méter hosszan ég a gaz Somogyszentpál külterületén. A töltéstől két-háromszáz méterre egy nagyobb területen is tűz van. A marcali és a keszthelyi hivatásos tűzoltók dolgoznak a helyszínen, a zalakarosi és a pacsai hivatásos, valamint a kéthelyi önkéntes tűzoltók mellett a katasztrófavédelmi műveleti szolgálat is elindult az esethez. A tűztől hat-nyolcszáz méterre lakóházak állnak, a helyi tulajdonosok két lajtos kocsit küldenek a területre.",
       "location": "Somogyszentpál, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Somogyszentpál külterületén",
+          "datetime": "2026.09.05. 14:50",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Somogyszentpál külterületén, ahol a vasúti töltés mellett, valamint a töltéstől két-háromszáz méterre is égett a gaz. A marcali, a keszthelyi, a zalakarosi és a pacsai hivatásos, valamint a kéthelyi önkéntes tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak a tűz elfojtásán. Az egységek megkezdték az utómunkálatokat.",
+          "location": "Somogyszentpál, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91686/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91686"
+        }
+      ]
     },
     {
       "id": "91685",
