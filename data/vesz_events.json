@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T06:56:36.558534+00:00",
-  "count": 3015,
+  "updated_at": "2026-09-05T06:59:59.526615+00:00",
+  "count": 3016,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91673",
+      "datetime": "2026.09.05. 08:59",
+      "title": "Árokba borult egy tréler a 2-esen, Borsosberénynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91673",
+      "lead": "A tűzoltók megkezdték az áramtalanítást.",
+      "body": "Árokba hajtott egy utánfutós tréler a 2-es főút 63-as kilométerszelvényénél, Borsosberény térségében. A jármű három autót szállított. A rétsági hivatásos tűzoltók megkezdték a szállító és a szállított járművek áramtalanítását. Az érintett útszakaszon félpályán, irányítás mellett halad a forgalom.",
+      "location": "Borsosberény, 2",
+      "updates": []
+    },
     {
       "id": "91672",
       "datetime": "2026.09.05. 08:45",
