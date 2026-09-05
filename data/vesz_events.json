@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T16:45:54.788247+00:00",
-  "count": 3040,
+  "updated_at": "2026-09-05T16:49:03.300155+00:00",
+  "count": 3041,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91698",
+      "datetime": "2026.09.05. 18:47",
+      "title": "Motorossal ütközött össze egy személyautó Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91698",
+      "lead": "A tűzoltók eltávolítják az úttestre került szennyeződést.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó a XXI. kerületi Petőfi utcában. A fővárosi hivatásos tűzoltók megkezdték az úttestre került szennyeződés eltávolítását. Az egység a társhatóságot is a helyszínre várja.",
+      "location": "Budapest, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "91697",
       "datetime": "2026.09.05. 18:42",
