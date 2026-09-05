@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T13:02:43.753591+00:00",
-  "count": 3034,
+  "updated_at": "2026-09-05T13:05:59.770241+00:00",
+  "count": 3035,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91692",
+      "datetime": "2026.09.05. 15:04",
+      "title": "Két autó karambolozott a 7-esen, Balatonvilágosnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91692",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi karambolozott Balatonvilágos térségében, a 7-es főút és a 7118-as út találkozásánál. Az összesen három utas saját erejéből el tudta hagyni a járműveket, amelyeket a siófoki hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Balatonvilágos, 7",
+      "updates": []
+    },
     {
       "id": "91691",
       "datetime": "2026.09.05. 14:56",
