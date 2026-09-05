@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T05:56:01.419448+00:00",
-  "count": 3013,
+  "updated_at": "2026-09-05T05:59:30.697222+00:00",
+  "count": 3014,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91671",
+      "datetime": "2026.09.05. 07:59",
+      "title": "Két autó karambolozott Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91671",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két személygépkocsi karambolozott Kaposváron, a Bajcsy-Zsilinszky utca, a Szent Imre utca és a Széchenyi tér kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Kaposvár, Bajcsy-Zsilinszky utca",
+      "updates": []
+    },
     {
       "id": "91670",
       "datetime": "2026.09.05. 06:58",
