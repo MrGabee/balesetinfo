@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T14:32:37.267443+00:00",
-  "count": 3037,
+  "updated_at": "2026-09-05T14:36:44.637176+00:00",
+  "count": 3038,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91695",
+      "datetime": "2026.09.05. 16:34",
+      "title": "Két autó karambolozott Lenti és Kerkateskánd között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91695",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Összeütközött két gépkocsi Lenti és Kerkateskánd között, a 7538-as főút 25-ös kilométerszelvényénél. A lenti hivatásos tűzoltók áramtalanították az egyik járművet. Az egység mellett a társhatóságok is kiérkeztek a balesethez.",
+      "location": "Kerkateskánd, 7538",
+      "updates": []
+    },
     {
       "id": "91694",
       "datetime": "2026.09.05. 15:33",
