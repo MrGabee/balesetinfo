@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:57:56.097696+00:00",
+  "updated_at": "2026-09-05T12:01:21.968500+00:00",
   "count": 3032,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -104,14 +104,23 @@
     },
     {
       "id": "91680",
-      "datetime": "2026.09.05. 12:05",
+      "datetime": "2026.09.05. 12:05 -",
       "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
-      "category": "Meteorológiai riasztás",
+      "category": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91680",
       "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a HungaroMet az erős szél veszélye miatt kiadott elsőfokú riasztást",
+          "datetime": "2026.09.05. 13:58",
+          "category": "Meteorológiai riasztás",
+          "text": "Visszavonta a HungaroMet az erős szél veszélye miatt korábban kiadott elsőfokú riasztást, a zivatarok kialakulása miatt kiadott elsőfokú riasztás azonban továbbra is érvényben van. Az elsőfokú riasztásokról a lenti hivatkozáson elérhető térképről tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91680/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91680"
+        }
+      ]
     },
     {
       "id": "91679",
