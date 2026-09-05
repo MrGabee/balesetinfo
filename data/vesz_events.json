@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T21:02:33.499428+00:00",
-  "count": 3045,
+  "updated_at": "2026-09-05T21:06:12.417888+00:00",
+  "count": 3046,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91703",
+      "datetime": "2026.09.05. 23:06",
+      "title": "Elgázolt egy embert egy személyvonat Sülysápon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91703",
+      "lead": "A tűzoltók az állomásra kísérik az utasokat.",
+      "body": "Elgázolt egy embert egy személyvonat Sülysápon, a Magdolna utca melletti szakaszon. A szerelvényen negyvenen utaztak. A balesethez a nagykátai hivatásos és a sülysápi önkéntes tűzoltók, valamint a mentők érkeztek ki. Az egységek a Szőlősnyaraló állomásra kísérik az utasokat.",
+      "location": "Sülysáp, Magdolna utca",
+      "updates": []
+    },
     {
       "id": "91702",
       "datetime": "2026.09.05. 21:41",
