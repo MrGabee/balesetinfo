@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T10:38:13.817621+00:00",
-  "count": 3027,
+  "updated_at": "2026-09-05T10:41:41.112272+00:00",
+  "count": 3028,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91685",
+      "datetime": "2026.09.05. 12:40",
+      "title": "Árokba borult egy autó a 31-esen, Maglódnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91685",
+      "lead": "A balesethez mentőhelikopter is érkezett, a forgalom félpályán halad.",
+      "body": "Árokba borult egy gépkocsi a 31-es főút 29-es kilométerszelvényénél, Maglód térségében. Csak a vezetője utazott a járműben, amelyet a monori hivatásos és a gyömrői önkéntes tűzoltók áramtalanítanak. A balesethez az egységek és a mentők járművei mellett mentőhelikopter is érkezett, az érintett útszakaszt félpályán lezárták.",
+      "location": "Maglód, 31",
+      "updates": []
+    },
     {
       "id": "91684",
       "datetime": "2026.09.05. 12:34",
