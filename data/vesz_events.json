@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T15:59:21.159736+00:00",
-  "count": 3038,
+  "updated_at": "2026-09-05T16:03:05.888533+00:00",
+  "count": 3039,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91696",
+      "datetime": "2026.09.05. 18:01",
+      "title": "Árokba hajtott egy motoros Tiszaszentimre és Tiszaszőlős között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91696",
+      "lead": "A hatósági munkálatok idejére lezárták a 3217-es út érintett szakaszát.",
+      "body": "Árokba hajtott egy segédmotoros Tiszaszentimre és Tiszaszőlős között, a 3217-es út 19-es kilométerszelvényénél. A jármű vezetőjét a tiszafüredi hivatásos tűzoltók a mentőkkel együttműködve hozták fel az árokból. A balesethez mentőhelikopter is érkezett, az érintett útszakaszt lezárták a hatósági munkálatok idejére.",
+      "location": "Tiszaszentimre, 3217",
+      "updates": []
+    },
     {
       "id": "91695",
       "datetime": "2026.09.05. 16:34",
