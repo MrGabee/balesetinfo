@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T12:43:54.467380+00:00",
-  "count": 3032,
+  "updated_at": "2026-09-05T12:47:35.125534+00:00",
+  "count": 3033,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91690",
+      "datetime": "2026.09.05. 14:46",
+      "title": "Baleset történt Kunszentmártonnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91690",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Két gépkocsi ütközött össze a 44-es és a 45-ös főutak kereszteződésénél, Kunszentmárton térségében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen hárman utaztak. Az egység a helyszínelést követően megszünteti a forgalmi akadályt, amely miatt jelenleg félpályán halad a közlekedés az érintett útszakaszon.",
+      "location": "Kunszentmárton, 44",
+      "updates": []
+    },
     {
       "id": "91689",
       "datetime": "2026.09.05. 13:50",
