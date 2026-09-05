@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T11:47:11.950820+00:00",
-  "count": 3031,
+  "updated_at": "2026-09-05T11:51:09.429994+00:00",
+  "count": 3032,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91689",
+      "datetime": "2026.09.05. 13:50",
+      "title": "Villanyoszlopnak ütközött egy autó Aranyosapátiban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91689",
+      "lead": "A tűzoltók szabadítanak ki egy utast a kocsiból.",
+      "body": "Villanyoszlopnak ütközött egy gépkocsi Aranyosapátiban, a Petőfi Sándor utcában. A járműbe egy utas beszorult, a mátészalkai hivatásos tűzoltók feszítővágó segítségével kezdték meg kiszabadítását. A balesethez a kisvárdai hivatásos tűzoltók és a társhatóságok is kiérkeztek.",
+      "location": "Aranyosapáti, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "91688",
       "datetime": "2026.09.05. 13:45",
