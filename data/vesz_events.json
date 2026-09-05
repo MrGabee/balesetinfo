@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T13:31:08.247772+00:00",
-  "count": 3036,
+  "updated_at": "2026-09-05T13:34:44.191289+00:00",
+  "count": 3037,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91694",
+      "datetime": "2026.09.05. 15:33",
+      "title": "Kigyulladt egy mezőgazdasági gép Őcsényben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91694",
+      "lead": "A tűzoltók négy vízsugárral oltották el a lángokat.",
+      "body": "Munkálatok közben kigyulladt egy homlokrakodó gép Őcsényben, a Rózsa utca utáni területen. A tűz átterjedt a gép környezetében található raklapokra, valamint az aljnövényzetre. A szekszárdi hivatásos tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat.",
+      "location": "Őcsény, Rózsa utca",
+      "updates": []
+    },
     {
       "id": "91693",
       "datetime": "2026.09.05. 15:11",
