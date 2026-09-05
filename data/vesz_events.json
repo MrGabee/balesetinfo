@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T06:42:53.753103+00:00",
-  "count": 3014,
+  "updated_at": "2026-09-05T06:46:30.543422+00:00",
+  "count": 3015,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91672",
+      "datetime": "2026.09.05. 08:45",
+      "title": "Összeütközött két autó Pilis településen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91672",
+      "lead": "Forgalmi akadály alakult ki a Kossuth Lajos út érintett szakaszán.",
+      "body": "Két gépkocsi ütközött össze Pilis településen, a 4-es főút Kossuth Lajos úti szakaszán, a Mikes Kelemen utca közelében. Összesen hárman utaztak a járművekben, amelyeket a monori hivatásos tűzoltók áramtalanítottak. Az egység mellett a társhatóságok is kiérkeztek a balesethez, amely miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Pilis, Kossuth Lajos út",
+      "updates": []
+    },
     {
       "id": "91671",
       "datetime": "2026.09.05. 07:59",
