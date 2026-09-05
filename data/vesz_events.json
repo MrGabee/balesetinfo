@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T08:15:06.646970+00:00",
-  "count": 3019,
+  "updated_at": "2026-09-05T08:18:22.994730+00:00",
+  "count": 3020,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91677",
+      "datetime": "2026.09.05. 10:16",
+      "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91677",
+      "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91676",
       "datetime": "2026.09.05. 09:56",
@@ -225,19 +236,10 @@
       "title": "Hulladéktelepen keletkezett tűz Oroszlány külterületén",
       "category": "Hulladéktelepen keletkezett tűz Oroszlány külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91658",
-      "lead": "A száraz fűre is átterjedt a tűz.",
-      "body": "Hulladék ég egy szeméttelepen, Oroszlány külterületén. A tűz a száraz fűre is átterjedt. A tatabányai hivatásos, az oroszlányi önkormányzati, valamint a kecskédi és oroszlányi önkéntes tűzoltók négy vízsugárral oltják a lángokat. A munkálatokat egy tatabányai vízszállító jármű és két munkagép is segíti.",
-      "location": "Pusztavám, külterület",
-      "updates": [
-        {
-          "title": "A tűzoltók az utómunkálatokat végzik Oroszlány külterületén",
-          "datetime": "2026.09.04. 18:24",
-          "category": "Tűzeset",
-          "text": "Körülbelül négyezer négyzetméteren égett a szemét egy hulladéktelepen, Oroszlány külterületén. A tűz a száraz fűre is átterjedt. A tatabányai hivatásos, az oroszlányi önkormányzati, valamint a kecskédi és oroszlányi önkéntes tűzoltók négy vízsugárral, kéziszerszámokkal és két munkagéppel, valamint egy tatabányai és egy nyergesújfalui vízszállító jármű segítségével oltották el a lángokat. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Pusztavám, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91658/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91658"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91657",
