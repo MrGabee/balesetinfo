@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T18:24:36.369254+00:00",
-  "count": 3042,
+  "updated_at": "2026-09-05T18:28:05.554137+00:00",
+  "count": 3043,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91700",
+      "datetime": "2026.09.05. 20:27",
+      "title": "Villanyoszlopnak hajtott egy autó Őrön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91700",
+      "lead": "Az oszlop kitört, a vezetékek tartják.",
+      "body": "Villanyoszlopnak ütközött egy gépkocsi Őrön, a 49-es főút Rákóczi Ferenc utcai szakaszán, a Széchenyi István utcánál. Az oszlop kitört az ütközés erejétől, a vezetékek tartják. A mátészalkai hivatásos tűzoltók megkezdték a jármű áramtalanítását. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Őr, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91699",
       "datetime": "2026.09.05. 20:06",
