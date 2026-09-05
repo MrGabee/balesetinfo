@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T18:02:16.718136+00:00",
-  "count": 3041,
+  "updated_at": "2026-09-05T18:06:21.109644+00:00",
+  "count": 3042,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91699",
+      "datetime": "2026.09.05. 20:06",
+      "title": "Villanyoszlopnak ütközött egy autó Pilis településen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91699",
+      "lead": "Félpályán halad a forgalom a Kossuth Lajos út érintett szakaszán.",
+      "body": "Letért az úttestről, majd villanyoszlopnak ütközött egy gépkocsi Pilis településen, a 4-es főút Kossuth Lajos úti szakaszán, a Toldi Miklós utcai kereszteződésnél. Az ütközés erejétől az oszlop kettétört. A monori hivatásos tűzoltók áramtalanították a járművet, valamint az áramszolgáltató szakembereit kérték a helyszínre az eltört oszlop miatt. Az egység és a mentők félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Pilis, Kossuth Lajos út",
+      "updates": []
+    },
     {
       "id": "91698",
       "datetime": "2026.09.05. 18:47",
