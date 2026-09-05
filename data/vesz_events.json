@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T10:20:56.824326+00:00",
-  "count": 3024,
+  "updated_at": "2026-09-05T10:24:17.248765+00:00",
+  "count": 3025,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91682",
+      "datetime": "2026.09.05. 12:22",
+      "title": "Árokba hajtott egy autó Tiszanána és Sarud között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91682",
+      "lead": "Félpályán lezárták a 3213-as út érintett szakaszát.",
+      "body": "Megcsúszott az úttesten, majd oldalával az árokba borult egy gépkocsi Tiszanána és Sarud között, a 3213-as út 10-es kilométerszelvényénél. A tiszanánai önkormányzati tűzoltók áramtalanították a járművet, amelyben négyen utaztak. A balesethez a mentők is kiérkeztek, az egységgel együttműködve félpályás útlezárás mellett dolgoznak.",
+      "location": "Tiszanána, 3213",
+      "updates": []
+    },
     {
       "id": "91681",
       "datetime": "2026.09.05. 12:18",
