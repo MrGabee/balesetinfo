@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:10:04.509600+00:00",
+  "updated_at": "2026-09-05T16:13:27.600932+00:00",
   "count": 3039,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -113,14 +113,23 @@
     },
     {
       "id": "91687",
-      "datetime": "2026.09.05. 13:41",
+      "datetime": "2026.09.05. 13:41 -",
       "title": "Ég a tarló Szentesen",
-      "category": "Tűzeset",
+      "category": "Ég a tarló Szentesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91687",
       "lead": "A tűz több kertre is átterjedt.",
       "body": "Két hektáron ég a tarló Szentes külterületén, a 451-es főút mellett. A tűz több zártkertre is átterjedt, egy lakatlan tanyát is elért. A szentesi és az orosházi hivatásos tűzoltók három vízsugárral oltják a lángokat, a munkálatok közben kélt tanyáról kihoztak két lakót. A helyszínre további egységek indultak el.",
       "location": "Szentes, Alsórét tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók a szentesi tarlótűznél",
+          "datetime": "2026.09.05. 18:12",
+          "category": "Tűzeset",
+          "text": "Megkezdték az utómunkálatokat a tűzoltók Szentes külterületén, a 451-es főút mellett, ahol hat hektáron égett a legelő, a búzatarló, illetve tizenöt körbála is leégett. A tűz több zártkertre is átterjedt, ahol gyümölcsös égett és trágya izzott, valamint egy romos, lakatlan tanyát is elértek a lángok. A szentesi, az orosházi és a szarvasi hivatásos, továbbá a mindszenti önkéntes tűzoltók több vízsugárral oltották a tüzet, a munkálatok közben két tanyáról kihoztak két lakót.",
+          "location": "Szentes, Alsórét tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91687/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91687"
+        }
+      ]
     },
     {
       "id": "91686",
