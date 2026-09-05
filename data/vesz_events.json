@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-05T10:17:00.640164+00:00",
-  "count": 3023,
+  "updated_at": "2026-09-05T10:20:56.824326+00:00",
+  "count": 3024,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91681",
+      "datetime": "2026.09.05. 12:18",
+      "title": "Ráfutásos baleset történt az M1-esen, Győrnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91681",
+      "lead": "Egy sávon halad a forgalom a Hegyeshalom felé vezető irányban.",
+      "body": "Két gépkocsi szenvedett ráfutásos balesetet az M1-es autópálya 121-es kilométerszelvényénél, Győr térségében, a Hegyeshalom felé vezető oldalon. A győri hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. Az érintett pályaszakaszon egy sávon halad a forgalom a karambol miatt.",
+      "location": "Győr, M1",
+      "updates": []
+    },
     {
       "id": "91680",
       "datetime": "2026.09.05. 12:05",
