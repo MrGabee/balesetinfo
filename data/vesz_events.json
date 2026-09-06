@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T12:46:29.706790+00:00",
-  "count": 3055,
+  "updated_at": "2026-09-06T12:50:04.137935+00:00",
+  "count": 3056,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91713",
+      "datetime": "2026.09.06. 14:48",
+      "title": "Erdős terület égett Kiszombor határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91713",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Tűz keletkezett mintegy öt hektárnyi területen Kiszombor határában. A tűz erdős területet érintett. A makói, a hódmezővásárhelyi és a szegedi hivatásos tűzoltók hat vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kiszombor, Fortner tanya",
+      "updates": []
+    },
     {
       "id": "91712",
       "datetime": "2026.09.06. 14:07",
