@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T10:41:26.227788+00:00",
-  "count": 3050,
+  "updated_at": "2026-09-06T10:44:51.976508+00:00",
+  "count": 3051,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91708",
+      "datetime": "2026.09.06. 12:42",
+      "title": "Árokba hajtott egy autó a 84-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91708",
+      "lead": "Újkér közelében félpályán halad a forgalom.",
+      "body": "Lesodródott az útról és árokba hajtott egy személygépkocsi a 84-es főúton, Újkér közelében, a 91-es kilométerszelvénynél. A sopronkövesdi hivatásos és a lövői önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Újkér, Fő utca",
+      "updates": []
+    },
     {
       "id": "91707",
       "datetime": "2026.09.06. 12:21",
