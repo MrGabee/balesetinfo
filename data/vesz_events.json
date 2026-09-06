@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T15:56:11.992193+00:00",
+  "updated_at": "2026-09-06T15:59:54.646426+00:00",
   "count": 3062,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -67,7 +67,16 @@
       "lead": "A tűzoltók több vízsugárral oltják a lángokat.",
       "body": "Nagy területen ég a száraz fű Versend külterületén. A Baranya vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a mohácsi, a villányi, a véméndi és a pécsi hivatásos, illetve a palkonya-újppetrei és a majsi önkéntes tűzoltók oltják a lángokat.  A helyszínre tartanak további egységek is.",
       "location": "Versend, Dankó Pista utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Versendnél",
+          "datetime": "2026.09.06. 17:54",
+          "category": "Tűzeset",
+          "text": "Tíz hektárnyi száraz fű égett Versend külterületén. A Baranya vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a mohácsi, a villányi, a véméndi, a komlói és a pécsi hivatásos, illetve a palkonya-újpetrei és a majsi önkéntes tűzoltók érkeztek ki. A rajok több vízsugárral elfojtották a lángokat és az utómunkálatokat végzik.",
+          "location": "Versend, Dankó Pista utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91714/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91714"
+        }
+      ]
     },
     {
       "id": "91713",
