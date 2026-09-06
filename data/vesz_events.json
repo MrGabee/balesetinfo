@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T12:03:41.273349+00:00",
-  "count": 3054,
+  "updated_at": "2026-09-06T12:07:08.721449+00:00",
+  "count": 3055,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91712",
+      "datetime": "2026.09.06. 14:07",
+      "title": "Karambol a 8415-ös úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91712",
+      "lead": "Boba és Egyházashetye között teljes szélességében lezárták az utat.",
+      "body": "Összeütközött egy kisbusz és egy személygépjármű a 8415-ös úton, Boba és Egyházashetye között, a 10-es kilométerszelvénynél. A celldömölki önkormányzati és önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Boba, Berzsenyi utca",
+      "updates": []
+    },
     {
       "id": "91711",
       "datetime": "2026.09.06. 13:17",
