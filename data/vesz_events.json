@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T16:14:00.088927+00:00",
-  "count": 3062,
+  "updated_at": "2026-09-06T16:17:20.219894+00:00",
+  "count": 3063,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91720",
+      "datetime": "2026.09.06. 18:15",
+      "title": "Baleset történt az M4-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91720",
+      "lead": "Monor közelében félpályán halad a forgalom.",
+      "body": "Utoléréses balesetet szenvedett egy tréler és egy személygépkocsi az M4-es autóúton, Szolnok felé, Monor közelében, a 36-os kilométerszelvénynél. A monori hivatásos tűzoltók áramtalanították a személyautót. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Péteri, Haleszi kert",
+      "updates": []
+    },
     {
       "id": "91719",
       "datetime": "2026.09.06. 17:43",
