@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T11:03:19.927818+00:00",
-  "count": 3052,
+  "updated_at": "2026-09-06T11:06:48.324448+00:00",
+  "count": 3053,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91710",
+      "datetime": "2026.09.06. 13:05",
+      "title": "Villamos és autó ütközött Budapest VIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91710",
+      "lead": "A Golgota térnél történt a baleset.",
+      "body": "Összeütközött egy személygépkocsi és egy villamos Budapest VIII. kerületében, a Golgota térnél. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. A baleset a közösségi közlekedés forgalmát akadályozza.",
+      "location": "Budapest, Golgota tér",
+      "updates": []
+    },
     {
       "id": "91709",
       "datetime": "2026.09.06. 12:48",
