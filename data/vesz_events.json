@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T11:17:00.132503+00:00",
-  "count": 3053,
+  "updated_at": "2026-09-06T11:20:52.363494+00:00",
+  "count": 3054,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91711",
+      "datetime": "2026.09.06. 13:17",
+      "title": "Három autó ütközött össze Nyúlon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91711",
+      "lead": "A Kossuth Lajos utcában félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött három személygépkocsi Nyúlon, a Kossuth Lajos utcában. A pannonhalmi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyúl, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91710",
       "datetime": "2026.09.06. 13:05",
