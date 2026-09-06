@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T17:57:30.747120+00:00",
-  "count": 3065,
+  "updated_at": "2026-09-06T18:01:02.913483+00:00",
+  "count": 3066,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91723",
+      "datetime": "2026.09.06. 20:00",
+      "title": "Erdő és ház égett Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91723",
+      "lead": "A Kecelhegyaljai úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy erdőben Kaposváron, a Kecelhegyaljai úton. A tűz egy elhagyatott ház tetőszerkezetét is érintette. A kaposvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kaposvár, Kecelhegyaljai út",
+      "updates": []
+    },
     {
       "id": "91722",
       "datetime": "2026.09.06. 19:25 -",
