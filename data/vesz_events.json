@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T07:06:52.049823+00:00",
-  "count": 3047,
+  "updated_at": "2026-09-06T07:10:45.666684+00:00",
+  "count": 3048,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91705",
+      "datetime": "2026.09.06. 09:07",
+      "title": "Kisbusz és autó ütközött a 6601-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91705",
+      "lead": "Oroszló és Mindszentgodisa elágazásánál teljes szélességében lezárták az utat.",
+      "body": "Összeütközött egy kisbusz és egy személygépkocsi a 6601-es úton, Oroszló és Mindszentgodisa elágazásánál, az 1-es kilométerszelvény közelében. A sásdi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mindszentgodisa, Vasútállomás",
+      "updates": []
+    },
     {
       "id": "91704",
       "datetime": "2026.09.06. 07:13",
