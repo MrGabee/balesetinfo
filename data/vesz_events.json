@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T05:12:48.452370+00:00",
-  "count": 3046,
+  "updated_at": "2026-09-06T05:16:26.648551+00:00",
+  "count": 3047,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91704",
+      "datetime": "2026.09.06. 07:13",
+      "title": "Árokba csapódott egy autó a 49-esen, Kocsordnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91704",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Lesodródott az úttestről, majd árokba csapódott egy gépkocsi a 49-es főút 22-es kilométerszelvényénél, Kocsord térségében. Négyen utaztak a bajba került járműben, amelyet a mátészalkai hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, valamint a közútkezelő szakembereit is a helyszínre kérték a szalagkorlát állapota miatt.",
+      "location": "Kocsord, 49",
+      "updates": []
+    },
     {
       "id": "91703",
       "datetime": "2026.09.05. 23:06",
