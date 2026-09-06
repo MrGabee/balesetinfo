@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:15:48.858314+00:00",
+  "updated_at": "2026-09-06T21:19:15.451562+00:00",
   "count": 3069,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -113,14 +113,23 @@
     },
     {
       "id": "91717",
-      "datetime": "2026.09.06. 16:38",
+      "datetime": "2026.09.06. 16:38 -",
       "title": "Nagy terület ég Újszentmargita határában",
-      "category": "Tűzeset",
+      "category": "Nagy terület ég Újszentmargita határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91717",
       "lead": "A tűzoltók több vízsugárral oltják a lángokat.",
       "body": "Nagy kiterjedésű terület ég Újszentmargita határában. A tűz több hektárnyi legelőt és mintegy két hektárnyi erdős aljnövényzetet érint. A Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a tiszafüredi, a hajdúszoboszlói, a debreceni hivatásos és az egyeki önkormányzati tűzoltók több vízsugárral oltják a lángokat. A tűzoltók munkáját két erőgép is segíti.",
       "location": "Újszentmargita, Erdő tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Újszentmargita határában",
+          "datetime": "2026.09.06. 23:17",
+          "category": "Tűzeset",
+          "text": "Nagy kiterjedésű terület égett Újszentmargita határában. A tűz száz hektárnyi legelőt és négy hektárnyi erdős aljnövényzetet érintett. A Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a tiszafüredi, a hajdúszoboszlói, a debreceni hivatásos és az egyeki önkormányzati tűzoltók több vízsugárral fojtották el a lángokat. A tűzoltók munkáját két erőgép is segítette. A rajok az utómunkálatokat végzik.",
+          "location": "Újszentmargita, Erdő tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91717/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91717"
+        }
+      ]
     },
     {
       "id": "91716",
