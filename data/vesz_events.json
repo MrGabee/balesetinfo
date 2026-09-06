@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T14:38:07.787878+00:00",
-  "count": 3059,
+  "updated_at": "2026-09-06T14:42:18.993107+00:00",
+  "count": 3060,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91717",
+      "datetime": "2026.09.06. 16:38",
+      "title": "Nagy terület ég Újszentmargita határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91717",
+      "lead": "A tűzoltók több vízsugárral oltják a lángokat.",
+      "body": "Nagy kiterjedésű terület ég Újszentmargita határában. A tűz több hektárnyi legelőt és mintegy két hektárnyi erdős aljnövényzetet érint. A Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a tiszafüredi, a hajdúszoboszlói, a debreceni hivatásos és az egyeki önkormányzati tűzoltók több vízsugárral oltják a lángokat. A tűzoltók munkáját két erőgép is segíti.",
+      "location": "Újszentmargita, Erdő tanya",
+      "updates": []
+    },
     {
       "id": "91716",
       "datetime": "2026.09.06. 16:27",
