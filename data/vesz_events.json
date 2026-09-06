@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T16:53:39.972511+00:00",
-  "count": 3063,
+  "updated_at": "2026-09-06T16:57:17.201875+00:00",
+  "count": 3064,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91721",
+      "datetime": "2026.09.06. 18:56",
+      "title": "Karambol Medgyesegyházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91721",
+      "lead": "A 4429-es úton forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi a 4429-es úton, Medgyesegyháza közelében. Az autókban összesen heten utaztak. A mezőkovácsházi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Medgyesegyháza, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "91720",
       "datetime": "2026.09.06. 18:15",
