@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T18:39:40.046812+00:00",
-  "count": 3067,
+  "updated_at": "2026-09-06T18:43:30.627074+00:00",
+  "count": 3068,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91725",
+      "datetime": "2026.09.06. 20:42",
+      "title": "Furgon és autó ütközött a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91725",
+      "lead": "Devecser közelében félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött egy lószállító furgon és egy személygépkocsi a 8-as főúton, Devecser közelében. Az ajkai hivatásos és a devecseri önkéntes tűzoltók áramtalanították a járműveket. A mentők is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Devecser, Olajtöltőállomás",
+      "updates": []
+    },
     {
       "id": "91724",
       "datetime": "2026.09.06. 20:16",
