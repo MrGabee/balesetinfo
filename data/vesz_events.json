@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T10:44:51.976508+00:00",
-  "count": 3051,
+  "updated_at": "2026-09-06T10:48:48.357374+00:00",
+  "count": 3052,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91709",
+      "datetime": "2026.09.06. 12:48",
+      "title": "Fának hajtott egy autó a 3315-ös úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91709",
+      "lead": "Tiszacsege és Újszentmargita között forgalmi akadály van.",
+      "body": "Fának ütközött egy személygépkocsi a 3315-ös úton, Tiszacsege és Újszentmargita között, a 25-ös kilométerszelvénynél. Az egyeki önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Újszentmargita, Pap tanya",
+      "updates": []
+    },
     {
       "id": "91708",
       "datetime": "2026.09.06. 12:42",
