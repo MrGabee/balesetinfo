@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T15:30:30.338034+00:00",
-  "count": 3060,
+  "updated_at": "2026-09-06T15:33:51.915964+00:00",
+  "count": 3061,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91718",
+      "datetime": "2026.09.06. 17:31",
+      "title": "Baleset történt Nadapon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91718",
+      "lead": "A tűzoltók áramtalanítottak egy járművet.",
+      "body": "Összeütközött két személygépkocsi Nadapon, a Haladás úton. Az autókban csak a sofőrök utaztak. A székesfehérvári hivatásos tűzoltók áramtalanították az egyik járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Nadap, Haladás út",
+      "updates": []
+    },
     {
       "id": "91717",
       "datetime": "2026.09.06. 16:38",
