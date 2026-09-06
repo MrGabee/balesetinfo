@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T18:14:50.148204+00:00",
-  "count": 3066,
+  "updated_at": "2026-09-06T18:18:34.476141+00:00",
+  "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91724",
+      "datetime": "2026.09.06. 20:16",
+      "title": "Kertészeti jármű égett Szombathelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91724",
+      "lead": "A Körmendi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy kertészeti jármű Szombathelyen, a Körmendi úton. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Szombathely, Körmendi út",
+      "updates": []
+    },
     {
       "id": "91723",
       "datetime": "2026.09.06. 20:00",
