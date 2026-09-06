@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T14:27:34.281281+00:00",
-  "count": 3058,
+  "updated_at": "2026-09-06T14:30:49.550995+00:00",
+  "count": 3059,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91716",
+      "datetime": "2026.09.06. 16:27",
+      "title": "Felborult egy autó az 54-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91716",
+      "lead": "Bócsa közelében félpályán halad a forgalom.",
+      "body": "Lesodródott az útról és felborult egy személygépkocsi az 54-es főúton, Bócsa közelében, a 34-es kilométerszelvénynél. A soltvadkerti önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Bócsa, II. körzet tanya",
+      "updates": []
+    },
     {
       "id": "91715",
       "datetime": "2026.09.06. 16:12",
