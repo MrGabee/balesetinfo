@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T08:00:48.822548+00:00",
-  "count": 3048,
+  "updated_at": "2026-09-06T08:04:37.401593+00:00",
+  "count": 3049,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91706",
+      "datetime": "2026.09.06. 10:04",
+      "title": "Baleset Pápán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91706",
+      "lead": "Az Aradi utca és az Ötödik utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Pápán, az Aradi utca és az Ötödik utca kereszteződésében. A pápai hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Pápa, Aradi utca",
+      "updates": []
+    },
     {
       "id": "91705",
       "datetime": "2026.09.06. 09:07",
