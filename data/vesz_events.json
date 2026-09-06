@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T14:08:34.051539+00:00",
-  "count": 3057,
+  "updated_at": "2026-09-06T14:12:24.910114+00:00",
+  "count": 3058,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91715",
+      "datetime": "2026.09.06. 16:12",
+      "title": "Robogó és autó ütközött Hetényegyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91715",
+      "lead": "A Kossuth Lajos utcában történt a baleset.",
+      "body": "Összeütközött egy robogó és egy személygépkocsi Hetényegyházán, a Kossuth Lajos utcában. A kecskeméti hivatásos tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett útszakaszon teljes szélességében lezárták az utat.",
+      "location": "Kecskemét, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91714",
       "datetime": "2026.09.06. 16:07",
