@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T15:40:53.035066+00:00",
-  "count": 3061,
+  "updated_at": "2026-09-06T15:44:59.158964+00:00",
+  "count": 3062,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91719",
+      "datetime": "2026.09.06. 17:43",
+      "title": "Filagória égett Mezőtúron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91719",
+      "lead": "A Piac térnél dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy filagória teteje Mezőtúron, a Piac térnél. A mezőtúri hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A tűz nem terjedt át más épületre. A raj az utómunkálatokat végzi.",
+      "location": "Mezőtúr, Piac tér",
+      "updates": []
+    },
     {
       "id": "91718",
       "datetime": "2026.09.06. 17:31",
