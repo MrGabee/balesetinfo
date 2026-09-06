@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-06T17:22:19.649449+00:00",
-  "count": 3064,
+  "updated_at": "2026-09-06T17:26:09.424690+00:00",
+  "count": 3065,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91722",
+      "datetime": "2026.09.06. 19:25",
+      "title": "Melléképület ég Debrecenben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91722",
+      "lead": "A Kőműves utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Debrecenben, a Kőműves utcában. A tűz átterjedt a lakóházra és egy autóra is. A debreceni és a berettyóújfalui hivatásos tűzoltók több vízsugárral oltják a lángokat.",
+      "location": "Debrecen, Kőműves utca",
+      "updates": []
+    },
     {
       "id": "91721",
       "datetime": "2026.09.06. 18:56",
