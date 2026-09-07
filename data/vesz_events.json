@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T07:18:27.448813+00:00",
-  "count": 3071,
+  "updated_at": "2026-09-07T07:22:08.255515+00:00",
+  "count": 3072,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91729",
+      "datetime": "2026.09.07. 09:19",
+      "title": "Felborult egy autó a 33-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91729",
+      "lead": "Hortobágy közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lesodródott az úttestről és a tetejére borult egy személyautó a 33-as főúton, Hortobágy közelében, a 61. kilométernél. A műszaki mentést végző balmazújvárosi önkormányzati tűzoltók áramtalanították a gépkocsit. A mentők is kivonultak a balesethez, amelynek helyszínén félpályán lezárták az utat.",
+      "location": "Hortobágy, 33",
+      "updates": []
+    },
     {
       "id": "91728",
       "datetime": "2026.09.07. 08:52",
@@ -366,9 +377,9 @@
       "title": "Motorossal ütközött össze egy személyautó Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91698",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eltávolítják az úttestre került szennyeződést.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó a XXI. kerületi Petőfi utcában. A fővárosi hivatásos tűzoltók megkezdték az úttestre került szennyeződés eltávolítását. Az egység a társhatóságot is a helyszínre várja.",
+      "location": "Budapest, Petőfi utca",
       "updates": []
     },
     {
