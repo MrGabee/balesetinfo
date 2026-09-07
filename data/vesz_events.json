@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T19:58:59.459856+00:00",
-  "count": 3096,
+  "updated_at": "2026-09-07T20:02:56.192200+00:00",
+  "count": 3097,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91754",
+      "datetime": "2026.09.07. 22:01",
+      "title": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91754",
+      "lead": "A Toborzó utcába vonultak a tűzoltók.",
+      "body": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében, a Toborzó utcánál. A tűz gyorsan terjed. A fővárosi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Budapest, Toborzó utca",
+      "updates": []
+    },
     {
       "id": "91753",
       "datetime": "2026.09.07. 21:37",
