@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T13:00:25.288403+00:00",
-  "count": 3083,
+  "updated_at": "2026-09-07T13:03:58.700082+00:00",
+  "count": 3084,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91741",
+      "datetime": "2026.09.07. 15:02",
+      "title": "Tűz volt egy sárvári lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91741",
+      "lead": "A konyha gyulladt ki a Gárdonyi Géza utcai ingatlanban.",
+      "body": "Kigyulladt egy társasház egyik lakása Sárváron, a Gárdonyi Géza utcában. A konyhában keletkezett tűz, amelynek továbbterjedését egy vízsugárral és kéziszerszámokkal megakadályozták a város hivatásos tűzoltói, majd eloltották a lángokat. A rajok átvizsgálták a szomszédos lakásokat, és kiszellőztetik az épületet.",
+      "location": "Sárvár, Gárdonyi Géza utca",
+      "updates": []
+    },
     {
       "id": "91740",
       "datetime": "2026.09.07. 14:43",
