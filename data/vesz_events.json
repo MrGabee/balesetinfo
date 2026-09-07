@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T09:10:18.269268+00:00",
-  "count": 3075,
+  "updated_at": "2026-09-07T09:13:58.580208+00:00",
+  "count": 3076,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91733",
+      "datetime": "2026.09.07. 11:12",
+      "title": "Vonat és személyautó ütközött Tiszavárkony és Jászkarajenő között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91733",
+      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
+      "body": "Vonat és személyautó ütközött össze a Tiszavárkony és Jászkarajenő közötti vasút átjáróban. A vonaton tíz fő utazott. A szolnoki hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő busz megérkezik a helyszínre.",
+      "location": "Tiszavárkony, Kő út",
+      "updates": []
+    },
     {
       "id": "91732",
       "datetime": "2026.09.07. 10:10",
