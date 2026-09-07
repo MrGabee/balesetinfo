@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T15:04:06.165200+00:00",
-  "count": 3091,
+  "updated_at": "2026-09-07T15:08:09.132412+00:00",
+  "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91749",
+      "datetime": "2026.09.07. 17:06",
+      "title": "Baleset történt Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91749",
+      "lead": "A 801-es főúton van szükség tűzoltói beavatkozásra.",
+      "body": "Két autó ütközött össze Székesfehérváron, a 801-es főút 3-as és 4-es kilométerszelvénye között. A város hivatásos tűzoltói áramtalanították a járműveket. A raj megszünteti a forgalmi akadályt.",
+      "location": "Székesfehérvár, 801",
+      "updates": []
+    },
     {
       "id": "91748",
       "datetime": "2026.09.07. 16:59",
