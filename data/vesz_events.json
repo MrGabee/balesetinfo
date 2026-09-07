@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-07T11:04:41.539260+00:00",
-  "count": 3077,
+  "updated_at": "2026-09-07T11:07:39.633768+00:00",
+  "count": 3079,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91736",
+      "datetime": "2026.09.07. 13:06",
+      "title": "Négyes karambol a XII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91736",
+      "lead": "A járművek akadályozzák a forgalmat az Istenhegyi úton.",
+      "body": "Karambolozott négy személyautó Budapest XII. kerületében, az Istenhegyi úton, a Kékgolyó utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A járművek akadályozzák a forgalmat.",
+      "location": "Budapest, Istenhegyi út",
+      "updates": []
+    },
+    {
+      "id": "91735",
+      "datetime": "2026.09.07. 13:04",
+      "title": "Tűz van Kecskemét közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735",
+      "lead": "A Méntelek tanyánál oltják a lángokat.",
+      "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
+      "location": "Kecskemét, Méntelek tanya",
+      "updates": []
+    },
     {
       "id": "91734",
       "datetime": "2026.09.07. 12:23",
