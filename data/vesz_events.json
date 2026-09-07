@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:16:46.697636+00:00",
+  "updated_at": "2026-09-07T12:20:10.586688+00:00",
   "count": 3082,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -172,9 +172,9 @@
       "title": "Furgon és autó ütközött a 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91725",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Devecser közelében félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött egy lószállító furgon és egy személygépkocsi a 8-as főúton, Devecser közelében. Az ajkai hivatásos és a devecseri önkéntes tűzoltók áramtalanították a járműveket. A mentők is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Devecser, Olajtöltőállomás",
       "updates": []
     },
     {
@@ -183,9 +183,9 @@
       "title": "Kertészeti jármű égett Szombathelyen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91724",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Körmendi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy kertészeti jármű Szombathelyen, a Körmendi úton. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Szombathely, Körmendi út",
       "updates": []
     },
     {
@@ -194,9 +194,9 @@
       "title": "Erdő és ház égett Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91723",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kecelhegyaljai úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy erdőben Kaposváron, a Kecelhegyaljai úton. A tűz egy elhagyatott ház tetőszerkezetét is érintette. A kaposvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kaposvár, Kecelhegyaljai út",
       "updates": []
     },
     {
