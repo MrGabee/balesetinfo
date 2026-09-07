@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T14:56:05.065147+00:00",
-  "count": 3090,
+  "updated_at": "2026-09-07T15:00:00.100282+00:00",
+  "count": 3091,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91748",
+      "datetime": "2026.09.07. 16:59",
+      "title": "Két autó ütközött Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91748",
+      "lead": "A 7-es főút és a Szajkó utca kereszteződésében dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személyautó Érden, a 7-es főút és a Szajkó utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Érd, Szajkó",
+      "updates": []
+    },
     {
       "id": "91747",
       "datetime": "2026.09.07. 16:37",
