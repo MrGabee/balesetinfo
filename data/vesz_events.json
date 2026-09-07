@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T11:17:49.245552+00:00",
-  "count": 3079,
+  "updated_at": "2026-09-07T11:21:20.048588+00:00",
+  "count": 3080,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91737",
+      "datetime": "2026.09.07. 13:19",
+      "title": "Kigyulladt egy furgon Tatabányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91737",
+      "lead": "Az Ótelep utcába riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében égett egy furgon Tatabányán, az Ótelep utcában. A tűz részben egy mellette parkoló személyautóra is átterjedt. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat.",
+      "location": "Tatabánya, Ótelep utca",
+      "updates": []
+    },
     {
       "id": "91736",
       "datetime": "2026.09.07. 13:06",
