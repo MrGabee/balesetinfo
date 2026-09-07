@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T11:59:09.282460+00:00",
+  "updated_at": "2026-09-07T12:02:38.182667+00:00",
   "count": 3081,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "91735",
-      "datetime": "2026.09.07. 13:04",
+      "datetime": "2026.09.07. 13:04 -",
       "title": "Tűz van Kecskemét közelében",
-      "category": "Tűzeset",
+      "category": "Tűz van Kecskemét közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735",
       "lead": "A Méntelek tanyánál oltják a lángokat.",
       "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Kecskemét, Méntelek tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Felügyelet mellett elégetik a bálákat Kecskemétnél",
+          "datetime": "2026.09.07. 14:00",
+          "category": "Tűzeset",
+          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók eloltották az épületben a tüzet, ami Kecskemét közelében, a Méntelek tanyán gyulladt ki. Az egységek egy gázpalackot is kihoztak az ingatlanból. A rajok erőgép segítségével az égő körbálákat megbontják, majd felügyelet mellett leégetik. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Kecskemét, Méntelek tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91735"
+        }
+      ]
     },
     {
       "id": "91734",
