@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T14:35:15.690767+00:00",
-  "count": 3089,
+  "updated_at": "2026-09-07T14:38:41.675751+00:00",
+  "count": 3090,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91747",
+      "datetime": "2026.09.07. 16:37",
+      "title": "Melléképület égett Salgótarjánnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91747",
+      "lead": "Pécskő pusztán fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Salgótarján külterületén, Pécskő pusztán. Teljes terjedelmében égett a műanyag hulladékok tárolásár használt építmény. A város hivatásos tűzoltói eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Salgótarján, Pécskő puszta",
+      "updates": []
+    },
     {
       "id": "91746",
       "datetime": "2026.09.07. 16:26",
