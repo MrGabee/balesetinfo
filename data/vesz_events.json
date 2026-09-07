@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T06:49:34.289304+00:00",
-  "count": 3070,
+  "updated_at": "2026-09-07T06:53:29.578385+00:00",
+  "count": 3071,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91728",
+      "datetime": "2026.09.07. 08:52",
+      "title": "Égett egy ház Somogysárdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91728",
+      "lead": "A tűzoltók a Fő utcában fékezték meg a lángokat.",
+      "body": "Kigyulladt egy lakóház Somogysárdon, a Fő utcában. Teljes terjedelmében égett a mintegy hatvan négyzetméteres ingatlan tetőszerkezete és a mellette lévő melléképület. A kaposvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A rajok kimentettek egy kutyát és kihoztak két gázpalackot a házból, ezek egyike előzőleg felhasadt. Az épület lakhatatlanná vált a tűz következtéében.",
+      "location": "Somogysárd, Fő utca",
+      "updates": []
+    },
     {
       "id": "91727",
       "datetime": "2026.09.07. 07:58",
