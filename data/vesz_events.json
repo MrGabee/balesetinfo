@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T16:19:40.425060+00:00",
-  "count": 3092,
+  "updated_at": "2026-09-07T16:23:16.161914+00:00",
+  "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91750",
+      "datetime": "2026.09.07. 18:21",
+      "title": "Karambol Zákányszék és Bordány között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91750",
+      "lead": "Az 5431-es és az 5432-es út kereszteződésében történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi ütközött össze Zákányszék és Bordány között, az 5431-es és az 5432-es út kereszteződésében. A ruzsai hivatásos tűzoltók és az Üllés Községi Tűzoltó Egyesület áramtalanítják a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Zákányszék, 5431-5432",
+      "updates": []
+    },
     {
       "id": "91749",
       "datetime": "2026.09.07. 17:06",
