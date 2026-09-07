@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T16:37:44.253639+00:00",
-  "count": 3093,
+  "updated_at": "2026-09-07T16:41:23.874678+00:00",
+  "count": 3094,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91751",
+      "datetime": "2026.09.07. 18:39",
+      "title": "Négyes karambol a 42-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91751",
+      "lead": "Berettyóújfalu közelében lezárták az utat.",
+      "body": "Egy traktor, egy kisbusz és két személyautó karambolozott a 42-es főúton Berettyóújfalu közelében, a 42-es kilométerszelvénynél. A műszaki mentést a berettyóújfalui hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Berettyóújfalu, 42",
+      "updates": []
+    },
     {
       "id": "91750",
       "datetime": "2026.09.07. 18:21",
