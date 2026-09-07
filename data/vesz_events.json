@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T12:13:15.269894+00:00",
-  "count": 3081,
+  "updated_at": "2026-09-07T12:16:46.697636+00:00",
+  "count": 3082,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91739",
+      "datetime": "2026.09.07. 14:15",
+      "title": "Kamion és autó karambolozott a 87-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91739",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből.",
+      "body": "Karambolozott egy sódert szállító nyerges vontató és egy személyautó a 87-es főúton, Gyöngyösfalu határában, a 37. kilométer közelében. A személygépkocsiba beszorult egy ember. Őt a jármű tetejének eltávolítása után szabadították ki, majd kiemelték és átadták a mentőknek a műszaki mentést végző szombathelyi hivatásos tűzoltók. A rajok áramtalanították a kamiont, amely felborult az út melletti szántóföldön. A műszaki mentést a Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyöngyösfalu, Vasút utca",
+      "updates": []
+    },
     {
       "id": "91738",
       "datetime": "2026.09.07. 13:25",
@@ -161,9 +172,9 @@
       "title": "Furgon és autó ütközött a 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91725",
-      "lead": "Devecser közelében félpályán halad a forgalom.",
-      "body": "Egymásnak ütközött egy lószállító furgon és egy személygépkocsi a 8-as főúton, Devecser közelében. Az ajkai hivatásos és a devecseri önkéntes tűzoltók áramtalanították a járműveket. A mentők is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Devecser, Olajtöltőállomás",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -172,9 +183,9 @@
       "title": "Kertészeti jármű égett Szombathelyen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91724",
-      "lead": "A Körmendi úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy kertészeti jármű Szombathelyen, a Körmendi úton. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat kezdi meg.",
-      "location": "Szombathely, Körmendi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -183,9 +194,9 @@
       "title": "Erdő és ház égett Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91723",
-      "lead": "A Kecelhegyaljai úton dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy erdőben Kaposváron, a Kecelhegyaljai úton. A tűz egy elhagyatott ház tetőszerkezetét is érintette. A kaposvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Kaposvár, Kecelhegyaljai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
