@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T11:24:45.655662+00:00",
-  "count": 3080,
+  "updated_at": "2026-09-07T11:28:14.613516+00:00",
+  "count": 3081,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91738",
+      "datetime": "2026.09.07. 13:25",
+      "title": "Melléképület égett Nagyrédén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91738",
+      "lead": "A Kossuth Lajos utcában kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt egy fa tárolására használt melléképület Nagyrédén, Kossuth Lajos utcában. Az egyik ott lakó még a gyöngyösi hivatásos tűzoltók kiérkezése előtt megkezdte a tűz oltását, amelyet a rajok fejeztek be. Az egységek egy vízsugárral és kéziszerszámokkal fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
+      "location": "Nagyréde, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91737",
       "datetime": "2026.09.07. 13:19",
