@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T18:44:12.905157+00:00",
-  "count": 3094,
+  "updated_at": "2026-09-07T18:47:43.721663+00:00",
+  "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91752",
+      "datetime": "2026.09.07. 20:45",
+      "title": "Villamossínen akadt fent egy autó Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91752",
+      "lead": "A Mester utcában fennakadásokra kell számítani a közösségi közlekedésben.",
+      "body": "Villamossínen akadt fent egy személyautó Budapest IX. kerületében, a Mester utca és a Tóth Kálmán utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszon fennakadásokra kell számítani a közösségi közlekedésben.",
+      "location": "Budapest, Mester utca",
+      "updates": []
+    },
     {
       "id": "91751",
       "datetime": "2026.09.07. 18:39",
