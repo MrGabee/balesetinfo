@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:46:59.391887+00:00",
+  "updated_at": "2026-09-07T17:50:36.984296+00:00",
   "count": 3094,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -142,7 +142,16 @@
       "lead": "Nagy területet érintenek a lángok.",
       "body": "Kigyulladt egy erdő aljnövényzete Pomáz és Pilisszentkereszt között. Nagy területet érint és gyorsan terjed a tűz, amelyet a szentendrei hivatásos és pomázi önkéntes tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Pomáz, Pomáz és Pilisszentkereszt között",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a tűzoltók Pomáznál",
+          "datetime": "2026.09.07. 19:51",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Pomáz és Pilisszentkereszt között, ahol erdő aljnövényzete égett. A tűz hat hektárnyi területet érintett. A lángokat a szentendrei és fővárosi hivatásos valamint a pomázi önkormányzati, leányfalui, pomázi és szentendrei önkéntes tűzoltók oltották el.",
+          "location": "Pomáz, Pomáz és Pilisszentkereszt között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91740/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91740"
+        }
+      ]
     },
     {
       "id": "91739",
