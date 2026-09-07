@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T19:33:57.263354+00:00",
-  "count": 3095,
+  "updated_at": "2026-09-07T19:37:30.976777+00:00",
+  "count": 3096,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91753",
+      "datetime": "2026.09.07. 21:37",
+      "title": "Mobilház égett Szabadbattyánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91753",
+      "lead": "A Napsugár dűlőn oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy mobilház Szabadbattyánban, a Napsugár dűlőn. A Székesfehérvári hivatásos és a sárvízi önkéntes tűzoltók két vízsugárral eloltották el a lángokat. A rajok egy gázpalackot is kihoztak az ingatlanból.",
+      "location": "Szabadbattyán, Napsugár dűlő",
+      "updates": []
+    },
     {
       "id": "91752",
       "datetime": "2026.09.07. 20:45",
