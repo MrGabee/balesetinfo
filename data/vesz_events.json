@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T08:07:02.855561+00:00",
-  "count": 3074,
+  "updated_at": "2026-09-07T08:10:53.525434+00:00",
+  "count": 3075,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91732",
+      "datetime": "2026.09.07. 10:10",
+      "title": "Egymásnak ütközött két autó Budapest XII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91732",
+      "lead": "Az Orbánhegyi út és a Tóth Lőrinc utca kereszteződésében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XII. kerületében, az Orbánhegyi út és a Tóth Lőrinc utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Orbánhegyi út",
+      "updates": []
+    },
     {
       "id": "91731",
       "datetime": "2026.09.07. 09:28",
@@ -139,9 +150,9 @@
       "title": "Baleset történt az M4-en",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91720",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Monor közelében félpályán halad a forgalom.",
+      "body": "Utoléréses balesetet szenvedett egy tréler és egy személygépkocsi az M4-es autóúton, Szolnok felé, Monor közelében, a 36-os kilométerszelvénynél. A monori hivatásos tűzoltók áramtalanították a személyautót. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Péteri, Haleszi kert",
       "updates": []
     },
     {
@@ -311,9 +322,9 @@
       "title": "Baleset Pápán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91706",
-      "lead": "Az Aradi utca és az Ötödik utca kereszteződésében forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Pápán, az Aradi utca és az Ötödik utca kereszteződésében. A pápai hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Pápa, Aradi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
