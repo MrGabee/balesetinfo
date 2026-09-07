@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:09:08.304339+00:00",
+  "updated_at": "2026-09-07T16:12:28.351076+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A tűz körülbelül nyolc hektárnyi területet érint.",
       "body": "Erdő aljnövényzete ég Újszentmargitán, a Petőfi utca közelében. A tűz körülbelül nyolc hektárnyi területet érint. A tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
       "location": "Újszentmargita, Petőfi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Újszentmargitán",
+          "datetime": "2026.09.07. 18:07",
+          "category": "Tűzeset",
+          "text": "Befejezték az utómunkálatokat Újszentmargitán, ahol erdő aljnövényzete és száraz fű égett a Petőfi utca közelében. A tűz öt hektárnyi területet érintett. A lángokat a tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók oltották el. A rajok munkáját egy hajdúnánási vízszállító is segítette.",
+          "location": "Újszentmargita, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91745/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91745"
+        }
+      ]
     },
     {
       "id": "91744",
