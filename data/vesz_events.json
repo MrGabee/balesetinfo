@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T13:11:51.475649+00:00",
-  "count": 3084,
+  "updated_at": "2026-09-07T13:15:38.537780+00:00",
+  "count": 3085,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91742",
+      "datetime": "2026.09.07. 15:12",
+      "title": "Egymásba futott két autó a 4127-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91742",
+      "lead": "Kisar közelében történt, a baleset, a tűzoltók két embert kiszabadítottak a járművekből.",
+      "body": "Frontálisan karambolozott két személyautó a 4127-es úton, Kisar közelében, a 18. kilométernél. Az egyik az árokba sodródott, a másik az úttesten van. A fehérgyarmati hivatásos tűzoltók mindkét járműből kiszabadítottak és kiemeltek egy-egy embert. A raj, amely áramtalanította is a gépkocsikat, feszítővágót is használt a beavatkozás során. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisar, 4127",
+      "updates": []
+    },
     {
       "id": "91741",
       "datetime": "2026.09.07. 15:02",
