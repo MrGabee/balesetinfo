@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T10:22:48.226370+00:00",
-  "count": 3076,
+  "updated_at": "2026-09-07T10:26:30.883576+00:00",
+  "count": 3077,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91734",
+      "datetime": "2026.09.07. 12:23",
+      "title": "Összeütközött két autó Bugyin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91734",
+      "lead": "A Teleki utca és a Sári utca kereszteződésében történt a baleset.",
+      "body": "Két személyautó karambolozott Bugyin, a Teleki utca és a Sári utca kereszteződésében. A balesethez a dabasi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A rajok munkáját egy arra járó önkéntes tűzoltó is segíti. A helyszínre mentő is érkezett.",
+      "location": "Bugyi, Teleki utca",
+      "updates": []
+    },
     {
       "id": "91733",
       "datetime": "2026.09.07. 11:12",
