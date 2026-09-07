@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-07T07:26:07.500774+00:00",
-  "count": 3072,
+  "updated_at": "2026-09-07T07:29:27.447943+00:00",
+  "count": 3074,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91731",
+      "datetime": "2026.09.07. 09:28",
+      "title": "Oldalára borult egy kisteherautó az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91731",
+      "lead": "A  Budapest felé vezető oldalon, Inárcs közelében történt a baleset.",
+      "body": "Oldalára borult egy kisteherautó az M5-ös autópálya Budapest felé vezető oldalán, Inárcs közelében, a 32-es és 33-as kilométerszelvény között. A dabasi hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Inárcs, M5",
+      "updates": []
+    },
+    {
+      "id": "91730",
+      "datetime": "2026.09.07. 09:27",
+      "title": "Félig az árokba borult egy kamion Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91730",
+      "lead": "Salamonbokornál van szükség műszaki mentésre.",
+      "body": "Félig az árokba borult egy kamion Nyíregyházán, Salamonbokornál, a Soltész István utca közelében. A műszaki mentést a nyíregyházi hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, Salamonbokor",
+      "updates": []
+    },
     {
       "id": "91729",
       "datetime": "2026.09.07. 09:19",
