@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-07T05:58:37.051042+00:00",
-  "count": 3069,
+  "updated_at": "2026-09-07T06:02:29.960513+00:00",
+  "count": 3070,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91727",
+      "datetime": "2026.09.07. 07:58",
+      "title": "Ráfutásos baleset az 5-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91727",
+      "lead": "Kecskemétnél félpályán halad a forgalom.",
+      "body": "Ráfutásos balesetet szenvedett négy személygépkocsi az 5-ös főúton, Kecskemétnél, a 93-as kilométerszelvény közelében. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, Városföld tanya",
+      "updates": []
+    },
     {
       "id": "91726",
       "datetime": "2026.09.06. 22:14",
