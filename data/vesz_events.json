@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T11:49:12.226757+00:00",
-  "count": 3107,
+  "updated_at": "2026-09-08T11:52:32.691210+00:00",
+  "count": 3108,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91765",
+      "datetime": "2026.09.08. 13:51",
+      "title": "Égett az aljnövényzet Röszke közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91765",
+      "lead": "A tűzoltók már az utómunkálatokat végzik az 5512-es út mellett.",
+      "body": "Kigyulladt a száraz fű, az aljnövényzet és a bozótos Röszke közelében, az 5512-es út mellett. Mintegy másfél hektárt érintett, és az erős szélben gyorsan terjedt a tűz, amelyhez a szegedi, a ruzsai, a kisteleki és a hódmezővásárhelyi hivatásos, valamint a mórahalmi önkéntes tűzoltókat riasztották. A rajok megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Röszke, 5512",
+      "updates": []
+    },
     {
       "id": "91764",
       "datetime": "2026.09.08. 13:45",
