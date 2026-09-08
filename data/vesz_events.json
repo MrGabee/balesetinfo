@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:22:10.360198+00:00",
+  "updated_at": "2026-09-08T12:26:03.319552+00:00",
   "count": 3108,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -126,9 +126,9 @@
       "title": "Baleset történt Napkoron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91756",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sényői utcába riasztották a tűzoltókat.",
+      "body": "Árokba csúszott egy gépkocsi Napkoron, a Sényői utcában, a Gárdonyi utca közelében. A helyi önkéntes tűzoltók áramtalanították a járművet, amelyben egy ember utazott. A helyszínre érkeztek a nyíregyházi hivatásos tűzoltók is.",
+      "location": "Napkor, Sényői utca",
       "updates": []
     },
     {
@@ -234,9 +234,9 @@
       "title": "Melléképület égett Salgótarjánnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91747",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pécskő pusztán fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Salgótarján külterületén, Pécskő pusztán. Teljes terjedelmében égett a műanyag hulladékok tárolásár használt építmény. A város hivatásos tűzoltói eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Salgótarján, Pécskő puszta",
       "updates": []
     },
     {
@@ -309,9 +309,9 @@
       "title": "Tűz volt egy sárvári lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91741",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A konyha gyulladt ki a Gárdonyi Géza utcai ingatlanban.",
+      "body": "Kigyulladt egy társasház egyik lakása Sárváron, a Gárdonyi Géza utcában. A konyhában keletkezett tűz, amelynek továbbterjedését egy vízsugárral és kéziszerszámokkal megakadályozták a város hivatásos tűzoltói, majd eloltották a lángokat. A rajok átvizsgálták a szomszédos lakásokat, és kiszellőztetik az épületet.",
+      "location": "Sárvár, Gárdonyi Géza utca",
       "updates": []
     },
     {
@@ -340,9 +340,9 @@
       "title": "Kamion és autó karambolozott a 87-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91739",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből.",
+      "body": "Karambolozott egy sódert szállító nyerges vontató és egy személyautó a 87-es főúton, Gyöngyösfalu határában, a 37. kilométer közelében. A személygépkocsiba beszorult egy ember. Őt a jármű tetejének eltávolítása után szabadították ki, majd kiemelték és átadták a mentőknek a műszaki mentést végző szombathelyi hivatásos tűzoltók. A rajok áramtalanították a kamiont, amely felborult az út melletti szántóföldön. A műszaki mentést a Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyöngyösfalu, Vasút utca",
       "updates": []
     },
     {
@@ -381,13 +381,22 @@
     {
       "id": "91735",
       "datetime": "2026.09.07. 13:04 -",
-      "title": "1 db frissítés",
+      "title": "Tűz van Kecskemét közelében",
       "category": "Tűz van Kecskemét közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Méntelek tanyánál oltják a lángokat.",
+      "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
+      "location": "Kecskemét, Méntelek tanya",
+      "updates": [
+        {
+          "title": "Felügyelet mellett elégetik a bálákat Kecskemétnél",
+          "datetime": "2026.09.07. 14:00",
+          "category": "Tűzeset",
+          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók eloltották az épületben a tüzet, ami Kecskemét közelében, a Méntelek tanyán gyulladt ki. Az egységek egy gázpalackot is kihoztak az ingatlanból. A rajok erőgép segítségével az égő körbálákat megbontják, majd felügyelet mellett leégetik. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Kecskemét, Méntelek tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91735"
+        }
+      ]
     },
     {
       "id": "91734",
@@ -417,9 +426,9 @@
       "title": "Egymásnak ütközött két autó Budapest XII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91732",
-      "lead": "Az Orbánhegyi út és a Tóth Lőrinc utca kereszteződésében forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személyautó Budapest XII. kerületében, az Orbánhegyi út és a Tóth Lőrinc utca kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Budapest, Orbánhegyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
