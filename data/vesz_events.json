@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T16:06:36.116929+00:00",
-  "count": 3118,
+  "updated_at": "2026-09-08T16:10:17.821848+00:00",
+  "count": 3119,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91776",
+      "datetime": "2026.09.08. 18:06",
+      "title": "Hármas karambol Újlengyelnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91776",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött egy személyautó, egy furgon és egy tehergépkocsi Újlengyelnél, a 4601-es út 43-as kilométerénél. A monori és a dabasi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Újlengyel, 4601",
+      "updates": []
+    },
     {
       "id": "91775",
       "datetime": "2026.09.08. 16:33",
