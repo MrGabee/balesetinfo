@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:29:53.422937+00:00",
+  "updated_at": "2026-09-08T11:34:13.783494+00:00",
   "count": 3105,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -318,9 +318,9 @@
       "title": "Melléképület égett Nagyrédén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91738",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth Lajos utcában kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt egy fa tárolására használt melléképület Nagyrédén, Kossuth Lajos utcában. Az egyik ott lakó még a gyöngyösi hivatásos tűzoltók kiérkezése előtt megkezdte a tűz oltását, amelyet a rajok fejeztek be. Az egységek egy vízsugárral és kéziszerszámokkal fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
+      "location": "Nagyréde, Kossuth Lajos utca",
       "updates": []
     },
     {
@@ -329,9 +329,9 @@
       "title": "Kigyulladt egy furgon Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91737",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ótelep utcába riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében égett egy furgon Tatabányán, az Ótelep utcában. A tűz részben egy mellette parkoló személyautóra is átterjedt. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat.",
+      "location": "Tatabánya, Ótelep utca",
       "updates": []
     },
     {
@@ -340,9 +340,9 @@
       "title": "Négyes karambol a XII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91736",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A járművek akadályozzák a forgalmat az Istenhegyi úton.",
+      "body": "Karambolozott négy személyautó Budapest XII. kerületében, az Istenhegyi úton, a Kékgolyó utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A járművek akadályozzák a forgalmat.",
+      "location": "Budapest, Istenhegyi út",
       "updates": []
     },
     {
@@ -351,10 +351,19 @@
       "title": "Tűz van Kecskemét közelében",
       "category": "Tűz van Kecskemét közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Méntelek tanyánál oltják a lángokat.",
+      "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
+      "location": "Kecskemét, Méntelek tanya",
+      "updates": [
+        {
+          "title": "Felügyelet mellett elégetik a bálákat Kecskemétnél",
+          "datetime": "2026.09.07. 14:00",
+          "category": "Tűzeset",
+          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók eloltották az épületben a tüzet, ami Kecskemét közelében, a Méntelek tanyán gyulladt ki. Az egységek egy gázpalackot is kihoztak az ingatlanból. A rajok erőgép segítségével az égő körbálákat megbontják, majd felügyelet mellett leégetik. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Kecskemét, Méntelek tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91735"
+        }
+      ]
     },
     {
       "id": "91734",
@@ -373,9 +382,9 @@
       "title": "Vonat és személyautó ütközött Tiszavárkony és Jászkarajenő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91733",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
+      "body": "Vonat és személyautó ütközött össze a Tiszavárkony és Jászkarajenő közötti vasút átjáróban. A vonaton tíz fő utazott. A szolnoki hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő busz megérkezik a helyszínre.",
+      "location": "Tiszavárkony, Kő út",
       "updates": []
     },
     {
@@ -417,9 +426,9 @@
       "title": "Felborult egy autó a 33-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91729",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Hortobágy közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lesodródott az úttestről és a tetejére borult egy személyautó a 33-as főúton, Hortobágy közelében, a 61. kilométernél. A műszaki mentést végző balmazújvárosi önkormányzati tűzoltók áramtalanították a gépkocsit. A mentők is kivonultak a balesethez, amelynek helyszínén félpályán lezárták az utat.",
+      "location": "Hortobágy, 33",
       "updates": []
     },
     {
@@ -450,9 +459,9 @@
       "title": "Ház égett Szolnokon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91726",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Patkó utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy könnyűszerkezetes házban Szolnokon, a Patkó utcában. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Szolnok, Patkó utca",
       "updates": []
     },
     {
@@ -483,9 +492,9 @@
       "title": "Erdő és ház égett Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91723",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kecelhegyaljai úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy erdőben Kaposváron, a Kecelhegyaljai úton. A tűz egy elhagyatott ház tetőszerkezetét is érintette. A kaposvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kaposvár, Kecelhegyaljai út",
       "updates": []
     },
     {
