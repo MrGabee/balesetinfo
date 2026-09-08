@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:22:20.318182+00:00",
+  "updated_at": "2026-09-08T11:26:03.085318+00:00",
   "count": 3104,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -36,14 +36,23 @@
     },
     {
       "id": "91759",
-      "datetime": "2026.09.08. 11:59",
+      "datetime": "2026.09.08. 11:59 -",
       "title": "Tarlótűz Fürgeden",
-      "category": "Tűzeset",
+      "category": "Tarlótűz Fürgeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91759",
       "lead": "A szél nehezíti az oltást.",
       "body": "Nagy területen ég a tarló Fürgeden, a Petőfi Sándor utcában. A sárbogárdi hivatásos és a tamási önkormányzati tűzoltók oltják a lángokat. A szél nehezíti az oltást. További egységek mellett a katasztrófavédelmi műveleti szolgálat is a helyszínre tart.",
       "location": "Fürged, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Fürgeden",
+          "datetime": "2026.09.08. 13:25",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Fürgeden, a Petőfi Sándor utcában, ahol nagy területen tarló égett. A munkálatokat a szél nehezítette. A katasztrófavédelmi műveleti szolgálat irányítása mellett a sárbogárdi, a dombóvári, a siófoki hivatásos és a tamási önkormányzati tűzoltók fékezték meg a lángokat. Az oltást egy sárbogárdi vízszállító jármű és egy erőgép is segítette.",
+          "location": "Fürged, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91759/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91759"
+        }
+      ]
     },
     {
       "id": "91758",
