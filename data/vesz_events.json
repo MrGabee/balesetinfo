@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:52:38.572881+00:00",
+  "updated_at": "2026-09-08T20:55:50.828657+00:00",
   "count": 3126,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -89,14 +89,23 @@
     },
     {
       "id": "91777",
-      "datetime": "2026.09.08. 18:25",
+      "datetime": "2026.09.08. 18:25 -",
       "title": "Száraz fű és nádas ég Egyek külterületén",
-      "category": "Tűzeset",
+      "category": "Száraz fű és nádas ég Egyek külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91777",
       "lead": "A tűzoltók a 3322-es út közelében oltják a lángokat.",
       "body": "Száraz fű és nádas ég Egyek külterületén, a 3322-es út 4-es kilométerének közelében. A mezőkövesdi, a tiszafüredi hivatásos és az egyeki önkormányzati tűzoltók oltják a lángokat. A munkálatokat egy tiszafüredi és egy mezőkövesdi vízszállító jármű is segíti. A katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek.",
       "location": "Tiszacsege, 3322",
-      "updates": []
+      "updates": [
+        {
+          "title": "Még tartanak a munkálatok Egyek külterületén",
+          "datetime": "2026.09.08. 22:53",
+          "category": "Tűzeset",
+          "text": "Körülbelül ötven hektáron nádas, cserjés, bokros, bozótos terület gyulladt ki Egyek külterületén, a Hortobágyi Nemzeti Park területén. A tűz a vasúti közlekedést is befolyásolja. A katasztrófavédelmi műveleti szolgálat irányítása mellett a mezőkövesdi, a tiszafüredi, a tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók négy vízsugárral, egy vízágyúval és kéziszerszámokkal végzik a beavatkozást. A helyszínen egy tiszafüredi, egy mezőkövesdi, egy tiszaújvárosi vízszállító jármű és egy erőgép is segíti a munkálatokat.",
+          "location": "Tiszacsege, 3322",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91777/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91777"
+        }
+      ]
     },
     {
       "id": "91776",
