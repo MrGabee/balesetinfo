@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T16:36:43.213844+00:00",
-  "count": 3120,
+  "updated_at": "2026-09-08T16:39:59.199388+00:00",
+  "count": 3121,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91778",
+      "datetime": "2026.09.08. 18:37",
+      "title": "Tűz van Németkér külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91778",
+      "lead": "Avar és aljnövényzet ég.",
+      "body": "Tíz hektáron avar és aljnövényzet ég Németkér külterületén, a Kanacs pusztánál. A paksi és a sárbogárdi hivatásos tűzoltók három vízsugárral és kéziszerszámokkal oltják a lángokat. Egy sárbogárdi vízszállító is a helyszínen dolgozik.",
+      "location": "Németkér, Kanacs puszta",
+      "updates": []
+    },
     {
       "id": "91777",
       "datetime": "2026.09.08. 18:25",
