@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T10:22:30.839066+00:00",
+  "updated_at": "2026-09-08T10:25:47.252414+00:00",
   "count": 3103,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Mobilház égett Szabadbattyánban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91753",
-      "lead": "A Napsugár dűlőn oltották el a lángokat.",
-      "body": "Teljes terjedelmében égett egy mobilház Szabadbattyánban, a Napsugár dűlőn. A Székesfehérvári hivatásos és a sárvízi önkéntes tűzoltók két vízsugárral eloltották el a lángokat. A rajok egy gázpalackot is kihoztak az ingatlanból.",
-      "location": "Szabadbattyán, Napsugár dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -225,9 +225,9 @@
       "title": "Egymásba futott két autó a 4127-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91742",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kisar közelében történt, a baleset, a tűzoltók két embert kiszabadítottak a járművekből.",
+      "body": "Frontálisan karambolozott két személyautó a 4127-es úton, Kisar közelében, a 18. kilométernél. Az egyik az árokba sodródott, a másik az úttesten van. A fehérgyarmati hivatásos tűzoltók mindkét járműből kiszabadítottak és kiemeltek egy-egy embert. A raj, amely áramtalanította is a gépkocsikat, feszítővágót is használt a beavatkozás során. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisar, 4127",
       "updates": []
     },
     {
@@ -247,10 +247,19 @@
       "title": "Erdő aljnövényzete ég Pomáznál",
       "category": "Erdő aljnövényzete ég Pomáznál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91740",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Nagy területet érintenek a lángok.",
+      "body": "Kigyulladt egy erdő aljnövényzete Pomáz és Pilisszentkereszt között. Nagy területet érint és gyorsan terjed a tűz, amelyet a szentendrei hivatásos és pomázi önkéntes tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Pomáz, Pomáz és Pilisszentkereszt között",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a tűzoltók Pomáznál",
+          "datetime": "2026.09.07. 19:51",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Pomáz és Pilisszentkereszt között, ahol erdő aljnövényzete égett. A tűz hat hektárnyi területet érintett. A lángokat a szentendrei és fővárosi hivatásos valamint a pomázi önkormányzati, leányfalui, pomázi és szentendrei önkéntes tűzoltók oltották el.",
+          "location": "Pomáz, Pomáz és Pilisszentkereszt között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91740/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91740"
+        }
+      ]
     },
     {
       "id": "91739",
@@ -258,9 +267,9 @@
       "title": "Kamion és autó karambolozott a 87-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91739",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből.",
+      "body": "Karambolozott egy sódert szállító nyerges vontató és egy személyautó a 87-es főúton, Gyöngyösfalu határában, a 37. kilométer közelében. A személygépkocsiba beszorult egy ember. Őt a jármű tetejének eltávolítása után szabadították ki, majd kiemelték és átadták a mentőknek a műszaki mentést végző szombathelyi hivatásos tűzoltók. A rajok áramtalanították a kamiont, amely felborult az út melletti szántóföldön. A műszaki mentést a Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyöngyösfalu, Vasút utca",
       "updates": []
     },
     {
@@ -322,9 +331,9 @@
       "title": "Összeütközött két autó Bugyin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91734",
-      "lead": "A Teleki utca és a Sári utca kereszteződésében történt a baleset.",
-      "body": "Két személyautó karambolozott Bugyin, a Teleki utca és a Sári utca kereszteződésében. A balesethez a dabasi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A rajok munkáját egy arra járó önkéntes tűzoltó is segíti. A helyszínre mentő is érkezett.",
-      "location": "Bugyi, Teleki utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -333,9 +342,9 @@
       "title": "Vonat és személyautó ütközött Tiszavárkony és Jászkarajenő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91733",
-      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
-      "body": "Vonat és személyautó ütközött össze a Tiszavárkony és Jászkarajenő közötti vasút átjáróban. A vonaton tíz fő utazott. A szolnoki hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő busz megérkezik a helyszínre.",
-      "location": "Tiszavárkony, Kő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,9 +364,9 @@
       "title": "Oldalára borult egy kisteherautó az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91731",
-      "lead": "A  Budapest felé vezető oldalon, Inárcs közelében történt a baleset.",
-      "body": "Oldalára borult egy kisteherautó az M5-ös autópálya Budapest felé vezető oldalán, Inárcs közelében, a 32-es és 33-as kilométerszelvény között. A dabasi hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
-      "location": "Inárcs, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
