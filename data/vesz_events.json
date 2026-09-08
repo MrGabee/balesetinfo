@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T13:17:34.774375+00:00",
-  "count": 3113,
+  "updated_at": "2026-09-08T13:21:17.536544+00:00",
+  "count": 3114,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91771",
+      "datetime": "2026.09.08. 15:19",
+      "title": "Oszlopnak hajtott egy autó Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91771",
+      "lead": "A Kemecsei úton van szükség tűzoltói beavatkozásra.",
+      "body": "Villanyoszlopnak ütközött egy személyautó Nyíregyházán, a Kemecsei úton, a Zsuzsanna utca közelében. Az oszlop kidőlt. A város hivatásos tűzoltói áramtalanítják a járművet, amelyben két ember utazott. Mindketten ki tudtak szállni.",
+      "location": "Nyíregyháza, Kemecsei út",
+      "updates": []
+    },
     {
       "id": "91770",
       "datetime": "2026.09.08. 15:07",
