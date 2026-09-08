@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T16:22:10.518805+00:00",
-  "count": 3119,
+  "updated_at": "2026-09-08T16:25:49.624349+00:00",
+  "count": 3120,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91777",
+      "datetime": "2026.09.08. 18:25",
+      "title": "Száraz fű és nádas ég Egyek külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91777",
+      "lead": "A tűzoltók a 3322-es út közelében oltják a lángokat.",
+      "body": "Száraz fű és nádas ég Egyek külterületén, 3322-es út 4-es kilométerének közelében. A mezőkövesdi, a tiszafüredi hivatásos és az egyeki önkormányzati tűzoltók oltják a lángokat. A munkálatokat egy tiszafüredi és egy mezőkövesdi vízszállító jármű is segíti. A katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek.",
+      "location": "Tiszacsege, 3322",
+      "updates": []
+    },
     {
       "id": "91776",
       "datetime": "2026.09.08. 18:06",
