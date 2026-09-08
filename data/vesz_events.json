@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T11:45:06.712631+00:00",
-  "count": 3106,
+  "updated_at": "2026-09-08T11:49:12.226757+00:00",
+  "count": 3107,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91764",
+      "datetime": "2026.09.08. 13:45",
+      "title": "Tűz van Homokbödöge külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91764",
+      "lead": "Erdősáv ég.",
+      "body": "Tűz keletkezett Homokbödöge külterületén, a Dózsa utcánál, ahol erdősáv ég. A pápai, a pannonhalmai és az ajkai hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltják a lángokat. A munkálatokat egy pápai vízszállító jármű is segíti. A Veszprém vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett.",
+      "location": "Homokbödöge, Dózsa utca",
+      "updates": []
+    },
     {
       "id": "91763",
       "datetime": "2026.09.08. 13:40",
