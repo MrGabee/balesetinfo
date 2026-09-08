@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:19:02.048041+00:00",
+  "updated_at": "2026-09-08T09:23:13.615841+00:00",
   "count": 3101,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -181,9 +181,9 @@
       "title": "Két autó karambolozott Budapest XV. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91744",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szántóföld utca és a Benkő István utca találkozásánál lezárták az utat.",
+      "body": "Két személyautó ütközött össze Budapest XV. kerületében, a Szántóföld utca és a Benkő István utca találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták, fennakadásokra kell számítani a közösségi közlekedetésben is.",
+      "location": "Budapest, Szántóföld utca",
       "updates": []
     },
     {
@@ -192,9 +192,9 @@
       "title": "Kigyulladt egy műhely irodája a II. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91743",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Berendezési tárgyak égtek a Törökvész úti ingatlanban.",
+      "body": "Tűz keletkezett egy tízemeletes épület földszintjén lévő műhely irodahelyiségében, Budapest II. kerületében, a Törökvész úton, a Verecke lépcsőnél. Berendezési tárgyak gyulladtak meg. A fővárosi hivatásos tűzoltók eloltották a tüzet, és kiszellőztetik a lépcsőházat.",
+      "location": "Budapest, Törökvész út",
       "updates": []
     },
     {
@@ -203,9 +203,9 @@
       "title": "Egymásba futott két autó a 4127-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91742",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kisar közelében történt, a baleset, a tűzoltók két embert kiszabadítottak a járművekből.",
+      "body": "Frontálisan karambolozott két személyautó a 4127-es úton, Kisar közelében, a 18. kilométernél. Az egyik az árokba sodródott, a másik az úttesten van. A fehérgyarmati hivatásos tűzoltók mindkét járműből kiszabadítottak és kiemeltek egy-egy embert. A raj, amely áramtalanította is a gépkocsikat, feszítővágót is használt a beavatkozás során. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisar, 4127",
       "updates": []
     },
     {
@@ -214,9 +214,9 @@
       "title": "Tűz volt egy sárvári lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91741",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A konyha gyulladt ki a Gárdonyi Géza utcai ingatlanban.",
+      "body": "Kigyulladt egy társasház egyik lakása Sárváron, a Gárdonyi Géza utcában. A konyhában keletkezett tűz, amelynek továbbterjedését egy vízsugárral és kéziszerszámokkal megakadályozták a város hivatásos tűzoltói, majd eloltották a lángokat. A rajok átvizsgálták a szomszédos lakásokat, és kiszellőztetik az épületet.",
+      "location": "Sárvár, Gárdonyi Géza utca",
       "updates": []
     },
     {
@@ -228,7 +228,16 @@
       "lead": "Nagy területet érintenek a lángok.",
       "body": "Kigyulladt egy erdő aljnövényzete Pomáz és Pilisszentkereszt között. Nagy területet érint és gyorsan terjed a tűz, amelyet a szentendrei hivatásos és pomázi önkéntes tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Pomáz, Pomáz és Pilisszentkereszt között",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a tűzoltók Pomáznál",
+          "datetime": "2026.09.07. 19:51",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Pomáz és Pilisszentkereszt között, ahol erdő aljnövényzete égett. A tűz hat hektárnyi területet érintett. A lángokat a szentendrei és fővárosi hivatásos valamint a pomázi önkormányzati, leányfalui, pomázi és szentendrei önkéntes tűzoltók oltották el.",
+          "location": "Pomáz, Pomáz és Pilisszentkereszt között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91740/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91740"
+        }
+      ]
     },
     {
       "id": "91739",
