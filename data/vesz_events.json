@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T12:44:09.165837+00:00",
-  "count": 3110,
+  "updated_at": "2026-09-08T12:47:36.085948+00:00",
+  "count": 3111,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91768",
+      "datetime": "2026.09.08. 14:44",
+      "title": "Tűz van Kunadacs közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91768",
+      "lead": "Egy erdős, bokros terület ég.",
+      "body": "Kigyulladt az aljnövényzet egy erdős, bokros térségben, Kunadacs közelében. Nagy területre terjednek ki a lángok, amelyeket a kecskeméti hivatásos és a szabadszállási önkormányzati tűzoltók oltanak. A helyszínre tart több más egység is.",
+      "location": "Kunadacs, Középadacs tanya",
+      "updates": []
+    },
     {
       "id": "91767",
       "datetime": "2026.09.08. 14:43",
@@ -148,9 +159,9 @@
       "title": "Baleset történt Napkoron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91756",
-      "lead": "A Sényői utcába riasztották a tűzoltókat.",
-      "body": "Árokba csúszott egy gépkocsi Napkoron, a Sényői utcában, a Gárdonyi utca közelében. A helyi önkéntes tűzoltók áramtalanították a járművet, amelyben egy ember utazott. A helyszínre érkeztek a nyíregyházi hivatásos tűzoltók is.",
-      "location": "Napkor, Sényői utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -298,9 +309,9 @@
       "title": "Két autó karambolozott Budapest XV. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91744",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szántóföld utca és a Benkő István utca találkozásánál lezárták az utat.",
+      "body": "Két személyautó ütközött össze Budapest XV. kerületében, a Szántóföld utca és a Benkő István utca találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták, fennakadásokra kell számítani a közösségi közlekedetésben is.",
+      "location": "Budapest, Szántóföld utca",
       "updates": []
     },
     {
