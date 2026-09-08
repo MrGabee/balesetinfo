@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:47:40.177821+00:00",
+  "updated_at": "2026-09-08T13:51:52.112704+00:00",
   "count": 3116,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -97,9 +97,9 @@
       "title": "Égett az aljnövényzet Röszke közelében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91765",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók már az utómunkálatokat végzik az 5512-es út mellett.",
+      "body": "Kigyulladt a száraz fű, az aljnövényzet és a bozótos Röszke közelében, az 5512-es út mellett. Mintegy másfél hektárt érintett, és az erős szélben gyorsan terjedt a tűz, amelyhez a szegedi, a ruzsai, a kisteleki és a hódmezővásárhelyi hivatásos, valamint a mórahalmi önkéntes tűzoltókat riasztották. A rajok megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Röszke, 5512",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Tűz van Homokbödöge külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91764",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Erdősáv ég.",
+      "body": "Tűz keletkezett Homokbödöge külterületén, a Dózsa utcánál, ahol erdősáv ég. A pápai, a pannonhalmai és az ajkai hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltják a lángokat. A munkálatokat egy pápai vízszállító jármű is segíti. A Veszprém vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett.",
+      "location": "Homokbödöge, Dózsa utca",
       "updates": []
     },
     {
@@ -119,9 +119,9 @@
       "title": "Kigyulladt a nádas Egerlövő közelében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91763",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eloltották a lángokat, a munkálatokat erőgép is segíti.",
+      "body": "Lángra kapott egy nádas, egy Mezőszemere és Egerlövő közötti területen. Mintegy tíz hektárt érintett a tűz, amelyhez a mezőkövesdi és az egri hivatásos, valamint a tiszabábolnai önkéntes tűzoltókat riasztották. A rajok megakadályozták a tűz továbbterjedését, és eloltották a lángokat. A munkálatokat, amelyeket erőgép és civilek is segítenek, a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Egerlövő, Mezőszemere és Egerlövő között",
       "updates": []
     },
     {
@@ -245,10 +245,19 @@
       "title": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében",
       "category": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91754",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Toborzó utcába vonultak a tűzoltók.",
+      "body": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében, a Toborzó utcánál. A tűz gyorsan terjed. A fővárosi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Budapest, Toborzó utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest XIII. kerületében",
+          "datetime": "2026.09.07. 22:39",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a fővárosi hivatásos tűzoltók a XIII. kerületben, ahol a vasúti sínek mellett gyulladt a gaz a Toborzó utcánál. A rajok további izzó gócpontok után kutatnak. A munkálatokat a katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Budapest, Toborzó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91754/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91754"
+        }
+      ]
     },
     {
       "id": "91753",
@@ -278,9 +287,9 @@
       "title": "Négyes karambol a 42-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91751",
-      "lead": "Berettyóújfalu közelében lezárták az utat.",
-      "body": "Egy traktor, egy kisbusz és két személyautó karambolozott a 42-es főúton Berettyóújfalu közelében, a 42-es kilométerszelvénynél. A műszaki mentést a berettyóújfalui hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Berettyóújfalu, 42",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -397,9 +406,9 @@
       "title": "Tűz volt egy sárvári lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91741",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A konyha gyulladt ki a Gárdonyi Géza utcai ingatlanban.",
+      "body": "Kigyulladt egy társasház egyik lakása Sárváron, a Gárdonyi Géza utcában. A konyhában keletkezett tűz, amelynek továbbterjedését egy vízsugárral és kéziszerszámokkal megakadályozták a város hivatásos tűzoltói, majd eloltották a lángokat. A rajok átvizsgálták a szomszédos lakásokat, és kiszellőztetik az épületet.",
+      "location": "Sárvár, Gárdonyi Géza utca",
       "updates": []
     },
     {
