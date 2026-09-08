@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T08:50:09.035915+00:00",
-  "count": 3100,
+  "updated_at": "2026-09-08T08:53:45.727363+00:00",
+  "count": 3101,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91758",
+      "datetime": "2026.09.08. 10:53",
+      "title": "Ráfutásos baleset Kupnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91758",
+      "lead": "A 8402-es út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kupnál, a 8402-es út 15-ös kilométerénél. A ráfutásos balesethez a pápai hivatásos tűzoltókat riasztották. A raj áramtalanította a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kup, 8402",
+      "updates": []
+    },
     {
       "id": "91757",
       "datetime": "2026.09.08. 10:12",
@@ -419,9 +430,9 @@
       "title": "Erdő és ház égett Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91723",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kecelhegyaljai úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy erdőben Kaposváron, a Kecelhegyaljai úton. A tűz egy elhagyatott ház tetőszerkezetét is érintette. A kaposvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kaposvár, Kecelhegyaljai út",
       "updates": []
     },
     {
