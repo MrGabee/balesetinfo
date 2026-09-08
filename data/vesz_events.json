@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T10:02:06.283604+00:00",
-  "count": 3102,
+  "updated_at": "2026-09-08T10:05:00.736864+00:00",
+  "count": 3103,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91760",
+      "datetime": "2026.09.08. 12:04",
+      "title": "Ég az aljnövényzet Tinnyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760",
+      "lead": "Lakóházakat is veszélyeztet a tűz.",
+      "body": "Kigyulladt az aljnövényzet Tinnyén, az Ady Endre utcában. Lakóházakat és autókat is veszélyeztet a tűz, amelyet a bajnai hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Tinnye, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "91759",
       "datetime": "2026.09.08. 11:59",
