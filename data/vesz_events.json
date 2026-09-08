@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:47:12.613793+00:00",
+  "updated_at": "2026-09-08T06:50:45.591689+00:00",
   "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -270,16 +270,7 @@
       "lead": "A Méntelek tanyánál oltják a lángokat.",
       "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Kecskemét, Méntelek tanya",
-      "updates": [
-        {
-          "title": "Felügyelet mellett elégetik a bálákat Kecskemétnél",
-          "datetime": "2026.09.07. 14:00",
-          "category": "Tűzeset",
-          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók eloltották az épületben a tüzet, ami Kecskemét közelében, a Méntelek tanyán gyulladt ki. Az egységek egy gázpalackot is kihoztak az ingatlanból. A rajok erőgép segítségével az égő körbálákat megbontják, majd felügyelet mellett leégetik. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
-          "location": "Kecskemét, Méntelek tanya",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91735"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91734",
@@ -419,10 +410,19 @@
       "title": "Melléképület ég Debrecenben",
       "category": "Melléképület ég Debrecenben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91722",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Kőműves utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Debrecenben, a Kőműves utcában. A tűz átterjedt a lakóházra és egy autóra is. A debreceni és a berettyóújfalui hivatásos tűzoltók több vízsugárral oltják a lángokat.",
+      "location": "Debrecen, Kőműves utca",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Debrecenben",
+          "datetime": "2026.09.06. 19:48",
+          "category": "Tűzeset",
+          "text": "Teljes terjedelmében égett egy melléképület Debrecenben, a Kőműves utcában. A tűz átterjedt a családi ház tetőszerkezetére és egy helyiségére, illetve egy autóra is. A debreceni és a berettyóújfalui hivatásos tűzoltók hat vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Debrecen, Kőműves utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91722/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91722"
+        }
+      ]
     },
     {
       "id": "91721",
@@ -452,9 +452,9 @@
       "title": "Filagória égett Mezőtúron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91719",
-      "lead": "A Piac térnél dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy filagória teteje Mezőtúron, a Piac térnél. A mezőtúri hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A tűz nem terjedt át más épületre. A raj az utómunkálatokat végzi.",
-      "location": "Mezőtúr, Piac tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
