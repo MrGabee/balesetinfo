@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:16:56.455446+00:00",
+  "updated_at": "2026-09-08T19:20:27.307806+00:00",
   "count": 3124,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -47,14 +47,23 @@
     },
     {
       "id": "91778",
-      "datetime": "2026.09.08. 18:37",
+      "datetime": "2026.09.08. 18:37 -",
       "title": "Tűz van Németkér külterületén",
-      "category": "Tűzeset",
+      "category": "Tűz van Németkér külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91778",
       "lead": "Avar és aljnövényzet ég.",
       "body": "Tíz hektáron avar és aljnövényzet ég Németkér külterületén, a Kanacs pusztánál. A paksi és a sárbogárdi hivatásos tűzoltók három vízsugárral és kéziszerszámokkal oltják a lángokat. Egy sárbogárdi vízszállító is a helyszínen dolgozik.",
       "location": "Németkér, Kanacs puszta",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Németkérnél",
+          "datetime": "2026.09.08. 21:18",
+          "category": "Tűzeset",
+          "text": "Tíz hektáron avar és aljnövényzet égett Németkér külterületén, a Kanacs pusztánál. A tűz egy erdőt is veszélyeztetett. A paksi, a sárbogárdi és a solti hivatásos tűzoltók négy vízsugárral és kéziszerszámokkal oltották el a lángokat. Egy sárbogárdi és egy kalocsai vízszállító jármű is segítette a munkálatokat. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Németkér, Kanacs puszta",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91778/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91778"
+        }
+      ]
     },
     {
       "id": "91777",
