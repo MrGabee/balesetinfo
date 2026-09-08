@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T10:29:39.640859+00:00",
-  "count": 3103,
+  "updated_at": "2026-09-08T10:33:14.681229+00:00",
+  "count": 3104,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91761",
+      "datetime": "2026.09.08. 12:32",
+      "title": "Összeütközött két autó a 1111-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91761",
+      "lead": "Pilisszentlélek közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Karambolozott két személyautó a 1111-es úton, az Esztergomhoz tartozó Pilisszentlélek közelében, a 27. kilométernél. A szentendrei hivatásos tűzoltók áramtalanították a gépkocsikat, amelyekben egy-egy ember utazott. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Esztergom, Pilisszentlélek",
+      "updates": []
+    },
     {
       "id": "91760",
       "datetime": "2026.09.08. 12:04",
@@ -117,9 +128,9 @@
       "title": "Négyes karambol a 42-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91751",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Berettyóújfalu közelében lezárták az utat.",
+      "body": "Egy traktor, egy kisbusz és két személyautó karambolozott a 42-es főúton Berettyóújfalu közelében, a 42-es kilométerszelvénynél. A műszaki mentést a berettyóújfalui hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Berettyóújfalu, 42",
       "updates": []
     },
     {
@@ -128,9 +139,9 @@
       "title": "Karambol Zákányszék és Bordány között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91750",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 5431-es és az 5432-es út kereszteződésében történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi ütközött össze Zákányszék és Bordány között, az 5431-es és az 5432-es út kereszteződésében. A ruzsai hivatásos tűzoltók és az Üllés Községi Tűzoltó Egyesület áramtalanítják a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Zákányszék, 5431-5432",
       "updates": []
     },
     {
