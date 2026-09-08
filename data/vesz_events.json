@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:50:36.871575+00:00",
+  "updated_at": "2026-09-08T16:53:51.287831+00:00",
   "count": 3121,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -137,14 +137,23 @@
     },
     {
       "id": "91766",
-      "datetime": "2026.09.08. 14:38",
+      "datetime": "2026.09.08. 14:38 -",
       "title": "Teherautótűz a 1117-esen",
-      "category": "Tűzeset",
+      "category": "Teherautótűz a 1117-esen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91766",
       "lead": "A tűz a jármű környezetére is átterjedt.",
       "body": "Kigyulladt egy teherautó motortere és utasfülkéje Esztergom térségében, az 1117-es út 1-es kilométerénél. A tűz a környezetére is átterjedt. A nyergesújfalui és az esztergomi hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a teherautótüzet két vízsugárral már megfékezték.",
       "location": "Esztergom, 1117",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat a 1117-esen",
+          "datetime": "2026.09.08. 18:52",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Esztergom térségében, a 1117-es út 1-es kilométerénél, ahol egy teherautó motortere és utasfülkéje gyulladt ki. A tűz a környezetére is átterjedt, két hektáron erdő aljnövényzete is égett. A nyergesújfalui, az esztergomi hivatásos és a sárisápi önkéntes tűzoltók több vízsugárral, kéziszerszámokkal és puttonyfecskendőkkel fékezték meg a tüzet a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányításával. A munkálatokat egy nyergesújfalui vízszállítós és munkagépek is segítették. A lángok ezer négyzetméteren zöldhulladékot is érintenek, amelyet az egységek felügyelet mellett leégetnek.",
+          "location": "Esztergom, 1117",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91766/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91766"
+        }
+      ]
     },
     {
       "id": "91765",
