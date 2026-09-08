@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T13:06:24.322970+00:00",
-  "count": 3112,
+  "updated_at": "2026-09-08T13:10:27.666299+00:00",
+  "count": 3113,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91770",
+      "datetime": "2026.09.08. 15:07",
+      "title": "Kigyulladt az aljnövényzet Hőgyész külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91770",
+      "lead": "Présházakat is veszélyeztetnek a lángok, amelyek egy szőlőültetvényben csaptak fel.",
+      "body": "Tűz ütött ki egy mintegy tízhektáros szőlőültetvényben, Hőgyész külterületén, a József Attila lakótelep közelében. Az aljnövényzet gyulladt meg, és présházakat is veszélyeztetnek a lángok. A dombóvári és a sásdi hivatásos, valamint a tamási önkormányzati tűzoltók oltják a tüzet.",
+      "location": "Hőgyész, Szentkút dűlő",
+      "updates": []
+    },
     {
       "id": "91769",
       "datetime": "2026.09.08. 14:51",
@@ -190,9 +201,9 @@
       "title": "Baleset történt a XI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91755",
-      "lead": "Forgalmi akadály van.",
-      "body": "Parkoló gépkocsinak csapódott és felborult egy személyautó Budapest XI. kerületében, az Etele úton, a Vahot utca közelében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Budapest, Etele út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -243,9 +254,9 @@
       "title": "Négyes karambol a 42-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91751",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Berettyóújfalu közelében lezárták az utat.",
+      "body": "Egy traktor, egy kisbusz és két személyautó karambolozott a 42-es főúton Berettyóújfalu közelében, a 42-es kilométerszelvénynél. A műszaki mentést a berettyóújfalui hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Berettyóújfalu, 42",
       "updates": []
     },
     {
@@ -393,9 +404,9 @@
       "title": "Kamion és autó karambolozott a 87-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91739",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből.",
+      "body": "Karambolozott egy sódert szállító nyerges vontató és egy személyautó a 87-es főúton, Gyöngyösfalu határában, a 37. kilométer közelében. A személygépkocsiba beszorult egy ember. Őt a jármű tetejének eltávolítása után szabadították ki, majd kiemelték és átadták a mentőknek a műszaki mentést végző szombathelyi hivatásos tűzoltók. A rajok áramtalanították a kamiont, amely felborult az út melletti szántóföldön. A műszaki mentést a Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítja. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyöngyösfalu, Vasút utca",
       "updates": []
     },
     {
