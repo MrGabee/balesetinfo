@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T11:37:55.457408+00:00",
-  "count": 3105,
+  "updated_at": "2026-09-08T11:41:26.103127+00:00",
+  "count": 3106,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91763",
+      "datetime": "2026.09.08. 13:40",
+      "title": "Kigyulladt a nádas Egerlövő közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91763",
+      "lead": "A tűzoltók eloltották a lángokat, a munkálatokat erőgép is segíti.",
+      "body": "Lángra kapott egy nádas, egy Mezőszemere és Egerlövő közötti területen. Mintegy tíz hektárt érintett a tűz, amelyhez a mezőkövesdi és az egri hivatásos, valamint a tiszabábolnai önkéntes tűzoltókat riasztották. A rajok megakadályozták a tűz továbbterjedését, és eloltották a lángokat. A munkálatokat, amelyeket erőgép és civilek is segítenek, a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Egerlövő, Mezőszemere és Egerlövő között",
+      "updates": []
+    },
     {
       "id": "91762",
       "datetime": "2026.09.08. 13:29",
