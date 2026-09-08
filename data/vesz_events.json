@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T17:05:43.320665+00:00",
-  "count": 3121,
+  "updated_at": "2026-09-08T17:09:32.386437+00:00",
+  "count": 3122,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91779",
+      "datetime": "2026.09.08. 19:06",
+      "title": "Autótűz az 5213-ason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91779",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt egy személyautó Szabadszállásnál, az 5213-as út 5-ös kilométerénél. A jármű teljes terjedelmében égett. A szabadszállási önkéntes tűzoltók egy vízsugárral oltották el a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szabadszállás, 5213",
+      "updates": []
+    },
     {
       "id": "91778",
       "datetime": "2026.09.08. 18:37",
