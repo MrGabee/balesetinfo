@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T18:51:06.865963+00:00",
-  "count": 3123,
+  "updated_at": "2026-09-08T18:54:33.705328+00:00",
+  "count": 3124,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91781",
+      "datetime": "2026.09.08. 20:52",
+      "title": "Két autó ütközött Zamárdinál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91781",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Zamárdinál, az M7-es autópálya lehajtójánál, a Budapest felé vezető oldalon. A siófoki hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zamárdi, M7 lehajtó",
+      "updates": []
+    },
     {
       "id": "91780",
       "datetime": "2026.09.08. 19:44 -",
