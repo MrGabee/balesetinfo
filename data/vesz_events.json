@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-08T06:39:45.991660+00:00",
-  "count": 3097,
+  "updated_at": "2026-09-08T06:43:18.559434+00:00",
+  "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91756",
+      "datetime": "2026.09.08. 08:42",
+      "title": "Baleset történt Napkoron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91756",
+      "lead": "A Sényői utcába riasztották a tűzoltókat.",
+      "body": "Árokba csúszott egy gépkocsi Napkoron, a Sényői utcában, a Gárdonyi utca közelében. A helyi önkéntes tűzoltók áramtalanították a járművet, amelyben egy ember utazott. A helyszínre érkeztek a nyíregyházi hivatásos tűzoltók is.",
+      "location": "Napkor, Sényői utca",
+      "updates": []
+    },
+    {
+      "id": "91755",
+      "datetime": "2026.09.08. 08:41",
+      "title": "Baleset történt a XI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91755",
+      "lead": "Forgalmi akadály van.",
+      "body": "Parkoló gépkocsinak csapódott és felborult egy személyautó Budapest XI. kerületében, az Etele úton, a Vahot utca közelében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Etele út",
+      "updates": []
+    },
     {
       "id": "91754",
       "datetime": "2026.09.07. 22:01 -",
