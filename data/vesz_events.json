@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:50:45.591689+00:00",
+  "updated_at": "2026-09-08T06:54:25.516281+00:00",
   "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -270,7 +270,16 @@
       "lead": "A Méntelek tanyánál oltják a lángokat.",
       "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Kecskemét, Méntelek tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Felügyelet mellett elégetik a bálákat Kecskemétnél",
+          "datetime": "2026.09.07. 14:00",
+          "category": "Tűzeset",
+          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók eloltották az épületben a tüzet, ami Kecskemét közelében, a Méntelek tanyán gyulladt ki. Az egységek egy gázpalackot is kihoztak az ingatlanból. A rajok erőgép segítségével az égő körbálákat megbontják, majd felügyelet mellett leégetik. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Kecskemét, Méntelek tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91735"
+        }
+      ]
     },
     {
       "id": "91734",
@@ -452,9 +461,9 @@
       "title": "Filagória égett Mezőtúron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91719",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Piac térnél dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy filagória teteje Mezőtúron, a Piac térnél. A mezőtúri hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A tűz nem terjedt át más épületre. A raj az utómunkálatokat végzi.",
+      "location": "Mezőtúr, Piac tér",
       "updates": []
     },
     {
