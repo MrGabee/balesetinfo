@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:04:04.486970+00:00",
+  "updated_at": "2026-09-08T11:08:09.554971+00:00",
   "count": 3104,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "91760",
-      "datetime": "2026.09.08. 12:04",
+      "datetime": "2026.09.08. 12:04 -",
       "title": "Ég az aljnövényzet Tinnyén",
-      "category": "Tűzeset",
+      "category": "Ég az aljnövényzet Tinnyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760",
       "lead": "Lakóházakat is veszélyeztet a tűz.",
       "body": "Kigyulladt az aljnövényzet Tinnyén, az Ady Endre utcában. Lakóházakat és autókat is veszélyeztet a tűz, amelyet a bajnai hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Tinnye, Ady Endre utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol az aljnövényzet Tinnyén",
+          "datetime": "2026.09.08. 13:06",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Tinnyén, az Ady Endre utcában, ahol kigyulladt az aljnövényzet az ottani zártkertekben. Mintegy háromezer négyzetméterre terjedt ki a tűz, és megsemmisült három kerti tároló, valamint két lakókocsi. Az esztergomi és a bajnai hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fékezték meg a lángokat.",
+          "location": "Tinnye, Ady Endre utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91760"
+        }
+      ]
     },
     {
       "id": "91759",
