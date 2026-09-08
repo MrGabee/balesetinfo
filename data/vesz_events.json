@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:09:47.520990+00:00",
+  "updated_at": "2026-09-08T07:13:44.148763+00:00",
   "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Baleset történt a XI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91755",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Parkoló gépkocsinak csapódott és felborult egy személyautó Budapest XI. kerületében, az Etele úton, a Vahot utca közelében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Etele út",
       "updates": []
     },
     {
@@ -34,7 +34,16 @@
       "lead": "A Toborzó utcába vonultak a tűzoltók.",
       "body": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében, a Toborzó utcánál. A tűz gyorsan terjed. A fővárosi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
       "location": "Budapest, Toborzó utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest XIII. kerületében",
+          "datetime": "2026.09.07. 22:39",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a fővárosi hivatásos tűzoltók a XIII. kerületben, ahol a vasúti sínek mellett gyulladt a gaz a Toborzó utcánál. A rajok további izzó gócpontok után kutatnak. A munkálatokat a katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Budapest, Toborzó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91754/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91754"
+        }
+      ]
     },
     {
       "id": "91753",
@@ -42,9 +51,9 @@
       "title": "Mobilház égett Szabadbattyánban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91753",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Napsugár dűlőn oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy mobilház Szabadbattyánban, a Napsugár dűlőn. A Székesfehérvári hivatásos és a sárvízi önkéntes tűzoltók két vízsugárral eloltották el a lángokat. A rajok egy gázpalackot is kihoztak az ingatlanból.",
+      "location": "Szabadbattyán, Napsugár dűlő",
       "updates": []
     },
     {
@@ -53,9 +62,9 @@
       "title": "Villamossínen akadt fent egy autó Budapest IX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91752",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Mester utcában fennakadásokra kell számítani a közösségi közlekedésben.",
+      "body": "Villamossínen akadt fent egy személyautó Budapest IX. kerületében, a Mester utca és a Tóth Kálmán utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszon fennakadásokra kell számítani a közösségi közlekedésben.",
+      "location": "Budapest, Mester utca",
       "updates": []
     },
     {
@@ -75,9 +84,9 @@
       "title": "Karambol Zákányszék és Bordány között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91750",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 5431-es és az 5432-es út kereszteződésében történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi ütközött össze Zákányszék és Bordány között, az 5431-es és az 5432-es út kereszteződésében. A ruzsai hivatásos tűzoltók és az Üllés Községi Tűzoltó Egyesület áramtalanítják a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Zákányszék, 5431-5432",
       "updates": []
     },
     {
@@ -119,9 +128,9 @@
       "title": "Összeütközött két autó Igal és Somogyszil között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91746",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6507-es úton félpályán halad a forgalom.",
+      "body": "Frontálisan ütközött két személyautó Igal és Somogyszil között, a 3507-es út 18-as kilométerszelvényénél. A balesethez a kaposvári hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon a helyszínelés idején félpályán halad a forgalom.",
+      "location": "Igal, 6507",
       "updates": []
     },
     {
@@ -133,7 +142,16 @@
       "lead": "A tűz körülbelül nyolc hektárnyi területet érint.",
       "body": "Erdő aljnövényzete ég Újszentmargitán, a Petőfi utca közelében. A tűz körülbelül nyolc hektárnyi területet érint. A tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók dolgoznak a lángok megfékezésén.",
       "location": "Újszentmargita, Petőfi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Újszentmargitán",
+          "datetime": "2026.09.07. 18:07",
+          "category": "Tűzeset",
+          "text": "Befejezték az utómunkálatokat Újszentmargitán, ahol erdő aljnövényzete és száraz fű égett a Petőfi utca közelében. A tűz öt hektárnyi területet érintett. A lángokat a tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók oltották el. A rajok munkáját egy hajdúnánási vízszállító is segítette.",
+          "location": "Újszentmargita, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91745/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91745"
+        }
+      ]
     },
     {
       "id": "91744",
@@ -141,9 +159,9 @@
       "title": "Két autó karambolozott Budapest XV. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91744",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szántóföld utca és a Benkő István utca találkozásánál lezárták az utat.",
+      "body": "Két személyautó ütközött össze Budapest XV. kerületében, a Szántóföld utca és a Benkő István utca találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták, fennakadásokra kell számítani a közösségi közlekedetésben is.",
+      "location": "Budapest, Szántóföld utca",
       "updates": []
     },
     {
@@ -227,9 +245,9 @@
       "title": "Kigyulladt egy furgon Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91737",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ótelep utcába riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében égett egy furgon Tatabányán, az Ótelep utcában. A tűz részben egy mellette parkoló személyautóra is átterjedt. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat.",
+      "location": "Tatabánya, Ótelep utca",
       "updates": []
     },
     {
@@ -238,9 +256,9 @@
       "title": "Négyes karambol a XII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91736",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A járművek akadályozzák a forgalmat az Istenhegyi úton.",
+      "body": "Karambolozott négy személyautó Budapest XII. kerületében, az Istenhegyi úton, a Kékgolyó utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A járművek akadályozzák a forgalmat.",
+      "location": "Budapest, Istenhegyi út",
       "updates": []
     },
     {
@@ -252,7 +270,16 @@
       "lead": "A Méntelek tanyánál oltják a lángokat.",
       "body": "Családi ház valamint körülbelül ötven darab körbála ég Kecskemét közelében, a Méntelek tanyán. A tűz erdősávot is veszélyeztet. A kecskeméti hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Kecskemét, Méntelek tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Felügyelet mellett elégetik a bálákat Kecskemétnél",
+          "datetime": "2026.09.07. 14:00",
+          "category": "Tűzeset",
+          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók eloltották az épületben a tüzet, ami Kecskemét közelében, a Méntelek tanyán gyulladt ki. Az egységek egy gázpalackot is kihoztak az ingatlanból. A rajok erőgép segítségével az égő körbálákat megbontják, majd felügyelet mellett leégetik. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Kecskemét, Méntelek tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91735/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91735"
+        }
+      ]
     },
     {
       "id": "91734",
@@ -260,9 +287,9 @@
       "title": "Összeütközött két autó Bugyin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91734",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Teleki utca és a Sári utca kereszteződésében történt a baleset.",
+      "body": "Két személyautó karambolozott Bugyin, a Teleki utca és a Sári utca kereszteződésében. A balesethez a dabasi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A rajok munkáját egy arra járó önkéntes tűzoltó is segíti. A helyszínre mentő is érkezett.",
+      "location": "Bugyi, Teleki utca",
       "updates": []
     },
     {
