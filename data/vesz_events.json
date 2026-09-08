@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T12:37:15.022068+00:00",
-  "count": 3108,
+  "updated_at": "2026-09-08T12:40:28.693722+00:00",
+  "count": 3109,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91766",
+      "datetime": "2026.09.08. 14:38",
+      "title": "Teherautótűz a 1117-esen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91766",
+      "lead": "A tűz a jármű környezetére is átterjedt.",
+      "body": "Kigyulladt egy teherautó motortere és utasfülkéje Esztergom térségében, az 1117-es út 1-es kilométerénél. A tűz a környezetére is átterjedt. A nyergesújfalui és az esztergomi hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a teherautótüzet két vízsugárral már megfékezték.",
+      "location": "Esztergom, 1117",
+      "updates": []
+    },
     {
       "id": "91765",
       "datetime": "2026.09.08. 13:51",
@@ -67,16 +78,7 @@
       "lead": "Lakóházakat is veszélyeztet a tűz.",
       "body": "Kigyulladt az aljnövényzet Tinnyén, az Ady Endre utcában. Lakóházakat és autókat is veszélyeztet a tűz, amelyet a bajnai hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Tinnye, Ady Endre utca",
-      "updates": [
-        {
-          "title": "Már nem lángol az aljnövényzet Tinnyén",
-          "datetime": "2026.09.08. 13:06",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Tinnyén, az Ady Endre utcában, ahol kigyulladt az aljnövényzet az ottani zártkertekben. Mintegy háromezer négyzetméterre terjedt ki a tűz, és megsemmisült három kerti tároló, valamint két lakókocsi. Az esztergomi és a bajnai hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fékezték meg a lángokat.",
-          "location": "Tinnye, Ady Endre utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91760"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91759",
@@ -87,7 +89,16 @@
       "lead": "A szél nehezíti az oltást.",
       "body": "Nagy területen ég a tarló Fürgeden, a Petőfi Sándor utcában. A sárbogárdi hivatásos és a tamási önkormányzati tűzoltók oltják a lángokat. A szél nehezíti az oltást. További egységek mellett a katasztrófavédelmi műveleti szolgálat is a helyszínre tart.",
       "location": "Fürged, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Fürgeden",
+          "datetime": "2026.09.08. 13:25",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Fürgeden, a Petőfi Sándor utcában, ahol nagy területen tarló égett. A munkálatokat a szél nehezítette. A katasztrófavédelmi műveleti szolgálat irányítása mellett a sárbogárdi, a dombóvári, a siófoki hivatásos és a tamási önkormányzati tűzoltók fékezték meg a lángokat. Az oltást egy sárbogárdi vízszállító jármű és egy erőgép is segítette.",
+          "location": "Fürged, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91759/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91759"
+        }
+      ]
     },
     {
       "id": "91758",
@@ -461,9 +472,9 @@
       "title": "Égett egy ház Somogysárdon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91728",
-      "lead": "A tűzoltók a Fő utcában fékezték meg a lángokat.",
-      "body": "Kigyulladt egy lakóház Somogysárdon, a Fő utcában. Teljes terjedelmében égett a mintegy hatvan négyzetméteres ingatlan tetőszerkezete és a mellette lévő melléképület. A kaposvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A rajok kimentettek egy kutyát és kihoztak két gázpalackot a házból, ezek egyike előzőleg felhasadt. Az épület lakhatatlanná vált a tűz következtéében.",
-      "location": "Somogysárd, Fő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
