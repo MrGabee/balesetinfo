@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:56:14.030571+00:00",
+  "updated_at": "2026-09-08T18:00:03.886863+00:00",
   "count": 3123,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -122,7 +122,16 @@
       "lead": "Présházakat is veszélyeztetnek a lángok, amelyek egy szőlőültetvényben csaptak fel.",
       "body": "Tűz ütött ki egy mintegy tízhektáros szőlőültetvényben, Hőgyész külterületén, a József Attila lakótelep közelében. Az aljnövényzet gyulladt meg, és présházakat is veszélyeztetnek a lángok. A dombóvári és a sásdi hivatásos, valamint a tamási önkormányzati tűzoltók oltják a tüzet.",
       "location": "Hőgyész, Szentkút dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Hőgyész külterületén",
+          "datetime": "2026.09.08. 19:53",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Hőgyész külterületén, a József Attila lakótelep kötelében, ahol mintegy tízhektáros szőlőültetvényben keletkezett tűz. Az aljnövényzet gyulladt ki, és egy présház tetőszerkezetét is érintették a lángok. A dombóvási, a sásdi, a kaposvári hivatásos, a tamási önkormányzati, a zombai és a kétyi önkéntes tűzoltók több vízsugárral fékezték meg a tüzet. A munkálatokat a katasztrófavédelmi műveleti szolgálat irányította. Egy dombóvári és egy paksi vízszállító jármű is segítette az oltást.",
+          "location": "Hőgyész, Szentkút dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91770/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91770"
+        }
+      ]
     },
     {
       "id": "91769",
@@ -144,7 +153,16 @@
       "lead": "Egy erdős, bokros terület ég.",
       "body": "Kigyulladt az aljnövényzet egy erdős, bokros térségben, Kunadacs közelében. Nagy területre terjednek ki a lángok, amelyeket a kecskeméti hivatásos és a szabadszállási önkormányzati tűzoltók oltanak. A helyszínre tart több más egység is.",
       "location": "Kunadacs, Középadacs tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kunadacs közelében",
+          "datetime": "2026.09.08. 20:00",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Kunadacs közelében, ahol mintegy három hektáron aljnövényzet égett egy erdős, bokros térségben. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, a kecskeméti és a dabasi hivatásos, valamint a szabadszállási önkormányzati tűzoltók fékezték meg a tüzet. Az oltási munkálatokat egy ceglédi, egy kecskeméti és egy kiskunfélegyházai vízszállító is segítette.",
+          "location": "Kunadacs, Középadacs tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91768/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91768"
+        }
+      ]
     },
     {
       "id": "91767",
