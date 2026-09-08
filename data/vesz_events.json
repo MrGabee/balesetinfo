@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T20:04:33.838259+00:00",
-  "count": 3125,
+  "updated_at": "2026-09-08T20:08:12.700190+00:00",
+  "count": 3126,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91783",
+      "datetime": "2026.09.08. 22:06",
+      "title": "Baleset történt Bagon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91783",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Letért az útról egy személygépkocsi Bagon, a Malsfeli utcában. A műszaki mentési munkálatok elvégzéséhez az aszódi és a gödöllői hivatásos tűzoltók vonultak ki. A baleset következtében egy ember beszorult, őt az egységek feszítővágó segítségével szabadították ki. A raj áramtalanította a járművet. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Bag, Malsfeldi utca",
+      "updates": []
+    },
     {
       "id": "91782",
       "datetime": "2026.09.08. 21:46",
