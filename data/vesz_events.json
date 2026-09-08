@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-08T12:40:28.693722+00:00",
-  "count": 3109,
+  "updated_at": "2026-09-08T12:44:09.165837+00:00",
+  "count": 3110,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91767",
+      "datetime": "2026.09.08. 14:43",
+      "title": "Két autó ütközött Mohácson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91767",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Mohácson, a Liszt Ferenc utca és a Földvár utca kereszteződésénél. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mohács, Liszt Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91766",
       "datetime": "2026.09.08. 14:38",
@@ -78,7 +89,16 @@
       "lead": "Lakóházakat is veszélyeztet a tűz.",
       "body": "Kigyulladt az aljnövényzet Tinnyén, az Ady Endre utcában. Lakóházakat és autókat is veszélyeztet a tűz, amelyet a bajnai hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Tinnye, Ady Endre utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol az aljnövényzet Tinnyén",
+          "datetime": "2026.09.08. 13:06",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Tinnyén, az Ady Endre utcában, ahol kigyulladt az aljnövényzet az ottani zártkertekben. Mintegy háromezer négyzetméterre terjedt ki a tűz, és megsemmisült három kerti tároló, valamint két lakókocsi. Az esztergomi és a bajnai hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fékezték meg a lángokat.",
+          "location": "Tinnye, Ady Endre utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91760"
+        }
+      ]
     },
     {
       "id": "91759",
@@ -278,9 +298,9 @@
       "title": "Két autó karambolozott Budapest XV. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91744",
-      "lead": "A Szántóföld utca és a Benkő István utca találkozásánál lezárták az utat.",
-      "body": "Két személyautó ütközött össze Budapest XV. kerületében, a Szántóföld utca és a Benkő István utca találkozásánál. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták, fennakadásokra kell számítani a közösségi közlekedetésben is.",
-      "location": "Budapest, Szántóföld utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -472,9 +492,9 @@
       "title": "Égett egy ház Somogysárdon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91728",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Fő utcában fékezték meg a lángokat.",
+      "body": "Kigyulladt egy lakóház Somogysárdon, a Fő utcában. Teljes terjedelmében égett a mintegy hatvan négyzetméteres ingatlan tetőszerkezete és a mellette lévő melléképület. A kaposvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A rajok kimentettek egy kutyát és kihoztak két gázpalackot a házból, ezek egyike előzőleg felhasadt. Az épület lakhatatlanná vált a tűz következtéében.",
+      "location": "Somogysárd, Fő utca",
       "updates": []
     },
     {
