@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T12:20:05.596865+00:00",
-  "count": 3145,
+  "updated_at": "2026-09-09T12:24:01.191143+00:00",
+  "count": 3146,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91803",
+      "datetime": "2026.09.09. 14:21",
+      "title": "Eddig hét hektár égett le Egyeknél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803",
+      "lead": "Egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltókat riasztottak.",
+      "body": "A Hortobágyi Nemzeti Park területén, Egyek külterületén még tegnap kora este gyulladt meg a nádas, cserjés, bokros, bozótos terület, akkor nagyjából ötven hektáron égett a vegetáció. A tűzoltók szerda hajnalban a rossz látási és terepviszonyok miatt biztonsági okokból felfüggesztették az utómunkálatokat. Az egységek reggel kilenc óta ismét a helyszínen vannak, felkutatták a gócpontokat, a felerősödött szél azonban újra felszította a lángokat. Egyeki önkéntes, illetve mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi hivatásos tűzoltókat riasztottak a tűzhöz, amelynek kiterjedését drónnal derítik fel. A nagy füst miatt az úttal párhuzamosan haladó vasúti pályán lassítják a vonatokat.",
+      "location": "Egyek, külterület",
+      "updates": []
+    },
     {
       "id": "91802",
       "datetime": "2026.09.09. 13:50",
