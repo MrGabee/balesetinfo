@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T14:21:31.222225+00:00",
-  "count": 3152,
+  "updated_at": "2026-09-09T14:25:00.746814+00:00",
+  "count": 3153,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91810",
+      "datetime": "2026.09.09. 16:24",
+      "title": "Motor és személykocsi karambolozott Rajka szélén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91810",
+      "lead": "A 15-ös főút 16-17-es kilométere közé riasztották a tűzoltókat.",
+      "body": "Összeütközött egy motorkerékpár és egy személygépkocsi a 15-ös főúton, Rajka szélén. A 16-17-es kilométer között történt balesethez a mosonmagyaróvári hivatásos tűzoltók vonultak, a raj áramtalanított. A motoron ketten ültek, az autóban csak a sofőr utazott, a helyszínre mentő is érkezett. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Rajka, 15",
+      "updates": []
+    },
     {
       "id": "91809",
       "datetime": "2026.09.09. 16:12",
