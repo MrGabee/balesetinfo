@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T22:06:42.437684+00:00",
-  "count": 3165,
+  "updated_at": "2026-09-09T22:10:42.870230+00:00",
+  "count": 3166,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91823",
+      "datetime": "2026.09.10. 00:06",
+      "title": "Tűz volt egy balmazújvárosi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91823",
+      "lead": "A Wesselényi utcába riasztották a város tűzoltóit.",
+      "body": "Berendezési tárgyak égtek egy családi ház szobájában Balmazújvárosban, a Wesselényi utcában. A város hivatásos tűzoltói légzőkészülékben, egy vízsugárral eloltották a lángokat, illetve hőkamerával átvizsgálták az épületet. A házban egy ember tartózkodott, ő időben kiment a szabadba.",
+      "location": "Balmazújváros, Wesselényi utca",
+      "updates": []
+    },
     {
       "id": "91822",
       "datetime": "2026.09.09. 23:15",
