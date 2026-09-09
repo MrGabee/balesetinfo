@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T21:13:48.197409+00:00",
-  "count": 3164,
+  "updated_at": "2026-09-09T21:17:51.148211+00:00",
+  "count": 3165,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91822",
+      "datetime": "2026.09.09. 23:15",
+      "title": "Súlyos baleset történt Kiskunfélegyháza határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91822",
+      "lead": "A Csanyi úton, a 451-es főúti csomópont közelében rádőlt egy fa egy motorosra.",
+      "body": "Rádőlt egy fa egy motorosra Kiskunfélegyházán, a Csanyi úton. A kétkerekű jármű vezetőjét a mentőszolgálat munkatársai még a kiskunfélegyházi hivatásos tűzoltók megérkezése előtt ápolni kezdték. Az egység a rendőrségi helyszínelés után emeli le a fát a motorosról. A Csanyi út érintett szakaszát átmenetileg teljes szélességében lezárták.",
+      "location": "Kiskunfélegyháza, Csanyi út",
+      "updates": []
+    },
     {
       "id": "91821",
       "datetime": "2026.09.09. 23:07",
