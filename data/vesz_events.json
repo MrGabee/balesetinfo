@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T14:43:23.892314+00:00",
-  "count": 3154,
+  "updated_at": "2026-09-09T14:46:42.160040+00:00",
+  "count": 3155,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91812",
+      "datetime": "2026.09.09. 16:45",
+      "title": "Négyes karambol az 1-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91812",
+      "lead": "Mosonújhelynél végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött négy személyautó az 1-es főúton, Mosonújhely közelében. A győri hivatásos tűzoltók vonultak ki a balesethez, és áramtalanítottak két gépkocsit. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Mosonújhely, 1",
+      "updates": []
+    },
     {
       "id": "91811",
       "datetime": "2026.09.09. 16:32",
