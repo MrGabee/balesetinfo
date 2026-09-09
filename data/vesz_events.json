@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T20:55:01.931859+00:00",
-  "count": 3162,
+  "updated_at": "2026-09-09T20:58:32.362753+00:00",
+  "count": 3163,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91820",
+      "datetime": "2026.09.09. 22:55",
+      "title": "Felborult egy autó az M0-áson, Nagytarcsánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91820",
+      "lead": "Az M1-es felé vezető oldalon, az 55-ös kilométernél történt a baleset.",
+      "body": "Baleset történt az M0-ás autóúton, az 55-ös kilométernél. Az M1-es felé vezető oldalon a tetejére borult egy személykocsi. A fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók végzik a műszaki mentést. A járműben csak annak vezetője utazott, ki tudott szállni a kocsiból. Az autóút érintett szakaszán egy sáv járható.",
+      "location": "Nagytarcsa, M0",
+      "updates": []
+    },
     {
       "id": "91819",
       "datetime": "2026.09.09. 22:19",
@@ -202,7 +213,7 @@
           "title": "A rajok az utómunkálatokat végzik Egyeknél",
           "datetime": "2026.09.09. 21:57",
           "category": "Tűzeset",
-          "text": "Egyek és Hortobágy között egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat. Az ohati halastavak mellett több hektáron volt ma is tűz, az oltásban a földi egységek mellett részt vett a zagyvarékai Életjel Mentőcsoport tűzoltórepülője is, amely több fordulót teljesített az égő terület felett. Biztonsági okokból az aktív oltást ismét felfüggesztették éjszakára, az utómunkálatokra és a terület felügyeletére az egyeki gépjárműfecskendő és a tiszafüredi vízszállító maradt a helyszínen.",
+          "text": "Egyek és Hortobágy között egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat. Az ohati halastavak mellett több hektáron volt ma is tűz, az oltásban a földi egységek mellett részt vett a zagyvarékasi Életjel Mentőcsoport tűzoltórepülője is, amely több fordulót teljesített az égő terület felett. Biztonsági okokból az aktív oltást ismét felfüggesztették éjszakára, az utómunkálatokra és a terület felügyeletére az egyeki gépjárműfecskendő és a tiszafüredi vízszállító maradt a helyszínen.",
           "location": "Egyek, külterület",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
         }
