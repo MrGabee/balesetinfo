@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-09T12:27:30.222729+00:00",
-  "count": 3146,
+  "updated_at": "2026-09-09T12:31:09.324704+00:00",
+  "count": 3148,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91805",
+      "datetime": "2026.09.09. 14:29",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
+    {
+      "id": "91804",
+      "datetime": "2026.09.09. 14:29",
+      "title": "Embert gázolt a vonat Hatvanban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91804",
+      "lead": "A tűzoltók segítettek átszállni a szerelvény utasainak.",
+      "body": "Elgázolt egy embert a vonat Hatvanban, a Kandó Kálmán utcánál. A baleset miatt a szerelvény nem tud továbbmenni. Ezért a rajta utazóknak a város hivatásos tűzoltói segítettek átszállni az értük küldött mentesítő autóbuszra.",
+      "location": "Hatvan, Kandó Kálmán utca",
+      "updates": []
+    },
     {
       "id": "91803",
       "datetime": "2026.09.09. 14:21",
