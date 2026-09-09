@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T14:04:34.874088+00:00",
-  "count": 3150,
+  "updated_at": "2026-09-09T14:08:19.151933+00:00",
+  "count": 3151,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91808",
+      "datetime": "2026.09.09. 16:04",
+      "title": "Szalmabálák égnek Eleken",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808",
+      "lead": "A 4444-es út mellett dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Elek külterületén, a 4444-es út mellett. Egy mintegy háromszáz négyzetméter alapterületű kazalba rakott szalmabálák és egy pótkocsi gyulladt ki. A gyulai hivatásos tűzoltók három vízsugárral dolgoznak a helyszínen, ahol felügyelet mellett elégetik a bálákat.",
+      "location": "Elek, 4444",
+      "updates": []
+    },
     {
       "id": "91807",
       "datetime": "2026.09.09. 14:47",
