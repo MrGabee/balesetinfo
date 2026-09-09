@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T10:28:34.318022+00:00",
-  "count": 3137,
+  "updated_at": "2026-09-09T10:32:00.603302+00:00",
+  "count": 3138,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91795",
+      "datetime": "2026.09.09. 12:31",
+      "title": "Autó égett a 66-os főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91795",
+      "lead": "A tűzoltók Mánfa közelében fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi a 66-os főúton, Mánfa közelében, a 8. és a 9. kilométer között. A járműben hárman utaztak, mindenki ki tudott szállni. A komlói hivatásos tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Mánfa, 66",
+      "updates": []
+    },
     {
       "id": "91794",
       "datetime": "2026.09.09. 12:07",
