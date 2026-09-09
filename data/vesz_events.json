@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T17:31:04.067704+00:00",
-  "count": 3159,
+  "updated_at": "2026-09-09T17:34:17.308306+00:00",
+  "count": 3160,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91817",
+      "datetime": "2026.09.09. 19:31",
+      "title": "Tűz ütött ki egy tatabányai munkásszállón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91817",
+      "lead": "A Vértanúk terére riasztották a város tűzoltóit.",
+      "body": "Tűz keletkezett egy tatabányai, Vértanúk terei épületben. A munkásszállóként funkcionáló épület földszinti lakásában egy helyiség gyulladt ki, emiatt a szoba és a folyosó is megtelt füsttel. A vármegyeszékhely hivatásos tűzoltói áramtalanították az épületet, vízsugarakkal eloltották a lángokat, illetve átvizsgálták a szobákat, nincs-e odabenn valaki, de nem találtak senkit. Az épületet harmincöten hagyták el, a helyszínre mentő is érkezett.",
+      "location": "Tatabánya, Vértanúk tere",
+      "updates": []
+    },
     {
       "id": "91816",
       "datetime": "2026.09.09. 19:09",
