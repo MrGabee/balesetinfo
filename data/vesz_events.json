@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:45:19.746464+00:00",
+  "updated_at": "2026-09-09T13:49:06.774910+00:00",
   "count": 3150,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,8 +31,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
@@ -42,9 +42,9 @@
       "title": "Embert gázolt a vonat Hatvanban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91804",
-      "lead": "A tűzoltók segítettek átszállni a szerelvény utasainak.",
-      "body": "Elgázolt egy embert a vonat Hatvanban, a Kandó Kálmán utcánál. A baleset miatt a szerelvény nem tud továbbmenni. Ezért a rajta utazóknak a város hivatásos tűzoltói segítettek átszállni az értük küldött mentesítő autóbuszra.",
-      "location": "Hatvan, Kandó Kálmán utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -106,10 +106,19 @@
       "title": "Ég egy melléképület Szegednél",
       "category": "Ég egy melléképület Szegednél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A körülötte lévő növényzetre is átterjedt a tűz.",
+      "body": "Kigyulladt egy melléképület a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton. Teljes terjedelmében ég az ingatlan, és mintegy négyszáz négyzetméteren a körülötte lévő avar és gaz is lángra kapott. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Szeged, Széksósi út",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szegednél",
+          "datetime": "2026.09.09. 14:13",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a szabadtéri tűznek a lángjait, amely a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton keletkezett. Teljes terjedelmében kiégett egy melléképület, benne egy farakással, és részben egy másik melléképületet is érintettek a lángok. Mintegy négyszáz négyzetméteren tarló és cserjés, az út másik oldalán pedig erdő aljnövényzete égett. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók egy szentesi és egy szegedi vízszállító jármű közreműködésével, a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Szeged, Széksósi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91799"
+        }
+      ]
     },
     {
       "id": "91798",
@@ -238,9 +247,9 @@
       "title": "Kisebb tűz volt egy debreceni társasházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91787",
-      "lead": "A Thomas Mann utcai ingatlan pincéjében égett egy armatúra.",
-      "body": "Tűz keletkezett egy társasházban, Debrecenben, a Thomas Mann utcában. Egy armatúra égett a pincében. A város hivatásos tűzoltói porral oltóval eloltották a tüzet, és kiszellőztetik az épületet.",
-      "location": "Debrecen, Thomas Mann utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -260,9 +269,9 @@
       "title": "Baleset az M5-ösön, Kecskemétnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91785",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Terelésnek hajtott egy személygépkocsi Kecskemétnél, az M5-ös autópálya 83-as kilométerénél, a Budapest felé vezető oldalon. A kecskeméti hivatásos tűzoltók áramtalanították a járművet. Az érintett sztrádaszakaszon forgalomkorlátozásra lehet számítani.",
-      "location": "Kecskemét, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -282,9 +291,9 @@
       "title": "Baleset történt Bagon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91783",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Letért az útról egy személygépkocsi Bagon, a Malsfeli utcában. A műszaki mentési munkálatok elvégzéséhez az aszódi és a gödöllői hivatásos tűzoltók vonultak ki. A baleset következtében egy ember beszorult, őt az egységek feszítővágó segítségével szabadították ki. A raj áramtalanította a járművet. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Bag, Malsfeldi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -438,9 +447,9 @@
       "title": "Pincetűz Putnokon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91772",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral eloltották a lángokat.",
+      "body": "Tűz keletkezett egy pincében, Putnokon, az Andrássy Dénes úton. A pincében húsz négyzetméteren szemét égett. Az ózdi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Putnok, Andrássy Dénes út",
       "updates": []
     },
     {
