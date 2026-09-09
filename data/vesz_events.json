@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T17:08:49.598916+00:00",
-  "count": 3158,
+  "updated_at": "2026-09-09T17:12:16.249039+00:00",
+  "count": 3159,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91816",
+      "datetime": "2026.09.09. 19:09",
+      "title": "Baleset miatt áll az M1-es forgalma Levél térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91816",
+      "lead": "Az országhatár felé vezető oldalon, a 163-as kilométernél nem lehet közlekedni.",
+      "body": "Két személykocsi és egy kamion a részese annak a balesetnek, amely az M1-es sztráda Hegyeshalom felé vezető oldalán történt, Levél térségében. A 163-as kilométernél történt karambolnál érintett három járműben összesen négy ember utazott. Az egyik autó az árokban állt meg, a másik és a kamion a két sávot elfoglal, az országhatár felé vezető oldalon átmenetileg teljes útlezárás van. A mosonmagyaróvári hivatásos tűzoltók áramtalanítottak. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Levél, M1",
+      "updates": []
+    },
     {
       "id": "91815",
       "datetime": "2026.09.09. 17:28",
