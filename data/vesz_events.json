@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:00:12.886696+00:00",
+  "updated_at": "2026-09-09T10:04:12.444626+00:00",
   "count": 3136,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Összeütközött két gépkocsi a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91789",
-      "lead": "Hajdúszoboszló közelében forgalmi akadály van.",
-      "body": "Karambolozott két kisteherautó a 4-es főúton, Hajdúszoboszló közelében, a 200. kilométernél. Az egyik gépkocsi felborult. A hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen öten utaztak, mindannyian ki tudtak szállni. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Hajdúszoboszló, 4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -86,9 +86,9 @@
       "title": "Baleset történt Mezőkövesden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91786",
-      "lead": "Az Egri úton, a szupermarketnél két személykocsi karambolozott.",
-      "body": "Egymásba hajtott két autó Mezőkövesden, az Egri úton. A szupermarket közelében történt balesethez a város hivatásos tűzoltóit riasztották. A raj áramtalanította a járműveket. Az autók utasaihoz mentő érkezett.",
-      "location": "Mezőkövesd, Egri út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -275,9 +275,9 @@
       "title": "Pincetűz Putnokon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91772",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral eloltották a lángokat.",
+      "body": "Tűz keletkezett egy pincében, Putnokon, az Andrássy Dénes úton. A pincében húsz négyzetméteren szemét égett. Az ózdi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Putnok, Andrássy Dénes út",
       "updates": []
     },
     {
@@ -410,9 +410,9 @@
       "title": "Kigyulladt a nádas Egerlövő közelében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91763",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eloltották a lángokat, a munkálatokat erőgép is segíti.",
+      "body": "Lángra kapott egy nádas, egy Mezőszemere és Egerlövő közötti területen. Mintegy tíz hektárt érintett a tűz, amelyhez a mezőkövesdi és az egri hivatásos, valamint a tiszabábolnai önkéntes tűzoltókat riasztották. A rajok megakadályozták a tűz továbbterjedését, és eloltották a lángokat. A munkálatokat, amelyeket erőgép és civilek is segítenek, a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Egerlövő, Mezőszemere és Egerlövő között",
       "updates": []
     },
     {
@@ -425,14 +425,6 @@
       "body": "Tűz ütött ki egy társasházban, Budapest XIV. kerületében, a Stefánia úton, az Egressy út közelében. A tetőszerkezet ég mintegy kétszáz-háromszáz négyzetméteren. A fővárosi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett nagy erőkkel oltják a lángokat.",
       "location": "Budapest, Stefánia út",
       "updates": [
-        {
-          "title": "Nem terjed tovább a Stefánia úti tetőtűz",
-          "datetime": "2026.09.08. 14:59",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a tűz továbbterjedését Budapest XIV. kerületében, a Stefánia úton, az Egressy út közelében, ahol tűz ütött ki egy társasházban. A tetőszerkezet égett mintegy hatszáz négyzetméteren. Átterjedt két lakásra, valamint három erkélyre, és több épületet is veszélyeztetett a tűz. A fővárosi hivatásos és a zuglói önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, nyolc vízsugárral – köztük két létrasugárral – fékezték meg a lángokat. Az épületet több mint húsz ember hagyta el a tűz miatt.",
-          "location": "Budapest, Stefánia út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91762/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91762"
-        },
         {
           "title": "Eloltották a Stefánia úti tetőtűz lángjait",
           "datetime": "2026.09.08. 16:51",
@@ -449,9 +441,9 @@
       "title": "Összeütközött két autó a 1111-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91761",
-      "lead": "Pilisszentlélek közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Karambolozott két személyautó a 1111-es úton, az Esztergomhoz tartozó Pilisszentlélek közelében, a 27. kilométernél. A szentendrei hivatásos tűzoltók áramtalanították a gépkocsikat, amelyekben egy-egy ember utazott. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
-      "location": "Esztergom, Pilisszentlélek",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -460,19 +452,10 @@
       "title": "Ég az aljnövényzet Tinnyén",
       "category": "Ég az aljnövényzet Tinnyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760",
-      "lead": "Lakóházakat is veszélyeztet a tűz.",
-      "body": "Kigyulladt az aljnövényzet Tinnyén, az Ady Endre utcában. Lakóházakat és autókat is veszélyeztet a tűz, amelyet a bajnai hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
-      "location": "Tinnye, Ady Endre utca",
-      "updates": [
-        {
-          "title": "Már nem lángol az aljnövényzet Tinnyén",
-          "datetime": "2026.09.08. 13:06",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Tinnyén, az Ady Endre utcában, ahol kigyulladt az aljnövényzet az ottani zártkertekben. Mintegy háromezer négyzetméterre terjedt ki a tűz, és megsemmisült három kerti tároló, valamint két lakókocsi. Az esztergomi és a bajnai hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fékezték meg a lángokat.",
-          "location": "Tinnye, Ady Endre utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91760/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91760"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91759",
@@ -480,19 +463,10 @@
       "title": "Tarlótűz Fürgeden",
       "category": "Tarlótűz Fürgeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91759",
-      "lead": "A szél nehezíti az oltást.",
-      "body": "Nagy területen ég a tarló Fürgeden, a Petőfi Sándor utcában. A sárbogárdi hivatásos és a tamási önkormányzati tűzoltók oltják a lángokat. A szél nehezíti az oltást. További egységek mellett a katasztrófavédelmi műveleti szolgálat is a helyszínre tart.",
-      "location": "Fürged, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Utómunkálatok zajlanak Fürgeden",
-          "datetime": "2026.09.08. 13:25",
-          "category": "Tűzeset",
-          "text": "A tűzoltók az utómunkálatokat végzik Fürgeden, a Petőfi Sándor utcában, ahol nagy területen tarló égett. A munkálatokat a szél nehezítette. A katasztrófavédelmi műveleti szolgálat irányítása mellett a sárbogárdi, a dombóvári, a siófoki hivatásos és a tamási önkormányzati tűzoltók fékezték meg a lángokat. Az oltást egy sárbogárdi vízszállító jármű és egy erőgép is segítette.",
-          "location": "Fürged, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91759/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91759"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91758",
@@ -500,9 +474,9 @@
       "title": "Ráfutásos baleset Kupnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91758",
-      "lead": "A 8402-es út érintett szakaszát teljes szélességében lezárták.",
-      "body": "Összeütközött két személygépkocsi Kupnál, a 8402-es út 15-ös kilométerénél. A ráfutásos balesethez a pápai hivatásos tűzoltókat riasztották. A raj áramtalanította a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Kup, 8402",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -511,9 +485,9 @@
       "title": "Autó égett Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91757",
-      "lead": "A Berzsenyi utcában keletkezett tűz, amelyet megfékeztek a tűzoltók.",
-      "body": "Kigyulladt egy személyautó Kaposváron, a Berzsenyi utcában. A jármű motortere égett. A város hivatásos tűzoltói egy vízsugárral eloltották a tüzet, és lehűtik a gépkocsi felhevült elemeit. Egy szabadnapos tűzoltó két porral oltóval még a raj kiérkezése előtt megkezdte a tűz oltását.",
-      "location": "Kaposvár, Berzsenyi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -522,9 +496,9 @@
       "title": "Baleset történt Napkoron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91756",
-      "lead": "A Sényői utcába riasztották a tűzoltókat.",
-      "body": "Árokba csúszott egy gépkocsi Napkoron, a Sényői utcában, a Gárdonyi utca közelében. A helyi önkéntes tűzoltók áramtalanították a járművet, amelyben egy ember utazott. A helyszínre érkeztek a nyíregyházi hivatásos tűzoltók is.",
-      "location": "Napkor, Sényői utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -533,9 +507,9 @@
       "title": "Baleset történt a XI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91755",
-      "lead": "Forgalmi akadály van.",
-      "body": "Parkoló gépkocsinak csapódott és felborult egy személyautó Budapest XI. kerületében, az Etele úton, a Vahot utca közelében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Budapest, Etele út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -544,19 +518,10 @@
       "title": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében",
       "category": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91754",
-      "lead": "A Toborzó utcába vonultak a tűzoltók.",
-      "body": "Vasúti sínek mellett ég a gaz Budapest XIII. kerületében, a Toborzó utcánál. A tűz gyorsan terjed. A fővárosi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
-      "location": "Budapest, Toborzó utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Budapest XIII. kerületében",
-          "datetime": "2026.09.07. 22:39",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat a fővárosi hivatásos tűzoltók a XIII. kerületben, ahol a vasúti sínek mellett gyulladt a gaz a Toborzó utcánál. A rajok további izzó gócpontok után kutatnak. A munkálatokat a katasztrófavédelmi műveleti szolgálat irányítja.",
-          "location": "Budapest, Toborzó utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91754/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91754"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91753",
