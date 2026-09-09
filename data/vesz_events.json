@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T15:08:08.341197+00:00",
-  "count": 3156,
+  "updated_at": "2026-09-09T15:12:08.977478+00:00",
+  "count": 3157,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91814",
+      "datetime": "2026.09.09. 17:10",
+      "title": "Elgázolt egy embert a vonat Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91814",
+      "lead": "Az Érd alsó vasútállomás közelében történt a súlyos baleset.",
+      "body": "Elütött egy embert a Székesfehérvárról a Déli pályaudvarra közlekedő vonat Érd alsó előtt. A város hivatásos tűzoltói a szerelvény több mint százötven utasát kísérik be az állomásra. A helyszínre mentő is érkezett. A vasúttársaság tájékoztatása szerint a történtek miatt a székesfehérvári vonalon hosszabb menetidőre kell számítani.",
+      "location": "Érd, Esküdt utca",
+      "updates": []
+    },
     {
       "id": "91813",
       "datetime": "2026.09.09. 17:05",
