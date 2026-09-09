@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:56:52.309634+00:00",
+  "updated_at": "2026-09-09T14:00:42.126053+00:00",
   "count": 3150,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,10 +75,19 @@
       "title": "Kigyulladt egy melléképület Szadán",
       "category": "Kigyulladt egy melléképület Szadán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91801",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Béke utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki Szadán, a Béke utcában. Teljes terjedelmében ég egy melléképület és nagy területen az aljnövényzet is. A gödöllői és a fővárosi hivatásos tűzoltók oltják a lángokat.",
+      "location": "Szada, Béke utca",
+      "updates": [
+        {
+          "title": "Megfékezték a szadai tüzet",
+          "datetime": "2026.09.09. 14:56",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Szadán, ahol tűz ütött ki a Béke utcában. Mintegy fél hektáron egy száraz füves, bozótos területet érintettek a lángok. Megsemmisült a tűzben egy körülbelül nyolcvan négyzetméteres istálló teteje, és részben égett egy hozzá csatlakozó melléképület is. Tűzifa és szalmabálák is voltak a területen, ezek még izzanak. A lángokat gödöllői és a fővárosi hivatásos, valamint a veresegyházi önkéntes tűzoltók fékezték meg. A rajok utómunkálatokat végeznek.",
+          "location": "Szada, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91801/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91801"
+        }
+      ]
     },
     {
       "id": "91800",
@@ -86,9 +95,9 @@
       "title": "Baleset miatt van fennakadás a ráckevei HÉV vonalán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91800",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pesterzsébet felső és a Kén utcai megálló között egy szerelvény személykocsival ütközött.",
+      "body": "Összeütközött egy HÉV-szerelvény és egy autó a ráckevei vonalon, a Pesterzsébet felső és a Kén utcai megálló között. A személykocsiban csak a sofőr ült, a szerelvényen nagyjából százan utaztak. A fővárosi hivatásos tűzoltók mindkét járművet áramtalanították. A helyszínre vonultak a társhatóságok is. A karambol miatt mindkét sínpáron akadály van, a HÉV nem közlekedik, Pesterzsébet felső és a Közvágóhíd között pótlóbuszok viszik az utasokat.",
+      "location": "Budapest, Soroksári út",
       "updates": []
     },
     {
@@ -349,7 +358,16 @@
       "lead": "Avar és aljnövényzet ég.",
       "body": "Tíz hektáron avar és aljnövényzet ég Németkér külterületén, a Kanacs pusztánál. A paksi és a sárbogárdi hivatásos tűzoltók három vízsugárral és kéziszerszámokkal oltják a lángokat. Egy sárbogárdi vízszállító is a helyszínen dolgozik.",
       "location": "Németkér, Kanacs puszta",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Németkérnél",
+          "datetime": "2026.09.08. 21:18",
+          "category": "Tűzeset",
+          "text": "Tíz hektáron avar és aljnövényzet égett Németkér külterületén, a Kanacs pusztánál. A tűz egy erdőt is veszélyeztetett. A paksi, a sárbogárdi és a solti hivatásos tűzoltók négy vízsugárral és kéziszerszámokkal oltották el a lángokat. Egy sárbogárdi és egy kalocsai vízszállító jármű is segítette a munkálatokat. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Németkér, Kanacs puszta",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91778/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91778"
+        }
+      ]
     },
     {
       "id": "91777",
@@ -368,6 +386,14 @@
           "text": "Körülbelül ötven hektáron nádas, cserjés, bokros, bozótos terület gyulladt ki Egyek külterületén, a Hortobágyi Nemzeti Park területén. A tűz a vasúti közlekedést is befolyásolja. A katasztrófavédelmi műveleti szolgálat irányítása mellett a mezőkövesdi, a tiszafüredi, a tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók négy vízsugárral, egy vízágyúval és kéziszerszámokkal végzik a beavatkozást. A helyszínen egy tiszafüredi, egy mezőkövesdi, egy tiszaújvárosi vízszállító jármű és egy erőgép is segíti a munkálatokat.",
           "location": "Tiszacsege, 3322",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91777/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91777"
+        },
+        {
+          "title": "Biztonsági okokból felfüggesztették az utómunkálatokat Egyek külterületén a hajnali órákban",
+          "datetime": "2026.09.09. 06:39",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett Egyek külterületén, a Hortobágyi Nemzeti Park területén, ahol mintegy ötven hektáron nádas, cserjés, bokros, bozótos terület kapott lángra. A mezőkövesdi, a tiszafüredi, a tiszaújvárosi hivatásos és az egyeki önkormányzati tűzoltók négy vízsugárral, egy vízágyúval és kéziszerszámokkal végezték a beavatkozást a katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy tiszafüredi, egy mezőkövesdi, egy tiszaújvárosi vízszállító jármű és egy erőgép is segítette. A rajok lánggal égést már nem tapasztaltak, azonban a hajnali órákban az utómunkálatokat a rossz látási és terepviszonyok miatt biztonsági okokból felfüggesztették, így a mai nappali körülmények között fogják elvégezni azokat. A területet a Hortobágyi Nemzeti Park két természetvédelmi őre őrzi. A vonatforgalom újra megindulhatott az adott szakaszon is.",
+          "location": "Tiszacsege, 3322",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91777/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91777"
         }
       ]
     },
