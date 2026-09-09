@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T06:03:03.993203+00:00",
-  "count": 3128,
+  "updated_at": "2026-09-09T06:07:46.376298+00:00",
+  "count": 3129,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91786",
+      "datetime": "2026.09.09. 08:03",
+      "title": "Baleset történt Mezőkövesden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91786",
+      "lead": "Az Egri úton, a szupermarketnél két személykocsi karambolozott.",
+      "body": "Egymásba hajtott két autó Mezőkövesden, az Egri úton. A szupermarket közelében történt balesethez a város hivatásos tűzoltóit riasztották. A raj áramtalanította a járműveket. Az autók utasaihoz mentő érkezett.",
+      "location": "Mezőkövesd, Egri út",
+      "updates": []
+    },
     {
       "id": "91785",
       "datetime": "2026.09.09. 07:37",
