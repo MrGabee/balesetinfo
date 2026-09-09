@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:49:06.774910+00:00",
+  "updated_at": "2026-09-09T13:53:05.798514+00:00",
   "count": 3150,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,8 +31,8 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
@@ -42,9 +42,9 @@
       "title": "Embert gázolt a vonat Hatvanban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91804",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek átszállni a szerelvény utasainak.",
+      "body": "Elgázolt egy embert a vonat Hatvanban, a Kandó Kálmán utcánál. A baleset miatt a szerelvény nem tud továbbmenni. Ezért a rajta utazóknak a város hivatásos tűzoltói segítettek átszállni az értük küldött mentesítő autóbuszra.",
+      "location": "Hatvan, Kandó Kálmán utca",
       "updates": []
     },
     {
@@ -247,9 +247,9 @@
       "title": "Kisebb tűz volt egy debreceni társasházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91787",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Thomas Mann utcai ingatlan pincéjében égett egy armatúra.",
+      "body": "Tűz keletkezett egy társasházban, Debrecenben, a Thomas Mann utcában. Egy armatúra égett a pincében. A város hivatásos tűzoltói porral oltóval eloltották a tüzet, és kiszellőztetik az épületet.",
+      "location": "Debrecen, Thomas Mann utca",
       "updates": []
     },
     {
@@ -269,9 +269,9 @@
       "title": "Baleset az M5-ösön, Kecskemétnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91785",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Terelésnek hajtott egy személygépkocsi Kecskemétnél, az M5-ös autópálya 83-as kilométerénél, a Budapest felé vezető oldalon. A kecskeméti hivatásos tűzoltók áramtalanították a járművet. Az érintett sztrádaszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Kecskemét, M5",
       "updates": []
     },
     {
@@ -302,9 +302,9 @@
       "title": "Árokba borult egy autó Tiszalöknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91782",
-      "lead": "Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
-      "body": "Oldalával az árokba borult egy személyautó Tiszalöknél, a Kossuth utcában. A tiszavasvári önkormányzati tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínen dolgozik. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
-      "location": "Tiszalök, Kossuth utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +313,9 @@
       "title": "Két autó ütközött Zamárdinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91781",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi Zamárdinál, az M7-es autópálya lehajtójánál, a Budapest felé vezető oldalon. A siófoki hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Zamárdi, M7 lehajtó",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
