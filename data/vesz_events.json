@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T20:05:43.441298+00:00",
-  "count": 3160,
+  "updated_at": "2026-09-09T20:09:01.753002+00:00",
+  "count": 3161,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91818",
+      "datetime": "2026.09.09. 22:06",
+      "title": "Kigyulladt egy tanya Lajosmizse közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91818",
+      "lead": "Az 5-ös főút 72-es kilométerének közelébe riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy nagyjából másfél hektáros tanyán Lajosmizse külterületén, az 5-ös főút közelében. Munkagépek, bálák, mezőgazdasági eszközök, raklapok égnek. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával lajosmizsei önkormányzati, valamint kecskeméti, dabasi, monori, szolnoki hivatásos tűzoltók vízsugarakkal oltják a lángokat.",
+      "location": "Lajosmizse, Alsóbene tanya",
+      "updates": []
+    },
     {
       "id": "91817",
       "datetime": "2026.09.09. 19:31",
