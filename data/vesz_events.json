@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T12:46:00.418534+00:00",
-  "count": 3149,
+  "updated_at": "2026-09-09T12:49:41.524802+00:00",
+  "count": 3150,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91807",
+      "datetime": "2026.09.09. 14:47",
+      "title": "Felborult egy autó a Megyeri hídon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91807",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Felborult egy személyautó az M0-s autóúton, a Megyeri híd budai szakaszán, a Pest felé vezető oldalon. A járműben egy ember utazott. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Budakalász, M0, Megyeri híd",
+      "updates": []
+    },
     {
       "id": "91806",
       "datetime": "2026.09.09. 14:40",
@@ -86,19 +97,10 @@
       "title": "Ég egy melléképület Szegednél",
       "category": "Ég egy melléképület Szegednél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799",
-      "lead": "A körülötte lévő növényzetre is átterjedt a tűz.",
-      "body": "Kigyulladt egy melléképület a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton. Teljes terjedelmében ég az ingatlan, és mintegy négyszáz négyzetméteren a körülötte lévő avar és gaz is lángra kapott. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
-      "location": "Szeged, Széksósi út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Szegednél",
-          "datetime": "2026.09.09. 14:13",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a szabadtéri tűznek a lángjait, amely a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton keletkezett. Teljes terjedelmében kiégett egy melléképület, benne egy farakással, és részben egy másik melléképületet is érintettek a lángok. Mintegy négyszáz négyzetméteren tarló és cserjés, az út másik oldalán pedig erdő aljnövényzete égett. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók egy szentesi és egy szegedi vízszállító jármű közreműködésével, a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Szeged, Széksósi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91799"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91798",
@@ -227,9 +229,9 @@
       "title": "Kisebb tűz volt egy debreceni társasházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91787",
-      "lead": "A Thomas Mann utcai ingatlan pincéjében égett egy armatúra.",
-      "body": "Tűz keletkezett egy társasházban, Debrecenben, a Thomas Mann utcában. Egy armatúra égett a pincében. A város hivatásos tűzoltói porral oltóval eloltották a tüzet, és kiszellőztetik az épületet.",
-      "location": "Debrecen, Thomas Mann utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
