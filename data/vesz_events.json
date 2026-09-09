@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T14:32:15.973529+00:00",
-  "count": 3153,
+  "updated_at": "2026-09-09T14:36:16.458019+00:00",
+  "count": 3154,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91811",
+      "datetime": "2026.09.09. 16:32",
+      "title": "Kigyulladt egy garázs Kunszentmártonban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91811",
+      "lead": "Egy másik melléképületre is átterjedtek a lángok, amelyeket megfékeztek a tűzoltók.",
+      "body": "Tűz ütött ki egy körülbelül nyolc négyzetméteres garázsban, Kunszentmártonban, az Irányi utcában. Az építmény teljesen kiégett, és a tűz a szomszédos melléképület tetejére is átterjedt. A város hivatásos tűzoltói eloltották a lángokat.",
+      "location": "Kunszentmárton, Irányi utca",
+      "updates": []
+    },
     {
       "id": "91810",
       "datetime": "2026.09.09. 16:24",
