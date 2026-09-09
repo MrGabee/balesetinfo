@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T21:06:00.812076+00:00",
-  "count": 3163,
+  "updated_at": "2026-09-09T21:09:53.261019+00:00",
+  "count": 3164,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91821",
+      "datetime": "2026.09.09. 23:07",
+      "title": "Füstöl a szentendrei HÉV",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91821",
+      "lead": "Óbudára, a Tímár utcai megállóba riasztották a tűzoltókat.",
+      "body": "Füstölni kezdett egy HÉV-szerelvény a szentendrei vonalon, a harmadik kerületi Tímár utcai megállóban. A füstölés az áramtalanítás után is megmaradt, a füst az utastérbe is bejutott. A fővárosi hivatásos tűzoltók megérkezése előtt a járat több mint ötven utasát leszállították a szerelvényről. Az egység megbontotta a padozatot, hőkamerás méréseket végzett.",
+      "location": "Budapest, Árpád fejedelem útja",
+      "updates": []
+    },
     {
       "id": "91820",
       "datetime": "2026.09.09. 22:55",
