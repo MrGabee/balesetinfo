@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:58:56.782771+00:00",
+  "updated_at": "2026-09-09T20:02:16.334124+00:00",
   "count": 3160,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -175,7 +175,16 @@
       "lead": "Egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltókat riasztottak.",
       "body": "A Hortobágyi Nemzeti Park területén, Egyek külterületén még tegnap kora este gyulladt meg a nádas, cserjés, bokros, bozótos terület, akkor nagyjából ötven hektáron égett a vegetáció. A tűzoltók szerda hajnalban a rossz látási és terepviszonyok miatt biztonsági okokból felfüggesztették az utómunkálatokat. Az egységek reggel kilenc óta ismét a helyszínen vannak, felkutatták a gócpontokat, a felerősödött szél azonban újra felszította a lángokat. Egyeki önkéntes, illetve mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi hivatásos tűzoltókat riasztottak a tűzhöz, amelynek kiterjedését drónnal derítik fel. A nagy füst miatt az úttal párhuzamosan haladó vasúti pályán lassítják a vonatokat.",
       "location": "Egyek, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "A rajok az utómunkálatokat végzik Egyeknél",
+          "datetime": "2026.09.09. 21:57",
+          "category": "Tűzeset",
+          "text": "Egyek és Hortobágy között egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat. Az ohati halastavak mellett több hektáron volt ma is tűz, az oltásban a földi egységek mellett részt vett a zagyvarékai Életjel Mentőcsoport tűzoltórepülője is, amely több fordulót teljesített az égő terület felett. Biztonsági okokból az aktív oltást ismét felfüggesztették éjszakára, az utómunkálatokra és a terület felügyeletére az egyeki gépjárműfecskendő és a tiszafüredi vízszállító maradt a helyszínen.",
+          "location": "Egyek, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
+        }
+      ]
     },
     {
       "id": "91802",
