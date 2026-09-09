@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:12:45.931000+00:00",
+  "updated_at": "2026-09-09T10:16:39.379580+00:00",
   "count": 3137,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -152,9 +152,9 @@
       "title": "Két autó ütközött Zamárdinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91781",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Zamárdinál, az M7-es autópálya lehajtójánál, a Budapest felé vezető oldalon. A siófoki hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zamárdi, M7 lehajtó",
       "updates": []
     },
     {
@@ -163,10 +163,19 @@
       "title": "Kamiontűz az M7-esen, Balatonboglárnál",
       "category": "Kamiontűz az M7-esen, Balatonboglárnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91780",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
+      "body": "Kigyulladt egy kamion pótkocsija az M7-es autópálya 144-es kilométerénél, a Kanizsa felé vezető oldalon, Balatonboglárnál. A tűz a jármű környezetében mindegy ötven négyzetméteren a gazra is átterjedt. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók oltják a lángokat. A munkálatokat egy siófoki vízszállító jármű is segíti. A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
+      "location": "Balatonboglár, M7",
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók az M7-esen",
+          "datetime": "2026.09.08. 20:25",
+          "category": "Tűzeset",
+          "text": "Utómunkálatok zajlanak az M7-es autópálya 144-es kilométerénél, a Kanizsa felé vezető oldalon, Balatonboglárnál, ahol egy kamion pótkocsija égett. A tűz a jármű környezetében mindegy ötven négyzetméteren a gazra is átterjedt. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók két vízsugárral oltották el a tüzet. Egy siófoki vízszállító jármű is segítette az oltást. A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
+          "location": "Balatonboglár, M7",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91780/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91780"
+        }
+      ]
     },
     {
       "id": "91779",
@@ -233,9 +242,9 @@
       "title": "Hármas karambol Újlengyelnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91776",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött egy személyautó, egy furgon és egy tehergépkocsi Újlengyelnél, a 405-ös főút 14-es és 15-ös kilométere közötti szakaszon. A monori és a dabasi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Újlengyel, 405",
       "updates": []
     },
     {
@@ -451,9 +460,9 @@
       "title": "Összeütközött két autó a 1111-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91761",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pilisszentlélek közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Karambolozott két személyautó a 1111-es úton, az Esztergomhoz tartozó Pilisszentlélek közelében, a 27. kilométernél. A szentendrei hivatásos tűzoltók áramtalanították a gépkocsikat, amelyekben egy-egy ember utazott. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Esztergom, Pilisszentlélek",
       "updates": []
     },
     {
