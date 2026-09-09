@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T07:44:01.715321+00:00",
-  "count": 3129,
+  "updated_at": "2026-09-09T07:48:04.810998+00:00",
+  "count": 3130,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91787",
+      "datetime": "2026.09.09. 09:44",
+      "title": "Kisebb tűz volt egy debreceni társasházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91787",
+      "lead": "A Thomas Mann utcai ingatlan pincéjében égett egy armatúra.",
+      "body": "Tűz keletkezett egy társasházban, Debrecenben, a Thomas Mann utcában. Egy armatúra égett a pincében. A város hivatásos tűzoltói porral oltóval eloltották a tüzet, és kiszellőztetik az épületet.",
+      "location": "Debrecen, Thomas Mann utca",
+      "updates": []
+    },
     {
       "id": "91786",
       "datetime": "2026.09.09. 08:03",
