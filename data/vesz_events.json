@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T07:19:55.322938+00:00",
+  "updated_at": "2026-09-09T07:23:50.335445+00:00",
   "count": 3129,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,16 +78,7 @@
       "lead": "A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
       "body": "Kigyulladt egy kamion pótkocsija az M7-es autópálya 144-es kilométerénél, a Kanizsa felé vezető oldalon, Balatonboglárnál. A tűz a jármű környezetében mindegy ötven négyzetméteren a gazra is átterjedt. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók oltják a lángokat. A munkálatokat egy siófoki vízszállító jármű is segíti. A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
       "location": "Balatonboglár, M7",
-      "updates": [
-        {
-          "title": "Utómunkálatokat végeznek a tűzoltók az M7-esen",
-          "datetime": "2026.09.08. 20:25",
-          "category": "Tűzeset",
-          "text": "Utómunkálatok zajlanak az M7-es autópálya 144-es kilométerénél, a Kanizsa felé vezető oldalon, Balatonboglárnál, ahol egy kamion pótkocsija égett. A tűz a jármű környezetében mindegy ötven négyzetméteren a gazra is átterjedt. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók két vízsugárral oltották el a tüzet. Egy siófoki vízszállító jármű is segítette az oltást. A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
-          "location": "Balatonboglár, M7",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91780/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91780"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91779",
@@ -531,9 +522,9 @@
       "title": "Baleset történt Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91749",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 801-es főúton van szükség tűzoltói beavatkozásra.",
+      "body": "Két autó ütközött össze Székesfehérváron, a 801-es főút 3-as és 4-es kilométerszelvénye között. A város hivatásos tűzoltói áramtalanították a járműveket. A raj megszünteti a forgalmi akadályt.",
+      "location": "Székesfehérvár, 801",
       "updates": []
     },
     {
