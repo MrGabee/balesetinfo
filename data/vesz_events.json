@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-09T07:48:04.810998+00:00",
-  "count": 3130,
+  "updated_at": "2026-09-09T07:51:28.286395+00:00",
+  "count": 3132,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91789",
+      "datetime": "2026.09.09. 09:51",
+      "title": "Összeütközött két gépkocsi a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91789",
+      "lead": "Hajdúszoboszló közelében forgalmi akadály van.",
+      "body": "Karambolozott két kisteherautó a 4-es főúton, Hajdúszoboszló közelében, a 200. kilométernél. Az egyik gépkocsi felborult. A hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen öten utaztak, mindannyian ki tudtak szállni. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúszoboszló, 4",
+      "updates": []
+    },
+    {
+      "id": "91788",
+      "datetime": "2026.09.09. 09:49",
+      "title": "Karambol Cinkotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91788",
+      "lead": "A Vidámvásár utcában két autó hajtott egymásba.",
+      "body": "Összeütközött két személykocsi Budapest tizenhatodik kerületében, a Vidámvásár utcában. Mindkét járműben csak annak vezetője utazott. A fővárosi hivatásos tűzoltók áramtalanítanak.",
+      "location": "Budapest, Vidámvásár utca",
+      "updates": []
+    },
     {
       "id": "91787",
       "datetime": "2026.09.09. 09:44",
