@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T14:11:40.670735+00:00",
-  "count": 3151,
+  "updated_at": "2026-09-09T14:15:00.041540+00:00",
+  "count": 3152,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91809",
+      "datetime": "2026.09.09. 16:12",
+      "title": "Árokba borult egy autó a 86-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91809",
+      "lead": "A 185-186-os kilométer között, Mosonudvar térségében történt a baleset.",
+      "body": "Betonoszloppal megrakott utánfutót vontatott az a személykocsi, amely miután a vonófej leszakadt, árokba hajtott a 86-os főút Mosonudvarhoz közeli szakaszán. A 185-186-os kilométer között történt balesethez a lébényi hivatásos tűzoltók vonultak. A személykocsiban két ember utazott, mentő érkezett hozzájuk. A balesettől nagyjából száz méterre egy ráfutásos koccanás is történt.",
+      "location": "Mosonudvar, 86",
+      "updates": []
+    },
     {
       "id": "91808",
       "datetime": "2026.09.09. 16:04",
