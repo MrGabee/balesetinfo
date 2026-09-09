@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:57:07.865030+00:00",
+  "updated_at": "2026-09-09T15:00:29.467319+00:00",
   "count": 3155,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -177,14 +177,23 @@
     },
     {
       "id": "91798",
-      "datetime": "2026.09.09. 13:06",
+      "datetime": "2026.09.09. 13:06 -",
       "title": "Nagy terület ég Felsőrajk határában",
-      "category": "Tűzeset",
+      "category": "Nagy terület ég Felsőrajk határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91798",
       "lead": "A Szabadság utcába több település tűzoltóit riasztották.",
       "body": "Meggyulladt a tarló Felsőrajkon, a Szabadság utcában, a település szélén. A tűz belekapott egy erdősávba, elért egy nagyjából negyven négyzetméteres melléképületet is, amely teljes terjedelmében ég, de a lángok az azzal egybeépített lakóházra nem terjedtek át. A melléképületben méhviasz és méhészeti kellékek égnek. Az esethez pacsai, zalakarosi, nagykanizsai hivatásos és gelsei önkéntes tűzoltók érkeztek ki, további keszthelyi, zalaegerszegi, marcali és nagykanizsai egységek is úton vannak, a helyszínre várják a Zala vármegyei katasztrófavédelmi műveleti szolgálatot is. A rajok vízsugarakkal oltják a melléképületet, a vegetációt, egy munkagép pedig körbeszántotta a területet.",
       "location": "Felsőrajk, Szabadság utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Felsőrajk határában",
+          "datetime": "2026.09.09. 16:58",
+          "category": "Tűzeset",
+          "text": "A Szabadság utca környékén több hektáron tarló, akácos, napraforgó égett. A tüzet a Zala vármegyei katasztrófavédelmi műveleti szolgálat irányításával hét település hivatásos, illetve önkéntes tűzoltói vízsugarakkal, kéziszerszámokkal fékezték meg. Az egységek körbejárták a területet, elvégezték az utómunkálatokat. A rajok bevonultak, a katasztrófavédelmi műveleti szolgálat pedig megkezdte a helyszíni szemlét.",
+          "location": "Felsőrajk, Szabadság utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91798/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91798"
+        }
+      ]
     },
     {
       "id": "91797",
