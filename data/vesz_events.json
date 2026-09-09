@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T12:38:42.904975+00:00",
-  "count": 3148,
+  "updated_at": "2026-09-09T12:42:10.029370+00:00",
+  "count": 3149,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91806",
+      "datetime": "2026.09.09. 14:40",
+      "title": "Baleset történt Nyírmadán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91806",
+      "lead": "A Hunyadi János út egy szakaszán félpályán halad a forgalom.",
+      "body": "Az út szélén álló gépkocsinak ütközött egy személyautó Nyírmadán, a Hunyadi úton, a Nyírfa utcánál. A baktalórántházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
+      "location": "Nyírmada, Hunyadi út",
+      "updates": []
+    },
     {
       "id": "91805",
       "datetime": "2026.09.09. 14:29",
