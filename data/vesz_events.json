@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:16:03.920163+00:00",
+  "updated_at": "2026-09-09T17:19:06.579679+00:00",
   "count": 3159,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -250,14 +250,23 @@
     },
     {
       "id": "91797",
-      "datetime": "2026.09.09. 13:05",
+      "datetime": "2026.09.09. 13:05 -",
       "title": "Erdő aljnövényzete ég Tiszaburánál",
-      "category": "Tűzeset",
+      "category": "Erdő aljnövényzete ég Tiszaburánál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91797",
       "lead": "Foltokban ég a tűz, amelyet oltanak a tűzoltók.",
       "body": "Kigyulladt egy erdő aljnövényzete Tiszabura határában, a Hősök tere közelében. Három helyen foltokban ég a tűz. A tiszafüredi és a hevesi hivatásos, valamint az abádszalóki önkormányzati tűzoltók oltják a lángokat.",
       "location": "Tiszabura, Tiszabura határában",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Tiszaburánál",
+          "datetime": "2026.09.09. 19:16",
+          "category": "Tűzeset",
+          "text": "A település határában foltokban égett az erdő aljnövényzete. A tüzet abádszalóki önkormányzati és tiszafüredi, hevesi, illetve egri tűzoltók körülhatárolták, majd eloltották. Az egységek már az utómunkálatokkal is végeztek.",
+          "location": "Tiszabura, Tiszabura határában",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91797/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91797"
+        }
+      ]
     },
     {
       "id": "91796",
