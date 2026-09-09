@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T08:22:25.368620+00:00",
-  "count": 3133,
+  "updated_at": "2026-09-09T08:26:14.540228+00:00",
+  "count": 3134,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91791",
+      "datetime": "2026.09.09. 10:25",
+      "title": "Karambol Szegednél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91791",
+      "lead": "A 4519-es úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó a 4519-es úton, Szeged közelében, az 51. kilométernél. A szegedi hivatásos tűzoltók áramtalanították a járműveket. A mentők is kivonultak a balesethez. Az érintett útszakaszt teljes szélességében lezárták, a karambol helyszínét egy mellékúton lehet elkerülni.",
+      "location": "Szeged, 4519",
+      "updates": []
+    },
     {
       "id": "91790",
       "datetime": "2026.09.09. 10:06",
