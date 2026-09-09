@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:08:19.882999+00:00",
+  "updated_at": "2026-09-09T11:12:31.901609+00:00",
   "count": 3141,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -119,9 +119,9 @@
       "title": "Karambol Cinkotán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91788",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Vidámvásár utcában két autó hajtott egymásba.",
+      "body": "Összeütközött két személykocsi Budapest tizenhatodik kerületében, a Vidámvásár utcában. Mindkét járműben csak annak vezetője utazott. A fővárosi hivatásos tűzoltók áramtalanítanak.",
+      "location": "Budapest, Vidámvásár utca",
       "updates": []
     },
     {
@@ -417,7 +417,16 @@
       "lead": "A tűz a jármű környezetére is átterjedt.",
       "body": "Kigyulladt egy teherautó motortere és utasfülkéje Esztergom térségében, az 1117-es út 1-es kilométerénél. A tűz a környezetére is átterjedt. A nyergesújfalui és az esztergomi hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a teherautótüzet két vízsugárral már megfékezték.",
       "location": "Esztergom, 1117",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat a 1117-esen",
+          "datetime": "2026.09.08. 18:52",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Esztergom térségében, a 1117-es út 1-es kilométerénél, ahol egy teherautó motortere és utasfülkéje gyulladt ki. A tűz a környezetére is átterjedt, két hektáron erdő aljnövényzete is égett. A nyergesújfalui, az esztergomi hivatásos és a sárisápi önkéntes tűzoltók több vízsugárral, kéziszerszámokkal és puttonyfecskendőkkel fékezték meg a tüzet a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat irányításával. A munkálatokat egy nyergesújfalui vízszállítós és munkagépek is segítették. A lángok ezer négyzetméteren zöldhulladékot is érintenek, amelyet az egységek felügyelet mellett leégetnek.",
+          "location": "Esztergom, 1117",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91766/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91766"
+        }
+      ]
     },
     {
       "id": "91765",
