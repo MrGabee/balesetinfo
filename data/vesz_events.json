@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T11:32:26.335406+00:00",
-  "count": 3143,
+  "updated_at": "2026-09-09T11:36:42.977384+00:00",
+  "count": 3144,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91801",
+      "datetime": "2026.09.09. 13:34",
+      "title": "Kigyulladt egy melléképület Szadán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91801",
+      "lead": "A Béke utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki Szadán, a Béke utcában. Teljes terjedelmében ég egy melléképület és nagy területen az aljnövényzet is. A gödöllői és a fővárosi hivatásos tűzoltók oltják a lángokat.",
+      "location": "Szada, Béke utca",
+      "updates": []
+    },
     {
       "id": "91800",
       "datetime": "2026.09.09. 13:31",
