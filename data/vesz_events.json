@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T15:26:46.967457+00:00",
-  "count": 3157,
+  "updated_at": "2026-09-09T15:29:50.171539+00:00",
+  "count": 3158,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91815",
+      "datetime": "2026.09.09. 17:28",
+      "title": "Melléképületek gyulladtak ki Soroksáron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91815",
+      "lead": "A Völgyhajó utcába a fővárosi hivatásos tűzoltók három egysége vonult.",
+      "body": "Meggyulladt a vegetáció, és a tűz átterjedt négy melléképületre is Budapest huszonharmadik kerületében, a Völgyhajó utcában. Az egyenként nagyjából húsz négyzetméteres építmények teljes terjedelmükben égtek, a tűz elérte egy lakóházként használt gazdasági épület szigetelését is. A fővárosi hivatásos tűzoltók három egységgel vonultak a helyszínre. A rajok áramtalanítottak, vízsugarakkal oltják a lángokat. Az aljnövényzet tüze összesen nyolc telket érintett.",
+      "location": "Budapest, Völgyhajó utca",
+      "updates": []
+    },
     {
       "id": "91814",
       "datetime": "2026.09.09. 17:10",
