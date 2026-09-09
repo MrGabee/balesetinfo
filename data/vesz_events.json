@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T07:23:50.335445+00:00",
+  "updated_at": "2026-09-09T07:27:57.921601+00:00",
   "count": 3129,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,7 +78,16 @@
       "lead": "A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
       "body": "Kigyulladt egy kamion pótkocsija az M7-es autópálya 144-es kilométerénél, a Kanizsa felé vezető oldalon, Balatonboglárnál. A tűz a jármű környezetében mindegy ötven négyzetméteren a gazra is átterjedt. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók oltják a lángokat. A munkálatokat egy siófoki vízszállító jármű is segíti. A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
       "location": "Balatonboglár, M7",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók az M7-esen",
+          "datetime": "2026.09.08. 20:25",
+          "category": "Tűzeset",
+          "text": "Utómunkálatok zajlanak az M7-es autópálya 144-es kilométerénél, a Kanizsa felé vezető oldalon, Balatonboglárnál, ahol egy kamion pótkocsija égett. A tűz a jármű környezetében mindegy ötven négyzetméteren a gazra is átterjedt. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók két vízsugárral oltották el a tüzet. Egy siófoki vízszállító jármű is segítette az oltást. A sztráda érintett szakaszán forgalomkorlátozásra kell számítani.",
+          "location": "Balatonboglár, M7",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91780/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91780"
+        }
+      ]
     },
     {
       "id": "91779",
@@ -511,9 +520,9 @@
       "title": "Karambol Zákányszék és Bordány között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91750",
-      "lead": "Az 5431-es és az 5432-es út kereszteződésében történt a baleset.",
-      "body": "Kisteherautó és személygépkocsi ütközött össze Zákányszék és Bordány között, az 5431-es és az 5432-es út kereszteződésében. A ruzsai hivatásos tűzoltók és az Üllés Községi Tűzoltó Egyesület áramtalanítják a járműveket. A helyszínre mentő is érkezett.",
-      "location": "Zákányszék, 5431-5432",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -533,9 +542,9 @@
       "title": "Két autó ütközött Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91748",
-      "lead": "A 7-es főút és a Szajkó utca kereszteződésében dolgoznak a tűzoltók.",
-      "body": "Összeütközött két személyautó Érden, a 7-es főút és a Szajkó utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon irányítás mellett halad a forgalom.",
-      "location": "Érd, Szajkó",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
