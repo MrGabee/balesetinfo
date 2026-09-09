@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T08:03:56.837244+00:00",
-  "count": 3132,
+  "updated_at": "2026-09-09T08:07:45.298647+00:00",
+  "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91790",
+      "datetime": "2026.09.09. 10:06",
+      "title": "Ház falának ütközött egy autó Salgótarjánban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91790",
+      "lead": "A Gorkij körútra riasztották a város tűzoltóit.",
+      "body": "Letért az útról és egy ház falának hajtott egy személykocsi Salgótarjánban, a Gorkij körúton. Az autóban csak annak vezetője utazott, mentő érkezett hozzá. A vármegyeszékhely hivatásos tűzoltói végzik a műszaki mentést.",
+      "location": "Salgótarján, Gorkij körút",
+      "updates": []
+    },
     {
       "id": "91789",
       "datetime": "2026.09.09. 09:51",
@@ -97,9 +108,9 @@
       "title": "Két autó ütközött Zamárdinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91781",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Zamárdinál, az M7-es autópálya lehajtójánál, a Budapest felé vezető oldalon. A siófoki hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zamárdi, M7 lehajtó",
       "updates": []
     },
     {
