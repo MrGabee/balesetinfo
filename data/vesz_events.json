@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-09T05:36:29.943964+00:00",
-  "count": 3127,
+  "updated_at": "2026-09-09T05:39:51.028024+00:00",
+  "count": 3128,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91785",
+      "datetime": "2026.09.09. 07:37",
+      "title": "Baleset az M5-ösön, Kecskemétnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91785",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Terelésnek hajtott egy személygépkocsi Kecskemétnél, az M5-ös autópálya 83-as kilométerénél, a Budapest felé vezető oldalon. A kecskeméti hivatásos tűzoltók áramtalanították a járművet. Az érintett sztrádaszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Kecskemét, M5",
+      "updates": []
+    },
     {
       "id": "91784",
       "datetime": "2026.09.09. 06:49",
