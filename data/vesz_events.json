@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:26:32.097095+00:00",
+  "updated_at": "2026-09-10T06:29:30.438362+00:00",
   "count": 3170,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Füstöl a szentendrei HÉV",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91821",
-      "lead": "Óbudára, a Tímár utcai megállóba riasztották a tűzoltókat.",
-      "body": "Füstölni kezdett egy HÉV-szerelvény a szentendrei vonalon, a harmadik kerületi Tímár utcai megállóban. A füstölés az áramtalanítás után is megmaradt, a füst az utastérbe is bejutott. A fővárosi hivatásos tűzoltók megérkezése előtt a járat több mint ötven utasát leszállították a szerelvényről. Az egység megbontotta a padozatot, hőkamerás méréseket végzett.",
-      "location": "Budapest, Árpád fejedelem útja",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -128,9 +128,9 @@
       "title": "Tűz ütött ki egy tatabányai munkásszállón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91817",
-      "lead": "A Vértanúk terére riasztották a város tűzoltóit.",
-      "body": "Tűz keletkezett egy tatabányai, Vértanúk terei épületben. A munkásszállóként funkcionáló épület földszinti lakásában egy helyiség gyulladt ki, emiatt a szoba és a folyosó is megtelt füsttel. A vármegyeszékhely hivatásos tűzoltói áramtalanították az épületet, vízsugarakkal eloltották a lángokat, illetve átvizsgálták a szobákat, nincs-e odabenn valaki, de nem találtak senkit. Az épületet harmincöten hagyták el, a helyszínre mentő is érkezett.",
-      "location": "Tatabánya, Vértanúk tere",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -139,9 +139,9 @@
       "title": "Baleset miatt áll az M1-es forgalma Levél térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91816",
-      "lead": "Az országhatár felé vezető oldalon, a 163-as kilométernél nem lehet közlekedni.",
-      "body": "Két személykocsi és egy kamion a részese annak a balesetnek, amely az M1-es sztráda Hegyeshalom felé vezető oldalán történt, Levél térségében. A 163-as kilométernél történt karambolnál érintett három járműben összesen négy ember utazott. Az egyik autó az árokban állt meg, a másik és a kamion a két sávot elfoglal, az országhatár felé vezető oldalon átmenetileg teljes útlezárás van. A mosonmagyaróvári hivatásos tűzoltók áramtalanítottak. A helyszínre érkeztek a társhatóságok is.",
-      "location": "Levél, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -150,9 +150,9 @@
       "title": "Melléképületek gyulladtak ki Soroksáron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91815",
-      "lead": "A Völgyhajó utcába a fővárosi hivatásos tűzoltók három egysége vonult.",
-      "body": "Meggyulladt a vegetáció, és a tűz átterjedt négy melléképületre is Budapest huszonharmadik kerületében, a Völgyhajó utcában. Az egyenként nagyjából húsz négyzetméteres építmények teljes terjedelmükben égtek, a tűz elérte egy lakóházként használt gazdasági épület szigetelését is. A fővárosi hivatásos tűzoltók három egységgel vonultak a helyszínre. A rajok áramtalanítottak, vízsugarakkal oltják a lángokat. Az aljnövényzet tüze összesen nyolc telket érintett.",
-      "location": "Budapest, Völgyhajó utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -227,19 +227,10 @@
       "title": "Szalmabálák égnek Eleken",
       "category": "Szalmabálák égnek Eleken",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808",
-      "lead": "A 4444-es út mellett dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett Elek külterületén, a 4444-es út mellett. Egy mintegy háromszáz négyzetméter alapterületű kazalba rakott szalmabálák és egy pótkocsi gyulladt ki. A gyulai hivatásos tűzoltók három vízsugárral dolgoznak a helyszínen, ahol felügyelet mellett elégetik a bálákat.",
-      "location": "Elek, 4444",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Eleken",
-          "datetime": "2026.09.09. 18:42",
-          "category": "Tűzeset",
-          "text": "A 4444-es út mellett egy szalmakazal és egy pótkocsi égett. A kazlat egy ideig felügyelet mellett égették, azt egy munkagép széthúzta. A tüzet két gyulai hivatásos tűzoltóegység a gyulai és mezőkovácsházai vízszállító támogatásával oltotta el, a tűzoltók emellett hűtötték a közeli épületet. Az egységek eloltották a tüzet, már az utómunkálatoknál tartanak.",
-          "location": "Elek, 4444",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91808"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91807",
@@ -247,9 +238,9 @@
       "title": "Felborult egy autó a Megyeri hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91807",
-      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
-      "body": "Felborult egy személyautó az M0-s autóúton, a Megyeri híd budai szakaszán, a Pest felé vezető oldalon. A járműben egy ember utazott. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
-      "location": "Budakalász, M0, Megyeri híd",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -410,19 +401,10 @@
       "title": "Erdő aljnövényzete ég Tiszaburánál",
       "category": "Erdő aljnövényzete ég Tiszaburánál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91797",
-      "lead": "Foltokban ég a tűz, amelyet oltanak a tűzoltók.",
-      "body": "Kigyulladt egy erdő aljnövényzete Tiszabura határában, a Hősök tere közelében. Három helyen foltokban ég a tűz. A tiszafüredi és a hevesi hivatásos, valamint az abádszalóki önkormányzati tűzoltók oltják a lángokat.",
-      "location": "Tiszabura, Tiszabura határában",
-      "updates": [
-        {
-          "title": "Befejezték a munkálatokat Tiszaburánál",
-          "datetime": "2026.09.09. 19:16",
-          "category": "Tűzeset",
-          "text": "A település határában foltokban égett az erdő aljnövényzete. A tüzet abádszalóki önkormányzati és tiszafüredi, hevesi, illetve egri tűzoltók körülhatárolták, majd eloltották. Az egységek már az utómunkálatokkal is végeztek.",
-          "location": "Tiszabura, Tiszabura határában",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91797/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91797"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91796",
@@ -441,9 +423,9 @@
       "title": "Autó égett a 66-os főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91795",
-      "lead": "A tűzoltók Mánfa közelében fékezték meg a lángokat.",
-      "body": "Kigyulladt egy személygépkocsi a 66-os főúton, Mánfa közelében, a 8. és a 9. kilométer között. A járműben hárman utaztak, mindenki ki tudott szállni. A komlói hivatásos tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt.",
-      "location": "Mánfa, 66",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -496,9 +478,9 @@
       "title": "Ház falának ütközött egy autó Salgótarjánban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91790",
-      "lead": "A Gorkij körútra riasztották a város tűzoltóit.",
-      "body": "Letért az útról és egy ház falának hajtott egy személykocsi Salgótarjánban, a Gorkij körúton. Az autóban csak annak vezetője utazott, mentő érkezett hozzá. A vármegyeszékhely hivatásos tűzoltói végzik a műszaki mentést.",
-      "location": "Salgótarján, Gorkij körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
