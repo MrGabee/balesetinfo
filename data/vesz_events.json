@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T11:43:42.689179+00:00",
-  "count": 3177,
+  "updated_at": "2026-09-10T11:47:27.835424+00:00",
+  "count": 3178,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91835",
+      "datetime": "2026.09.10. 13:43",
+      "title": "Karambol Kőbánya és Józsefváros határán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91835",
+      "lead": "A baleset a Könyves Kálmán körút és a Kőbányai út csomópontjában akadályozza a forgalmat.",
+      "body": "Összeütközött két személyautó Budapest VIII. és X. kerületének határán, a Könyves Kálmán körút és a Kőbányai út csomópontjában. A balesethez a fővárosi hivatásos tűzoltókat riasztották. A karambolos járművek akadályozzák a forgalmat.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "91834",
       "datetime": "2026.09.10. 13:22",
