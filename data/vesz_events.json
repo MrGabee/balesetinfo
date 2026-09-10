@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T06:36:50.806814+00:00",
-  "count": 3171,
+  "updated_at": "2026-09-10T06:40:28.356228+00:00",
+  "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91829",
+      "datetime": "2026.09.10. 08:39",
+      "title": "Karambol a 2106-os úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91829",
+      "lead": "Vác közelében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 2106-os úton, Vác közelében, a 3-as kilométerszelvénynél. Az autókban összesen öten utaztak. A baleset következtében az egyik autó árokba sodródott. A váci hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Vác, Gabona utca",
+      "updates": []
+    },
     {
       "id": "91828",
       "datetime": "2026.09.10. 08:34",
