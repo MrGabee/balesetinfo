@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T00:28:21.162086+00:00",
-  "count": 3166,
+  "updated_at": "2026-09-10T00:31:29.995385+00:00",
+  "count": 3167,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91824",
+      "datetime": "2026.09.10. 02:30",
+      "title": "Égő kamion miatt áll az M5-ös forgalma",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91824",
+      "lead": "A főváros felé vezető oldal 90-es kilométerénél, Kecskemét határában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nyerges vontató az M5-ös autópályán, Kecskemét határában. Az 54-es főúti csomópont közelében, a Budapest felé vezető oldalon lángoló járműhöz a kecskeméti hivatásos tűzoltóság több egységét, valamint a kiskunfélegyházi vízszállítót riasztották. A rajok habosított vízsugarakkal oltják a kamiont, illetve a mellette nagyjából fél hektáron égő aljnövényzetet. A járműben csak a sofőr ült, nem esett baja. Az autópálya főváros felé vezető oldalának forgalmát az érintett szakaszon megállították.",
+      "location": "Kecskemét, M5",
+      "updates": []
+    },
     {
       "id": "91823",
       "datetime": "2026.09.10. 00:06",
