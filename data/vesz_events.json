@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:05:21.858821+00:00",
+  "updated_at": "2026-09-10T11:09:06.858246+00:00",
   "count": 3175,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -238,9 +238,9 @@
       "title": "Négyes karambol az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91812",
-      "lead": "Mosonújhelynél végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött négy személyautó az 1-es főúton, Mosonújhely közelében. A győri hivatásos tűzoltók vonultak ki a balesethez, és áramtalanítottak két gépkocsit. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Mosonújhely, 1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +313,9 @@
       "title": "Baleset történt Nyírmadán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91806",
-      "lead": "A Hunyadi János út egy szakaszán félpályán halad a forgalom.",
-      "body": "Az út szélén álló gépkocsinak ütközött egy személyautó Nyírmadán, a Hunyadi úton, a Nyírfa utcánál. A baktalórántházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
-      "location": "Nyírmada, Hunyadi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -324,19 +324,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.09.09. 23:43",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91805"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91804",
@@ -344,9 +335,9 @@
       "title": "Embert gázolt a vonat Hatvanban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91804",
-      "lead": "A tűzoltók segítettek átszállni a szerelvény utasainak.",
-      "body": "Elgázolt egy embert a vonat Hatvanban, a Kandó Kálmán utcánál. A baleset miatt a szerelvény nem tud továbbmenni. Ezért a rajta utazóknak a város hivatásos tűzoltói segítettek átszállni az értük küldött mentesítő autóbuszra.",
-      "location": "Hatvan, Kandó Kálmán utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,27 +346,10 @@
       "title": "Eddig hét hektár égett le Egyeknél",
       "category": "Eddig hét hektár égett le Egyeknél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803",
-      "lead": "Egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltókat riasztottak.",
-      "body": "A Hortobágyi Nemzeti Park területén, Egyek külterületén még tegnap kora este gyulladt meg a nádas, cserjés, bokros, bozótos terület, akkor nagyjából ötven hektáron égett a vegetáció. A tűzoltók szerda hajnalban a rossz látási és terepviszonyok miatt biztonsági okokból felfüggesztették az utómunkálatokat. Az egységek reggel kilenc óta ismét a helyszínen vannak, felkutatták a gócpontokat, a felerősödött szél azonban újra felszította a lángokat. Egyeki önkéntes, illetve mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi hivatásos tűzoltókat riasztottak a tűzhöz, amelynek kiterjedését drónnal derítik fel. A nagy füst miatt az úttal párhuzamosan haladó vasúti pályán lassítják a vonatokat.",
-      "location": "Egyek, külterület",
-      "updates": [
-        {
-          "title": "A rajok az utómunkálatokat végzik Egyeknél",
-          "datetime": "2026.09.09. 21:57",
-          "category": "Tűzeset",
-          "text": "Egyek és Hortobágy között egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat. Az ohati halastavak mellett több hektáron volt ma is tűz, az oltásban a földi egységek mellett részt vett a zagyvarékasi Életjel Mentőcsoport tűzoltórepülője is, amely több fordulót teljesített az égő terület felett. Biztonsági okokból az aktív oltást ismét felfüggesztették éjszakára, az utómunkálatokra és a terület felügyeletére az egyeki gépjárműfecskendő és a tiszafüredi vízszállító maradt a helyszínen.",
-          "location": "Egyek, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
-        },
-        {
-          "title": "Csütörtökön kora reggelre végeztek a munkálatokkal Egyeknél",
-          "datetime": "2026.09.10. 07:06",
-          "category": "Tűzeset",
-          "text": "A tűz még kedden keletkezett, a sötétedés miatt felfüggesztett munkálatokat szerda reggel folytatták a tűzoltók az Egyek és Hortobágy közötti területen. A tűz ismét intenzívebbé vált, a nap folyamán egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat és egy tűzoltórepülő a levegőből is segített. Késő estére úgy tűnt, megszűntek az izzások is, ám az érkező vihar ismét felszította a lángokat. A tűzoltók vízsugarakkal, kézizerszámokkal, háti permetezővel folyamatosan dolgoztak, a munkát nehezítette a terület tagoltsága. Az egységek csütörtök kora reggelre oltották el a tüzet, fejezték be az utómunkálatokat. A jelenlegi becslések szerint nagyjából nyolcvan hektár égett le.",
-          "location": "Egyek, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91802",
