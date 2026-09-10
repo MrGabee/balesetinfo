@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:12:56.054923+00:00",
+  "updated_at": "2026-09-10T11:16:56.296561+00:00",
   "count": 3176,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -64,9 +64,9 @@
       "title": "Felborult egy autó Szigetvár és Dencsháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91828",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "body": "Felborult egy személygépkocsi Szigetvár és Dencsháza között.  A szigetvári hivatásos tűzoltók műszaki mentést végeznek. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szigetvár, Vasúti őrházak",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Négyes karambol az M1-esen, Levélnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91825",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az országhatár felé vezető oldalon, a 164-es kilométernél ráfutásos baleset történt.",
+      "body": "Ráfutásos balesetet szenvedett négy autó az M1-es sztrádán, Levél térségében. A járművek elfoglalnak az országhatár felé vezető oldalon két forgalmi sávot. A 164-es kilométernél történt karambolban összesen nyolcan érintettek. A mosonmagyaróvári hivatásos tűzoltók vonultak az esethez.",
+      "location": "Levél, M1",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Égő kamion miatt áll az M5-ös forgalma",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91824",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A főváros felé vezető oldal 90-es kilométerénél, Kecskemét határában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nyerges vontató az M5-ös autópályán, Kecskemét határában. Az 54-es főúti csomópont közelében, a Budapest felé vezető oldalon lángoló járműhöz a kecskeméti hivatásos tűzoltóság több egységét, valamint a kiskunfélegyházi vízszállítót riasztották. A rajok habosított vízsugarakkal oltják a kamiont, illetve a mellette nagyjából fél hektáron égő aljnövényzetet. A járműben csak a sofőr ült, nem esett baja. Az autópálya főváros felé vezető oldalának forgalmát az érintett szakaszon megállították.",
+      "location": "Kecskemét, M5",
       "updates": []
     },
     {
@@ -313,9 +313,9 @@
       "title": "Felborult egy autó a Megyeri hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91807",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Felborult egy személyautó az M0-s autóúton, a Megyeri híd budai szakaszán, a Pest felé vezető oldalon. A járműben egy ember utazott. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Budakalász, M0, Megyeri híd",
       "updates": []
     },
     {
@@ -335,10 +335,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.09. 23:43",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91805"
+        }
+      ]
     },
     {
       "id": "91804",
