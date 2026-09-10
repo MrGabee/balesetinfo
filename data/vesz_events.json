@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T09:44:01.059136+00:00",
-  "count": 3172,
+  "updated_at": "2026-09-10T09:47:19.670841+00:00",
+  "count": 3173,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91830",
+      "datetime": "2026.09.10. 11:45",
+      "title": "Karambol Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91830",
+      "lead": "Az Inczédy soron forgalmi akadály van.",
+      "body": "Egymásnak ütközött három személyautó Nyíregyházán, az Inczédy soron, azaz a 4-es főúton. A balesetnél a város hivatásos tűzoltói végzik a műszaki mentést. A járművek akadályozzák a forgalmat.",
+      "location": "Nyíregyháza, Inczédy sor",
+      "updates": []
+    },
     {
       "id": "91829",
       "datetime": "2026.09.10. 08:39",
