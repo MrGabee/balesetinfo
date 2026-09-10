@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:22:02.697560+00:00",
+  "updated_at": "2026-09-10T07:26:08.846160+00:00",
   "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -269,9 +269,9 @@
       "title": "Felborult egy autó a Megyeri hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91807",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Felborult egy személyautó az M0-s autóúton, a Megyeri híd budai szakaszán, a Pest felé vezető oldalon. A járműben egy ember utazott. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Budakalász, M0, Megyeri híd",
       "updates": []
     },
     {
@@ -280,9 +280,9 @@
       "title": "Baleset történt Nyírmadán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91806",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hunyadi János út egy szakaszán félpályán halad a forgalom.",
+      "body": "Az út szélén álló gépkocsinak ütközött egy személyautó Nyírmadán, a Hunyadi úton, a Nyírfa utcánál. A baktalórántházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
+      "location": "Nyírmada, Hunyadi út",
       "updates": []
     },
     {
@@ -291,10 +291,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.09. 23:43",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91805"
+        }
+      ]
     },
     {
       "id": "91804",
@@ -302,9 +311,9 @@
       "title": "Embert gázolt a vonat Hatvanban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91804",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek átszállni a szerelvény utasainak.",
+      "body": "Elgázolt egy embert a vonat Hatvanban, a Kandó Kálmán utcánál. A baleset miatt a szerelvény nem tud továbbmenni. Ezért a rajta utazóknak a város hivatásos tűzoltói segítettek átszállni az értük küldött mentesítő autóbuszra.",
+      "location": "Hatvan, Kandó Kálmán utca",
       "updates": []
     },
     {
