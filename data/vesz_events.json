@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T19:45:30.556299+00:00",
-  "count": 3192,
+  "updated_at": "2026-09-10T19:49:09.710071+00:00",
+  "count": 3193,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91850",
+      "datetime": "2026.09.10. 21:45",
+      "title": "Erdő aljnövényzete ég Laskod határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91850",
+      "lead": "A rajok több vízsugárral oltják a lángokat.",
+      "body": "Nagy területen ég egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral oltják a lángokat. A rajok elhúzódó munkálatokat végeznek.",
+      "location": "Laskod, Béke utca",
+      "updates": []
+    },
     {
       "id": "91849",
       "datetime": "2026.09.10. 20:36",
