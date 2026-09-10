@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T16:27:14.582579+00:00",
-  "count": 3184,
+  "updated_at": "2026-09-10T16:31:03.924067+00:00",
+  "count": 3185,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91842",
+      "datetime": "2026.09.10. 18:28",
+      "title": "Karambol a 63-as főúton, Székesfehérvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91842",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 63-as főúton, Székesfehérvár közelében, a 88-as kilométerszelvénynél. A baleset következtében az egyik autó árokba sodródott. A székesfehérvári hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Székesfehérvár, Kisteleki tanya",
+      "updates": []
+    },
     {
       "id": "91841",
       "datetime": "2026.09.10. 17:54",
