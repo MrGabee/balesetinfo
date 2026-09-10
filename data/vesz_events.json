@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T18:19:34.001293+00:00",
-  "count": 3189,
+  "updated_at": "2026-09-10T18:22:41.111193+00:00",
+  "count": 3190,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91847",
+      "datetime": "2026.09.10. 20:19",
+      "title": "Épület tetőszerkezete égett Csákányon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91847",
+      "lead": "A Kossuth Lajos utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy épület tetőszerkezete Csákányon, a Kossuth Lajos utcában. A zalakarosi, a marcali hivatásos és a szőkedencsi önkéntes tűzoltók érkeztek a helyszínre. A tűz oltását egy nagykanizsai vízszállító is segítette. A rajok négy vízsugárral elfojtották a lángokat. Az egységek az utómunkálatokat kezdik meg.",
+      "location": "Csákány, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91846",
       "datetime": "2026.09.10. 19:39",
