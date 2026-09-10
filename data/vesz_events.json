@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T15:10:51.372293+00:00",
-  "count": 3180,
+  "updated_at": "2026-09-10T15:14:31.216403+00:00",
+  "count": 3181,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91838",
+      "datetime": "2026.09.10. 17:11",
+      "title": "Baleset történt Mezőtúr közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91838",
+      "lead": "A 4202-es utat teljes szélességében lezárták.",
+      "body": "Frontálisan ütközött egy mezőgazdasági jármű és egy személygépkocsi a 4202-es úton, Mezőtúr közelében, a 25-ös kilométerszelvénynél. A mezőtúri hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mezőtúr, Varjaszug",
+      "updates": []
+    },
     {
       "id": "91837",
       "datetime": "2026.09.10. 15:52",
