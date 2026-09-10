@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:51:49.578534+00:00",
+  "updated_at": "2026-09-10T08:55:44.017395+00:00",
   "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Felborult egy autó Szigetvár és Dencsháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91828",
-      "lead": "Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "body": "Felborult egy személygépkocsi Szigetvár és Dencsháza között.  A szigetvári hivatásos tűzoltók műszaki mentést végeznek. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Szigetvár, Vasúti őrházak",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -161,9 +161,9 @@
       "title": "Baleset miatt áll az M1-es forgalma Levél térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91816",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az országhatár felé vezető oldalon, a 163-as kilométernél nem lehet közlekedni.",
+      "body": "Két személykocsi és egy kamion a részese annak a balesetnek, amely az M1-es sztráda Hegyeshalom felé vezető oldalán történt, Levél térségében. A 163-as kilométernél történt karambolnál érintett három járműben összesen négy ember utazott. Az egyik autó az árokban állt meg, a másik és a kamion a két sávot elfoglal, az országhatár felé vezető oldalon átmenetileg teljes útlezárás van. A mosonmagyaróvári hivatásos tűzoltók áramtalanítottak. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Levél, M1",
       "updates": []
     },
     {
@@ -249,19 +249,10 @@
       "title": "Szalmabálák égnek Eleken",
       "category": "Szalmabálák égnek Eleken",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808",
-      "lead": "A 4444-es út mellett dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett Elek külterületén, a 4444-es út mellett. Egy mintegy háromszáz négyzetméter alapterületű kazalba rakott szalmabálák és egy pótkocsi gyulladt ki. A gyulai hivatásos tűzoltók három vízsugárral dolgoznak a helyszínen, ahol felügyelet mellett elégetik a bálákat.",
-      "location": "Elek, 4444",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Eleken",
-          "datetime": "2026.09.09. 18:42",
-          "category": "Tűzeset",
-          "text": "A 4444-es út mellett egy szalmakazal és egy pótkocsi égett. A kazlat egy ideig felügyelet mellett égették, azt egy munkagép széthúzta. A tüzet két gyulai hivatásos tűzoltóegység a gyulai és mezőkovácsházai vízszállító támogatásával oltotta el, a tűzoltók emellett hűtötték a közeli épületet. Az egységek eloltották a tüzet, már az utómunkálatoknál tartanak.",
-          "location": "Elek, 4444",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91808"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91807",
@@ -294,16 +285,7 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.09.09. 23:43",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91805"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91804",
@@ -496,9 +478,9 @@
       "title": "Karambolozott két gépkocsi a 4108-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91792",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Gemzse és Szabolcsbáka között akadályozza a forgalmat a baleset.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy kisbusz a 4108-as út Gemzse és Szabolcsbáka közötti szakaszán, a 12. kilométernél. A műszaki mentést végző kisvárdai hivatásos tűzoltóm áramtalanították az egyik járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gemzse, 4108",
       "updates": []
     },
     {
@@ -507,9 +489,9 @@
       "title": "Karambol Szegednél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91791",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4519-es úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó a 4519-es úton, Szeged közelében, az 51. kilométernél. A szegedi hivatásos tűzoltók áramtalanították a járműveket. A mentők is kivonultak a balesethez. Az érintett útszakaszt teljes szélességében lezárták, a karambol helyszínét egy mellékúton lehet elkerülni.",
+      "location": "Szeged, 4519",
       "updates": []
     },
     {
