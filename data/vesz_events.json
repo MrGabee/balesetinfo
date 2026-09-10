@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:25:59.865799+00:00",
+  "updated_at": "2026-09-10T12:29:58.261748+00:00",
   "count": 3179,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -207,10 +207,19 @@
       "title": "Kigyulladt egy tanya Lajosmizse közelében",
       "category": "Kigyulladt egy tanya Lajosmizse közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91818",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az 5-ös főút 72-es kilométerének közelébe riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy nagyjából másfél hektáros tanyán Lajosmizse külterületén, az 5-ös főút közelében. Munkagépek, bálák, mezőgazdasági eszközök, raklapok égnek. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával lajosmizsei önkormányzati, valamint kecskeméti, dabasi, monori, szolnoki hivatásos tűzoltók vízsugarakkal oltják a lángokat.",
+      "location": "Lajosmizse, Alsóbene tanya",
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat Lajosmizse közelében",
+          "datetime": "2026.09.10. 00:35",
+          "category": "Tűzeset",
+          "text": "Az 5-ös főút 72-es kilométerének közelében több hektáron épületek, raklapok, vegetáció égett. Nyolc település tűzoltói többórás munkával, kilenc vízsugárral előbb körülhatárolták, majd eloltották a lángokat. A munkálatokat egy homlokrakodóval is segítették. Az egységek már az utómunkálatokat végzik.",
+          "location": "Lajosmizse, Alsóbene tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91818/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91818"
+        }
+      ]
     },
     {
       "id": "91817",
@@ -229,9 +238,9 @@
       "title": "Baleset miatt áll az M1-es forgalma Levél térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91816",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az országhatár felé vezető oldalon, a 163-as kilométernél nem lehet közlekedni.",
+      "body": "Két személykocsi és egy kamion a részese annak a balesetnek, amely az M1-es sztráda Hegyeshalom felé vezető oldalán történt, Levél térségében. A 163-as kilométernél történt karambolnál érintett három járműben összesen négy ember utazott. Az egyik autó az árokban állt meg, a másik és a kamion a két sávot elfoglal, az országhatár felé vezető oldalon átmenetileg teljes útlezárás van. A mosonmagyaróvári hivatásos tűzoltók áramtalanítottak. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Levél, M1",
       "updates": []
     },
     {
@@ -240,9 +249,9 @@
       "title": "Melléképületek gyulladtak ki Soroksáron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91815",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Völgyhajó utcába a fővárosi hivatásos tűzoltók három egysége vonult.",
+      "body": "Meggyulladt a vegetáció, és a tűz átterjedt négy melléképületre is Budapest huszonharmadik kerületében, a Völgyhajó utcában. Az egyenként nagyjából húsz négyzetméteres építmények teljes terjedelmükben égtek, a tűz elérte egy lakóházként használt gazdasági épület szigetelését is. A fővárosi hivatásos tűzoltók három egységgel vonultak a helyszínre. A rajok áramtalanítottak, vízsugarakkal oltják a lángokat. Az aljnövényzet tüze összesen nyolc telket érintett.",
+      "location": "Budapest, Völgyhajó utca",
       "updates": []
     },
     {
@@ -251,9 +260,9 @@
       "title": "Elgázolt egy embert a vonat Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91814",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Érd alsó vasútállomás közelében történt a súlyos baleset.",
+      "body": "Elütött egy embert a Székesfehérvárról a Déli pályaudvarra közlekedő vonat Érd alsó előtt. A város hivatásos tűzoltói a szerelvény több mint százötven utasát kísérik be az állomásra. A helyszínre mentő is érkezett. A vasúttársaság tájékoztatása szerint a történtek miatt a székesfehérvári vonalon hosszabb menetidőre kell számítani.",
+      "location": "Érd, Esküdt utca",
       "updates": []
     },
     {
@@ -262,9 +271,9 @@
       "title": "Hármas koccanás Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91813",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 610-es főút belterületi szakaszán, a 8-as kilométernél történt a karambol.",
+      "body": "Összeütközött három autó Kaposváron, a 610-es főút, vagyis a 48-as Ifjúság útján, a Petőfi utcánál. A három kocsiban összesen tíz ember ült, a helyszínre mentő érkezett. A karambol miatt a főút érintett szakaszán fennakadásra kell számítani.",
+      "location": "Kaposvár, 610",
       "updates": []
     },
     {
@@ -273,9 +282,9 @@
       "title": "Négyes karambol az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91812",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mosonújhelynél végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött négy személyautó az 1-es főúton, Mosonújhely közelében. A győri hivatásos tűzoltók vonultak ki a balesethez, és áramtalanítottak két gépkocsit. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Mosonújhely, 1",
       "updates": []
     },
     {
@@ -295,9 +304,9 @@
       "title": "Motor és személykocsi karambolozott Rajka szélén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91810",
-      "lead": "A 15-ös főút 16-17-es kilométere közé riasztották a tűzoltókat.",
-      "body": "Összeütközött egy motorkerékpár és egy személygépkocsi a 15-ös főúton, Rajka szélén. A 16-17-es kilométer között történt balesethez a mosonmagyaróvári hivatásos tűzoltók vonultak, a raj áramtalanított. A motoron ketten ültek, az autóban csak a sofőr utazott, a helyszínre mentő is érkezett. Az érintett szakaszon forgalmi akadályra kell számítani.",
-      "location": "Rajka, 15",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -306,9 +315,9 @@
       "title": "Árokba borult egy autó a 86-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91809",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 185-186-os kilométer között, Mosonudvar térségében történt a baleset.",
+      "body": "Betonoszloppal megrakott utánfutót vontatott az a személykocsi, amely miután a vonófej leszakadt, árokba hajtott a 86-os főút Mosonudvarhoz közeli szakaszán. A 185-186-os kilométer között történt balesethez a lébényi hivatásos tűzoltók vonultak. A személykocsiban két ember utazott, mentő érkezett hozzájuk. A balesettől nagyjából száz méterre egy ráfutásos koccanás is történt.",
+      "location": "Mosonudvar, 86",
       "updates": []
     },
     {
@@ -317,9 +326,9 @@
       "title": "Szalmabálák égnek Eleken",
       "category": "Szalmabálák égnek Eleken",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4444-es út mellett dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Elek külterületén, a 4444-es út mellett. Egy mintegy háromszáz négyzetméter alapterületű kazalba rakott szalmabálák és egy pótkocsi gyulladt ki. A gyulai hivatásos tűzoltók három vízsugárral dolgoznak a helyszínen, ahol felügyelet mellett elégetik a bálákat.",
+      "location": "Elek, 4444",
       "updates": []
     },
     {
@@ -353,7 +362,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.09. 23:43",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91805"
+        }
+      ]
     },
     {
       "id": "91804",
@@ -372,10 +390,27 @@
       "title": "Eddig hét hektár égett le Egyeknél",
       "category": "Eddig hét hektár égett le Egyeknél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltókat riasztottak.",
+      "body": "A Hortobágyi Nemzeti Park területén, Egyek külterületén még tegnap kora este gyulladt meg a nádas, cserjés, bokros, bozótos terület, akkor nagyjából ötven hektáron égett a vegetáció. A tűzoltók szerda hajnalban a rossz látási és terepviszonyok miatt biztonsági okokból felfüggesztették az utómunkálatokat. Az egységek reggel kilenc óta ismét a helyszínen vannak, felkutatták a gócpontokat, a felerősödött szél azonban újra felszította a lángokat. Egyeki önkéntes, illetve mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi hivatásos tűzoltókat riasztottak a tűzhöz, amelynek kiterjedését drónnal derítik fel. A nagy füst miatt az úttal párhuzamosan haladó vasúti pályán lassítják a vonatokat.",
+      "location": "Egyek, külterület",
+      "updates": [
+        {
+          "title": "A rajok az utómunkálatokat végzik Egyeknél",
+          "datetime": "2026.09.09. 21:57",
+          "category": "Tűzeset",
+          "text": "Egyek és Hortobágy között egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat. Az ohati halastavak mellett több hektáron volt ma is tűz, az oltásban a földi egységek mellett részt vett a zagyvarékasi Életjel Mentőcsoport tűzoltórepülője is, amely több fordulót teljesített az égő terület felett. Biztonsági okokból az aktív oltást ismét felfüggesztették éjszakára, az utómunkálatokra és a terület felügyeletére az egyeki gépjárműfecskendő és a tiszafüredi vízszállító maradt a helyszínen.",
+          "location": "Egyek, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
+        },
+        {
+          "title": "Csütörtökön kora reggelre végeztek a munkálatokkal Egyeknél",
+          "datetime": "2026.09.10. 07:06",
+          "category": "Tűzeset",
+          "text": "A tűz még kedden keletkezett, a sötétedés miatt felfüggesztett munkálatokat szerda reggel folytatták a tűzoltók az Egyek és Hortobágy közötti területen. A tűz ismét intenzívebbé vált, a nap folyamán egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat és egy tűzoltórepülő a levegőből is segített. Késő estére úgy tűnt, megszűntek az izzások is, ám az érkező vihar ismét felszította a lángokat. A tűzoltók vízsugarakkal, kézizerszámokkal, háti permetezővel folyamatosan dolgoztak, a munkát nehezítette a terület tagoltsága. Az egységek csütörtök kora reggelre oltották el a tüzet, fejezték be az utómunkálatokat. A jelenlegi becslések szerint nagyjából nyolcvan hektár égett le.",
+          "location": "Egyek, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
+        }
+      ]
     },
     {
       "id": "91802",
@@ -394,10 +429,19 @@
       "title": "Kigyulladt egy melléképület Szadán",
       "category": "Kigyulladt egy melléképület Szadán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91801",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Béke utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki Szadán, a Béke utcában. Teljes terjedelmében ég egy melléképület és nagy területen az aljnövényzet is. A gödöllői és a fővárosi hivatásos tűzoltók oltják a lángokat.",
+      "location": "Szada, Béke utca",
+      "updates": [
+        {
+          "title": "Megfékezték a szadai tüzet",
+          "datetime": "2026.09.09. 14:56",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Szadán, ahol tűz ütött ki a Béke utcában. Mintegy fél hektáron egy száraz füves, bozótos területet érintettek a lángok. Megsemmisült a tűzben egy körülbelül nyolcvan négyzetméteres istálló teteje, és részben égett egy hozzá csatlakozó melléképület is. Tűzifa és szalmabálák is voltak a területen, ezek még izzanak. A lángokat gödöllői és a fővárosi hivatásos, valamint a veresegyházi önkéntes tűzoltók fékezték meg. A rajok utómunkálatokat végeznek.",
+          "location": "Szada, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91801/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91801"
+        }
+      ]
     },
     {
       "id": "91800",
@@ -416,10 +460,19 @@
       "title": "Ég egy melléképület Szegednél",
       "category": "Ég egy melléképület Szegednél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A körülötte lévő növényzetre is átterjedt a tűz.",
+      "body": "Kigyulladt egy melléképület a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton. Teljes terjedelmében ég az ingatlan, és mintegy négyszáz négyzetméteren a körülötte lévő avar és gaz is lángra kapott. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Szeged, Széksósi út",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szegednél",
+          "datetime": "2026.09.09. 14:13",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a szabadtéri tűznek a lángjait, amely a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton keletkezett. Teljes terjedelmében kiégett egy melléképület, benne egy farakással, és részben egy másik melléképületet is érintettek a lángok. Mintegy négyszáz négyzetméteren tarló és cserjés, az út másik oldalán pedig erdő aljnövényzete égett. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók egy szentesi és egy szegedi vízszállító jármű közreműködésével, a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Szeged, Széksósi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91799"
+        }
+      ]
     },
     {
       "id": "91798",
