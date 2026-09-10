@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T06:03:27.271789+00:00",
-  "count": 3169,
+  "updated_at": "2026-09-10T06:07:17.005420+00:00",
+  "count": 3170,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91827",
+      "datetime": "2026.09.10. 08:04",
+      "title": "Baleset történt az M1-es autópályán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91827",
+      "lead": "Börcs közelében áramtalanítottak a tűzoltók.",
+      "body": "Összeütközött egy személygépkocsi és egy kamion az M1-es autópályán, Hegyeshalom felé, Börcs közelében, a 135-ös kilométerszelvénynél. A járművekben csak a sofőrök utaztak. A győri hivatásos tűzoltók áramtalanították a személyautót.",
+      "location": "Öttevény, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "91826",
       "datetime": "2026.09.10. 07:24",
