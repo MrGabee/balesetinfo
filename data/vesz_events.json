@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T05:21:21.507373+00:00",
-  "count": 3168,
+  "updated_at": "2026-09-10T05:24:48.181514+00:00",
+  "count": 3169,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91826",
+      "datetime": "2026.09.10. 07:24",
+      "title": "Súlyos baleset történt az 57-es főúton, Versendnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91826",
+      "lead": "Egy személykocsi és egy furgon karambolozott a 14-15-ös kilométer között.",
+      "body": "Egymásba rohant egy furgon és egy autó az 57-es főút 14-15-ös kilométere között, Versend közelében. Mindkét járműben csak annak sofőrje utazott, a gépkocsivezetőkhöz mentő érkezett. A mohácsi hivatásos tűzoltók áramtalanítottak és kiemelték a személykocsi vezetőjét a járműből. A főút érintett szakaszát átmenetileg teljes szélességében lezárták.",
+      "location": "Versend, 57",
+      "updates": []
+    },
     {
       "id": "91825",
       "datetime": "2026.09.10. 05:58",
