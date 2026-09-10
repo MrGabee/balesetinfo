@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T17:37:01.927204+00:00",
-  "count": 3188,
+  "updated_at": "2026-09-10T17:40:52.025642+00:00",
+  "count": 3189,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91846",
+      "datetime": "2026.09.10. 19:39",
+      "title": "Lakóház égett Nyíregyházán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91846",
+      "lead": "Az Esze Tamás utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakóház Nyíregyházán, az Esze Tamás utcában. Az épületben egy szoba égett. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzi.",
+      "location": "Nyíregyháza, Esze Tamás utca",
+      "updates": []
+    },
     {
       "id": "91845",
       "datetime": "2026.09.10. 19:04",
