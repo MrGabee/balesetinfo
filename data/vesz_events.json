@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T18:29:36.180750+00:00",
-  "count": 3190,
+  "updated_at": "2026-09-10T18:33:14.868374+00:00",
+  "count": 3191,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91848",
+      "datetime": "2026.09.10. 20:31",
+      "title": "Karambol Egerszalókon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91848",
+      "lead": "A tűzoltók feszítővágó segítségével kimentették a beszorult utasokat.",
+      "body": "Összeütközött két személygépkocsi Egerszalókon, az Ady Endre úton. Az egri hivatásos tűzoltók áramtalanították a járműveket és feszítővágó segítségével kimentették a beszorult utasokat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Egerszalók, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "91847",
       "datetime": "2026.09.10. 20:19",
