@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T15:51:29.331948+00:00",
-  "count": 3182,
+  "updated_at": "2026-09-10T15:54:45.152556+00:00",
+  "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91840",
+      "datetime": "2026.09.10. 17:51",
+      "title": "Lakóház égett Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91840",
+      "lead": "A Híd dűlőnél dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy lakóház Miskolcon, a Híd dűlőnél. A miskolci hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Miskolc, Kiserenyő",
+      "updates": []
+    },
     {
       "id": "91839",
       "datetime": "2026.09.10. 17:44",
