@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T10:10:12.381821+00:00",
-  "count": 3173,
+  "updated_at": "2026-09-10T10:14:07.396615+00:00",
+  "count": 3174,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91831",
+      "datetime": "2026.09.10. 12:10",
+      "title": "Összeütközött két autó Baján",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91831",
+      "lead": "A Keleti körút és a Nagy István utca kereszteződéséhez vonultak a tűzoltók.",
+      "body": "Karambolozott két személyautó Baján, a Keleti körút és a Nagy István utca kereszteződésénél. A helyszínen vannak a mentők is. A bajai hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Baja, Keleti körút",
+      "updates": []
+    },
     {
       "id": "91830",
       "datetime": "2026.09.10. 11:45",
