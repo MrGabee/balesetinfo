@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T06:33:22.735597+00:00",
-  "count": 3170,
+  "updated_at": "2026-09-10T06:36:50.806814+00:00",
+  "count": 3171,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91828",
+      "datetime": "2026.09.10. 08:34",
+      "title": "Felborult egy autó Szigetvár és Dencsháza között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91828",
+      "lead": "Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "body": "Felborult egy személygépkocsi Szigetvár és Dencsháza között.  A szigetvári hivatásos tűzoltók műszaki mentést végeznek. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szigetvár, Vasúti őrházak",
+      "updates": []
+    },
     {
       "id": "91827",
       "datetime": "2026.09.10. 08:04",
