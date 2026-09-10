@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:45:42.150975+00:00",
+  "updated_at": "2026-09-10T07:49:30.536594+00:00",
   "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -364,16 +364,7 @@
       "lead": "A Béke utcába riasztották a tűzoltókat.",
       "body": "Tűz ütött ki Szadán, a Béke utcában. Teljes terjedelmében ég egy melléképület és nagy területen az aljnövényzet is. A gödöllői és a fővárosi hivatásos tűzoltók oltják a lángokat.",
       "location": "Szada, Béke utca",
-      "updates": [
-        {
-          "title": "Megfékezték a szadai tüzet",
-          "datetime": "2026.09.09. 14:56",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Szadán, ahol tűz ütött ki a Béke utcában. Mintegy fél hektáron egy száraz füves, bozótos területet érintettek a lángok. Megsemmisült a tűzben egy körülbelül nyolcvan négyzetméteres istálló teteje, és részben égett egy hozzá csatlakozó melléképület is. Tűzifa és szalmabálák is voltak a területen, ezek még izzanak. A lángokat gödöllői és a fővárosi hivatásos, valamint a veresegyházi önkéntes tűzoltók fékezték meg. A rajok utómunkálatokat végeznek.",
-          "location": "Szada, Béke utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91801/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91801"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91800",
