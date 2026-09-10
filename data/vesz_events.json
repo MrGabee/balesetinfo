@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:29:58.261748+00:00",
+  "updated_at": "2026-09-10T12:33:53.372324+00:00",
   "count": 3179,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -293,9 +293,9 @@
       "title": "Kigyulladt egy garázs Kunszentmártonban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91811",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy másik melléképületre is átterjedtek a lángok, amelyeket megfékeztek a tűzoltók.",
+      "body": "Tűz ütött ki egy körülbelül nyolc négyzetméteres garázsban, Kunszentmártonban, az Irányi utcában. Az építmény teljesen kiégett, és a tűz a szomszédos melléképület tetejére is átterjedt. A város hivatásos tűzoltói eloltották a lángokat.",
+      "location": "Kunszentmárton, Irányi utca",
       "updates": []
     },
     {
@@ -304,9 +304,9 @@
       "title": "Motor és személykocsi karambolozott Rajka szélén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91810",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 15-ös főút 16-17-es kilométere közé riasztották a tűzoltókat.",
+      "body": "Összeütközött egy motorkerékpár és egy személygépkocsi a 15-ös főúton, Rajka szélén. A 16-17-es kilométer között történt balesethez a mosonmagyaróvári hivatásos tűzoltók vonultak, a raj áramtalanított. A motoron ketten ültek, az autóban csak a sofőr utazott, a helyszínre mentő is érkezett. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Rajka, 15",
       "updates": []
     },
     {
@@ -329,7 +329,16 @@
       "lead": "A 4444-es út mellett dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett Elek külterületén, a 4444-es út mellett. Egy mintegy háromszáz négyzetméter alapterületű kazalba rakott szalmabálák és egy pótkocsi gyulladt ki. A gyulai hivatásos tűzoltók három vízsugárral dolgoznak a helyszínen, ahol felügyelet mellett elégetik a bálákat.",
       "location": "Elek, 4444",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Eleken",
+          "datetime": "2026.09.09. 18:42",
+          "category": "Tűzeset",
+          "text": "A 4444-es út mellett egy szalmakazal és egy pótkocsi égett. A kazlat egy ideig felügyelet mellett égették, azt egy munkagép széthúzta. A tüzet két gyulai hivatásos tűzoltóegység a gyulai és mezőkovácsházai vízszállító támogatásával oltotta el, a tűzoltók emellett hűtötték a közeli épületet. Az egységek eloltották a tüzet, már az utómunkálatoknál tartanak.",
+          "location": "Elek, 4444",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91808"
+        }
+      ]
     },
     {
       "id": "91807",
@@ -337,9 +346,9 @@
       "title": "Felborult egy autó a Megyeri hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91807",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Felborult egy személyautó az M0-s autóúton, a Megyeri híd budai szakaszán, a Pest felé vezető oldalon. A járműben egy ember utazott. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Budakalász, M0, Megyeri híd",
       "updates": []
     },
     {
