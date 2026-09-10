@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T10:39:52.292628+00:00",
-  "count": 3174,
+  "updated_at": "2026-09-10T10:43:11.620073+00:00",
+  "count": 3175,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91832",
+      "datetime": "2026.09.10. 12:41",
+      "title": "Garázs égett Horton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91832",
+      "lead": "A Táncsics Mihály úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy garázsban Horton, a Táncsics Mihály úton. A melléképületben háztartási gépek és bútorok égtek. A hatvani hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat végzik.",
+      "location": "Hort, Táncsics Mihály út",
+      "updates": []
+    },
     {
       "id": "91831",
       "datetime": "2026.09.10. 12:10",
