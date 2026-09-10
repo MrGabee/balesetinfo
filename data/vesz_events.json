@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T16:31:03.924067+00:00",
-  "count": 3185,
+  "updated_at": "2026-09-10T16:34:58.851517+00:00",
+  "count": 3186,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91843",
+      "datetime": "2026.09.10. 18:32",
+      "title": "Busz és autó ütközött Budakeszin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91843",
+      "lead": "A Királyleányka utcában forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy busz és egy személygépkocsi Budakeszin, a Királyleányka utcában. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budakeszi, Szürkebarát utca",
+      "updates": []
+    },
     {
       "id": "91842",
       "datetime": "2026.09.10. 18:28",
