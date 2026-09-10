@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T17:02:23.455821+00:00",
-  "count": 3187,
+  "updated_at": "2026-09-10T17:05:47.622900+00:00",
+  "count": 3188,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91845",
+      "datetime": "2026.09.10. 19:04",
+      "title": "Karambol a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91845",
+      "lead": "Hajdúszoboszló közelében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 4-es főúton, Hajdúszoboszló közelében, a 199-es kilométerszelvénynél. A hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő  is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Hajdúszoboszló, Kabai út",
+      "updates": []
+    },
     {
       "id": "91844",
       "datetime": "2026.09.10. 18:37",
