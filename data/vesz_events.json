@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T18:33:14.868374+00:00",
-  "count": 3191,
+  "updated_at": "2026-09-10T18:36:50.358965+00:00",
+  "count": 3192,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91849",
+      "datetime": "2026.09.10. 20:36",
+      "title": "Baleset történt a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91849",
+      "lead": "Kisújszállás közelében teljes szélességében lezárták az utat.",
+      "body": "Lesodródott az útról és árokba hajtott egy személygépkocsi a 4-es főúton, Kisújszállás közelében, a 151-es kilométerszelvénynél. A kisújszállási önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisújszállás, Nádas hodály út",
+      "updates": []
+    },
     {
       "id": "91848",
       "datetime": "2026.09.10. 20:31",
