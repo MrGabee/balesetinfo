@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:55:44.017395+00:00",
+  "updated_at": "2026-09-10T08:59:39.166268+00:00",
   "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Négyes karambol az M1-esen, Levélnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91825",
-      "lead": "Az országhatár felé vezető oldalon, a 164-es kilométernél ráfutásos baleset történt.",
-      "body": "Ráfutásos balesetet szenvedett négy autó az M1-es sztrádán, Levél térségében. A járművek elfoglalnak az országhatár felé vezető oldalon két forgalmi sávot. A 164-es kilométernél történt karambolban összesen nyolcan érintettek. A mosonmagyaróvári hivatásos tűzoltók vonultak az esethez.",
-      "location": "Levél, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -249,10 +249,19 @@
       "title": "Szalmabálák égnek Eleken",
       "category": "Szalmabálák égnek Eleken",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 4444-es út mellett dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Elek külterületén, a 4444-es út mellett. Egy mintegy háromszáz négyzetméter alapterületű kazalba rakott szalmabálák és egy pótkocsi gyulladt ki. A gyulai hivatásos tűzoltók három vízsugárral dolgoznak a helyszínen, ahol felügyelet mellett elégetik a bálákat.",
+      "location": "Elek, 4444",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Eleken",
+          "datetime": "2026.09.09. 18:42",
+          "category": "Tűzeset",
+          "text": "A 4444-es út mellett egy szalmakazal és egy pótkocsi égett. A kazlat egy ideig felügyelet mellett égették, azt egy munkagép széthúzta. A tüzet két gyulai hivatásos tűzoltóegység a gyulai és mezőkovácsházai vízszállító támogatásával oltotta el, a tűzoltók emellett hűtötték a közeli épületet. Az egységek eloltották a tüzet, már az utómunkálatoknál tartanak.",
+          "location": "Elek, 4444",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91808"
+        }
+      ]
     },
     {
       "id": "91807",
@@ -285,7 +294,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.09. 23:43",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91805/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91805"
+        }
+      ]
     },
     {
       "id": "91804",
