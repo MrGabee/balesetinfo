@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T15:54:45.152556+00:00",
-  "count": 3183,
+  "updated_at": "2026-09-10T15:58:48.904492+00:00",
+  "count": 3184,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91841",
+      "datetime": "2026.09.10. 17:54",
+      "title": "Tizenöt hektáron égett a száraz fű Ózdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91841",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Száraz fű égett mintegy tizenöt hektáron Ózdon, a Szőlőkalja úton. Az ózdi hivatásos tűzoltók több vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ózd, Szőlőkalja út",
+      "updates": []
+    },
     {
       "id": "91840",
       "datetime": "2026.09.10. 17:51",
