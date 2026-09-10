@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T15:44:35.385251+00:00",
-  "count": 3181,
+  "updated_at": "2026-09-10T15:47:52.871378+00:00",
+  "count": 3182,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91839",
+      "datetime": "2026.09.10. 17:44",
+      "title": "Lakás égett Bátonyterenyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91839",
+      "lead": "A Liget úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakás egyik helyisége Bátonyterenyén, a Liget úton. A szobában berendezési tárgyak égtek. A helyi és a salgótarjáni hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Bátonyterenye, Liget út",
+      "updates": []
+    },
     {
       "id": "91838",
       "datetime": "2026.09.10. 17:11",
