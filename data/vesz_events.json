@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:04:47.331751+00:00",
+  "updated_at": "2026-09-10T08:08:36.090411+00:00",
   "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -280,9 +280,9 @@
       "title": "Baleset történt Nyírmadán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91806",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hunyadi János út egy szakaszán félpályán halad a forgalom.",
+      "body": "Az út szélén álló gépkocsinak ütközött egy személyautó Nyírmadán, a Hunyadi úton, a Nyírfa utcánál. A baktalórántházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
+      "location": "Nyírmada, Hunyadi út",
       "updates": []
     },
     {
@@ -395,16 +395,7 @@
       "lead": "A körülötte lévő növényzetre is átterjedt a tűz.",
       "body": "Kigyulladt egy melléképület a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton. Teljes terjedelmében ég az ingatlan, és mintegy négyszáz négyzetméteren a körülötte lévő avar és gaz is lángra kapott. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
       "location": "Szeged, Széksósi út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Szegednél",
-          "datetime": "2026.09.09. 14:13",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a szabadtéri tűznek a lángjait, amely a Szegedhez tartozó Kiskundorozsma határában, a Széksósi úton, az 5408-as úton keletkezett. Teljes terjedelmében kiégett egy melléképület, benne egy farakással, és részben egy másik melléképületet is érintettek a lángok. Mintegy négyszáz négyzetméteren tarló és cserjés, az út másik oldalán pedig erdő aljnövényzete égett. A szegedi, a kisteleki, a ruzsai és a kiskunmajsai hivatásos, valamint az üllési önkéntes tűzoltók egy szentesi és egy szegedi vízszállító jármű közreműködésével, a Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a lángokat. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Szeged, Széksósi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91799/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91799"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91798",
@@ -452,9 +443,9 @@
       "title": "Utoléréses baleset a 441-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91796",
-      "lead": "A 14-es kilométernél, Nagykőrös külterületén három jármű karambolozott.",
-      "body": "Egy személykocsi, egy furgon és egy teherautó ütközött össze a 441-es főút 14-es kilométerénél, Nagykőrös közelében. A járművekben összesen négyen utaztak. A nagykőrösi önkormányzati tűzoltókat riasztották a helyszínre, ahová a társhatóságok is vonultak. A forgalom félpályán halad.",
-      "location": "Nagykőrös, 441",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
