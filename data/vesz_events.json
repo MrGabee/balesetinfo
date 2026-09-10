@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-10T11:09:06.858246+00:00",
-  "count": 3175,
+  "updated_at": "2026-09-10T11:12:56.054923+00:00",
+  "count": 3176,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91833",
+      "datetime": "2026.09.10. 13:11",
+      "title": "Felborult egy autó Bodrogkisfaludon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91833",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt az Ady telepen.",
+      "body": "Lesodródott az úttestről és árokba borult egy személyautó Bodrogkisfaludon, az Ady telepen, a Vasút utcánál. A járműben ketten utaztak. A műszaki mentést végző szerencsi hivatásos tűzoltók a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Bodrogkisfalud, Ady telep",
+      "updates": []
+    },
     {
       "id": "91832",
       "datetime": "2026.09.10. 12:41",
@@ -53,9 +64,9 @@
       "title": "Felborult egy autó Szigetvár és Dencsháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91828",
-      "lead": "Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "body": "Felborult egy személygépkocsi Szigetvár és Dencsháza között.  A szigetvári hivatásos tűzoltók műszaki mentést végeznek. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Szigetvár, Vasúti őrházak",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -86,9 +97,9 @@
       "title": "Négyes karambol az M1-esen, Levélnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91825",
-      "lead": "Az országhatár felé vezető oldalon, a 164-es kilométernél ráfutásos baleset történt.",
-      "body": "Ráfutásos balesetet szenvedett négy autó az M1-es sztrádán, Levél térségében. A járművek elfoglalnak az országhatár felé vezető oldalon két forgalmi sávot. A 164-es kilométernél történt karambolban összesen nyolcan érintettek. A mosonmagyaróvári hivatásos tűzoltók vonultak az esethez.",
-      "location": "Levél, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +108,9 @@
       "title": "Égő kamion miatt áll az M5-ös forgalma",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91824",
-      "lead": "A főváros felé vezető oldal 90-es kilométerénél, Kecskemét határában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt és teljes terjedelmében ég egy nyerges vontató az M5-ös autópályán, Kecskemét határában. Az 54-es főúti csomópont közelében, a Budapest felé vezető oldalon lángoló járműhöz a kecskeméti hivatásos tűzoltóság több egységét, valamint a kiskunfélegyházi vízszállítót riasztották. A rajok habosított vízsugarakkal oltják a kamiont, illetve a mellette nagyjából fél hektáron égő aljnövényzetet. A járműben csak a sofőr ült, nem esett baja. Az autópálya főváros felé vezető oldalának forgalmát az érintett szakaszon megállították.",
-      "location": "Kecskemét, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -238,9 +249,9 @@
       "title": "Négyes karambol az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91812",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mosonújhelynél végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött négy személyautó az 1-es főúton, Mosonújhely közelében. A győri hivatásos tűzoltók vonultak ki a balesethez, és áramtalanítottak két gépkocsit. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Mosonújhely, 1",
       "updates": []
     },
     {
@@ -302,9 +313,9 @@
       "title": "Felborult egy autó a Megyeri hídon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91807",
-      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
-      "body": "Felborult egy személyautó az M0-s autóúton, a Megyeri híd budai szakaszán, a Pest felé vezető oldalon. A járműben egy ember utazott. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
-      "location": "Budakalász, M0, Megyeri híd",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +324,9 @@
       "title": "Baleset történt Nyírmadán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91806",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hunyadi János út egy szakaszán félpályán halad a forgalom.",
+      "body": "Az út szélén álló gépkocsinak ütközött egy személyautó Nyírmadán, a Hunyadi úton, a Nyírfa utcánál. A baktalórántházai hivatásos tűzoltók áramtalanították a járművet. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
+      "location": "Nyírmada, Hunyadi út",
       "updates": []
     },
     {
@@ -335,9 +346,9 @@
       "title": "Embert gázolt a vonat Hatvanban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91804",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek átszállni a szerelvény utasainak.",
+      "body": "Elgázolt egy embert a vonat Hatvanban, a Kandó Kálmán utcánál. A baleset miatt a szerelvény nem tud továbbmenni. Ezért a rajta utazóknak a város hivatásos tűzoltói segítettek átszállni az értük küldött mentesítő autóbuszra.",
+      "location": "Hatvan, Kandó Kálmán utca",
       "updates": []
     },
     {
@@ -346,10 +357,27 @@
       "title": "Eddig hét hektár égett le Egyeknél",
       "category": "Eddig hét hektár égett le Egyeknél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltókat riasztottak.",
+      "body": "A Hortobágyi Nemzeti Park területén, Egyek külterületén még tegnap kora este gyulladt meg a nádas, cserjés, bokros, bozótos terület, akkor nagyjából ötven hektáron égett a vegetáció. A tűzoltók szerda hajnalban a rossz látási és terepviszonyok miatt biztonsági okokból felfüggesztették az utómunkálatokat. Az egységek reggel kilenc óta ismét a helyszínen vannak, felkutatták a gócpontokat, a felerősödött szél azonban újra felszította a lángokat. Egyeki önkéntes, illetve mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi hivatásos tűzoltókat riasztottak a tűzhöz, amelynek kiterjedését drónnal derítik fel. A nagy füst miatt az úttal párhuzamosan haladó vasúti pályán lassítják a vonatokat.",
+      "location": "Egyek, külterület",
+      "updates": [
+        {
+          "title": "A rajok az utómunkálatokat végzik Egyeknél",
+          "datetime": "2026.09.09. 21:57",
+          "category": "Tűzeset",
+          "text": "Egyek és Hortobágy között egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat. Az ohati halastavak mellett több hektáron volt ma is tűz, az oltásban a földi egységek mellett részt vett a zagyvarékasi Életjel Mentőcsoport tűzoltórepülője is, amely több fordulót teljesített az égő terület felett. Biztonsági okokból az aktív oltást ismét felfüggesztették éjszakára, az utómunkálatokra és a terület felügyeletére az egyeki gépjárműfecskendő és a tiszafüredi vízszállító maradt a helyszínen.",
+          "location": "Egyek, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
+        },
+        {
+          "title": "Csütörtökön kora reggelre végeztek a munkálatokkal Egyeknél",
+          "datetime": "2026.09.10. 07:06",
+          "category": "Tűzeset",
+          "text": "A tűz még kedden keletkezett, a sötétedés miatt felfüggesztett munkálatokat szerda reggel folytatták a tűzoltók az Egyek és Hortobágy közötti területen. A tűz ismét intenzívebbé vált, a nap folyamán egyeki, mezőkövesdi, tiszaújvárosi, füzesabonyi, hajdúszoboszlói, debreceni és püspökladányi tűzoltók avatkoztak be, több oldalról vízsugarakkal, kéziszerszámokkal oltották a lángokat és egy tűzoltórepülő a levegőből is segített. Késő estére úgy tűnt, megszűntek az izzások is, ám az érkező vihar ismét felszította a lángokat. A tűzoltók vízsugarakkal, kézizerszámokkal, háti permetezővel folyamatosan dolgoztak, a munkát nehezítette a terület tagoltsága. Az egységek csütörtök kora reggelre oltották el a tüzet, fejezték be az utómunkálatokat. A jelenlegi becslések szerint nagyjából nyolcvan hektár égett le.",
+          "location": "Egyek, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91803/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91803"
+        }
+      ]
     },
     {
       "id": "91802",
