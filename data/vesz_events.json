@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:36:44.131242+00:00",
+  "updated_at": "2026-09-11T10:40:18.463365+00:00",
   "count": 3223,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -82,14 +82,23 @@
     },
     {
       "id": "91873",
-      "datetime": "2026.09.11. 10:56",
+      "datetime": "2026.09.11. 10:56 -",
       "title": "Tetőtűz Hevesen",
-      "category": "Tűzeset",
+      "category": "Tetőtűz Hevesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91873",
       "lead": "Az Alkotmány úton csaptak fel a lángok.",
       "body": "Családi ház tetőszerkezete ég Hevesen, az Alkotmány úton. A helyi hivatásos tűzoltók már oltják a lángokat. A rajok két gázpalackot is kihoztak az ingatlanból.",
       "location": "Heves, Alkotmány út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Hevesen",
+          "datetime": "2026.09.11. 12:38",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Hevesen, ahol egy családi ház tetőszerkezete égett az Alkotmány úton. A lángokat a füzesabonyi és a hevesi hivatásos tűzoltók oltották el. A rajok két gázpalackot is kihoztak az ingatlanból.",
+          "location": "Heves, Alkotmány út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91873/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91873"
+        }
+      ]
     },
     {
       "id": "91872",
