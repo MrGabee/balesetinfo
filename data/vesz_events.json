@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T08:48:27.080597+00:00",
-  "count": 3214,
+  "updated_at": "2026-09-11T08:52:24.120854+00:00",
+  "count": 3215,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91872",
+      "datetime": "2026.09.11. 10:50",
+      "title": "Felborult egy gépkocsi a 8507-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91872",
+      "lead": "A tűzoltók Jánossomorja közelében áramtalanították a járművet.",
+      "body": "Lehajtott az úttestről és a szántóföldön a tetejére borult egy kisbusz a 8507-es úton, Jánossomorja közelében. A járműben hatan utaztak, hozzájuk mentők érkeztek a helyszínre. A mosonmagyaróvári hivatásos és a jánossomorjai önkéntes tűzoltók áramtalanították a járművet.",
+      "location": "Jánossomorja, 8507",
+      "updates": []
+    },
     {
       "id": "91871",
       "datetime": "2026.09.11. 10:41",
@@ -211,9 +222,9 @@
       "title": "Karambol a 81-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91855",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Töltéstava közelében váltakozva halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 81-es főúton, Töltéstava közelében, a 77-es kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A győri hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon váltakozva halad a forgalom.",
+      "location": "Győr, Alkonyat utca",
       "updates": []
     },
     {
