@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T05:56:22.984233+00:00",
-  "count": 3202,
+  "updated_at": "2026-09-11T06:00:06.416685+00:00",
+  "count": 3203,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91860",
+      "datetime": "2026.09.11. 07:57",
+      "title": "Tűz keletkezett egy telephelyen Bábolna és Tárkány között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91860",
+      "lead": "Az egyik tárolóban munkagépek égnek.",
+      "body": "Tűz keletkezett egy telephelyen, Bábolna és Tárkány között. Az egyik tárolóban munkagépek égnek. A kisbéri hivatásos, a nagyigmándi és ácsi önkormányzati valamint a tárkányi önkéntes tűzoltók már dolgoznak a lángok elfojtásán. A rajok egy acetilén, egy oxigén és egy gázpalackot is kihoztak az épületből.",
+      "location": "Bábolna, külterület",
+      "updates": []
+    },
     {
       "id": "91859",
       "datetime": "2026.09.11. 07:56",
@@ -97,9 +108,9 @@
       "title": "Lakás égett Budapest XIV. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91851",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákosfalva parkban dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy emeletes lakóház egyik ingatlanja Budapest XIV. kerületében, a Rákosfalva parkban. A lakásban egy helyiség teljes terjedelmében, valamint egy erkély égett. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Budapest, Rákosfalva park",
       "updates": []
     },
     {
@@ -108,10 +119,19 @@
       "title": "Erdő aljnövényzete ég Laskod határában",
       "category": "Erdő aljnövényzete ég Laskod határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91850",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A rajok több vízsugárral oltják a lángokat.",
+      "body": "Nagy területen ég egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral oltják a lángokat. A rajok elhúzódó munkálatokat végeznek.",
+      "location": "Laskod, Béke utca",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Laskod határában",
+          "datetime": "2026.09.10. 22:46",
+          "category": "Tűzeset",
+          "text": "Nagy területen égett egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Laskod, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91850/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91850"
+        }
+      ]
     },
     {
       "id": "91849",
@@ -119,9 +139,9 @@
       "title": "Baleset történt a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91849",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kisújszállás közelében teljes szélességében lezárták az utat.",
+      "body": "Lesodródott az útról és árokba hajtott egy személygépkocsi a 4-es főúton, Kisújszállás közelében, a 151-es kilométerszelvénynél. A kisújszállási önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisújszállás, Nádas hodály út",
       "updates": []
     },
     {
