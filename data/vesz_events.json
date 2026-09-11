@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T08:04:15.793540+00:00",
-  "count": 3211,
+  "updated_at": "2026-09-11T08:07:49.806165+00:00",
+  "count": 3212,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91869",
+      "datetime": "2026.09.11. 10:05",
+      "title": "Karambolozott két autó 6534-es úton, Nagymányoknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91869",
+      "lead": "Egy embert a tűzoltók emeltek ki az egyik gépkocsiból.",
+      "body": "Összeütközött két személyautó a 6534-es út Nagymányok és Bonyhád közötti szakaszán, a 6. kilométer közelében. Az egyik jármű az árokba sodródott a karambol következtében. Ebből egy embert kiemeltek és átadtak a mentőknek a műszaki mentést végző bonyhádi hivatásos, valamint a bonyhádi és a nagymányoki önkéntes tűzoltók. A rajok áramtalanították az egyik gépkocsit, a másiknál nincs szükség ilyen beavatkozásra.",
+      "location": "Nagymányok, 6534",
+      "updates": []
+    },
     {
       "id": "91868",
       "datetime": "2026.09.11. 09:54",
@@ -211,9 +222,9 @@
       "title": "Ház és melléképület égett Gyulán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91852",
-      "lead": "A Diófás utcában fojtották el a lángokat a tűzoltók.",
-      "body": "Teljes terjedelmében égett egy lakóépület Sarkadon, a Diófás utcában. A tűz átterjedt a melléképület tetőszerkezetére is. A gyulai hivatásos tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Sarkad, Diófás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -352,9 +363,9 @@
       "title": "Lakóház égett Miskolcon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91840",
-      "lead": "A Híd dűlőnél dolgoznak a tűzoltók.",
-      "body": "Teljes terjedelmében égett egy lakóház Miskolcon, a Híd dűlőnél. A miskolci hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Miskolc, Kiserenyő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -363,9 +374,9 @@
       "title": "Lakás égett Bátonyterenyén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91839",
-      "lead": "A Liget úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy lakás egyik helyisége Bátonyterenyén, a Liget úton. A szobában berendezési tárgyak égtek. A helyi és a salgótarjáni hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Bátonyterenye, Liget út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -385,9 +396,9 @@
       "title": "Kerítésnek gurult egy autó Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91837",
-      "lead": "A Szent István utcában forgalmi akadályra kell számítani.",
-      "body": "Kerítésnek gurult egy meghibásodott gépkocsi Tatabányán, a Szent István utcában. A városi hivatásos és önkéntes tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Tatabánya, Szent István utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
