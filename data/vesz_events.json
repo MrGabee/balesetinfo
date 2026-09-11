@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T05:46:09.547153+00:00",
-  "count": 3200,
+  "updated_at": "2026-09-11T05:49:46.118793+00:00",
+  "count": 3201,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91858",
+      "datetime": "2026.09.11. 07:47",
+      "title": "Lesodródott az útról egy autó Dány és Isaszeg közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91858",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Lesodródott az útról és árokba hajtott egy személygépkocsi Dány és Isaszeg között. Az autóban csak a sofőr utazott. A gödöllői hivatásos tűzoltók áramtalanítják a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Dány, Fácán tanya",
+      "updates": []
+    },
     {
       "id": "91857",
       "datetime": "2026.09.11. 07:40",
