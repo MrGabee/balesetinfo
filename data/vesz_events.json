@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T13:03:22.859688+00:00",
-  "count": 3231,
+  "updated_at": "2026-09-11T13:07:07.547173+00:00",
+  "count": 3232,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91889",
+      "datetime": "2026.09.11. 15:05",
+      "title": "Kisteherautó és személygépkocsi karambolozott a 22-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91889",
+      "lead": "Szécsény és Endrefalva között félpályán halad a forgalom.",
+      "body": "Kisteherautó és személygépkocsi karambolozott a 22-es főút Szécsény és Endrefalva közötti szakaszán, a 43-as kilométerszelvénynél. A műszaki mentést a szécsényi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szécsény, 22",
+      "updates": []
+    },
     {
       "id": "91888",
       "datetime": "2026.09.11. 14:58",
