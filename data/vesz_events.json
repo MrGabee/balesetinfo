@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T06:07:33.214234+00:00",
-  "count": 3204,
+  "updated_at": "2026-09-11T06:11:19.275702+00:00",
+  "count": 3205,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91862",
+      "datetime": "2026.09.11. 08:10",
+      "title": "Garázs ég Visegrádon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91862",
+      "lead": "A Magas közben dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy garázs Visegrádon, a Magas közben. A tűz átterjedt a lakóház tetőszerkezetére is. A szentendrei és az esztergomi hivatásos, illetve a visegrádi és a leányfalui önkéntes tűzoltók érkeztek ki. A rajok négy vízsugárral oltják a lángokat.",
+      "location": "Visegrád, Magas köz",
+      "updates": []
+    },
     {
       "id": "91861",
       "datetime": "2026.09.11. 08:04",
@@ -31,9 +42,9 @@
       "title": "Oldalára borult egy autó 2108-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91859",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Galgagyörk és Püspökhatvan között egy sávon halad a forgalom.",
+      "body": "Oldalára borult egy személygépkocsi 2108-as úton, Galgagyörk és Püspökhatvan között, a 42-es kilométerszelvénynél. Az autóban csak a sofőr utazott. Az aszódi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Galgagyörk, Falujárók útja",
       "updates": []
     },
     {
@@ -42,9 +53,9 @@
       "title": "Lesodródott az útról egy autó Dány és Isaszeg közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91858",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Lesodródott az útról és árokba hajtott egy személygépkocsi Dány és Isaszeg között. Az autóban csak a sofőr utazott. A gödöllői hivatásos tűzoltók áramtalanítják a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Dány, Fácán tanya",
       "updates": []
     },
     {
@@ -337,9 +348,9 @@
       "title": "Garázs égett Horton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91832",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy garázsban Horton, a Táncsics Mihály úton. A melléképületben háztartási gépek és bútorok égtek. A hatvani hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat végzik.",
+      "location": "Hort, Táncsics Mihály út",
       "updates": []
     },
     {
