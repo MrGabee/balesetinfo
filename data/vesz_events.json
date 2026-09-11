@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T09:20:37.155743+00:00",
-  "count": 3216,
+  "updated_at": "2026-09-11T09:24:14.193877+00:00",
+  "count": 3217,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91874",
+      "datetime": "2026.09.11. 11:21",
+      "title": "Autó égett az M1-esen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91874",
+      "lead": "Győr közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy személyautó az M1-es autópálya Hegyeshalom felé vezető oldalán, Győr közelében, a 126. és a 127. kilométer között. Teljes terjedelmében égett a jármű, amikor a győri hivatásos tűzoltók a helyszínre érkeztek. A raj eloltotta a lángokat, és megkezdte az utómunkálatokat. A beavatkozás ideje alatt az érintett sztrádaszakaszon a belső sávban halad a forgalom.",
+      "location": "Győr, M1",
+      "updates": []
+    },
     {
       "id": "91873",
       "datetime": "2026.09.11. 10:56",
