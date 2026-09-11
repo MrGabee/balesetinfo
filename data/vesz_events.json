@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T06:57:12.614273+00:00",
-  "count": 3207,
+  "updated_at": "2026-09-11T07:00:54.467427+00:00",
+  "count": 3208,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91865",
+      "datetime": "2026.09.11. 08:58",
+      "title": "Hármas karambol Szombathelynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91865",
+      "lead": "Lezárták a 8707-es út egy szakaszát.",
+      "body": "Összeütközött három személyautó a 8707-es úton, Szombathely közelében, a 23. kilométernél. Két jármű az árokba sodródott. A szombathelyi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szombathely, 8707",
+      "updates": []
+    },
     {
       "id": "91864",
       "datetime": "2026.09.11. 08:48",
@@ -108,9 +119,9 @@
       "title": "Karambol a 81-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91855",
-      "lead": "Töltéstava közelében váltakozva halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi a 81-es főúton, Töltéstava közelében, a 77-es kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A győri hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon váltakozva halad a forgalom.",
-      "location": "Győr, Alkonyat utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -119,9 +130,9 @@
       "title": "Melléképület égett Cereden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91854",
-      "lead": "A Petőfi úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy melléképület Cereden, a Petőfi úton. A tűz a mellette lévő épületbe is belekapott. A salgótarjáni hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Cered, Petőfi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -141,9 +152,9 @@
       "title": "Ház és melléképület égett Gyulán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91852",
-      "lead": "A Diófás utcában fojtották el a lángokat a tűzoltók.",
-      "body": "Teljes terjedelmében égett egy lakóépület Sarkadon, a Diófás utcában. A tűz átterjedt a melléképület tetőszerkezetére is. A gyulai hivatásos tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Sarkad, Diófás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,19 +174,10 @@
       "title": "Erdő aljnövényzete ég Laskod határában",
       "category": "Erdő aljnövényzete ég Laskod határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91850",
-      "lead": "A rajok több vízsugárral oltják a lángokat.",
-      "body": "Nagy területen ég egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral oltják a lángokat. A rajok elhúzódó munkálatokat végeznek.",
-      "location": "Laskod, Béke utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Laskod határában",
-          "datetime": "2026.09.10. 22:46",
-          "category": "Tűzeset",
-          "text": "Nagy területen égett egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-          "location": "Laskod, Béke utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91850/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91850"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91849",
@@ -216,9 +218,9 @@
       "title": "Lakóház égett Nyíregyházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91846",
-      "lead": "Az Esze Tamás utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy lakóház Nyíregyházán, az Esze Tamás utcában. Az épületben egy szoba égett. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzi.",
-      "location": "Nyíregyháza, Esze Tamás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -381,9 +383,9 @@
       "title": "Összeütközött két autó Baján",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91831",
-      "lead": "A Keleti körút és a Nagy István utca kereszteződéséhez vonultak a tűzoltók.",
-      "body": "Karambolozott két személyautó Baján, a Keleti körút és a Nagy István utca kereszteződésénél. A helyszínen vannak a mentők is. A bajai hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt félpályán lezárták.",
-      "location": "Baja, Keleti körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,9 +394,9 @@
       "title": "Karambol Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91830",
-      "lead": "Az Inczédy soron forgalmi akadály van.",
-      "body": "Egymásnak ütközött három személyautó Nyíregyházán, az Inczédy soron, azaz a 4-es főúton. A balesetnél a város hivatásos tűzoltói végzik a műszaki mentést. A járművek akadályozzák a forgalmat.",
-      "location": "Nyíregyháza, Inczédy sor",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -403,9 +405,9 @@
       "title": "Karambol a 2106-os úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91829",
-      "lead": "Vác közelében félpályán halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi a 2106-os úton, Vác közelében, a 3-as kilométerszelvénynél. Az autókban összesen öten utaztak. A baleset következtében az egyik autó árokba sodródott. A váci hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Vác, Gabona utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -414,9 +416,9 @@
       "title": "Felborult egy autó Szigetvár és Dencsháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91828",
-      "lead": "Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "body": "Felborult egy személygépkocsi Szigetvár és Dencsháza között.  A szigetvári hivatásos tűzoltók műszaki mentést végeznek. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Szigetvár, Vasúti őrházak",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
