@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T03:25:35.898552+00:00",
-  "count": 3193,
+  "updated_at": "2026-09-11T03:28:58.424772+00:00",
+  "count": 3194,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91851",
+      "datetime": "2026.09.11. 05:27",
+      "title": "Lakás égett Budapest XIV. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91851",
+      "lead": "A Rákosfalva parkban dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy emeletes lakóház egyik ingatlanja Budapest XIV. kerületében, a Rákosfalva parkban. A lakásban egy helyiség teljes terjedelmében, valamint egy erkély égett. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A helyszínre mentő is érkezett. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Budapest, Rákosfalva park",
+      "updates": []
+    },
     {
       "id": "91850",
       "datetime": "2026.09.10. 21:45 -",
