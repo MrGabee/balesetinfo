@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T12:37:45.717272+00:00",
-  "count": 3229,
+  "updated_at": "2026-09-11T12:41:15.267010+00:00",
+  "count": 3230,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91887",
+      "datetime": "2026.09.11. 14:38",
+      "title": "Frontálisan ütközött két autó Apaj és Kunszentmiklós között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91887",
+      "lead": "Az 5203-as úton forgalmi akadályra kell számítani.",
+      "body": "Frontálisan ütközött két személyautó az Apajt és Kunszentmiklóst összekötő, 5203-as út 19-es és 20-as kilométerszelvénye között. A balesethez a kunszentmiklósi önkormányzati tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Kunszentmiklós, 5203",
+      "updates": []
+    },
     {
       "id": "91886",
       "datetime": "2026.09.11. 14:18",
