@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T04:47:16.070405+00:00",
-  "count": 3196,
+  "updated_at": "2026-09-11T04:50:36.576827+00:00",
+  "count": 3197,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91854",
+      "datetime": "2026.09.11. 06:49",
+      "title": "Melléképület égett Cereden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91854",
+      "lead": "A Petőfi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Cereden, a Petőfi úton. A tűz a mellette lévő épületbe is belekapott. A salgótarjáni hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Cered, Petőfi út",
+      "updates": []
+    },
     {
       "id": "91853",
       "datetime": "2026.09.11. 05:40",
