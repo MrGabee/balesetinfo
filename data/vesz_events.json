@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T12:16:22.276817+00:00",
-  "count": 3228,
+  "updated_at": "2026-09-11T12:19:39.640499+00:00",
+  "count": 3229,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91886",
+      "datetime": "2026.09.11. 14:18",
+      "title": "Karambol Debrecenben, a Széchenyi utcában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91886",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből.",
+      "body": "Összeütközött két személyautó Debrecenben, a Széchenyi utcában. Egy ember nem tudott kiszállni az egyik járműből. Őt feszítővágóval szabadították ki a város hivatásos tűzoltói. A baleset helyszínén forgalomkorlátozásra lehet számítani.",
+      "location": "Debrecen, Széchenyi utca",
+      "updates": []
+    },
     {
       "id": "91885",
       "datetime": "2026.09.11. 14:14",
