@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T16:22:18.214408+00:00",
-  "count": 3240,
+  "updated_at": "2026-09-11T16:25:45.016140+00:00",
+  "count": 3241,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91899",
+      "datetime": "2026.09.11. 18:22",
+      "title": "Frontális karambol a 83-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91899",
+      "lead": "Bakonyjákó és Farkasgyepű között lezárták az utat.",
+      "body": "Frontálisan ütközött két személyautó a 83-as főút Bakonyjákó és Farkasgyepű közötti szakaszán, a 9-es kilométerszelvénynél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Farkasgyepű, 83",
+      "updates": []
+    },
     {
       "id": "91898",
       "datetime": "2026.09.11. 17:42",
