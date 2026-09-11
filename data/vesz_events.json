@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T10:15:01.646457+00:00",
-  "count": 3219,
+  "updated_at": "2026-09-11T10:19:03.540871+00:00",
+  "count": 3220,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91877",
+      "datetime": "2026.09.11. 12:15",
+      "title": "Felborult egy autó Tatabányánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91877",
+      "lead": "A 8156-os úton végeznem műszaki mentést a tűzoltók.",
+      "body": "Árokba, a tetejére borult egy személyautó a 8156-os úton, Tatabánya közelében, a 7. kilométernél. A járműben egy ember utazott, aki a műszaki mentést végző tatabányai hivatásos tűzoltók segítségével tudott kiszállni. A helyszínre érkeztek a mentők is.",
+      "location": "Tatabánya, 8156",
+      "updates": []
+    },
     {
       "id": "91876",
       "datetime": "2026.09.11. 11:46",
@@ -277,9 +288,9 @@
       "title": "Melléképület égett Cereden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91854",
-      "lead": "A Petőfi úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy melléképület Cereden, a Petőfi úton. A tűz a mellette lévő épületbe is belekapott. A salgótarjáni hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Cered, Petőfi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -299,9 +310,9 @@
       "title": "Ház és melléképület égett Gyulán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91852",
-      "lead": "A Diófás utcában fojtották el a lángokat a tűzoltók.",
-      "body": "Teljes terjedelmében égett egy lakóépület Sarkadon, a Diófás utcában. A tűz átterjedt a melléképület tetőszerkezetére is. A gyulai hivatásos tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Sarkad, Diófás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
