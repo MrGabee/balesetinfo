@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T03:35:57.289310+00:00",
-  "count": 3194,
+  "updated_at": "2026-09-11T03:39:28.943601+00:00",
+  "count": 3195,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91852",
+      "datetime": "2026.09.11. 05:39",
+      "title": "Ház és melléképület égett Gyulán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91852",
+      "lead": "A Diófás utcában fojtották el a lángokat a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy lakóépület Sarkadon, a Diófás utcában. A tűz átterjedt a melléképület tetőszerkezetére is. A gyulai hivatásos tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Sarkad, Diófás utca",
+      "updates": []
+    },
     {
       "id": "91851",
       "datetime": "2026.09.11. 05:27",
