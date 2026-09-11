@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T12:12:47.000027+00:00",
-  "count": 3227,
+  "updated_at": "2026-09-11T12:16:22.276817+00:00",
+  "count": 3228,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91885",
+      "datetime": "2026.09.11. 14:14",
+      "title": "Tetejére borult egy autó Máriahalmon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91885",
+      "lead": "A Petőfi Sándor utcába vonultak a tűzoltók.",
+      "body": "Tetejére borult egy személyautó Máriahalmon, a Petőfi Sándor utcában. A műszaki mentést a bajnai hivatásos és a sárisápi önkéntes tűzoltók végzik. A rajok kézi erővel megszüntetik a forgalmi akadályt.",
+      "location": "Máriahalom, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "91884",
       "datetime": "2026.09.11. 14:06",
