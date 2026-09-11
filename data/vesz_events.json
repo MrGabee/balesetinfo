@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T12:05:31.960255+00:00",
-  "count": 3226,
+  "updated_at": "2026-09-11T12:09:05.730758+00:00",
+  "count": 3227,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91884",
+      "datetime": "2026.09.11. 14:06",
+      "title": "Hármas karambol Angyalföldön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91884",
+      "lead": "A baleset a Frangepán és a Lomb utca kereszteződésénél akadályozza a forgalmat.",
+      "body": "Egymásnak ütközött három személyautó Budapest XIII. kerületében, a Frangepán és a Lomb utca kereszteződésében. A háromból két jármű akadályozza a forgalmat. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonultak.",
+      "location": "Budapest, Frangepán utca",
+      "updates": []
+    },
     {
       "id": "91883",
       "datetime": "2026.09.11. 14:00",
