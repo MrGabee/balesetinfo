@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:59:03.656061+00:00",
+  "updated_at": "2026-09-11T09:02:33.790421+00:00",
   "count": 3216,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Felborult egy gépkocsi a 8507-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91872",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Jánossomorja közelében áramtalanították a járművet.",
+      "body": "Lehajtott az úttestről és a szántóföldön a tetejére borult egy kisbusz a 8507-es úton, Jánossomorja közelében. A járműben hatan utaztak, hozzájuk mentők érkeztek a helyszínre. A mosonmagyaróvári hivatásos és a jánossomorjai önkéntes tűzoltók áramtalanították a járművet.",
+      "location": "Jánossomorja, 8507",
       "updates": []
     },
     {
@@ -158,9 +158,9 @@
       "title": "Baleset történt az M0-áson, Törökbálintnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91861",
-      "lead": "Az M1-es autópálya felé vezető oldalon torlódásra kell számítani.",
-      "body": "Elválasztó szalagkorlátnak ütközött egy személyautó az M0-ás autóút M1-es autópálya felé vezető oldalán, Törökbálint közelében, a 4-es kilométerszelvénynél. A balesethez az érdi és a törökbálinti hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra, torlódásra kell számítani.",
-      "location": "Törökbálint, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,7 +291,16 @@
       "lead": "A rajok több vízsugárral oltják a lángokat.",
       "body": "Nagy területen ég egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral oltják a lángokat. A rajok elhúzódó munkálatokat végeznek.",
       "location": "Laskod, Béke utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Laskod határában",
+          "datetime": "2026.09.10. 22:46",
+          "category": "Tűzeset",
+          "text": "Nagy területen égett egy erdő aljnövényzete Laskod határában. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a baktalórántházai, a kisvárdai és a nyírbátori hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Laskod, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91850/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91850"
+        }
+      ]
     },
     {
       "id": "91849",
@@ -310,9 +319,9 @@
       "title": "Karambol Egerszalókon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91848",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók feszítővágó segítségével kimentették a beszorult utasokat.",
+      "body": "Összeütközött két személygépkocsi Egerszalókon, az Ady Endre úton. Az egri hivatásos tűzoltók áramtalanították a járműveket és feszítővágó segítségével kimentették a beszorult utasokat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Egerszalók, Ady Endre út",
       "updates": []
     },
     {
@@ -332,9 +341,9 @@
       "title": "Lakóház égett Nyíregyházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91846",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Esze Tamás utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakóház Nyíregyházán, az Esze Tamás utcában. Az épületben egy szoba égett. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzi.",
+      "location": "Nyíregyháza, Esze Tamás utca",
       "updates": []
     },
     {
@@ -343,9 +352,9 @@
       "title": "Karambol a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91845",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Hajdúszoboszló közelében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 4-es főúton, Hajdúszoboszló közelében, a 199-es kilométerszelvénynél. A hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő  is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Hajdúszoboszló, Kabai út",
       "updates": []
     },
     {
@@ -354,9 +363,9 @@
       "title": "Melléképület égett Békéscsabán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91844",
-      "lead": "A József utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy melléképületben Békéscsabán, a József utcában. A békéscsabai hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Békéscsaba, József utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
