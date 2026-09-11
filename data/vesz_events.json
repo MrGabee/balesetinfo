@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T11:05:06.205157+00:00",
-  "count": 3224,
+  "updated_at": "2026-09-11T11:08:45.867662+00:00",
+  "count": 3225,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91882",
+      "datetime": "2026.09.11. 13:06",
+      "title": "Hármas karambol az M3-ason, Kerekharasztnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91882",
+      "lead": "A Budapest felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Kisbusz, furgon és személyautó ütközött össze az M3-as autópálya Budapest felé vezető oldalán, Kerekharaszt közelében, az 51-es kilométerszelvénynél. A balesethez a hatvani hivatásos tűzoltókat riasztották, akik áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Kerekharaszt, M3",
+      "updates": []
+    },
     {
       "id": "91881",
       "datetime": "2026.09.11. 13:03",
@@ -42,9 +53,9 @@
       "title": "Kigyulladt egy busz Nagyvejkén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91878",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Fő utcában oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy busz Nagyvejkén, a Fő utcában. A tűz a jármű melletti épület nyílászáróját is érintette kis mértékben. A szekszárdi és bonyhádi hivatásos tűzoltók eloltották a lángokat.",
+      "location": "Nagyvejke, Fő utca",
       "updates": []
     },
     {
