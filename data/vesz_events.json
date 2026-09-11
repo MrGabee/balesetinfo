@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T15:23:41.928359+00:00",
-  "count": 3237,
+  "updated_at": "2026-09-11T15:27:00.910806+00:00",
+  "count": 3238,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91896",
+      "datetime": "2026.09.11. 17:26",
+      "title": "Árokba borult egy autó Tiszabura és Abádszalók között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91896",
+      "lead": "A 3216-os utat lezárták.",
+      "body": "Árokba borult egy személyautó Tiszabura és Abádszalók között, a 3216-os út 35-ös kilométerszelvényénél. Az abádszalóki önkormányzati tűzoltók drótkötél segítségével kerekeire állították a gépkocsit, ezt követően pedig áramtalanítják. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tiszabura, 3216",
+      "updates": []
+    },
     {
       "id": "91895",
       "datetime": "2026.09.11. 16:58",
