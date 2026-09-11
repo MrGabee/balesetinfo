@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T11:01:27.966976+00:00",
-  "count": 3223,
+  "updated_at": "2026-09-11T11:05:06.205157+00:00",
+  "count": 3224,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91881",
+      "datetime": "2026.09.11. 13:03",
+      "title": "Utoléréses baleset Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91881",
+      "lead": "A Baross utcában félpályán halad a forgalom.",
+      "body": "Két személyautó ütközött össze Szolnokon, a Baross utcában. Az utoléréses baleset a Károly Róbert utca és a Béla király utca közötti szakaszon történt. A város hivatásos tűzoltói áramtalanították a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szolnok, Baross utca",
+      "updates": []
+    },
     {
       "id": "91880",
       "datetime": "2026.09.11. 12:30",
@@ -31,9 +42,9 @@
       "title": "Kigyulladt egy busz Nagyvejkén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91878",
-      "lead": "A Fő utcában oltották el a lángokat.",
-      "body": "Teljes terjedelmében égett egy busz Nagyvejkén, a Fő utcában. A tűz a jármű melletti épület nyílászáróját is érintette kis mértékben. A szekszárdi és bonyhádi hivatásos tűzoltók eloltották a lángokat.",
-      "location": "Nagyvejke, Fő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
