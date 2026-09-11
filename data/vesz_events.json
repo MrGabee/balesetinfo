@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T08:40:35.445433+00:00",
-  "count": 3213,
+  "updated_at": "2026-09-11T08:44:36.618657+00:00",
+  "count": 3214,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91871",
+      "datetime": "2026.09.11. 10:41",
+      "title": "Árokba sodródott egy autó Ráckeresztúrnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91871",
+      "lead": "A Rákóczi Ferenc utcában félpályán halad a forgalom.",
+      "body": "Megcsúszott és árokba sodródott egy személyautó Ráckeresztúr határában, a Rákóczi Ferenc utcában. Az érdi hivatásos és a martonvásári önkéntes tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Ráckeresztúr, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "91870",
       "datetime": "2026.09.11. 10:23",
@@ -53,9 +64,9 @@
       "title": "Baleset történt az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91866",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Törökbálint közelében dolgoznak a tűzoltók.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M1-es autópálya Budapest felé vezető oldalán, Törökbálint közelében. A járműben egy ember utazott. A balesethez a törökbálinti hivatásos tűzoltókat riasztották, és kivonultak a mentők is.",
+      "location": "Törökbálint, M1",
       "updates": []
     },
     {
