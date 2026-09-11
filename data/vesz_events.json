@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T07:29:09.042877+00:00",
-  "count": 3208,
+  "updated_at": "2026-09-11T07:32:37.024469+00:00",
+  "count": 3209,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91866",
+      "datetime": "2026.09.11. 09:30",
+      "title": "Baleset történt az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91866",
+      "lead": "Törökbálint közelében dolgoznak a tűzoltók.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M1-es autópálya Budapest felé vezető oldalán, Törökbálint közelében. A járműben egy ember utazott. A balesethez a törökbálinti hivatásos tűzoltókat riasztották, és kivonultak a mentők is.",
+      "location": "Törökbálint, M1",
+      "updates": []
+    },
     {
       "id": "91865",
       "datetime": "2026.09.11. 08:58",
@@ -423,9 +434,9 @@
       "title": "Karambol a 2106-os úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91829",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Vác közelében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 2106-os úton, Vác közelében, a 3-as kilométerszelvénynél. Az autókban összesen öten utaztak. A baleset következtében az egyik autó árokba sodródott. A váci hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Vác, Gabona utca",
       "updates": []
     },
     {
