@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T15:40:50.181516+00:00",
-  "count": 3239,
+  "updated_at": "2026-09-11T15:44:38.672564+00:00",
+  "count": 3240,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91898",
+      "datetime": "2026.09.11. 17:42",
+      "title": "Két autó ütközött Budapest XVIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91898",
+      "lead": "Az Erdősáv utca és a Szigeti Kálmán utca kereszteződésében dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személyautó Budapest XVIII. kerületében, az Erdősáv utca és a Szigeti Kálmán utca kereszteződésében. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Szigeti Kálmán utca",
+      "updates": []
+    },
     {
       "id": "91897",
       "datetime": "2026.09.11. 17:35",
@@ -218,9 +229,9 @@
       "title": "Felborult egy autó Tatabányánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91877",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8156-os úton végeznem műszaki mentést a tűzoltók.",
+      "body": "Árokba, a tetejére borult egy személyautó a 8156-os úton, Tatabánya közelében, a 7. kilométernél. A járműben egy ember utazott, aki a műszaki mentést végző tatabányai hivatásos tűzoltók segítségével tudott kiszállni. A helyszínre érkeztek a mentők is.",
+      "location": "Tatabánya, 8156",
       "updates": []
     },
     {
