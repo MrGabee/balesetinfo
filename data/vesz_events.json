@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T15:33:59.274951+00:00",
-  "count": 3238,
+  "updated_at": "2026-09-11T15:37:15.712757+00:00",
+  "count": 3239,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91897",
+      "datetime": "2026.09.11. 17:35",
+      "title": "Tetőszerkezet égett Szendrőn",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91897",
+      "lead": "Az Árpád utcába riasztották a tűzoltókat.",
+      "body": "Családi ház tetőszerkezete égett Szendrőn, az Árpád utcában. A szendrői és bódvaszilasi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A helyszínre várják az áramszolgáltató szakembereit.",
+      "location": "Szendrő, Árpád utca",
+      "updates": []
+    },
     {
       "id": "91896",
       "datetime": "2026.09.11. 17:26",
@@ -370,9 +381,9 @@
       "title": "Összeütközött két autó az M3-ason, Mogyoródnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91863",
-      "lead": "A Nyíregyháza felé vezető oldalon történt a baleset.",
-      "body": "Két személyautó ütközött össze az M3-as autópálya Nyíregyháza felé vezető oldalán, Mogyoród közelében, a 24-es kilométerszelvénynél. A műszaki mentést a gödöllői hivatásos tűzoltók végzik. A helyszínre mentő is érkezett.",
-      "location": "Mogyoród, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
