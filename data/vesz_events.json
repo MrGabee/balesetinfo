@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T05:39:40.205489+00:00",
-  "count": 3199,
+  "updated_at": "2026-09-11T05:43:20.946713+00:00",
+  "count": 3200,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91857",
+      "datetime": "2026.09.11. 07:40",
+      "title": "Árokba hajtott egy autó Mikóházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91857",
+      "lead": "A Szabadság utcában áramtalanítottak a tűzoltók.",
+      "body": "Árokba csúszott egy személygépkocsi Mikóházán, a Szabadság utcában. A sátoraljaújhelyi hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentőhelikopter is érkezett.",
+      "location": "Mikóháza, Szabadság utca",
+      "updates": []
+    },
     {
       "id": "91856",
       "datetime": "2026.09.11. 07:24",
