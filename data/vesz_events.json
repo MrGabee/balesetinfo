@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T20:03:43.551358+00:00",
-  "count": 3244,
+  "updated_at": "2026-09-11T20:06:45.911928+00:00",
+  "count": 3245,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91903",
+      "datetime": "2026.09.11. 22:06",
+      "title": "Oszlopnak ütközött egy autó Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91903",
+      "lead": "A Búza téren irányítás mellett halad a forgalom.",
+      "body": "Oszlopnak ütközött egy személyautó Pécsen, a Búza tér körforgalmában. A balesethez a pécsi hivatásos és a palkonyai önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Pécs, Búza tér",
+      "updates": []
+    },
     {
       "id": "91902",
       "datetime": "2026.09.11. 19:55",
