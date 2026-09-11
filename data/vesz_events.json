@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T11:58:14.899964+00:00",
-  "count": 3225,
+  "updated_at": "2026-09-11T12:01:37.941499+00:00",
+  "count": 3226,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91883",
+      "datetime": "2026.09.11. 14:00",
+      "title": "Ráfutásos baleset az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91883",
+      "lead": "Őr közelében ütközött össze két autó.",
+      "body": "Karambolozott két személyautó az M3-as autópálya Budapest felé vezető oldalán, a Szabolcs-Szatmár-Bereg vármegyei Őr közelében, a 265. és a 266. kilométer között. Ráfutásos baleset történt, amelyhez a mátészalkai hivatásos tűzoltókat riasztották. A karambol helyszínén forgalomkorlátozás lehet.",
+      "location": "Őr, M3",
+      "updates": []
+    },
     {
       "id": "91882",
       "datetime": "2026.09.11. 13:06",
