@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T05:22:26.876857+00:00",
-  "count": 3198,
+  "updated_at": "2026-09-11T05:25:54.492479+00:00",
+  "count": 3199,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91856",
+      "datetime": "2026.09.11. 07:24",
+      "title": "Villanyoszlopnak hajtott egy kisteherautó a 7-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91856",
+      "lead": "Polgárdinál forgalmi akadályra kell számítani.",
+      "body": "Villanyoszlopnak hajtott majd árokba sodródott egy kisteherautó a 7-es főúton, Polgárdinál, a 87-es kilométerszelvény közelében. Az autóban csak a sofőr utazott. A polgárdi önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Polgárdi, Kávé utca",
+      "updates": []
+    },
     {
       "id": "91855",
       "datetime": "2026.09.11. 07:20",
