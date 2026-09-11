@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-11T10:26:07.739674+00:00",
-  "count": 3221,
+  "updated_at": "2026-09-11T10:30:11.851570+00:00",
+  "count": 3223,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91880",
+      "datetime": "2026.09.11. 12:30",
+      "title": "Árokba borult egy autó Böhönye közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91880",
+      "lead": "A 61-es és a 68-as főút elágazásánál történt a baleset.",
+      "body": "Árokba borult egy személyautó Böhönye közelében, a 61-es és a 68-as főút elágazásánál. A balesethez a böhönyei önkormányzati és önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Böhönye, 61-68",
+      "updates": []
+    },
+    {
+      "id": "91879",
+      "datetime": "2026.09.11. 12:29",
+      "title": "Korlátnak hajtott egy autó a 21-es főútnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91879",
+      "lead": "Pásztó közelében lezártak egy lehajtót a baleset miatt.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 21-es főút lehajtóján, Pásztó közelében. A pásztói hivatásos tűzoltók áramtalanították a járművet, amelyben ketten utaztak. Az érintett lehajtót lezárták a baleset miatt.",
+      "location": "Pásztó, 21",
+      "updates": []
+    },
     {
       "id": "91878",
       "datetime": "2026.09.11. 12:24",
