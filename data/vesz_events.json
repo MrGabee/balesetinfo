@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T10:22:46.268951+00:00",
-  "count": 3220,
+  "updated_at": "2026-09-11T10:26:07.739674+00:00",
+  "count": 3221,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91878",
+      "datetime": "2026.09.11. 12:24",
+      "title": "Kigyulladt egy busz Nagyvejkén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91878",
+      "lead": "A Fő utcában oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy busz Nagyvejkén, a Fő utcában. A tűz a jármű melletti épület nyílászáróját is érintette kis mértékben. A szekszárdi és bonyhádi hivatásos tűzoltók eloltották a lángokat.",
+      "location": "Nagyvejke, Fő utca",
+      "updates": []
+    },
     {
       "id": "91877",
       "datetime": "2026.09.11. 12:15",
