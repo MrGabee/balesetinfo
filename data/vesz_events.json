@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T12:56:36.025287+00:00",
-  "count": 3230,
+  "updated_at": "2026-09-11T12:59:40.525880+00:00",
+  "count": 3231,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91888",
+      "datetime": "2026.09.11. 14:58",
+      "title": "Oldalára borult egy autó Hódmezővásárhely és Mártély között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91888",
+      "lead": "A 4521-es utat lezárták.",
+      "body": "Oldalára borult egy személyautó Mártély és Hódmezővásárhely között, a 4521-es út 28-as kilométerszelvényénél. A balesethez a hódmezővásárhelyi hivatásos és a mártélyi önkéntes tűzoltókat riasztották, akik áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mártély, 4521",
+      "updates": []
+    },
     {
       "id": "91887",
       "datetime": "2026.09.11. 14:38",
