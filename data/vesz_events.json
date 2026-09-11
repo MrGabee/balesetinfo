@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T08:23:10.350432+00:00",
-  "count": 3212,
+  "updated_at": "2026-09-11T08:27:00.654929+00:00",
+  "count": 3213,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91870",
+      "datetime": "2026.09.11. 10:23",
+      "title": "Három autó ütközött a 65-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91870",
+      "lead": "Zomba és Szekszárd között félpályán halad a forgalom.",
+      "body": "Három személyautó karambolozott a 65-ös főút Zombát és Szekszárdot összekötő szakaszán, a 3-as és 4-es kilométerszelvény között. A szekszárdi hivatásos és a zombai önkéntes tűzoltók áramtalanítják a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán, irányítás mellett halad a forgalom.",
+      "location": "Zomba, 65",
+      "updates": []
+    },
     {
       "id": "91869",
       "datetime": "2026.09.11. 10:05",
