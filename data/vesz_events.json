@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T07:04:46.566308+00:00",
+  "updated_at": "2026-09-11T07:08:16.647191+00:00",
   "count": 3208,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,9 +38,9 @@
     },
     {
       "id": "91862",
-      "datetime": "2026.09.11. 08:10",
+      "datetime": "2026.09.11. 08:10 -",
       "title": "Garázs ég Visegrádon",
-      "category": "Tűzeset",
+      "category": "Garázs ég Visegrádon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91862",
       "lead": "A Magas közben dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy garázs Visegrádon, a Magas közben. A tűz átterjedt a lakóház tetőszerkezetére is. A szentendrei és az esztergomi hivatásos, illetve a visegrádi és a leányfalui önkéntes tűzoltók érkeztek ki. A rajok négy vízsugárral oltják a lángokat.",
@@ -194,9 +194,9 @@
       "title": "Baleset történt a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91849",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kisújszállás közelében teljes szélességében lezárták az utat.",
+      "body": "Lesodródott az útról és árokba hajtott egy személygépkocsi a 4-es főúton, Kisújszállás közelében, a 151-es kilométerszelvénynél. A kisújszállási önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisújszállás, Nádas hodály út",
       "updates": []
     },
     {
