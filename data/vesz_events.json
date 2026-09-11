@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T17:16:59.377881+00:00",
-  "count": 3242,
+  "updated_at": "2026-09-11T17:20:44.615161+00:00",
+  "count": 3243,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91901",
+      "datetime": "2026.09.11. 19:17",
+      "title": "Hétvégi ház ég Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91901",
+      "lead": "A Pillangó utcában oltják a lángokat.",
+      "body": "Kigyulladt egy hétvégi ház Kaposváron, a Pillangó utcában. Az ingatlan felső szintje és a tetőszerkezete is ég. A város hivatásos tűzoltói két vízsugárral oltják a lángokat. Az épületből egy gázpalackot is kihoztak.",
+      "location": "Kaposvár, Pillangó utca",
+      "updates": []
+    },
     {
       "id": "91900",
       "datetime": "2026.09.11. 18:35",
