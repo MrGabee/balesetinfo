@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-11T13:38:44.444165+00:00",
-  "count": 3232,
+  "updated_at": "2026-09-11T13:42:10.120374+00:00",
+  "count": 3233,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91890",
+      "datetime": "2026.09.11. 15:41",
+      "title": "Egymásnak ütközött két autó Ózdon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91890",
+      "lead": "A 25-ös főút belterületi szakasza és a Sárli út találkozásánál történt a baleset.",
+      "body": "Összeütközött két személyautó Ózdon, a 25-ös főút belterületi szakasza és a Sárli út találkozásánál. A város hivatásos tűzoltói áramtalanították a gépkocsikat. Az érintett kereszteződésben forgalmi akadályra kell számítani.",
+      "location": "Ózd, Sárli út",
+      "updates": []
+    },
     {
       "id": "91889",
       "datetime": "2026.09.11. 15:05",
