@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:51:36.781282+00:00",
+  "updated_at": "2026-09-11T15:55:17.722872+00:00",
   "count": 3240,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -141,9 +141,9 @@
       "title": "Tetejére borult egy autó Máriahalmon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91885",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi Sándor utcába vonultak a tűzoltók.",
+      "body": "Tetejére borult egy személyautó Máriahalmon, a Petőfi Sándor utcában. A műszaki mentést a bajnai hivatásos és a sárisápi önkéntes tűzoltók végzik. A rajok kézi erővel megszüntetik a forgalmi akadályt.",
+      "location": "Máriahalom, Petőfi Sándor utca",
       "updates": []
     },
     {
@@ -163,9 +163,9 @@
       "title": "Ráfutásos baleset az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91883",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Őr közelében ütközött össze két autó.",
+      "body": "Karambolozott két személyautó az M3-as autópálya Budapest felé vezető oldalán, a Szabolcs-Szatmár-Bereg vármegyei Őr közelében, a 265. és a 266. kilométer között. Ráfutásos baleset történt, amelyhez a mátészalkai hivatásos tűzoltókat riasztották. A karambol helyszínén forgalomkorlátozás lehet.",
+      "location": "Őr, M3",
       "updates": []
     },
     {
@@ -240,9 +240,9 @@
       "title": "Kamion és autó ütközött az M1-esen, Mocsánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91876",
-      "lead": "A Budapest felé vezető oldalon a leállósávba terelték a forgalmat.",
-      "body": "Kamion és személyautó ütközött össze az M1-es autópálya Budapest felé vezető oldalán, Mocsa közelében, a 80-as és 81-es kilométerszelvény között. A balesethez a komáromi hivatásos és a nagyigmándi önkormányzati tűzoltókat riasztották, akik a személygépkocsit áramtalanították. A helyszínre mentő is érkezett. AZ érintett sztrádaszakaszon a leállósávban halad a forgalom.",
-      "location": "Mocsa, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -273,19 +273,10 @@
       "title": "Tetőtűz Hevesen",
       "category": "Tetőtűz Hevesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91873",
-      "lead": "Az Alkotmány úton csaptak fel a lángok.",
-      "body": "Családi ház tetőszerkezete ég Hevesen, az Alkotmány úton. A helyi hivatásos tűzoltók már oltják a lángokat. A rajok két gázpalackot is kihoztak az ingatlanból.",
-      "location": "Heves, Alkotmány út",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik Hevesen",
-          "datetime": "2026.09.11. 12:38",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Hevesen, ahol egy családi ház tetőszerkezete égett az Alkotmány úton. A lángokat a füzesabonyi és a hevesi hivatásos tűzoltók oltották el. A rajok két gázpalackot is kihoztak az ingatlanból.",
-          "location": "Heves, Alkotmány út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91873/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91873"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "91872",
