@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T07:08:16.647191+00:00",
+  "updated_at": "2026-09-11T07:11:49.313206+00:00",
   "count": 3208,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,7 +45,16 @@
       "lead": "A Magas közben dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy garázs Visegrádon, a Magas közben. A tűz átterjedt a lakóház tetőszerkezetére is. A szentendrei és az esztergomi hivatásos, illetve a visegrádi és a leányfalui önkéntes tűzoltók érkeztek ki. A rajok négy vízsugárral oltják a lángokat.",
       "location": "Visegrád, Magas köz",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már körülhatárolták a lángokat Visegrádon",
+          "datetime": "2026.09.11. 09:07",
+          "category": "Tűzeset",
+          "text": "Már körülhatárolták a lángokat Visegrádon, ahol egy családi ház és egy garázs ég teljes terjedelmében a Magas közben. A szentendrei és az esztergomi hivatásos, illetve a visegrádi, szigetmonostori és a leányfalui önkéntes tűzoltók hat vízsugárral oltják a tüzet. A rajok két gázpalackot is kihoztak a lakóingatlanból. A munkálatokat a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Visegrád, Magas köz",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91862/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91862"
+        }
+      ]
     },
     {
       "id": "91861",
