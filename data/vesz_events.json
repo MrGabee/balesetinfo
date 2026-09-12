@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T08:46:13.507613+00:00",
-  "count": 3250,
+  "updated_at": "2026-09-12T08:49:32.713647+00:00",
+  "count": 3251,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91909",
+      "datetime": "2026.09.12. 10:48",
+      "title": "Melléképület égett Isaszegen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91909",
+      "lead": "A Liget térre riasztották a tűzoltókat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy körülbelül negyven négyzetméteres melléképület Isaszegen, a Liget téren. A gödöllői hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik a helyszínen.",
+      "location": "Isaszeg, Liget tér",
+      "updates": []
+    },
     {
       "id": "91908",
       "datetime": "2026.09.12. 10:41",
