@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T09:50:42.781177+00:00",
-  "count": 3252,
+  "updated_at": "2026-09-12T09:54:21.757121+00:00",
+  "count": 3253,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91911",
+      "datetime": "2026.09.12. 11:52",
+      "title": "Mikrobusz és autó ütközött az I. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91911",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött egy személyautó és egy mikrobusz Budapest I. kerületében, a Csalogány utcában, A Bem rakpart közelében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Csalogány utca",
+      "updates": []
+    },
     {
       "id": "91910",
       "datetime": "2026.09.12. 10:58",
