@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:23:20.938872+00:00",
+  "updated_at": "2026-09-12T22:26:39.921721+00:00",
   "count": 3271,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "91928",
-      "datetime": "2026.09.12. 23:51",
+      "datetime": "2026.09.12. 23:51 -",
       "title": "Lakóháztűz Aranyosapátiban",
-      "category": "Tűzeset",
+      "category": "Lakóháztűz Aranyosapátiban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91928",
       "lead": "A Móricz Zsigmond utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy családi ház Aranyosapátiban, a Móricz Zsigmond utcában. A kisvárdai hivatásos és a vásárosnaményi önkormányzati tűzoltókat riasztották az esethez. A rajok két vízsugárral már körülhatárolták a lángokat.",
       "location": "Aranyosapáti, Móricz Zsigmond utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Aranyosapátiban",
+          "datetime": "2026.09.13. 00:23",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Aranyosapátiban, a Móricz Zsigmond utcában, ahol kigyulladt egy lakóház. A száz négyzetméteres ingatlan egyik szobája teljes terjedelmében égett. A kisvárdai hivatásos és a vásárosnaményi önkormányzati tűzoltók két vízsugárral fékezték meg a tüzet.",
+          "location": "Aranyosapáti, Móricz Zsigmond utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91928/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91928"
+        }
+      ]
     },
     {
       "id": "91927",
