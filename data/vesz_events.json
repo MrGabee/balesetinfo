@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T22:02:00.535540+00:00",
-  "count": 3270,
+  "updated_at": "2026-09-12T22:05:04.572769+00:00",
+  "count": 3271,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91929",
+      "datetime": "2026.09.13. 00:02",
+      "title": "Oszlopnak ütközött egy autó Kazincbarcikán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91929",
+      "lead": "Forgalmi akadály van.",
+      "body": "Oszlopnak ütközött egy személyautó Kazincbarcikán, a Pollack Mihály utcában. A helyi hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kazincbarcika, Pollack Mihály utca",
+      "updates": []
+    },
     {
       "id": "91928",
       "datetime": "2026.09.12. 23:51",
