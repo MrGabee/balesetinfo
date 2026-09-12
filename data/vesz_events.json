@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T08:56:08.027889+00:00",
-  "count": 3251,
+  "updated_at": "2026-09-12T09:00:03.327065+00:00",
+  "count": 3252,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91910",
+      "datetime": "2026.09.12. 10:58",
+      "title": "Ráfutásos baleset az M60-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91910",
+      "lead": "A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "body": "Összeütközött egy utánfutót vontató terepjáró és egy személygépkocsi Bélvárdgyulánál, az M60-as autópálya 13-as kilométerénél, a Bóly felé vezető oldalon. A műszaki mentési munkálatok elvégzéséhez a pécsi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Belvárdgyula, M60",
+      "updates": []
+    },
     {
       "id": "91909",
       "datetime": "2026.09.12. 10:48",
