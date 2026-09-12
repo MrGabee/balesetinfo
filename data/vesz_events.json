@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T19:01:59.906609+00:00",
-  "count": 3267,
+  "updated_at": "2026-09-12T19:05:05.519853+00:00",
+  "count": 3268,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91926",
+      "datetime": "2026.09.12. 21:04",
+      "title": "Baleset történt az M35-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91926",
+      "lead": "Vaddal ütközött egy autó.",
+      "body": "Vaddal ütközött egy személygépkocsi Hajdúböszörménynél, az M35-ös autópálya 25-ös kilométerénél, az M3-as autópálya felé vezető oldalon. A debreceni hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította a járművet. A társhatóság is a helyszínen dolgozik.",
+      "location": "Hajdúböszörmény, M35",
+      "updates": []
+    },
     {
       "id": "91925",
       "datetime": "2026.09.12. 20:25",
