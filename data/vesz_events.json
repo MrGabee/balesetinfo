@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T08:15:26.059686+00:00",
-  "count": 3248,
+  "updated_at": "2026-09-12T08:18:59.994404+00:00",
+  "count": 3249,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91907",
+      "datetime": "2026.09.12. 10:16",
+      "title": "Autótűz Mezőkövesden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91907",
+      "lead": "Az Aranyeső utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Mezőkövesden, az Aranyeső utcában. A helyi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Mezőkövesd, Aranyeső utca",
+      "updates": []
+    },
     {
       "id": "91906",
       "datetime": "2026.09.12. 10:08",
