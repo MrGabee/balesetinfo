@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T15:49:24.772333+00:00",
-  "count": 3260,
+  "updated_at": "2026-09-12T15:52:49.302063+00:00",
+  "count": 3261,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91919",
+      "datetime": "2026.09.12. 17:52",
+      "title": "Hármas karambol Egyházasrádócon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91919",
+      "lead": "A 86-os főútra riasztották a tűzoltókat.",
+      "body": "Karambolozott két személygépkocsi és egy motorkerékpáros Egyházasrádócon, a 86-os főúton, a Rózsa utca közelében. A szombathelyi és a körmendi hivatásos tűzoltók dolgoznak a helyszínen. A rajok áramtalanították a két személyautót. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Egyházasrádóc, 86",
+      "updates": []
+    },
     {
       "id": "91918",
       "datetime": "2026.09.12. 17:38",
