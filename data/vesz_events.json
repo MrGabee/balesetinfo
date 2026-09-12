@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:47:35.320293+00:00",
+  "updated_at": "2026-09-12T14:51:14.206457+00:00",
   "count": 3257,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "Farakatra, száraz fűre és az egy erdő aljnövényzetére is átterjedtek a lángok.",
       "body": "Kigyulladt egy munkagép és egy ágdaráló Tornyospálca külterületén, a László tanya közelében. A lángok farakatra, száraz fűre és egy erdő aljnövényzetére is átterjedtek, itt az egységek már megfékezték a tüzet. A kisvárdai, a cigándi és a záhonyi hivatásos tűzoltókat riasztották a helyszínre. A rajok a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű is segíti.",
       "location": "Tornyospálca, László tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek Tornyospálca külterületén",
+          "datetime": "2026.09.12. 16:46",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a tüzet Tornyospálca külterületén, a László tanya közelében, ahol egy munkagép és egy ágdaráló égett. A tűz farakatra, száraz fűre és az egy erdő aljnövényzetére is átterjedt, ezeknél a rajok már korábban eloltották a lángokat. A kisvárdai, a cigándi és a záhonyi hivatásos tűzoltókat riasztották a helyszínre. Az egységek a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. Az oltási munkálatokat egy kisvárdai és egy mátészalkai vízszállító jármű is segítette. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+          "location": "Tornyospálca, László tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91915/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91915"
+        }
+      ]
     },
     {
       "id": "91914",
