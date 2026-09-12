@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T15:25:20.029408+00:00",
-  "count": 3258,
+  "updated_at": "2026-09-12T15:29:04.221724+00:00",
+  "count": 3259,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91917",
+      "datetime": "2026.09.12. 17:28",
+      "title": "Baleset történt Sopronban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91917",
+      "lead": "Forgalmi akadály van.",
+      "body": "Egy személygépkocsi és egy kisteherautó ütközött Sopronban, a Győri út és a Lóki sor kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították az egyik járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Sopron, Győri út",
+      "updates": []
+    },
     {
       "id": "91916",
       "datetime": "2026.09.12. 17:13",
