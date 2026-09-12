@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T06:38:27.968475+00:00",
-  "count": 3246,
+  "updated_at": "2026-09-12T06:41:37.889162+00:00",
+  "count": 3247,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91905",
+      "datetime": "2026.09.12. 08:39",
+      "title": "Lakóháztűz Salgótarjánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91905",
+      "lead": "A Kisfaludy Sándor utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház Salgótarjánban, a Kisfaludy Sándor utcában. A hatvan négyzetméteres ingatlan tetőszerkezete teljes terjedelmében égett. A helyi hivatásos tűzoltók oltották el a lángokat.",
+      "location": "Salgótarján, Kisfaludy Sándor út",
+      "updates": []
+    },
     {
       "id": "91904",
       "datetime": "2026.09.12. 07:17",
@@ -137,9 +148,9 @@
       "title": "Árokba csúszott egy autó Galambok közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91893",
-      "lead": "A  Petőfi Sándor utca és a 7-es főút kereszteződésénél történt a baleset.",
-      "body": "Árokba csúszott egy személyautó Galambok közelében, a Petőfi Sándor utca és a 7-es főút kereszteződésénél. A zalakarosi hivatásos tűzoltók feszítővágó segítségével egy embert kiemeltek a gépkocsiból. A helyszínre mentőhelikopter is érkezett.",
-      "location": "Galambok, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
