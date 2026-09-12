@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T10:04:59.781743+00:00",
-  "count": 3253,
+  "updated_at": "2026-09-12T10:09:01.747216+00:00",
+  "count": 3254,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91912",
+      "datetime": "2026.09.12. 12:05",
+      "title": "Hármas karambol Budapesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91912",
+      "lead": "A XIV. kerületben történt a baleset.",
+      "body": "Összeütközött három személygépkocsi Budapest XIV. kerületében, a Szugló utca és a Cinkotai út kereszteződésénél. A főváros hivatásos tűzoltói áramtalanítják a járműveket. A mentőszolgálat is a helyszínre érkezett.",
+      "location": "Budapest, Szugló utca",
+      "updates": []
+    },
     {
       "id": "91911",
       "datetime": "2026.09.12. 11:52",
