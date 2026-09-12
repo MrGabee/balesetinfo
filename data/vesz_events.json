@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T16:30:17.405304+00:00",
-  "count": 3261,
+  "updated_at": "2026-09-12T16:33:53.835109+00:00",
+  "count": 3262,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91920",
+      "datetime": "2026.09.12. 18:30",
+      "title": "Kisbusz és autó ütközött Sződligeten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91920",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött egy személygépkocsi és egy kisbusz Sződligeten, a Mátyás király útja és a Tompa utca kereszteződésénél. A váci hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Sződliget, Mátyás király útja",
+      "updates": []
+    },
     {
       "id": "91919",
       "datetime": "2026.09.12. 17:52",
