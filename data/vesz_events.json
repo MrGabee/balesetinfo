@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T10:43:28.137240+00:00",
-  "count": 3254,
+  "updated_at": "2026-09-12T10:46:41.233219+00:00",
+  "count": 3255,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91913",
+      "datetime": "2026.09.12. 12:44",
+      "title": "Autó égett Budaörsnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91913",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Budaörs külterületén, a Galagonya utcában. A tűz a jármű környezetében lévő aljnövényzetet is érintette. A törökbálinti hivatásos tűzoltók két vízsugárral elfojtották a lángokat.",
+      "location": "Budaörs, Galagonya utca",
+      "updates": []
+    },
     {
       "id": "91912",
       "datetime": "2026.09.12. 12:05",
