@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T08:39:27.226949+00:00",
-  "count": 3249,
+  "updated_at": "2026-09-12T08:42:40.552395+00:00",
+  "count": 3250,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91908",
+      "datetime": "2026.09.12. 10:41",
+      "title": "Családi ház kapott lángra Piricsén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91908",
+      "lead": "A Jókai utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy piricsei lakóházban, a Jókai utcában. A száz négyzetméteres ingatlan egyik szobájában berendezési tárgyak égtek. A tűz átterjedt a födémszerkezetre is. A nyírbátori hivatásos tűzoltók egy vízsugárral oltották el a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Piricse, Jókai utca",
+      "updates": []
+    },
     {
       "id": "91907",
       "datetime": "2026.09.12. 10:16",
