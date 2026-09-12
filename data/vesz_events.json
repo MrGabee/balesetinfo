@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T15:35:41.201450+00:00",
-  "count": 3259,
+  "updated_at": "2026-09-12T15:39:16.699509+00:00",
+  "count": 3260,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91918",
+      "datetime": "2026.09.12. 17:38",
+      "title": "Árokba borult egy autó a 6619-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91918",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Letért az útról és tetejével az árokba borult egy személygépkocsi Lábodnál, a 6619-es út 19-es kilométerénél. A műszaki mentési munkálatok elvégzéséhez a nagyatádi hivatásos tűzoltók vonultak ki. A mentőszolgálat is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Lábod, 6619",
+      "updates": []
+    },
     {
       "id": "91917",
       "datetime": "2026.09.12. 17:28",
