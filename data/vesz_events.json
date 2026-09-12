@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T18:08:40.563771+00:00",
-  "count": 3265,
+  "updated_at": "2026-09-12T18:11:29.927803+00:00",
+  "count": 3266,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91924",
+      "datetime": "2026.09.12. 20:11",
+      "title": "Terepjáró és kisteherautó ütközött az M6-oson, Dunaújvárosnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91924",
+      "lead": "A sztráda Pécs felé vezető szakaszán egy sávon halad a forgalom.",
+      "body": "Összeütközött egy kisteherautó és egy terepjáró Dunaújvárosnál, az M6-os autópálya 72-es kilométerénél, a Pécs felé vezető oldalon. A műszaki mentési munkálatok elvégzéséhez a dunaújvárosi hivatásos tűzoltók vonultak ki. A társhatóságok is a helyszínre érkeztek. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Dunaújváros, M6",
+      "updates": []
+    },
     {
       "id": "91923",
       "datetime": "2026.09.12. 20:04",
