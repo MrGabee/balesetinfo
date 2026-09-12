@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T15:12:01.030576+00:00",
-  "count": 3257,
+  "updated_at": "2026-09-12T15:15:13.760041+00:00",
+  "count": 3258,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91916",
+      "datetime": "2026.09.12. 17:13",
+      "title": "Két autó karambolozott a 42-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91916",
+      "lead": "Ártándnál történt a baleset.",
+      "body": "Összeütközött két személygépkocsi Ártándnál, a Határ úton, azaz a 42-es főút 62-es kilométerénél. A berettyóújfalui hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Ártánd, 42",
+      "updates": []
+    },
     {
       "id": "91915",
       "datetime": "2026.09.12. 15:08 -",
