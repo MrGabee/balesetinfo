@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T11:37:43.037173+00:00",
-  "count": 3255,
+  "updated_at": "2026-09-12T11:41:10.235475+00:00",
+  "count": 3256,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91914",
+      "datetime": "2026.09.12. 13:38",
+      "title": "Két autó ütközött a VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91914",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Budapest VIII. kerületében, a Kun utca és a Dologházi utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budapest, Kun utca-Dologház utca",
+      "updates": []
+    },
     {
       "id": "91913",
       "datetime": "2026.09.12. 12:44",
