@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T20:36:47.779964+00:00",
-  "count": 3268,
+  "updated_at": "2026-09-12T20:40:08.784341+00:00",
+  "count": 3269,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91927",
+      "datetime": "2026.09.12. 22:39",
+      "title": "Két autó ütközött Szombathelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91927",
+      "lead": "A tűzoltók áramtalanítják az egyik járművet.",
+      "body": "Összeütközött két személygépkocsi Szombathelyen, a Hunyadi János út és a Thököly Imre utca kereszteződésében. A helyi hivatásos tűzoltók áramtalanítják az egyik járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Szombathely, Hunyadi János út",
+      "updates": []
+    },
     {
       "id": "91926",
       "datetime": "2026.09.12. 21:04",
