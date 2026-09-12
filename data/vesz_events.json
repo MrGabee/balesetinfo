@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T18:25:07.652100+00:00",
-  "count": 3266,
+  "updated_at": "2026-09-12T18:27:57.685506+00:00",
+  "count": 3267,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91925",
+      "datetime": "2026.09.12. 20:25",
+      "title": "Összeütközött két autó Karancsalján",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91925",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Két személygépkocsi karambolozott Karancsalján, a Rákóczi úton, azaz a 2206-os úton 18-as kilométere közelében. A salgótarjáni hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították az egyik járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Karancsalja, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "91924",
       "datetime": "2026.09.12. 20:11",
