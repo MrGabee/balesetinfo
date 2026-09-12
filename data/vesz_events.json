@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-12T17:27:37.345932+00:00",
-  "count": 3262,
+  "updated_at": "2026-09-12T17:31:16.346157+00:00",
+  "count": 3263,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91921",
+      "datetime": "2026.09.12. 19:29",
+      "title": "Tűz volt Pécsen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91921",
+      "lead": "A tűzoltók két vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt egy lakatlan kétlakásos sorház egyik lakásában, Pécsen, a Györgytelepen. A tűz a födémszerkezetet is érintette. A helyi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Jelenleg utómunkálatokat végeznek az egységek.",
+      "location": "Pécs, Györgytelep",
+      "updates": []
+    },
     {
       "id": "91920",
       "datetime": "2026.09.12. 18:30",
