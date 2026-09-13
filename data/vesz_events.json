@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T05:12:13.490492+00:00",
-  "count": 3273,
+  "updated_at": "2026-09-13T05:15:37.672167+00:00",
+  "count": 3274,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91932",
+      "datetime": "2026.09.13. 07:15",
+      "title": "Összeütközött két autó a VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91932",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Budapest VIII. kerületében, az Üllői úton, a Nagyvárad térnél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A mentőszolgálat is a helyszínen dolgozik. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
     {
       "id": "91931",
       "datetime": "2026.09.13. 06:40",
