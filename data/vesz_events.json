@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T07:16:46.681851+00:00",
-  "count": 3275,
+  "updated_at": "2026-09-13T07:19:40.263440+00:00",
+  "count": 3276,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91934",
+      "datetime": "2026.09.13. 09:18",
+      "title": "Árokba hajtott egy kisteherautó Sárkeresztúron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91934",
+      "lead": "A tűzoltók daruja menti ki a járművet.",
+      "body": "Árokba hajtott egy kisteherautó Sárkeresztúron, a 63-as főút Dózsa György utcai szakaszán, a 70-es kilométerszelvény közelében. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A sárbogárdi hivatásos tűzoltók a székesfehérvári hivatásos tűzoltók daruját kérték a helyszínre a kisteherautó kimentéséhez.",
+      "location": "Sárkeresztúr, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "91933",
       "datetime": "2026.09.13. 07:25",
