@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T12:56:23.811741+00:00",
-  "count": 3283,
+  "updated_at": "2026-09-13T12:59:54.689610+00:00",
+  "count": 3284,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91942",
+      "datetime": "2026.09.13. 14:59",
+      "title": "Árokba hajtott egy autó Mezőfalva és Daruszentmiklós között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91942",
+      "lead": "A tűzoltók mentették ki a vezetőt a járműből.",
+      "body": "Árokba hajtott egy gépkocsi Mezőfalva és Daruszentmiklós között, a 6228-as út 13-as kilométerszelvényénél. A vezetőnek a dunaújvárosi hivatásos tűzoltók feszítővágó használatával segítettek elhagyni az autót, amelyet az egység átvizsgált és áramtalanított. A mentők is kiérkeztek a helyszínre, ahol félpályán halad a forgalom a baleset miatt.",
+      "location": "Mezőfalva, 6228",
+      "updates": []
+    },
     {
       "id": "91941",
       "datetime": "2026.09.13. 13:50",
