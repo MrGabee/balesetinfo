@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T19:52:45.490973+00:00",
-  "count": 3290,
+  "updated_at": "2026-09-13T19:55:43.664953+00:00",
+  "count": 3291,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91949",
+      "datetime": "2026.09.13. 21:55",
+      "title": "Árokba hajtott egy autó az 55-ösön, Kisszállásnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91949",
+      "lead": "A jármű áramtalanítására volt szükség.",
+      "body": "Árokba hajtott egy gépkocsi az 55-ös főút 49-es kilométerszelvényénél, Kisszállás térségében. A kiskunhalasi hivatásos tűzoltók áramtalanították a járművet, amelyben ketten utaztak. Az egység mellett a társhatóságok is a helyszínen dolgoznak.",
+      "location": "Kisszállás, 55",
+      "updates": []
+    },
     {
       "id": "91948",
       "datetime": "2026.09.13. 21:47",
