@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T19:45:33.151189+00:00",
-  "count": 3289,
+  "updated_at": "2026-09-13T19:49:03.385991+00:00",
+  "count": 3290,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91948",
+      "datetime": "2026.09.13. 21:47",
+      "title": "Kamionba hajtott egy személyautó az M43-ason, Makónál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91948",
+      "lead": "A tűzoltók áramtalanították a kisebb járművet.",
+      "body": "Kamionba hajtott egy személyautó az M43-as autópálya 43-as kilométerszelvényénél, Makó térségében, a határ felől érkező oldalon. Az autó áramtalanítására volt szükség, amelyet a makói hivatásos tűzoltók végeztek el. A balesethez a mentők is kiérkeztek, a forgalom egy sávon halad az érintett pályaszakaszon.",
+      "location": "Makó, M43",
+      "updates": []
+    },
     {
       "id": "91947",
       "datetime": "2026.09.13. 19:34",
