@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T05:23:00.291024+00:00",
-  "count": 3274,
+  "updated_at": "2026-09-13T05:26:47.447586+00:00",
+  "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91933",
+      "datetime": "2026.09.13. 07:25",
+      "title": "Szalagkorlátnak ütközött egy autó Felsőmocsoládnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91933",
+      "lead": "A 67-es főúton történt a baleset.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi Felsőmocsoládnál, a 67-es főút 67-es kilométerénél, a Kaposvár felé vezető oldalon. A kaposvári hivatásos tűzoltókat riasztották a helyszínre. A raj áramtalanította a járművet.",
+      "location": "Felsőmocsolád, 67",
+      "updates": []
+    },
     {
       "id": "91932",
       "datetime": "2026.09.13. 07:15",
