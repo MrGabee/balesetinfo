@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T17:34:35.750189+00:00",
-  "count": 3288,
+  "updated_at": "2026-09-13T17:37:05.692036+00:00",
+  "count": 3289,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91947",
+      "datetime": "2026.09.13. 19:34",
+      "title": "Árokba hajtott egy autó Polgárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91947",
+      "lead": "A tűzoltók emelték ki az egyik utast a járműből.",
+      "body": "Árokba hajtott egy gépkocsi Polgár térségében, a 35-ös főútról az M3-as autópálya felé tartó szakaszon, a budapesti felhajtó előtt. A járműben öten utaztak, négyen saját erejükből ki tudtak szállni, egy utas azonban beszorult. A tiszaújvárosi hivatásos tűzoltók kézi erővel kiemelték az utast az autóból, amelyet áramtalanítottak is. A balesethez az egységek és a társhatóságok járművei mellett mentőhelikopter is érkezett. Az érintett szakaszon egy sávon halad a forgalom.",
+      "location": "Polgár, M3",
+      "updates": []
+    },
     {
       "id": "91946",
       "datetime": "2026.09.13. 18:31",
