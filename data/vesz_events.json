@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T08:05:17.515691+00:00",
-  "count": 3276,
+  "updated_at": "2026-09-13T08:08:40.508670+00:00",
+  "count": 3277,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91935",
+      "datetime": "2026.09.13. 10:07",
+      "title": "Oldalára borult egy kisbusz Sárvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91935",
+      "lead": "A baleset miatt lezárták a 8439-es út érintett szakaszát.",
+      "body": "Oldalára borult egy kisbusz Sárvár térségében, a 8439-es út 17-es kilométerszelvényénél. Hárman utaztak a járműben, amelyet a sárvári hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a helyszíni munkálatokat.",
+      "location": "Sárvár, 8439",
+      "updates": []
+    },
     {
       "id": "91934",
       "datetime": "2026.09.13. 09:18",
