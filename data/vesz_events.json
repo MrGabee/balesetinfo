@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T08:14:43.412424+00:00",
-  "count": 3277,
+  "updated_at": "2026-09-13T08:18:22.729260+00:00",
+  "count": 3278,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91936",
+      "datetime": "2026.09.13. 10:15",
+      "title": "Felborult egy autó Budapest és Csömör határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91936",
+      "lead": "Lezárták az érintett útszakaszt a hatósági munkálatok idejére.",
+      "body": "Felborult egy gépkocsi Budapest és Csömör határában, a Szentmihályi út és az M0-s autóút közötti útszakaszon, a lehajtónál. A bajba került járműben csak a vezetője utazott. A csömöri önkéntes tűzoltók megkezdték az úttestre került szennyeződés eltávolítását. A balesethez a fővárosi hivatásos tűzoltók és a társhatóságok is megérkeztek, a munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Csömör, M0 lehajtó",
+      "updates": []
+    },
     {
       "id": "91935",
       "datetime": "2026.09.13. 10:07",
