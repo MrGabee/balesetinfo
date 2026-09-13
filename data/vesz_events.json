@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T02:47:54.602447+00:00",
-  "count": 3271,
+  "updated_at": "2026-09-13T02:51:10.830865+00:00",
+  "count": 3272,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91930",
+      "datetime": "2026.09.13. 04:50",
+      "title": "Két kisbusz ütközött az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91930",
+      "lead": "Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két kisbusz Gelejnél, az M3-as autópálya 146-os kilométerénél, a Vásárosnamény felé vezető oldalon. A baleset következtében az egyik kisbuszba két ember beszorult, őket a mezőkövesdi hivatásos tűzoltók feszítővágó segítségével szabadították ki. A rajok áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Gelej, M3",
+      "updates": []
+    },
     {
       "id": "91929",
       "datetime": "2026.09.13. 00:02",
