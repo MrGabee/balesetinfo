@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T16:30:52.809443+00:00",
-  "count": 3287,
+  "updated_at": "2026-09-13T16:34:23.851743+00:00",
+  "count": 3288,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91946",
+      "datetime": "2026.09.13. 18:31",
+      "title": "Két autó karambolozott Hidasnémetiben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91946",
+      "lead": "A tűzoltók mindkét járművet áramtalanítják.",
+      "body": "Két gépkocsi karambolozott Hidasnémetiben, a 3-as főút Pesti úti szakaszán, a 244-es kilométerszelvénynél. Összesen hatan utaztak a járművekben, amelyeket a gönci hivatásos tűzoltók áramtalanítanak. A forgalmi akadályt okozó balesethez a társhatóságok is kiérkeztek.",
+      "location": "Hidasnémeti, Pesti út",
+      "updates": []
+    },
     {
       "id": "91945",
       "datetime": "2026.09.13. 18:09",
