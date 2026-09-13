@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T16:08:52.633979+00:00",
-  "count": 3286,
+  "updated_at": "2026-09-13T16:12:54.706751+00:00",
+  "count": 3287,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91945",
+      "datetime": "2026.09.13. 18:09",
+      "title": "Baleset történt Dombóváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91945",
+      "lead": "Forgalmi akadály alakult ki a Köztársaság utca érintett szakaszán.",
+      "body": "Összeütközött két gépkocsi Dombóváron, a 61-es főút Köztársaság utcai szakaszán, a bevásárlóközpont előtt. A járművekben csak a vezetők utaztak. A dombóvári hivatásos tűzoltók a mentőket kérték a helyszínre, ahol félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Dombóvár, Köztársaság utca",
+      "updates": []
+    },
     {
       "id": "91944",
       "datetime": "2026.09.13. 15:51",
