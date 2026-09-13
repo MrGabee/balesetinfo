@@ -1,8 +1,63 @@
 {
-  "updated_at": "2026-09-13T08:48:45.130924+00:00",
-  "count": 3278,
+  "updated_at": "2026-09-13T12:04:45.352598+00:00",
+  "count": 3283,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91941",
+      "datetime": "2026.09.13. 13:50",
+      "title": "Kisteherautó fülkéje égett az 5-ösön, Dabasnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91941",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy kisteherautó fülkéje gyulladt ki az 5-ös főút 42-es kilométerszelvényénél, Dabas térségében. A dabasi hivatásos tűzoltók két vízsugárral oltották el a lángokat, visszahűtötték a felforrósodott részeket, hőkamerával átvizsgálták a járművet.",
+      "location": "Dabas, 5",
+      "updates": []
+    },
+    {
+      "id": "91940",
+      "datetime": "2026.09.13. 13:13",
+      "title": "Kigyulladt egy garázs Hévízgyörkön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91940",
+      "lead": "Egy másik épület is ég, a tűz egy lovarda felé terjed.",
+      "body": "Egy tizenkét négyzetméteres garázs és egy másik, huszonöt négyzetméteres épület ég Hévízgyörkön, a Gyümölcsös utcánál. Információk szerint a garázsban egy gépkocsi és egy gázpalack található, a tűz egy lovarda felé terjed. A gödöllői hivatásos tűzoltók négy vízsugárral oltják a lángokat. A helyszínre tartanak a hatvani hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Hévízgyörk, Gyümölcsös utca",
+      "updates": []
+    },
+    {
+      "id": "91939",
+      "datetime": "2026.09.13. 12:45",
+      "title": "Tűzhelyen felejtett olaj gyulladt meg egy szegedi lakóház konyhájában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91939",
+      "lead": "A tűz átterjedt a helyiség berendezési tárgyaira.",
+      "body": "A tűzhelyen felejtett olaj gyulladt meg egy lakóház konyhájában Szegeden, a Vinkler László úton. A tűz elérte a tűzhely környezetében található bútorokat, berendezési tárgyakat. A szegedi hivatásos tűzoltók egy vízsugárral eloltották a lángokat, hőkamerával átvizsgálták a tetőteret, átszellőztették az épületet.",
+      "location": "Szeged, Vinkler László út",
+      "updates": []
+    },
+    {
+      "id": "91938",
+      "datetime": "2026.09.13. 12:13",
+      "title": "Elgázolt egy embert egy személyvonat Újfehértón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91938",
+      "lead": "A tűzoltók az utasok biztonságos átszállásában segítenek majd.",
+      "body": "Elgázolt egy embert egy személyvonat Újfehértón, a 4-es főút melletti szakaszon, a Vörösmarty Mihály utca közelében. A szerelvény százhúsz utasa a baleset miatt mentesítő járattal folytatja tovább útját. Az újfehértói önkormányzati tűzoltók az utasok biztonságos átszállásában nyújtanak majd segítséget.",
+      "location": "Újfehértó, Vörösmarty Mihály utca",
+      "updates": []
+    },
+    {
+      "id": "91937",
+      "datetime": "2026.09.13. 11:22",
+      "title": "Két autó karambolozott Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91937",
+      "lead": "A tűzoltók áramtalanítják az egyik járművet.",
+      "body": "Összeütközött két gépkocsi Debrecenben, a Bálint pap utca és a Kincseshegy utca kereszteződésénél. Összesen hárman utaztak a járművekben, amelyek közül az egyiket a debreceni hivatásos tűzoltók áramtalanítják. Az egység mellett a mentők is kiérkeztek a helyszínre, ahol lezárták az érintett kereszteződést a baleset miatt.",
+      "location": "Debrecen, Bálint pap utca",
+      "updates": []
+    },
     {
       "id": "91936",
       "datetime": "2026.09.13. 10:15",
