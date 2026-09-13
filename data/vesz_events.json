@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T12:43:00.737422+00:00",
+  "updated_at": "2026-09-13T12:46:19.113783+00:00",
   "count": 3283,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "Egy másik épület is ég, a tűz egy lovarda felé terjed.",
       "body": "Egy tizenkét négyzetméteres garázs és egy másik, huszonöt négyzetméteres épület ég Hévízgyörkön, a Gyümölcsös utcánál. Információk szerint a garázsban egy gépkocsi és egy gázpalack található, a tűz egy lovarda felé terjed. A gödöllői hivatásos tűzoltók négy vízsugárral oltják a lángokat. A helyszínre tartanak a hatvani hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Hévízgyörk, Gyümölcsös utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Hévízgyörkön",
+          "datetime": "2026.09.13. 14:40",
+          "category": "Tűzeset",
+          "text": "A gödöllői és a hatvani hivatásos tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral eloltották a lángokat Hévízgyörkön, ahol egy tizenkét négyzetméteres garázs és egy huszonöt négyzetméteres lakóépület égett a Gyümölcsös utcánál. A garázsban egy gépkocsi állt, valamint egy gázpalackot és szerszámokat tároltak az épületben. A tűz egy lovarda felé terjedt volna tovább a száraz füvön át, ezt az egységek megakadályozták. A lakóházban ketten éltek, számukra lakosságvédelmi intézkedésre lesz szükség.",
+          "location": "Hévízgyörk, Gyümölcsös utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91940/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91940"
+        }
+      ]
     },
     {
       "id": "91939",
