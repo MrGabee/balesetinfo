@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-13T13:03:22.315275+00:00",
-  "count": 3284,
+  "updated_at": "2026-09-13T13:06:40.748072+00:00",
+  "count": 3285,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91943",
+      "datetime": "2026.09.13. 15:06",
+      "title": "Tehervonat elé hajtott egy autó Börcsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91943",
+      "lead": "A műszaki mentési munkálatok idejére leállították a vasúti forgalmat.",
+      "body": "Egy Hegyeshalom irányába tartó tehervonat elé hajtott egy személyautó Börcsön, az Öregszőlő vasúti átjáróban. A vonat hosszan eltolta a járművet, amelynek vezetője beszorult. A győri hivatásos tűzoltók feszítővágó segítségével nyitották ki a kocsi ajtaját. A balesethez a börcsi és az abdai önkéntes tűzoltók, valamint a társhatóságok is kiérkeztek, a munkálatok idejére mindkét irányban leállították a vasúti közlekedést az érintett pályaszakaszon.",
+      "location": "Börcs, Öregszőlő",
+      "updates": []
+    },
     {
       "id": "91942",
       "datetime": "2026.09.13. 14:59",
