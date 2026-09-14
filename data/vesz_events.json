@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T05:08:07.113097+00:00",
-  "count": 3293,
+  "updated_at": "2026-09-14T05:12:00.743158+00:00",
+  "count": 3294,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91952",
+      "datetime": "2026.09.14. 07:09",
+      "title": "Felborult egy autó Kecskemét és Szentkirály között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91952",
+      "lead": "Félpályán lezárták a 4622-es út érintett szakaszát.",
+      "body": "Felborult egy gépkocsi Kecskemét és Szentkirály között, a 4622-es út 2-es kilométerszelvényénél. A két utas a kecskeméti hivatásos tűzoltók kiérkezése előtt saját erejéből ki tudott szállni a járműből, amelyet az egységek áramtalanítanak. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Kecskemét, 4622",
+      "updates": []
+    },
     {
       "id": "91951",
       "datetime": "2026.09.14. 06:20",
