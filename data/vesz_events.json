@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T18:27:28.284438+00:00",
-  "count": 3324,
+  "updated_at": "2026-09-14T18:30:50.700633+00:00",
+  "count": 3325,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91983",
+      "datetime": "2026.09.14. 20:30",
+      "title": "Összeütközött két autó Nadapon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91983",
+      "lead": "A Haladás útra velencei és székesfehérvári tűzoltók vonultak.",
+      "body": "Két személykocsi karambolozott a 8119-es út nadapi szakaszán, vagyis a Haladás úton. A járművekben összesen hatan utaztak, mentő érkezett hozzájuk. Az autókat a helyszínre elsőként érkező velencei önkéntes tűzoltók kezdték áramtalanítani, néhány perccel később csatlakoztak hozzájuk a székesfehérvári hivatásos egységek. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Nadap, Haladás út",
+      "updates": []
+    },
     {
       "id": "91982",
       "datetime": "2026.09.14. 19:43",
