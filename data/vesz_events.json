@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T15:39:30.945118+00:00",
-  "count": 3318,
+  "updated_at": "2026-09-14T15:42:47.386489+00:00",
+  "count": 3319,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91977",
+      "datetime": "2026.09.14. 17:39",
+      "title": "Kigyulladt egy épület Orgovány mellett",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91977",
+      "lead": "A nádtetős ház tetőszerkezete lángol.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nádtetős épület tetőszerkezete egy Orgovány melletti tanyán. A helyszínre elsőként az orgoványi önkéntes tűzoltók érkeztek ki, akik két vízsugárral oltani kezdték a lángokat, illetve védik a melléképületet. Az önkéntesek átvizsgálták az épület belsejét, senkit nem találtak odabenn. A helyszínre érkezett a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat, és oda tartanak a kecskeméti és kiskőrösi hivatásos tűzoltók is.",
+      "location": "Orgovány, külterület",
+      "updates": []
+    },
     {
       "id": "91976",
       "datetime": "2026.09.14. 16:59",
