@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T21:20:50.380220+00:00",
-  "count": 3325,
+  "updated_at": "2026-09-14T21:24:25.729988+00:00",
+  "count": 3326,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91984",
+      "datetime": "2026.09.14. 23:23",
+      "title": "Égett egy melléképület Törökszentmiklóson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91984",
+      "lead": "A Kossuth Lajos és a Rákóczi utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy melléképületében Törökszentmiklóson, a Rákóczi és a Kossuth Lajos utca kereszteződésénél. Az épület tetőszerkezete kapott lángra a tűz kis területen elérte a főépület tetejét is. A város önkormányzati tűzoltói és szolnoki hivatásos tűzoltók több vízsugárral előbb körülhatárolták, majd elfojtották a lángokat.",
+      "location": "Törökszentmiklós, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "91983",
       "datetime": "2026.09.14. 20:30",
