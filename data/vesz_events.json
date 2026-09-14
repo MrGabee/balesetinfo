@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T11:54:38.573744+00:00",
-  "count": 3310,
+  "updated_at": "2026-09-14T11:57:48.325740+00:00",
+  "count": 3311,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91969",
+      "datetime": "2026.09.14. 13:56",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91969",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91968",
       "datetime": "2026.09.14. 11:54",
@@ -229,9 +240,9 @@
       "title": "Kamionba hajtott egy személyautó az M43-ason, Makónál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91948",
-      "lead": "A tűzoltók áramtalanították a kisebb járművet.",
-      "body": "Kamionba hajtott egy személyautó az M43-as autópálya 43-as kilométerszelvényénél, Makó térségében, a határ felől érkező oldalon. Az autó áramtalanítására volt szükség, amelyet a makói hivatásos tűzoltók végeztek el. A balesethez a mentők is kiérkeztek, a forgalom egy sávon halad az érintett pályaszakaszon.",
-      "location": "Makó, M43",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -284,9 +295,9 @@
       "title": "Tehervonat elé hajtott egy autó Börcsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91943",
-      "lead": "A műszaki mentési munkálatok idejére leállították a vasúti forgalmat.",
-      "body": "Egy Hegyeshalom irányába tartó tehervonat elé hajtott egy személyautó Börcsön, az Öregszőlő vasúti átjáróban. A vonat hosszan eltolta a járművet, amelynek vezetője beszorult. A győri hivatásos tűzoltók feszítővágó segítségével nyitották ki a kocsi ajtaját. A balesethez a börcsi és az abdai önkéntes tűzoltók, valamint a társhatóságok is kiérkeztek, a munkálatok idejére mindkét irányban leállították a vasúti közlekedést az érintett pályaszakaszon.",
-      "location": "Börcs, Öregszőlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -295,9 +306,9 @@
       "title": "Árokba hajtott egy autó Mezőfalva és Daruszentmiklós között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91942",
-      "lead": "A tűzoltók mentették ki a vezetőt a járműből.",
-      "body": "Árokba hajtott egy gépkocsi Mezőfalva és Daruszentmiklós között, a 6228-as út 13-as kilométerszelvényénél. A vezetőnek a dunaújvárosi hivatásos tűzoltók feszítővágó használatával segítettek elhagyni az autót, amelyet az egység átvizsgált és áramtalanított. A mentők is kiérkeztek a helyszínre, ahol félpályán halad a forgalom a baleset miatt.",
-      "location": "Mezőfalva, 6228",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -306,9 +317,9 @@
       "title": "Kisteherautó fülkéje égett az 5-ösön, Dabasnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91941",
-      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
-      "body": "Egy kisteherautó fülkéje gyulladt ki az 5-ös főút 42-es kilométerszelvényénél, Dabas térségében. A dabasi hivatásos tűzoltók két vízsugárral oltották el a lángokat, visszahűtötték a felforrósodott részeket, hőkamerával átvizsgálták a járművet.",
-      "location": "Dabas, 5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,9 +403,9 @@
       "title": "Árokba hajtott egy kisteherautó Sárkeresztúron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91934",
-      "lead": "A tűzoltók daruja menti ki a járművet.",
-      "body": "Árokba hajtott egy kisteherautó Sárkeresztúron, a 63-as főút Dózsa György utcai szakaszán, a 70-es kilométerszelvény közelében. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A sárbogárdi hivatásos tűzoltók a székesfehérvári hivatásos tűzoltók daruját kérték a helyszínre a kisteherautó kimentéséhez.",
-      "location": "Sárkeresztúr, Dózsa György út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -403,9 +414,9 @@
       "title": "Szalagkorlátnak ütközött egy autó Felsőmocsoládnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91933",
-      "lead": "A 67-es főúton történt a baleset.",
-      "body": "Szalagkorlátnak ütközött egy személygépkocsi Felsőmocsoládnál, a 67-es főút 67-es kilométerénél, a Kaposvár felé vezető oldalon. A kaposvári hivatásos tűzoltókat riasztották a helyszínre. A raj áramtalanította a járművet.",
-      "location": "Felsőmocsolád, 67",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
