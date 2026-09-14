@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T07:02:44.391884+00:00",
-  "count": 3298,
+  "updated_at": "2026-09-14T07:06:04.901890+00:00",
+  "count": 3299,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91957",
+      "datetime": "2026.09.14. 09:05",
+      "title": "Kamion és személykocsi ütközött a 45-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91957",
+      "lead": "A 33-34-es kilométer között karamboloztak a járművek.",
+      "body": "Érintőlegesen ütközött egy személykocsi és egy kamion a 45-ös főúton, Derekegyház térségében. Az autó az út szélén állt meg, a kamion árokba sodródott, de nem borult fel. A két járműben összesen négyen ültek, az utasokhoz mentő érkezett. A szentesi hivatásos tűzoltók végzik a műszaki mentést, egyebek mellett áramtalanítottak.",
+      "location": "Szegvár, 45",
+      "updates": []
+    },
     {
       "id": "91956",
       "datetime": "2026.09.14. 08:54",
@@ -31,9 +42,9 @@
       "title": "Elütött egy embert a vonat Budapest tizenhetedik kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91954",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Összekötő úton történt a baleset.",
+      "body": "Elgázolt egy embert a Nagykátáról a Keleti pályaudvarra közlekedő személyvonat Rákoskert és Rákoshegy között, az Összekötő útnál. A fővárosi hivatásos tűzoltók segítenek a szerelvény utasainak átszállni egy másik vonatra. A vasúttársaság tájékoztatása szerint a baleset miatt Rákoshegy – Maglód között csak az egyik vágányon közlekedhetnek a vonatok, emiatt késésekre, várakozásra kell számítani.",
+      "location": "Budapest, Összekötő utca",
       "updates": []
     },
     {
