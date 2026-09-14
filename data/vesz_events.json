@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T15:56:08.129646+00:00",
-  "count": 3320,
+  "updated_at": "2026-09-14T15:59:46.518684+00:00",
+  "count": 3321,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91979",
+      "datetime": "2026.09.14. 17:57",
+      "title": "Összeütközött két autó Szigetszentmiklóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91979",
+      "lead": "A bevásárlóközponthoz riasztották a város tűzoltóit.",
+      "body": "Két személykocsi karambolozott Szigetszentmiklóson, a bevásárlóközpontnál. A két járműben összesen hárman utaztak, mentő érkezett hozzájuk. A város hivatásos tűzoltói áramtalanították a kocsikat.",
+      "location": "Szigetszentmiklós, Háros",
+      "updates": []
+    },
     {
       "id": "91978",
       "datetime": "2026.09.14. 17:50",
