@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T07:23:30.658144+00:00",
-  "count": 3299,
+  "updated_at": "2026-09-14T07:27:12.970051+00:00",
+  "count": 3300,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91958",
+      "datetime": "2026.09.14. 09:25",
+      "title": "Ágy égett egy miskolci házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91958",
+      "lead": "A tűzoltók eloltották a lángokat a Lyukóvölgy dűlőn.",
+      "body": "Kisebb tűz keletkezett egy lakóházban, Miskolcon, a Lyukóvölgy dűlőn. Egy ágy égett az ingatlanban. A miskolci hivatásos tűzoltók eloltották a tüzet, átvizsgálják, kiszellőztetik az épületet, és utómunkálatokat végeznek.",
+      "location": "Miskolc, Lyukóvölgy dűlő",
+      "updates": []
+    },
     {
       "id": "91957",
       "datetime": "2026.09.14. 09:05",
