@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:07:35.680949+00:00",
+  "updated_at": "2026-09-14T06:11:22.001418+00:00",
   "count": 3297,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Felborult egy autó Kecskemét és Szentkirály között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91952",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták a 4622-es út érintett szakaszát.",
+      "body": "Felborult egy gépkocsi Kecskemét és Szentkirály között, a 4622-es út 2-es kilométerszelvényénél. A két utas a kecskeméti hivatásos tűzoltók kiérkezése előtt saját erejéből ki tudott szállni a járműből, amelyet az egységek áramtalanítanak. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Kecskemét, 4622",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Autóbusszal karambolozott egy személyautó a XVII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91951",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki az érintett kereszteződésben.",
+      "body": "Egy autóbusz és egy személyautó ütközött össze a XVII. kerületben, a Tarcsai út és a Szent Imre herceg út kereszteződésében. A fővárosi hivatásos tűzoltók mellett a mentők és a közösségi közlekedési társaság szakemberei is kiérkeztek a balesethez, amely miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Budapest, Szent Imre herceg út",
       "updates": []
     },
     {
@@ -318,16 +318,7 @@
       "lead": "A Móricz Zsigmond utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy családi ház Aranyosapátiban, a Móricz Zsigmond utcában. A kisvárdai hivatásos és a vásárosnaményi önkormányzati tűzoltókat riasztották az esethez. A rajok két vízsugárral már körülhatárolták a lángokat.",
       "location": "Aranyosapáti, Móricz Zsigmond utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Aranyosapátiban",
-          "datetime": "2026.09.13. 00:23",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Aranyosapátiban, a Móricz Zsigmond utcában, ahol kigyulladt egy lakóház. A száz négyzetméteres ingatlan egyik szobája teljes terjedelmében égett. A kisvárdai hivatásos és a vásárosnaményi önkormányzati tűzoltók két vízsugárral fékezték meg a tüzet.",
-          "location": "Aranyosapáti, Móricz Zsigmond utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91928/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91928"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "91927",
