@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T05:19:39.589353+00:00",
-  "count": 3294,
+  "updated_at": "2026-09-14T05:23:12.025120+00:00",
+  "count": 3295,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91953",
+      "datetime": "2026.09.14. 07:21",
+      "title": "Földrengés volt Magyarország és Horvátország határán",
+      "category": "Rendkívüli esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91953",
+      "lead": "Nem érkezett lakossági bejelentés a földmozgásról.",
+      "body": "A HUN-REN Földﬁzikai és Űrtudományi Kutatóintézet Kövesligethy Radó Szeizmológiai Obszervatóriumának közleménye szerint 2026. szeptember 14-én helyi idő szerint 5 óra 47 perckor 2,5-ös magnitúdójú földrengés keletkezett a Baranya vármegyei Sellyétől mintegy 18 kilométerre, Magyarország és Horvátország határának közelében. A földrengésről nem érkezett lakossági bejelentés az obszervatóriumhoz és a katasztrófavédelemhez.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "91952",
       "datetime": "2026.09.14. 07:09",
