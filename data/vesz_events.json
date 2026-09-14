@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T04:17:00.273640+00:00",
-  "count": 3292,
+  "updated_at": "2026-09-14T04:20:25.186330+00:00",
+  "count": 3293,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91951",
+      "datetime": "2026.09.14. 06:20",
+      "title": "Autóbusszal karambolozott egy személyautó a XVII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91951",
+      "lead": "Forgalmi akadály alakult ki az érintett kereszteződésben.",
+      "body": "Egy autóbusz és egy személyautó ütközött össze a XVII. kerületben, a Tarcsai út és a Szent Imre herceg út kereszteződésében. A fővárosi hivatásos tűzoltók mellett a mentők és a közösségi közlekedési társaság szakemberei is kiérkeztek a balesethez, amely miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Budapest, Szent Imre herceg út",
+      "updates": []
+    },
     {
       "id": "91950",
       "datetime": "2026.09.13. 23:12",
