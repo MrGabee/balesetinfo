@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T09:53:37.145143+00:00",
-  "count": 3309,
+  "updated_at": "2026-09-14T09:56:39.760194+00:00",
+  "count": 3310,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91968",
+      "datetime": "2026.09.14. 11:54",
+      "title": "Árokba hajtott egy kisteherautó az 54-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91968",
+      "lead": "A baleset a 69-70-es kilométer közelében, Császártöltésnél történt.",
+      "body": "Letért az úttestről és az árokban fák közé hajtott egy kisteherautó az 54-es főúton, Császártöltés közelében. A baleset a 69-70-es kilométer között történt, a jármű az útra döntött egy fát is. A keceli önkormányzati tűzoltók eltávolítják a kidőlt fát, végzik a műszaki mentést. A kisteherautó sofőrjéhez mentő érkezett.",
+      "location": "Császártöltés, 54",
+      "updates": []
+    },
     {
       "id": "91967",
       "datetime": "2026.09.14. 11:29",
