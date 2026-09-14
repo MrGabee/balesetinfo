@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T17:42:48.860399+00:00",
-  "count": 3323,
+  "updated_at": "2026-09-14T17:46:17.382182+00:00",
+  "count": 3324,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91982",
+      "datetime": "2026.09.14. 19:43",
+      "title": "Karambol a 36-os főút nagycserkeszi szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91982",
+      "lead": "A 38-39-es kilométer között egy kisbusz és egy személyautó ütközött össze.",
+      "body": "Egymásba hajtott egy személykocsi és egy kisbusz a 36-os főút nagycserkeszi szakaszán. Az egyik járműben csak a sofőr ült, a másikban ketten utaztak, a helyszínre mentő is érkezett. A nyíregyházi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Nagycserkesz, Vasvári Pál utca",
+      "updates": []
+    },
     {
       "id": "91981",
       "datetime": "2026.09.14. 19:36",
