@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T17:36:11.789605+00:00",
-  "count": 3322,
+  "updated_at": "2026-09-14T17:39:44.022992+00:00",
+  "count": 3323,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91981",
+      "datetime": "2026.09.14. 19:36",
+      "title": "Felborult egy autó Leányfalun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91981",
+      "lead": "A 11-es főút belterületi szakaszán, a 28-as kilométernél történt a baleset.",
+      "body": "Felborult egy személykocsi a 11-es főút leányfalui szakaszán, a Seres utcai kereszteződés közelében. A szentendrei hivatásos tűzoltók áramtalanították az autót. A járműben hárman utaztak, a helszínre mentő érkezett.",
+      "location": "Leányfalu, 11",
+      "updates": []
+    },
     {
       "id": "91980",
       "datetime": "2026.09.14. 18:49",
