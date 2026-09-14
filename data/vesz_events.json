@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:19:15.866120+00:00",
+  "updated_at": "2026-09-14T15:22:15.518628+00:00",
   "count": 3318,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "91975",
-      "datetime": "2026.09.14. 16:46",
+      "datetime": "2026.09.14. 16:46 -",
       "title": "Füstölő gyulladt ki Tiszacsegén",
-      "category": "Tűzeset",
+      "category": "Füstölő gyulladt ki Tiszacsegén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91975",
       "lead": "Az Ipar utcába egyeki és tiszafüredi tűzoltók vonultak.",
       "body": "Kigyulladt egy nagyjából nyolcvan négyzetméteres, szendvicspanelből épült füstölő egyik fele Tiszacsegén, az Ipar utcában. A helyszínre elsőként az egyeki önkormányzati tűzoltók érkeztek meg, akik vízsugárral és kéziszerszámokkal, illetve az épületben légzésvédelem mellett kezdték oltani a lángokat. A tiszafüredi hivatásos egység rövid idő elteltével csatlakozott a munkához, a lángokat két vízsugárral, kéziszerszámokkal folyamatosan oltják. Az egységek megbontották a főépülettel egybeépített füstölőüzem falát, hogy felkutassák az izzó részeket.",
       "location": "Tiszacsege, Ipar utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tiszacsegei tüzet",
+          "datetime": "2026.09.14. 17:21",
+          "category": "Tűzeset",
+          "text": "Az Ipar utcában egy füstölőüzemben keletkezett tűz. A lángokat az egyeki önkormányzati és a tiszafüredi hivatásos tűzoltók vízsugarakkal és kéziszerszámokkal oltották el. A rajok megbontották a szendvicspanel épület oldalát is, hogy eloltsák az esetleg izzó részeket. Az egységek már az utómunkálatokat végzik.",
+          "location": "Tiszacsege, Ipar utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91975/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91975"
+        }
+      ]
     },
     {
       "id": "91974",
