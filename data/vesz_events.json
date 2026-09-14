@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T15:49:19.491030+00:00",
-  "count": 3319,
+  "updated_at": "2026-09-14T15:52:48.799024+00:00",
+  "count": 3320,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91978",
+      "datetime": "2026.09.14. 17:50",
+      "title": "Felborult egy autó a 4519-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91978",
+      "lead": "A Sándorfalva közelében történt balesethez sándorfalvai és szegedi tűzoltók vonultak.",
+      "body": "Felborult egy személykocsi Sándorfalva és Ópusztaszer között, a 4519-es út 41-42-es kilométere között. A helyszínre elsőként a sándorfalvai önkéntes tűzoltók érkeztek ki, megkezdték a műszaki mentést, amelyet a szegedi hivatásos tűzoltók folytattak. A gázhajtásos jármű tartálya kirepült a kocsiból és szivárog, ezért a tűzoltók védősugarakat telepítettek. Az autó egyedül utazó sofőrjéhez mentő is érkezett. Az utat az érintett szakaszon egy időre teljes szélességében lezárták.",
+      "location": "Sándorfalva, 4519",
+      "updates": []
+    },
     {
       "id": "91977",
       "datetime": "2026.09.14. 17:39",
