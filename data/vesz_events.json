@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T11:57:48.325740+00:00",
+  "updated_at": "2026-09-14T12:02:14.812869+00:00",
   "count": 3311,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Kigyulladt egy szárítógép a főváros VI. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91963",
-      "lead": "A Paulay Ede utcába vonultak a tűzoltók, akik megfékezték a tüzet.",
-      "body": "Tűz keletkezett Budapest VI. kerületében, egy Paulay Ede utcai lakásban. A szárítógép égett a konyhában. A fővárosi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, eloltották a tüzet, és átvizsgálják, valamint kiszellőztetik az épületet.",
-      "location": "Budapest, Paulay Ede utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Felborult egy autó az 56-os főúton, Várdomb közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91960",
-      "lead": "Egy embert a tűzoltók szabadítottak ki a gépkocsiból.",
-      "body": "Az oldalára borult egy személyautó az 56-os főúton, Várdomb közelében, a 13. kilométernél. AZ műszaki mentést végző szekszárdi hivatásos tűzoltók egy embert kiszabadítottak a járműből, majd átadtak a mentőknek. A rajok, amelyek feszítővágót is használtak a beavatkozás során, áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták, a forgalmat elterelik.",
-      "location": "Várdomb, 56",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -240,9 +240,9 @@
       "title": "Kamionba hajtott egy személyautó az M43-ason, Makónál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91948",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a kisebb járművet.",
+      "body": "Kamionba hajtott egy személyautó az M43-as autópálya 43-as kilométerszelvényénél, Makó térségében, a határ felől érkező oldalon. Az autó áramtalanítására volt szükség, amelyet a makói hivatásos tűzoltók végeztek el. A balesethez a mentők is kiérkeztek, a forgalom egy sávon halad az érintett pályaszakaszon.",
+      "location": "Makó, M43",
       "updates": []
     },
     {
@@ -295,9 +295,9 @@
       "title": "Tehervonat elé hajtott egy autó Börcsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91943",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A műszaki mentési munkálatok idejére leállították a vasúti forgalmat.",
+      "body": "Egy Hegyeshalom irányába tartó tehervonat elé hajtott egy személyautó Börcsön, az Öregszőlő vasúti átjáróban. A vonat hosszan eltolta a járművet, amelynek vezetője beszorult. A győri hivatásos tűzoltók feszítővágó segítségével nyitották ki a kocsi ajtaját. A balesethez a börcsi és az abdai önkéntes tűzoltók, valamint a társhatóságok is kiérkeztek, a munkálatok idejére mindkét irányban leállították a vasúti közlekedést az érintett pályaszakaszon.",
+      "location": "Börcs, Öregszőlő",
       "updates": []
     },
     {
@@ -306,9 +306,9 @@
       "title": "Árokba hajtott egy autó Mezőfalva és Daruszentmiklós között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91942",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók mentették ki a vezetőt a járműből.",
+      "body": "Árokba hajtott egy gépkocsi Mezőfalva és Daruszentmiklós között, a 6228-as út 13-as kilométerszelvényénél. A vezetőnek a dunaújvárosi hivatásos tűzoltók feszítővágó használatával segítettek elhagyni az autót, amelyet az egység átvizsgált és áramtalanított. A mentők is kiérkeztek a helyszínre, ahol félpályán halad a forgalom a baleset miatt.",
+      "location": "Mezőfalva, 6228",
       "updates": []
     },
     {
@@ -317,9 +317,9 @@
       "title": "Kisteherautó fülkéje égett az 5-ösön, Dabasnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91941",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy kisteherautó fülkéje gyulladt ki az 5-ös főút 42-es kilométerszelvényénél, Dabas térségében. A dabasi hivatásos tűzoltók két vízsugárral oltották el a lángokat, visszahűtötték a felforrósodott részeket, hőkamerával átvizsgálták a járművet.",
+      "location": "Dabas, 5",
       "updates": []
     },
     {
@@ -403,9 +403,9 @@
       "title": "Árokba hajtott egy kisteherautó Sárkeresztúron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91934",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók daruja menti ki a járművet.",
+      "body": "Árokba hajtott egy kisteherautó Sárkeresztúron, a 63-as főút Dózsa György utcai szakaszán, a 70-es kilométerszelvény közelében. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A sárbogárdi hivatásos tűzoltók a székesfehérvári hivatásos tűzoltók daruját kérték a helyszínre a kisteherautó kimentéséhez.",
+      "location": "Sárkeresztúr, Dózsa György út",
       "updates": []
     },
     {
@@ -414,9 +414,9 @@
       "title": "Szalagkorlátnak ütközött egy autó Felsőmocsoládnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91933",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 67-es főúton történt a baleset.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi Felsőmocsoládnál, a 67-es főút 67-es kilométerénél, a Kaposvár felé vezető oldalon. A kaposvári hivatásos tűzoltókat riasztották a helyszínre. A raj áramtalanította a járművet.",
+      "location": "Felsőmocsolád, 67",
       "updates": []
     },
     {
