@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:59:20.585239+00:00",
+  "updated_at": "2026-09-14T07:02:44.391884+00:00",
   "count": 3298,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Elütött egy embert a vonat Budapest tizenhetedik kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91954",
-      "lead": "Az Összekötő úton történt a baleset.",
-      "body": "Elgázolt egy embert a Nagykátáról a Keleti pályaudvarra közlekedő személyvonat Rákoskert és Rákoshegy között, az Összekötő útnál. A fővárosi hivatásos tűzoltók segítenek a szerelvény utasainak átszállni egy másik vonatra. A vasúttársaság tájékoztatása szerint a baleset miatt Rákoshegy – Maglód között csak az egyik vágányon közlekedhetnek a vonatok, emiatt késésekre, várakozásra kell számítani.",
-      "location": "Budapest, Összekötő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -141,9 +141,9 @@
       "title": "Összeütközött két autó a 103-ason, Gyermelynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91944",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy sávon halad a forgalom az érintett útszakaszon.",
+      "body": "Két gépkocsi ütközött össze a 103-as főút 16-os kilométerszelvényénél, Gyermely térségében. Csak a vezetők utaztak a járművekben, amelyeket a bajnai hivatásos tűzoltók áramtalanítottak. A baleset miatt forgalmi akadály alakult ki, a közlekedés egy sávon halad az érintett útszakaszon.",
+      "location": "Gyermely, 103",
       "updates": []
     },
     {
@@ -174,9 +174,9 @@
       "title": "Kisteherautó fülkéje égett az 5-ösön, Dabasnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91941",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy kisteherautó fülkéje gyulladt ki az 5-ös főút 42-es kilométerszelvényénél, Dabas térségében. A dabasi hivatásos tűzoltók két vízsugárral oltották el a lángokat, visszahűtötték a felforrósodott részeket, hőkamerával átvizsgálták a járművet.",
+      "location": "Dabas, 5",
       "updates": []
     },
     {
