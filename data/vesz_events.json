@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T07:40:40.306235+00:00",
-  "count": 3300,
+  "updated_at": "2026-09-14T07:43:49.161400+00:00",
+  "count": 3301,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91959",
+      "datetime": "2026.09.14. 09:41",
+      "title": "Súlyos baleset miatt áll a forgalom a 31-esen Maglód és Mende között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91959",
+      "lead": "A 32-33-as kilométer között egy személykocsi és egy teherautó frontálisan karambolozott.",
+      "body": "Szemből egymásba rohant egy autó és egy sódert szállító tehergépkocsi a 31-es főúton, Maglód és Mende között. A teherautó az árokban, az oldalára borulva állt meg. Az autóban hárman utaztak, a kamionban csak a sofőr ült. A járművek utasaihoz mentőgépkocsi és mentőhelikopter is érkezett. A Gyömrő térségében történt balesethez monori és fővárosi hivatásos tűzoltókat riasztottak, az egységek áramtalanítottak, illetve segítik a mentőszolgálat szakembereinek munkáját. A főút érintett szakaszát teljes szélességében lezárták.",
+      "location": "Gyömrő, 31",
+      "updates": []
+    },
     {
       "id": "91958",
       "datetime": "2026.09.14. 09:25",
