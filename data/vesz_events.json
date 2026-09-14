@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T09:18:10.855499+00:00",
-  "count": 3307,
+  "updated_at": "2026-09-14T09:21:51.019585+00:00",
+  "count": 3308,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91966",
+      "datetime": "2026.09.14. 11:20",
+      "title": "Összeütközött két autó Ajkán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91966",
+      "lead": "A Timföldgyári út és a Dózsa György utca kereszteződésénél történt a baleset.",
+      "body": "Karambolozott két személyautó Ajkán, a Timföldgyári út és a Dózsa György utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen hárman utaztak. Mindannyian ki tudtak szállni. A baleset helyszínén forgalomkorlátozásra lehet számítani.",
+      "location": "Ajka, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "91965",
       "datetime": "2026.09.14. 11:15",
@@ -262,9 +273,9 @@
       "title": "Árokba hajtott egy autó Mezőfalva és Daruszentmiklós között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91942",
-      "lead": "A tűzoltók mentették ki a vezetőt a járműből.",
-      "body": "Árokba hajtott egy gépkocsi Mezőfalva és Daruszentmiklós között, a 6228-as út 13-as kilométerszelvényénél. A vezetőnek a dunaújvárosi hivatásos tűzoltók feszítővágó használatával segítettek elhagyni az autót, amelyet az egység átvizsgált és áramtalanított. A mentők is kiérkeztek a helyszínre, ahol félpályán halad a forgalom a baleset miatt.",
-      "location": "Mezőfalva, 6228",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
