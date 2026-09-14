@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T13:32:02.876002+00:00",
+  "updated_at": "2026-09-14T13:35:25.633600+00:00",
   "count": 3315,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Árokba borult egy autó a 63-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91973",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Aba-Belsőbáránd közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba csapódott és felborult egy személyautó a 63-as főúton, az Abához tartozó Belsőbáránd közelében, a 81. kilométernél. A székesfehérvári hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyben egy kamion is érintett volt. A helyszínen vannak a mentők is. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Aba-Belsőbáránd, 63",
       "updates": []
     },
     {
@@ -20,9 +20,9 @@
       "title": "Karambol az 5-ös főúton, Lajosmizse közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91972",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 71-es kilométernél egy kisteherautó és egy személykocsi hajtott egymásba.",
+      "body": "Összeütközött egy járműalkatrészeket szállító kisteherautó és egy személykocsi az 5-ös főút 71-es kilométerénél. Az ütközéstől a kisteherautó a tetejére borult. A Lajosmizse közelében történt balesethez a város önkormányzati tűzoltói vonultak. A raj áramtalanít. Mindkét járműben csak annak vezetője ült, a sofőrökhöz mentőt riasztottak.",
+      "location": "Lajosmizse, 5",
       "updates": []
     },
     {
@@ -350,9 +350,9 @@
       "title": "Árokba hajtott egy autó Mezőfalva és Daruszentmiklós között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91942",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók mentették ki a vezetőt a járműből.",
+      "body": "Árokba hajtott egy gépkocsi Mezőfalva és Daruszentmiklós között, a 6228-as út 13-as kilométerszelvényénél. A vezetőnek a dunaújvárosi hivatásos tűzoltók feszítővágó használatával segítettek elhagyni az autót, amelyet az egység átvizsgált és áramtalanított. A mentők is kiérkeztek a helyszínre, ahol félpályán halad a forgalom a baleset miatt.",
+      "location": "Mezőfalva, 6228",
       "updates": []
     },
     {
@@ -361,9 +361,9 @@
       "title": "Kisteherautó fülkéje égett az 5-ösön, Dabasnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91941",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy kisteherautó fülkéje gyulladt ki az 5-ös főút 42-es kilométerszelvényénél, Dabas térségében. A dabasi hivatásos tűzoltók két vízsugárral oltották el a lángokat, visszahűtötték a felforrósodott részeket, hőkamerával átvizsgálták a járművet.",
+      "location": "Dabas, 5",
       "updates": []
     },
     {
@@ -375,7 +375,16 @@
       "lead": "Egy másik épület is ég, a tűz egy lovarda felé terjed.",
       "body": "Egy tizenkét négyzetméteres garázs és egy másik, huszonöt négyzetméteres épület ég Hévízgyörkön, a Gyümölcsös utcánál. Információk szerint a garázsban egy gépkocsi és egy gázpalack található, a tűz egy lovarda felé terjed. A gödöllői hivatásos tűzoltók négy vízsugárral oltják a lángokat. A helyszínre tartanak a hatvani hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Hévízgyörk, Gyümölcsös utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Hévízgyörkön",
+          "datetime": "2026.09.13. 14:40",
+          "category": "Tűzeset",
+          "text": "A gödöllői és a hatvani hivatásos tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral eloltották a lángokat Hévízgyörkön, ahol egy tizenkét négyzetméteres garázs és egy huszonöt négyzetméteres lakóépület égett a Gyümölcsös utcánál. A garázsban egy gépkocsi állt, valamint egy gázpalackot és szerszámokat tároltak az épületben. A tűz egy lovarda felé terjedt volna tovább a száraz füvön át, ezt az egységek megakadályozták. A lakóházban ketten éltek, számukra lakosságvédelmi intézkedésre lesz szükség.",
+          "location": "Hévízgyörk, Gyümölcsös utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91940/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91940"
+        }
+      ]
     },
     {
       "id": "91939",
@@ -383,9 +392,9 @@
       "title": "Tűzhelyen felejtett olaj gyulladt meg egy szegedi lakóház konyhájában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91939",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz átterjedt a helyiség berendezési tárgyaira.",
+      "body": "A tűzhelyen felejtett olaj gyulladt meg egy lakóház konyhájában Szegeden, a Vinkler László úton. A tűz elérte a tűzhely környezetében található bútorokat, berendezési tárgyakat. A szegedi hivatásos tűzoltók egy vízsugárral eloltották a lángokat, hőkamerával átvizsgálták a tetőteret, átszellőztették az épületet.",
+      "location": "Szeged, Vinkler László út",
       "updates": []
     },
     {
