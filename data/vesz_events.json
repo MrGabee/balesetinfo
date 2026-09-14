@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T13:59:07.266894+00:00",
-  "count": 3315,
+  "updated_at": "2026-09-14T14:02:18.441300+00:00",
+  "count": 3316,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91974",
+      "datetime": "2026.09.14. 16:01",
+      "title": "Felborult egy autó a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91974",
+      "lead": "Mecseknádasdhoz riasztották a tűzoltókat.",
+      "body": "A tetejére borult egy személyautó a 6-os főúton, Mecseknádasdnál, a 170. kilométer közelében. A balesethez a bonyhádi hivatásos és a mecseknádasdi önkéntes tűzoltók vonultak ki, akik áramtalanítják a járművet. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Mecseknádasd, 6",
+      "updates": []
+    },
     {
       "id": "91973",
       "datetime": "2026.09.14. 15:31",
