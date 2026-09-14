@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T08:12:22.025466+00:00",
-  "count": 3302,
+  "updated_at": "2026-09-14T08:16:17.613130+00:00",
+  "count": 3303,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91961",
+      "datetime": "2026.09.14. 10:15",
+      "title": "Baleset történt a 472-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91961",
+      "lead": "Hódmezővásárhely határában felborult egy teherautó.",
+      "body": "Felborult egy betonszállító teherautó a 472-es főúton, Hódmezővásárhely határában, a 204. kilométer közelében. A sofőr beszorult a járműbe. Őt a műszaki mentést végző Hódmezővásárhelyi hivatásos tűzoltók kiszabadították, majd átadták a mentőknek. A rajok áramtalanították a gépkocsit, amelyből mintegy ötven méter hosszan híg beton folyt ki az útburkolatra.",
+      "location": "Hódmezővásárhely, 472",
+      "updates": []
+    },
     {
       "id": "91960",
       "datetime": "2026.09.14. 10:05",
@@ -271,9 +282,9 @@
       "title": "Két autó karambolozott Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91937",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják az egyik járművet.",
+      "body": "Összeütközött két gépkocsi Debrecenben, a Bálint pap utca és a Kincseshegy utca kereszteződésénél. Összesen hárman utaztak a járművekben, amelyek közül az egyiket a debreceni hivatásos tűzoltók áramtalanítják. Az egység mellett a mentők is kiérkeztek a helyszínre, ahol lezárták az érintett kereszteződést a baleset miatt.",
+      "location": "Debrecen, Bálint pap utca",
       "updates": []
     },
     {
