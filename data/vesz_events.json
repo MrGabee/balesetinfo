@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-14T12:20:22.237476+00:00",
-  "count": 3311,
+  "updated_at": "2026-09-14T12:23:42.940346+00:00",
+  "count": 3313,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91971",
+      "datetime": "2026.09.14. 14:21",
+      "title": "Három jármű karambolozott az M6-os sztrádán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91971",
+      "lead": "A 34-es kilométer térségében, Ráckeresztúrnál történt a baleset.",
+      "body": "Egy rakomány nélküli teherautó és két személykocsi hajtott egymásba az M6-os autópályán, Ráckeresztúr térségében. A karambol a 34-es kilométer közelében, a főváros felé vezető oldalon történt. A járművekben összesen öten ültek, a helyszínre mentő is érkezett. A pusztaszabolcsi hivatásos tűzoltók vonultak az esethez.",
+      "location": "Ráckeresztúr, M6",
+      "updates": []
+    },
+    {
+      "id": "91970",
+      "datetime": "2026.09.14. 14:20",
+      "title": "Kigyulladt egy páraelszívó Sopronban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91970",
+      "lead": "Egy Fűzfa sori lakásban keletkezett tűz.",
+      "body": "Tűz keletkezett egy sorházi lakásban, Sopronban, a Fűzfa soron. A konyhai páraelszívó gyulladt ki. A város hivatásos tűzoltói egy vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A lakást három ember elhagyta a tűz miatt.",
+      "location": "Sopron, Fűzfa sor",
+      "updates": []
+    },
     {
       "id": "91969",
       "datetime": "2026.09.14. 13:56",
