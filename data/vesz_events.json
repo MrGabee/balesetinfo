@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T14:44:38.063245+00:00",
-  "count": 3316,
+  "updated_at": "2026-09-14T14:47:42.292900+00:00",
+  "count": 3317,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91975",
+      "datetime": "2026.09.14. 16:46",
+      "title": "Füstölő gyulladt ki Tiszacsegén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91975",
+      "lead": "Az Ipar utcába egyeki és tiszafüredi tűzoltók vonultak.",
+      "body": "Kigyulladt egy nagyjából nyolcvan négyzetméteres, szendvicspanelből épült füstölő egyik fele Tiszacsegén, az Ipar utcában. A helyszínre elsőként az egyeki önkormányzati tűzoltók érkeztek meg, akik vízsugárral és kéziszerszámokkal, illetve az épületben légzésvédelem mellett kezdték oltani a lángokat. A tiszafüredi hivatásos egység rövid idő elteltével csatlakozott a munkához, a lángokat két vízsugárral, kéziszerszámokkal folyamatosan oltják. Az egységek megbontották a főépülettel egybeépített füstölőüzem falát, hogy felkutassák az izzó részeket.",
+      "location": "Tiszacsege, Ipar utca",
+      "updates": []
+    },
     {
       "id": "91974",
       "datetime": "2026.09.14. 16:01",
