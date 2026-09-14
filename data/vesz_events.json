@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T09:07:20.493557+00:00",
-  "count": 3305,
+  "updated_at": "2026-09-14T09:10:55.870592+00:00",
+  "count": 3306,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91964",
+      "datetime": "2026.09.14. 11:07",
+      "title": "Hármas karambol Angyalföldön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91964",
+      "lead": "A Váci úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó és egy tehergépkocsi Budapest XIII. kerületében, a Váci úton, a Forgách utca közelében. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket, amelyekből nagy mennyiségű üzemanyag folyt ki az útburkolatra. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Váci út",
+      "updates": []
+    },
     {
       "id": "91963",
       "datetime": "2026.09.14. 10:54",
@@ -31,9 +42,9 @@
       "title": "Baleset történt a 472-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91961",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Hódmezővásárhely határában felborult egy teherautó.",
+      "body": "Felborult egy betonszállító teherautó a 472-es főúton, Hódmezővásárhely határában, a 204. kilométer közelében. A sofőr beszorult a járműbe. Őt a műszaki mentést végző Hódmezővásárhelyi hivatásos tűzoltók kiszabadították, majd átadták a mentőknek. A rajok áramtalanították a gépkocsit, amelyből mintegy ötven méter hosszan híg beton folyt ki az útburkolatra.",
+      "location": "Hódmezővásárhely, 472",
       "updates": []
     },
     {
@@ -337,9 +348,9 @@
       "title": "Árokba hajtott egy kisteherautó Sárkeresztúron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91934",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók daruja menti ki a járművet.",
+      "body": "Árokba hajtott egy kisteherautó Sárkeresztúron, a 63-as főút Dózsa György utcai szakaszán, a 70-es kilométerszelvény közelében. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A sárbogárdi hivatásos tűzoltók a székesfehérvári hivatásos tűzoltók daruját kérték a helyszínre a kisteherautó kimentéséhez.",
+      "location": "Sárkeresztúr, Dózsa György út",
       "updates": []
     },
     {
@@ -359,9 +370,9 @@
       "title": "Összeütközött két autó a VIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91932",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon egy sávon halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Budapest VIII. kerületében, az Üllői úton, a Nagyvárad térnél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A mentőszolgálat is a helyszínen dolgozik. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Üllői út",
       "updates": []
     },
     {
