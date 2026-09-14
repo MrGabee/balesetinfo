@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T09:14:39.759452+00:00",
-  "count": 3306,
+  "updated_at": "2026-09-14T09:18:10.855499+00:00",
+  "count": 3307,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91965",
+      "datetime": "2026.09.14. 11:15",
+      "title": "Árokba hajtott egy autó az 54-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91965",
+      "lead": "Bugacpusztaháza közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Árokba sodródott egy személyautó az 54-es főúton, Bugacpusztaháza közelében, a 27. és a 28. kilométer között. A kiskunfélegyházi hivatásos tűzoltók áramtalanítják a járművet, amelyben egy ember utazott. Őt a mentők ellátják. A gépkocsi nem akadályozza a forgalmat.",
+      "location": "Bugacpusztaháza, 54",
+      "updates": []
+    },
     {
       "id": "91964",
       "datetime": "2026.09.14. 11:07",
