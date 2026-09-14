@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-14T08:44:23.942592+00:00",
-  "count": 3303,
+  "updated_at": "2026-09-14T08:48:02.474518+00:00",
+  "count": 3304,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91962",
+      "datetime": "2026.09.14. 10:45",
+      "title": "Hulladék égett Szeged és Újszentiván között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91962",
+      "lead": "A tűzoltók a Szőregi tanyáknál fékezték meg a lángokat.",
+      "body": "Kigyulladt egy kukásautó rakománya Szeged és Újszentiván között, a Szerb utcában, a Szőregi tanyáknál. A jármű az út szélére ürítette a mintegy nyolc-tíz köbméternyi égő hulladékot, amelyet egy vízszállító jármű közreműködésével eloltottak a szegedi hivatásos tűzoltók. A raj utómunkálatokat végez.",
+      "location": "Szeged, Szőregi tanyák",
+      "updates": []
+    },
     {
       "id": "91961",
       "datetime": "2026.09.14. 10:15",
