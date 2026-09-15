@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T14:51:48.861077+00:00",
-  "count": 3342,
+  "updated_at": "2026-09-15T14:55:01.158039+00:00",
+  "count": 3343,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92001",
+      "datetime": "2026.09.15. 16:52",
+      "title": "Tarló égett Ludasnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92001",
+      "lead": "Nagy területet érintett a tűz, amelyet megfékeztek a tűzoltók.",
+      "body": "Kigyulladt a tarló és a bozótos Ludas külterületén. Mintegy ötven hektárt érintett, és házakat is veszélyeztetett a tűz, amelyet a gyöngyösi hivatásos tűzoltók oltottak el. A beavatkozásban a ludasi önkéntes tűzoltók is részt vettek, és erőgép is segítette a munkálatokat.",
+      "location": "Ludas, Ludas külterülete",
+      "updates": []
+    },
     {
       "id": "92000",
       "datetime": "2026.09.15. 15:38",
