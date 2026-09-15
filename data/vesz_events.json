@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T20:12:11.599097+00:00",
-  "count": 3349,
+  "updated_at": "2026-09-15T20:15:40.511626+00:00",
+  "count": 3350,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92008",
+      "datetime": "2026.09.15. 22:14",
+      "title": "Lakatlan ház égett Sárkeresztúron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92008",
+      "lead": "A Vasút utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy lakatlan épületben Sárkeresztúron, a Vasút utcában. Az épületben hulladék égett. A sárbogárdi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Sárkeresztúr, Vasút utca",
+      "updates": []
+    },
     {
       "id": "92007",
       "datetime": "2026.09.15. 20:44",
