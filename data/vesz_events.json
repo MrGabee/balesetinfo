@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T09:48:07.985165+00:00",
-  "count": 3330,
+  "updated_at": "2026-09-15T09:51:11.357705+00:00",
+  "count": 3331,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91989",
+      "datetime": "2026.09.15. 11:50",
+      "title": "Elhagyatott ingatlan égett Nagykőrösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91989",
+      "lead": "A Tázerdő dűlőnél dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy elhagyatott ingatlan Nagykőrösön, a Tázerdő dűlőn. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Nagykőrös, Tázerdő dűlő",
+      "updates": []
+    },
     {
       "id": "91988",
       "datetime": "2026.09.15. 10:26",
