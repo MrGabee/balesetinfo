@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T06:28:42.022638+00:00",
-  "count": 3328,
+  "updated_at": "2026-09-15T06:32:20.557641+00:00",
+  "count": 3329,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91987",
+      "datetime": "2026.09.15. 08:31",
+      "title": "Három autó ütközött az M0-án",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91987",
+      "lead": "Szigetszentmiklós térségében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött három személygépkocsi az M0-ás autóúton, az M5-ös autópálya felé, Szigetszentmiklós térségében, a 19-es kilométerszelvénynél. A szigetszentmiklósi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szigetszentmiklós, Napsugár utca",
+      "updates": []
+    },
     {
       "id": "91986",
       "datetime": "2026.09.15. 07:15",
