@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T18:41:15.843715+00:00",
-  "count": 3348,
+  "updated_at": "2026-09-15T18:44:35.914968+00:00",
+  "count": 3349,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92007",
+      "datetime": "2026.09.15. 20:44",
+      "title": "Oszlopnak ütközött egy autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92007",
+      "lead": "A Sámsoni úton forgalmi akadályra kell számítani.",
+      "body": "Oszlopnak ütközött egy személygépkocsi Debrecenben, a Sámsoni úton. Az autóban csak a sofőr utazott. A helyi hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Debrecen, Sámsoni út",
+      "updates": []
+    },
     {
       "id": "92006",
       "datetime": "2026.09.15. 20:05",
