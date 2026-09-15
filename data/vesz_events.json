@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T10:32:02.312687+00:00",
-  "count": 3334,
+  "updated_at": "2026-09-15T10:36:04.374653+00:00",
+  "count": 3335,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91993",
+      "datetime": "2026.09.15. 12:35",
+      "title": "Szalagkorlátnak ütközött egy autó Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91993",
+      "lead": "A 7-es főút és a 81-es főút kereszteződésében egy sávon halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi a 7-es főút és a 81-es főút kereszteződésében, Székesfehérváron. A helyi hivatásos tűzoltók egy embert kiemeltek a járműből. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Székesfehérvár, Móri út",
+      "updates": []
+    },
     {
       "id": "91992",
       "datetime": "2026.09.15. 12:21",
