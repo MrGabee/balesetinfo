@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T10:49:23.726034+00:00",
-  "count": 3335,
+  "updated_at": "2026-09-15T10:52:47.853874+00:00",
+  "count": 3336,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91994",
+      "datetime": "2026.09.15. 12:52",
+      "title": "Szárítógép égett Cserszegtomajon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91994",
+      "lead": "A tűzoltók a Várvölgyi úton fékezték meg a lángokat.",
+      "body": "Tűz keletkezett egy családi házban, Cserszegtomajon, a Várvölgyi úton. A szárítógép és a benne lévő ruhák gyulladtak meg a fürdőszobában. A keszthelyi hivatásos tűzoltók egy vízsugárral megakadályozták a tűz továbbterjedését, eloltották a lángokat, hőkamerával átvizsgálják és kiszellőztetik a helyiséget.",
+      "location": "Cserszegtomaj, Várvölgyi út",
+      "updates": []
+    },
     {
       "id": "91993",
       "datetime": "2026.09.15. 12:35",
