@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T11:20:04.016638+00:00",
-  "count": 3337,
+  "updated_at": "2026-09-15T11:23:46.702776+00:00",
+  "count": 3338,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91996",
+      "datetime": "2026.09.15. 13:21",
+      "title": "Tűz volt Kiskunhalason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91996",
+      "lead": "A Szegedi úton égett egy munkagép.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy munkagép Kiskunhalason, a Szegedi úton. A helyi hivatásos tűzoltók vonultak ki a tűzesethez. A raj egy vízszállító jármű közreműködésével eloltotta a lángokat.",
+      "location": "Kiskunhalas, Szegedi út",
+      "updates": []
+    },
     {
       "id": "91995",
       "datetime": "2026.09.15. 13:09",
