@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T16:00:06.014093+00:00",
-  "count": 3344,
+  "updated_at": "2026-09-15T16:03:18.021162+00:00",
+  "count": 3345,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92003",
+      "datetime": "2026.09.15. 18:00",
+      "title": "Autó égett Fülöpszálláson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92003",
+      "lead": "A tűzoltók a Hunyadi utcában dolgoznak.",
+      "body": "Kigyulladt egy személygépkocsi a Hunyadi utcában, Fülöpszálláson. A solti hivatásos és a szabadszállási önkormányzati tűzoltók elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Fülöpszállás, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "92002",
       "datetime": "2026.09.15. 17:23",
