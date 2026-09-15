@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T13:38:06.281701+00:00",
-  "count": 3341,
+  "updated_at": "2026-09-15T13:41:38.584382+00:00",
+  "count": 3342,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92000",
+      "datetime": "2026.09.15. 15:38",
+      "title": "Összeütközött két autó és egy motor Budapesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92000",
+      "lead": "A Könyves Kálmán körúton akadályozza a forgalmat a baleset.",
+      "body": "Egymásnak ütközött két személyautó, és egy motorkerékpár Budapest VIII. és X. kerületének határán, a Könyves Kálmán körúton, a Győrffy István utcánál. A fővárosi hivatásos tűzoltókat riasztották a balesethez, amely a háromból két sávon akadályozza a forgalmat, de a villamosok akadálytalanul közlekednek. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "91999",
       "datetime": "2026.09.15. 15:31",
