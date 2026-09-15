@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T15:19:44.751115+00:00",
-  "count": 3343,
+  "updated_at": "2026-09-15T15:23:19.690241+00:00",
+  "count": 3344,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92002",
+      "datetime": "2026.09.15. 17:23",
+      "title": "Baleset a 24-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92002",
+      "lead": "Sástó közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött egy személygépkocsi és egy motorkerékpár a 24-es főúton, Sástó közelében, a 11-es kilométerszelvénynél. A gyöngyösi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyöngyös, Farkas út",
+      "updates": []
+    },
     {
       "id": "92001",
       "datetime": "2026.09.15. 16:52",
