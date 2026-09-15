@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T11:09:14.487799+00:00",
-  "count": 3336,
+  "updated_at": "2026-09-15T11:12:28.565421+00:00",
+  "count": 3337,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91995",
+      "datetime": "2026.09.15. 13:09",
+      "title": "Árokba hajtott egy autó Mélykúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91995",
+      "lead": "A Traktorosokútja utat teljes szélességében lezárták.",
+      "body": "Árokba hajtott egy személygépkocsi Mélykúton, a Traktorosokútja úton. A jánoshalmai önkormányzati és a helyi önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon teljes szélességében lezárták az utat.",
+      "location": "Mélykút, Traktorosokútja út",
+      "updates": []
+    },
     {
       "id": "91994",
       "datetime": "2026.09.15. 12:52",
