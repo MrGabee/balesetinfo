@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T05:12:38.480711+00:00",
-  "count": 3327,
+  "updated_at": "2026-09-15T05:16:30.553732+00:00",
+  "count": 3328,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91986",
+      "datetime": "2026.09.15. 07:15",
+      "title": "Karambol miatt torlódik az M0-ás forgalma Gyálnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91986",
+      "lead": "A 35-ös kilométernél két teherautó karambolozott.",
+      "body": "Egymásba hajtott két tehergépkocsi az M0-ás autóút M1-es felé vezető oldalán, Gyál térségében, a vecsési és a gyál-pestszentimrei lehajtó között. A 35-ös kilométernél történt ráfutásos balesethez a fővárosi hivatásos tűzoltók vonultak. A baleset miatt az autóút forgalma több kilométer hosszan torlódik.",
+      "location": "Vecsés, M0",
+      "updates": []
+    },
     {
       "id": "91985",
       "datetime": "2026.09.15. 04:56",
