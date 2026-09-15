@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T13:31:00.292896+00:00",
-  "count": 3340,
+  "updated_at": "2026-09-15T13:34:43.434455+00:00",
+  "count": 3341,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91999",
+      "datetime": "2026.09.15. 15:31",
+      "title": "Karambol az 54-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91999",
+      "lead": "Jakabszállásnál forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy furgon és egy nyerges vontató az 54-es főúton, Jakabszállásnál, a 18-as kilométerszelvénynél. A kecskeméti hivatásos tűzoltók áramtalanították a furgont. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Jakabszállás, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "91998",
       "datetime": "2026.09.15. 14:16",
