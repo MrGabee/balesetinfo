@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T18:04:28.097408+00:00",
-  "count": 3347,
+  "updated_at": "2026-09-15T18:07:39.178784+00:00",
+  "count": 3348,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92006",
+      "datetime": "2026.09.15. 20:05",
+      "title": "Árokba hajtott és felborult egy autó Csengeren",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92006",
+      "lead": "A Móricz Zsigmond utcában dolgoznak a tűzoltók.",
+      "body": "Árokba hajtott és felborult egy személygépkocsi Csengeren, a Móricz Zsigmond utcában.  A helyi önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Csenger, Móricz Zsigmond utca",
+      "updates": []
+    },
     {
       "id": "92005",
       "datetime": "2026.09.15. 19:16",
