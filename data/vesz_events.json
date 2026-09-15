@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T10:18:03.994884+00:00",
-  "count": 3333,
+  "updated_at": "2026-09-15T10:22:08.272372+00:00",
+  "count": 3334,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91992",
+      "datetime": "2026.09.15. 12:21",
+      "title": "Baleset történt az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91992",
+      "lead": "A gyáli csomópontban forgalmi akadály van.",
+      "body": "A közútkezelő gépkocsijának ütközött egy kisteherautó az M0-s autóút Megyeri híd felé vezető oldalán, a gyáli csomópontban. A balesethez a fővárosi hivatásos tűzoltókat riasztották, és kivonultak a mentők is. Az érintett útszakasz egy sávján forgalmi akadály van.",
+      "location": "Gyál, M0",
+      "updates": []
+    },
     {
       "id": "91991",
       "datetime": "2026.09.15. 12:05",
