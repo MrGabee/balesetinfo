@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T11:26:57.427991+00:00",
-  "count": 3338,
+  "updated_at": "2026-09-15T11:31:02.967516+00:00",
+  "count": 3339,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91997",
+      "datetime": "2026.09.15. 13:30",
+      "title": "Három autó ütközött Soroksáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91997",
+      "lead": "A Helsinki úton forgalmi akadály van.",
+      "body": "Egymásnak ütközött három személygépkocsi Budapest XXIII. kerületében, a Helsinki úton. Az autókban összesen öten utaztak. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Helsinki út",
+      "updates": []
+    },
     {
       "id": "91996",
       "datetime": "2026.09.15. 13:21",
@@ -255,9 +266,9 @@
       "title": "Baleset történt Bicskén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91976",
-      "lead": "A Rózsa utcában hajtott árokba egy autó.",
-      "body": "Árokba sodródott egy személyautó Bicskén, a Rózsa utcában, a Csók utca közelében. A járműben ketten utaztak, a mentők vizsgálják őket. A város önkormányzati tűzoltói áramtalanították a gépkocsit.",
-      "location": "Bicske, Rózsa utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
