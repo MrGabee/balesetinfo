@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T10:04:30.605071+00:00",
-  "count": 3332,
+  "updated_at": "2026-09-15T10:08:10.528524+00:00",
+  "count": 3333,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91991",
+      "datetime": "2026.09.15. 12:05",
+      "title": "Összeütközött két autó a XII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91991",
+      "lead": "A tűzoltók a Németvölgyi úton áramtalanították a járműveket.",
+      "body": "Karambolozott két személyautó Budapest XII. kerületében, a Németvölgyi úton, a Jagelló út közelében. A fővárosi hivatásos tűzoltók vonultak ki a balesethez. A raj áramtalanította a járműveket.",
+      "location": "Budapest, Németvölgyi út",
+      "updates": []
+    },
     {
       "id": "91990",
       "datetime": "2026.09.15. 11:52",
