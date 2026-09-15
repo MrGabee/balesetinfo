@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T08:23:38.982890+00:00",
-  "count": 3329,
+  "updated_at": "2026-09-15T08:27:16.592371+00:00",
+  "count": 3330,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91988",
+      "datetime": "2026.09.15. 10:26",
+      "title": "Karambol az M0-án",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91988",
+      "lead": "Pécel térségében forgalmi akadály van.",
+      "body": "Összeütközött két kamion és egy teherautó az M0-ás autóúton, az M1-es felé, Pécel térségében, az 50-es kilométerszelvénynél. A fővárosi hivatásos tűzoltók feszítővágó segítségével kiszabadítottak egy sofőrt és áramtalanítják a járműveket. A helyszínre mentő is érkezett.  Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Pécel, Határ utca",
+      "updates": []
+    },
     {
       "id": "91987",
       "datetime": "2026.09.15. 08:31",
