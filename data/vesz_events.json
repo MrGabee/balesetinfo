@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T02:54:51.505199+00:00",
-  "count": 3326,
+  "updated_at": "2026-09-15T02:58:04.828089+00:00",
+  "count": 3327,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "91985",
+      "datetime": "2026.09.15. 04:56",
+      "title": "Baleset történt Rákoshegyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91985",
+      "lead": "A Ferihegyi úton két gépkocsi ütközött össze.",
+      "body": "Két autó karambolozott Budapest tizenhetedik kerületében, a Ferihegyi úton. A fővárosi hivatásos tűzoltók áramtalanítottak. A járművek utasaihoz mentőt riasztottak. Az érintett szakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Ferihegyi út",
+      "updates": []
+    },
     {
       "id": "91984",
       "datetime": "2026.09.14. 23:23",
