@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T17:50:36.614130+00:00",
+  "updated_at": "2026-09-15T17:53:53.016399+00:00",
   "count": 3347,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -326,10 +326,27 @@
       "title": "Kigyulladt egy épület Orgovány mellett",
       "category": "Kigyulladt egy épület Orgovány mellett",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91977",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A nádtetős ház tetőszerkezete lángol.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nádtetős épület tetőszerkezete egy Orgovány melletti tanyán. A helyszínre elsőként az orgoványi önkéntes tűzoltók érkeztek ki, akik két vízsugárral oltani kezdték a lángokat, illetve védik a melléképületet. Az önkéntesek átvizsgálták az épület belsejét, senkit nem találtak odabenn. A helyszínre érkezett a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat, és oda tartanak a kecskeméti és kiskőrösi hivatásos tűzoltók is.",
+      "location": "Orgovány, külterület",
+      "updates": [
+        {
+          "title": "Körülhatárolták az Orgovány melletti tüzet",
+          "datetime": "2026.09.14. 19:03",
+          "category": "Tűzeset",
+          "text": "A nádtetős tanyaépület tetőszerkezete gyulladt ki. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával kecskeméti és kiskőrösi hivatásos, valamint orgoványi önkéntes tűzoltók avatkoznak be. Az egységek több vízsugárral oltják a lángokat, illetve megbontják a tetőt. A rajok már körülhatárolták a tüzet.",
+          "location": "Orgovány, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91977/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91977"
+        },
+        {
+          "title": "Már az utómunkálatok zajlanak az orgoványi tanyán",
+          "datetime": "2026.09.14. 21:15",
+          "category": "Tűzeset",
+          "text": "A település külterületén kora este gyulladt ki egy nádtetős tanyaépület. Orgoványi, kecskeméti és kiskőrösi tűzoltók többórás munkával körülhatárolták, megfékezték a tüzet. Az egységek minden irányból, hőkamerával átvizsgálták a födémet. A rajok már az utómunkálatoknál tartanak még egyszer átlocsolják a nádat.",
+          "location": "Orgovány, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91977/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91977"
+        }
+      ]
     },
     {
       "id": "91976",
