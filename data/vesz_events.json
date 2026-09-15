@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-15T17:14:40.947242+00:00",
-  "count": 3346,
+  "updated_at": "2026-09-15T17:18:13.334110+00:00",
+  "count": 3347,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92005",
+      "datetime": "2026.09.15. 19:16",
+      "title": "Négy autó ütközött Budapest XV. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92005",
+      "lead": "A Szentmihályi úton forgalmi akadály van.",
+      "body": "Összeütközött négy személygépkocsi Budapest XV. kerületében, a Szentmihályi úton. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Szentmihályi út",
+      "updates": []
+    },
     {
       "id": "92004",
       "datetime": "2026.09.15. 18:44",
