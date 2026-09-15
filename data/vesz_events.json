@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:49:09.979698+00:00",
+  "updated_at": "2026-09-15T12:52:24.679228+00:00",
   "count": 3340,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -210,7 +210,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.14. 20:24",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91980/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91980"
+        }
+      ]
     },
     {
       "id": "91979",
@@ -244,6 +253,14 @@
       "body": "Kigyulladt és teljes terjedelmében ég egy nádtetős épület tetőszerkezete egy Orgovány melletti tanyán. A helyszínre elsőként az orgoványi önkéntes tűzoltók érkeztek ki, akik két vízsugárral oltani kezdték a lángokat, illetve védik a melléképületet. Az önkéntesek átvizsgálták az épület belsejét, senkit nem találtak odabenn. A helyszínre érkezett a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat, és oda tartanak a kecskeméti és kiskőrösi hivatásos tűzoltók is.",
       "location": "Orgovány, külterület",
       "updates": [
+        {
+          "title": "Körülhatárolták az Orgovány melletti tüzet",
+          "datetime": "2026.09.14. 19:03",
+          "category": "Tűzeset",
+          "text": "A nádtetős tanyaépület tetőszerkezete gyulladt ki. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányításával kecskeméti és kiskőrösi hivatásos, valamint orgoványi önkéntes tűzoltók avatkoznak be. Az egységek több vízsugárral oltják a lángokat, illetve megbontják a tetőt. A rajok már körülhatárolták a tüzet.",
+          "location": "Orgovány, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91977/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91977"
+        },
         {
           "title": "Már az utómunkálatok zajlanak az orgoványi tanyán",
           "datetime": "2026.09.14. 21:15",
