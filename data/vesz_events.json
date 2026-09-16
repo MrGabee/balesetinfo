@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T19:07:07.275043+00:00",
-  "count": 3386,
+  "updated_at": "2026-09-16T19:10:38.998442+00:00",
+  "count": 3387,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92045",
+      "datetime": "2026.09.16. 21:10",
+      "title": "Ráfutásos baleset az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92045",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Pécelnél, az M0-s autóút 49-es kilométerénél, az M31-es autópálya felé vezető oldalon. A fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók végzik a műszaki mentést. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Pécel, Búzavirág utca",
+      "updates": []
+    },
     {
       "id": "92044",
       "datetime": "2026.09.16. 19:40",
