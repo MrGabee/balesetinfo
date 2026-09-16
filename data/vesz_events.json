@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T13:00:31.997356+00:00",
-  "count": 3371,
+  "updated_at": "2026-09-16T13:03:59.879621+00:00",
+  "count": 3372,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92030",
+      "datetime": "2026.09.16. 15:02",
+      "title": "Karambolozott két autó Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92030",
+      "lead": "A Nádor utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött két személyautó Budapest IV. kerületében, a Nádor utcában, a Vécsey Károly utca közelében. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. A baleset miatt lezárták a Nádor utca érintett szakaszát, ami a közösségi közlekedést is érinti.",
+      "location": "Budapest, Nádor utca",
+      "updates": []
+    },
     {
       "id": "92029",
       "datetime": "2026.09.16. 14:48",
