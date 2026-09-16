@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T14:14:23.538805+00:00",
-  "count": 3374,
+  "updated_at": "2026-09-16T14:17:37.676621+00:00",
+  "count": 3375,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92033",
+      "datetime": "2026.09.16. 16:16",
+      "title": "Összeütközött két autó a 6213-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92033",
+      "lead": "Dinnyés közelében egy szakaszon egy sávon halad a forgalom.",
+      "body": "Egymásnak ütközött két személyautó a Gárdonyhoz tartozó Dinnyés közelében, a 6213-as út Seregélyesre vezető szakaszán. A járművekben összesen hárman utaztak, mindannyian ki tudtak szállni. A székesfehérvári hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén egy sávon halad a forgalom. A NOÉ Speciális Kutató-mentő és Önkéntes Tűzoltó Egyesület önkéntesei is kivonultak a karambolhoz.",
+      "location": "Gárdony, 6213",
+      "updates": []
+    },
     {
       "id": "92032",
       "datetime": "2026.09.16. 15:38",
