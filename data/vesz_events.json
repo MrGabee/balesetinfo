@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T10:44:19.934191+00:00",
-  "count": 3367,
+  "updated_at": "2026-09-16T10:47:51.142768+00:00",
+  "count": 3368,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92026",
+      "datetime": "2026.09.16. 12:46",
+      "title": "Autó és melléképület ég Békésen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92026",
+      "lead": "A Bólyai utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy személygépkocsi Békésen, a Bólyai utcában, A tűz a szomszédos melléképület tetejére és egyik helyiségére is átterjedt. A békéscsabai és a mezőberényi hivatásos, valamint a békési önkormányzati tűzoltók egy gyulai vízszállító jármű közreműködésével oltják a lángokat.",
+      "location": "Békés, Bólyai utca",
+      "updates": []
+    },
     {
       "id": "92025",
       "datetime": "2026.09.16. 12:35",
