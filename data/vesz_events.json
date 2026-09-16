@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:59:11.900789+00:00",
-  "count": 3363,
+  "updated_at": "2026-09-16T10:03:02.684711+00:00",
+  "count": 3364,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92022",
+      "datetime": "2026.09.16. 11:59",
+      "title": "Hármas karambol a 8611-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92022",
+      "lead": "Az érintett útszakaszon irányítás mellett, váltakozva halad a forgalom.",
+      "body": "Két személygépkocsi és egy autóbusz karambolozott Kisfaludnál, a 8611-es út 8-as kilométerénél. A kapuvári hivatásos tűzoltók végzik a műszaki mentést. A busz harmincegy utasáért mentesítő járat fog érkezni a helyszínre. Az érintett útszakaszon irányítás mellett, váltakozva halad a forgalom.",
+      "location": "Kisfalud, 8611",
+      "updates": []
+    },
     {
       "id": "92021",
       "datetime": "2026.09.16. 11:56",
@@ -381,9 +392,9 @@
       "title": "Karambol az M0-án",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91988",
-      "lead": "Pécel térségében forgalmi akadály van.",
-      "body": "Összeütközött két kamion és egy teherautó az M0-ás autóúton, az M1-es felé, Pécel térségében, az 50-es kilométerszelvénynél. A fővárosi hivatásos tűzoltók feszítővágó segítségével kiszabadítottak egy sofőrt és áramtalanítják a járműveket. A helyszínre mentő is érkezett.  Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Pécel, Határ utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
