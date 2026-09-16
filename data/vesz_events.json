@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T15:31:19.382892+00:00",
-  "count": 3379,
+  "updated_at": "2026-09-16T15:34:10.496477+00:00",
+  "count": 3380,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92038",
+      "datetime": "2026.09.16. 17:33",
+      "title": "Két autó ütközött Törökbálint külterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92038",
+      "lead": "Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "body": "Két személygépkocsi ütközött Törökbálint külterületén, a Kamaraerdei úton. A törökbálinti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Törökbálint, Kamaraerdei út",
+      "updates": []
+    },
     {
       "id": "92037",
       "datetime": "2026.09.16. 17:04",
