@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T07:46:24.562967+00:00",
-  "count": 3354,
+  "updated_at": "2026-09-16T07:50:00.038973+00:00",
+  "count": 3355,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92013",
+      "datetime": "2026.09.16. 09:49",
+      "title": "Karambol Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92013",
+      "lead": "A Pongrácz úton akadályozza a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó Budapest X. kerületében, a Pongrácz úton, a Csilla utca közelében. A járművekben összesen hárman utaztak. A fővárosi hivatásos tűztoltók vonultak ki a balesethez, amely akadályozza a forgalmat.",
+      "location": "Budapest, Pongrácz út",
+      "updates": []
+    },
     {
       "id": "92012",
       "datetime": "2026.09.16. 08:42",
