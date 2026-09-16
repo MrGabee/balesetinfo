@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T10:34:24.684387+00:00",
-  "count": 3366,
+  "updated_at": "2026-09-16T10:37:41.970728+00:00",
+  "count": 3367,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92025",
+      "datetime": "2026.09.16. 12:35",
+      "title": "Autó égett Ecséden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92025",
+      "lead": "A Kossuth Lajos utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Ecséden, a Kossuth Lajos utcában. A tűz mintegy ötven négyzetméteren a jármű környezetét is érintette. A hatvani hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Ecséd, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92024",
       "datetime": "2026.09.16. 12:15",
