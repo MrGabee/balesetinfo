@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:10:06.857686+00:00",
-  "count": 3358,
+  "updated_at": "2026-09-16T09:13:25.439792+00:00",
+  "count": 3359,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92017",
+      "datetime": "2026.09.16. 11:11",
+      "title": "Árokba hajtott egy autó Tiszalúcnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92017",
+      "lead": "A raj áramtalanítja a járművet.",
+      "body": "Tetejével az árokba hajtott egy személygépkocsi Tiszalúcnál, a 3608-as út 7-es kilométerénél. A tiszaújvárosi hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanítja a járművet.",
+      "location": "Tiszalúc, 3608",
+      "updates": []
+    },
     {
       "id": "92016",
       "datetime": "2026.09.16. 11:07",
