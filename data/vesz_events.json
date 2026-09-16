@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:42:53.200226+00:00",
-  "count": 3361,
+  "updated_at": "2026-09-16T09:45:48.647871+00:00",
+  "count": 3362,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92020",
+      "datetime": "2026.09.16. 11:43",
+      "title": "Ráfutásos baleset a III. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92020",
+      "lead": "A 11-es főút belterületi szakaszán forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest III. kerületében, a Batthyány utcában, azaz a 11-es főúton. Ráfutásos baleset történt, amelyhez a fővárosi hivatásos tűzoltók vonultak ki. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Batthyány utca",
+      "updates": []
+    },
     {
       "id": "92019",
       "datetime": "2026.09.16. 11:30",
