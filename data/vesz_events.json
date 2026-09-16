@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:06:53.352503+00:00",
-  "count": 3357,
+  "updated_at": "2026-09-16T09:10:06.857686+00:00",
+  "count": 3358,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92016",
+      "datetime": "2026.09.16. 11:07",
+      "title": "Bozótos ég Gesztelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92016",
+      "lead": "Házakat is veszélyeztet a tűz.",
+      "body": "Kigyulladt a száraz fű és a bozótos Gesztelyen, a Temetőalja utcánál. Nagy területet érint és házakat, valamint egy napelemparkot is veszélyeztet a tűz. A miskolci és a szerencsi hivatásos tűzoltók oltják a lángokat.",
+      "location": "Gesztely, Temetőalja utca",
+      "updates": []
+    },
     {
       "id": "92015",
       "datetime": "2026.09.16. 11:00",
