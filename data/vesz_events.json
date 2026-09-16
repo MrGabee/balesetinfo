@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T16:48:40.661842+00:00",
-  "count": 3383,
+  "updated_at": "2026-09-16T16:52:10.017755+00:00",
+  "count": 3384,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92042",
+      "datetime": "2026.09.16. 18:51",
+      "title": "Villanyoszlopnak ütközött egy autó Keszthelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92042",
+      "lead": "A Toldi Miklós utcában történt a baleset.",
+      "body": "Beton villanyoszlopnak ütközött egy személygépkocsi Keszthelyen, a Toldi Miklós utcában. A helyi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Keszthely, Toldi Miklós utca",
+      "updates": []
+    },
     {
       "id": "92041",
       "datetime": "2026.09.16. 18:33",
