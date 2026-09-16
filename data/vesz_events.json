@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T15:04:19.476868+00:00",
-  "count": 3378,
+  "updated_at": "2026-09-16T15:07:15.312698+00:00",
+  "count": 3379,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92037",
+      "datetime": "2026.09.16. 17:04",
+      "title": "Autótűz Igalnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92037",
+      "lead": "A 6505-ös út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személyautó Igalnál, a 6505-ös út 21-es kilométerénél. A kaposvári hivatásos tűzoltók két vízsugárral eloltották a lángokat, jelenleg az utómunkálatok zajlanak a helyszínen. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Igal, 6505",
+      "updates": []
+    },
     {
       "id": "92036",
       "datetime": "2026.09.16. 16:52",
