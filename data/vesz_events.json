@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T04:27:05.392285+00:00",
-  "count": 3350,
+  "updated_at": "2026-09-16T04:30:22.499731+00:00",
+  "count": 3351,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92009",
+      "datetime": "2026.09.16. 06:28",
+      "title": "Karambol Budapest X. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92009",
+      "lead": "A Kerepesi úton dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személygépkocsi Budapest X. kerületében, a Kerepesi út és a Keresztúri út kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre a mentők is kiérkeztek.",
+      "location": "Budapest, Kerepesi út",
+      "updates": []
+    },
     {
       "id": "92008",
       "datetime": "2026.09.15. 22:14",
