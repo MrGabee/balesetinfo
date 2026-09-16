@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T20:44:36.207090+00:00",
-  "count": 3388,
+  "updated_at": "2026-09-16T20:47:46.657983+00:00",
+  "count": 3389,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92047",
+      "datetime": "2026.09.16. 22:47",
+      "title": "Baleset történt Mátraballán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92047",
+      "lead": "Árokba borult egy autó.",
+      "body": "Tetejével az árokba borult egy személygépkocsi Mátraballán, a Fő úton. A baleset következtében a jármű kidöntött egy vasúti jelzőlámpát. A műszaki mentési munkálatok elvégzéséhez a pétervásárai hivatásos tűzoltók vonultak ki.",
+      "location": "Mátraballa, Fő út",
+      "updates": []
+    },
     {
       "id": "92046",
       "datetime": "2026.09.16. 21:34",
