@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T07:28:41.142915+00:00",
+  "updated_at": "2026-09-16T07:32:22.138079+00:00",
   "count": 3354,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -306,9 +306,9 @@
       "title": "Baleset történt Rákoshegyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91985",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Ferihegyi úton két gépkocsi ütközött össze.",
+      "body": "Két autó karambolozott Budapest tizenhetedik kerületében, a Ferihegyi úton. A fővárosi hivatásos tűzoltók áramtalanítottak. A járművek utasaihoz mentőt riasztottak. Az érintett szakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Ferihegyi út",
       "updates": []
     },
     {
@@ -317,9 +317,9 @@
       "title": "Égett egy melléképület Törökszentmiklóson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91984",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth Lajos és a Rákóczi utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy melléképületében Törökszentmiklóson, a Rákóczi és a Kossuth Lajos utca kereszteződésénél. Az épület tetőszerkezete kapott lángra a tűz kis területen elérte a főépület tetejét is. A város önkormányzati tűzoltói és szolnoki hivatásos tűzoltók több vízsugárral előbb körülhatárolták, majd elfojtották a lángokat.",
+      "location": "Törökszentmiklós, Kossuth Lajos utca",
       "updates": []
     },
     {
@@ -328,9 +328,9 @@
       "title": "Összeütközött két autó Nadapon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91983",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Haladás útra velencei és székesfehérvári tűzoltók vonultak.",
+      "body": "Két személykocsi karambolozott a 8119-es út nadapi szakaszán, vagyis a Haladás úton. A járművekben összesen hatan utaztak, mentő érkezett hozzájuk. Az autókat a helyszínre elsőként érkező velencei önkéntes tűzoltók kezdték áramtalanítani, néhány perccel később csatlakoztak hozzájuk a székesfehérvári hivatásos egységek. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Nadap, Haladás út",
       "updates": []
     },
     {
@@ -339,9 +339,9 @@
       "title": "Karambol a 36-os főút nagycserkeszi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91982",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 38-39-es kilométer között egy kisbusz és egy személyautó ütközött össze.",
+      "body": "Egymásba hajtott egy személykocsi és egy kisbusz a 36-os főút nagycserkeszi szakaszán. Az egyik járműben csak a sofőr ült, a másikban ketten utaztak, a helyszínre mentő is érkezett. A nyíregyházi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Nagycserkesz, Vasvári Pál utca",
       "updates": []
     },
     {
@@ -364,7 +364,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.14. 20:24",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91980/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F91980"
+        }
+      ]
     },
     {
       "id": "91979",
@@ -372,9 +381,9 @@
       "title": "Összeütközött két autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91979",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A bevásárlóközponthoz riasztották a város tűzoltóit.",
+      "body": "Két személykocsi karambolozott Szigetszentmiklóson, a bevásárlóközpontnál. A két járműben összesen hárman utaztak, mentő érkezett hozzájuk. A város hivatásos tűzoltói áramtalanították a kocsikat.",
+      "location": "Szigetszentmiklós, Háros",
       "updates": []
     },
     {
