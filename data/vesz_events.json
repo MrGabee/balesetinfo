@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T14:24:10.696432+00:00",
-  "count": 3376,
+  "updated_at": "2026-09-16T14:27:11.660817+00:00",
+  "count": 3377,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92035",
+      "datetime": "2026.09.16. 16:24",
+      "title": "Garázs lángolt Dombrádon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92035",
+      "lead": "A Mártírok útjára riasztották a tűzoltókat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy garázs Dombrádon, a Mártírok útján. A több mint húsz négyzetméteres építményben kerékpárt, elektromos rollert és háztartási eszközöket tároltak. A kisvárdai hivatásos tűzoltók eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Dombrád, Mártírok útja",
+      "updates": []
+    },
     {
       "id": "92034",
       "datetime": "2026.09.16. 16:21",
