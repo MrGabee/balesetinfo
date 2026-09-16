@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:55:27.932065+00:00",
-  "count": 3362,
+  "updated_at": "2026-09-16T09:59:11.900789+00:00",
+  "count": 3363,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92021",
+      "datetime": "2026.09.16. 11:56",
+      "title": "Autótűz Tolnán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92021",
+      "lead": "A Rákóczi utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy személyautó Tolnán, a Rákóczi utcában, a Jókai utcánál, egy épület közelében. A jármű motortere égett. A város önkormányzati tűzoltói eloltották a tüzet, és lehűtik a jármű felforrósodott elemeit. A beavatkozás idejére lezárták az utca érintett szakaszát.",
+      "location": "Tolna, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "92020",
       "datetime": "2026.09.16. 11:43",
