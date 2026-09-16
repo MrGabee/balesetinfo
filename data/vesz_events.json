@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T10:13:25.784801+00:00",
-  "count": 3365,
+  "updated_at": "2026-09-16T10:17:05.371507+00:00",
+  "count": 3366,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92024",
+      "datetime": "2026.09.16. 12:15",
+      "title": "Utoléréses baleset történt a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92024",
+      "lead": "Hódmezővásárhely közelében félpályán halad a forgalom.",
+      "body": "Egymásba futott két személyautó a 47-es főúton, Hódmezővásárhely közelében, a 204. kilométernél. Utoléréses baleset történt, amelynél a hódmezővásárhelyi hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik gépkocsit, a másiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Hódmezővásárhely, 47",
+      "updates": []
+    },
     {
       "id": "92023",
       "datetime": "2026.09.16. 12:04",
@@ -359,9 +370,9 @@
       "title": "Baleset történt az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91992",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A gyáli csomópontban forgalmi akadály van.",
+      "body": "A közútkezelő gépkocsijának ütközött egy kisteherautó az M0-s autóút Megyeri híd felé vezető oldalán, a gyáli csomópontban. A balesethez a fővárosi hivatásos tűzoltókat riasztották, és kivonultak a mentők is. Az érintett útszakasz egy sávján forgalmi akadály van.",
+      "location": "Gyál, M0",
       "updates": []
     },
     {
@@ -425,9 +436,9 @@
       "title": "Karambol miatt torlódik az M0-ás forgalma Gyálnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91986",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 35-ös kilométernél két teherautó karambolozott.",
+      "body": "Egymásba hajtott két tehergépkocsi az M0-ás autóút M1-es felé vezető oldalán, Gyál térségében, a vecsési és a gyál-pestszentimrei lehajtó között. A 35-ös kilométernél történt ráfutásos balesethez a fővárosi hivatásos tűzoltók vonultak. A baleset miatt az autóút forgalma több kilométer hosszan torlódik.",
+      "location": "Vecsés, M0",
       "updates": []
     },
     {
