@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T05:29:20.883957+00:00",
-  "count": 3351,
+  "updated_at": "2026-09-16T05:33:04.213211+00:00",
+  "count": 3352,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92010",
+      "datetime": "2026.09.16. 07:31",
+      "title": "Felborult egy autó az M7-es autópályán",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92010",
+      "lead": "Budaörs térségében forgalmi akadályra kell számítani.",
+      "body": "Felborult egy személygépkocsi az M7-es autópályán, a Balaton felé vezető oldalon, Budaörs térségében, a 10-es kilométerszelvénynél. A budaörsi önkéntes tűzoltók műszaki mentést végeznek. A helyszínre a mentő is kiérkezett. Az érintett pályaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budaörs, Garibaldi utca",
+      "updates": []
+    },
     {
       "id": "92009",
       "datetime": "2026.09.16. 06:28",
