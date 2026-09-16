@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T09:45:48.647871+00:00",
+  "updated_at": "2026-09-16T09:49:32.035994+00:00",
   "count": 3362,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -49,14 +49,23 @@
     },
     {
       "id": "92016",
-      "datetime": "2026.09.16. 11:07",
+      "datetime": "2026.09.16. 11:07 -",
       "title": "Bozótos ég Gesztelyen",
-      "category": "Tűzeset",
+      "category": "Bozótos ég Gesztelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92016",
       "lead": "Házakat is veszélyeztet a tűz.",
       "body": "Kigyulladt a száraz fű és a bozótos Gesztelyen, a Temetőalja utcánál. Nagy területet érint és házakat, valamint egy napelemparkot is veszélyeztet a tűz. A miskolci és a szerencsi hivatásos tűzoltók oltják a lángokat.",
       "location": "Gesztely, Temetőalja utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Gesztelyen",
+          "datetime": "2026.09.16. 11:47",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Gesztelyen, a Temetőalja utcánál, ahol kigyulladt a száraz fű és a bozótos. Mintegy két hektárra terjedt ki a tűz, amely házakat és egy napelemparkot is veszélyeztetett. A miskolci és a szerencsi hivatásos tűzoltók négy vízsugárral fékezték meg a lángokat. Jelenleg az utómunkálatok zajlanak a tűz helyszínén.",
+          "location": "Gesztely, Temetőalja utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92016/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92016"
+        }
+      ]
     },
     {
       "id": "92015",
