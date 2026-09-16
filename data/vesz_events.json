@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T17:37:12.371250+00:00",
-  "count": 3385,
+  "updated_at": "2026-09-16T17:40:58.853280+00:00",
+  "count": 3386,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92044",
+      "datetime": "2026.09.16. 19:40",
+      "title": "Autó égett a 4-esen, Üllőnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92044",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Üllőnél, a 4-es főút 30-as és 31-es kilométere közötti szakaszán. A jármű teljes terjedelmében égett. A monori hivatásos és az üllői önkéntes tűzoltók két vízsugárral elfojtották a lángokat.",
+      "location": "Üllő, 4",
+      "updates": []
+    },
     {
       "id": "92043",
       "datetime": "2026.09.16. 19:32",
