@@ -1,15 +1,26 @@
 {
-  "updated_at": "2026-09-16T09:26:06.251045+00:00",
-  "count": 3359,
+  "updated_at": "2026-09-16T09:29:18.303049+00:00",
+  "count": 3360,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92018",
+      "datetime": "2026.09.16. 11:29",
+      "title": "Karambolozott két autó Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92018",
+      "lead": "A Fő fasoron forgalmi akadályt okozott a baleset.",
+      "body": "Egymásnak ütközött két személyautó Szegeden, a Fő fasoron, a Töltés utca közelében. A város hivatásos tűzoltói végzik a műszaki mentést a karambolnál. A raj áramtalanította a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén teljes szélességben lezárták az utat.",
+      "location": "Szeged, Fő fasor",
+      "updates": []
+    },
     {
       "id": "92017",
       "datetime": "2026.09.16. 11:11",
       "title": "Árokba hajtott egy autó Tiszalúcnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92017",
-      "lead": "A raj áramtalanítja a járművet.",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
       "body": "Tetejével az árokba hajtott egy személygépkocsi Tiszalúcnál, a 3608-as út 7-es kilométerénél. A tiszaújvárosi hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanítja a járművet.",
       "location": "Tiszalúc, 3608",
       "updates": []
