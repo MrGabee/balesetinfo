@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T17:30:10.490704+00:00",
-  "count": 3384,
+  "updated_at": "2026-09-16T17:33:45.863870+00:00",
+  "count": 3385,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92043",
+      "datetime": "2026.09.16. 19:32",
+      "title": "Baleset a 47-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92043",
+      "lead": "Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "body": "Három személyautó karambolozott Derecskénél, a 47-es főút 18-as és 19-es kilométere közötti szakaszán. A baleset következtében az egyik jármű tetejével az árokba borult. A berettyóújfalui hivatásos és a konyári önkéntes tűzoltók végzik a műszaki mentést. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Derecske, 47",
+      "updates": []
+    },
     {
       "id": "92042",
       "datetime": "2026.09.16. 18:51",
