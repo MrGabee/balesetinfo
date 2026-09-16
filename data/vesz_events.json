@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T05:59:26.265326+00:00",
-  "count": 3352,
+  "updated_at": "2026-09-16T06:03:10.231161+00:00",
+  "count": 3353,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92011",
+      "datetime": "2026.09.16. 08:00",
+      "title": "Baleset történt Debrecen külterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92011",
+      "lead": "A Külső Diószegi úton félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött egy teherautó és egy személygépkocsi Debrecen külterületén, a Külső Diószegi úton. A baleset következtében az autó árokba hajtott. A debreceni hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Debrecen, Külső Diószegi út",
+      "updates": []
+    },
     {
       "id": "92010",
       "datetime": "2026.09.16. 07:31",
