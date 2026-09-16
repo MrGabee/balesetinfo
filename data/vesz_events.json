@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T08:14:04.908798+00:00",
-  "count": 3355,
+  "updated_at": "2026-09-16T08:17:39.124899+00:00",
+  "count": 3356,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92014",
+      "datetime": "2026.09.16. 10:15",
+      "title": "Autótűz Balástya térségében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92014",
+      "lead": "Az 5422-es út érintett szakaszán félpályán halad a forgalom.",
+      "body": "Kigyulladt egy személygépkocsi Balástya térségében, az 5422-es út 1-es kilométerénél. A jármű utastere égett. A kisteleki hivatásos és a balástyai önkéntes tűzoltók egy vízsugárral eloltották a lángokat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Balástya, 5422",
+      "updates": []
+    },
     {
       "id": "92013",
       "datetime": "2026.09.16. 09:49",
