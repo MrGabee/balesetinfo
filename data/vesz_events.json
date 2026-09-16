@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T13:35:35.594856+00:00",
-  "count": 3373,
+  "updated_at": "2026-09-16T13:39:05.039455+00:00",
+  "count": 3374,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92032",
+      "datetime": "2026.09.16. 15:38",
+      "title": "Tűz van Nyíregyháza külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92032",
+      "lead": "A Westsik Vilmos utcában gyulladt meg a száraz fű.",
+      "body": "Lángra lobbant a tarló és a száraz fű Nyíregyháza külterületén, a Westsik Vilmos utcában. Nagy területet, összesen három-négy telket érint a tűz, amelyben egy traktor kiégett, egy rakodógép pedig megrongálódott. Az egyik telken bontási maradványok is meggyulladtak. A nyíregyházi hivatásos tűzoltók vízsugarakkal és kéziszerszámokkal oltják a lángokat.",
+      "location": "Nyíregyháza, Westsik Vilmos utca",
+      "updates": []
+    },
     {
       "id": "92031",
       "datetime": "2026.09.16. 15:16",
