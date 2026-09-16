@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T11:41:33.615397+00:00",
-  "count": 3368,
+  "updated_at": "2026-09-16T11:44:39.483133+00:00",
+  "count": 3369,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92027",
+      "datetime": "2026.09.16. 13:43",
+      "title": "Baleset történt Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92027",
+      "lead": "Motorkerékpáros és személygépkocsi ütközött",
+      "body": "Egy személygépkocsi és egy motorkerékpáros karambolozott Szegeden, az Algyői úton, azaz a 47-es főúton, a Balatoni utca közelében. A helyi hivatásos tűzoltókat riasztották az esethez. Az egység áramtalanította a személyautót. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Szeged, Algyői út",
+      "updates": []
+    },
     {
       "id": "92026",
       "datetime": "2026.09.16. 12:46 -",
