@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T19:33:53.990804+00:00",
-  "count": 3387,
+  "updated_at": "2026-09-16T19:37:04.645729+00:00",
+  "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92046",
+      "datetime": "2026.09.16. 21:34",
+      "title": "Kamion és kisteherautó karambolozott az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92046",
+      "lead": "Lébénynél, a főváros felé vezető szakaszon történt a baleset.",
+      "body": "Összeütközött egy kisteherautó és egy kamion Lébény térségében, az M1-es autópálya 144-es kilométerénél, a Budapest felé vezető oldalon. A mosonmagyaróvári hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Lébény, M1",
+      "updates": []
+    },
     {
       "id": "92045",
       "datetime": "2026.09.16. 21:10",
@@ -75,9 +86,9 @@
       "title": "Két gépjármű karambolozott",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92039",
-      "lead": "A Dózsa György utcában dolgoznak a tűzoltók.",
-      "body": "Karambolozott két személygépkocsi Nyírlövőn, a Dózsa György utcában. A kisvárdai hivatásos tűzoltók áramtalanítják a járművet. A mentőszolgálat is a helyszínre érkezett.",
-      "location": "Nyírlövő, Dózsa György utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
