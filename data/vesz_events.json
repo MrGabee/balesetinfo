@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T16:08:32.050471+00:00",
-  "count": 3381,
+  "updated_at": "2026-09-16T16:12:03.709222+00:00",
+  "count": 3382,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92040",
+      "datetime": "2026.09.16. 18:10",
+      "title": "Karambol a 31-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92040",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két személyautó Maglódnál, a 31-es főút 26-os kilométerénél. A monori hivatásos és a gyömrői önkéntes tűzoltók végzik a műszaki mentést, amely során áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Maglód, 31",
+      "updates": []
+    },
     {
       "id": "92039",
       "datetime": "2026.09.16. 17:45",
