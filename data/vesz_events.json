@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T14:21:03.034763+00:00",
-  "count": 3375,
+  "updated_at": "2026-09-16T14:24:10.696432+00:00",
+  "count": 3376,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92034",
+      "datetime": "2026.09.16. 16:21",
+      "title": "Baleset történt a VII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92034",
+      "lead": "Két autó ütközött.",
+      "body": "Két személygépkocsi karambolozott Budapest VII. kerületében, a Nefelejcs utca és a Marek József utca kereszteződésénél. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltók vonultak ki. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Nefelejcs utca",
+      "updates": []
+    },
     {
       "id": "92033",
       "datetime": "2026.09.16. 16:16",
