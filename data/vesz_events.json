@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:00:29.844618+00:00",
-  "count": 3356,
+  "updated_at": "2026-09-16T09:03:46.848658+00:00",
+  "count": 3357,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92015",
+      "datetime": "2026.09.16. 11:00",
+      "title": "Villamos és autó ütközött Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92015",
+      "lead": "A baleset akadályozza a villamosforgalmat.",
+      "body": "Összeüközött egy személyautó és egy villamos Szegeden, a Boldogasszony sugárút és a Galamb utca kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították a személygépkocsit. A társhatóságok is a helyszínre érkeztek. A baleset akadályozza a villamosforgalmat.",
+      "location": "Szeged, Boldogasszony sugárút",
+      "updates": []
+    },
     {
       "id": "92014",
       "datetime": "2026.09.16. 10:15",
