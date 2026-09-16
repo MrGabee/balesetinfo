@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:48:51.943642+00:00",
+  "updated_at": "2026-09-16T18:52:12.192751+00:00",
   "count": 3386,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -144,7 +144,16 @@
       "lead": "A Westsik Vilmos utcában gyulladt meg a száraz fű.",
       "body": "Lángra lobbant a tarló és a száraz fű Nyíregyháza külterületén, a Westsik Vilmos utcában. Nagy területet, összesen három-négy telket érint a tűz, amelyben egy traktor kiégett, egy rakodógép pedig megrongálódott. Az egyik telken bontási maradványok is meggyulladtak. A nyíregyházi hivatásos tűzoltók vízsugarakkal és kéziszerszámokkal oltják a lángokat.",
       "location": "Nyíregyháza, Westsik Vilmos utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Nyíregyháza külterületén",
+          "datetime": "2026.09.16. 16:29",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Nyíregyháza külterületén, a Westsik Vilmos utcában keletkezett. Mintegy kétezer négyzetméteren száraz fű, bozótos, gépjárműroncsok és összehordott törmelékek égtek. A nyíregyházi hivatásos tűzoltók a város tűzoltóparancsnokának irányítása mellett, egy vízszállító jármű közreműködésével, öt vízsugárral, valamint kéziszerszámokkal fékezték meg a tüzet, amelyben egy gázpalack is felrobbant. A nagy füst miatt a rajok légzőkészüléket is használtak a munkálatok során.",
+          "location": "Nyíregyháza, Westsik Vilmos utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92032/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92032"
+        }
+      ]
     },
     {
       "id": "92031",
