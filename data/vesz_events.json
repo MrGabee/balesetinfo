@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T14:51:04.019951+00:00",
-  "count": 3377,
+  "updated_at": "2026-09-16T14:54:06.065893+00:00",
+  "count": 3378,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92036",
+      "datetime": "2026.09.16. 16:52",
+      "title": "Egymásnak ütközött két gépkocsi a XXIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92036",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Grassalkovich úton.",
+      "body": "Személygépkocsi és kisteherautó karambolozott Budapest XXIII. kerületében, a Grassalkovich úton, a Hunyadi utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A raj megszünteti a forgalmi akadályt.",
+      "location": "Budapest, Grassalkovich út",
+      "updates": []
+    },
     {
       "id": "92035",
       "datetime": "2026.09.16. 16:24",
