@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T06:41:41.593579+00:00",
-  "count": 3353,
+  "updated_at": "2026-09-16T06:44:40.500246+00:00",
+  "count": 3354,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92012",
+      "datetime": "2026.09.16. 08:42",
+      "title": "Két autó karambolozott a 6219-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92012",
+      "lead": "Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Nagyvenyimnél, a 6219-es út 6-os kilométerénél. A dunaújvárosi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak. A helyszínre mentőhelikopter is érkezni fog. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Nagyvenyim, 6219",
+      "updates": []
+    },
     {
       "id": "92011",
       "datetime": "2026.09.16. 08:00",
