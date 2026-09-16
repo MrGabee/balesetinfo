@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T16:31:37.552519+00:00",
-  "count": 3382,
+  "updated_at": "2026-09-16T16:34:57.212970+00:00",
+  "count": 3383,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92041",
+      "datetime": "2026.09.16. 18:33",
+      "title": "Két autó ütközött a XXII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92041",
+      "lead": "A tűzoltók a Balatoni úton dolgoznak.",
+      "body": "Két személyautó ütközött Budapest XXII. kerületében, a Balatoni úton. A karambol helyszínén egy gépkocsi is az árokba borult. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóság is az esetnél dolgozik.",
+      "location": "Budapest, Balatoni út",
+      "updates": []
+    },
     {
       "id": "92040",
       "datetime": "2026.09.16. 18:10",
