@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T09:29:18.303049+00:00",
-  "count": 3360,
+  "updated_at": "2026-09-16T09:32:50.295045+00:00",
+  "count": 3361,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92019",
+      "datetime": "2026.09.16. 11:30",
+      "title": "Épület égett Ibrányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92019",
+      "lead": "A Toldi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy épület Ibrányban, a Toldi utcában. A mintegy negyven négyzetméteres épület teljes terjedelmében égett. A nyíregyházai hivatásos és az ibrányi önkormányzati tűzoltók két vízsugárral fojtották el a lángokat.",
+      "location": "Ibrány, Toldi utca",
+      "updates": []
+    },
     {
       "id": "92018",
       "datetime": "2026.09.16. 11:29",
