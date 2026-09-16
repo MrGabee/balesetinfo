@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T15:44:33.343607+00:00",
-  "count": 3380,
+  "updated_at": "2026-09-16T15:47:58.373453+00:00",
+  "count": 3381,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92039",
+      "datetime": "2026.09.16. 17:45",
+      "title": "Két gépjármű karambolozott",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92039",
+      "lead": "A Dózsa György utcában dolgoznak a tűzoltók.",
+      "body": "Karambolozott két személygépkocsi Nyírlövőn, a Dózsa György utcában. A kisvárdai hivatásos tűzoltók áramtalanítják a járművet. A mentőszolgálat is a helyszínre érkezett.",
+      "location": "Nyírlövő, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "92038",
       "datetime": "2026.09.16. 17:33",
