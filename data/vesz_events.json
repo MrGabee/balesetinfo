@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T13:14:28.892624+00:00",
-  "count": 3372,
+  "updated_at": "2026-09-16T13:17:58.115612+00:00",
+  "count": 3373,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92031",
+      "datetime": "2026.09.16. 15:16",
+      "title": "Összeütközött két autó az 5202-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92031",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött két személygépkocsi Bugyi külterületén, az 5202-es út 20-as kilométerénél. A baleset következtében mind a két jármű az árokba borult. A dabasi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Bugyi, 5202",
+      "updates": []
+    },
     {
       "id": "92030",
       "datetime": "2026.09.16. 15:02",
@@ -73,9 +84,9 @@
       "title": "Autó égett Ecséden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92025",
-      "lead": "A Kossuth Lajos utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Ecséden, a Kossuth Lajos utcában. A tűz mintegy ötven négyzetméteren a jármű környezetét is érintette. A hatvani hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
-      "location": "Ecséd, Kossuth Lajos utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -172,10 +183,19 @@
       "title": "Bozótos ég Gesztelyen",
       "category": "Bozótos ég Gesztelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92016",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Házakat is veszélyeztet a tűz.",
+      "body": "Kigyulladt a száraz fű és a bozótos Gesztelyen, a Temetőalja utcánál. Nagy területet érint és házakat, valamint egy napelemparkot is veszélyeztet a tűz. A miskolci és a szerencsi hivatásos tűzoltók oltják a lángokat.",
+      "location": "Gesztely, Temetőalja utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Gesztelyen",
+          "datetime": "2026.09.16. 11:47",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Gesztelyen, a Temetőalja utcánál, ahol kigyulladt a száraz fű és a bozótos. Mintegy két hektárra terjedt ki a tűz, amely házakat és egy napelemparkot is veszélyeztetett. A miskolci és a szerencsi hivatásos tűzoltók négy vízsugárral fékezték meg a lángokat. Jelenleg az utómunkálatok zajlanak a tűz helyszínén.",
+          "location": "Gesztely, Temetőalja utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92016/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92016"
+        }
+      ]
     },
     {
       "id": "92015",
