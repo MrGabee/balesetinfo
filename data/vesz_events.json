@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-16T10:03:02.684711+00:00",
-  "count": 3364,
+  "updated_at": "2026-09-16T10:06:39.079517+00:00",
+  "count": 3365,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92023",
+      "datetime": "2026.09.16. 12:04",
+      "title": "Lángra kapott az aljnövényzet a XVIII. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92023",
+      "lead": "A Ferihegyi repülőtérre vezető útnál volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz keletkezett Budapest XVIII. kerületében, a Ferihegyi repülőtérre vezető út mellett. Két helyszínen, mintegy negyven, illetve harminc négyzetméteren égett az aljnövényzet. A fővárosi hivatásos tűzoltók egy vízsugárral és kéziszerszámokkal megakadályozták a tűz továbbterjedését, majd eloltották a lángokat.",
+      "location": "Budapest, Ferihegyi repülőtérre vezető út",
+      "updates": []
+    },
     {
       "id": "92022",
       "datetime": "2026.09.16. 11:59",
@@ -249,9 +260,9 @@
       "title": "Tarló égett Ludasnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92001",
-      "lead": "Nagy területet érintett a tűz, amelyet megfékeztek a tűzoltók.",
-      "body": "Kigyulladt a tarló és a bozótos Ludas külterületén. Mintegy ötven hektárt érintett, és házakat is veszélyeztetett a tűz, amelyet a gyöngyösi hivatásos tűzoltók oltottak el. A beavatkozásban a ludasi önkéntes tűzoltók is részt vettek, és erőgép is segítette a munkálatokat.",
-      "location": "Ludas, Ludas külterülete",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,9 +403,9 @@
       "title": "Karambol az M0-án",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/91988",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pécel térségében forgalmi akadály van.",
+      "body": "Összeütközött két kamion és egy teherautó az M0-ás autóúton, az M1-es felé, Pécel térségében, az 50-es kilométerszelvénynél. A fővárosi hivatásos tűzoltók feszítővágó segítségével kiszabadítottak egy sofőrt és áramtalanítják a járműveket. A helyszínre mentő is érkezett.  Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Pécel, Határ utca",
       "updates": []
     },
     {
