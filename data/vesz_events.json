@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:09:22.447586+00:00",
+  "updated_at": "2026-09-17T13:12:51.639314+00:00",
   "count": 3406,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -117,10 +117,19 @@
       "title": "Hármas karambol a 4-es főúton",
       "category": "Hármas karambol a 4-es főúton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92055",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Hajdúszoboszló és Kaba között akadályozza a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó és egy betonszállító tehergépkocsi a 4-es főút Hajdúszoboszló és Kaba közötti szakaszán, a 97. kilométer közelében. A műszaki mentést végző hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúszoboszló, 4",
+      "updates": [
+        {
+          "title": "Karambol a 4-es főúton: csak érintőlegesen ütköztek egy teherautónak a személygépkocsik",
+          "datetime": "2026.09.17. 11:25",
+          "category": "Közlekedési baleset",
+          "text": "Még tart az útzár a 4-es főút Hajdúszoboszló és Kaba közötti szakaszán, a 97. kilométer közelében, ahol baleset történt a délelőtti órákban. A friss értesülések szerint két személygépkocsi karambolozott, és ezek csak érintőlegesen ütköztek neki egy betonszállító teherautónak. A műszaki mentést végző hajdúszoboszlói hivatásos tűzoltók a személyautókat áramtalanították.",
+          "location": "Hajdúszoboszló, 4",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92055/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92055"
+        }
+      ]
     },
     {
       "id": "92054",
@@ -423,9 +432,9 @@
       "title": "Összeütközött két autó Veszprémben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92028",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Házgyári úton végeznek műszaki mentés a tűzoltók, akik egy embert kiszabadítottak az egyik járműből.",
+      "body": "Karambolozott két személyautó Veszprémben, a Házgyári úton, a Kistó utcánál. A járművekben összesen hat ember utazott, közülük egy beszorult az egyik gépkocsiba. Őt kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző veszprémi hivatásos tűzoltók. A rajok áramtalanították a járműveket. Az érintett útszakaszon váltakozó irányban, egy sávon halad a forgalom.",
+      "location": "Veszprém, Házgyári út",
       "updates": []
     },
     {
