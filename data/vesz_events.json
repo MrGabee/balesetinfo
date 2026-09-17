@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T16:21:28.803345+00:00",
-  "count": 3416,
+  "updated_at": "2026-09-17T16:25:09.069144+00:00",
+  "count": 3417,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92075",
+      "datetime": "2026.09.17. 18:23",
+      "title": "Három kamion karambolozott az M1-esen, Tatabányánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92075",
+      "lead": "Egy sáv járható a határ felé vezető irányban.",
+      "body": "Három kamion ütközött össze az M1-es autópálya 57-es és 58-as kilométerszelvénye között, Tatabánya térségében, a Hegyeshalom felé vezető irányban. A tatabányai hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak a helyszínen, ahol egy sáv járható az érintett pályaszakaszon. A balesethez a mentők is kiérkeztek.",
+      "location": "Tatabánya, M1",
+      "updates": []
+    },
     {
       "id": "92074",
       "datetime": "2026.09.17. 17:51",
