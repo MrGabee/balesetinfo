@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T15:48:09.339289+00:00",
-  "count": 3415,
+  "updated_at": "2026-09-17T15:51:08.181836+00:00",
+  "count": 3416,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92074",
+      "datetime": "2026.09.17. 17:51",
+      "title": "Családi ház teteje ég Nagykőrösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92074",
+      "lead": "A tűz egy garázst is veszélyeztet.",
+      "body": "Egy nyolcvan négyzetméteres családi ház tetőszerkezete ég teljes egészében Nagykőrösön, a Szegfű utcában. A tűz következtében a tető folyamatosan omlik be, a lángok egy hatvan négyzetméteres garázst veszélyeztetnek. A nagykőrösi önkormányzati tűzoltókat követően a ceglédi hivatásos tűzoltók is a helyszínre értek, dolgoznak a tűz megfékezésén.",
+      "location": "Nagykőrös, Szegfű utca",
+      "updates": []
+    },
     {
       "id": "92073",
       "datetime": "2026.09.17. 17:45",
