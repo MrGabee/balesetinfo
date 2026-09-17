@@ -1,18 +1,38 @@
 {
-  "updated_at": "2026-09-17T09:24:01.712536+00:00",
-  "count": 3397,
+  "updated_at": "2026-09-17T09:26:59.272074+00:00",
+  "count": 3398,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "92056",
+      "datetime": "2026.09.17. 11:25",
+      "title": "Tolatómozdonyban keletkezett tűz a XVI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92056",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
+    {
       "id": "92055",
-      "datetime": "2026.09.17. 10:39",
+      "datetime": "2026.09.17. 10:39 -",
       "title": "Hármas karambol a 4-es főúton",
-      "category": "Közlekedési baleset",
+      "category": "Hármas karambol a 4-es főúton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92055",
       "lead": "Hajdúszoboszló és Kaba között akadályozza a forgalmat a baleset.",
       "body": "Összeütközött két személyautó és egy betonszállító tehergépkocsi a 4-es főút Hajdúszoboszló és Kaba közötti szakaszán, a 97. kilométer közelében. A műszaki mentést végző hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
       "location": "Hajdúszoboszló, 4",
-      "updates": []
+      "updates": [
+        {
+          "title": "Karambol a 4-es főúton: csak érintőlegesen ütköztek egy teherautónak a személygépkocsik",
+          "datetime": "2026.09.17. 11:25",
+          "category": "Közlekedési baleset",
+          "text": "Még tart az útzár a 4-es főút Hajdúszoboszló és Kaba közötti szakaszán, a 97. kilométer közelében, ahol baleset történt a délelőtti órákban. A friss értesülések szerint két személygépkocsi karambolozott, és ezek csak érintőlegesen ütköztek neki egy betonszállító teherautónak. A műszaki mentést végző hajdúszoboszlói hivatásos tűzoltók a személyautókat áramtalanították.",
+          "location": "Hajdúszoboszló, 4",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92055/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92055"
+        }
+      ]
     },
     {
       "id": "92054",
