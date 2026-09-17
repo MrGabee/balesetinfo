@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T13:43:39.459178+00:00",
-  "count": 3409,
+  "updated_at": "2026-09-17T13:47:16.087295+00:00",
+  "count": 3410,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92068",
+      "datetime": "2026.09.17. 15:43",
+      "title": "Családi ház ég Püspökladányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92068",
+      "lead": "A lakó egy gázpalackot kihozott az épületből.",
+      "body": "Egy nyolcvan négyzetméteres család ház ég teljes egészében Püspökladányban, a Szénatéren. A tűz átterjedt az épület melletti mezőre. A püspökladányi, a karcagi és a hajdúszoboszlói hivatásos tűzoltók mellett Berettyóújfaluról egy vízszállító is érkezett a helyszínre. A ház lakója az egységek kiérkezése előtt kihozott az épületből egy gázpalackot, amely még a házban felrobbant. A tűzoltók már megakadályozták a ház tüzének továbbterjedését, folytatják a munkálatokat.",
+      "location": "Püspökladány, Szénatér",
+      "updates": []
+    },
     {
       "id": "92067",
       "datetime": "2026.09.17. 15:30",
@@ -170,9 +181,9 @@
       "title": "Két autó karambolozott Gyöngyösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92054",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Összeütközött két gépkocsi Gyöngyösön, Püspöki utcában, a Rédei út közelében. Hárman utaztak összesen a járművekben, amelyek közül az egyiket a város hivatásos tűzoltói áramtalanították. A balesethez a társhatóságok is kiérkeztek az egység mellett.",
+      "location": "Gyöngyös, Püspöki utca",
       "updates": []
     },
     {
