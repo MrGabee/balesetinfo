@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T15:34:20.223311+00:00",
-  "count": 3413,
+  "updated_at": "2026-09-17T15:37:50.853791+00:00",
+  "count": 3414,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92072",
+      "datetime": "2026.09.17. 17:35",
+      "title": "Motoros és személyautó karambolozott egymással az 55-ösön, Ásotthalomnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92072",
+      "lead": "Lezárták az érintett útszakaszt a hatósági beavatkozás idejére.",
+      "body": "Egy motorkerékpáros és egy személyautó ütközött össze az 55-ös főút 27-es kilométerszelvényénél, Ásotthalom térségében. Az ásotthalmi és a mórahalmi önkéntes tűzoltók, valamint a társhatóságok járművei mellett mentőhelikopter is érkezett a balesethez. A munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Ásotthalom, 55",
+      "updates": []
+    },
     {
       "id": "92071",
       "datetime": "2026.09.17. 17:11",
