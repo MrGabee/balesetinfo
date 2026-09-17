@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T05:08:55.883676+00:00",
-  "count": 3391,
+  "updated_at": "2026-09-17T05:12:24.775794+00:00",
+  "count": 3392,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92050",
+      "datetime": "2026.09.17. 07:10",
+      "title": "Családi ház konyhája égett Ricsén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92050",
+      "lead": "A Kossuth Lajos utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy lakóház konyhája Ricsén, a Kossuth Lajos utcában. A munkálatok során a cigándi hivatásos tűzoltók három gázpalackot is kihoztak az ingatlanból. A raj egy vízsugárral fojtotta el a lángokat.",
+      "location": "Ricse, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92049",
       "datetime": "2026.09.17. 04:29",
