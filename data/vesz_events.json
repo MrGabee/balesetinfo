@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T13:56:26.750230+00:00",
-  "count": 3410,
+  "updated_at": "2026-09-17T14:00:05.695596+00:00",
+  "count": 3411,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92069",
+      "datetime": "2026.09.17. 15:58",
+      "title": "Vonat és teherautó ütközött össze Debrecennél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92069",
+      "lead": "A tűzoltók segítettek leszállni a szerelvény utasainak.",
+      "body": "Teherautóval ütközött össze egy személyvonat a Debrecenhez tartozó Kismacsnál, a 33-as főút mellett, egy vasúti átjáróban. A műszaki mentést végző debreceni hivatásos tűzoltók segítettek leszállni a szerelvényről a vonat tizenöt utasának. Értük mentesítő autóbusz érkezett a baleset helyszínére, ahol nagy mennyiségű motorolaj és törmelék került az útburkolatra. A rajok áramtalanítják a gépkocsit.",
+      "location": "Debrecen, Kismacs",
+      "updates": []
+    },
     {
       "id": "92068",
       "datetime": "2026.09.17. 15:43",
