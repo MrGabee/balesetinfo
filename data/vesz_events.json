@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T11:59:37.340529+00:00",
-  "count": 3403,
+  "updated_at": "2026-09-17T12:03:18.678798+00:00",
+  "count": 3404,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92062",
+      "datetime": "2026.09.17. 14:01",
+      "title": "Árokba csapódott egy autó Nyírbéltek és Penészlek között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92062",
+      "lead": "Lezárták a 4906-os út érintett szakaszát a baleset miatt.",
+      "body": "Árokba csapódott egy gépkocsi Nyírbéltek és Penészlek között, a 4906-os út 18-as kilométerszelvényénél. A járműben csak a vezetője utazott. A balesethez a nyírbátori hivatásos és a nyírbélteki önkéntes tűzoltók mellett a társhatóságok is kiérkeztek, a tűzoltók áramtalanították a bajba került autót. Az érintett útszakaszt lezárták a hatósági munkálatok idejére.",
+      "location": "Nyírbéltek, 4906",
+      "updates": []
+    },
     {
       "id": "92061",
       "datetime": "2026.09.17. 13:48",
@@ -137,9 +148,9 @@
       "title": "Letért az úttestről egy autó Igal és Ráksi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92051",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók emelték ki a vezetőt a járműből.",
+      "body": "Letért az úttestről, majd oldalával a szántásba borult egy gépkocsi Igal és Ráksi között, a 6505-ös út 20-as kilométerszelvényénél. A járműben csak a vezetője utazott, aki beszorult, a kaposvári hivatásos tűzoltók emelték ki a kocsi megtámasztását követően. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Ráksi, 6505",
       "updates": []
     },
     {
@@ -192,9 +203,9 @@
       "title": "Kamion és kisteherautó karambolozott az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92046",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lébénynél, a főváros felé vezető szakaszon történt a baleset.",
+      "body": "Összeütközött egy kisteherautó és egy kamion Lébény térségében, az M1-es autópálya 144-es kilométerénél, a Budapest felé vezető oldalon. A mosonmagyaróvári hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Lébény, M1",
       "updates": []
     },
     {
