@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T10:34:14.397697+00:00",
-  "count": 3399,
+  "updated_at": "2026-09-17T10:37:44.158208+00:00",
+  "count": 3400,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92058",
+      "datetime": "2026.09.17. 12:37",
+      "title": "Melléképület ég Kecskéden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92058",
+      "lead": "A tűzoltók a Fő utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Kecskéden, a Fő utcában. A tatabányai hivatásos, az oroszlányi önkormányzati és a kecskédi önkéntes tűzoltók oltják a lángokat. A rajok kihoztak két hegesztőpalackot az ingatlanból.",
+      "location": "Kecskéd, Fő utca",
+      "updates": []
+    },
     {
       "id": "92057",
       "datetime": "2026.09.17. 11:43",
