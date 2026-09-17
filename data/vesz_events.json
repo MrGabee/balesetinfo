@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:43:31.449342+00:00",
+  "updated_at": "2026-09-17T14:47:17.653196+00:00",
   "count": 3411,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92068",
-      "datetime": "2026.09.17. 15:43",
+      "datetime": "2026.09.17. 15:43 -",
       "title": "Családi ház ég Püspökladányban",
-      "category": "Tűzeset",
+      "category": "Családi ház ég Püspökladányban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92068",
       "lead": "A lakó egy gázpalackot kihozott az épületből.",
       "body": "Egy nyolcvan négyzetméteres család ház ég teljes egészében Püspökladányban, a Szénatéren. A tűz átterjedt az épület melletti mezőre. A püspökladányi, a karcagi és a hajdúszoboszlói hivatásos tűzoltók mellett Berettyóújfaluról egy vízszállító is érkezett a helyszínre. A ház lakója az egységek kiérkezése előtt kihozott az épületből egy gázpalackot, amely még a házban felrobbant. A tűzoltók már megakadályozták a ház tüzének továbbterjedését, folytatják a munkálatokat.",
       "location": "Püspökladány, Szénatér",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Püspökladányban",
+          "datetime": "2026.09.17. 16:46",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Püspökladányban, ahol egy nyolcvan négyzetméteres családi ház égett teljes egészében a Szénatéren. A tűz átterjedt az épület melletti szabad területre, ahol három hektáron égett a bozótos, füves vegetáció. A ház lakója az egységek kiérkezése előtt kihozott az épületből egy gázpalackot, amely még a házban felrobbant. A püspökladányi, a karcagi és a hajdúszoboszlói hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak a lángok megfékezésén, jelenleg az utómunkálatokat végzik az épületnél két, a szabad területen három vízsugárral. A munkálatokat a berettyóújfalui hivatásos tűzoltók vízszállítója is segítette.",
+          "location": "Püspökladány, Szénatér",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92068/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92068"
+        }
+      ]
     },
     {
       "id": "92067",
