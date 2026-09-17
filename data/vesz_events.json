@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:41:38.869921+00:00",
+  "updated_at": "2026-09-17T11:45:20.293432+00:00",
   "count": 3402,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "92058",
-      "datetime": "2026.09.17. 12:37",
+      "datetime": "2026.09.17. 12:37 -",
       "title": "Melléképület ég Kecskéden",
-      "category": "Tűzeset",
+      "category": "Melléképület ég Kecskéden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92058",
       "lead": "A tűzoltók a Fő utcában oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Kecskéden, a Fő utcában. A tatabányai hivatásos, az oroszlányi önkormányzati és a kecskédi önkéntes tűzoltók oltják a lángokat. A rajok kihoztak két hegesztőpalackot az ingatlanból.",
       "location": "Kecskéd, Fő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kecskéden",
+          "datetime": "2026.09.17. 13:43",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Kecskéden, a Fő utcában keletkezett. Egy száz négyzetméteres melléképület, mintegy százötven négyzetméteren összehordott hulladék és használati tárgyak égtek. A tatabányai hivatásos, az oroszlányi önkormányzati és a kecskédi önkéntes tűzoltók öt vízsugárral fékezték meg a lángokat. A rajok kihoztak két szén-dioxid-palackot az ingatlanból, és lehűtötték őket.",
+          "location": "Kecskéd, Fő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92058/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92058"
+        }
+      ]
     },
     {
       "id": "92057",
