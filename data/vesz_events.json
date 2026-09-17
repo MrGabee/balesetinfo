@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T08:37:34.846166+00:00",
-  "count": 3396,
+  "updated_at": "2026-09-17T08:40:52.812740+00:00",
+  "count": 3397,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92055",
+      "datetime": "2026.09.17. 10:39",
+      "title": "Hármas karambol a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92055",
+      "lead": "Hajdúszoboszló és Kaba között akadályozza a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó és egy betonszállító tehergépkocsi a 4-es főút Hajdúszoboszló és Kaba közötti szakaszán, a 97. kilométer közelében. A műszaki mentést végző hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járműveket. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúszoboszló, 4",
+      "updates": []
+    },
     {
       "id": "92054",
       "datetime": "2026.09.17. 10:27",
