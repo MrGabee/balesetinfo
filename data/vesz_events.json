@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T12:44:49.839146+00:00",
-  "count": 3404,
+  "updated_at": "2026-09-17T12:48:45.027416+00:00",
+  "count": 3405,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92063",
+      "datetime": "2026.09.17. 14:47",
+      "title": "Összeütközött két autó Hajdúszoboszlón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92063",
+      "lead": "A Böszörményi és a József Attila utca kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Egymásnak ütközött két személyautó Hajdúszoboszlón, a Böszörményi és a József Attila utca kereszteződésében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen heten utaztak. Hozzájuk mentők érkeztek a helyszínre. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúszoboszló, Böszörményi utca",
+      "updates": []
+    },
     {
       "id": "92062",
       "datetime": "2026.09.17. 14:01",
