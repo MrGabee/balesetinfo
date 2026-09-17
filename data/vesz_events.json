@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T02:26:29.110683+00:00",
-  "count": 3390,
+  "updated_at": "2026-09-17T02:29:39.676629+00:00",
+  "count": 3391,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92049",
+      "datetime": "2026.09.17. 04:29",
+      "title": "Embert gázolt a vonat Pilisen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92049",
+      "lead": "A tűzoltók a biztonságos leszállásban segítenek.",
+      "body": "Elgázolt egy embert egy vonat Pilisen, a Vaspálya utcánál, az állomás közelében. A szerelvény harminc utasának a monori hivatásos tűzoltók segítenek a biztonságos leszállásban. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Pilis, Vaspálya utca",
+      "updates": []
+    },
     {
       "id": "92048",
       "datetime": "2026.09.16. 23:58",
