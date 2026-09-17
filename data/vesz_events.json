@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T15:44:47.259845+00:00",
-  "count": 3414,
+  "updated_at": "2026-09-17T15:48:09.339289+00:00",
+  "count": 3415,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92073",
+      "datetime": "2026.09.17. 17:45",
+      "title": "Kamionnal ütközött össze egy személyautó az M5-ösön, Pusztavacsnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92073",
+      "lead": "A kisebb jármű forgalmi akadályt okoz a Szeged felé vezető oldalon.",
+      "body": "Nyerges vontatóval ütközött össze egy személyautó az M5-ös autópálya 54-es kilométerszelvényénél, Pusztavacs térségében. A karambolt követően a kamion félreállt, a személyautó a pályaszakaszon okoz forgalmi akadályt. A dabasi hivatásos tűzoltók és társhatóságok megkezdték a helyszíni munkálatokat.",
+      "location": "Pusztavacs, M5",
+      "updates": []
+    },
     {
       "id": "92072",
       "datetime": "2026.09.17. 17:35",
