@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T21:41:37.556182+00:00",
-  "count": 3420,
+  "updated_at": "2026-09-17T21:44:57.288164+00:00",
+  "count": 3421,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92079",
+      "datetime": "2026.09.17. 23:44",
+      "title": "Táblának és oszlopnak hajtott egy autóbusz Téten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92079",
+      "lead": "Forgalmi akadály alakult ki a baleset miatt a Győri út érintett szakaszán.",
+      "body": "Letért az úttestről, padkára hajtott, majd útjelző táblának és távközlési oszlopnak hajtott egy autóbusz Téten, a Győri úton. A baleset miatt forgalmi akadály alakult ki, amelyet a győri hivatásos és a téti önkéntes tűzoltók szüntetnek meg. Az esethez a mentők is kiérkeztek.",
+      "location": "Tét, Győri út",
+      "updates": []
+    },
     {
       "id": "92078",
       "datetime": "2026.09.17. 23:35",
