@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T15:00:13.736822+00:00",
-  "count": 3411,
+  "updated_at": "2026-09-17T15:04:14.458093+00:00",
+  "count": 3412,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92070",
+      "datetime": "2026.09.17. 17:03",
+      "title": "Égett egy autó az M2-esen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92070",
+      "lead": "Dunakeszi közelében kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt egy személyautó az M2-es autóút Budapest felé vezető oldalán, Dunakeszi közelében, egy benzinkútnál. Teljes terjedelmében égett a jármű, és a tűz már egy hirdetőtáblára is átterjedt, amikor a fóti önkéntes tűzoltók a helyszínre érkeztek. Az egység eloltotta a lángokat. A tűzesethez a fővárosi hivatásos tűzoltók is kivonultak.",
+      "location": "Dunakeszi, M2",
+      "updates": []
+    },
     {
       "id": "92069",
       "datetime": "2026.09.17. 15:58",
