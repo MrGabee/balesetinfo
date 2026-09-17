@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T17:41:18.412067+00:00",
-  "count": 3417,
+  "updated_at": "2026-09-17T17:44:26.714977+00:00",
+  "count": 3418,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92076",
+      "datetime": "2026.09.17. 19:41",
+      "title": "Családi ház és garázsa ég Geszten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92076",
+      "lead": "A tűzoltók már körülhatárolták a lángokat.",
+      "body": "Egy családi ház, illetve az épülettől nyolc méterre egy garázs ég Geszten, a József Attila utcában. A gyulai hivatásos és a komádi önkormányzati tűzoltók hat vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. Az esethez a szeghalmi hivatásos tűzoltók mellett a katasztrófavédelmi műveleti szolgálat is elindult.",
+      "location": "Geszt, József Attila utca",
+      "updates": []
+    },
     {
       "id": "92075",
       "datetime": "2026.09.17. 18:23",
