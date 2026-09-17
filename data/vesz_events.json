@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T08:27:32.357439+00:00",
-  "count": 3395,
+  "updated_at": "2026-09-17T08:31:14.628944+00:00",
+  "count": 3396,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92054",
+      "datetime": "2026.09.17. 10:27",
+      "title": "Két autó karambolozott Gyöngyösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92054",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Összeütközött két gépkocsi Gyöngyösön, Püspöki utcában, a Rédei út közelében. Hárman utaztak összesen a járművekben, amelyek közül az egyiket a város hivatásos tűzoltói áramtalanították. A balesethez a társhatóságok is kiérkeztek az egység mellett.",
+      "location": "Gyöngyös, Püspöki utca",
+      "updates": []
+    },
     {
       "id": "92053",
       "datetime": "2026.09.17. 08:46",
