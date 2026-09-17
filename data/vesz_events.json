@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T05:58:04.165102+00:00",
-  "count": 3393,
+  "updated_at": "2026-09-17T06:01:46.745408+00:00",
+  "count": 3394,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92052",
+      "datetime": "2026.09.17. 08:00",
+      "title": "Összeütközött két autó Pesterzsébeten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92052",
+      "lead": "Forgalmi akadály alakult ki az érintett kereszteződésben.",
+      "body": "Két gépkocsi ütközött össze a XX. kerületben, a Baross utca és a János utca kereszteződésében. Csak a vezetők utaztak a forgalmi akadályt okozó járművekben. A fővárosi hivatásos tűzoltók a társhatóságokat is a balesethez kérték.",
+      "location": "Budapest, Baross utca",
+      "updates": []
+    },
     {
       "id": "92051",
       "datetime": "2026.09.17. 07:56",
