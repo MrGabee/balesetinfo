@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T06:44:21.000722+00:00",
-  "count": 3394,
+  "updated_at": "2026-09-17T06:48:30.408004+00:00",
+  "count": 3395,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92053",
+      "datetime": "2026.09.17. 08:46",
+      "title": "Baleset történt Kerepesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92053",
+      "lead": "A járművek forgalmi akadályt okoznak a Szabadság út érintett szakaszán.",
+      "body": "Koccanásos balesetet szenvedett két gépkocsi Kerepesen, a 3-as főút Szabadság úti szakaszán, a 21-es kilométerszelvény közelében. Összesen hárman utaztak a járművekben, amelyek közül az egyiket a gödöllői hivatásos tűzoltók hőkamerával vizsgáltak át. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Kerepes, Szabadság út",
+      "updates": []
+    },
     {
       "id": "92052",
       "datetime": "2026.09.17. 08:00",
