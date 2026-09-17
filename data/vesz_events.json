@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T11:45:20.293432+00:00",
-  "count": 3402,
+  "updated_at": "2026-09-17T11:48:59.601275+00:00",
+  "count": 3403,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92061",
+      "datetime": "2026.09.17. 13:48",
+      "title": "Összeütközött két autó a II. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92061",
+      "lead": "Forgalmi akadályra kell számítani a Hidegkúti út érintett szakaszán.",
+      "body": "Két gépkocsi karambolozott a II. kerületi Hidegkúti úton, a Kossuth Lajos utca és az Aradi utca csomópontjában. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket, valamint a mentőknek nyújtanak segítséget az egyik utas kiemeléséhez. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Budapest, Hidegkúti út",
+      "updates": []
+    },
     {
       "id": "92060",
       "datetime": "2026.09.17. 12:58",
