@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T21:34:17.033532+00:00",
-  "count": 3419,
+  "updated_at": "2026-09-17T21:37:40.926320+00:00",
+  "count": 3420,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92078",
+      "datetime": "2026.09.17. 23:35",
+      "title": "Tűz volt egy komorói lakóház garázsában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92078",
+      "lead": "A tűzoltók két gázpalackot hoztak ki az épületből.",
+      "body": "Az ott tárolt berendezési tárgyak égtek egy száz négyzetméteres lakóházhoz épített huszonöt négyzetméteres garázsban Komorón, a Bajcsy-Zsilinszky utcában. A kisvárdai hivatásos tűzoltók két vízsugárral fékezték meg a tüzet, amely nem terjedt tovább. A munkálatok közben kihoztak az épületből két gézpalackot, amelyeket nem ért hőhatás. Az egységek jelenleg megbontják a tetőszerkezetet.",
+      "location": "Komoró, Bajcsy-Zsilinszky utca",
+      "updates": []
+    },
     {
       "id": "92077",
       "datetime": "2026.09.17. 22:00",
