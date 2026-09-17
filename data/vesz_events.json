@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T12:48:45.027416+00:00",
-  "count": 3405,
+  "updated_at": "2026-09-17T12:52:25.965656+00:00",
+  "count": 3406,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92064",
+      "datetime": "2026.09.17. 14:49",
+      "title": "Villamossal karambolozott egy személyautó Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92064",
+      "lead": "Forgalmi akadály alakult ki a Bihari utca és a Fertő utca kereszteződésénél.",
+      "body": "Villamossal ütközött össze egy személyautó a X. kerületben, a Bihari utca és a Fertő utca kereszteződésében. A helyszínre a fővárosi hivatásos tűzoltók mellett a mentők és a közlekedési társaság szakemberei is kiérkeztek. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Budapest, Bihari utca",
+      "updates": []
+    },
     {
       "id": "92063",
       "datetime": "2026.09.17. 14:47",
