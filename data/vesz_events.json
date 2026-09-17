@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T19:56:27.404850+00:00",
-  "count": 3418,
+  "updated_at": "2026-09-17T20:00:48.587607+00:00",
+  "count": 3419,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92077",
+      "datetime": "2026.09.17. 22:00",
+      "title": "Földrengés volt Nagykálló térségében",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92077",
+      "lead": "A lakosság érzékelte a földmozgást.",
+      "body": "A HUN-REN Földﬁzikai és Űrtudományi Kutatóintézet Kövesligethy Radó Szeizmológiai Obszervatóriumának közleménye szerint 2026. szeptember 17-én helyi idő szerint 21 óra 18 perckor 2,7-es magnitúdójú földrengés keletkezett Nagykálló térségében. A lakosság érzékelte a földmozgást, az obszervatóriumba eddig Nyíregyházáról érkezett bejelentés, a katasztrófavédelem felé azonban nem jelentettek károkat.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92076",
       "datetime": "2026.09.17. 19:41 -",
