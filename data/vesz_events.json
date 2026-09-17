@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T10:55:02.986146+00:00",
-  "count": 3401,
+  "updated_at": "2026-09-17T10:58:54.418462+00:00",
+  "count": 3402,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92060",
+      "datetime": "2026.09.17. 12:58",
+      "title": "Karambolozott két autó a 81-es főúton, Töltéstaván",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92060",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből",
+      "body": "Összeütközött két személyautó Töltéstava határában, a Fehérvári úton, azaz a 81-es főúton, a Petőfi utcánál. Egy ember beszorult az egyik járműbe. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző győri és pannonhalmi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Töltéstava, Fehérvári út",
+      "updates": []
+    },
     {
       "id": "92059",
       "datetime": "2026.09.17. 12:47",
