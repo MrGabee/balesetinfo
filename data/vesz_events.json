@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T13:26:38.067235+00:00",
-  "count": 3408,
+  "updated_at": "2026-09-17T13:30:31.662097+00:00",
+  "count": 3409,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92067",
+      "datetime": "2026.09.17. 15:30",
+      "title": "Két autó karambolozott Kiskunhalason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92067",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi ütközött össze Kiskunhalason, a Batthyány utca és a Széchenyi utca kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítottak. Az egységek mellett a társhatóságok is a balesetnél dolgoznak.",
+      "location": "Kiskunhalas, Batthyány utca",
+      "updates": []
+    },
     {
       "id": "92066",
       "datetime": "2026.09.17. 15:23",
@@ -214,9 +225,9 @@
       "title": "Embert gázolt a vonat Pilisen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92049",
-      "lead": "A tűzoltók a biztonságos leszállásban segítenek.",
-      "body": "Elgázolt egy embert egy vonat Pilisen, a Vaspálya utcánál, az állomás közelében. A szerelvény harminc utasának a monori hivatásos tűzoltók segítenek a biztonságos leszállásban. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Pilis, Vaspálya utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
