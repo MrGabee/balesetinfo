@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T13:22:58.030409+00:00",
-  "count": 3407,
+  "updated_at": "2026-09-17T13:26:38.067235+00:00",
+  "count": 3408,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92066",
+      "datetime": "2026.09.17. 15:23",
+      "title": "Közlekedési táblákat döntött ki egy autó az I. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92066",
+      "lead": "A jármű egy járdaszigeten hajtott át a baleset következtében.",
+      "body": "Áthajtott a járdaszigeten, majd kidöntött két közlekedési táblát egy gépkocsi az I. kerületi Attila úton, egy buszmegállónál. A vezető saját erejéből ki tudott szállni a járműből. A Rózsadomb ÖTE önkéntes tűzoltói áramtalanították az autót, valamint a mentőket és a közterület-fenntartó szakembereit kérték a helyszínre, ahol egy sávon forgalmi akadály alakult ki.",
+      "location": "Budapest, Attila út",
+      "updates": []
+    },
     {
       "id": "92065",
       "datetime": "2026.09.17. 15:16",
@@ -64,9 +75,9 @@
       "title": "Karambolozott két autó a 81-es főúton, Töltéstaván",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92060",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik járműből",
+      "body": "Összeütközött két személyautó Töltéstava határában, a Fehérvári úton, azaz a 81-es főúton, a Petőfi utcánál. Egy ember beszorult az egyik járműbe. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző győri és pannonhalmi hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Töltéstava, Fehérvári út",
       "updates": []
     },
     {
