@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T15:11:20.750550+00:00",
-  "count": 3412,
+  "updated_at": "2026-09-17T15:14:00.401958+00:00",
+  "count": 3413,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92071",
+      "datetime": "2026.09.17. 17:11",
+      "title": "Motorossal ütközött össze egy személyautó a 24-esen, Parádsasvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92071",
+      "lead": "A motor üzemanyagtankja felrobbant, meggyújtotta a környezetét.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó a 24-es főút 22-es és 23-as kilométerszelvénye között, Parádsasvár térségében. A baleset következtében a motor üzemanyagtankja felrobbant, és meggyújtotta a környezetében az aljnövényzetet mintegy ötven négyzetméteren. A gyöngyösi hivatásos tűzoltók eloltották a lángokat, valamint áramtalanították a személyautót. Az esethez a társhatóságok is kiérkeztek.",
+      "location": "Parádsasvár, 24",
+      "updates": []
+    },
     {
       "id": "92070",
       "datetime": "2026.09.17. 17:03",
