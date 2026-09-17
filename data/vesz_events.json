@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-17T10:44:21.237454+00:00",
-  "count": 3400,
+  "updated_at": "2026-09-17T10:48:13.793347+00:00",
+  "count": 3401,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92059",
+      "datetime": "2026.09.17. 12:47",
+      "title": "Összeütközött két autó a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92059",
+      "lead": "A Barta Lajos utcában dolgoznak a tűzoltók.",
+      "body": "Karambolozott két személyautó Budapest XVIII. kerületében, a Barta Lajos utcában, a Kondor Béla sétány közelében. A fővárosi hivatásos tűzoltók és a FOKA Folyami Katasztrófavédelmi Önkéntes Tűzoltó Egyesület önkéntesei végzik a műszaki mentést a balesetnél. Az egységek áramtalanították a járműveket, amelyek akadályozzák a forgalmat.",
+      "location": "Budapest, Barta Lajos utca",
+      "updates": []
+    },
     {
       "id": "92058",
       "datetime": "2026.09.17. 12:37",
