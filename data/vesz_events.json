@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T19:09:19.265357+00:00",
-  "count": 3453,
+  "updated_at": "2026-09-18T19:12:35.441664+00:00",
+  "count": 3454,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92112",
+      "datetime": "2026.09.18. 21:10",
+      "title": "Tűz volt egy ózdi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92112",
+      "lead": "Az Óvoda utcába vonultak a város tűzoltói.",
+      "body": "Kigyulladt egy háromlakásos sorház egyik helyisége és a tetőszerkezet Ózdon, az Óvoda utcában. A város hivatásos tűzoltói több vízsugárral oltották el a lángokat. A házban gázpalackok is voltak, azokat a környéken lakók vitték ki a szabadba. Az épület két lakója elhagyta a helyszínt.",
+      "location": "Ózd, Óvoda utca",
+      "updates": []
+    },
     {
       "id": "92111",
       "datetime": "2026.09.18. 20:57",
