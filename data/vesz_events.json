@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T04:24:52.916775+00:00",
-  "count": 3421,
+  "updated_at": "2026-09-18T04:28:34.325310+00:00",
+  "count": 3422,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92080",
+      "datetime": "2026.09.18. 06:28",
+      "title": "Két jármű karambolozott a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92080",
+      "lead": "Az egyik autó az oldalára borult a baleset következtében.",
+      "body": "Összeütközött két gépjármű a X. kerületben, a Sibrik Miklós út és a Gergely utca kereszteződésében. Az ütközés erejétől az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók áramtalanították az egyik autót. A balesethez társhatóságok és a közösségi közlekedési társaság szakemberei is kiérkeztek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Sibrik Miklós út",
+      "updates": []
+    },
     {
       "id": "92079",
       "datetime": "2026.09.17. 23:44",
