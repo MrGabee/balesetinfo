@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T16:32:40.348028+00:00",
-  "count": 3446,
+  "updated_at": "2026-09-18T16:36:18.935637+00:00",
+  "count": 3447,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92105",
+      "datetime": "2026.09.18. 18:34",
+      "title": "Busz és autó karambolozott a Városligetben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92105",
+      "lead": "Az Ajtósi Dürer sor és a Hermina út kereszteződésében történt a baleset.",
+      "body": "Összeütközött egy utasok nélküli busz és egy személykocsi Budapest tizennegyedik kerületében, a Városligetnél. Az Ajtósi Dürer sor és a Hermina út kereszteződésében történt a baleset, a fővárosi hivatásos tűzoltók vonultak az esethez. A raj felitatta az autóból kifolyt olajat.",
+      "location": "Budapest, Ajtósi Dürer sor",
+      "updates": []
+    },
     {
       "id": "92104",
       "datetime": "2026.09.18. 18:29",
