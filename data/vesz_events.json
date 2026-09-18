@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T11:32:37.079208+00:00",
-  "count": 3434,
+  "updated_at": "2026-09-18T11:35:35.258032+00:00",
+  "count": 3435,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92093",
+      "datetime": "2026.09.18. 13:33",
+      "title": "Összeütközött két autó Sződligeten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92093",
+      "lead": "A váci tűzoltókat a Határ útra riasztották.",
+      "body": "Egymásba hajtott két személykocsi Sződligeten, a Határ úton. Mindkét autóban csak a gépkocsivezető utazott, a sofőrökhöz mentő érkezett. A váci hivatásos tűzoltók áramtalanították a járműveket.",
+      "location": "Sződliget, Határ út",
+      "updates": []
+    },
     {
       "id": "92092",
       "datetime": "2026.09.18. 13:13",
