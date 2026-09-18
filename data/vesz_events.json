@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T14:28:06.168277+00:00",
-  "count": 3442,
+  "updated_at": "2026-09-18T14:31:38.084840+00:00",
+  "count": 3443,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92101",
+      "datetime": "2026.09.18. 16:31",
+      "title": "Összeütközött két autó Budapest második kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92101",
+      "lead": "A Pasaréti úton, a Nagyajtai utcai kereszteződésnél van szükség tűzoltói beavatkozásra.",
+      "body": "Egymásba hajtott két személykocsi Budapest második kerületében, a Pasaréti úton. A karambol a Nagyajtai utcai kereszteződésnél történt, az egyik autó a járdára sodródott. Mindkét járműben csak annak vezetője utazott. A fővárosi hivatásos tűzoltók áramtalanítottak, illetve felitatták a burkolatra került olajat és hűtővizet. A Pasaréti út érintett szakasza csak félpályán járható.",
+      "location": "Budapest, Pasaréti út",
+      "updates": []
+    },
     {
       "id": "92100",
       "datetime": "2026.09.18. 16:22",
