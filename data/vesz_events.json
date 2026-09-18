@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T14:41:31.566883+00:00",
-  "count": 3443,
+  "updated_at": "2026-09-18T14:44:51.756050+00:00",
+  "count": 3444,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92102",
+      "datetime": "2026.09.18. 16:42",
+      "title": "Négyes karambol Szigetszentmiklósnál, az M0-ás hídja alatt",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92102",
+      "lead": "A II. Rákóczi Ferenc utcán szenvedtek utoléréses balesetet a járművek.",
+      "body": "Összeütközött négy autó Szigetszentmiklóson, a II. Rákóczi Ferenc utcában, az M0-ás autóút hídja alatt. A balesetben négy ember érintett, az utasokhoz mentőt riasztottak. A szigetszentmiklósi hivatásos tűzoltók áramtalanítottak. A karambol miatt torlódásra kell számítani.",
+      "location": "Szigetszentmiklós, II. Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92101",
       "datetime": "2026.09.18. 16:31",
