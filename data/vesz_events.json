@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T08:28:38.468367+00:00",
-  "count": 3428,
+  "updated_at": "2026-09-18T08:31:55.410843+00:00",
+  "count": 3429,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92087",
+      "datetime": "2026.09.18. 10:30",
+      "title": "Baleset történt az M5-ön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92087",
+      "lead": "Kiskunfélegyháza közelében egy sávon halad Szeged felé a forgalom.",
+      "body": "Átszakította a középső szalagkorlátot és a Budapest felé vezető oldalról a másik oldalra sodródott át egy személygépkocsi az M5-ös autópályán, Kiskunfélegyháza közelében, a 113. kilométernél. A kiskunfélegyházi hivatásos tűzoltók áramtalanítják a járművet. Mentőhelikopter is érkezett a baleset helyszínére, ahol Szeged felé egy sávon halad a forgalom.",
+      "location": "Kiskunfélegyháza, M5",
+      "updates": []
+    },
     {
       "id": "92086",
       "datetime": "2026.09.18. 10:03",
