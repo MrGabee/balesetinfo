@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T19:50:56.046552+00:00",
-  "count": 3454,
+  "updated_at": "2026-09-18T19:54:16.884079+00:00",
+  "count": 3455,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92113",
+      "datetime": "2026.09.18. 21:52",
+      "title": "Szén-monoxid keletkezett egy váci lakásban",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92113",
+      "lead": "A Földváry Károly térre vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzését követően hívták ki a tűzoltókat egy váci, Földváry Károly téri lakásba. A város hivatásos tűzoltói a mérgező gáz megemelkedett koncentrációját mérték, ezért a gázművek szakembereit kérték a helyszínre. A lakást hárman lakják, mentő érkezett hozzájuk.",
+      "location": "Vác, Földváry Károly tér",
+      "updates": []
+    },
     {
       "id": "92112",
       "datetime": "2026.09.18. 21:10",
