@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T12:34:24.301605+00:00",
-  "count": 3438,
+  "updated_at": "2026-09-18T12:37:18.079070+00:00",
+  "count": 3439,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
@@ -67,6 +67,17 @@
       "lead": "Kulcs közelében végeznek műszaki mentést a tűzoltók.",
       "body": "Összeütközött két személygépkocsi az M6-os autópálya Pécs felé vezető oldalán, Kulcs közelében, az 57. kilométernél. A járművek, a kerekeiken állnak, de akadályozzák a forgalmat, amely így a leállósávban halad. A pusztaszabolcsi hivatásos tűzoltók áramtalanítják a gépkocsikat.",
       "location": "Kulcs, M6",
+      "updates": []
+    },
+    {
+      "id": "92091",
+      "datetime": "2026.09.18. 12:45",
+      "title": "Gázszivárgás miatt lezártak egy területet Várpalota belvárosában",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92091",
+      "lead": "A Szent István úton gázórának tolatott egy teherautó.",
+      "body": "Gázórának tolatott és kárt tett benne egy teherautó Várpalotán, a Szent István úton. A gázszivárgás miatt a pétfürdői hivatásos tűzoltók ötvenméteres sugarú körben lezárták a területet, elzárták a gázt és méréseket végeztek. A raj emellett biztonsági sugarat szerelt, méréseket végzett a környező épületekben is, amelyekben szellőztettek is. A helyszínre érkeztek a gázszolgáltató szakemberei is.",
+      "location": "Várpalota, Szent István út",
       "updates": []
     },
     {
