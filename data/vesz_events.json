@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T13:28:08.654712+00:00",
-  "count": 3440,
+  "updated_at": "2026-09-18T13:31:25.011132+00:00",
+  "count": 3441,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92099",
+      "datetime": "2026.09.18. 15:28",
+      "title": "Baleset az 52-es főúton, Kisizsák térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92099",
+      "lead": "A 27-es kilométernél árokba hajtott egy autó.",
+      "body": "Letért az útról, árokba csapódott, majd visszasodródott az úttestre egy személykocsi az 52-es főút 27-es kilométerénél. A Kisizsák közelében történt balesethez a szabadszállási önkormányzati tűzoltók vonultak, az egység áramtalanított az autót. A járműben csak annak vezetője utazott, mentő érkezett hozzá. A főút érintett szakaszán csak félpályán lehet közlekedni.",
+      "location": "Fülöpszállás, 52",
+      "updates": []
+    },
     {
       "id": "92098",
       "datetime": "2026.09.18. 14:49",
