@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T12:46:58.758526+00:00",
-  "count": 3439,
+  "updated_at": "2026-09-18T12:50:17.748247+00:00",
+  "count": 3440,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92098",
+      "datetime": "2026.09.18. 14:49",
+      "title": "Három gépkocsi hajtott egymásba Erdőkertesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92098",
+      "lead": "A Fő útra vonultak a gödöllői és veresegyházi tűzoltók.",
+      "body": "Egymásba hajtott három autó Erdőkertesen, a Fő úton. A járművek utasaihoz mentőt riasztottak. A helyszínre elsőként a veresegyházi önkéntes tűzoltók érkeztek ki, akikhez csatlakozott a gödöllői hivatásos egység is. Az érintett egy időre útszakaszt teljes szélességében lezárták.",
+      "location": "Erdőkertes, Fő út",
+      "updates": []
+    },
     {
       "id": "92097",
       "datetime": "2026.09.18. 14:32",
