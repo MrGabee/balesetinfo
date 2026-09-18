@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T11:12:23.853001+00:00",
-  "count": 3433,
+  "updated_at": "2026-09-18T11:15:25.538518+00:00",
+  "count": 3434,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92092",
+      "datetime": "2026.09.18. 13:13",
+      "title": "Egymásnak ütközött két autó az M6-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92092",
+      "lead": "Kulcs közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személygépkocsi az M6-os autópálya Pécs felé vezető oldalán, Kulcs közelében, az 57. kilométernél. A járművek, a kerekeiken állnak, de akadályozzák a forgalmat, amely így a leállósávban halad. A pusztaszabolcsi hivatásos tűzoltók áramtalanítják a gépkocsikat.",
+      "location": "Kulcs, M6",
+      "updates": []
+    },
     {
       "id": "92091",
       "datetime": "2026.09.18. 12:45",
