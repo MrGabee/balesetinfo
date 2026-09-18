@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T12:05:56.427397+00:00",
-  "count": 3436,
+  "updated_at": "2026-09-18T12:09:51.323858+00:00",
+  "count": 3437,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92095",
+      "datetime": "2026.09.18. 14:07",
+      "title": "Baleset miatt nem jár a 4-es, 6-os villamos Budapesten, a Széna térnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92095",
+      "lead": "A Margit körúton, a plázánál elütött egy embert a villamos.",
+      "body": "Baleset történt Budapest második kerületében: a Margit körúton, a plázánál elütött egy embert a villamos. A fővárosi hivatásos tűzoltókat riasztották az esethez. A BKK tájékoztatása szerint a baleset miatt a 4-es és a 6-os villamos helyett a Jászai Mari tér és a Széll Kálmán tér között pótlóbuszok járnak, a 17-es villamost pedig terelőúton közlekedtetik.",
+      "location": "Budapest, Margit körút",
+      "updates": []
+    },
     {
       "id": "92094",
       "datetime": "2026.09.18. 13:57",
