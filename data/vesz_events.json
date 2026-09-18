@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T16:54:07.834132+00:00",
-  "count": 3447,
+  "updated_at": "2026-09-18T16:57:34.160721+00:00",
+  "count": 3448,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92106",
+      "datetime": "2026.09.18. 18:56",
+      "title": "Összeütközött két autó Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92106",
+      "lead": "A Kossuth Lajos sugárút és a Damjanich utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Két személykocsi karambolozott Szegeden, a Kossuth Lajos sugárúton. A Damjanich utcai kereszteződésnél történt balesethez a város hivatásos tűzoltóit riasztották. A raj áramtalanított. A járművek akadályozzák a forgalmat, a helyszínre érkeztek a társhatóságok is.",
+      "location": "Szeged, Teréz utca",
+      "updates": []
+    },
     {
       "id": "92105",
       "datetime": "2026.09.18. 18:34",
