@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T18:54:24.246252+00:00",
-  "count": 3452,
+  "updated_at": "2026-09-18T18:58:02.000646+00:00",
+  "count": 3453,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92111",
+      "datetime": "2026.09.18. 20:57",
+      "title": "Szarvassal ütközött egy autó a 74-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92111",
+      "lead": "A 36-37-es kilométer között, Bak térségében történt a baleset.",
+      "body": "Szarvassal ütközött egy személykocsi a 74-es főúton, Bak térségében. A 36-37-es kilométer között történt balesethez a pacsai hivatásos tűzoltók vonultak, az egység áramtalanította az autót. A járműben csak a sofőr utazott, hozzá mentő érkezett. A történtek miatt a főút forgalma csak félpályán haladhat.",
+      "location": "Bak, 74",
+      "updates": []
+    },
     {
       "id": "92110",
       "datetime": "2026.09.18. 20:53",
