@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T06:29:00.339414+00:00",
-  "count": 3424,
+  "updated_at": "2026-09-18T06:31:55.210983+00:00",
+  "count": 3425,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92083",
+      "datetime": "2026.09.18. 08:30",
+      "title": "Karambol Szentendrén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92083",
+      "lead": "A 11-es főúton van szükség a tűzoltók beavatkozására.",
+      "body": "Összeütközött két személyautó Szentendrén, a 11-es főúton, a Paprikabíró utcánál. A város hivatásos tűzoltói áramtalanítják a járműveket, amelyekben összesen ketten utaztak. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Szentendre, 11",
+      "updates": []
+    },
     {
       "id": "92082",
       "datetime": "2026.09.18. 08:02",
