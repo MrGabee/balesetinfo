@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T09:00:27.289567+00:00",
-  "count": 3429,
+  "updated_at": "2026-09-18T09:04:10.794616+00:00",
+  "count": 3430,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92088",
+      "datetime": "2026.09.18. 11:04",
+      "title": "Karambol történt Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92088",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Bárándi utca és a Váralja sor sarkánál.",
+      "body": "Összeütközött egy betonszállító teherautó és egy személygépkocsi Székesfehérváron, a Bárándi utca és a Váralja sor sarkán. A város hivatásos tűzoltói vonultak ki a balesethez. A raj megszünteti a forgalmi akadályt.",
+      "location": "Székesfehérvár, Bárándi utca",
+      "updates": []
+    },
     {
       "id": "92087",
       "datetime": "2026.09.18. 10:30",
