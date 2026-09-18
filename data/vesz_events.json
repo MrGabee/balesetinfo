@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:10:39.922217+00:00",
+  "updated_at": "2026-09-18T10:13:45.103609+00:00",
   "count": 3432,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -322,9 +322,9 @@
       "title": "Villamossal karambolozott egy személyautó Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92064",
-      "lead": "Forgalmi akadály alakult ki a Bihari utca és a Fertő utca kereszteződésénél.",
-      "body": "Villamossal ütközött össze egy személyautó a X. kerületben, a Bihari utca és a Fertő utca kereszteződésében. A helyszínre a fővárosi hivatásos tűzoltók mellett a mentők és a közlekedési társaság szakemberei is kiérkeztek. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
-      "location": "Budapest, Bihari utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -388,19 +388,10 @@
       "title": "Melléképület ég Kecskéden",
       "category": "Melléképület ég Kecskéden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92058",
-      "lead": "A tűzoltók a Fő utcában oltják a lángokat.",
-      "body": "Kigyulladt egy melléképület Kecskéden, a Fő utcában. A tatabányai hivatásos, az oroszlányi önkormányzati és a kecskédi önkéntes tűzoltók oltják a lángokat. A rajok kihoztak két hegesztőpalackot az ingatlanból.",
-      "location": "Kecskéd, Fő utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Kecskéden",
-          "datetime": "2026.09.17. 13:43",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a tűznek a lángjait, amely Kecskéden, a Fő utcában keletkezett. Egy száz négyzetméteres melléképület, mintegy százötven négyzetméteren összehordott hulladék és használati tárgyak égtek. A tatabányai hivatásos, az oroszlányi önkormányzati és a kecskédi önkéntes tűzoltók öt vízsugárral fékezték meg a lángokat. A rajok kihoztak két szén-dioxid-palackot az ingatlanból, és lehűtötték őket.",
-          "location": "Kecskéd, Fő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92058/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92058"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92057",
@@ -419,9 +410,9 @@
       "title": "Tolatómozdonyban keletkezett tűz a XVI. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92056",
-      "lead": "A tűzoltók egy habsugárral és egy vízsugárral fékezték meg a tüzet.",
-      "body": "Tűz ütött ki egy tolatómozdony motorterének burkolata alatt a XVI. kerületi Körvasút soron, a vasútállomáson. A mozdony nem közlekedett, helyszíni munkálatokat végzett. A vasúttársaság szakemberei áramtalanították a vágányokat, ezt követően a fővárosi hivatásos tűzoltók rövid időn belül egy habsugárral és egy vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik. A beavatkozás idejére teljes vágányzárat rendeltek el.",
-      "location": "Budapest, Körvasút sor",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
