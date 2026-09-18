@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T18:51:29.788795+00:00",
-  "count": 3451,
+  "updated_at": "2026-09-18T18:54:24.246252+00:00",
+  "count": 3452,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92110",
+      "datetime": "2026.09.18. 20:53",
+      "title": "Vadgázolás a 8-as főúton, Devecser közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92110",
+      "lead": "A 91-es kilométernél van szükség tűzoltói beavatkozásra.",
+      "body": "Elütött egy vadat egy személykocsi és egy kisteherautó a 8-as főút 91-es kilométerénél. A Devecser közelében történt balesethez az ajkai hivatásos és a devecseri önkéntes tűzoltókat riasztották. Az egységek áramtalanították az egyik járművet. Az utasokhoz mentő érkezett. A 8-as főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Devecser, 8",
+      "updates": []
+    },
     {
       "id": "92109",
       "datetime": "2026.09.18. 20:47",
