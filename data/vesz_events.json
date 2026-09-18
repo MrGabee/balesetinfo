@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T09:29:28.108922+00:00",
-  "count": 3431,
+  "updated_at": "2026-09-18T09:32:43.892265+00:00",
+  "count": 3432,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92090",
+      "datetime": "2026.09.18. 11:29",
+      "title": "Összeütközött két gépkocsi az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92090",
+      "lead": "Győr közelében, Hegyeshalom felé forgalomkorlátozásra kell számítani.",
+      "body": "Karambolozott két kisteherautó az M1-es autópálya Hegyeshalom felé vezető oldalán, Győr közelében, a 123. kilométernél. Az egyik jármű utánfutót vontatott. A műszaki mentést végző győri hivatásos tűzoltók áramtalanították az egyik gépkocsit, a másiknál nincs szükség ilyen beavatkozásra. Az érintett sztrádaszakaszon a leállósávon halad a forgalom.",
+      "location": "Győr, M1",
+      "updates": []
+    },
     {
       "id": "92089",
       "datetime": "2026.09.18. 11:13",
