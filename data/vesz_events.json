@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T11:55:48.561374+00:00",
-  "count": 3435,
+  "updated_at": "2026-09-18T11:59:26.742344+00:00",
+  "count": 3436,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92094",
+      "datetime": "2026.09.18. 13:57",
+      "title": "Égett egy autó a VIII. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92094",
+      "lead": "A tűzoltók a Horánszky utcában fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Budapest VIII. kerületében, a Horánszky utcában. A jármű motortere égett. A fővárosi hivatásos tűzoltók megakadályozták a tűz továbbterjedését, eloltották a lángokat, majd megkezdték az utómunkálatokat.",
+      "location": "Budapest, Horánszky utca",
+      "updates": []
+    },
     {
       "id": "92093",
       "datetime": "2026.09.18. 13:33",
