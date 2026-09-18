@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-18T12:31:06.775761+00:00",
-  "count": 3437,
+  "updated_at": "2026-09-18T12:34:24.301605+00:00",
+  "count": 3438,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92097",
+      "datetime": "2026.09.18. 14:32",
+      "title": "Két autó karambolozott Budapest tizennyolcadik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92097",
+      "lead": "A Havanna-lakótelepnél, a Baross utcában történt a baleset.",
+      "body": "Összeütközött két személykocsi Budapesten, a tizennyolcadik kerületi Baross utcában. A járművek kidöntöttek egy betonoszlopot is. A két autóban összesen három ember utazott. A Havanna-lakótelepnél történt karambolhoz a FOKA önkéntes tűzoltói, illetve a fővárosi hivatásos tűzoltók vonultak, áramtalanították a járműveket. Az érintett útszakaszt lezárták, ez érinti a közösségi közlekedést is.",
+      "location": "Budapest, Baross utca",
+      "updates": []
+    },
+    {
+      "id": "92096",
+      "datetime": "2026.09.18. 14:32",
+      "title": "Súlyos karambol történt a 304-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92096",
+      "lead": "Az M30-as autópálya közelében dolgoznak a tűzoltók, akik két embert kiszabadítottak az egyik járműből.",
+      "body": "Frontálisan karambolozott egy személyautó és egy kisbusz a 304-es főúton, az M30-as autópálya és Miskolc között. Két ember beszorult az egyik járműbe. Őket feszítővágóval és nyomató hengerrel kiszabadították, majd kiemelték a műszaki mentést végző miskolci hivatásos tűzoltók. A helyszínen vannak a mentők is. A balesetben egy harmadik jármű is érintett volt, ez az út menti árokba sodródott, a raj áramtalanítja. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Miskolc, 304",
+      "updates": []
+    },
     {
       "id": "92095",
       "datetime": "2026.09.18. 14:07",
@@ -45,17 +67,6 @@
       "lead": "Kulcs közelében végeznek műszaki mentést a tűzoltók.",
       "body": "Összeütközött két személygépkocsi az M6-os autópálya Pécs felé vezető oldalán, Kulcs közelében, az 57. kilométernél. A járművek, a kerekeiken állnak, de akadályozzák a forgalmat, amely így a leállósávban halad. A pusztaszabolcsi hivatásos tűzoltók áramtalanítják a gépkocsikat.",
       "location": "Kulcs, M6",
-      "updates": []
-    },
-    {
-      "id": "92091",
-      "datetime": "2026.09.18. 12:45",
-      "title": "Gázszivárgás miatt lezártak egy területet Várpalota belvárosában",
-      "category": "Egyéb esemény",
-      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92091",
-      "lead": "A Szent István úton gázórának tolatott egy teherautó.",
-      "body": "Gázórának tolatott és kárt tett benne egy teherautó Várpalotán, a Szent István úton. A gázszivárgás miatt a pétfürdői hivatásos tűzoltók ötvenméteres sugarú körben lezárták a területet, elzárták a gázt és méréseket végeztek. A raj emellett biztonsági sugarat szerelt, méréseket végzett a környező épületekben is, amelyekben szellőztettek is. A helyszínre érkeztek a gázszolgáltató szakemberei is.",
-      "location": "Várpalota, Szent István út",
       "updates": []
     },
     {
