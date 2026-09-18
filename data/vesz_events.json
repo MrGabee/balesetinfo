@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T21:00:03.880527+00:00",
-  "count": 3457,
+  "updated_at": "2026-09-18T21:03:24.002072+00:00",
+  "count": 3458,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92116",
+      "datetime": "2026.09.18. 23:01",
+      "title": "Tűz volt egy karcagi autókereskedésben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92116",
+      "lead": "A Madarasi úton volt szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy gépkocsi egy karcagi autókereskedés telephelyén, a Madarasi úton. Először egy furgon égett, a lángok átterjedtek egy fából készült épületre is, amelyben abroncsokat tároltak. A karcagi hivatásos tűzoltók egy gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek több vízsugárral eloltották az égő kisteherautót, majd a faházat is, utóbbi tetőszerkezetét megbontották az izzások miatt. A tűz végül négy gépkocsit érintett. A rajok körülhatárolták, eloltották a tüzet, már az utómunkálatokat végzik.",
+      "location": "Karcag, Madarasi út",
+      "updates": []
+    },
     {
       "id": "92115",
       "datetime": "2026.09.18. 22:41",
