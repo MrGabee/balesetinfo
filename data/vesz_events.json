@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T18:44:33.893109+00:00",
-  "count": 3450,
+  "updated_at": "2026-09-18T18:47:53.018004+00:00",
+  "count": 3451,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92109",
+      "datetime": "2026.09.18. 20:47",
+      "title": "Baleset történt a 3-ason, Méra és Encs között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92109",
+      "lead": "A 226-os kilométernél árokba hajtott egy személykocsi.",
+      "body": "Letért az úttestről és árokba hajtott egy autó a 3-as főúton, Méra és Encs között. A járműben csak a sofőr ült. Az encsi hivatásos tűzoltókat riasztották az esethez, a raj áramtalanított. A főutat az érintett szakaszon félpályán lezárták.",
+      "location": "Méra, 3",
+      "updates": []
+    },
     {
       "id": "92108",
       "datetime": "2026.09.18. 20:36",
