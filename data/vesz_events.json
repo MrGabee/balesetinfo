@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T08:02:17.339614+00:00",
-  "count": 3427,
+  "updated_at": "2026-09-18T08:05:39.066192+00:00",
+  "count": 3428,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92086",
+      "datetime": "2026.09.18. 10:03",
+      "title": "Baleset a 4-es főút nyíregyházi szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92086",
+      "lead": "A 172-es kilométernél két autó hajtott egymásba.",
+      "body": "Összeütközött két személykocsi Nyíregyházán, a 4-es főút városi szakaszán, a 172-es kilométernél. A Debreceni úton, a Plánta és a Tünde utca közötti szakaszon történt balesetben négy ember érintett, a járművek utasaihoz mentő érkezett. A vármegyeszékhely hivatásos tűzoltói áramtalanították az autókat. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Nyíregyháza, Debreceni út",
+      "updates": []
+    },
     {
       "id": "92085",
       "datetime": "2026.09.18. 09:33",
