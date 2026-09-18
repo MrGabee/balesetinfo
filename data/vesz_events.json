@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T16:29:03.845630+00:00",
-  "count": 3445,
+  "updated_at": "2026-09-18T16:32:40.348028+00:00",
+  "count": 3446,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92104",
+      "datetime": "2026.09.18. 18:29",
+      "title": "Vonat és autó karambolozott Mosonszolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92104",
+      "lead": "A Kázmér utcai átjáróhoz riasztották a helyi és a mosonmagyaróvári tűzoltókat.",
+      "body": "Egy személykocsi elejét ütötte meg egy mozdony Mosonszolnokon, a Kázmér utcai vasúti átjáróban. Az autó egyedül utazó sofőrje ki tudott szállni járművéből. A vonaton a személyzettel együtt összesen tizenhárman utaztak, valamennyien épségben elhagyták a szerelvényt. A mosonszolnoki önkéntes és a mosonmagyaróvári hivatásos tűzoltók vonultak az esethez, áramtalanították a gépkocsit.",
+      "location": "Mosonszolnok, Kázmér utca",
+      "updates": []
+    },
     {
       "id": "92103",
       "datetime": "2026.09.18. 17:44",
