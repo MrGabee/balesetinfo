@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T14:21:45.884599+00:00",
-  "count": 3441,
+  "updated_at": "2026-09-18T14:24:58.051079+00:00",
+  "count": 3442,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92100",
+      "datetime": "2026.09.18. 16:22",
+      "title": "Hármas karambol Óbudán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92100",
+      "lead": "A Szentendrei út és a Záhony utca kereszteződésénél utoléréses baleset történt.",
+      "body": "Összeütközött három jármű Budapest harmadik kerületében, a Szentendrei út és a Záhony utca kereszteződésénél. A ráfutásos balesethez a fővárosi hivatásos tűzoltók vonultak. Az esethez mentőt is riasztottak.",
+      "location": "Budapest, Szentendrei út",
+      "updates": []
+    },
     {
       "id": "92099",
       "datetime": "2026.09.18. 15:28",
