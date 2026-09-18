@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T10:45:26.307480+00:00",
-  "count": 3432,
+  "updated_at": "2026-09-18T10:48:59.030530+00:00",
+  "count": 3433,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92091",
+      "datetime": "2026.09.18. 12:45",
+      "title": "Gázszivárgás miatt lezártak egy területet Várpalota belvárosában",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92091",
+      "lead": "A Szent István úton gázórának tolatott egy teherautó.",
+      "body": "Gázórának tolatott és kárt tett benne egy teherautó Várpalotán, a Szent István úton. A gázszivárgás miatt a pétfürdői hivatásos tűzoltók ötvenméteres sugarú körben lezárták a területet, elzárták a gázt és méréseket végeztek. A raj emellett biztonsági sugarat szerelt, méréseket végzett a környező épületekben is, amelyekben szellőztettek is. A helyszínre érkeztek a gázszolgáltató szakemberei is.",
+      "location": "Várpalota, Szent István út",
+      "updates": []
+    },
     {
       "id": "92090",
       "datetime": "2026.09.18. 11:29",
