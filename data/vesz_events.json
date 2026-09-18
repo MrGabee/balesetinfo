@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T09:10:58.093150+00:00",
-  "count": 3430,
+  "updated_at": "2026-09-18T09:14:49.503384+00:00",
+  "count": 3431,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92089",
+      "datetime": "2026.09.18. 11:13",
+      "title": "Baleset történt Kaposmérő és Kaposújlak között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92089",
+      "lead": "A 610-es főút 13-14-es kilométere között összeütközött két autó.",
+      "body": "Két személykocsi karambolozott a 610-es főút Kaposmérő és Kaposújlak közötti szakaszán. Mindkét autóban csak annak vezetője ült, a helyszínre mentő is érkezett. A 13-14-es kilométer között történt balesetnél a kaposvári hivatásos tűzoltók áramtalanítottak. A baleset miatt a főút érintett szakaszán félpályán lehet közlekedni.",
+      "location": "Kaposújlak, 610",
+      "updates": []
+    },
     {
       "id": "92088",
       "datetime": "2026.09.18. 11:04",
