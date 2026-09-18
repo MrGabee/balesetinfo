@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-18T07:02:38.675578+00:00",
-  "count": 3425,
+  "updated_at": "2026-09-18T07:05:51.884235+00:00",
+  "count": 3426,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92084",
+      "datetime": "2026.09.18. 09:02",
+      "title": "Összeütközött két autó Dunaharaszti közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92084",
+      "lead": "Az 5201-es úton lassítja a forgalmat a baleset.",
+      "body": "Karambolozott két személygépkocsi az 5201-es út Dunaharaszti és Alsónémedi közötti szakaszán, a 3. kilométernél. A járművekben összesen ketten utaztak. A szigetszentmiklósi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, ahova a mentők is kiérkeztek. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Dunaharaszti, 5201",
+      "updates": []
+    },
     {
       "id": "92083",
       "datetime": "2026.09.18. 08:30",
