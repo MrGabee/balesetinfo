@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T17:53:24.956151+00:00",
-  "count": 3471,
+  "updated_at": "2026-09-19T17:56:55.546324+00:00",
+  "count": 3472,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92130",
+      "datetime": "2026.09.19. 19:55",
+      "title": "Felborult egy autó Pécs és Kökény között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92130",
+      "lead": "A Kökényi út és az Időjós út találkozásánál lezárták az utat.",
+      "body": "Felborult egy személyautó Pécs és Kökény között, a Kökényi út és az Időjós út találkozásánál. A balesethez a pécsi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kökény, Kökényi út",
+      "updates": []
+    },
     {
       "id": "92129",
       "datetime": "2026.09.19. 18:41",
