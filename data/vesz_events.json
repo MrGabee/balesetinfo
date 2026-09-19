@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T11:59:14.863818+00:00",
-  "count": 3463,
+  "updated_at": "2026-09-19T12:02:41.484121+00:00",
+  "count": 3464,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92122",
+      "datetime": "2026.09.19. 13:59",
+      "title": "Összeütközött két autó Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92122",
+      "lead": "Az Algyői út és a Ladvánszky utca találkozásához riasztották a tűzoltókat.",
+      "body": "Két személyautó karambolozott Szegeden, az Algyői út és a Ladvánszky utca találkozásánál. A műszaki mentést a város hivatásos tűzoltói végzik. A helyszínre mentő is érkezett.",
+      "location": "Szeged, Ladvánszky utca",
+      "updates": []
+    },
     {
       "id": "92121",
       "datetime": "2026.09.19. 10:38",
