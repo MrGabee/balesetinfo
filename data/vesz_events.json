@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T19:25:46.119240+00:00",
-  "count": 3473,
+  "updated_at": "2026-09-19T19:28:44.427082+00:00",
+  "count": 3474,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92132",
+      "datetime": "2026.09.19. 21:27",
+      "title": "Autótűz Örkény és Tatárszentgyörgy között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92132",
+      "lead": "Az 5205-ös utat lezárták.",
+      "body": "Teljes terjedelmében égett egy személyautó Örkény és Tatárszentgyörgy között, az 5205-ös út 5-ös kilométerszelvényénél. A dabasi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tatárszentgyörgy, 5205",
+      "updates": []
+    },
     {
       "id": "92131",
       "datetime": "2026.09.19. 21:20",
