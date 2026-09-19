@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T03:47:18.418367+00:00",
+  "updated_at": "2026-09-19T03:50:41.521156+00:00",
   "count": 3459,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "Az M1-es felé vezető oldalon, a 61-es kilométernél történt a baleset.",
       "body": "Felborult egy kamion vontatmánya az M0-ás körgyűrűn, Kistarcsánál. A baleset az M1-es felé vezető oldal 61-es kilométerénél történt, az autóút érintett szakaszán teljes az útzár. A járműben csak a sofőr ült, ő ki tudott szállni az álló helyzetben maradt vezetőfülkéből. A fővárosi hivatásos tűzoltók egy gépjárműfecskendővel és egy daruval végzik a műszaki mentést.",
       "location": "Budapest, M0",
-      "updates": []
+      "updates": [
+        {
+          "title": "Félpályán megindult a forgalom az M0-áson, Kistarcsánál",
+          "datetime": "2026.09.19. 05:44",
+          "category": "Közlekedési baleset",
+          "text": "Korábban az M1-es felé vezető oldalon, a 61-es kilométernél felborult egy kamion. A fővárosi hivatásos tűzoltók kerekeire állították és a leállósávba vontatták a járművet, így felszabadult az út. A közútkezelő munkatársai megtisztítják az útpályát, ezért egy ideig még félpályás útlezárás nehezíti a közlekedést.",
+          "location": "Budapest, M0",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92117/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92117"
+        }
+      ]
     },
     {
       "id": "92116",
