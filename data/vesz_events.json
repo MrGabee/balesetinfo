@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T15:10:52.641688+00:00",
-  "count": 3468,
+  "updated_at": "2026-09-19T15:14:33.584205+00:00",
+  "count": 3469,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92127",
+      "datetime": "2026.09.19. 17:11",
+      "title": "Kockabálák égtek Bősárkányon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92127",
+      "lead": "A 86-os főút mellett csaptak fel a lángok.",
+      "body": "Kockabálák égtek Bősárkányon, a 86-os főút közelében. A csornai hivatásos, valamint a bősárkányi és csornai önkéntes tűzoltók három vízsugárral eloltották a lángokat. A rajok munkáját egy erőgép is segítette.",
+      "location": "Bősárkány, 86",
+      "updates": []
+    },
     {
       "id": "92126",
       "datetime": "2026.09.19. 16:44",
