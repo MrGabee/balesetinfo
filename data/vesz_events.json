@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T08:36:18.380111+00:00",
-  "count": 3462,
+  "updated_at": "2026-09-19T08:39:46.855118+00:00",
+  "count": 3463,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92121",
+      "datetime": "2026.09.19. 10:38",
+      "title": "Felborult egy autó a 3-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92121",
+      "lead": "Halmaj közelében dolgoznak a tűzoltók.",
+      "body": "Felborult egy személyautó a 3-as főúton Halmaj közelében, a 211-es kilométerszelvénynél. Az encsi hivatásos tűzoltók feszítővágó segítségével egy embert kiemeltek a járműből, majd átadták őt a mentőknek. A raj áramtalanította a gépkocsit.",
+      "location": "Halmaj, 3",
+      "updates": []
+    },
     {
       "id": "92120",
       "datetime": "2026.09.19. 08:43",
