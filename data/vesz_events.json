@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T19:18:44.748481+00:00",
-  "count": 3472,
+  "updated_at": "2026-09-19T19:22:10.667458+00:00",
+  "count": 3473,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92131",
+      "datetime": "2026.09.19. 21:20",
+      "title": "Összeütközött két autó Piliscsaba és Tinnye között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92131",
+      "lead": "Az 1133-as úton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Tinnye és Piliscsaba között, az 1133-as út 1-es kilométerszelvényénél. A bajnai hivatásos és a piliscsabai önkéntes tűzoltók áramtalanították a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tinnye, 1133",
+      "updates": []
+    },
     {
       "id": "92130",
       "datetime": "2026.09.19. 19:55",
