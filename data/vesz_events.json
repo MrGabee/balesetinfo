@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T20:39:43.303279+00:00",
-  "count": 3474,
+  "updated_at": "2026-09-19T20:43:16.724869+00:00",
+  "count": 3475,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92133",
+      "datetime": "2026.09.19. 22:42",
+      "title": "Baleset történt Dunakeszin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92133",
+      "lead": "A 2-es főutat lezárták.",
+      "body": "Két személyautó ütközött össze Dunakeszin, a 2-es főúton, a 21-es kilométerszelvénynél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Dunakeszi, 2",
+      "updates": []
+    },
     {
       "id": "92132",
       "datetime": "2026.09.19. 21:27",
