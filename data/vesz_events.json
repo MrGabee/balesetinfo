@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T15:40:18.927735+00:00",
-  "count": 3469,
+  "updated_at": "2026-09-19T15:43:35.853946+00:00",
+  "count": 3470,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92128",
+      "datetime": "2026.09.19. 17:43",
+      "title": "Parkoló autónak ütközött egy személygépkocsi Gutorföldén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92128",
+      "lead": "A Petőfi utcában félpályán halad a forgalom.",
+      "body": "Parkoló autónak ütközött egy személygépkocsi Gutorföldén, a Petőfi utcában. A baleset következtében az egyik jármű az árokba borult. A műszaki mentést a lenti hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Gutorfölde, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92127",
       "datetime": "2026.09.19. 17:11",
