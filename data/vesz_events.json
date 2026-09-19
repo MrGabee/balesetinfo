@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T04:10:23.076331+00:00",
-  "count": 3459,
+  "updated_at": "2026-09-19T04:13:47.226053+00:00",
+  "count": 3460,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92118",
+      "datetime": "2026.09.19. 06:11",
+      "title": "Szarvast gázoltak a 37-esen, Szerencs és Hernádkak között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92118",
+      "lead": "A 18-as kilométernél a Miskolc felé vezető oldalon áll a forgalom.",
+      "body": "Elütött egy szarvast egy furgon a 37-es főút Szerencs és Hernádkak közötti szakaszán, a 18-as kilométernél. Az állat a jármű alá szorult. A baleset miatt a Miskolc felé tartó oldalt lezárták. A szerencsi hivatásos tűzoltók emelőpárna segítségével szabadítják ki a jármű alól a jószágot. A furgonban hárman utaztak, nem esett bajuk.",
+      "location": "Gesztely, 37",
+      "updates": []
+    },
     {
       "id": "92117",
       "datetime": "2026.09.19. 05:11 -",
