@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T13:57:41.635673+00:00",
-  "count": 3465,
+  "updated_at": "2026-09-19T14:01:08.212024+00:00",
+  "count": 3466,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92124",
+      "datetime": "2026.09.19. 15:59",
+      "title": "Kigyulladt a tarló Hódmezővásárhely és Algyő között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92124",
+      "lead": "A tűz körülbelül másfél hektárt érintett.",
+      "body": "Tarló égett Hódmezővásárhely és Algyő közötti területen. A tűz körülbelül másfél hektárt érintett. A lángokat a hódmezővásárhelyi hivatásos tűzoltók oltották el.",
+      "location": "Algyő, külterület",
+      "updates": []
+    },
     {
       "id": "92123",
       "datetime": "2026.09.19. 15:37",
