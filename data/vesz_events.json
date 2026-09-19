@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19T13:33:45.554522+00:00",
-  "count": 3464,
+  "updated_at": "2026-09-19T13:37:13.929231+00:00",
+  "count": 3465,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92123",
+      "datetime": "2026.09.19. 15:37",
+      "title": "Három autó ütközött össze Tihanyban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92123",
+      "lead": "A Rév utcába vonultak a tűzoltók.",
+      "body": "Három személyautó ütközött össze Tihanyban, a Rév utcában. A balesethez a balatonfüredi önkormányzati tűzoltókat riasztották. A raj az egyik gépkocsit áramtalanította.",
+      "location": "Tihany, Rév utca",
+      "updates": []
+    },
     {
       "id": "92122",
       "datetime": "2026.09.19. 13:59",
