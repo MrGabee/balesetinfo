@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T12:28:24.042678+00:00",
-  "count": 3485,
+  "updated_at": "2026-09-20T12:32:10.769691+00:00",
+  "count": 3486,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92144",
+      "datetime": "2026.09.20. 14:30",
+      "title": "Száraz fű égett Füzérradványon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92144",
+      "lead": "A Fő utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt a száraz fű mintegy öt hektárnyi területen Füzérradványon, a Fő utcában. A sátoraljaújhelyi, a gönci és a tolcsvai hivatásos tűzoltók három vízsugárral  elfojtották a  lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Füzérradvány, Fő utca",
+      "updates": []
+    },
     {
       "id": "92143",
       "datetime": "2026.09.20. 14:21",
