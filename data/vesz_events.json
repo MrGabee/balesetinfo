@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T10:49:46.864778+00:00",
-  "count": 3479,
+  "updated_at": "2026-09-20T10:53:07.453746+00:00",
+  "count": 3480,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92138",
+      "datetime": "2026.09.20. 12:51",
+      "title": "Karambol Szombathelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92138",
+      "lead": "A Nyitra utca és a Kötő utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személygépkocsi Szombathelyen, a Nyitra utca és a Kötő utca kereszteződésében. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szombathely, Kötő utca",
+      "updates": []
+    },
     {
       "id": "92137",
       "datetime": "2026.09.20. 12:46",
