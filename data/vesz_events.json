@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T09:36:01.320062+00:00",
-  "count": 3475,
+  "updated_at": "2026-09-20T09:39:24.647042+00:00",
+  "count": 3476,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92134",
+      "datetime": "2026.09.20. 11:36",
+      "title": "Baleset történt Várpalotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92134",
+      "lead": "A Kisfaludy utcában forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Várpalotán, a Kisfaludy utcában. A pétfürdői hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Várpalota, Kisfaludy utca",
+      "updates": []
+    },
     {
       "id": "92133",
       "datetime": "2026.09.19. 22:42",
