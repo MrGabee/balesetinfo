@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T10:46:29.467001+00:00",
-  "count": 3478,
+  "updated_at": "2026-09-20T10:49:46.864778+00:00",
+  "count": 3479,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92137",
+      "datetime": "2026.09.20. 12:46",
+      "title": "Ráfutásos baleset az 51-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92137",
+      "lead": "Majosháza közelében forgalmi akadály van.",
+      "body": "Ráfutásos balesetet szenvedett két személygépkocsi az 51-es főúton, Majosháza közelében, a 30-as kilométerszelvénynél. A szigetszentmiklósi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Majosháza, Kapitánytanya sor",
+      "updates": []
+    },
     {
       "id": "92136",
       "datetime": "2026.09.20. 12:22",
