@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T15:50:16.638685+00:00",
-  "count": 3488,
+  "updated_at": "2026-09-20T15:54:12.746963+00:00",
+  "count": 3489,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92147",
+      "datetime": "2026.09.20. 17:50",
+      "title": "Családi ház égett Szajolon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92147",
+      "lead": "A Táncsics Mihály úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Szajolon, a Táncsics Mihály úton. A tűz átterjedt a tetőszerkezetre és egy szomszédos melléképületre is. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szolnoki és a mezőtúri hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A helyszínre mentő is érkezett.",
+      "location": "Szajol, Táncsics Mihály út",
+      "updates": []
+    },
     {
       "id": "92146",
       "datetime": "2026.09.20. 15:31",
