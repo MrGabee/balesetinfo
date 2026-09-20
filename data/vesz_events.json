@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T18:08:29.633046+00:00",
-  "count": 3491,
+  "updated_at": "2026-09-20T18:11:25.540740+00:00",
+  "count": 3492,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92150",
+      "datetime": "2026.09.20. 20:11",
+      "title": "Lakókocsi égett Budapest XI. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92150",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Teljes terjedelmében égett egy lakókocsi Budapest XI. kerületében, a Duna mellett. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Budapest, Budafoki út",
+      "updates": []
+    },
     {
       "id": "92149",
       "datetime": "2026.09.20. 19:57",
