@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T21:19:39.998206+00:00",
-  "count": 3495,
+  "updated_at": "2026-09-20T21:23:02.468169+00:00",
+  "count": 3496,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92154",
+      "datetime": "2026.09.20. 23:22",
+      "title": "Tűz volt egy lakóház szemétledobójában Nyíregyházán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92154",
+      "lead": "A Toldi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy emeletes lakóház szemétledobójában Nyíregyházán, a Toldi utcában. A tűz két műanyag kukát és azok tartalmát érintette. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a nyíregyházi hivatásos tűzoltók elfojtották a lángokat. Az egységek megkezdték az épület lakóinak kimenekítését. A rajok átszellőztetik a lépcsőházat.",
+      "location": "Nyíregyháza, Toldi utca",
+      "updates": []
+    },
     {
       "id": "92153",
       "datetime": "2026.09.20. 23:10",
