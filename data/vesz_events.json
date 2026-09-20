@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T10:20:12.005250+00:00",
-  "count": 3477,
+  "updated_at": "2026-09-20T10:23:40.844860+00:00",
+  "count": 3478,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92136",
+      "datetime": "2026.09.20. 12:22",
+      "title": "Két autó ütközött Budapest XXII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92136",
+      "lead": "A Gyár utcában dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személygépkocsi Budapest XXII. kerületében, a Gyár utcában.  A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Gyár utca",
+      "updates": []
+    },
     {
       "id": "92135",
       "datetime": "2026.09.20. 11:48",
