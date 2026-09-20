@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-20T18:40:10.256771+00:00",
-  "count": 3492,
+  "updated_at": "2026-09-20T18:43:45.643690+00:00",
+  "count": 3493,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92151",
+      "datetime": "2026.09.20. 20:43",
+      "title": "Autó égett Nagykátán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92151",
+      "lead": "A Szabolcs utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Nagykátán, a Szabolcs utcában. A tűz átterjedt egy parkoló járműre is. A nagykátai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nagykáta, Szabolcs utca",
+      "updates": []
+    },
     {
       "id": "92150",
       "datetime": "2026.09.20. 20:11",
