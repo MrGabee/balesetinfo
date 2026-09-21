@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T14:21:25.077881+00:00",
-  "count": 3518,
+  "updated_at": "2026-09-21T14:24:37.468675+00:00",
+  "count": 3519,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92177",
+      "datetime": "2026.09.21. 16:22",
+      "title": "Fának csapódott egy autó a 36-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92177",
+      "lead": "Nyíregyházánál az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Lesodródott az útról és fának csapódott egy személygépkocsi Nyíregyházánál, a 36-os főút 45-ös kilométerénél. A nyíregyházai hivatásos tűzoltók egy embert feszítővágó segítségével emeltek ki az autóból. A raj áramtalanította a járművet. A mentőszolgálat is a helyszínen dolgozik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, 36",
+      "updates": []
+    },
     {
       "id": "92176",
       "datetime": "2026.09.21. 15:44",
