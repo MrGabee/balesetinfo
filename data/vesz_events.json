@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:27:00.992780+00:00",
+  "updated_at": "2026-09-21T00:30:29.202895+00:00",
   "count": 3497,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -552,13 +552,30 @@
     {
       "id": "92107",
       "datetime": "2026.09.18. 20:10 -",
-      "title": "2 db frissítés",
+      "title": "Tűz ütött ki egy tiszaburai portán",
       "category": "Tűz ütött ki egy tiszaburai portán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92107",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Családi ház és melléképület ég teljes terjedelmében.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy csaknem ötven négyzetméteres családi ház Tiszaburán, a Fejlődés útján. Szintén ég a hozzá épített melléképület, és a lángok átterjedtek a szomszéd épület tetejére is. A helyszínre elsőként az abádszalóki önkormányzati tűzoltók érkeztek meg, Tiszaburára riasztottak még hevesi, tiszafüredi, mezőkövesdi és karcagi hivatásos tűzoltókat, és oda tart a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is. Az abádszalóki tűzoltók áramtalanítottak, légzőkészülékben bejutottak az épületbe, ahonnan egy gázpalackot is kivittek.",
+      "location": "Tiszabura, Fejlődés útja",
+      "updates": [
+        {
+          "title": "A tűzoltók körülhatárolták a tiszaburai tüzet",
+          "datetime": "2026.09.18. 21:15",
+          "category": "Tűzeset",
+          "text": "A Fejlődés útján egy parasztház égett teljes terjedelmében, lángolt egy melléképület, illetve a mellette összehordott tüzelő is. Abádszalóki, hevesi, tiszafüredi, mezőkövesdi tűzoltók a vármegyei katasztrófavédelmi műveleti szolgálat irányításával, több vízsugárral körülhatárolták a lángokat. Az épületben összesen heten voltak, elhelyezésük megoldott. Az áramszolgáltató le fogja választani a házat a hálózatról, ez érinti majd az egész utcát. A katasztrófavédelmi műveleti szolgálat helyszíni szemlét folytat le.",
+          "location": "Tiszabura, Fejlődés útja",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92107/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92107"
+        },
+        {
+          "title": "Eloltották a tüzet Tiszaburán",
+          "datetime": "2026.09.18. 22:03",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a Fejlődés útján keletkezett tüzet. A lángok megsemmisítették a parasztház tetejét, a megmaradt részeket a tűzoltók kézi erővel eltávolítják. Az egységek vízsugarakkal, kéziszerszámokkal végzik az utómunkálatokat.",
+          "location": "Tiszabura, Fejlődés útja",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92107/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92107"
+        }
+      ]
     },
     {
       "id": "92106",
