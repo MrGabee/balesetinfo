@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T20:17:21.664168+00:00",
+  "updated_at": "2026-09-21T20:20:43.446066+00:00",
   "count": 3525,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -124,14 +124,23 @@
     },
     {
       "id": "92173",
-      "datetime": "2026.09.21. 13:50",
+      "datetime": "2026.09.21. 13:50 -",
       "title": "Kigyulladt egy erdő aljnövényzete Bugacnál",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy erdő aljnövényzete Bugacnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92173",
       "lead": "Egy tanyát is veszélyeztet a tűz, amelynek oltását nehezíti az erős szél.",
       "body": "Lángra kapott egy erdő aljnövényzete a Bugachoz tartozó Alsómonostor közelében. Nagy területen ég, és egy tanyát is veszélyeztet a tűz. A kiskunfélegyházi, a kiskőrösi, a kecskeméti és a kiskunmajsai hivatásos, valamint a bugaci önkéntes tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, egy kiskunhalasi és egy kecskeméti vízszállító jármű közreműködésével oltják a lángokat. A munkálatokat nehezíti az erős szél.",
       "location": "Bugac, Alsómonostor tanyák",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Bugacnál",
+          "datetime": "2026.09.21. 22:19",
+          "category": "Tűzeset",
+          "text": "Az egységek több vízsugárral már körülhatárolták a lángokat a Bugachoz tartozó Alsómonostor közelében, ahol egy erdő aljnövényzete gyulladt ki. A tűz körülbelül ötven darab bálát is érint. A lángok a tanyára nem terjedtek át. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kiskunfélegyházi, a kiskőrösi, a kecskeméti és a kiskunmajsai hivatásos, valamint a bugaci önkéntes tűzoltók avatkoztak be. A munkálatokat egy kecskeméti, egy kiskunhalasi és egy szegedi vízszállító jármű, valamint homlokrakodó is segítette. Biztonsági okokból éjszakára felfüggesztették az aktív oltást, a területet a rajok váltásokban őrzik.",
+          "location": "Bugac, Alsómonostor tanyák",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92173/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92173"
+        }
+      ]
     },
     {
       "id": "92172",
