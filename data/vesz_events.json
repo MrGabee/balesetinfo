@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T13:23:47.520806+00:00",
-  "count": 3516,
+  "updated_at": "2026-09-21T13:27:28.676531+00:00",
+  "count": 3517,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92175",
+      "datetime": "2026.09.21. 15:26",
+      "title": "Összeütközött két autó Tétnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92175",
+      "lead": "A 8306-os út Gyömöre felé vezető szakaszán forgalmi akadály van.",
+      "body": "Karambolozott két személyautó Tét közelében, a 8306-os út Gyömöre felé vezető szakaszán, a 83-as főúttal közös csomópontnál. Egy ember beszorult az egyik járműbe. Őt a mentőkkel közösen kiemelték a téti önkéntes tűzoltók, akik áramtalanították is a gépkocsikat. A helyszínre érkeztek a győrszemerei önkéntes tűzoltók is. Az érintett útszakaszt a rajta lévő törmelékek miatt teljes szélességében lezárták.",
+      "location": "Tét, 8306",
+      "updates": []
+    },
     {
       "id": "92174",
       "datetime": "2026.09.21. 13:54",
@@ -34,7 +45,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Szirákon, a Rákóczi úton. A huszonöt négyzetméteres melléképület teljesen leégett. Mintegy háromszáz négyzetméteren az épület környezetében lévő aljnövényzet is lángokat kapott. A hatvani hivatásos tűzoltók két vízsugárral oltják a tüzet.",
       "location": "Szirák, Rákóczi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szirákon",
+          "datetime": "2026.09.21. 14:37",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Szirákon, ahol egy melléképület gyulladt ki a Rákóczi úton. A tűz körülbelül háromszáz négyzetméteren az épület környezetében lévő aljnövényzetet is érintette. A hatvani és a berceli hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy hatvani vízszállító is segíti.",
+          "location": "Szirák, Rákóczi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92172/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92172"
+        }
+      ]
     },
     {
       "id": "92171",
