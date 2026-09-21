@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:37:42.189964+00:00",
+  "updated_at": "2026-09-21T16:40:49.357127+00:00",
   "count": 3521,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "92176",
-      "datetime": "2026.09.21. 15:44",
+      "datetime": "2026.09.21. 15:44 -",
       "title": "Istálló ég Keréktelekinél",
-      "category": "Tűzeset",
+      "category": "Istálló ég Keréktelekinél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176",
       "lead": "A tűzoltók oltják a lángokat, és további egységek indultak a helyszínre",
       "body": "Kigyulladt egy istálló Kerékteleki közelében. Körülbelül harminc méteren ég a mintegy száz méter hosszú épület. A kisbéri, a győri és a pannonhalmi hivatásos, valamint a rédei önkéntes tűzoltók oltják a lángokat. Elindult a tűzesethez több más egység is.",
       "location": "Kerékteleki, Kerékteleki közelében",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél",
+          "datetime": "2026.09.21. 18:39",
+          "category": "Tűzeset",
+          "text": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél. A helyszínen négy istállóból kettő teljes terjedelmében lángra kapott. A kisbéri, a győri, a pannonhalmi, a komáromi és a tatabányai hivatásos, valamint a rédei, a tárkányi és az ácsi önkéntes tűzoltókat riasztották az esethez. A rajok a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat és a komáromi szolgálatparancsnok irányítása mellett dolgoznak a helyszínen. A munkálatokat egy győri és egy tatabányai vízszállító jármű, valamint egy erőgép is segíti.",
+          "location": "Kerékteleki, Kerékteleki közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92176"
+        }
+      ]
     },
     {
       "id": "92175",
