@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T07:08:30.731484+00:00",
+  "updated_at": "2026-09-21T07:12:32.553370+00:00",
   "count": 3502,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -50,13 +50,22 @@
     {
       "id": "92156",
       "datetime": "2026.09.21. 05:00 -",
-      "title": "1 db frissítés",
+      "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92156",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. Az újabb területeket érintő elsőfokú riasztásokról addig a lenti hivatkozáson elérhető térképről tájékozódhatnak.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.09.21. 06:41",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban erős szél veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92156/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92156"
+        }
+      ]
     },
     {
       "id": "92155",
@@ -64,8 +73,8 @@
       "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92155",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. Az újabb területeket érintő elsőfokú riasztásokról addig a lenti hivatkozáson elérhető térképről tájékozódhatnak.\n\nMegyék:Győr-Moson-Sopron",
       "location": "",
       "updates": []
     },
@@ -75,9 +84,9 @@
       "title": "Tűz volt egy lakóház szemétledobójában Nyíregyházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92154",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Toldi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy emeletes lakóház szemétledobójában Nyíregyházán, a Toldi utcában. A tűz két műanyag kukát és azok tartalmát érintette. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a nyíregyházi hivatásos tűzoltók elfojtották a lángokat. Az egységek megkezdték az épület lakóinak kimenekítését. A rajok átszellőztetik a lépcsőházat.",
+      "location": "Nyíregyháza, Toldi utca",
       "updates": []
     },
     {
@@ -86,9 +95,9 @@
       "title": "Két kamion ütközött a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92153",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Karcag közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két román kamion a 4-es főúton, Karcag közelében, a 170-es kilométerszelvénynél. A karcagi és püspökladányi hivatásos tűzoltók egy sofőrt kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Karcag, Apavári gátőrház gát",
       "updates": []
     },
     {
@@ -97,9 +106,9 @@
       "title": "Pince égett Székesfehérváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92152",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Tarnócai utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy családi ház pincéjében Székesfehérváron, a Tarnócai utcában. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Székesfehérvár, Tarnócai utca",
       "updates": []
     },
     {
@@ -108,9 +117,9 @@
       "title": "Autó égett Nagykátán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92151",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szabolcs utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Nagykátán, a Szabolcs utcában. A tűz átterjedt egy parkoló járműre is. A nagykátai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nagykáta, Szabolcs utca",
       "updates": []
     },
     {
@@ -119,9 +128,9 @@
       "title": "Lakókocsi égett Budapest XI. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92150",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Teljes terjedelmében égett egy lakókocsi Budapest XI. kerületében, a Duna mellett. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Budapest, Budafoki út",
       "updates": []
     },
     {
@@ -130,9 +139,9 @@
       "title": "Bozótos égett Tarnazsadánynál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92149",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett mintegy tíz hektárnyi területen Tarnazsadánynál, a Rákóczi úton. A tűz bozótost és nádast érintett. A gyöngyösi hivatásos tűzoltók hét vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Tarnazsadány, Rákóczi út",
       "updates": []
     },
     {
@@ -315,9 +324,9 @@
       "title": "Baleset történt Dunakeszin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92133",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 2-es főutat lezárták.",
+      "body": "Két személyautó ütközött össze Dunakeszin, a 2-es főúton, a 21-es kilométerszelvénynél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Dunakeszi, 2",
       "updates": []
     },
     {
@@ -348,9 +357,9 @@
       "title": "Felborult egy autó Pécs és Kökény között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92130",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kökényi út és az Időjós út találkozásánál lezárták az utat.",
+      "body": "Felborult egy személyautó Pécs és Kökény között, a Kökényi út és az Időjós út találkozásánál. A balesethez a pécsi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kökény, Kökényi út",
       "updates": []
     },
     {
@@ -359,9 +368,9 @@
       "title": "Tűz volt egy családi házban Dunaszekcsőn",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92129",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rózsa utcában oltották el a lángokat.",
+      "body": "Tűz volt egy többszintes családi ház tetőterében Dunaszekcsőn, a Rózsa utcában. A mohácsi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A rajok átszellőztetik a füsttel telítődött épületet.",
+      "location": "Dunaszekcső, Rózsa utca",
       "updates": []
     },
     {
@@ -370,9 +379,9 @@
       "title": "Parkoló autónak ütközött egy személygépkocsi Gutorföldén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92128",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi utcában félpályán halad a forgalom.",
+      "body": "Parkoló autónak ütközött egy személygépkocsi Gutorföldén, a Petőfi utcában. A baleset következtében az egyik jármű az árokba borult. A műszaki mentést a lenti hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Gutorfölde, Petőfi utca",
       "updates": []
     },
     {
@@ -381,9 +390,9 @@
       "title": "Kockabálák égtek Bősárkányon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92127",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 86-os főút mellett csaptak fel a lángok.",
+      "body": "Kockabálák égtek Bősárkányon, a 86-os főút közelében. A csornai hivatásos, valamint a bősárkányi és csornai önkéntes tűzoltók három vízsugárral eloltották a lángokat. A rajok munkáját egy erőgép is segítette.",
+      "location": "Bősárkány, 86",
       "updates": []
     },
     {
@@ -392,9 +401,9 @@
       "title": "Fának ütközött egy autó Szentpéterszeg és Gáborján között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92126",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4812-es úton zavartalanul halad a forgalom.",
+      "body": "Fának ütközött egy személyautó Szentpéterszeg és Gáborján között, a 4812-es út 8-as kilométerszelvénynél. A berettyóújfalui hivatásos tűzoltók áramtalanítják a gépkocsit. A helyszínre mentő is érkezett. A baleset nem okoz fennakadást a forgalomban.",
+      "location": "Szentpéterszeg, 4812",
       "updates": []
     },
     {
@@ -414,9 +423,9 @@
       "title": "Kigyulladt a tarló Hódmezővásárhely és Algyő között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92124",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz körülbelül másfél hektárt érintett.",
+      "body": "Tarló égett Hódmezővásárhely és Algyő közötti területen. A tűz körülbelül másfél hektárt érintett. A lángokat a hódmezővásárhelyi hivatásos tűzoltók oltották el.",
+      "location": "Algyő, külterület",
       "updates": []
     },
     {
@@ -436,9 +445,9 @@
       "title": "Összeütközött két autó Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92122",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Algyői út és a Ladvánszky utca találkozásához riasztották a tűzoltókat.",
+      "body": "Két személyautó karambolozott Szegeden, az Algyői út és a Ladvánszky utca találkozásánál. A műszaki mentést a város hivatásos tűzoltói végzik. A helyszínre mentő is érkezett.",
+      "location": "Szeged, Ladvánszky utca",
       "updates": []
     },
     {
