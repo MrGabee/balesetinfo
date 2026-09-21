@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T22:13:22.363225+00:00",
-  "count": 3527,
+  "updated_at": "2026-09-21T22:17:12.259651+00:00",
+  "count": 3528,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92186",
+      "datetime": "2026.09.22. 00:15",
+      "title": "Melléképülettűz Gyomaendrőd külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92186",
+      "lead": "A Kör utcába riasztották a tűzoltókat.",
+      "body": "Mintegy húsz négyzetméteres melléképület égett Gyomaendrőd külterületén, a Kör utcában. A tűz oltását a tulajdonos a gyomaendrődi önkormányzati tűzoltók kiérkezése előtt megkezdte. A raj egy vízsugárral körülhatárolta, majd elfojtotta a lángokat.",
+      "location": "Gyomaendrőd, Kör utca",
+      "updates": []
+    },
     {
       "id": "92185",
       "datetime": "2026.09.21. 23:41",
