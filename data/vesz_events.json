@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T17:42:08.058847+00:00",
-  "count": 3522,
+  "updated_at": "2026-09-21T17:45:46.708751+00:00",
+  "count": 3523,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92181",
+      "datetime": "2026.09.21. 19:42",
+      "title": "Két autó karambolozott a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92181",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két személygépkocsi Budapest X. kerületében, a Gergely utca és a Kőér utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságokat is a helyszínre várják.",
+      "location": "Budapest, Gergely utca",
+      "updates": []
+    },
     {
       "id": "92180",
       "datetime": "2026.09.21. 19:23",
