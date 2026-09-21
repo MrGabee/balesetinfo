@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:29:08.937180+00:00",
+  "updated_at": "2026-09-21T11:32:36.641326+00:00",
   "count": 3512,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -327,16 +327,7 @@
       "lead": "A Kárókatona utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy telephelyen Tatabányán, a Kárókatona utcában. A telephelyen nagyobb mennyiségű zöldhulladék ég. A tatabányai hivatásos tűzoltók két vízsugárral oltják a lángokat. A tűzoltók munkáját egy munkagép is segíti.",
       "location": "Tatabánya, Füzike utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Tatabányán",
-          "datetime": "2026.09.20. 19:28",
-          "category": "Tűzeset",
-          "text": "Tűz keletkezett egy telephelyen Tatabányán, a Kárókatona utcában. A telephelyen nagyobb mennyiségű zöldhulladék égett. A tatabányai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A tűzoltók munkáját két munkagép is segítette.",
-          "location": "Tatabánya, Füzike utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92143/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92143"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92142",
