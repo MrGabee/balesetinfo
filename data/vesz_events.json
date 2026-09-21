@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T11:10:21.363779+00:00",
-  "count": 3511,
+  "updated_at": "2026-09-21T11:14:31.463248+00:00",
+  "count": 3512,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92170",
+      "datetime": "2026.09.21. 13:12",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92170",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92169",
       "datetime": "2026.09.21. 12:49",
@@ -344,9 +355,9 @@
       "title": "Baleset történt Budapest II. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92141",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Slachta Margit rakparton váltakozva halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Budapest II. kerületében, a Slachta Margit rakparton. Az autókban összesen hárman utaztak. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon váltakozva halad a forgalom.",
+      "location": "Budapest, Árpád fejedelem útja",
       "updates": []
     },
     {
@@ -355,9 +366,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M7-en",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92140",
-      "lead": "Velence térségében teljes szélességében lezárták az utat.",
-      "body": "Szalagkorlátnak ütközött és felborult egy személygépkocsi az M7-es autópályán, Letenye felé, Velence térségében, a 44-es kilométerszelvénynél. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a székesfehérvári hivatásos és a pázmándi önkéntes tűzoltók áramtalanítják a járművet. Az érintett pályaszakaszt teljes szélességében lezárták.",
-      "location": "Velence, Boglárka utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -366,9 +377,9 @@
       "title": "Embert gázolt a vonat Békéscsabánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92139",
-      "lead": "A békéscsabai hivatásos tűzoltók műszaki mentést végeznek.",
-      "body": "Embert gázolt el egy tehervonat Békéscsabánál, a Kerek Tanya közelében. A békéscsabai hivatásos tűzoltók műszaki mentést végeznek. A baleset a vasúti közlekedés forgalmát akadályozza.",
-      "location": "Békéscsaba, Kerek tanya",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -410,9 +421,9 @@
       "title": "Karambol a 6-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92135",
-      "lead": "Pécsvárad térségében forgalmi akadály van.",
-      "body": "Egymásnak ütközött két személygépkocsi a 6-os főúton, Pécsvárad térségében, a 179-es kilométer közelében. Az autókban összesen öten utaztak. A pécsi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Pécsvárad, Pécsi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -443,9 +454,9 @@
       "title": "Autótűz Örkény és Tatárszentgyörgy között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92132",
-      "lead": "Az 5205-ös utat lezárták.",
-      "body": "Teljes terjedelmében égett egy személyautó Örkény és Tatárszentgyörgy között, az 5205-ös út 5-ös kilométerszelvényénél. A dabasi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Tatárszentgyörgy, 5205",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -454,9 +465,9 @@
       "title": "Összeütközött két autó Piliscsaba és Tinnye között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92131",
-      "lead": "Az 1133-as úton félpályán halad a forgalom.",
-      "body": "Összeütközött két személyautó Tinnye és Piliscsaba között, az 1133-as út 1-es kilométerszelvényénél. A bajnai hivatásos és a piliscsabai önkéntes tűzoltók áramtalanították a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Tinnye, 1133",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
