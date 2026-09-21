@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T09:05:37.082970+00:00",
-  "count": 3506,
+  "updated_at": "2026-09-21T09:09:33.289026+00:00",
+  "count": 3507,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92165",
+      "datetime": "2026.09.21. 11:06",
+      "title": "Karambol a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92165",
+      "lead": "A Hengersor utcába riasztották a tűzoltókat.",
+      "body": "Összeütközött egy teherautó és egy személygépkocsi Budapest XVIII. kerületében, a Hengersor utcában, az Erkel Ferenc és a Liszt Ferenc köz között. A fővárosi hivatásos tűzoltók áramtalanítják a személygépkocsit. A baleset helyszínén forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Hengersor utca",
+      "updates": []
+    },
     {
       "id": "92164",
       "datetime": "2026.09.21. 10:33",
