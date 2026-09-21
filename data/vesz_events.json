@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T14:24:37.468675+00:00",
-  "count": 3519,
+  "updated_at": "2026-09-21T14:28:11.134538+00:00",
+  "count": 3520,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92178",
+      "datetime": "2026.09.21. 16:26",
+      "title": "A tetejére borult egy autó a 2622-es úton, Monajnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92178",
+      "lead": "A tűzoltók a kerekeire állítják és áramtalanítják a járművet.",
+      "body": "Felborult egy személygépkocsi a Borsod-Abaúj-Zemplén vármegyei Monaj közelében, a 2622-es út Selyeb felé vezető szakaszán. A tetején állt meg a jármű, amelyben egy ember utazott. Őt a mentők vizsgálják. A műszaki mentést végző encsi hivatásos tűzoltók a rendőrségi helyszínelés után a kerekeire állítják és áramtalanítják a gépkocsit.",
+      "location": "Monaj, 2622",
+      "updates": []
+    },
     {
       "id": "92177",
       "datetime": "2026.09.21. 16:22",
