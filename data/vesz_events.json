@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T13:44:15.340319+00:00",
-  "count": 3517,
+  "updated_at": "2026-09-21T13:47:54.412962+00:00",
+  "count": 3518,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92176",
+      "datetime": "2026.09.21. 15:44",
+      "title": "Istálló ég Keréktelekinél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176",
+      "lead": "A tűzoltók oltják a lángokat, és további egységek indultak a helyszínre",
+      "body": "Kigyulladt egy istálló Kerékteleki közelében. Körülbelül harminc méteren ég a mintegy száz méter hosszú épület. A kisbéri, a győri és a pannonhalmi hivatásos, valamint a rédei önkéntes tűzoltók oltják a lángokat. Elindult a tűzesethez több más egység is.",
+      "location": "Kerékteleki, Kerékteleki közelében",
+      "updates": []
+    },
     {
       "id": "92175",
       "datetime": "2026.09.21. 15:26",
