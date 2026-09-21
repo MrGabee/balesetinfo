@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T00:23:52.717710+00:00",
-  "count": 3496,
+  "updated_at": "2026-09-21T00:27:00.992780+00:00",
+  "count": 3497,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92155",
+      "datetime": "2026.09.21. 02:25",
+      "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92155",
+      "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. Az újabb területeket érintő elsőfokú riasztásokról addig a lenti hivatkozáson elérhető térképről tájékozódhatnak.\n\nMegyék:Győr-Moson-Sopron",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92154",
       "datetime": "2026.09.20. 23:22",
@@ -533,9 +544,9 @@
       "title": "Két autó karambolozott a 39-es főúton, Tállya határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92108",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 20-21-es kilométer közé riasztották a szerencsi tűzoltókat.",
+      "body": "Egymásba hajtott két személykocsi a 39-es főút 20-21-es kilométere között, az egyik jármű fel is borult. A Tállya határában történt balesethez a szerencsi hivatásos tűzoltók vonultak. A raj áramtalanított. A főút érintett szakaszán félpályás útlezárás van, a helyszínre riasztották a társhatóságokat is.",
+      "location": "Tállya, 39",
       "updates": []
     },
     {
