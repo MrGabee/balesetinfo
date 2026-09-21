@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T15:21:44.260556+00:00",
-  "count": 3520,
+  "updated_at": "2026-09-21T15:25:29.735294+00:00",
+  "count": 3521,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92179",
+      "datetime": "2026.09.21. 17:22",
+      "title": "Autótűz Dégen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92179",
+      "lead": "Utómunkálatok zajlanak a helyszínen.",
+      "body": "Kigyulladt egy személygépkocsi Dégen, a Széchenyi utcában. A helyi önkéntes tűzoltók egy vízsugárral eloltották a lángokat. A sárbogárdi hivatásos tűzoltók irányítása mellett zajlanak az utómunkálatok.",
+      "location": "Dég, Széchenyi utca",
+      "updates": []
+    },
     {
       "id": "92178",
       "datetime": "2026.09.21. 16:26",
