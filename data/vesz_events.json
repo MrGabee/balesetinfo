@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T18:06:36.698621+00:00",
-  "count": 3523,
+  "updated_at": "2026-09-21T18:10:04.885741+00:00",
+  "count": 3524,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92182",
+      "datetime": "2026.09.21. 20:08",
+      "title": "Tűz volt Kabánál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92182",
+      "lead": "Száraz avar és erdő aljnövényzete égett.",
+      "body": "Mintegy két hektáron száraz avar és erdő aljnövényzete égett Kaba határánál, a 3407-es út közelében. A püspökladányi és a berettyóújfalui hivatásos, valamint a kabai önkéntes tűzoltók oltották el a lángokat. Utómunkálatokat végeznek.",
+      "location": "Kaba, külterület",
+      "updates": []
+    },
     {
       "id": "92181",
       "datetime": "2026.09.21. 19:42",
