@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T17:21:36.651716+00:00",
-  "count": 3521,
+  "updated_at": "2026-09-21T17:25:38.879075+00:00",
+  "count": 3522,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92180",
+      "datetime": "2026.09.21. 19:23",
+      "title": "Nyaraló égett Hajdúszoboszló külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92180",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy nyaraló Hajdúszoboszló külterületén. A huszonöt négyzetméter alapterületű épület teljes terjedelmében égett. A hajdúszoboszlói hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Hajdúszoboszló, külterület",
+      "updates": []
+    },
     {
       "id": "92179",
       "datetime": "2026.09.21. 17:22",
