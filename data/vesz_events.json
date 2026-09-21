@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-21T06:53:23.112976+00:00",
-  "count": 3501,
+  "updated_at": "2026-09-21T06:56:53.841779+00:00",
+  "count": 3502,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92160",
+      "datetime": "2026.09.21. 08:54",
+      "title": "Ég az aljnövényzet Karcagnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92160",
+      "lead": "A tűzoltók a 4-es főút és a 4206-os út közelében oltják a lángokat.",
+      "body": "Kigyulladt az aljnövényzet Karcag külterületén, a 4-es főút és a 4206-os út közelében. Nagy területet érint a tűz, amelyet a karcagi, a püspökladányi és a tiszafüredi hivatásos tűzoltók oltanak. A helyszínre érkezett a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Karcag, Karcag külterülete",
+      "updates": []
+    },
     {
       "id": "92159",
       "datetime": "2026.09.21. 08:16",
@@ -214,9 +225,9 @@
       "title": "Karambol történt Miskén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92142",
-      "lead": "A Fő utca és a Szent Imre utca kereszteződésében félpályán halad a forgalom.",
-      "body": "Egymásnak ütközött két személygépkocsi Miskén, a Fő utca és a Szent Imre utca kereszteződésében. A kalocsai hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Miske, Fő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -247,9 +258,9 @@
       "title": "Embert gázolt a vonat Békéscsabánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92139",
-      "lead": "A békéscsabai hivatásos tűzoltók műszaki mentést végeznek.",
-      "body": "Embert gázolt el egy tehervonat Békéscsabánál, a Kerek Tanya közelében. A békéscsabai hivatásos tűzoltók műszaki mentést végeznek. A baleset a vasúti közlekedés forgalmát akadályozza.",
-      "location": "Békéscsaba, Kerek tanya",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -280,9 +291,9 @@
       "title": "Két autó ütközött Budapest XXII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92136",
-      "lead": "A Gyár utcában dolgoznak a tűzoltók.",
-      "body": "Összeütközött két személygépkocsi Budapest XXII. kerületében, a Gyár utcában.  A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Budapest, Gyár utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,9 +302,9 @@
       "title": "Karambol a 6-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92135",
-      "lead": "Pécsvárad térségében forgalmi akadály van.",
-      "body": "Egymásnak ütközött két személygépkocsi a 6-os főúton, Pécsvárad térségében, a 179-es kilométer közelében. Az autókban összesen öten utaztak. A pécsi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Pécsvárad, Pécsi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -302,9 +313,9 @@
       "title": "Baleset történt Várpalotán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92134",
-      "lead": "A Kisfaludy utcában forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személygépkocsi Várpalotán, a Kisfaludy utcában. A pétfürdői hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Várpalota, Kisfaludy utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +324,9 @@
       "title": "Baleset történt Dunakeszin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92133",
-      "lead": "A 2-es főutat lezárták.",
-      "body": "Két személyautó ütközött össze Dunakeszin, a 2-es főúton, a 21-es kilométerszelvénynél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Dunakeszi, 2",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -324,9 +335,9 @@
       "title": "Autótűz Örkény és Tatárszentgyörgy között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92132",
-      "lead": "Az 5205-ös utat lezárták.",
-      "body": "Teljes terjedelmében égett egy személyautó Örkény és Tatárszentgyörgy között, az 5205-ös út 5-ös kilométerszelvényénél. A dabasi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Tatárszentgyörgy, 5205",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -379,9 +390,9 @@
       "title": "Kockabálák égtek Bősárkányon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92127",
-      "lead": "A 86-os főút mellett csaptak fel a lángok.",
-      "body": "Kockabálák égtek Bősárkányon, a 86-os főút közelében. A csornai hivatásos, valamint a bősárkányi és csornai önkéntes tűzoltók három vízsugárral eloltották a lángokat. A rajok munkáját egy erőgép is segítette.",
-      "location": "Bősárkány, 86",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
