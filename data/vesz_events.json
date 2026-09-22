@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T08:53:36.488888+00:00",
-  "count": 3532,
+  "updated_at": "2026-09-22T08:56:51.461831+00:00",
+  "count": 3533,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92191",
+      "datetime": "2026.09.22. 10:56",
+      "title": "Összeütközött két autó a 4238-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92191",
+      "lead": "Békés határába riasztották a tűzoltókat.",
+      "body": "Karambolozott két személyautó a 4238-as úton, Békés határában. A város önkormányzati tűzoltói áramtalanítják a gépkocsikat, amelyekben egy-egy ember utazott. A baleset helyszínén sok a törmelék, forgalomkorlátozásra kell számítani.",
+      "location": "Békés, 4238",
+      "updates": []
+    },
     {
       "id": "92190",
       "datetime": "2026.09.22. 08:44",
