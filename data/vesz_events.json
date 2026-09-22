@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T10:45:38.858491+00:00",
-  "count": 3540,
+  "updated_at": "2026-09-22T10:49:21.616150+00:00",
+  "count": 3541,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92199",
+      "datetime": "2026.09.22. 12:46",
+      "title": "Traktor pótkocsijának ütközött egy személyautó Szécsény és Nagylóc között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92199",
+      "lead": "A hatósági beavatkozás idejére lezárták a 2122-es út érintett szakaszát.",
+      "body": "Egy traktor pótkocsijának ütközött egy személyautó Szécsény és Nagylóc között, a 2122-es út 3-as kilométerszelvénye között. A szécsényi hivatásos tűzoltók áramtalanították a járműveket. Az egységet követően a társhatóságok is kiérkeztek a balesethez, és az úttestre került szennyeződés miatt a közútkezelő szakembereit is a helyszínre kérték. A hatósági munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Szécsény, 2122",
+      "updates": []
+    },
     {
       "id": "92198",
       "datetime": "2026.09.22. 12:33",
@@ -177,16 +188,7 @@
       "lead": "Trágya ég.",
       "body": "Trágya ég Tiszatenyő külterületén. A szolnoki hivatásos, a tiszaföldvári és a törökszentmiklósi önkormányzati, valamint a kengyeli önkéntes tűzoltók két vízsugárral dolgoznak a helyszínen. Egy szarvasi vízszállító jármű is segíti a munkálatokat.",
       "location": "Tiszatenyő, külteürlet",
-      "updates": [
-        {
-          "title": "Befejezték a munkálatokat Tiszatenyőnél",
-          "datetime": "2026.09.22. 10:08",
-          "category": "Tűzeset",
-          "text": "A tűzoltók befejezték a munkálatokat Tiszatenyőnél, ahol tegnap este meggyulladt a trágya a település külterületén. A szolnoki hivatásos, a tiszaföldvári és a törökszentmiklósi önkormányzati, valamint a kengyeli önkéntes tűzoltók dolgoztak a helyszínen. A munkálatokat egy szarvasi és egy mezőtúri vízszállító jármű is segítette, valamint a területen rakodógépek is dolgoztak, amelyekkel széthordták a nem égő részeket.",
-          "location": "Tiszatenyő, külteürlet",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92183/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92183"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92182",
