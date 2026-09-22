@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:06:07.524697+00:00",
+  "updated_at": "2026-09-22T08:09:16.414253+00:00",
   "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -82,14 +82,23 @@
     },
     {
       "id": "92183",
-      "datetime": "2026.09.21. 21:51",
+      "datetime": "2026.09.21. 21:51 -",
       "title": "Tűz keletkezett Tiszatenyőnél",
-      "category": "Tűzeset",
+      "category": "Tűz keletkezett Tiszatenyőnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92183",
       "lead": "Trágya ég.",
       "body": "Trágya ég Tiszatenyő külterületén. A szolnoki hivatásos, a tiszaföldvári és a törökszentmiklósi önkormányzati, valamint a kengyeli önkéntes tűzoltók két vízsugárral dolgoznak a helyszínen. Egy szarvasi vízszállító jármű is segíti a munkálatokat.",
       "location": "Tiszatenyő, külteürlet",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Tiszatenyőnél",
+          "datetime": "2026.09.22. 10:08",
+          "category": "Tűzeset",
+          "text": "A tűzoltók befejezték a munkálatokat Tiszatenyőnél, ahol tegnap este meggyulladt a trágya a település külterületén. A szolnoki hivatásos, a tiszaföldvári és a törökszentmiklósi önkormányzati, valamint a kengyeli önkéntes tűzoltók dolgoztak a helyszínen. A munkálatokat egy szarvasi és egy mezőtúri vízszállító jármű is segítette, valamint a területen rakodógépek is dolgoztak, amelyekkel széthordták a nem égő részeket.",
+          "location": "Tiszatenyő, külteürlet",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92183/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92183"
+        }
+      ]
     },
     {
       "id": "92182",
@@ -228,7 +237,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Szirákon, a Rákóczi úton. A huszonöt négyzetméteres melléképület teljesen leégett. Mintegy háromszáz négyzetméteren az épület környezetében lévő aljnövényzet is lángokat kapott. A hatvani hivatásos tűzoltók két vízsugárral oltják a tüzet.",
       "location": "Szirák, Rákóczi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szirákon",
+          "datetime": "2026.09.21. 14:37",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Szirákon, ahol egy melléképület gyulladt ki a Rákóczi úton. A tűz körülbelül háromszáz négyzetméteren az épület környezetében lévő aljnövényzetet is érintette. A hatvani és a berceli hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy hatvani vízszállító is segíti.",
+          "location": "Szirák, Rákóczi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92172/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92172"
+        }
+      ]
     },
     {
       "id": "92171",
