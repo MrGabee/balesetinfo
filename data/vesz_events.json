@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:55:26.485277+00:00",
+  "updated_at": "2026-09-22T06:59:27.367007+00:00",
   "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -97,9 +97,9 @@
       "title": "Tűz volt Kabánál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92182",
-      "lead": "Száraz avar és erdő aljnövényzete égett.",
-      "body": "Mintegy két hektáron száraz avar és erdő aljnövényzete égett Kaba határánál, a 3407-es út közelében. A püspökladányi és a berettyóújfalui hivatásos, valamint a kabai önkéntes tűzoltók oltották el a lángokat. Utómunkálatokat végeznek.",
-      "location": "Kaba, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Két autó karambolozott a X. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92181",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Összeütközött két személygépkocsi Budapest X. kerületében, a Gergely utca és a Kőér utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságokat is a helyszínre várják.",
-      "location": "Budapest, Gergely utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -119,9 +119,9 @@
       "title": "Nyaraló égett Hajdúszoboszló külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92180",
-      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "body": "Kigyulladt egy nyaraló Hajdúszoboszló külterületén. A huszonöt négyzetméter alapterületű épület teljes terjedelmében égett. A hajdúszoboszlói hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "location": "Hajdúszoboszló, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,19 +163,10 @@
       "title": "Istálló ég Keréktelekinél",
       "category": "Istálló ég Keréktelekinél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176",
-      "lead": "A tűzoltók oltják a lángokat, és további egységek indultak a helyszínre",
-      "body": "Kigyulladt egy istálló Kerékteleki közelében. Körülbelül harminc méteren ég a mintegy száz méter hosszú épület. A kisbéri, a győri és a pannonhalmi hivatásos, valamint a rédei önkéntes tűzoltók oltják a lángokat. Elindult a tűzesethez több más egység is.",
-      "location": "Kerékteleki, Kerékteleki közelében",
-      "updates": [
-        {
-          "title": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél",
-          "datetime": "2026.09.21. 18:39",
-          "category": "Tűzeset",
-          "text": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél. A helyszínen négy istállóból kettő teljes terjedelmében lángra kapott. A kisbéri, a győri, a pannonhalmi, a komáromi és a tatabányai hivatásos, valamint a rédei, a tárkányi és az ácsi önkéntes tűzoltókat riasztották az esethez. A rajok a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat és a komáromi szolgálatparancsnok irányítása mellett dolgoznak a helyszínen. A munkálatokat egy győri és egy tatabányai vízszállító jármű, valamint egy erőgép is segíti.",
-          "location": "Kerékteleki, Kerékteleki közelében",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92176"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92175",
@@ -259,16 +250,7 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.09.21. 19:11",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92170/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92170"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92169",
@@ -299,16 +281,7 @@
       "lead": "A tűzoltók a Petőfi utcában dolgoznak.",
       "body": "Nagy területen gaz és száraz fű ég Nyírkátán, a Petőfi utcában. A mátészalkai és a nyírbátori hivatásos tűzoltók oltják a lángokat. A munkálatokat egy mátészalkai vízszállító jármű is segíti.",
       "location": "Nyírkáta, Petőfi utca",
-      "updates": [
-        {
-          "title": "Utómunkálatok zajlanak Nyírkátán",
-          "datetime": "2026.09.21. 14:17",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat a tűzoltók Nyírkátán, a Petőfi utcában, ahol körülbelül hét hektáron vegyes vegetáció és akácos aljnövényzete égett. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a mátészalkai, a nyírbátori és a baktalórántházai hivatásos tűzoltók öt vízsugárral, kéziszerszámokkal és puttonyfecskendőkkel fékezték meg a lángokat. A munkálatokat egy mátészalkai és egy nyírbátori vízszállító jármű segítette. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Nyírkáta, Petőfi utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92168/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92168"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92167",
