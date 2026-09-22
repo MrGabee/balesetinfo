@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:35:30.788851+00:00",
+  "updated_at": "2026-09-22T11:39:26.523931+00:00",
   "count": 3541,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -192,9 +192,9 @@
       "title": "Lakás égett Szekszárdon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92184",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csatári utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy második emeleti társasházi lakás Szekszárdon, a Csatári utcában. A helyi, a paksi és a bonyhádi hivatásos tűzoltók két embert menekítettek ki, további húsz lakó saját erejéből hagyta el a házat. A rajok egy vízsugárral körülhatárolták, majd eloltották a lángokat. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Szekszárd, Csatári utca",
       "updates": []
     },
     {
@@ -335,6 +335,14 @@
       "body": "Lángra kapott egy erdő aljnövényzete a Bugachoz tartozó Alsómonostor közelében. Nagy területen ég, és egy tanyát is veszélyeztet a tűz. A kiskunfélegyházi, a kiskőrösi, a kecskeméti és a kiskunmajsai hivatásos, valamint a bugaci önkéntes tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, egy kiskunhalasi és egy kecskeméti vízszállító jármű közreműködésével oltják a lángokat. A munkálatokat nehezíti az erős szél.",
       "location": "Bugac, Alsómonostor tanyák",
       "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Bugacnál",
+          "datetime": "2026.09.21. 22:19",
+          "category": "Tűzeset",
+          "text": "Az egységek több vízsugárral már körülhatárolták a lángokat a Bugachoz tartozó Alsómonostor közelében, ahol egy erdő aljnövényzete gyulladt ki. A tűz körülbelül ötven darab bálát is érint. A lángok a tanyára nem terjedtek át. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kiskunfélegyházi, a kiskőrösi, a kecskeméti és a kiskunmajsai hivatásos, valamint a bugaci önkéntes tűzoltók avatkoztak be. A munkálatokat egy kecskeméti, egy kiskunhalasi és egy szegedi vízszállító jármű, valamint homlokrakodó is segítette. Biztonsági okokból éjszakára felfüggesztették az aktív oltást, a területet a rajok váltásokban őrzik.",
+          "location": "Bugac, Alsómonostor tanyák",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92173/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92173"
+        },
         {
           "title": "Megfékezték a bugaci tüzet",
           "datetime": "2026.09.22. 13:36",
