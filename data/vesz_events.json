@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:24:34.265804+00:00",
+  "updated_at": "2026-09-22T14:28:07.812206+00:00",
   "count": 3546,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92203",
-      "datetime": "2026.09.22. 15:09",
+      "datetime": "2026.09.22. 15:09 -",
       "title": "Kigyulladt a tarló Dávod közelében",
-      "category": "Tűzeset",
+      "category": "Kigyulladt a tarló Dávod közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92203",
       "lead": "Nagy területet érint a tűz.",
       "body": "Lángra kapott a tarló Dávod és Homorúd között, az 5151-es út közelében. Nagy területre terjedt ki, és egy bokros, erdős sávot is érint a tűz, amelyet a bajai és a nagybaracskai hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Dávod, Dávod és Homorúd között",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nem terjed tovább a tűz Dávod és Homorúd között",
+          "datetime": "2026.09.22. 16:25",
+          "category": "Tűzeset",
+          "text": "Megakadályozták annak a tűznek a továbbterjedését, amely Dávod és Homorúd között, az 5151-es út közelében keletkezett. A tarló, valamint lábon álló kömény égett le, és egy bokros, fás területet is érintenek a lángok. A bajai, a nagybaracskai, a kiskunhalasi, a szekszárdi és a véméndi hivatásos, valamint a dunafalvai és a nagybaracskai önkéntes tűzoltók egy bajai és egy szekszárdi vízszállító jármű közreműködésével oltják a tüzet.  A munkálatokat egy erőgép is segíti.",
+          "location": "Dávod, Dávod és Homorúd között",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92203/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92203"
+        }
+      ]
     },
     {
       "id": "92202",
