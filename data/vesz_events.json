@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:56:37.379360+00:00",
+  "updated_at": "2026-09-22T11:00:41.488993+00:00",
   "count": 3541,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "92197",
-      "datetime": "2026.09.22. 12:32",
+      "datetime": "2026.09.22. 12:32 -",
       "title": "Ég egy lakóház tetőszerkezete Gyöngyösön",
-      "category": "Tűzeset",
+      "category": "Ég egy lakóház tetőszerkezete Gyöngyösön",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92197",
       "lead": "Három vízsugárral dolgoznak a tűzoltók a lángok megfékezésén.",
       "body": "Egy lakóház tetőszerkezete gyulladt ki Gyöngyösön, a Petőfi Sándor utcánál. A város hivatásos tűzoltói a tetőszerkezet megbontását követően három vízsugárral oltják a tüzet. A munkálatok közben kihoztak az épületből egy gázpalackot. Az egységek mellett a közműszolgáltatók szakemberei is kiérkeztek a helyszínre.",
       "location": "Gyöngyös, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a gyöngyösi lakóháztűz lángjait",
+          "datetime": "2026.09.22. 12:58",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a tűz továbbterjedését, és eloltották a lángokat Gyöngyösön, a Petőfi Sándor utcánál, ahol kigyulladt egy lakóház. Az épület tetőszerkezete és két helyisége égett. A város hivatásos tűzoltói három vízsugárral fékezték meg a lángokat, és kiszellőztették az ingatlant. A rajok a munkálatok közben egy gázpalackot is kihoztak a házból.",
+          "location": "Gyöngyös, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92197/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92197"
+        }
+      ]
     },
     {
       "id": "92196",
