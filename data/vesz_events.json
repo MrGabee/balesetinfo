@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T16:05:48.172323+00:00",
-  "count": 3549,
+  "updated_at": "2026-09-22T16:08:54.821401+00:00",
+  "count": 3550,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92208",
+      "datetime": "2026.09.22. 18:06",
+      "title": "Baleset történt az M35-ösön, Debrecennél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92208",
+      "lead": "Egy sávon halad a forgalom a főváros felé vezető irányban.",
+      "body": "Két gépkocsi ütközött össze az M35-ös autópálya 35-ös kilométerszelvényénél, Debrecen térségében, a Budapest felé vezető irányban. A debreceni hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen öten utaztak. A baleset miatt egy sávon halad a forgalom az érintett pályaszakaszon.",
+      "location": "Debrecen, M35",
+      "updates": []
+    },
     {
       "id": "92207",
       "datetime": "2026.09.22. 17:42",
