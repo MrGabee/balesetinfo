@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T10:25:31.722570+00:00",
-  "count": 3536,
+  "updated_at": "2026-09-22T10:29:00.842523+00:00",
+  "count": 3537,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92195",
+      "datetime": "2026.09.22. 12:26",
+      "title": "Lakóház terasza és tetőtere ég Kálmáncsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92195",
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Egy egyszintes családi ház terasza és tetőtere ég Kálmáncsán, a Rákóczi utcában. A barcsi hivatásos tűzoltók az áramtalanítást követően két vízsugárral kezdték oltani a lángokat. A helyszínre a társhatóságok is kiérkeztek.",
+      "location": "Kálmáncsa, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "92194",
       "datetime": "2026.09.22. 12:22",
