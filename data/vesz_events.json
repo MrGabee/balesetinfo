@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T15:39:39.988430+00:00",
-  "count": 3548,
+  "updated_at": "2026-09-22T15:43:21.925764+00:00",
+  "count": 3549,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92207",
+      "datetime": "2026.09.22. 17:42",
+      "title": "Hármas karambol történt a 26-oson, Vadna térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92207",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Három gépjármű ütközött össze Vadna térségében, a 26-os főút 7-es és 8-as kilométerszelvénye között, a település előtti szakaszon. A kazincbarcikai hivatásos tűzoltók megkezdték a járművek áramtalanítását. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Vadna, 26",
+      "updates": []
+    },
     {
       "id": "92206",
       "datetime": "2026.09.22. 17:32",
