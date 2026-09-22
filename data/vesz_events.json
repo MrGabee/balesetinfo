@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T21:32:13.119635+00:00",
-  "count": 3553,
+  "updated_at": "2026-09-22T21:35:36.008370+00:00",
+  "count": 3554,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92212",
+      "datetime": "2026.09.22. 23:34",
+      "title": "Korlátnak ütközött egy autó az Erzsébet híd pesti hídfőjénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92212",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Megcsúszott az úttesten, a járdára hajtott, majd a hídkorlátnak ütközött egy gépkocsi Budapesten, az Erzsébet híd pesti hídfőjénél. Ketten utaztak a járműben, amelyet a fővárosi hivatásos tűzoltók áramtalanítottak. A balesethez az egység mellett a társhatóságok is kiérkeztek.",
+      "location": "Budapest, Erzsébet híd",
+      "updates": []
+    },
     {
       "id": "92211",
       "datetime": "2026.09.22. 22:52",
