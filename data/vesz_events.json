@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T05:32:15.723507+00:00",
+  "updated_at": "2026-09-22T05:36:07.293558+00:00",
   "count": 3528,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Autótűz Dégen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92179",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Utómunkálatok zajlanak a helyszínen.",
+      "body": "Kigyulladt egy személygépkocsi Dégen, a Széchenyi utcában. A helyi önkéntes tűzoltók egy vízsugárral eloltották a lángokat. A sárbogárdi hivatásos tűzoltók irányítása mellett zajlanak az utómunkálatok.",
+      "location": "Dég, Széchenyi utca",
       "updates": []
     },
     {
@@ -184,7 +184,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Szirákon, a Rákóczi úton. A huszonöt négyzetméteres melléképület teljesen leégett. Mintegy háromszáz négyzetméteren az épület környezetében lévő aljnövényzet is lángokat kapott. A hatvani hivatásos tűzoltók két vízsugárral oltják a tüzet.",
       "location": "Szirák, Rákóczi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szirákon",
+          "datetime": "2026.09.21. 14:37",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Szirákon, ahol egy melléképület gyulladt ki a Rákóczi úton. A tűz körülbelül háromszáz négyzetméteren az épület környezetében lévő aljnövényzetet is érintette. A hatvani és a berceli hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy hatvani vízszállító is segíti.",
+          "location": "Szirák, Rákóczi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92172/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92172"
+        }
+      ]
     },
     {
       "id": "92171",
@@ -223,10 +232,19 @@
       "title": "Száraz fű és nádas ég Karcag határában",
       "category": "Száraz fű és nádas ég Karcag határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92169",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az erős szélben gyorsan terjednek a lángok.",
+      "body": "Tűz keletkezett Karcag határában, a Penny utca közelében. Nagy területen ég a száraz fű és a nádas. A karcagi és a püspökladányi hivatásos tűzoltók oltják a lángokat, amelyek az erős szél miatt gyorsan terjednek, és szalmabálákat is veszélyeztetnek. A helyszínre indult több más egység is.",
+      "location": "Karcag, a Penny utca közelében",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Karcagnál",
+          "datetime": "2026.09.21. 16:14",
+          "category": "Közlekedési baleset",
+          "text": "Eloltották a lángokat Karcag határában, a Penny utca közelében, ahol kigyulladt a száraz fű és a nádas. Mintegy ötven hektár égett le. A karcagi, a püspökladányi, a tiszafüredi, a szeghalmi és a mezőtúri hivatásos tűzoltók, valamint az Életjel önkéntes tűzoltó egyesület tagjai a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fojtották el a lángokat.",
+          "location": "Karcag, a Penny utca közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92169/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92169"
+        }
+      ]
     },
     {
       "id": "92168",
@@ -237,7 +255,16 @@
       "lead": "A tűzoltók a Petőfi utcában dolgoznak.",
       "body": "Nagy területen gaz és száraz fű ég Nyírkátán, a Petőfi utcában. A mátészalkai és a nyírbátori hivatásos tűzoltók oltják a lángokat. A munkálatokat egy mátészalkai vízszállító jármű is segíti.",
       "location": "Nyírkáta, Petőfi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Nyírkátán",
+          "datetime": "2026.09.21. 14:17",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a tűzoltók Nyírkátán, a Petőfi utcában, ahol körülbelül hét hektáron vegyes vegetáció és akácos aljnövényzete égett. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a mátészalkai, a nyírbátori és a baktalórántházai hivatásos tűzoltók öt vízsugárral, kéziszerszámokkal és puttonyfecskendőkkel fékezték meg a lángokat. A munkálatokat egy mátészalkai és egy nyírbátori vízszállító jármű segítette. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Nyírkáta, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92168/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92168"
+        }
+      ]
     },
     {
       "id": "92167",
@@ -278,9 +305,9 @@
       "title": "Erkélyen keletkezett tűz Cegléden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92164",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szolnoki útra riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy ceglédi lakóház erkélyén, a Szolnoki úton. Az esethez a helyi hivatásos tűzoltókat riasztották. A raj egy vízsugárral eloltotta a lángokat.",
+      "location": "Cegléd, Szolnoki út",
       "updates": []
     },
     {
