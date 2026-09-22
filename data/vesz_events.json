@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T20:50:05.920986+00:00",
-  "count": 3552,
+  "updated_at": "2026-09-22T20:53:11.983532+00:00",
+  "count": 3553,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92211",
+      "datetime": "2026.09.22. 22:52",
+      "title": "Árokba csúszott egy autó Miskolcon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92211",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Árokba csúszott egy gépkocsi Miskolc diósgyőri városrészén, a Bertalan utca és a Szarkahegy utca sarkán. A járműben csak a vezetője utazott. A diósgyőri városrész hivatásos tűzoltói és a társhatóságok is a helyszínre érkeztek, a tűzoltók megszüntetik a forgalmi akadályt.",
+      "location": "Miskolc, Szarkahegy utca",
+      "updates": []
+    },
     {
       "id": "92210",
       "datetime": "2026.09.22. 21:55",
