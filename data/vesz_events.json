@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T10:29:00.842523+00:00",
-  "count": 3537,
+  "updated_at": "2026-09-22T10:32:17.614490+00:00",
+  "count": 3538,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92196",
+      "datetime": "2026.09.22. 12:30",
+      "title": "Felborult egy autó Kunhegyesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92196",
+      "lead": "A tűzoltók a Széchenyi utcában áramtalanították a járművet.",
+      "body": "Árokba borult egy személyautó Kunhegyesen, a Széchenyi utcában, a Kossuth Lajos utca közelében. Az oldalán állt meg a jármű, amelyben hárman utaztak. Mindannyian ki tudtak szállni. A város önkormányzati tűzoltói áramtalanították a gépkocsit.",
+      "location": "Kunhegyes, Széchenyi utca",
+      "updates": []
+    },
     {
       "id": "92195",
       "datetime": "2026.09.22. 12:26",
