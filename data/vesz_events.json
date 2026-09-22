@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T06:00:01.332585+00:00",
-  "count": 3529,
+  "updated_at": "2026-09-22T06:03:44.314975+00:00",
+  "count": 3530,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92188",
+      "datetime": "2026.09.22. 08:02",
+      "title": "Lesodródott az úttestről egy autó a 6-oson, Mecseknádasdnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92188",
+      "lead": "Félpályán lezárták az érintett útszakaszt a beavatkozás idejére.",
+      "body": "Lesodródott az úttestről, majd a partoldalban állt meg egy gépkocsi a 6-os főút 169-es kilométerszelvényénél, Mecseknádasd térségében. Az utasok saját erejükből szálltak ki a járműből, amelynek helyzetét a bonyhádi hivatásos és a mecseknádasdi önkéntes tűzoltók stabilizálják. A baleset miatt félpályán lezárták az érintett útszakaszt.",
+      "location": "Mecseknádasd, 6",
+      "updates": []
+    },
     {
       "id": "92187",
       "datetime": "2026.09.22. 07:41",
@@ -360,10 +371,19 @@
       "title": "Ég az aljnövényzet Karcagnál",
       "category": "Ég az aljnövényzet Karcagnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92160",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a 4-es főút és a 4206-os út közelében oltják a lángokat.",
+      "body": "Kigyulladt az aljnövényzet Karcag külterületén, a 4-es főút és a 4206-os út közelében. Nagy területet érint a tűz, amelyet a karcagi, a püspökladányi és a tiszafüredi hivatásos tűzoltók oltanak. A helyszínre érkezett a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Karcag, Karcag külterülete",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Karcagnál",
+          "datetime": "2026.09.21. 09:26",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Karcag külterületén, a 4-es főút és a 4206-os út közelében keletkezett. Egy legelőn gyulladt meg az aljnövényzet. Mintegy tizenöt hektárt érintett a tűz, amelyet a karcagi, a püspökladányi, a tiszafüredi és a szeghalmi hivatásos tűzoltók fékeztek meg. A rajok megszüntetik a még meglévő kisebb lángolásokat.",
+          "location": "Karcag, Karcag külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92160/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92160"
+        }
+      ]
     },
     {
       "id": "92159",
