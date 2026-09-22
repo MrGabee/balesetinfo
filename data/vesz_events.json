@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T07:27:42.806982+00:00",
+  "updated_at": "2026-09-22T07:31:38.437385+00:00",
   "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -163,10 +163,19 @@
       "title": "Istálló ég Keréktelekinél",
       "category": "Istálló ég Keréktelekinél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók oltják a lángokat, és további egységek indultak a helyszínre",
+      "body": "Kigyulladt egy istálló Kerékteleki közelében. Körülbelül harminc méteren ég a mintegy száz méter hosszú épület. A kisbéri, a győri és a pannonhalmi hivatásos, valamint a rédei önkéntes tűzoltók oltják a lángokat. Elindult a tűzesethez több más egység is.",
+      "location": "Kerékteleki, Kerékteleki közelében",
+      "updates": [
+        {
+          "title": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél",
+          "datetime": "2026.09.21. 18:39",
+          "category": "Tűzeset",
+          "text": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél. A helyszínen négy istállóból kettő teljes terjedelmében lángra kapott. A kisbéri, a győri, a pannonhalmi, a komáromi és a tatabányai hivatásos, valamint a rédei, a tárkányi és az ácsi önkéntes tűzoltókat riasztották az esethez. A rajok a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat és a komáromi szolgálatparancsnok irányítása mellett dolgoznak a helyszínen. A munkálatokat egy győri és egy tatabányai vízszállító jármű, valamint egy erőgép is segíti.",
+          "location": "Kerékteleki, Kerékteleki közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92176"
+        }
+      ]
     },
     {
       "id": "92175",
@@ -490,9 +499,9 @@
       "title": "Pince égett Székesfehérváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92152",
-      "lead": "A Tarnócai utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy családi ház pincéjében Székesfehérváron, a Tarnócai utcában. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Székesfehérvár, Tarnócai utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -501,9 +510,9 @@
       "title": "Autó égett Nagykátán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92151",
-      "lead": "A Szabolcs utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy személygépkocsi Nagykátán, a Szabolcs utcában. A tűz átterjedt egy parkoló járműre is. A nagykátai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Nagykáta, Szabolcs utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
