@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-22T10:32:17.614490+00:00",
-  "count": 3538,
+  "updated_at": "2026-09-22T10:35:40.708309+00:00",
+  "count": 3540,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92198",
+      "datetime": "2026.09.22. 12:33",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92198",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
+    {
+      "id": "92197",
+      "datetime": "2026.09.22. 12:32",
+      "title": "Ég egy lakóház tetőszerkezete Gyöngyösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92197",
+      "lead": "Három vízsugárral dolgoznak a tűzoltók a lángok megfékezésén.",
+      "body": "Egy lakóház tetőszerkezete gyulladt ki Gyöngyösön, a Petőfi Sándor utcánál. A város hivatásos tűzoltói a tetőszerkezet megbontását követően három vízsugárral oltják a tüzet. A munkálatok közben kihoztak az épületből egy gázpalackot. Az egységek mellett a közműszolgáltatók szakemberei is kiérkeztek a helyszínre.",
+      "location": "Gyöngyös, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "92196",
       "datetime": "2026.09.22. 12:30",
