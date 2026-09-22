@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T15:32:18.332580+00:00",
-  "count": 3547,
+  "updated_at": "2026-09-22T15:35:31.234011+00:00",
+  "count": 3548,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92206",
+      "datetime": "2026.09.22. 17:32",
+      "title": "Kigyulladt egy autó motortere Debrecenben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92206",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Egy gépkocsi motortere égett Debrecenben, a Sámsoni úton, a Diadal utca közelében. A járművet vontatták, a vontató autó azonban már nem tartózkodott a helyszínen a tűz keletkezése idején. A debreceni hivatásos tűzoltók áramtalanították a járművet, egy vízsugárral eloltották a lángokat, jelenleg az utómunkálatokat végzik. Az eset miatt a Sámsoni út városból kivezető oldalán, egy sávon forgalmi akadály alakult ki az érintett szakaszon.",
+      "location": "Debrecen, Sámsoni út",
+      "updates": []
+    },
     {
       "id": "92205",
       "datetime": "2026.09.22. 17:10",
