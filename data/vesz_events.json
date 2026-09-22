@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T12:40:42.562261+00:00",
-  "count": 3541,
+  "updated_at": "2026-09-22T12:44:32.978295+00:00",
+  "count": 3542,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92200",
+      "datetime": "2026.09.22. 14:42",
+      "title": "Egymásnak ütközött két autó Szennánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92200",
+      "lead": "A 66141-es úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Frontálisan karambolozott két személyautó a 66141-es út Szenna és Kaposszerdahely közötti szakaszán, a 7. kilométernél. A kaposvári hivatásos tűzoltók áramtalanították a járműveket. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szenna, 66141",
+      "updates": []
+    },
     {
       "id": "92199",
       "datetime": "2026.09.22. 12:46",
