@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:20:15.272075+00:00",
+  "updated_at": "2026-09-22T08:24:20.897616+00:00",
   "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Karambol történt az M1-esen, Bicskénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92187",
-      "lead": "A sztráda főváros felé vezető szakaszán történt a baleset.",
-      "body": "Összeütközött egy nyerges vontató és egy személygépkocsi Bicskénél, az M1-es autópálya 39-es kilométerénél, a Budapest felé vezető oldalon. A bicskei önkormányzati tűzoltók végzik a műszaki mentést, amely során áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
-      "location": "Bicske, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -486,9 +486,9 @@
       "title": "Tűz volt egy lakóház szemétledobójában Nyíregyházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92154",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Toldi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy emeletes lakóház szemétledobójában Nyíregyházán, a Toldi utcában. A tűz két műanyag kukát és azok tartalmát érintette. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a nyíregyházi hivatásos tűzoltók elfojtották a lángokat. Az egységek megkezdték az épület lakóinak kimenekítését. A rajok átszellőztetik a lépcsőházat.",
+      "location": "Nyíregyháza, Toldi utca",
       "updates": []
     },
     {
@@ -497,9 +497,9 @@
       "title": "Két kamion ütközött a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92153",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Karcag közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két román kamion a 4-es főúton, Karcag közelében, a 170-es kilométerszelvénynél. A karcagi és püspökladányi hivatásos tűzoltók egy sofőrt kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Karcag, Apavári gátőrház gát",
       "updates": []
     },
     {
@@ -508,9 +508,9 @@
       "title": "Pince égett Székesfehérváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92152",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Tarnócai utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy családi ház pincéjében Székesfehérváron, a Tarnócai utcában. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Székesfehérvár, Tarnócai utca",
       "updates": []
     },
     {
@@ -519,9 +519,9 @@
       "title": "Autó égett Nagykátán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92151",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szabolcs utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Nagykátán, a Szabolcs utcában. A tűz átterjedt egy parkoló járműre is. A nagykátai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nagykáta, Szabolcs utca",
       "updates": []
     },
     {
