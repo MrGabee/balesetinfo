@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T06:42:13.128323+00:00",
-  "count": 3531,
+  "updated_at": "2026-09-22T06:45:20.578531+00:00",
+  "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92190",
+      "datetime": "2026.09.22. 08:44",
+      "title": "Karambol Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92190",
+      "lead": "A Budai Nagy Antal utcában lassítja a forgalmat a baleset.",
+      "body": "Összeütközött egy személyautó és egy furgon Debrecenben, a Budai Nagy Antal utcában, a Gépész utcánál. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén olaj és törmelék került az úttestre, félpályán halad a forgalom.",
+      "location": "Debrecen, Budai Nagy Antal utca",
+      "updates": []
+    },
     {
       "id": "92189",
       "datetime": "2026.09.22. 08:10",
