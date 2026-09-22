@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T15:09:01.473561+00:00",
-  "count": 3546,
+  "updated_at": "2026-09-22T15:13:39.178335+00:00",
+  "count": 3547,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92205",
+      "datetime": "2026.09.22. 17:10",
+      "title": "Árokba hajtott egy autó Oroszlány és Bokod között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92205",
+      "lead": "Forgalmi akadály alakult ki a Bokodi úti dűlő érintett szakaszán.",
+      "body": "Árokba hajtott egy gépkocsi Oroszlány és Bokod között, a Bokodi úti dűlőn, a kanyarban. A vezetőt a helyszínen tartózkodók az oroszlányi önkormányzati tűzoltók kiérkezése előtt kiemelték a kocsiból, amelyet az egység áramtalanított. A társhatóságok is megérkeztek a balesethez, amely miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Oroszlány, Bokodi úti dűlő",
+      "updates": []
+    },
     {
       "id": "92204",
       "datetime": "2026.09.22. 16:03",
