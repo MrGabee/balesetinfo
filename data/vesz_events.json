@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T14:03:09.393288+00:00",
-  "count": 3545,
+  "updated_at": "2026-09-22T14:06:22.512693+00:00",
+  "count": 3546,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92204",
+      "datetime": "2026.09.22. 16:03",
+      "title": "Összeütközött két autó a 3-as és a 331-es kereszteződésében, Mezőkövesdnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92204",
+      "lead": "A tűzoltók mindkét járművet áramtalanítják.",
+      "body": "Két gépkocsi ütközött össze Mezőkövesd térségében, a 3-as és a 331-es főutak kereszteződésében. Összesen hárman utaztak a járművekben, mindannyian saját erejükből ki tudtak szállni. A mezőkövesdi hivatásos tűzoltók áramtalanítják a karambolos autókat.",
+      "location": "Mezőkövesd, 3",
+      "updates": []
+    },
     {
       "id": "92203",
       "datetime": "2026.09.22. 15:09",
