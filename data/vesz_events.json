@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T07:58:43.007087+00:00",
+  "updated_at": "2026-09-22T08:02:49.821371+00:00",
   "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Lesodródott az úttestről egy autó a 6-oson, Mecseknádasdnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92188",
-      "lead": "Félpályán lezárták az érintett útszakaszt a beavatkozás idejére.",
-      "body": "Lesodródott az úttestről, majd a partoldalban állt meg egy gépkocsi a 6-os főút 169-es kilométerszelvényénél, Mecseknádasd térségében. Az utasok saját erejükből szálltak ki a járműből, amelynek helyzetét a bonyhádi hivatásos és a mecseknádasdi önkéntes tűzoltók stabilizálják. A baleset miatt félpályán lezárták az érintett útszakaszt.",
-      "location": "Mecseknádasd, 6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -228,7 +228,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Szirákon, a Rákóczi úton. A huszonöt négyzetméteres melléképület teljesen leégett. Mintegy háromszáz négyzetméteren az épület környezetében lévő aljnövényzet is lángokat kapott. A hatvani hivatásos tűzoltók két vízsugárral oltják a tüzet.",
       "location": "Szirák, Rákóczi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szirákon",
+          "datetime": "2026.09.21. 14:37",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Szirákon, ahol egy melléképület gyulladt ki a Rákóczi úton. A tűz körülbelül háromszáz négyzetméteren az épület környezetében lévő aljnövényzetet is érintette. A hatvani és a berceli hivatásos tűzoltók két vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy hatvani vízszállító is segíti.",
+          "location": "Szirák, Rákóczi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92172/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92172"
+        }
+      ]
     },
     {
       "id": "92171",
@@ -267,10 +276,19 @@
       "title": "Száraz fű és nádas ég Karcag határában",
       "category": "Száraz fű és nádas ég Karcag határában",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92169",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az erős szélben gyorsan terjednek a lángok.",
+      "body": "Tűz keletkezett Karcag határában, a Penny utca közelében. Nagy területen ég a száraz fű és a nádas. A karcagi és a püspökladányi hivatásos tűzoltók oltják a lángokat, amelyek az erős szél miatt gyorsan terjednek, és szalmabálákat is veszélyeztetnek. A helyszínre indult több más egység is.",
+      "location": "Karcag, a Penny utca közelében",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Karcagnál",
+          "datetime": "2026.09.21. 16:14",
+          "category": "Közlekedési baleset",
+          "text": "Eloltották a lángokat Karcag határában, a Penny utca közelében, ahol kigyulladt a száraz fű és a nádas. Mintegy ötven hektár égett le. A karcagi, a püspökladányi, a tiszafüredi, a szeghalmi és a mezőtúri hivatásos tűzoltók, valamint az Életjel önkéntes tűzoltó egyesület tagjai a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fojtották el a lángokat.",
+          "location": "Karcag, a Penny utca közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92169/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92169"
+        }
+      ]
     },
     {
       "id": "92168",
@@ -298,9 +316,9 @@
       "title": "Karambolozott két autó Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92167",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Füredi utca egy szakaszán forgalomkorlátozásra kell számítani.",
+      "body": "Egymásnak ütközött két gépkocsi Kaposváron, a Füredi utcában, azaz a 67-es főúton, a Brassó és a Bem utca között. A város hivatásos tűzoltói áramtalanították az egyik járművet. A másiknál nem volt szükség ilyen beavatkozásra. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Kaposvár, Füredi utca",
       "updates": []
     },
     {
@@ -331,9 +349,9 @@
       "title": "Erkélyen keletkezett tűz Cegléden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92164",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szolnoki útra riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy ceglédi lakóház erkélyén, a Szolnoki úton. Az esethez a helyi hivatásos tűzoltókat riasztották. A raj egy vízsugárral eloltotta a lángokat.",
+      "location": "Cegléd, Szolnoki út",
       "updates": []
     },
     {
@@ -395,9 +413,9 @@
       "title": "Két autó ütközött a 4625-ös úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92159",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Tiszaalpár külterületén, a 4625-ös út és a Kecskeméti utca kereszteződésénél. A kiskunfélegyházai hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tiszaalpár, 4625",
       "updates": []
     },
     {
