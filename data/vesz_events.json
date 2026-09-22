@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T10:22:00.583801+00:00",
-  "count": 3535,
+  "updated_at": "2026-09-22T10:25:31.722570+00:00",
+  "count": 3536,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92194",
+      "datetime": "2026.09.22. 12:22",
+      "title": "Összeütközött két gépkocsi Tolnán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92194",
+      "lead": "Az Alkotmány utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott egy kistehergépkocsi és egy személyautó Tolnán, az Alkotmány utcában, a Balassi Bálint utca közelében. A balesethez a város önkormányzati tűzoltóit riasztották. A raj áramtalanította az egyik járművet, a másiknál erre nem volt szükség.",
+      "location": "Tolna, Alkotmány utca",
+      "updates": []
+    },
     {
       "id": "92193",
       "datetime": "2026.09.22. 12:17",
