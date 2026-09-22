@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-22T12:58:50.634055+00:00",
-  "count": 3543,
+  "updated_at": "2026-09-22T13:02:07.703097+00:00",
+  "count": 3544,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92202",
+      "datetime": "2026.09.22. 15:00",
+      "title": "Szemét ég Ráckeve külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92202",
+      "lead": "A tűz egy erdős részbe is belekapott, és ingatlanokat is veszélyeztet.",
+      "body": "Négy-öt hektáron ég az összehordott szemét Ráckeve külterületén, a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztet, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi, a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, nagy erőkkel a lángok megfékezésén dolgoznak.",
+      "location": "Ráckeve, Bercsényi utca",
+      "updates": []
+    },
     {
       "id": "92201",
       "datetime": "2026.09.22. 14:53",
