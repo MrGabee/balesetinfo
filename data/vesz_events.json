@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:17:09.592574+00:00",
+  "updated_at": "2026-09-22T14:20:57.630679+00:00",
   "count": 3546,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "92202",
-      "datetime": "2026.09.22. 15:00",
+      "datetime": "2026.09.22. 15:00 -",
       "title": "Szemét ég Ráckeve külterületén",
-      "category": "Tűzeset",
+      "category": "Szemét ég Ráckeve külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92202",
       "lead": "A tűz egy erdős részbe is belekapott, és ingatlanokat is veszélyeztet.",
       "body": "Négy-öt hektáron ég az összehordott szemét Ráckeve külterületén, a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztet, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi, a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, nagy erőkkel a lángok megfékezésén dolgoznak.",
       "location": "Ráckeve, Bercsényi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Ráckeve külterületén",
+          "datetime": "2026.09.22. 16:17",
+          "category": "Tűzeset",
+          "text": "A tűzoltók megakadályozták a lángok továbbterjedését Ráckeve külterületén, ahol négy-öt hektáron égett az összehordott szemét a Haladás utca és a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztetett, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi és a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett oltották a lángokat. A munkálatokat a monori hivatásos tűzoltók vízszállítója is segítette, illetve az önkormányzat több munkagépet biztosított a helyszínre. Az egységek jelenleg másfél hektáron folytatják a munkát.",
+          "location": "Ráckeve, Bercsényi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92202/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92202"
+        }
+      ]
     },
     {
       "id": "92201",
@@ -434,9 +443,9 @@
       "title": "Biogáz-alapanyag került az M0-s burkolatára",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92171",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megakadályozták, hogy a lakosságra nem veszélyes anyag elfolyjon.",
+      "body": "Biogáz-alapanyag folyt egy tartályautóból az M0-s autóút burkolatára, a Megyeri híd felé vezető oldalon, az 5-ös főúti csomópont közelében. Az esethez a fővárosi hivatásos tűzoltókat riasztották. A rajok lezárták az érintett forgalmi sávot, és megakadályozták, hogy az úttestre került, a lakosságra nem veszélyes anyag továbbfolyjon.",
+      "location": "Budapest, M0",
       "updates": []
     },
     {
