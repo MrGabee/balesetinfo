@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:12:07.316733+00:00",
+  "updated_at": "2026-09-22T06:16:09.070384+00:00",
   "count": 3531,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -268,7 +268,16 @@
       "lead": "Az erős szélben gyorsan terjednek a lángok.",
       "body": "Tűz keletkezett Karcag határában, a Penny utca közelében. Nagy területen ég a száraz fű és a nádas. A karcagi és a püspökladányi hivatásos tűzoltók oltják a lángokat, amelyek az erős szél miatt gyorsan terjednek, és szalmabálákat is veszélyeztetnek. A helyszínre indult több más egység is.",
       "location": "Karcag, a Penny utca közelében",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Karcagnál",
+          "datetime": "2026.09.21. 16:14",
+          "category": "Közlekedési baleset",
+          "text": "Eloltották a lángokat Karcag határában, a Penny utca közelében, ahol kigyulladt a száraz fű és a nádas. Mintegy ötven hektár égett le. A karcagi, a püspökladányi, a tiszafüredi, a szeghalmi és a mezőtúri hivatásos tűzoltók, valamint az Életjel önkéntes tűzoltó egyesület tagjai a Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fojtották el a lángokat.",
+          "location": "Karcag, a Penny utca közelében",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92169/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92169"
+        }
+      ]
     },
     {
       "id": "92168",
@@ -501,9 +510,9 @@
       "title": "Lakókocsi égett Budapest XI. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92150",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Teljes terjedelmében égett egy lakókocsi Budapest XI. kerületében, a Duna mellett. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Budapest, Budafoki út",
       "updates": []
     },
     {
