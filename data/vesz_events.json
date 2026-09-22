@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:09:16.414253+00:00",
+  "updated_at": "2026-09-22T08:13:06.310164+00:00",
   "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -175,16 +175,7 @@
       "lead": "A tűzoltók oltják a lángokat, és további egységek indultak a helyszínre",
       "body": "Kigyulladt egy istálló Kerékteleki közelében. Körülbelül harminc méteren ég a mintegy száz méter hosszú épület. A kisbéri, a győri és a pannonhalmi hivatásos, valamint a rédei önkéntes tűzoltók oltják a lángokat. Elindult a tűzesethez több más egység is.",
       "location": "Kerékteleki, Kerékteleki közelében",
-      "updates": [
-        {
-          "title": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél",
-          "datetime": "2026.09.21. 18:39",
-          "category": "Tűzeset",
-          "text": "Elhúzódó utómunkálatokra számítanak a tűzoltók Keréktelekinél. A helyszínen négy istállóból kettő teljes terjedelmében lángra kapott. A kisbéri, a győri, a pannonhalmi, a komáromi és a tatabányai hivatásos, valamint a rédei, a tárkányi és az ácsi önkéntes tűzoltókat riasztották az esethez. A rajok a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat és a komáromi szolgálatparancsnok irányítása mellett dolgoznak a helyszínen. A munkálatokat egy győri és egy tatabányai vízszállító jármű, valamint egy erőgép is segíti.",
-          "location": "Kerékteleki, Kerékteleki közelében",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92176"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92175",
@@ -497,9 +488,9 @@
       "title": "Két kamion ütközött a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92153",
-      "lead": "Karcag közelében teljes szélességében lezárták az utat.",
-      "body": "Összeütközött két román kamion a 4-es főúton, Karcag közelében, a 170-es kilométerszelvénynél. A karcagi és püspökladányi hivatásos tűzoltók egy sofőrt kiszabadítottak. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Karcag, Apavári gátőrház gát",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
