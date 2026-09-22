@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-22T10:14:59.113500+00:00",
-  "count": 3533,
+  "updated_at": "2026-09-22T10:18:18.964736+00:00",
+  "count": 3535,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92193",
+      "datetime": "2026.09.22. 12:17",
+      "title": "Karambolozott két autó Szekszárdon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92193",
+      "lead": "A Damjanich utcában forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy kisteherautó Szekszárdon, a Damjanich utcában, a Páskum utcánál.  A járművekben egy-egy ember utazott, mindketten ki tudtak szállni. A város hivatásos tűzoltói áramtalanították a személyautót, a másik gépkocsinál nincs szükség ilyen beavatkozásra. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szekszárd, Damjanich utca",
+      "updates": []
+    },
+    {
+      "id": "92192",
+      "datetime": "2026.09.22. 12:17",
+      "title": "Felborult egy autó Jósvafő és Szinpetri között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92192",
+      "lead": "Forgalmi akadály alakult ki a 2603-as út érintett szakaszán.",
+      "body": "Tetejére borult egy gépjármű Jósvafő és Szinpetri között, a 2603-as út 36-os kilométerszelvényénél. A két utas az aggteleki hivatásos tűzoltók kiérkezése előtt saját erejéből ki tudott szállni az autóból, amelyet az egység áramtalanít. A forgalmi akadályt okozó balesethez a mentők is kiérkeztek.",
+      "location": "Jósvafő, 2603",
+      "updates": []
+    },
     {
       "id": "92191",
       "datetime": "2026.09.22. 10:56",
