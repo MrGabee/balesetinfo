@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:28:07.097225+00:00",
+  "updated_at": "2026-09-23T09:31:52.244955+00:00",
   "count": 3567,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -380,9 +380,9 @@
       "title": "Felborult egy autó Kunhegyesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92196",
-      "lead": "A tűzoltók a Széchenyi utcában áramtalanították a járművet.",
-      "body": "Árokba borult egy személyautó Kunhegyesen, a Széchenyi utcában, a Kossuth Lajos utca közelében. Az oldalán állt meg a jármű, amelyben hárman utaztak. Mindannyian ki tudtak szállni. A város önkormányzati tűzoltói áramtalanították a gépkocsit.",
-      "location": "Kunhegyes, Széchenyi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -394,7 +394,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Egy egyszintes családi ház terasza és tetőtere ég Kálmáncsán, a Rákóczi utcában. A barcsi hivatásos tűzoltók az áramtalanítást követően két vízsugárral kezdték oltani a lángokat. A helyszínre a társhatóságok is kiérkeztek.",
       "location": "Kálmáncsa, Rákóczi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kálmáncsán",
+          "datetime": "2026.09.22. 12:53",
+          "category": "Tűzeset",
+          "text": "A barcsi hivatásos tűzoltók két vízsugárral előbb körülhatárolták, majd megfékezték a lángokat Kálmáncsán, ahol egy egyszintes családi ház hátsó terasza és tetőtere égett a Rákóczi utcában. Az egységek mellett a társhatóságok és az áramszolgáltató szakemberei is kiérkeztek a helyszínre.",
+          "location": "Kálmáncsa, Rákóczi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92195/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92195"
+        }
+      ]
     },
     {
       "id": "92194",
@@ -413,9 +422,9 @@
       "title": "Karambolozott két autó Szekszárdon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92193",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Damjanich utcában forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy kisteherautó Szekszárdon, a Damjanich utcában, a Páskum utcánál.  A járművekben egy-egy ember utazott, mindketten ki tudtak szállni. A város hivatásos tűzoltói áramtalanították a személyautót, a másik gépkocsinál nincs szükség ilyen beavatkozásra. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szekszárd, Damjanich utca",
       "updates": []
     },
     {
