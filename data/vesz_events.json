@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T18:43:20.652680+00:00",
-  "count": 3583,
+  "updated_at": "2026-09-23T18:46:34.157947+00:00",
+  "count": 3584,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92242",
+      "datetime": "2026.09.23. 20:44",
+      "title": "Tűz ütött ki egy Nyíradony határában lévő üzemben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92242",
+      "lead": "A famegmunkálással foglalkozó telepre nyíradonyi, nyírbátori és debreceni tűzoltók vonultak.",
+      "body": "Kigyulladt egy kazánház gyűjtője Nyíradony határában, egy famegmunkálással foglalkozó cég üzemében. A lángok átterjedtek a tetőszerkezetre és tüzet fogott egy forgácstároló is. A vármegyei műveletirányítás nyíradonyi, nyírbátori és debreceni hivatásos egységeket riasztott az esethez, a rajok légzésvédelem mellett, több vízsugárral oltják a lángokat. A beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Nyíradony, Debreceni utca",
+      "updates": []
+    },
     {
       "id": "92241",
       "datetime": "2026.09.23. 19:53",
