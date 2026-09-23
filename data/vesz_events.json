@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:10:17.432734+00:00",
+  "updated_at": "2026-09-23T12:14:08.369741+00:00",
   "count": 3570,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A ráckevei Duna-szakaszon lévő szigetre több település tűzoltóit riasztották.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából ötven négyzetméteres hétvégi ház Ráckevén, az Angyali szigeten. A tűz meggyújtotta a környező aljnövényzetet is, a lángok veszélyt jelentenek a közeli épületekre. Elsőként a ráckevei önkormányzati tűzoltók érkeztek a Dunához, őket és felszerelésüket csónakkal vitték át a szigetre, azonnal megkezdték az oltást. Az esethez szigetszentmiklósi és fővárosi hivatásos egységek, köztük két kishajó, illetve a dömsödi önkéntes tűzoltók is vonultak.",
       "location": "Ráckeve, Angyali sziget",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik az Angyali szigeten",
+          "datetime": "2026.09.23. 11:46",
+          "category": "Tűzeset",
+          "text": "A ráckevei Duna-szakaszon lévő szigeten egy hétvégi ház és a vele egybeépített melléképület égett teljes terjedelemben. Ráckevei önkormányzati, szigetszentmiklósi hivatásos, valamint dömsödi és kis-szigeti önkéntes tűzotlók avatkoztak be. Az egységek, amelyeket csónakokkal juttatták be a szigetre, három vízsugárral, kéziszerszámokkal körülhatárolták, illetve eloltották a lángokat.",
+          "location": "Ráckeve, Angyali sziget",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92224/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92224"
+        }
+      ]
     },
     {
       "id": "92223",
@@ -119,9 +128,9 @@
       "title": "Karambol az M0-áson, Soroksár térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92218",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 20-21-es kilométer között, az M1-es felé vezető oldalon két autó ütközött össze.",
+      "body": "Egymásba hajtott két személykocsi az M0-ás autóút M1-es felé vezető oldalán, Soroksár térségében. A 20-21-es kilométer között történt balesethez a fővárosi hivatásos tűzoltók vonultak, az egység áramtalanított. A helyszínre érkeztek a társhatóságok is. A járművek akadályozzák az autóút forgalmát, a tűzoltók a rendőri helyszínelés után szüntetik meg a forgalmi akadályt.",
+      "location": "Szigetszentmiklós, M0",
       "updates": []
     },
     {
@@ -130,9 +139,9 @@
       "title": "Összeütközött két jármű Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92217",
-      "lead": "Forgalmi akadály alakult ki a Nádor utca érintett szakaszán.",
-      "body": "Két gépjármű ütközött össze a IV. kerületi Nádor utcában, a Hárfa utcánál. A fővárosi hivatásos tűzoltók a társhatóságok és a közösségi közlekedési társaság szakembereinek értesítését kérték. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
-      "location": "Budapest, Nádor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
