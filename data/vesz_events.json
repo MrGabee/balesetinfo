@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T12:37:34.956856+00:00",
-  "count": 3571,
+  "updated_at": "2026-09-23T12:41:05.150917+00:00",
+  "count": 3572,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92230",
+      "datetime": "2026.09.23. 14:39",
+      "title": "Kigyulladt egy kisbusz Budapest második kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92230",
+      "lead": "A Gábor Áron utcába, a bevásárlóközpont közelébe riasztották a tűzoltókat.",
+      "body": "Kisgyulladt egy kisbusz belseje Budapesten, a második kerületi Gábor Áron utcában. A közelben tartózkodók még a rózsadombi önkéntes tűzoltók megérkezése előtt kerti locsolóval és porral oltóval elkezdték oltani a lángokat. Az önkéntes egység egy habosított és egy vízsugárral fékezi meg a tüzet. A tűzeset miatt fennakadás van a Gábor Áron utca forgalmában, ez érinti a közösségi közlekedést is.",
+      "location": "Budapest, Gábor Áron utca",
+      "updates": []
+    },
     {
       "id": "92229",
       "datetime": "2026.09.23. 14:22",
