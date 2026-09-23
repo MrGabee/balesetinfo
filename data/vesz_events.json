@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T07:14:35.483753+00:00",
+  "updated_at": "2026-09-23T07:18:14.081736+00:00",
   "count": 3561,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -97,9 +97,9 @@
       "title": "Árokba csúszott egy autó Miskolcon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92211",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Árokba csúszott egy gépkocsi Miskolc diósgyőri városrészén, a Bertalan utca és a Szarkahegy utca sarkán. A járműben csak a vezetője utazott. A diósgyőri városrész hivatásos tűzoltói és a társhatóságok is a helyszínre érkeztek, a tűzoltók megszüntetik a forgalmi akadályt.",
+      "location": "Miskolc, Szarkahegy utca",
       "updates": []
     },
     {
@@ -469,16 +469,7 @@
       "lead": "Trágya ég.",
       "body": "Trágya ég Tiszatenyő külterületén. A szolnoki hivatásos, a tiszaföldvári és a törökszentmiklósi önkormányzati, valamint a kengyeli önkéntes tűzoltók két vízsugárral dolgoznak a helyszínen. Egy szarvasi vízszállító jármű is segíti a munkálatokat.",
       "location": "Tiszatenyő, külteürlet",
-      "updates": [
-        {
-          "title": "Befejezték a munkálatokat Tiszatenyőnél",
-          "datetime": "2026.09.22. 10:08",
-          "category": "Tűzeset",
-          "text": "A tűzoltók befejezték a munkálatokat Tiszatenyőnél, ahol tegnap este meggyulladt a trágya a település külterületén. A szolnoki hivatásos, a tiszaföldvári és a törökszentmiklósi önkormányzati, valamint a kengyeli önkéntes tűzoltók dolgoztak a helyszínen. A munkálatokat egy szarvasi és egy mezőtúri vízszállító jármű is segítette, valamint a területen rakodógépek is dolgoztak, amelyekkel széthordták a nem égő részeket.",
-          "location": "Tiszatenyő, külteürlet",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92183/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92183"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92182",
