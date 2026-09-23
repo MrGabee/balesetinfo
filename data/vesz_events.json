@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:30:43.929920+00:00",
+  "updated_at": "2026-09-23T13:34:13.933658+00:00",
   "count": 3574,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -385,6 +385,14 @@
           "text": "A tűzoltók megakadályozták a lángok továbbterjedését Ráckeve külterületén, ahol négy-öt hektáron égett az összehordott szemét a Haladás utca és a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztetett, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi és a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett oltották a lángokat. A munkálatokat a monori hivatásos tűzoltók vízszállítója is segítette, illetve az önkormányzat több munkagépet biztosított a helyszínre. Az egységek jelenleg másfél hektáron folytatják a munkát.",
           "location": "Ráckeve, Bercsényi utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92202/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92202"
+        },
+        {
+          "title": "Eloltották a lángokat Ráckeve külterületén",
+          "datetime": "2026.09.22. 19:00",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Ráckeve külterületén, ahol négy-öt hektáron égett az összehordott szemét a Haladás utca és a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztetett, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi és a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett oltották a lángokat. A munkálatokat a monori hivatásos tűzoltók vízszállítója is segítette, illetve az önkormányzat több munkagépet biztosított a helyszínre. A munkálatok idejére a Haladás és a Bajcsy-Zsilinszky utcában tizenegy ingatlan harminchárom lakója ideiglenesen elhagyta otthonát, időközben a lakók visszatérhettek a lakásokba.",
+          "location": "Ráckeve, Bercsényi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92202/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92202"
         }
       ]
     },
@@ -394,9 +402,9 @@
       "title": "Karambol történt Békéscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92201",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rózsa utcában forgalmi akadályra lehet számítani.",
+      "body": "Összeütközött két személyautó Békéscsabán, a Rózsa utcában, az Egység utcánál. A város hivatásos tűzoltói áramtalanították a járműveket. A baleset helyszínén forgalmi akadályra lehet számítani.",
+      "location": "Békéscsaba, Rózsa utca",
       "updates": []
     },
     {
