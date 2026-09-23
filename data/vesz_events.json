@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T05:39:17.074305+00:00",
-  "count": 3557,
+  "updated_at": "2026-09-23T05:43:00.167458+00:00",
+  "count": 3558,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92216",
+      "datetime": "2026.09.23. 07:39",
+      "title": "Fának csapódott egy kisbusz Biatorbágy és Etyek között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92216",
+      "lead": "Egy utas beszorult, a tűzoltók feszítővágóval szabadítják ki.",
+      "body": "Fának csapódott egy kisbusz Biatorbágy és Etyek között, a 8106-os út 2-es kilométerszelvényénél. A járműben négyen utaztak, egyikük beszorult, az érdi és a törökbálinti hivatásos tűzoltók feszítővágó segítségével kezdték meg kimentését. A hatósági munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Biatorbágy, 8106",
+      "updates": []
+    },
     {
       "id": "92215",
       "datetime": "2026.09.23. 07:02",
@@ -197,9 +208,9 @@
       "title": "Karambol történt Békéscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92201",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rózsa utcában forgalmi akadályra lehet számítani.",
+      "body": "Összeütközött két személyautó Békéscsabán, a Rózsa utcában, az Egység utcánál. A város hivatásos tűzoltói áramtalanították a járműveket. A baleset helyszínén forgalmi akadályra lehet számítani.",
+      "location": "Békéscsaba, Rózsa utca",
       "updates": []
     },
     {
