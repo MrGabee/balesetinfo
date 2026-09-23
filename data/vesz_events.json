@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:10:32.570114+00:00",
+  "updated_at": "2026-09-23T09:14:18.818172+00:00",
   "count": 3567,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Két autó karambolozott Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92219",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók mindkét járművet áramtalanítják.",
+      "body": "Egy személyautó és egy kisteherautó ütközött össze Érden, a Hajnalka utca és a Jácint utca kereszteződésében. A város hivatásos tűzoltói érkeztek a helyszínre, megkezdték a járművek áramtalanítását.",
+      "location": "Érd, Hajnalka utca",
       "updates": []
     },
     {
@@ -455,9 +455,9 @@
       "title": "Karambol Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92190",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budai Nagy Antal utcában lassítja a forgalmat a baleset.",
+      "body": "Összeütközött egy személyautó és egy furgon Debrecenben, a Budai Nagy Antal utcában, a Gépész utcánál. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén olaj és törmelék került az úttestre, félpályán halad a forgalom.",
+      "location": "Debrecen, Budai Nagy Antal utca",
       "updates": []
     },
     {
