@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T17:37:42.335210+00:00",
-  "count": 3581,
+  "updated_at": "2026-09-23T17:41:07.727864+00:00",
+  "count": 3582,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92240",
+      "datetime": "2026.09.23. 19:40",
+      "title": "Füstölő égett Kisizsákon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92240",
+      "lead": "A Reviczky utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy szendvicspanel szerkezetű füstölő Kisizsákon, a Reviczky utcában. A füstölő teteje beszakadt. A szabadszállási önkormányzati tűzoltók oltották el az építményt.",
+      "location": "Izsák, Kisizsák Reviczky utca",
+      "updates": []
+    },
     {
       "id": "92239",
       "datetime": "2026.09.23. 18:46",
