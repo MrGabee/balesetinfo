@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T08:39:31.264969+00:00",
-  "count": 3565,
+  "updated_at": "2026-09-23T08:42:48.046590+00:00",
+  "count": 3566,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92224",
+      "datetime": "2026.09.23. 10:42",
+      "title": "Hétvégi ház ég az Angyali szigeten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92224",
+      "lead": "A ráckevei Duna-szakaszon lévő szigetre több település tűzoltóit riasztották.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából ötven négyzetméteres hétvégi ház Ráckevén, az Angyali szigeten. A tűz meggyújtotta a környező aljnövényzetet is, a lángok veszélyt jelentenek a közeli épületekre. Elsőként a ráckevei önkormányzati tűzoltók érkeztek a Dunához, őket és felszerelésüket csónakkal vitték át a szigetre, azonnal megkezdték az oltást. Az esethez szigetszentmiklósi és fővárosi hivatásos egységek, köztük két kishajó, illetve a dömsödi önkéntes tűzoltók is vonultak.",
+      "location": "Ráckeve, Angyali sziget",
+      "updates": []
+    },
     {
       "id": "92223",
       "datetime": "2026.09.23. 10:35",
