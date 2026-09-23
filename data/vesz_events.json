@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T09:07:14.123620+00:00",
-  "count": 3566,
+  "updated_at": "2026-09-23T09:10:32.570114+00:00",
+  "count": 3567,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92225",
+      "datetime": "2026.09.23. 11:09",
+      "title": "Kigyulladt egy garázs Pápán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92225",
+      "lead": "A város tűzoltóit a Budai Nagy Antal utcába riasztották.",
+      "body": "Tűz keletkezett egy garázs hátsó felében Pápán, a Budai Nagy Antal utcai garázssoron. Az épületben egy motorkerékpár és különböző tárgyak gyulladtak meg. A pápai hivatásos tűzoltók felnyitották a garázst, körülhatárolták a tüzet, megfékezték a lángokat, és még a tetőt is megbontották.",
+      "location": "Pápa, Budai Nagy Antal utca",
+      "updates": []
+    },
     {
       "id": "92224",
       "datetime": "2026.09.23. 10:42",
@@ -64,9 +75,9 @@
       "title": "Két autó karambolozott Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92219",
-      "lead": "A tűzoltók mindkét járművet áramtalanítják.",
-      "body": "Egy személyautó és egy kisteherautó ütközött össze Érden, a Hajnalka utca és a Jácint utca kereszteződésében. A város hivatásos tűzoltói érkeztek a helyszínre, megkezdték a járművek áramtalanítását.",
-      "location": "Érd, Hajnalka utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -444,9 +455,9 @@
       "title": "Karambol Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92190",
-      "lead": "A Budai Nagy Antal utcában lassítja a forgalmat a baleset.",
-      "body": "Összeütközött egy személyautó és egy furgon Debrecenben, a Budai Nagy Antal utcában, a Gépész utcánál. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén olaj és törmelék került az úttestre, félpályán halad a forgalom.",
-      "location": "Debrecen, Budai Nagy Antal utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
