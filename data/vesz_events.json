@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T10:55:00.287665+00:00",
-  "count": 3569,
+  "updated_at": "2026-09-23T10:58:58.057320+00:00",
+  "count": 3570,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92228",
+      "datetime": "2026.09.23. 12:55",
+      "title": "Baleset történt Rábapordányon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92228",
+      "lead": "Az Arany János utcában árokba borult egy autó.",
+      "body": "Letért az útról és árokba hajtott egy gépkocsi Rábapordányon, az Arany János utcában. Az autóban csak annak vezetője ült, a sofőrhöz mentő érkezett. A csornai hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Rábapordány, Arany János utca",
+      "updates": []
+    },
     {
       "id": "92227",
       "datetime": "2026.09.23. 12:39",
@@ -106,9 +117,9 @@
       "title": "Két autó karambolozott Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92219",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók mindkét járművet áramtalanítják.",
+      "body": "Egy személyautó és egy kisteherautó ütközött össze Érden, a Hajnalka utca és a Jácint utca kereszteződésében. A város hivatásos tűzoltói érkeztek a helyszínre, megkezdték a járművek áramtalanítását.",
+      "location": "Érd, Hajnalka utca",
       "updates": []
     },
     {
@@ -391,19 +402,10 @@
       "title": "Ég egy lakóház tetőszerkezete Gyöngyösön",
       "category": "Ég egy lakóház tetőszerkezete Gyöngyösön",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92197",
-      "lead": "Három vízsugárral dolgoznak a tűzoltók a lángok megfékezésén.",
-      "body": "Egy lakóház tetőszerkezete gyulladt ki Gyöngyösön, a Petőfi Sándor utcánál. A város hivatásos tűzoltói a tetőszerkezet megbontását követően három vízsugárral oltják a tüzet. A munkálatok közben kihoztak az épületből egy gázpalackot. Az egységek mellett a közműszolgáltatók szakemberei is kiérkeztek a helyszínre.",
-      "location": "Gyöngyös, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Eloltották a gyöngyösi lakóháztűz lángjait",
-          "datetime": "2026.09.22. 12:58",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a tűz továbbterjedését, és eloltották a lángokat Gyöngyösön, a Petőfi Sándor utcánál, ahol kigyulladt egy lakóház. Az épület tetőszerkezete és két helyisége égett. A város hivatásos tűzoltói három vízsugárral fékezték meg a lángokat, és kiszellőztették az ingatlant. A rajok a munkálatok közben egy gázpalackot is kihoztak a házból.",
-          "location": "Gyöngyös, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92197/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92197"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92196",
@@ -411,9 +413,9 @@
       "title": "Felborult egy autó Kunhegyesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92196",
-      "lead": "A tűzoltók a Széchenyi utcában áramtalanították a járművet.",
-      "body": "Árokba borult egy személyautó Kunhegyesen, a Széchenyi utcában, a Kossuth Lajos utca közelében. Az oldalán állt meg a jármű, amelyben hárman utaztak. Mindannyian ki tudtak szállni. A város önkormányzati tűzoltói áramtalanították a gépkocsit.",
-      "location": "Kunhegyes, Széchenyi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -442,9 +444,9 @@
       "title": "Összeütközött két gépkocsi Tolnán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92194",
-      "lead": "Az Alkotmány utcában van szükség tűzoltói beavatkozásra.",
-      "body": "Karambolozott egy kistehergépkocsi és egy személyautó Tolnán, az Alkotmány utcában, a Balassi Bálint utca közelében. A balesethez a város önkormányzati tűzoltóit riasztották. A raj áramtalanította az egyik járművet, a másiknál erre nem volt szükség.",
-      "location": "Tolna, Alkotmány utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
