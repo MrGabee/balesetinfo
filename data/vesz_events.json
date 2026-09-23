@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-09-23T20:38:45.400770+00:00",
+  "updated_at": "2026-09-23T20:42:07.263743+00:00",
   "count": 3585,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "92243",
-      "datetime": "2026.09.23. 22:04",
+      "datetime": "2026.09.23. 22:04 -",
       "title": "Kigyulladt egy vértesszőlősi családi ház",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy vértesszőlősi családi ház",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92243",
       "lead": "A Petőfi Sándor utcában van szükség tűzoltói segítségre.",
       "body": "Tűz ütött ki egy kétszintes vértesszőlősi családi ház felső szintjén, az épület több helyisége égett. A Petőfi Sándor utcai helyszínre tatabányai hivatásos tűzoltók, illetve a Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat vonult. Az egységek a műveleti szolgálat irányításával, légzésvédelem mellett, gyorsbeavatkozó sugarakkal fékezték meg a lángokat. A tűzoltók már az utómunkálatoknál tartanak, kiszellőztetik a felső szintet, hőkamerával átvizsgálják a házat.",
       "location": "Vértesszőlős, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Vérteszőlősön",
+          "datetime": "2026.09.23. 22:39",
+          "category": "Tűzeset",
+          "text": "A Petőfi Sándor utcába azért riasztották a tatabányai hivatásos tűzoltókat, mert tűz ütött ki egy háromszintes családi házban. Az egységek vízsugarakkal eloltották a lángokat, átvizsgálták az épületet. A földszinti lakrészt nem érintette a tűz, egy ember él ott, aki otthonában maradhat. A felső két szinten ketten laktak, őket ideiglenesen rokonok fogadják be.",
+          "location": "Vértesszőlős, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92243/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92243"
+        }
+      ]
     },
     {
       "id": "92242",
