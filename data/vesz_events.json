@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T14:21:43.732831+00:00",
-  "count": 3575,
+  "updated_at": "2026-09-23T14:25:15.250395+00:00",
+  "count": 3576,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92234",
+      "datetime": "2026.09.23. 16:23",
+      "title": "Oszlopnak hajtott egy autó Pusztakovácsiban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92234",
+      "lead": "A Fő utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Árokba hajtott és beton villanyoszlopnak ütközött egy személyautó Pusztakovácsiban, a Fő utcában. Az oszlop a jármű tetejére dőlt. A műszaki mentést végző marcali hivatásos tűzoltók áramtalanították a gépkocsit, amelyben egy ember utazott. Ő k tudott szállni.",
+      "location": "Pusztakovácsi, Fő utca",
+      "updates": []
+    },
     {
       "id": "92233",
       "datetime": "2026.09.23. 15:42",
