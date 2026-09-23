@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T07:40:08.022876+00:00",
+  "updated_at": "2026-09-23T07:44:30.071997+00:00",
   "count": 3562,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Motorost gázolt el egy személyautó Zalaegerszegen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92214",
-      "lead": "Mindkét jármű az árokba került az ütközés után.",
-      "body": "Motorkerékpárost gázolt el egy személyautó Zalaegerszegen, a 74106-os út Ságodi úti szakaszán, a ságodi elágazás kereszteződésénél. A baleset következtében mindkét jármű az árokba került. A zalaegerszegi hivatásos tűzoltók kiemelték az árokból a motorost, valamint áramtalanítják az autót. A helyszínen dolgoznak a társhatóságok is, a munkálatok idejére lezárták a Ságod felé vezető útszakaszt.",
-      "location": "Zalaegerszeg, Ságodi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Korlátnak ütközött egy autó az Erzsébet híd pesti hídfőjénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92212",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Megcsúszott az úttesten, a járdára hajtott, majd a hídkorlátnak ütközött egy gépkocsi Budapesten, az Erzsébet híd pesti hídfőjénél. Ketten utaztak a járműben, amelyet a fővárosi hivatásos tűzoltók áramtalanítottak. A balesethez az egység mellett a társhatóságok is kiérkeztek.",
-      "location": "Budapest, Erzsébet híd",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -339,16 +339,7 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Egy egyszintes családi ház terasza és tetőtere ég Kálmáncsán, a Rákóczi utcában. A barcsi hivatásos tűzoltók az áramtalanítást követően két vízsugárral kezdték oltani a lángokat. A helyszínre a társhatóságok is kiérkeztek.",
       "location": "Kálmáncsa, Rákóczi utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Kálmáncsán",
-          "datetime": "2026.09.22. 12:53",
-          "category": "Tűzeset",
-          "text": "A barcsi hivatásos tűzoltók két vízsugárral előbb körülhatárolták, majd megfékezték a lángokat Kálmáncsán, ahol egy egyszintes családi ház hátsó terasza és tetőtere égett a Rákóczi utcában. Az egységek mellett a társhatóságok és az áramszolgáltató szakemberei is kiérkeztek a helyszínre.",
-          "location": "Kálmáncsa, Rákóczi utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92195/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92195"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92194",
