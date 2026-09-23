@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-09-23T19:53:58.923386+00:00",
+  "updated_at": "2026-09-23T19:57:29.904565+00:00",
   "count": 3584,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "92242",
-      "datetime": "2026.09.23. 20:44",
+      "datetime": "2026.09.23. 20:44 -",
       "title": "Tűz ütött ki egy Nyíradony határában lévő üzemben",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy Nyíradony határában lévő üzemben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92242",
       "lead": "A famegmunkálással foglalkozó telepre nyíradonyi, nyírbátori és debreceni tűzoltók vonultak.",
       "body": "Kigyulladt egy kazánház gyűjtője Nyíradony határában, egy famegmunkálással foglalkozó cég üzemében. A lángok átterjedtek a tetőszerkezetre és tüzet fogott egy forgácstároló is. A vármegyei műveletirányítás nyíradonyi, nyírbátori és debreceni hivatásos egységeket riasztott az esethez, a rajok légzésvédelem mellett, több vízsugárral oltják a lángokat. A beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Nyíradony, Debreceni utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "A rajok már az utómunkálatokat végzik a nyíradonyi üzemben",
+          "datetime": "2026.09.23. 21:54",
+          "category": "Tűzeset",
+          "text": "A település szélén, egy famegmunkálással foglalkozó üzemben keletkezett tűz és izzott egy tárolóban körülbelül tíz-tizenöt köbméternyi faapríték. A nyíradonyi, nyírbátori és debreceni tűzoltók megbontották az oldalfalazatot, leürítették, illetve elárasztották a silót. A kiszedett aprítékot egy erőgép távolította el. A rajok eloltották a tüzet, vízsugarakkal, kéziszerszámokkal már az utómunkálatokat végzik.",
+          "location": "Nyíradony, Debreceni utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92242/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92242"
+        }
+      ]
     },
     {
       "id": "92241",
