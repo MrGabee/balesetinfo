@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T21:26:58.707579+00:00",
-  "count": 3585,
+  "updated_at": "2026-09-23T21:29:58.682663+00:00",
+  "count": 3586,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92244",
+      "datetime": "2026.09.23. 23:27",
+      "title": "Négyes karambol Budapesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92244",
+      "lead": "A Könyves Kálmán körúton, a Népligetnél ütköztek össze a járművek.",
+      "body": "Négy autó ütközött össze Budapesten, a Népligetnél, a Könyves Kálmán körúton. A gépkocsik akadályozzák a forgalmat. A fővárosi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "92243",
       "datetime": "2026.09.23. 22:04 -",
