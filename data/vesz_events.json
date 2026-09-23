@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T06:16:31.106780+00:00",
-  "count": 3559,
+  "updated_at": "2026-09-23T06:20:03.471714+00:00",
+  "count": 3560,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92218",
+      "datetime": "2026.09.23. 08:19",
+      "title": "Karambol az M0-áson, Soroksár térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92218",
+      "lead": "A 20-21-es kilométer között, az M1-es felé vezető oldalon két autó ütközött össze.",
+      "body": "Egymásba hajtott két személykocsi az M0-ás autóút M1-es felé vezető oldalán, Soroksár térségében. A 20-21-es kilométer között történt balesethez a fővárosi hivatásos tűzoltók vonultak, az egység áramtalanított. A helyszínre érkeztek a társhatóságok is. A járművek akadályozzák az autóút forgalmát, a tűzoltók a rendőri helyszínelés után szüntetik meg a forgalmi akadályt.",
+      "location": "Szigetszentmiklós, M0",
+      "updates": []
+    },
     {
       "id": "92217",
       "datetime": "2026.09.23. 07:43",
