@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T14:42:22.595753+00:00",
-  "count": 3576,
+  "updated_at": "2026-09-23T14:45:39.653974+00:00",
+  "count": 3577,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92235",
+      "datetime": "2026.09.23. 16:42",
+      "title": "Utoléréses baleset Kecskemét mellett",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92235",
+      "lead": "A Hetényegyházi úton, a miklóstelepi elágazásnál három autó karambolozott.",
+      "body": "Összeütközött három személykocsi Kecskemét közelében, a Hetényegyházi úton. A ráfutásos baleset a miklóstelepi elágazásnál történt, a kecskeméti hivatásos tűzoltók áramtalanítottak. A járművekben összesen öten utaztak. Az érintett útszakasz félpályán járható.",
+      "location": "Kecskemét, Hetényegyházi út",
+      "updates": []
+    },
     {
       "id": "92234",
       "datetime": "2026.09.23. 16:23",
