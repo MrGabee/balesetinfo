@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-23T12:58:21.936817+00:00",
-  "count": 3573,
+  "updated_at": "2026-09-23T13:01:39.795328+00:00",
+  "count": 3574,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92232",
+      "datetime": "2026.09.23. 15:01",
+      "title": "Súlyos baleset miatt megállították a 48-as főút forgalmát",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92232",
+      "lead": "Debrecen és Vámospércs között árokba hajtott egy autó.",
+      "body": "Letért az úttestről, árokba hajtott és a fák közé csapódott egy személykocsi a 48-as főút Debrecen és Vámospércs közötti szakaszán, a 15-16-os kilométer között. A járműben csak a sofőr utazott, a helyszínre mentő is érkezett. A gépkocsivezetőt a debreceni hivatásos tűzoltók a rendőrségi helyszínelést követően szabadítják ki az összetört autóból. A főút érintett szakaszát átmenetileg teljes szélességében lezárták.",
+      "location": "Vámospércs, 48",
+      "updates": []
+    },
     {
       "id": "92231",
       "datetime": "2026.09.23. 14:57",
@@ -358,6 +369,14 @@
       "body": "Négy-öt hektáron ég az összehordott szemét Ráckeve külterületén, a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztet, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi, a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, nagy erőkkel a lángok megfékezésén dolgoznak.",
       "location": "Ráckeve, Bercsényi utca",
       "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Ráckeve külterületén",
+          "datetime": "2026.09.22. 16:17",
+          "category": "Tűzeset",
+          "text": "A tűzoltók megakadályozták a lángok továbbterjedését Ráckeve külterületén, ahol négy-öt hektáron égett az összehordott szemét a Haladás utca és a Bercsényi utca utáni szakaszon. A tűz ingatlanokat veszélyeztetett, és az erdő egy részébe is belekapott. A város önkormányzati tűzoltói mellett a szigetszentmiklósi, a fővárosi és a dabasi hivatásos, valamint a délegyházi önkéntes tűzoltók érkeztek a helyszínre, a katasztrófavédelmi műveleti szolgálat csoportirányítása mellett oltották a lángokat. A munkálatokat a monori hivatásos tűzoltók vízszállítója is segítette, illetve az önkormányzat több munkagépet biztosított a helyszínre. Az egységek jelenleg másfél hektáron folytatják a munkát.",
+          "location": "Ráckeve, Bercsényi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92202/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92202"
+        },
         {
           "title": "Eloltották a lángokat Ráckeve külterületén",
           "datetime": "2026.09.22. 19:00",
