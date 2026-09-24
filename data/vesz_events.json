@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T05:44:08.580606+00:00",
-  "count": 3588,
+  "updated_at": "2026-09-24T05:47:42.002921+00:00",
+  "count": 3589,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92247",
+      "datetime": "2026.09.24. 07:45",
+      "title": "Elütött egy embert a vonat Berettyóújfalun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92247",
+      "lead": "A 47-es főúton, vagyis a Dózsa György utcai átjárónál történt a baleset.",
+      "body": "Elgázolt egy embert a Nagyváradról Püspökladányba tartó vonat Berettyóújfalun, a Dózsa György utcai vasúti átjáróban. A szerelvényen körülbelül negyvenöten voltak, az utasok leszálltak a vonatról és begyalogoltak a vasútállomásra, mire a városi hivatásos tűzoltók a helyszínre értek, a személyzeten kívül senki nem tartózkodott a vonaton. A baleset miatt a 47-es főút érintett szakaszát egy időre teljes szélességében lezárták. A vasúttársaság tájékoztatása szerint a helyszínelés idején az érintett szakaszon szünetel a vasútforgalom, Berettyóújfalu és Biharkeresztes között pótlóbuszokkal lehet közlekedni.",
+      "location": "Berettyóújfalu, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "92246",
       "datetime": "2026.09.24. 06:18",
@@ -193,7 +204,16 @@
       "lead": "Debrecen és Vámospércs között árokba hajtott egy autó.",
       "body": "Letért az úttestről, árokba hajtott és a fák közé csapódott egy személykocsi a 48-as főút Debrecen és Vámospércs közötti szakaszán, a 15-16-os kilométer között. A járműben csak a sofőr utazott, a helyszínre mentő is érkezett. A gépkocsivezetőt a debreceni hivatásos tűzoltók a rendőrségi helyszínelést követően szabadítják ki az összetört autóból. A főút érintett szakaszát átmenetileg teljes szélességében lezárták.",
       "location": "Vámospércs, 48",
-      "updates": []
+      "updates": [
+        {
+          "title": "Félpályán megindult a 48-as főút forgalma",
+          "datetime": "2026.09.23. 15:14",
+          "category": "Közlekedési baleset",
+          "text": "Debrecen és Vámospércs között, a 15-16-os kilométer között hajtott árokba  egy autó. A járműben a korábbiaktól eltérően nem egy, hanem két ember utazott, az autó vezetője ki tudott szállni a kocsiból, utasa az, aki beszorult a roncsba. Az esethez mentőautó és mentőhelikopter is érkezett, utóbbi már el is hagyta a helyszínt.",
+          "location": "Vámospércs, 48",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92232/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92232"
+        }
+      ]
     },
     {
       "id": "92231",
@@ -212,9 +232,9 @@
       "title": "Kigyulladt egy kisbusz Budapest második kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92230",
-      "lead": "A Gábor Áron utcába, a bevásárlóközpont közelébe riasztották a tűzoltókat.",
-      "body": "Kisgyulladt egy kisbusz belseje Budapesten, a második kerületi Gábor Áron utcában. A közelben tartózkodók még a rózsadombi önkéntes tűzoltók megérkezése előtt kerti locsolóval és porral oltóval elkezdték oltani a lángokat. Az önkéntes egység egy habosított és egy vízsugárral fékezi meg a tüzet. A tűzeset miatt fennakadás van a Gábor Áron utca forgalmában, ez érinti a közösségi közlekedést is.",
-      "location": "Budapest, Gábor Áron utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
