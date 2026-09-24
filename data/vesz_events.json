@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T16:59:21.653802+00:00",
-  "count": 3610,
+  "updated_at": "2026-09-24T17:03:02.643639+00:00",
+  "count": 3611,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92269",
+      "datetime": "2026.09.24. 19:01",
+      "title": "Kisebb tűz volt Komlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92269",
+      "lead": "Egy Pécsi úti társasházhoz riasztották a tűzoltókat.",
+      "body": "Kisebb tűz volt egy komlói társasház első emeleti lakásában, a Pécsi úton. Az ingatlanban berendezési tárgyak égtek, amit a helyi hivatásos tűzoltók eloltottak. A rajok kiszellőztetik a füsttel telítődött lakást.",
+      "location": "Komló, Pécsi út",
+      "updates": []
+    },
     {
       "id": "92268",
       "datetime": "2026.09.24. 18:30",
