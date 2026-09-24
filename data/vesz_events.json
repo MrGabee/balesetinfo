@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:07:16.865814+00:00",
+  "updated_at": "2026-09-24T07:10:42.976739+00:00",
   "count": 3592,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92249",
-      "datetime": "2026.09.24. 08:05",
+      "datetime": "2026.09.24. 08:05 -",
       "title": "Teljes terjedelmében ég egy ház Gersekaráton",
-      "category": "Tűzeset",
+      "category": "Teljes terjedelmében ég egy ház Gersekaráton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92249",
       "lead": "A Béke utcába vasvári, körmendi, zalaegerszegi és szombathelyi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy családi ház Gersekaráton, a Béke utcában. A helyszínre elsőként a vasvári önkormányzati tűzoltók érkeztek ki, majd csatlakoztak hozzájuk a körmendi és zalaegerszegi hivatásos tűzoltók. A rajok négy vízsugárral oltják a lángokat, a beavatkozáshoz kéziszerszámokat is használnak. A helyszínre további zalaegerszegi egység és egy szombathelyi szer is tart, Gersekarátra várják a Vas vármegyei katasztrófavédelmi műveleti szolgálatot is.",
       "location": "Gersekarát, Béke utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a gersekaráti lakóháztüzet",
+          "datetime": "2026.09.24. 09:08",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Gersekaráton, a Béke utcában, ahol kigyulladt és teljes terjedelmében égett egy családi ház. A szombathelyi, a körmendi és a zalaegerszegi hivatásos, valamint a vasvári önkormányzati tűzoltók egy zalaegerszegi vízszállító jármű közreműködésével, öt vízsugárral és kéziszerszámokkal fékezték meg a lángokat. A rajok, amelyek átvizsgálták az épületet, megbontják a tetőszerkezetet, és kiszellőztetik az ingatlant.",
+          "location": "Gersekarát, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92249/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92249"
+        }
+      ]
     },
     {
       "id": "92248",
@@ -406,9 +415,9 @@
       "title": "Karambol az M0-áson, Soroksár térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92218",
-      "lead": "A 20-21-es kilométer között, az M1-es felé vezető oldalon két autó ütközött össze.",
-      "body": "Egymásba hajtott két személykocsi az M0-ás autóút M1-es felé vezető oldalán, Soroksár térségében. A 20-21-es kilométer között történt balesethez a fővárosi hivatásos tűzoltók vonultak, az egység áramtalanított. A helyszínre érkeztek a társhatóságok is. A járművek akadályozzák az autóút forgalmát, a tűzoltók a rendőri helyszínelés után szüntetik meg a forgalmi akadályt.",
-      "location": "Szigetszentmiklós, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
