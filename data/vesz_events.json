@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:10:13.227089+00:00",
+  "updated_at": "2026-09-24T13:14:18.747466+00:00",
   "count": 3600,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Villamossal ütközött össze egy gépkocsi Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92251",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az István úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Villamossal karambolozott egy teherautó Budapest IV. kerületében, az István úton, a Jókai utcánál. A gépkocsi egy épületnek is nekiütközött. A fővárosi hivatásos tűzoltók végzik a műszaki mentést, a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, István út",
       "updates": []
     },
     {
@@ -111,16 +111,7 @@
       "lead": "A Béke utcába vasvári, körmendi, zalaegerszegi és szombathelyi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy családi ház Gersekaráton, a Béke utcában. A helyszínre elsőként a vasvári önkormányzati tűzoltók érkeztek ki, majd csatlakoztak hozzájuk a körmendi és zalaegerszegi hivatásos tűzoltók. A rajok négy vízsugárral oltják a lángokat, a beavatkozáshoz kéziszerszámokat is használnak. A helyszínre további zalaegerszegi egység és egy szombathelyi szer is tart, Gersekarátra várják a Vas vármegyei katasztrófavédelmi műveleti szolgálatot is.",
       "location": "Gersekarát, Béke utca",
-      "updates": [
-        {
-          "title": "Megfékezték a gersekaráti lakóháztüzet",
-          "datetime": "2026.09.24. 09:08",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Gersekaráton, a Béke utcában, ahol kigyulladt és teljes terjedelmében égett egy családi ház. A szombathelyi, a körmendi és a zalaegerszegi hivatásos, valamint a vasvári önkormányzati tűzoltók egy zalaegerszegi vízszállító jármű közreműködésével, öt vízsugárral és kéziszerszámokkal fékezték meg a lángokat. A rajok, amelyek átvizsgálták az épületet, megbontják a tetőszerkezetet, és kiszellőztetik az ingatlant.",
-          "location": "Gersekarát, Béke utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92249/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92249"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92248",
@@ -309,9 +300,9 @@
       "title": "Oszlopnak hajtott egy autó Pusztakovácsiban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92234",
-      "lead": "A Fő utcában van szükség tűzoltói beavatkozásra.",
-      "body": "Árokba hajtott és beton villanyoszlopnak ütközött egy személyautó Pusztakovácsiban, a Fő utcában. Az oszlop a jármű tetejére dőlt. A műszaki mentést végző marcali hivatásos tűzoltók áramtalanították a gépkocsit, amelyben egy ember utazott. Ő k tudott szállni.",
-      "location": "Pusztakovácsi, Fő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -395,9 +386,9 @@
       "title": "Búza került a 81-es főútra Söréd és Magyaralmás között",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92227",
-      "lead": "Egy kamionról esett le két bigbag zsáknyi vetőmag, a gabona beterítette az úttestet.",
-      "body": "Leesett egy kamionról és szétszakadt két, búzát tartalmazó bigbag zsák a 81-es főút 17-es kilométerénél, Söréd és Magyaralmás között. A vetőmag beterítette az úttestet. A móri önkormányzati tűzoltók kezdték megtisztítani a burkolatot. A főút érintett szakaszán fennakadásra kell számítani.",
-      "location": "Söréd, 81",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
