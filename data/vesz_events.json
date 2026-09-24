@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T06:01:34.096534+00:00",
-  "count": 3590,
+  "updated_at": "2026-09-24T06:05:34.590849+00:00",
+  "count": 3591,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92249",
+      "datetime": "2026.09.24. 08:05",
+      "title": "Teljes terjedelmében ég egy ház Gersekaráton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92249",
+      "lead": "A Béke utcába vasvári, körmendi, zalaegerszegi és szombathelyi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy családi ház Gersekaráton, a Béke utcában. A helyszínre elsőként a vasvári önkormányzati tűzoltók érkeztek ki, majd csatlakoztak hozzájuk a körmendi és zalaegerszegi hivatásos tűzoltók. A rajok négy vízsugárral oltják a lángokat, a beavatkozáshoz kéziszerszámokat is használnak. A helyszínre további zalaegerszegi egység és egy szombathelyi szer is tart, Gersekarátra várják a Vas vármegyei katasztrófavédelmi műveleti szolgálatot is.",
+      "location": "Gersekarát, Béke utca",
+      "updates": []
+    },
     {
       "id": "92248",
       "datetime": "2026.09.24. 07:50",
