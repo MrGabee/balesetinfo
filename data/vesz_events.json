@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T15:40:56.723165+00:00",
-  "count": 3607,
+  "updated_at": "2026-09-24T15:44:33.511146+00:00",
+  "count": 3608,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92266",
+      "datetime": "2026.09.24. 17:42",
+      "title": "Hármas karambol a 7-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92266",
+      "lead": "Székesfehérvár és Szabadbattyán között lezárták az utat.",
+      "body": "Három személyautó karambolozott Székesfehérvár és Szabadbattyán között, a 7-es főúton, az Ezerjó dűlő közelében. A székesfehérvári hivatásos tűzoltók két gépkocsit áramtalanították. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szabadbattyán, Ezerjó dűlő",
+      "updates": []
+    },
     {
       "id": "92265",
       "datetime": "2026.09.24. 17:36",
