@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T15:19:31.709666+00:00",
-  "count": 3604,
+  "updated_at": "2026-09-24T15:23:23.154212+00:00",
+  "count": 3605,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92263",
+      "datetime": "2026.09.24. 17:21",
+      "title": "Kigyulladt egy családi ház tetőszerkezete Sátoraljaújhelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92263",
+      "lead": "A Rákóczi Ferenc utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Családi ház tetőszerkezete égett Sátoraljaújhelyen, a Rákóczi Ferenc utcában. A város hivatásos tűzoltói eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Sátoraljaújhely, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92262",
       "datetime": "2026.09.24. 17:05",
