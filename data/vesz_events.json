@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T08:55:32.281506+00:00",
-  "count": 3594,
+  "updated_at": "2026-09-24T08:59:14.971213+00:00",
+  "count": 3595,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92253",
+      "datetime": "2026.09.24. 10:57",
+      "title": "Baleset történt Komorónál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92253",
+      "lead": "A 4145-ös úton dolgoznak a tűzoltók, akik egy embert kimentettek egy autóból.",
+      "body": "Lesodródott, majd az úttesten állt meg egy személyautó a 4145-os úton, Komoró közelében. Egy ember beszorult a járműbe. Őt kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző kisvárdai hivatásos tűzoltók. A rajok feszítővágót is használtak a beavatkozás során. Mentőhelikopter is érkezett a baleset helyszínére. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Komoró, 4145",
+      "updates": []
+    },
     {
       "id": "92252",
       "datetime": "2026.09.24. 10:22",
@@ -31,9 +42,9 @@
       "title": "Karambol Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92250",
-      "lead": "A Fonógyári útra vonultak a tűzoltók.",
-      "body": "Összeütközött két kisteherautó Szegeden, a Fonógyári úton. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen három ember utazott. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Szeged, Fonógyári út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -84,9 +95,9 @@
       "title": "Égett egy autó Angyalföldön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92246",
-      "lead": "A tűzoltók a Tatai és a Tahi utca kereszteződéséhez vonultak.",
-      "body": "Teljes terjedelmében égett egy személykocsi Budapest tizenharmadik kerületében, a Tatai és a Tahi utca kereszteződésénél. A lángoló jármű veszélyt jelentett a mellette parkoló autókra is. A fővárosi hivatásos tűzoltók két vízsugárral oltották el a gépkocsit. Az ügy részleteit hatósági vizsgálat tisztázza.",
-      "location": "Budapest, Tahi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -232,9 +243,9 @@
       "title": "Utoléréses baleset Kecskemét mellett",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92235",
-      "lead": "A Hetényegyházi úton, a miklóstelepi elágazásnál három autó karambolozott.",
-      "body": "Összeütközött három személykocsi Kecskemét közelében, a Hetényegyházi úton. A ráfutásos baleset a miklóstelepi elágazásnál történt, a kecskeméti hivatásos tűzoltók áramtalanítottak. A járművekben összesen öten utaztak. Az érintett útszakasz félpályán járható.",
-      "location": "Kecskemét, Hetényegyházi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
