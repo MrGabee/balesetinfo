@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T13:49:38.408897+00:00",
-  "count": 3600,
+  "updated_at": "2026-09-24T13:53:02.693973+00:00",
+  "count": 3601,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92259",
+      "datetime": "2026.09.24. 15:51",
+      "title": "Karambolozott két autó a 31-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92259",
+      "lead": "Sülysáp és Mende között egy szakaszon forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személyautó a 31-es főút Sülysáp és Mende közötti szakaszán. A járművekben egy-egy ember utazott. A nagykátai hivatásos és a sülysápi önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonultak. A rendőrségi helyszínelés idejére teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Sülysáp, 31",
+      "updates": []
+    },
     {
       "id": "92258",
       "datetime": "2026.09.24. 15:04",
@@ -139,9 +150,9 @@
       "title": "Elütött egy embert a vonat Berettyóújfalun",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92247",
-      "lead": "A 47-es főúton, vagyis a Dózsa György utcai átjárónál történt a baleset.",
-      "body": "Elgázolt egy embert a Nagyváradról Püspökladányba tartó vonat Berettyóújfalun, a Dózsa György utcai vasúti átjáróban. A szerelvényen körülbelül negyvenöten voltak, az utasok leszálltak a vonatról és begyalogoltak a vasútállomásra, mire a városi hivatásos tűzoltók a helyszínre értek, a személyzeten kívül senki nem tartózkodott a vonaton. A baleset miatt a 47-es főút érintett szakaszát egy időre teljes szélességében lezárták. A vasúttársaság tájékoztatása szerint a helyszínelés idején az érintett szakaszon szünetel a vasútforgalom, Berettyóújfalu és Biharkeresztes között pótlóbuszokkal lehet közlekedni.",
-      "location": "Berettyóújfalu, Dózsa György utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -206,16 +217,7 @@
       "lead": "A famegmunkálással foglalkozó telepre nyíradonyi, nyírbátori és debreceni tűzoltók vonultak.",
       "body": "Kigyulladt egy kazánház gyűjtője Nyíradony határában, egy famegmunkálással foglalkozó cég üzemében. A lángok átterjedtek a tetőszerkezetre és tüzet fogott egy forgácstároló is. A vármegyei műveletirányítás nyíradonyi, nyírbátori és debreceni hivatásos egységeket riasztott az esethez, a rajok légzésvédelem mellett, több vízsugárral oltják a lángokat. A beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Nyíradony, Debreceni utca",
-      "updates": [
-        {
-          "title": "A rajok már az utómunkálatokat végzik a nyíradonyi üzemben",
-          "datetime": "2026.09.23. 21:54",
-          "category": "Tűzeset",
-          "text": "A település szélén, egy famegmunkálással foglalkozó üzemben keletkezett tűz és izzott egy tárolóban körülbelül tíz-tizenöt köbméternyi faapríték. A nyíradonyi, nyírbátori és debreceni tűzoltók megbontották az oldalfalazatot, leürítették, illetve elárasztották a silót. A kiszedett aprítékot egy erőgép távolította el. A rajok eloltották a tüzet, vízsugarakkal, kéziszerszámokkal már az utómunkálatokat végzik.",
-          "location": "Nyíradony, Debreceni utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92242/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92242"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92241",
@@ -265,9 +267,9 @@
       "title": "Két autó ütközött össze Budatétényben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92238",
-      "lead": "A Bajcsy-Zsilinszky és az Őszibarack utca kereszteződéséhez riasztották a tűzoltókat.",
-      "body": "Két személykocsi karambolozott Budapest huszonkettedik kerületében, a Bajcsy-Zsilinszky utcában. Az egyik jármű átszakította a kerítést és egy ház oldalának csapódott, amelyben kárt is tett.  Az Őszibarack utcai kereszteződésnél történt balesethez a fővárosi hivatásos tűzoltók vonultak. A karambol miatt forgalmi akadály alakult ki, ez hatással van a közösségi közlekedésre is.",
-      "location": "Budapest, Bajcsy-Zsilinszky utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
