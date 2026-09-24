@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T11:40:48.296404+00:00",
-  "count": 3596,
+  "updated_at": "2026-09-24T11:44:15.705411+00:00",
+  "count": 3597,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92255",
+      "datetime": "2026.09.24. 13:43",
+      "title": "Parkoló autónak ütközött egy személygépkocsi Veresegyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92255",
+      "lead": "A Fő úton történt a baleset.",
+      "body": "Parkoló autónak ütközött egy személygépkocsi Veresegyházán, a Fő úton, a Szentlélek térnél. A műszaki mentést a gödöllői hivatásos és a veresegyházi önkéntes tűzoltók végzik. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Veresegyház, Fő út",
+      "updates": []
+    },
     {
       "id": "92254",
       "datetime": "2026.09.24. 12:30",
