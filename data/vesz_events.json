@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T04:19:35.028872+00:00",
-  "count": 3587,
+  "updated_at": "2026-09-24T04:23:09.835915+00:00",
+  "count": 3588,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92246",
+      "datetime": "2026.09.24. 06:18",
+      "title": "Égett egy autó Angyalföldön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92246",
+      "lead": "A tűzoltók a Tatai és a Tahi utca kereszteződéséhez vonultak.",
+      "body": "Teljes terjedelmében égett egy személykocsi Budapest tizenharmadik kerületében, a Tatai és a Tahi utca kereszteződésénél. A lángoló jármű veszélyt jelentett a mellette parkoló autókra is. A fővárosi hivatásos tűzoltók két vízsugárral oltották el a gépkocsit. Az ügy részleteit hatósági vizsgálat tisztázza.",
+      "location": "Budapest, Tahi utca",
+      "updates": []
+    },
     {
       "id": "92245",
       "datetime": "2026.09.24. 00:11",
