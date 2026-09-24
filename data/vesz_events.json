@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T06:39:35.123131+00:00",
-  "count": 3591,
+  "updated_at": "2026-09-24T06:42:51.884036+00:00",
+  "count": 3592,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92250",
+      "datetime": "2026.09.24. 08:42",
+      "title": "Karambol Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92250",
+      "lead": "A Fonógyári útra vonultak a tűzoltók.",
+      "body": "Összeütközött két kisteherautó Szegeden, a Fonógyári úton. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen három ember utazott. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Szeged, Fonógyári út",
+      "updates": []
+    },
     {
       "id": "92249",
       "datetime": "2026.09.24. 08:05",
