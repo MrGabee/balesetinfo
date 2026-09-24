@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T07:38:30.518122+00:00",
-  "count": 3592,
+  "updated_at": "2026-09-24T07:41:58.835050+00:00",
+  "count": 3593,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92251",
+      "datetime": "2026.09.24. 09:40",
+      "title": "Villamossal ütközött össze egy gépkocsi Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92251",
+      "lead": "Az István úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Villamossal karambolozott egy teherautó Budapest IV. kerületében, az István úton, a Jókai utcánál. A gépkocsi egy épületnek is nekiütközött. A fővárosi hivatásos tűzoltók végzik a műszaki mentést, a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, István út",
+      "updates": []
+    },
     {
       "id": "92250",
       "datetime": "2026.09.24. 08:42",
