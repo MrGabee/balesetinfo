@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T10:29:58.733595+00:00",
-  "count": 3595,
+  "updated_at": "2026-09-24T10:33:29.166517+00:00",
+  "count": 3596,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92254",
+      "datetime": "2026.09.24. 12:30",
+      "title": "Összeütközött két autó Keszthelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92254",
+      "lead": "A tűzoltók a Tapolcai úton áramtalanították a járműveket.",
+      "body": "Karambolozott két személyautó Keszthelyen, a Tapolcai úton, az Ady Endre utca közelében. A város hivatásos tűzoltói áramtalanították a járműveket. A helyszínre érkeztek a mentők is. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Keszthely, Tapolcai út",
+      "updates": []
+    },
     {
       "id": "92253",
       "datetime": "2026.09.24. 10:57",
