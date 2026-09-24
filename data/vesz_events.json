@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T14:40:34.442553+00:00",
-  "count": 3602,
+  "updated_at": "2026-09-24T14:43:36.978449+00:00",
+  "count": 3603,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92261",
+      "datetime": "2026.09.24. 16:41",
+      "title": "Két autó ütközött Monoron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92261",
+      "lead": "A Vasadi út és az Ország út kereszteződésében irányítás mellett halad a forgalom.",
+      "body": "Összeütközött két személyautó Monoron, a Vasadi út és az Ország út kereszteződésében. A balesethez a helyi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Monor, Vasadi út",
+      "updates": []
+    },
     {
       "id": "92260",
       "datetime": "2026.09.24. 16:04",
