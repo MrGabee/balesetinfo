@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T15:30:42.684541+00:00",
-  "count": 3605,
+  "updated_at": "2026-09-24T15:33:54.806730+00:00",
+  "count": 3606,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92264",
+      "datetime": "2026.09.24. 17:33",
+      "title": "Kamion és autó ütközött a 67-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92264",
+      "lead": "Szulimán és Szigetvár között dolgoznak a tűzoltók.",
+      "body": "Kamion és személyautó ütközött össze a 67-es főút Szulimán és Szigetvár közötti szakaszán, a 9-es kilométerszelvénynél. A balesethez a szigetvári hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Szulimán, 67",
+      "updates": []
+    },
     {
       "id": "92263",
       "datetime": "2026.09.24. 17:21",
