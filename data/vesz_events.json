@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-24T18:50:58.713359+00:00",
-  "count": 3614,
+  "updated_at": "2026-09-24T18:54:17.155807+00:00",
+  "count": 3616,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92274",
+      "datetime": "2026.09.24. 20:53",
+      "title": "Oszlopnak ütközött egy autó Budapest XI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92274",
+      "lead": "Az M1-es és az M7-es autópálya lehajtóján, az Egér út közelében történt a baleset.",
+      "body": "Oszlopnak ütközött egy személyautó Budapest XI. kerületében, az M1-es és az M7-es autópálya lehajtóján, az Egér út közelében. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, M1-M7",
+      "updates": []
+    },
+    {
+      "id": "92273",
+      "datetime": "2026.09.24. 20:51",
+      "title": "Kigyulladt egy garázs Várpalotán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92273",
+      "lead": "A Hétvezér útján oltották el a lángokat.",
+      "body": "Garázs égett Várpalotán, a Hétvezér útján.  A pétfürdői hivatásos tűzoltók áramtalanították az épületet, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Várpalota, Hétvezér útja",
+      "updates": []
+    },
     {
       "id": "92272",
       "datetime": "2026.09.24. 20:36",
