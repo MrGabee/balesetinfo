@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T12:04:57.961840+00:00",
-  "count": 3598,
+  "updated_at": "2026-09-24T12:08:31.109451+00:00",
+  "count": 3599,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92257",
+      "datetime": "2026.09.24. 14:06",
+      "title": "Szalagkorlátnak ütközött egy kisbusz az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92257",
+      "lead": "A Budapest felé vezető oldalon, Levélnél van szükség műszaki mentésre.",
+      "body": "Szalagkorlátnak ütközött egy kisbusz az M1-es autópálya Budapest felé vezető oldalán, Levél közelében, a 163-as és 164-es kilométerszelvény között. A baleset következtében a jármű az árokba csúszott. A mosonmagyaróvári hivatásos tűzoltók áramtalanították a kisbuszt.",
+      "location": "Levél, M1",
+      "updates": []
+    },
     {
       "id": "92256",
       "datetime": "2026.09.24. 13:46",
