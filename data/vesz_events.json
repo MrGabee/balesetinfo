@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T05:47:42.002921+00:00",
-  "count": 3589,
+  "updated_at": "2026-09-24T05:51:24.327972+00:00",
+  "count": 3590,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92248",
+      "datetime": "2026.09.24. 07:50",
+      "title": "Ráfutásos baleset a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92248",
+      "lead": "Somlóvásárhelynél félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Somlóvásárhely közelében, a 8-as főút és a Somlay utca kereszteződése közelében. A ráfutásos balesethez az ajkai hivatásos és a somlóvásárhelyi önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Somlóvásárhely, Somlay tér",
+      "updates": []
+    },
     {
       "id": "92247",
       "datetime": "2026.09.24. 07:45",
@@ -232,9 +243,9 @@
       "title": "Kigyulladt egy kisbusz Budapest második kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92230",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Gábor Áron utcába, a bevásárlóközpont közelébe riasztották a tűzoltókat.",
+      "body": "Kisgyulladt egy kisbusz belseje Budapesten, a második kerületi Gábor Áron utcában. A közelben tartózkodók még a rózsadombi önkéntes tűzoltók megérkezése előtt kerti locsolóval és porral oltóval elkezdték oltani a lángokat. Az önkéntes egység egy habosított és egy vízsugárral fékezi meg a tüzet. A tűzeset miatt fennakadás van a Gábor Áron utca forgalmában, ez érinti a közösségi közlekedést is.",
+      "location": "Budapest, Gábor Áron utca",
       "updates": []
     },
     {
