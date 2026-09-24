@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:40:35.544473+00:00",
+  "updated_at": "2026-09-24T10:43:59.261398+00:00",
   "count": 3596,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -290,16 +290,7 @@
       "lead": "Debrecen és Vámospércs között árokba hajtott egy autó.",
       "body": "Letért az úttestről, árokba hajtott és a fák közé csapódott egy személykocsi a 48-as főút Debrecen és Vámospércs közötti szakaszán, a 15-16-os kilométer között. A járműben csak a sofőr utazott, a helyszínre mentő is érkezett. A gépkocsivezetőt a debreceni hivatásos tűzoltók a rendőrségi helyszínelést követően szabadítják ki az összetört autóból. A főút érintett szakaszát átmenetileg teljes szélességében lezárták.",
       "location": "Vámospércs, 48",
-      "updates": [
-        {
-          "title": "Félpályán megindult a 48-as főút forgalma",
-          "datetime": "2026.09.23. 15:14",
-          "category": "Közlekedési baleset",
-          "text": "Debrecen és Vámospércs között, a 15-16-os kilométer között hajtott árokba  egy autó. A járműben a korábbiaktól eltérően nem egy, hanem két ember utazott, az autó vezetője ki tudott szállni a kocsiból, utasa az, aki beszorult a roncsba. Az esethez mentőautó és mentőhelikopter is érkezett, utóbbi már el is hagyta a helyszínt.",
-          "location": "Vámospércs, 48",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92232/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92232"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92231",
@@ -481,9 +472,9 @@
       "title": "Fának csapódott egy kisbusz Biatorbágy és Etyek között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92216",
-      "lead": "Egy utas beszorult, a tűzoltók feszítővágóval szabadítják ki.",
-      "body": "Fának csapódott egy kisbusz Biatorbágy és Etyek között, a 8106-os út 2-es kilométerszelvényénél. A járműben négyen utaztak, egyikük beszorult, az érdi és a törökbálinti hivatásos tűzoltók feszítővágó segítségével kezdték meg kimentését. A hatósági munkálatok idejére lezárták az érintett útszakaszt.",
-      "location": "Biatorbágy, 8106",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
