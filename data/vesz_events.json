@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:43:20.460672+00:00",
+  "updated_at": "2026-09-24T09:47:17.259368+00:00",
   "count": 3595,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,10 +53,19 @@
       "title": "Teljes terjedelmében ég egy ház Gersekaráton",
       "category": "Teljes terjedelmében ég egy ház Gersekaráton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92249",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Béke utcába vasvári, körmendi, zalaegerszegi és szombathelyi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy családi ház Gersekaráton, a Béke utcában. A helyszínre elsőként a vasvári önkormányzati tűzoltók érkeztek ki, majd csatlakoztak hozzájuk a körmendi és zalaegerszegi hivatásos tűzoltók. A rajok négy vízsugárral oltják a lángokat, a beavatkozáshoz kéziszerszámokat is használnak. A helyszínre további zalaegerszegi egység és egy szombathelyi szer is tart, Gersekarátra várják a Vas vármegyei katasztrófavédelmi műveleti szolgálatot is.",
+      "location": "Gersekarát, Béke utca",
+      "updates": [
+        {
+          "title": "Megfékezték a gersekaráti lakóháztüzet",
+          "datetime": "2026.09.24. 09:08",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Gersekaráton, a Béke utcában, ahol kigyulladt és teljes terjedelmében égett egy családi ház. A szombathelyi, a körmendi és a zalaegerszegi hivatásos, valamint a vasvári önkormányzati tűzoltók egy zalaegerszegi vízszállító jármű közreműködésével, öt vízsugárral és kéziszerszámokkal fékezték meg a lángokat. A rajok, amelyek átvizsgálták az épületet, megbontják a tetőszerkezetet, és kiszellőztetik az ingatlant.",
+          "location": "Gersekarát, Béke utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92249/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92249"
+        }
+      ]
     },
     {
       "id": "92248",
@@ -395,9 +404,9 @@
       "title": "Karambol Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92222",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Maglódi út és a Gitár utca kereszteződésénél.",
+      "body": "Egymásnak ütközött két személyautó Budapest X. kerületében, a Maglódi út és a Gitár utca kereszteződésében. A műszaki mentést végző fővárosi hivatásos tűzoltók megszüntetik a forgalmi akadályt. A balesethez a mentők is kivonultak.",
+      "location": "Budapest, Maglódi út, Gitár utca",
       "updates": []
     },
     {
