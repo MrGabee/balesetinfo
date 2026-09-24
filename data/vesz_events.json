@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T15:33:54.806730+00:00",
-  "count": 3606,
+  "updated_at": "2026-09-24T15:37:46.525919+00:00",
+  "count": 3607,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92265",
+      "datetime": "2026.09.24. 17:36",
+      "title": "Trolibusz és személyautó karambolozott Budapest VI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92265",
+      "lead": "A Nagymező utca és a Dessewffy utca kereszteződésében van szükség műszaki mentésre.",
+      "body": "Trolibusz és személyautó karambolozott Budapest VI. kerületében, a Nagymező utca és a Dessewffy utca kereszteződésében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. A buszon huszonöt fő utazott.",
+      "location": "Budapest, Nagymező utca",
+      "updates": []
+    },
     {
       "id": "92264",
       "datetime": "2026.09.24. 17:33",
