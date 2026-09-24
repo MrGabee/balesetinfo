@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T11:44:15.705411+00:00",
-  "count": 3597,
+  "updated_at": "2026-09-24T11:47:50.003493+00:00",
+  "count": 3598,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92256",
+      "datetime": "2026.09.24. 13:46",
+      "title": "Egymásnak ütközött két autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92256",
+      "lead": "A Böszörményi útra riasztották a tűzoltókat.",
+      "body": "Két személyautó karambolozott Debrecenben, a Böszörményi úton. A ráfutásos baleset a Hősök utcája és a Füredi út közötti szakaszon történt. A város hivatásos tűzoltói az egyik gépkocsit áramtalanították.",
+      "location": "Debrecen, Böszörményi út",
+      "updates": []
+    },
     {
       "id": "92255",
       "datetime": "2026.09.24. 13:43",
