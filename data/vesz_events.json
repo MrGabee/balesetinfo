@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-24T18:54:17.155807+00:00",
-  "count": 3616,
+  "updated_at": "2026-09-24T18:57:54.673394+00:00",
+  "count": 3617,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92275",
+      "datetime": "2026.09.24. 20:56",
+      "title": "Melléképülettűz Tornaszentjakabon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92275",
+      "lead": "A Petőfi soron csaptak fel a lángok.",
+      "body": "Melléképület égett Tornaszentjakabon, a Petőfi soron. A tűz a szomszédos lakóház tetőszerkezetére is átterjedt. A bódvaszilasi hivatásos tűzoltók két vízsugárral eloltották a lángokat.",
+      "location": "Tornaszentjakab, Petőfi sor",
+      "updates": []
+    },
     {
       "id": "92274",
       "datetime": "2026.09.24. 20:53",
