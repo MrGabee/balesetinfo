@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T14:36:25.227384+00:00",
-  "count": 3632,
+  "updated_at": "2026-09-25T14:39:45.767370+00:00",
+  "count": 3633,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92291",
+      "datetime": "2026.09.25. 16:39",
+      "title": "Autó és motoros karambolozott Budapesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92291",
+      "lead": "A XIX. kerületben történt a baleset.",
+      "body": "Egy motorkerékpáros és egy személyautó karambolozott Budapest XIX. kerületében, a Vak Bottyán utca és a Lehet utca kereszteződésénél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esethez érkeztek.",
+      "location": "Budapest, Vak Bottyán utca",
+      "updates": []
+    },
     {
       "id": "92290",
       "datetime": "2026.09.25. 16:31",
