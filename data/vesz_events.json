@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T15:32:44.224644+00:00",
-  "count": 3634,
+  "updated_at": "2026-09-25T15:36:12.020442+00:00",
+  "count": 3635,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92293",
+      "datetime": "2026.09.25. 17:35",
+      "title": "Lakás ég Pusztaszabolcson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92293",
+      "lead": "A Magyar utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy körülbelül ötven négyzetméteres lakás Pusztaszabolcson, a Magyar utcában. Az ingatlan teljes terjedelmében ég. A helyi hivatásos és önkéntes tűzoltók oltják a lángokat.",
+      "location": "Pusztaszabolcs, Magyar utca",
+      "updates": []
+    },
     {
       "id": "92292",
       "datetime": "2026.09.25. 17:23",
