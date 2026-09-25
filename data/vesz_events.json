@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T08:11:06.747925+00:00",
-  "count": 3620,
+  "updated_at": "2026-09-25T08:14:19.723528+00:00",
+  "count": 3621,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92279",
+      "datetime": "2026.09.25. 10:13",
+      "title": "Összeütközött két autó Dunaharasztiban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92279",
+      "lead": "A Némedi út egy szakaszán forgalmi akadály van.",
+      "body": "Karambolozott két személyautó Dunaharasztiban, a Némedi úton, az 51-es főút közelében. A szigetszentmiklósi hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen ketten utaztak. A baleset helyszínén forgalmi akadály van.",
+      "location": "Dunaharaszti, Némedi út",
+      "updates": []
+    },
     {
       "id": "92278",
       "datetime": "2026.09.25. 09:19",
@@ -249,9 +260,9 @@
       "title": "Szalagkorlátnak ütközött egy kisbusz az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92257",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon, Levélnél van szükség műszaki mentésre.",
+      "body": "Szalagkorlátnak ütközött egy kisbusz az M1-es autópálya Budapest felé vezető oldalán, Levél közelében, a 163-as és 164-es kilométerszelvény között. A baleset következtében a jármű az árokba csúszott. A mosonmagyaróvári hivatásos tűzoltók áramtalanították a kisbuszt.",
+      "location": "Levél, M1",
       "updates": []
     },
     {
