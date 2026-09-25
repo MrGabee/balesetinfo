@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:33:47.337940+00:00",
+  "updated_at": "2026-09-25T09:37:24.004625+00:00",
   "count": 3623,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A tűzoltók a Gyopár utcában oltják a lángokat.",
       "body": "Tűz keletkezett egy garázsban, Érden, a Gyopár utcában. Teljes terjedelmében ég a mintegy száz négyzetméteres épület, amelyben két jármű is van. A törökbálinti hivatásos tűzoltók oltják a lángokat, és a helyszínre indult több más egység is.",
       "location": "Érd, Gyopár utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották az érdi garázstüzet",
+          "datetime": "2026.09.25. 11:30",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Érden, a Gyopár utcában keletkezett. Egy mintegy száz négyzetméteres garázs gyulladt ki és égett teljes terjedelmében. Az épületben két gépkocsi is volt. Az érdi és a törökbálinti hivatásos tűzoltók fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
+          "location": "Érd, Gyopár utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92280/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92280"
+        }
+      ]
     },
     {
       "id": "92279",
