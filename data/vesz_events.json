@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T11:55:25.971512+00:00",
-  "count": 3624,
+  "updated_at": "2026-09-25T11:58:37.797240+00:00",
+  "count": 3625,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92283",
+      "datetime": "2026.09.25. 13:58",
+      "title": "Súlyos karambol az M80-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92283",
+      "lead": "Rönök közelében végeznek műszaki mentést a tűzoltók, akik két embert kiszabadítottak a járművekből.",
+      "body": "Frontálisan összeütközött két személygépkocsi az M80-as autóút Szentgotthárd és Körmend közötti szakaszán, Rönök közelében. Mind a két járműbe beszorult egy-egy ember. Őket feszítővágóval szabadították ki, majd kiemelték és átadták a mentőknek a körmendi és a szentgotthárdi hivatásos tűzoltók. A műszaki mentést a Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítja. A karambolban egy lakóautó is megrongálódott, mert az egyik autó érintőlegesen nekiütközött. Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az utat.",
+      "location": "Rönök, M80",
+      "updates": []
+    },
     {
       "id": "92282",
       "datetime": "2026.09.25. 11:33",
