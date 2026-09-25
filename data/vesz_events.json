@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T15:22:53.758387+00:00",
-  "count": 3633,
+  "updated_at": "2026-09-25T15:26:09.050946+00:00",
+  "count": 3634,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92292",
+      "datetime": "2026.09.25. 17:23",
+      "title": "Két autó ütközött Ebesnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92292",
+      "lead": "A 4-es főút érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Ebesnél, a 4-es főút 211-es kilométerénél. A hajdúszoboszlói hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Ebes, 4",
+      "updates": []
+    },
     {
       "id": "92291",
       "datetime": "2026.09.25. 16:39",
