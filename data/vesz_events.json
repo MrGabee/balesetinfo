@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:11:45.013363+00:00",
+  "updated_at": "2026-09-25T10:14:56.084455+00:00",
   "count": 3624,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,19 +31,10 @@
       "title": "Kigyulladt egy garázs Érden",
       "category": "Kigyulladt egy garázs Érden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92280",
-      "lead": "A tűzoltók a Gyopár utcában oltják a lángokat.",
-      "body": "Tűz keletkezett egy garázsban, Érden, a Gyopár utcában. Teljes terjedelmében ég a mintegy száz négyzetméteres épület, amelyben két jármű is van. A törökbálinti hivatásos tűzoltók oltják a lángokat, és a helyszínre indult több más egység is.",
-      "location": "Érd, Gyopár utca",
-      "updates": [
-        {
-          "title": "Eloltották az érdi garázstüzet",
-          "datetime": "2026.09.25. 11:30",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Érden, a Gyopár utcában keletkezett. Egy mintegy száz négyzetméteres garázs gyulladt ki és égett teljes terjedelmében. Az épületben két gépkocsi is volt. Az érdi és a törökbálinti hivatásos tűzoltók fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
-          "location": "Érd, Gyopár utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92280/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92280"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92279",
@@ -150,9 +141,9 @@
       "title": "Összeütközött két autó a 83-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92270",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pápa közelében félpályán halad a forgalom.",
+      "body": "Két személyautó ütközött össze a 83-as főúton, Pápa közelében, a 25-ös kilométerszelvénynél. A balesethez a pápai hivatásos tűzoltókat riasztották, akik áramtalanították az egyik gépkocsit. Az érintett útszakaszon félpályán, irányítás mellett halad a forgalom.",
+      "location": "Pápa, Bocsor István utca",
       "updates": []
     },
     {
@@ -214,9 +205,9 @@
       "title": "Trolibusz és személyautó karambolozott Budapest VI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92265",
-      "lead": "A Nagymező utca és a Dessewffy utca kereszteződésében van szükség műszaki mentésre.",
-      "body": "Trolibusz és személyautó karambolozott Budapest VI. kerületében, a Nagymező utca és a Dessewffy utca kereszteződésében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. A buszon huszonöt fő utazott.",
-      "location": "Budapest, Nagymező utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
