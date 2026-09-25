@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T06:14:58.977204+00:00",
-  "count": 3618,
+  "updated_at": "2026-09-25T06:18:13.775558+00:00",
+  "count": 3619,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92277",
+      "datetime": "2026.09.25. 08:16",
+      "title": "Baleset történt az M2-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92277",
+      "lead": "Dunakeszi térségében riasztották a tűzoltókat.",
+      "body": "Átszakította a szalagkorlátot, többször megpördült, majd az árokba borult egy személygépkocsi Dunakeszinél, az M2-es autóút 23-as kilométerénél, a Vác felé vezető oldalon. A fővárosi hivatásos és a fóti önkéntes tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Dunakeszi, M2",
+      "updates": []
+    },
     {
       "id": "92276",
       "datetime": "2026.09.25. 06:33",
