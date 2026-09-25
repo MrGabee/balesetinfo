@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:48:59.263124+00:00",
+  "updated_at": "2026-09-25T07:52:26.701188+00:00",
   "count": 3620,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Baleset történt az M2-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92277",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Dunakeszi térségében riasztották a tűzoltókat.",
+      "body": "Átszakította a szalagkorlátot, többször megpördült, majd az árokba borult egy személygépkocsi Dunakeszinél, az M2-es autóút 23-as kilométerénél, a Vác felé vezető oldalon. A fővárosi hivatásos és a fóti önkéntes tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Dunakeszi, M2",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Oszlopnak ütközött egy autó Budapest XI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92274",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az M1-es és az M7-es autópálya lehajtóján, az Egér út közelében történt a baleset.",
+      "body": "Oszlopnak ütközött egy személyautó Budapest XI. kerületében, az M1-es és az M7-es autópálya lehajtóján, az Egér út közelében. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, M1-M7",
       "updates": []
     },
     {
@@ -238,9 +238,9 @@
       "title": "Tetőtűz Imolán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92258",
-      "lead": "A Kossuth Lajos úton oltották el a lángokat.",
-      "body": "Kigyulladt egy családi ház tetőszerkezete Imolán, a Kossuth Lajos úton. A kazincbarcikai és az aggteleki hivatásos tűzoltók áramtalanították az épületet, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
-      "location": "Imola, Kossuth Lajos út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -282,9 +282,9 @@
       "title": "Összeütközött két autó Keszthelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92254",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Tapolcai úton áramtalanították a járműveket.",
+      "body": "Karambolozott két személyautó Keszthelyen, a Tapolcai úton, az Ady Endre utca közelében. A város hivatásos tűzoltói áramtalanították a járműveket. A helyszínre érkeztek a mentők is. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Keszthely, Tapolcai út",
       "updates": []
     },
     {
