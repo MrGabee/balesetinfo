@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T20:49:19.775244+00:00",
-  "count": 3640,
+  "updated_at": "2026-09-25T20:52:59.673978+00:00",
+  "count": 3641,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92299",
+      "datetime": "2026.09.25. 22:44",
+      "title": "Autótűz Nyírcsászárinál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92299",
+      "lead": "A tűzoltók egy vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Nyírcsászárinál, a Kossuth úton, azaz a 49128-as út 1-es kilométere közelében. A jármű teljes terjedelmében égett. A nyírbátori hivatásos tűzoltók egy vízsugárral el eloltották a lángokat.",
+      "location": "Nyírcsászári, Kossuth út",
+      "updates": []
+    },
     {
       "id": "92298",
       "datetime": "2026.09.25. 22:03 -",
