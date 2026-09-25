@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T06:39:55.852060+00:00",
+  "updated_at": "2026-09-25T06:43:13.766170+00:00",
   "count": 3619,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,19 +108,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92268",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.09.24. 20:00",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok kialakulása miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92268/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92268"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92267",
@@ -424,16 +415,7 @@
       "lead": "A famegmunkálással foglalkozó telepre nyíradonyi, nyírbátori és debreceni tűzoltók vonultak.",
       "body": "Kigyulladt egy kazánház gyűjtője Nyíradony határában, egy famegmunkálással foglalkozó cég üzemében. A lángok átterjedtek a tetőszerkezetre és tüzet fogott egy forgácstároló is. A vármegyei műveletirányítás nyíradonyi, nyírbátori és debreceni hivatásos egységeket riasztott az esethez, a rajok légzésvédelem mellett, több vízsugárral oltják a lángokat. A beavatkozást a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Nyíradony, Debreceni utca",
-      "updates": [
-        {
-          "title": "A rajok már az utómunkálatokat végzik a nyíradonyi üzemben",
-          "datetime": "2026.09.23. 21:54",
-          "category": "Tűzeset",
-          "text": "A település szélén, egy famegmunkálással foglalkozó üzemben keletkezett tűz és izzott egy tárolóban körülbelül tíz-tizenöt köbméternyi faapríték. A nyíradonyi, nyírbátori és debreceni tűzoltók megbontották az oldalfalazatot, leürítették, illetve elárasztották a silót. A kiszedett aprítékot egy erőgép távolította el. A rajok eloltották a tüzet, vízsugarakkal, kéziszerszámokkal már az utómunkálatokat végzik.",
-          "location": "Nyíradony, Debreceni utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92242/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92242"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92241",
@@ -466,16 +448,7 @@
       "lead": "Szendrői, kazincbarcikai, bódvaszilasi tűzoltók oltják a tüzet.",
       "body": "Több hektáron száraz fű, bozótos, erdő aljnövényzete ég Szendrőlád külterületén. A nehezen járható területen szendrői, kazincbarcikai és bódvaszilasi hivatásos tűzoltók a többi között lombfúvóval, kéziszerszámokkal oltják a lángokat. A beavatkozást a Borsod-Abaúj Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Szendrőlád, külterület",
-      "updates": [
-        {
-          "title": "Eloltották a Szendrőlád külterületén keletkezett tüzet",
-          "datetime": "2026.09.23. 20:22",
-          "category": "Tűzeset",
-          "text": "Nagy kiterjedésű tűz volt a település szélén. A több hektáron égő lángokat a szendrői, kazincbarcikai, bódvaszilasi tűzoltók előbb körülhatárolták, majd eloltották.",
-          "location": "Szendrőlád, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92239/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92239"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92238",
