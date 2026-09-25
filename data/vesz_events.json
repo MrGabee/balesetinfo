@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:14:56.084455+00:00",
+  "updated_at": "2026-09-25T10:18:37.027470+00:00",
   "count": 3624,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,10 +31,19 @@
       "title": "Kigyulladt egy garázs Érden",
       "category": "Kigyulladt egy garázs Érden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92280",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Gyopár utcában oltják a lángokat.",
+      "body": "Tűz keletkezett egy garázsban, Érden, a Gyopár utcában. Teljes terjedelmében ég a mintegy száz négyzetméteres épület, amelyben két jármű is van. A törökbálinti hivatásos tűzoltók oltják a lángokat, és a helyszínre indult több más egység is.",
+      "location": "Érd, Gyopár utca",
+      "updates": [
+        {
+          "title": "Eloltották az érdi garázstüzet",
+          "datetime": "2026.09.25. 11:30",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Érden, a Gyopár utcában keletkezett. Egy mintegy száz négyzetméteres garázs gyulladt ki és égett teljes terjedelmében. Az épületben két gépkocsi is volt. Az érdi és a törökbálinti hivatásos tűzoltók fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
+          "location": "Érd, Gyopár utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92280/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92280"
+        }
+      ]
     },
     {
       "id": "92279",
@@ -152,9 +161,9 @@
       "title": "Kisebb tűz volt Komlón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92269",
-      "lead": "Egy Pécsi úti társasházhoz riasztották a tűzoltókat.",
-      "body": "Kisebb tűz volt egy komlói társasház első emeleti lakásában, a Pécsi úton. Az ingatlanban berendezési tárgyak égtek, amit a helyi hivatásos tűzoltók eloltottak. A rajok kiszellőztetik a füsttel telítődött lakást.",
-      "location": "Komló, Pécsi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -205,9 +214,9 @@
       "title": "Trolibusz és személyautó karambolozott Budapest VI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92265",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagymező utca és a Dessewffy utca kereszteződésében van szükség műszaki mentésre.",
+      "body": "Trolibusz és személyautó karambolozott Budapest VI. kerületében, a Nagymező utca és a Dessewffy utca kereszteződésében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. A buszon huszonöt fő utazott.",
+      "location": "Budapest, Nagymező utca",
       "updates": []
     },
     {
