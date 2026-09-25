@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T16:38:44.889636+00:00",
-  "count": 3635,
+  "updated_at": "2026-09-25T16:41:41.696336+00:00",
+  "count": 3636,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92294",
+      "datetime": "2026.09.25. 18:40",
+      "title": "Árokba hajtott egy autó Nagymágocs külterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92294",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Letért az útról és az árokba hajtott egy személygépkocsi Nagymágocs külterületén, a Tibortelep tanya közelében. Az orosházai hivatásos tűzoltókat riasztották az esethez. A raj áramtalanítja a járművet.",
+      "location": "Nagymágocs, Tibortelep tanya",
+      "updates": []
+    },
     {
       "id": "92293",
       "datetime": "2026.09.25. 17:35",
