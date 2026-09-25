@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T16:52:11.105449+00:00",
-  "count": 3636,
+  "updated_at": "2026-09-25T16:55:58.096703+00:00",
+  "count": 3637,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92295",
+      "datetime": "2026.09.25. 18:52",
+      "title": "Busz és autó ütközött a 7-esen, Balatonszemes térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92295",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött egy személygépkocsi és egy autóbusz Balatonszemes térségében, a Bajcsy-Zsilinszky úton, azaz a 7-es főút 131-es kilométerénél. A balatonboglári önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Balatonszemes, Bajcsy-Zsilinszky út",
+      "updates": []
+    },
     {
       "id": "92294",
       "datetime": "2026.09.25. 18:40",
