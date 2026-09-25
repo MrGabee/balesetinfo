@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T07:18:54.598127+00:00",
-  "count": 3619,
+  "updated_at": "2026-09-25T07:22:13.252630+00:00",
+  "count": 3620,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92278",
+      "datetime": "2026.09.25. 09:19",
+      "title": "Karambol Zuglóban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92278",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Róna utca és a Thököly út kereszteződésénél.",
+      "body": "Összeütközött két személyautó Budapest XIV. kerületében, a Róna utca és a Thököly út kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. amelyekben összesen hárman utaztak. A raj a rendőrségi helyszínelés után megszünteti a forgalmi akadályt.",
+      "location": "Budapest, Thököly út, Róna utca",
+      "updates": []
+    },
     {
       "id": "92277",
       "datetime": "2026.09.25. 08:16",
