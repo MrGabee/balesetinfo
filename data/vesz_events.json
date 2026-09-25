@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T14:11:26.352996+00:00",
-  "count": 3630,
+  "updated_at": "2026-09-25T14:14:41.243715+00:00",
+  "count": 3631,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92289",
+      "datetime": "2026.09.25. 16:13",
+      "title": "Utoléréses baleset Aszódon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92289",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Aszódon, a Falujárók útján. Az aszódi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították az egyik járművet. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Aszód, Falujárók útja",
+      "updates": []
+    },
     {
       "id": "92288",
       "datetime": "2026.09.25. 15:36",
