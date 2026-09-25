@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T09:20:46.321145+00:00",
-  "count": 3622,
+  "updated_at": "2026-09-25T09:23:49.496892+00:00",
+  "count": 3623,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92281",
+      "datetime": "2026.09.25. 11:21",
+      "title": "Tűz volt egy XI. kerületi lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92281",
+      "lead": "A fürdőszobában gyulladt ki a kád.",
+      "body": "Tűz keletkezett egy társasház egyik hatodik emeleti lakásban, Budapest XI. kerületében, a Vahot utcában. A kád égett, füstölt a fürdőszobában. A lakás korommal szennyeződött. A fővárosi hivatásos tűzoltók eloltották a tüzet, és átvizsgálták a környező lakásokat.",
+      "location": "Budapest, Vahot utca",
+      "updates": []
+    },
     {
       "id": "92280",
       "datetime": "2026.09.25. 10:56",
