@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:32:38.891839+00:00",
+  "updated_at": "2026-09-25T10:36:18.081689+00:00",
   "count": 3624,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Tűz volt egy XI. kerületi lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92281",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A fürdőszobában gyulladt ki a kád.",
+      "body": "Tűz keletkezett egy társasház egyik hatodik emeleti lakásban, Budapest XI. kerületében, a Vahot utcában. A műanyag kád égett, füstölt a fürdőszobában. A lakás korommal szennyeződött. A fővárosi hivatásos tűzoltók eloltották a tüzet, és átvizsgálták a környező lakásokat.",
+      "location": "Budapest, Vahot utca",
       "updates": []
     },
     {
@@ -95,9 +95,9 @@
       "title": "Melléképülettűz Tornaszentjakabon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92275",
-      "lead": "A Petőfi soron csaptak fel a lángok.",
-      "body": "Melléképület égett Tornaszentjakabon, a Petőfi soron. A tűz a szomszédos lakóház tetőszerkezetére is átterjedt. A bódvaszilasi hivatásos tűzoltók két vízsugárral eloltották a lángokat.",
-      "location": "Tornaszentjakab, Petőfi sor",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -128,9 +128,9 @@
       "title": "Lakatlan épület égett Ózdon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92272",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Buda vezér utcába vonultak a tűzoltók.",
+      "body": "Kigyulladt egy lakatlan épület Ózdon, a Buda vezér utcában. A város hivatásos tűzoltói két vízsugárral oltották el a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Ózd, Buda vezér utca",
       "updates": []
     },
     {
@@ -247,9 +247,9 @@
       "title": "Felborult egy autó Biatorbágy és Herceghalom között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92262",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8101-es úton történt a baleset.",
+      "body": "Felborult egy személyautó Biatorbágyot és Herceghalmot összekötő, 8101-es út 6-os kilométerszelvényénél. A törökbálinti hivatásos és a biatorbágyi önkéntes tűzoltók áramtalanították a járművet. AZ érintett útszakaszon egy sávon, váltakozva halad a forgalom.",
+      "location": "Biatorbágy, 8101",
       "updates": []
     },
     {
