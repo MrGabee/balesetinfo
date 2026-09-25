@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T14:29:27.601022+00:00",
-  "count": 3631,
+  "updated_at": "2026-09-25T14:32:30.408136+00:00",
+  "count": 3632,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92290",
+      "datetime": "2026.09.25. 16:31",
+      "title": "Összeütközött két autó Budaörsön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92290",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Ráfutásos balesetet szenvedett két személygépkocsi Budaörsön, a Baross utca és az Árpád utca kereszteződésénél. A helyi önkéntes tűzoltókat riasztották a helyszínre. A raj áramtalanítottak a járműveket.",
+      "location": "Budaörs, Baross utca",
+      "updates": []
+    },
     {
       "id": "92289",
       "datetime": "2026.09.25. 16:13",
