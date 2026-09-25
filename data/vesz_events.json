@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T19:19:19.372402+00:00",
-  "count": 3638,
+  "updated_at": "2026-09-25T19:22:36.850642+00:00",
+  "count": 3639,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92297",
+      "datetime": "2026.09.25. 21:21",
+      "title": "Baleset a M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92297",
+      "lead": "Vaddal ütközött egy autó Nagyrécsénél.",
+      "body": "Vaddal ütközött egy személygépkocsi Nagyrécsénél, az M7-es autópálya 203-as kilométerénél, a Letenye felé vezető oldalon. A műszaki mentési munkálatok elvégzéséhez a nagykanizsai hivatásos tűzoltókat riasztották a helyszínre. A sztráda érintett szakaszán forgalomkorlátozásra lehet számítani.",
+      "location": "Nagyrécse, M7",
+      "updates": []
+    },
     {
       "id": "92296",
       "datetime": "2026.09.25. 20:57",
