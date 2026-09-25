@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T18:53:50.914335+00:00",
-  "count": 3637,
+  "updated_at": "2026-09-25T18:58:00.761570+00:00",
+  "count": 3638,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92296",
+      "datetime": "2026.09.25. 20:57",
+      "title": "Három autó ütközött a 66-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92296",
+      "lead": "Szentbalázsnál történt a baleset.",
+      "body": "Összeütközött három személygépkocsi Szentbalázsnál, a 66-os főút 47-es kilométerénél. A kaposvári hivatásos és a szentbalázsi önkéntes tűzoltók végzik a műszaki mentést. A rajok áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Szentbalázs, 66",
+      "updates": []
+    },
     {
       "id": "92295",
       "datetime": "2026.09.25. 18:52",
