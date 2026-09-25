@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T09:37:24.004625+00:00",
-  "count": 3623,
+  "updated_at": "2026-09-25T09:40:27.444695+00:00",
+  "count": 3624,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92282",
+      "datetime": "2026.09.25. 11:33",
+      "title": "Két autó ütközött Nyírpazonyban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92282",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Két személygépkocsi Nyírpazonyban, a Szabolcs utcában. A nyíregyházi hivatásos tűzoltók áramtalanították a járműveket. A mentőszolgálat is az esetnél dolgozik. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyírpazony, Szabolcs utca",
+      "updates": []
+    },
     {
       "id": "92281",
       "datetime": "2026.09.25. 11:21",
