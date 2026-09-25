@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T04:31:51.887528+00:00",
-  "count": 3617,
+  "updated_at": "2026-09-25T04:35:25.662334+00:00",
+  "count": 3618,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92276",
+      "datetime": "2026.09.25. 06:33",
+      "title": "Árokba hajtott egy autó az M7-esen, Martonvásárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92276",
+      "lead": "A Budapest felé vezető oldalon dolgoznak a tűzoltók.",
+      "body": "Árokba hajtott egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Martonvásár közelében, a 32-es kilométerszelvénynél. A balesethez a váli önkormányzati tűzoltókat riasztották, akik áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Martonvásár, M7",
+      "updates": []
+    },
     {
       "id": "92275",
       "datetime": "2026.09.24. 20:56",
