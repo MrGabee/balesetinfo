@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T20:59:54.339948+00:00",
-  "count": 3641,
+  "updated_at": "2026-09-25T21:03:10.813818+00:00",
+  "count": 3642,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92300",
+      "datetime": "2026.09.25. 22:59",
+      "title": "Elgázolt egy őzet egy autó a 63-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92300",
+      "lead": "Székesfehérvárnál történt a baleset.",
+      "body": "Elgázolt egy őzet egy személyautó Székesfehérvárnál, a 63-as főút 87-es kilométerénél. A székesfehérvári hivatásos tűzoltókat riasztották az esethez. A társhatóság is a helyszínre érkezett.",
+      "location": "Székesfehérvár, 63",
+      "updates": []
+    },
     {
       "id": "92299",
       "datetime": "2026.09.25. 22:44",
