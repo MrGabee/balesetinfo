@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T20:00:13.608705+00:00",
-  "count": 3639,
+  "updated_at": "2026-09-25T20:03:54.419029+00:00",
+  "count": 3640,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92298",
+      "datetime": "2026.09.25. 22:03",
+      "title": "Lakóház ég Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92298",
+      "lead": "A János utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakóház Miskolc diósgyőri városrészén, a János utcában. A miskolci hivatásos tűzoltókat és diósgyőri városrész hivatásos tűzoltóit riasztották a helyszínre. A rajok egy vízsugárral oltják a lángokat.",
+      "location": "Miskolc, János utca",
+      "updates": []
+    },
     {
       "id": "92297",
       "datetime": "2026.09.25. 21:21",
