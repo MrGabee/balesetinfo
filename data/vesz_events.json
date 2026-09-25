@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-25T12:39:15.670879+00:00",
-  "count": 3626,
+  "updated_at": "2026-09-25T12:42:09.440337+00:00",
+  "count": 3627,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92285",
+      "datetime": "2026.09.25. 14:40",
+      "title": "Tűz keletkezett Bátonyterenyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92285",
+      "lead": "A Kölcsey Ferenc útra riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy bátonyterenyei lakóházban, a Kölcsey Ferenc úton. Az ingatlan konyhájában egy szőnyeg gyulladt ki. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Bátonyterenye, Kölcsey Ferenc út",
+      "updates": []
+    },
     {
       "id": "92284",
       "datetime": "2026.09.25. 14:15",
