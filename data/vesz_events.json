@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T19:17:15.211571+00:00",
-  "count": 3674,
+  "updated_at": "2026-09-26T19:20:37.894077+00:00",
+  "count": 3675,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92333",
+      "datetime": "2026.09.26. 21:17",
+      "title": "Családi ház tetőszerkezete ég Tiszavasváriban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92333",
+      "lead": "A tűzoltók négy vízsugárral oltják a lángokat.",
+      "body": "Egy száz négyzetméteres családi ház tetőszerkezete ég teljes egészében Tiszavasváriban, a Babits Mihály utcában. A tiszavasvári önkormányzati tűzoltókat követően a hajdúnánási hivatásos tűzoltók is a helyszínre értek, négy vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. Az egységek a munkálatok közben kihoztak a garázsból két gázpalackot, amelyeket nem ért hőhatás.",
+      "location": "Tiszavasvári, Babits Mihály utca",
+      "updates": []
+    },
     {
       "id": "92332",
       "datetime": "2026.09.26. 20:23",
