@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T16:35:42.043598+00:00",
-  "count": 3670,
+  "updated_at": "2026-09-26T16:39:16.317303+00:00",
+  "count": 3671,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92329",
+      "datetime": "2026.09.26. 18:37",
+      "title": "Két autó ütközött össze Hernádon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92329",
+      "lead": "Mindkét járművet áramtalanították a tűzoltók.",
+      "body": "Összeütközött két gépkocsi Hernádon, a Fő utcában, a Petőfi Sándor utcai kereszteződésnél. A dabasi hivatásos tűzoltók áramtalanították a karambolos járműveket, amelyekben összesen öten utaztak. Az egység a társhatóságot is a balesethez kérte.",
+      "location": "Hernád, Fő utca",
+      "updates": []
+    },
     {
       "id": "92328",
       "datetime": "2026.09.26. 18:30",
