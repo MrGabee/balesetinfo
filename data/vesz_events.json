@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T18:03:15.044850+00:00",
-  "count": 3672,
+  "updated_at": "2026-09-26T18:06:47.240224+00:00",
+  "count": 3673,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92331",
+      "datetime": "2026.09.26. 20:03",
+      "title": "Traktor pótkocsijának ütközött egy furgon Kétegyházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92331",
+      "lead": "A baleset miatt lezárták a 4434-es út érintett szakaszát.",
+      "body": "Egy mezőgazdasági vontató pótkocsijának ütközött egy furgon a 4434-es út 11-es kilométerszelvényénél, Kétegyháza térségében. Az ütközés következtében a traktor keresztben állt meg az úttesten. A helyszínre kiérkezett gyulai hivatásos tűzoltók áramtalanították a furgont. Az egység mellett a társhatóságok is a balesetnél dolgoznak, teljes útlezárás mellett.",
+      "location": "Kétegyháza, 4434",
+      "updates": []
+    },
     {
       "id": "92330",
       "datetime": "2026.09.26. 18:55",
