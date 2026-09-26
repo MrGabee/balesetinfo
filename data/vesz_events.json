@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T07:54:00.413073+00:00",
-  "count": 3648,
+  "updated_at": "2026-09-26T07:57:23.350371+00:00",
+  "count": 3649,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92307",
+      "datetime": "2026.09.26. 09:56",
+      "title": "Ráfutásos baleset az M7-esen, Fonyódnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92307",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Ráfutásos balesetet szenvedett egy kamion és egy személyautó az M7-es autópálya 151-es kilométerszelvényénél, Fonyód térségében, a Budapest felé vezető irányban. A leállósávban álló kamion kereke kigyulladt, amelyet a balatonboglári önkormányzati tűzoltók kiérkezése előtt eloltottak. Az egység áramtalanította a haladósávban álló személyautót.",
+      "location": "Fonyód, M7",
+      "updates": []
+    },
     {
       "id": "92306",
       "datetime": "2026.09.26. 09:50",
