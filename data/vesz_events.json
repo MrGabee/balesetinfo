@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T10:48:25.852367+00:00",
-  "count": 3661,
+  "updated_at": "2026-09-26T10:51:25.214252+00:00",
+  "count": 3662,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92320",
+      "datetime": "2026.09.26. 12:50",
+      "title": "Baleset történt Dunaújvárosban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92320",
+      "lead": "A járművek áramtalanítására lesz szükség.",
+      "body": "Két gépkocsi ütközött össze Dunaújvárosban, a Magyar úton, az Álmos utca és a Hajós utca közötti szakaszon. Csak a vezetők utaztak a járművekben, a város hivatásos tűzoltóinak kiérkezése előtt ki tudtak szállni. Az egység megkezdte az autók áramtalanítását.",
+      "location": "Dunaújváros, Magyar út",
+      "updates": []
+    },
     {
       "id": "92319",
       "datetime": "2026.09.26. 12:46",
