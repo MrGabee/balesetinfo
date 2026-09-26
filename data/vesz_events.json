@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T09:01:03.573191+00:00",
-  "count": 3651,
+  "updated_at": "2026-09-26T09:04:24.308459+00:00",
+  "count": 3652,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92310",
+      "datetime": "2026.09.26. 11:01",
+      "title": "Két autó karambolozott a 47-esen, Hódmezővásárhelynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92310",
+      "lead": "A baleset miatt lezárták az érintett útszakaszt.",
+      "body": "Két gépkocsi ütközött össze a 47-es főút 185-ös kilométerszelvényénél, Hódmezővásárhely térségében. A város hivatásos tűzoltói a mentőkkel együttműködve kiemeltek egy utast az egyik járműből, továbbá az egység áramtalanította mindkét autót. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Hódmezővásárhely, 47",
+      "updates": []
+    },
     {
       "id": "92309",
       "datetime": "2026.09.26. 10:43",
