@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T07:05:39.391249+00:00",
-  "count": 3645,
+  "updated_at": "2026-09-26T07:08:54.675080+00:00",
+  "count": 3646,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92304",
+      "datetime": "2026.09.26. 09:07",
+      "title": "Hármas karambol történt Patapoklosinál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92304",
+      "lead": "Lezárták a 6607-es út érintett szakaszát.",
+      "body": "Két személyautó és egy kisbusz érintett abban a balesetben, amely a 6607-es út 3-as kilométerszelvényénél történt, Patapoklosi térségében. Összesen heten utaztak a járművekben, amelyek közül kettőt a szigetvári hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Patapoklosi, 6607",
+      "updates": []
+    },
     {
       "id": "92303",
       "datetime": "2026.09.26. 08:30",
