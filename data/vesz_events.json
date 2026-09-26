@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T09:17:38.884760+00:00",
-  "count": 3653,
+  "updated_at": "2026-09-26T09:20:52.413237+00:00",
+  "count": 3654,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92312",
+      "datetime": "2026.09.26. 11:19",
+      "title": "Összeütközött két autó Ónodon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92312",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Összeütközött két gépkocsi Ónodon, a Nyéki utca elején, a Rákóczi utca és a Szent István utca kereszteződésénél. A járművekben összesen négyen utaztak. A tiszaújvárosi hivatásos tűzoltók mindkét autót áramtalanították.",
+      "location": "Ónod, Nyéki utca",
+      "updates": []
+    },
     {
       "id": "92311",
       "datetime": "2026.09.26. 11:14",
