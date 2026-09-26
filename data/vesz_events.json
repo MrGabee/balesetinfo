@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T10:44:57.895049+00:00",
-  "count": 3660,
+  "updated_at": "2026-09-26T10:48:25.852367+00:00",
+  "count": 3661,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92319",
+      "datetime": "2026.09.26. 12:46",
+      "title": "Árokba csapódott egy nyerges vontató a 49-esen, Porcsalma és Pátyod között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92319",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Árokba csapódott egy nyerges vontató Porcsalma és Pátyod között, a 49-es főút 43-as kilométerszelvényénél. A vezető saját erejéből el tudta hagyni a járművet, amelyet a csengeri önkormányzati tűzoltók áramtalanítottak. A balesethez a mentők is kiérkeztek.",
+      "location": "Porcsalma, 49",
+      "updates": []
+    },
     {
       "id": "92318",
       "datetime": "2026.09.26. 12:40",
