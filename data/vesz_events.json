@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T13:32:23.769124+00:00",
-  "count": 3664,
+  "updated_at": "2026-09-26T13:35:33.648077+00:00",
+  "count": 3665,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92323",
+      "datetime": "2026.09.26. 15:34",
+      "title": "Lakóház tetőszerkezete égett Mezőkövesden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92323",
+      "lead": "A tűzoltók három vízsugárral fékezték meg a lángokat.",
+      "body": "Egy száz négyzetméteres lakóház tetőszerkezete égett Mezőkövesden, a Sas utcában. A tűz az előtetőről indult, innen terjedt tovább mintegy húsz négyzetméteren. A mezőkövesdi hivatásos tűzoltók három vízsugárral fékezték meg a lángokat, jelenleg megbontják és átvizsgálják a födémet.",
+      "location": "Mezőkövesd, Sas utca",
+      "updates": []
+    },
     {
       "id": "92322",
       "datetime": "2026.09.26. 15:06",
