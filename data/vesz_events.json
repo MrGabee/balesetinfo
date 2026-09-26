@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T09:24:09.570508+00:00",
-  "count": 3654,
+  "updated_at": "2026-09-26T09:28:08.184578+00:00",
+  "count": 3655,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92313",
+      "datetime": "2026.09.26. 11:25",
+      "title": "Bokrok közé hajtott egy autó az M7-esen, Balatonvilágosnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92313",
+      "lead": "A tűzoltók motoros fűrésszel távolítják el a jármű környezetéből az ágakat.",
+      "body": "Letért a pályatestről, majd a bokrok közé hajtott egy gépkocsi az M7-es autópálya 92-es kilométerszelvényénél, Balatonvilágos térségében, a Budapest felé vezető irányban. A két utas saját erejéből ki tudott szállni a járműből. A siófoki hivatásos tűzoltók motoros fűrész segítségével eltávolítják a fás, bokros részeket az autó környezetéből, hogy el tudták végezni az áramtalanítást. A balesethez a mentők is kiérkeztek.",
+      "location": "Balatonvilágos, M7",
+      "updates": []
+    },
     {
       "id": "92312",
       "datetime": "2026.09.26. 11:19",
