@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T10:38:48.744524+00:00",
-  "count": 3659,
+  "updated_at": "2026-09-26T10:41:56.902555+00:00",
+  "count": 3660,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92318",
+      "datetime": "2026.09.26. 12:40",
+      "title": "Ráfutásos baleset történt a Könyves Kálmán körúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92318",
+      "lead": "A középső sávban alakult ki forgalmi akadály.",
+      "body": "Ráfutásos balesetet szenvedett két gépkocsi a Könyves Kálmán körút X. kerületi szakaszán, a Vajda Péter utca és a Kőbányai út között. A járművekben összesen négyen utaztak. A fővárosi hivatásos tűzoltók mellett a mentők is kiérkeztek a helyszínre, ahol a középső sávban alakult ki forgalmi akadály a karambol miatt.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "92317",
       "datetime": "2026.09.26. 12:29",
