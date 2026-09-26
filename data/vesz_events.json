@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T09:52:36.756925+00:00",
-  "count": 3655,
+  "updated_at": "2026-09-26T09:56:09.897377+00:00",
+  "count": 3656,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92314",
+      "datetime": "2026.09.26. 11:55",
+      "title": "Hármas karambol történt az M1-esen, Tatabányánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92314",
+      "lead": "A tűzoltók eltávolítják a pályatestre került szennyeződést.",
+      "body": "Két kisteherautó és egy személyautó ütközött össze az M1-es autópálya 56-os kilométerszelvényénél, Tatabánya térségében, a Budapest felé vezető oldalon. A baleset következtében a pályatestre szennyeződés került, amelyet a bicskei önkormányzati tűzoltók távolítanak el. Az érintett pályaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Tatabánya, M1",
+      "updates": []
+    },
     {
       "id": "92313",
       "datetime": "2026.09.26. 11:25",
