@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T21:09:49.624957+00:00",
-  "count": 3676,
+  "updated_at": "2026-09-26T21:13:11.731110+00:00",
+  "count": 3677,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92335",
+      "datetime": "2026.09.26. 23:09",
+      "title": "Baleset történt Répáshuta térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92335",
+      "lead": "Félpályán lezárták a 2505-ös út érintett szakaszát.",
+      "body": "Két gépkocsi ütközött össze a 2505-ös út 23-as és 24-es kilométerszelvénye között, Répáshuta térségében. Összesen hárman utaztak a járművekben, amelyeket a diósgyőri hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, az egységgel együttműködve félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Répáshuta, 2505",
+      "updates": []
+    },
     {
       "id": "92334",
       "datetime": "2026.09.26. 22:37",
