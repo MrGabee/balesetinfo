@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T14:02:49.677537+00:00",
-  "count": 3665,
+  "updated_at": "2026-09-26T14:06:31.924657+00:00",
+  "count": 3666,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92324",
+      "datetime": "2026.09.26. 16:03",
+      "title": "Összeütközött két autó a XV. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92324",
+      "lead": "A Szerencs utca érintett szakaszán forgalmi akadályra kell számítani.",
+      "body": "Két gépkocsi karambolozott a XV. kerületben, a Szerencs utca és a Pázmány Péter utca kereszteződésében. A műszaki mentési munkálatokhoz a fővárosi hivatásos tűzoltók mellett az Újpest ÖTE önkéntes tűzoltói is kiérkeztek. A baleset miatt forgalmi akadály alakult ki, amely a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Szerencs utca",
+      "updates": []
+    },
     {
       "id": "92323",
       "datetime": "2026.09.26. 15:34",
