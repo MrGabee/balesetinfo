@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T18:20:52.395628+00:00",
-  "count": 3673,
+  "updated_at": "2026-09-26T18:24:14.763508+00:00",
+  "count": 3674,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92332",
+      "datetime": "2026.09.26. 20:23",
+      "title": "Két autó karambolozott Dombóváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92332",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Összeütközött két gépkocsi Dombóváron, a Pannónia út és a Teleki utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másik kocsit hőkamerával vizsgálják át. A baleset miatt egy sávon forgalmi akadály alakult ki.",
+      "location": "Dombóvár, Pannónia út",
+      "updates": []
+    },
     {
       "id": "92331",
       "datetime": "2026.09.26. 20:03",
