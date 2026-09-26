@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T20:38:39.851009+00:00",
-  "count": 3675,
+  "updated_at": "2026-09-26T20:42:27.349214+00:00",
+  "count": 3676,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92334",
+      "datetime": "2026.09.26. 22:37",
+      "title": "Kamionnal karambolozott egy személyautó Karcagon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92334",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Egy nyerges vontató és egy személyautó ütközött össze Karcagon, a 4-es főút és a Gyarmati út kereszteződésénél. Az autóban hárman utaztak, a kamionban csak a vezetője tartózkodott. A karcagi hivatásos tűzoltók érkeztek a helyszínre, áramtalanították a kisebb járművet. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Karcag, Gyarmati út",
+      "updates": []
+    },
     {
       "id": "92333",
       "datetime": "2026.09.26. 21:17 -",
