@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T13:05:06.131007+00:00",
-  "count": 3663,
+  "updated_at": "2026-09-26T13:08:16.096911+00:00",
+  "count": 3664,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92322",
+      "datetime": "2026.09.26. 15:06",
+      "title": "Két autó karambolozott Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92322",
+      "lead": "Lezárták a Nádasdy utca érintett szakaszát a baleset miatt.",
+      "body": "Két gépkocsi ütközött össze a XIX. kerületben, a Nádasdy utca és a Kisfaludy utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, illetve megszüntetik a forgalmi akadályt. A beavatkozás idejére lezárták az érintett útszakaszt, a korlátozás a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Nádasdy utca",
+      "updates": []
+    },
     {
       "id": "92321",
       "datetime": "2026.09.26. 13:44",
