@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T07:50:21.264400+00:00",
-  "count": 3647,
+  "updated_at": "2026-09-26T07:54:00.413073+00:00",
+  "count": 3648,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92306",
+      "datetime": "2026.09.26. 09:50",
+      "title": "Ötös karambol történt az M1-esen, Óbaroknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92306",
+      "lead": "Lezárták a főváros felé vezető pályaszakaszt a baleset miatt.",
+      "body": "Öt jármű ütközött össze az M1-es autópálya 46-os kilométerszelvényénél, Óbarok térségében. A bicskei önkormányzati tűzoltók mellett a mentők is a helyszínen dolgoznak. A baleset miatt egy sávon halad a forgalom a határ felé vezető oldalon, Budapest felé azonban nem lehet haladni a terelt sávban.",
+      "location": "Óbarok, M1",
+      "updates": []
+    },
     {
       "id": "92305",
       "datetime": "2026.09.26. 09:27",
