@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T15:31:59.145805+00:00",
-  "count": 3668,
+  "updated_at": "2026-09-26T15:35:23.267774+00:00",
+  "count": 3669,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92327",
+      "datetime": "2026.09.26. 17:33",
+      "title": "Összeütközött két autó a XX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92327",
+      "lead": "A Szentlőrinci út érintett szakaszán forgalmi akadály alakult ki.",
+      "body": "Összeütközött két gépkocsi a XX. kerületi Szentlőrinci úton, a bevásárlóközpont kihajtójánál. A baleset következtében az egyik jármű kereke kitört. A fővárosi hivatásos tűzoltók érkeztek a helyszínre, megszüntetik a forgalmi akadályt.",
+      "location": "Budapest, Szentlőrinci út",
+      "updates": []
+    },
     {
       "id": "92326",
       "datetime": "2026.09.26. 17:08",
