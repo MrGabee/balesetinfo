@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T06:27:31.417407+00:00",
-  "count": 3644,
+  "updated_at": "2026-09-26T06:31:21.158914+00:00",
+  "count": 3645,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92303",
+      "datetime": "2026.09.26. 08:30",
+      "title": "Kigyulladt egy autó Mátraverebélyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92303",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt, majd teljesen kiégett egy gépkocsi Mátraverebélyen, a Rózsadombon. A bátonyterenyei hivatásos tűzoltók érkeztek a helyszínre, egy vízsugárral előbb körülhatárolták, majd eloltották a lángokat. Az egység jelenleg az utómunkálatokat végzi.",
+      "location": "Mátraverebély, Rózsadomb",
+      "updates": []
+    },
     {
       "id": "92302",
       "datetime": "2026.09.26. 02:54",
