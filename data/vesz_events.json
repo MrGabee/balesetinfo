@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T15:05:36.237508+00:00",
-  "count": 3667,
+  "updated_at": "2026-09-26T15:08:42.292697+00:00",
+  "count": 3668,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92326",
+      "datetime": "2026.09.26. 17:08",
+      "title": "Hármas karambol történt Hatvanban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92326",
+      "lead": "Félpályán lezárták a Horváth Mihály út érintett szakaszát.",
+      "body": "Három gépkocsi ütközött össze Hatvanban, a Horváth Mihály út és a Zrínyi utca sarkán. Összesen hatan utaztak a járművekben, amelyek közül az egyik áramtalanítására volt szükség, ezt a hatvani hivatásos tűzoltók végezték el. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Hatvan, Horváth Mihály út",
+      "updates": []
+    },
     {
       "id": "92325",
       "datetime": "2026.09.26. 16:21",
