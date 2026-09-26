@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T09:11:09.785981+00:00",
-  "count": 3652,
+  "updated_at": "2026-09-26T09:14:48.767760+00:00",
+  "count": 3653,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92311",
+      "datetime": "2026.09.26. 11:14",
+      "title": "Motorossal ütközött össze egy személyautó Gyálon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92311",
+      "lead": "Mentőhelikopter is érkezett a balesethez.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó Gyálon, a Kőrösi úton, az M0-s autóút felhajtójánál. A fővárosi hivatásos tűzoltók és a társhatóságok járművei mellett mentőhelikopter is érkezett a helyszínre. A beavatkozás idejére lezárták az érintett felhajtót.",
+      "location": "Gyál, Kőrösi út",
+      "updates": []
+    },
     {
       "id": "92310",
       "datetime": "2026.09.26. 11:01",
