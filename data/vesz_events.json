@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T12:30:20.458413+00:00",
-  "count": 3685,
+  "updated_at": "2026-09-27T12:33:30.089841+00:00",
+  "count": 3686,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92344",
+      "datetime": "2026.09.27. 14:32",
+      "title": "Gaz égett Osztopánon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92344",
+      "lead": "A tűz körülbelül két hektárnyi területet érintett.",
+      "body": "Gazos-bozótos terület égett Osztopánon, a Petőfi Sándor utcában. A tűz körülbelül két hektárnyi területet érintett. A helyszínre a kaposvári hivatásos tűzoltókat riasztották, akik eloltották a lángokat.",
+      "location": "Osztopán, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "92343",
       "datetime": "2026.09.27. 14:16",
