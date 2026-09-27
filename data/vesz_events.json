@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T09:07:56.881921+00:00",
-  "count": 3678,
+  "updated_at": "2026-09-27T09:11:53.273253+00:00",
+  "count": 3679,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92337",
+      "datetime": "2026.09.27. 11:08",
+      "title": "Baleset történt Héderváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92337",
+      "lead": "A Fő út és a Hársfa utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Lesodródott az útról egy személyautó Héderváron, a Fő út és a Hársfa utca találkozásánál. A lébényi hivatásos, valamint a hédervári és ásványrárói önkéntes tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
+      "location": "Hédervár, Fő út",
+      "updates": []
+    },
     {
       "id": "92336",
       "datetime": "2026.09.27. 10:19",
