@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T16:20:33.322988+00:00",
-  "count": 3697,
+  "updated_at": "2026-09-27T16:23:30.212696+00:00",
+  "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92356",
+      "datetime": "2026.09.27. 18:18",
+      "title": "Hármas karambol az M3-as kivezetőjén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92356",
+      "lead": "A 11-es kilométerszelvénynél forgalomkorlátozásra kell számítani.",
+      "body": "Három személyautó ütközött össze Budapest XV. kerületében, az M3-as autópálya kivezető szakaszának 11-es kilométerszelvényénél. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, M3 kivezető",
+      "updates": []
+    },
     {
       "id": "92355",
       "datetime": "2026.09.27. 17:50",
