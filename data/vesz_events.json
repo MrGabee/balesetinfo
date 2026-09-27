@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T11:46:32.867274+00:00",
-  "count": 3682,
+  "updated_at": "2026-09-27T11:50:10.849054+00:00",
+  "count": 3683,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92341",
+      "datetime": "2026.09.27. 13:48",
+      "title": "Tűz volt Pálfán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92341",
+      "lead": "Egy családi ház és egy autó is égett a Teleki utcában.",
+      "body": "Teljes terjedelmében égett egy személyautó Pálfán, egy családi ház udvarán a Teleki utcában. A tűz átterjedt a lakóingatlanra is. A sárbogárdi hivatásos tűzoltók légzésvédelem mellett eloltották a lángokat. A raj átszellőzteti a füsttel telítődött épületet.",
+      "location": "Pálfa, Teleki utca",
+      "updates": []
+    },
     {
       "id": "92340",
       "datetime": "2026.09.27. 12:28",
