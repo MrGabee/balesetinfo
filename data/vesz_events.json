@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T13:23:24.999353+00:00",
-  "count": 3691,
+  "updated_at": "2026-09-27T13:27:29.435846+00:00",
+  "count": 3692,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92350",
+      "datetime": "2026.09.27. 15:23",
+      "title": "Összeütközött két autó Tiszavasvári és Hajdúnánás között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92350",
+      "lead": "Az M3-as autópálya felhajtó közelében történt a baleset.",
+      "body": "Két személyautó karambolozott Tiszavasvári és Hajdúnánás között, az M3-as autópálya felhajtó közelében. A balesethez a hajdúnánási hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúnánás, 3502",
+      "updates": []
+    },
     {
       "id": "92349",
       "datetime": "2026.09.27. 15:16",
