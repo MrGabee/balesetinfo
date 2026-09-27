@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T13:10:10.413859+00:00",
-  "count": 3689,
+  "updated_at": "2026-09-27T13:13:24.292233+00:00",
+  "count": 3690,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92348",
+      "datetime": "2026.09.27. 15:11",
+      "title": "Kigyulladt egy kisbusz Budapest XI. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92348",
+      "lead": "A Galvani utcában oltották el a lángokat.",
+      "body": "Kigyulladt egy kisbusz Budapest XI. kerületében, a Galvani utcában. A tűzesethez a fővárosi hivatásos tűzoltókat riasztották, akik két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Budapest, Galvani utca",
+      "updates": []
+    },
     {
       "id": "92347",
       "datetime": "2026.09.27. 14:56",
