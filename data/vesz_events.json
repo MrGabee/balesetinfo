@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T12:47:13.117933+00:00",
-  "count": 3686,
+  "updated_at": "2026-09-27T12:50:13.278794+00:00",
+  "count": 3687,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92345",
+      "datetime": "2026.09.27. 14:49",
+      "title": "Autótűz Kápolnásnyéken",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92345",
+      "lead": "A Deák Ferenc utcát lezárták.",
+      "body": "Teljes terjedelmében égett egy személyautó Kápolnásnyéken, a Deák Ferenc utcában. A pázmándi, velencei és a kápolnásnyéki önkéntes tűzoltók három vízsugárral oltották el a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kápolnásnyék, Deák Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92344",
       "datetime": "2026.09.27. 14:32",
