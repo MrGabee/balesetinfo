@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T15:14:44.124129+00:00",
-  "count": 3695,
+  "updated_at": "2026-09-27T15:18:07.626093+00:00",
+  "count": 3696,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92354",
+      "datetime": "2026.09.27. 17:17",
+      "title": "Tűz ütött ki egy családi házban Nemesvámoson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92354",
+      "lead": "A Kossuth Lajos utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy kétszintes családi ház egyik helyiségében Nemesvámoson, a Kossuth Lajos utcában. A veszprémi hivatásos tűzoltók leválasztották az épületet az elektromos hálózatról, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Nemesvámos, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92353",
       "datetime": "2026.09.27. 16:40",
