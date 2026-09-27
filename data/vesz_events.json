@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T10:26:11.014235+00:00",
-  "count": 3681,
+  "updated_at": "2026-09-27T10:29:38.930238+00:00",
+  "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92340",
+      "datetime": "2026.09.27. 12:28",
+      "title": "Egymásnak ütközött két autó Veszprémben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92340",
+      "lead": "A 830-as főúton van szükség műszaki mentésre.",
+      "body": "Összeütközött két személyautó Veszprémben, a 830-as főút belterületi szakaszának 2-es kilométerszelvényénél. . A műszaki mentést a veszprémi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Veszprém, Házgyári út",
+      "updates": []
+    },
     {
       "id": "92339",
       "datetime": "2026.09.27. 12:22",
