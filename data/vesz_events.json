@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T12:53:44.915965+00:00",
-  "count": 3688,
+  "updated_at": "2026-09-27T12:56:41.392779+00:00",
+  "count": 3689,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92347",
+      "datetime": "2026.09.27. 14:56",
+      "title": "Tűz van Budapest XVII. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92347",
+      "lead": "Az Orgoványiszőlő dűlőnél ég az erdő.",
+      "body": "Aljnövényzet és erdő ég Budapest XVII. kerületében, az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A fővárosi hivatásos tűzoltók több vízsugárral oltják a lángokat.",
+      "location": "Budapest, Orgoványiszőlő dűlő",
+      "updates": []
+    },
     {
       "id": "92346",
       "datetime": "2026.09.27. 14:52",
