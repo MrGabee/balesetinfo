@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T14:38:07.078561+00:00",
-  "count": 3694,
+  "updated_at": "2026-09-27T14:41:14.073579+00:00",
+  "count": 3695,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92353",
+      "datetime": "2026.09.27. 16:40",
+      "title": "Bozótos, száraz füves terület ég Hevesvezekényen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92353",
+      "lead": "A tűz körülbelül tíz hektárt érint.",
+      "body": "Bozótos, száraz füves terület ég Hevesvezekényen, az Alkotmány út közelében. A tűz körülbelül tíz hektárt érint, ami egy pulykatelepet is veszélyeztet. A hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Hevesvezekény, Alkotmány út",
+      "updates": []
+    },
     {
       "id": "92352",
       "datetime": "2026.09.27. 16:36",
