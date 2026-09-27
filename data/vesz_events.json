@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-27T10:19:23.127422+00:00",
-  "count": 3679,
+  "updated_at": "2026-09-27T10:23:01.654161+00:00",
+  "count": 3681,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92339",
+      "datetime": "2026.09.27. 12:22",
+      "title": "Kisteherautó és személygépkocsi karambolozott Budapest XVI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92339",
+      "lead": "A Rákosi út és a Batthyány utca kereszteződésében történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi karambolozott Budapest XVI. kerületében, a Rákosi út és a Batthyány utca kereszteződésében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Rákosi út",
+      "updates": []
+    },
+    {
+      "id": "92338",
+      "datetime": "2026.09.27. 12:19",
+      "title": "Szalagkorlátnak ütközött egy autó az M7-esen, Velencénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92338",
+      "lead": "A Budapest felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Szalagkorlátnak ütközött, és átszakította azt egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Velence közelében, a 43-as és 44-es kilométerszelvénynél. A székesfehérvári hivatásos és a velencei önkéntes tűzoltók áramtalanították a gépkocsit. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Velence, M7",
+      "updates": []
+    },
     {
       "id": "92337",
       "datetime": "2026.09.27. 11:08",
