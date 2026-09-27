@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T13:13:24.292233+00:00",
-  "count": 3690,
+  "updated_at": "2026-09-27T13:16:45.100519+00:00",
+  "count": 3691,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92349",
+      "datetime": "2026.09.27. 15:16",
+      "title": "Baleset történt az M6-oson, Iváncsánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92349",
+      "lead": "A Budapest felé vezető oldalon félpályán halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött majd felborult egy személyautó az M6-os autópálya Budapest felé vezető oldalán, Iváncsa közelében, a 47-es kilométerszelvény közelében. A pusztaszabolcsi hivatásos tűzoltók két embert kiemeltek a gépkocsiból. A helyszínre mentőhelikopter is érkezett. Az érintett sztrádaszakaszon félpályán halad a forgalom.",
+      "location": "Iváncsa, M6",
+      "updates": []
+    },
     {
       "id": "92348",
       "datetime": "2026.09.27. 15:11",
