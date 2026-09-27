@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T20:37:06.110196+00:00",
-  "count": 3700,
+  "updated_at": "2026-09-27T20:40:45.237021+00:00",
+  "count": 3701,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92359",
+      "datetime": "2026.09.27. 22:39",
+      "title": "Vadgázolás a 81-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92359",
+      "lead": "Mór és Bakonysárkány között félpályán halad a forgalom.",
+      "body": "Vadat gázolt egy személyautó Mór és Bakonysárkány között, a 81-es főút 35-ös kilométerszelvénynél. A balesethez a móri önkormányzati tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mór, 81",
+      "updates": []
+    },
     {
       "id": "92358",
       "datetime": "2026.09.27. 21:51",
@@ -192,9 +203,9 @@
       "title": "Garázs égett Csepelen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92343",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Cseresznyefa utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy garázs Csepelen, a Cseresznyefa utcában. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok áramtalanították az épületet.",
+      "location": "Budapest, Cseresznyefa utca",
       "updates": []
     },
     {
@@ -258,9 +269,9 @@
       "title": "Baleset történt Héderváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92337",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Fő út és a Hársfa utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Lesodródott az útról egy személyautó Héderváron, a Fő út és a Hársfa utca találkozásánál. A lébényi hivatásos, valamint a hédervári és ásványrárói önkéntes tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
+      "location": "Hédervár, Fő út",
       "updates": []
     },
     {
