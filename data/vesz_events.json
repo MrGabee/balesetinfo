@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T12:50:13.278794+00:00",
-  "count": 3687,
+  "updated_at": "2026-09-27T12:53:44.915965+00:00",
+  "count": 3688,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92346",
+      "datetime": "2026.09.27. 14:52",
+      "title": "Árokba borult egy autó Kunmadaras és Berekfürdő között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92346",
+      "lead": "A 3401-es útra riasztották a tűzoltókat.",
+      "body": "Árokba borult egy személyautó Kunmadaras és Berekfürdő között, a 3401-es út 16-os kilométerszelvényénél. A műszaki mentést a karcagi hivatásos tűzoltók végzik. A gépkocsit egy arra járó szabadnapos tűzoltó áramtalanította. A helyszínre mentő is érkezett.",
+      "location": "Kunmadaras, 3401",
+      "updates": []
+    },
     {
       "id": "92345",
       "datetime": "2026.09.27. 14:49",
