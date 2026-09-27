@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T14:10:48.845181+00:00",
-  "count": 3692,
+  "updated_at": "2026-09-27T14:14:14.924532+00:00",
+  "count": 3693,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92351",
+      "datetime": "2026.09.27. 16:14",
+      "title": "Tetőszerkezet égett Röszkén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92351",
+      "lead": "A József Attila utcában oltották el a lángokat.",
+      "body": "Családi ház tetőszerkezete égett Röszkén, a József Attila utcában. A padlástéren fólia égett, valamint szarufák is meggyulladtak. A szegedi hivatásos tűzoltók eloltották a lángokat.",
+      "location": "Röszke, József Attila utca",
+      "updates": []
+    },
     {
       "id": "92350",
       "datetime": "2026.09.27. 15:23",
