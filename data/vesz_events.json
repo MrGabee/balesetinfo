@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-27T17:58:19.423872+00:00",
-  "count": 3698,
+  "updated_at": "2026-09-27T18:01:18.984336+00:00",
+  "count": 3699,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92357",
+      "datetime": "2026.09.27. 20:00",
+      "title": "Összeütközött két autó Balatonbogláron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92357",
+      "lead": "A Klapka utca és az Erzsébet utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személyautó Balatonbogláron, a Klapka utca és az Erzsébet utca kereszteződésében. A helyi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Balatonboglár, Klapka utca",
+      "updates": []
+    },
     {
       "id": "92356",
       "datetime": "2026.09.27. 18:18",
