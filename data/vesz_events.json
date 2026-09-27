@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-27T12:13:24.798746+00:00",
-  "count": 3683,
+  "updated_at": "2026-09-27T12:16:58.994305+00:00",
+  "count": 3685,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92343",
+      "datetime": "2026.09.27. 14:16",
+      "title": "Garázs égett Csepelen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92343",
+      "lead": "A Cseresznyefa utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy garázs Csepelen, a Cseresznyefa utcában. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok áramtalanították az épületet.",
+      "location": "Budapest, Cseresznyefa utca",
+      "updates": []
+    },
+    {
+      "id": "92342",
+      "datetime": "2026.09.27. 14:13",
+      "title": "Oszlopnak hajtott egy autó Balmazújvárosban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92342",
+      "lead": "A Hortobágyi útra vonultak a tűzoltók.",
+      "body": "Kidöntött egy villanyoszlopot egy személyautó Balmazújvárosban, a Hortobágyi úton, a Daru-Csengei utca közelében. A helyi önkormányzati tűzoltók áramtalanították a gépkocsit. . A helyszínre várják az áramszolgáltató szakembereit.",
+      "location": "Balmazújváros, Hortobágyi út",
+      "updates": []
+    },
     {
       "id": "92341",
       "datetime": "2026.09.27. 13:48",
