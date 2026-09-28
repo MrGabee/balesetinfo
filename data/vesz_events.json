@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T19:16:49.357827+00:00",
-  "count": 3725,
+  "updated_at": "2026-09-28T19:20:25.035654+00:00",
+  "count": 3726,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92384",
+      "datetime": "2026.09.28. 21:19",
+      "title": "Karambol Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92384",
+      "lead": "A Soroksári út és a Haller utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Soroksári út és a Haller utca kereszteződésében. Az autókban csak a sofőrök utaztak. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. A baleset a közösségi közlekedés forgalmát akadályozza.",
+      "location": "Budapest, Soroksári út",
+      "updates": []
+    },
     {
       "id": "92383",
       "datetime": "2026.09.28. 18:25",
