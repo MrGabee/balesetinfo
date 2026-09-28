@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T11:32:30.389975+00:00",
-  "count": 3713,
+  "updated_at": "2026-09-28T11:35:40.073209+00:00",
+  "count": 3714,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92372",
+      "datetime": "2026.09.28. 13:32",
+      "title": "Autó égett egy sárbogárdi műhelyben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92372",
+      "lead": "Már az utómunkálatok zajlanak a Szent István utcában.",
+      "body": "Tűz keletkezett egy műhelyként használt melléképületben, Sárbogárdon, a Szent István utcában. Egy emelőn lévő gépkocsi és az ingatlan tetőszerkezete égett. A város hivatásos tűzoltói eloltották a lángokat, amelyek a közeli lakóházra nem terjedtek át. Jelenleg az utómunkálatok zajlanak a tűz helyszínén.",
+      "location": "Sárbogárd, Szent István utca",
+      "updates": []
+    },
     {
       "id": "92371",
       "datetime": "2026.09.28. 13:03",
