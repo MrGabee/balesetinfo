@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T15:24:39.277392+00:00",
-  "count": 3721,
+  "updated_at": "2026-09-28T15:28:18.579758+00:00",
+  "count": 3722,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92380",
+      "datetime": "2026.09.28. 17:25",
+      "title": "Ház ég Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92380",
+      "lead": "Az Elnök utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy kétszintes ház Miskolcon, az Elnök utcában. A miskolci hivatásos tűzoltók két vízsugárral oltják a lángokat. A rajok a tetőt is megbontották.",
+      "location": "Miskolc, Lyukóvölgy dűlő",
+      "updates": []
+    },
     {
       "id": "92379",
       "datetime": "2026.09.28. 16:58",
