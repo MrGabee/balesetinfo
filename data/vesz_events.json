@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T13:12:07.015358+00:00",
-  "count": 3717,
+  "updated_at": "2026-09-28T13:15:11.237023+00:00",
+  "count": 3718,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92376",
+      "datetime": "2026.09.28. 15:14",
+      "title": "Melléképületek égnek Káptalanfán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92376",
+      "lead": "A Dózsa utcában oltják a lángokat a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy melléképület Káptalanfán, a Dózsa utcában. Az udvaron több jármű, a szomszéd telken pedig egy másik melléképület is ég. Az ajkai hivatásos és a sümegi önkormányzati tűzoltók oltják a lángokat, és védik a közeli családi házat, hogy arra ne terjedjen át a tűz. A helyszínre indult több más egység is. .",
+      "location": "Káptalanfa, Dózsa utca",
+      "updates": []
+    },
     {
       "id": "92375",
       "datetime": "2026.09.28. 14:34",
