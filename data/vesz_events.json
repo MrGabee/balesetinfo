@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T10:01:50.404373+00:00",
+  "updated_at": "2026-09-28T10:06:21.760967+00:00",
   "count": 3708,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -278,9 +278,9 @@
       "title": "Gaz égett Osztopánon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92344",
-      "lead": "A tűz körülbelül két hektárnyi területet érintett.",
-      "body": "Gazos-bozótos terület égett Osztopánon, a Petőfi Sándor utcában. A tűz körülbelül két hektárnyi területet érintett. A helyszínre a kaposvári hivatásos tűzoltókat riasztották, akik eloltották a lángokat.",
-      "location": "Osztopán, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -388,9 +388,9 @@
       "title": "Kamionnal karambolozott egy személyautó Karcagon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92334",
-      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
-      "body": "Egy nyerges vontató és egy személyautó ütközött össze Karcagon, a 4-es főút és a Gyarmati út kereszteződésénél. Az autóban hárman utaztak, a kamionban csak a vezetője tartózkodott. A karcagi hivatásos tűzoltók érkeztek a helyszínre, áramtalanították a kisebb járművet. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
-      "location": "Karcag, Gyarmati út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -402,7 +402,16 @@
       "lead": "A tűzoltók négy vízsugárral oltják a lángokat.",
       "body": "Egy száz négyzetméteres családi ház tetőszerkezete ég teljes egészében Tiszavasváriban, a Babits Mihály utcában. A tiszavasvári önkormányzati tűzoltókat követően a hajdúnánási hivatásos tűzoltók is a helyszínre értek, négy vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. Az egységek a munkálatok közben kihoztak a garázsból két gázpalackot, amelyeket nem ért hőhatás.",
       "location": "Tiszavasvári, Babits Mihály utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat a tűzoltók Tiszavasváriban",
+          "datetime": "2026.09.26. 21:56",
+          "category": "Tűzeset",
+          "text": "A tűzoltók megfékezték a lángokat Tiszavasváriban, ahol egy száz négyzetméteres, téglafalú, cserépfedésű családi ház tetőszerkezete égett teljes egészében a Babits Mihály utcában. A két lakó időben elhagyta az ingatlant. A tiszavasvári önkormányzati és a hajdúnánási hivatásos tűzoltók négy vízsugárral dolgoztak a tűz elfojtásán. A munkálatok közben kihoztak a garázsból két gázpalackot, amelyeket nem ért hőhatás.",
+          "location": "Tiszavasvári, Babits Mihály utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92333/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92333"
+        }
+      ]
     },
     {
       "id": "92332",
