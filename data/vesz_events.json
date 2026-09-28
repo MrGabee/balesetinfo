@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T07:12:28.202403+00:00",
-  "count": 3704,
+  "updated_at": "2026-09-28T07:15:57.822559+00:00",
+  "count": 3705,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92363",
+      "datetime": "2026.09.28. 09:13",
+      "title": "Lakóépület ég Nagyfügeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363",
+      "lead": "A Köztársaság úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakóépület Nagyfügeden, a Köztársaság úton. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek négy vízsugárral már körülhatárolták a lángokat.",
+      "location": "Nagyfüged, Köztársaság út",
+      "updates": []
+    },
     {
       "id": "92362",
       "datetime": "2026.09.28. 08:39",
