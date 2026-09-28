@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:58:08.721086+00:00",
+  "updated_at": "2026-09-28T14:01:41.162360+00:00",
   "count": 3720,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "92376",
-      "datetime": "2026.09.28. 15:14",
+      "datetime": "2026.09.28. 15:14 -",
       "title": "Melléképületek égnek Káptalanfán",
-      "category": "Tűzeset",
+      "category": "Melléképületek égnek Káptalanfán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92376",
       "lead": "A Dózsa utcában oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt és teljes terjedelmében ég egy melléképület Káptalanfán, a Dózsa utcában. Az udvaron több jármű, a szomszéd telken pedig egy másik melléképület is ég. Az ajkai hivatásos és a sümegi önkormányzati tűzoltók oltják a lángokat, és védik a közeli családi házat, hogy arra ne terjedjen át a tűz. A helyszínre indult több más egység is. .",
       "location": "Káptalanfa, Dózsa utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Káptalanfán",
+          "datetime": "2026.09.28. 16:00",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Káptalanfán, a Dózsa utcában, ahol kigyulladt egy melléképület. A műhelyként használt ingatlanban kerti traktor, kisgépek, az udvaron bontás alatt lévő személyautók égtek, a szomszéd telken pedig egy másik melléképület homlokzatát is érintette a tűz. Az ajkai és a pápai hivatásos, a sümegi önkormányzati tűzoltók, valamint a Kráter Önkéntes Tűzoltó Egyesület tagjai fékezték meg a lángokat, amelyek a közeli családi házra nem terjedtek át. A rajok utómunkálatokat végeznek.",
+          "location": "Káptalanfa, Dózsa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92376/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92376"
+        }
+      ]
     },
     {
       "id": "92375",
@@ -258,9 +267,9 @@
       "title": "Összeütközött két autó Balatonbogláron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92357",
-      "lead": "A Klapka utca és az Erzsébet utca kereszteződésében történt a baleset.",
-      "body": "Összeütközött két személyautó Balatonbogláron, a Klapka utca és az Erzsébet utca kereszteződésében. A helyi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Balatonboglár, Klapka utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -344,9 +353,9 @@
       "title": "Összeütközött két autó Tiszavasvári és Hajdúnánás között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92350",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az M3-as autópálya felhajtó közelében történt a baleset.",
+      "body": "Két személyautó karambolozott Tiszavasvári és Hajdúnánás között, az M3-as autópálya felhajtó közelében. A balesethez a hajdúnánási hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hajdúnánás, 3502",
       "updates": []
     },
     {
