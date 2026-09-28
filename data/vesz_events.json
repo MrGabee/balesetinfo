@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T12:04:26.706321+00:00",
+  "updated_at": "2026-09-28T12:07:40.149189+00:00",
   "count": 3715,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A 6703-as út mellett dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy ház Hetesen, a 6703-as út mellett. A kaposvári hivatásos tűzoltók egy gázpalackot kihoztak az épületből. A tűz egy melléképületet is érintett, amely teljesen leégett. Az egységek négy vízsugárral oltják a lángokat.",
       "location": "Hetes, József Attila utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Hetesen",
+          "datetime": "2026.09.28. 14:02",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy ház Hetesen, a 6703-as út mellett. A kaposvári hivatásos tűzoltók egy gázpalackot kihoztak az épületből. A tűz egy melléképületet is érintett, amely teljesen leégett. Az egységek négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Hetes, József Attila utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92373/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92373"
+        }
+      ]
     },
     {
       "id": "92372",
@@ -97,9 +106,9 @@
       "title": "Kamion és személyautó karambolozott az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92365",
-      "lead": "Üllő közelében van szükség a tűzoltók beavatkozására.",
-      "body": "Karambolozott egy utánfutót vontató személygépkocsi és egy kamion az M4-es autóút Szolnok felé vezető oldalán, Üllő közelében. A műszaki mentést végző monori hivatásos tűzoltók áramtalanították a személyautót. A másik járműnél nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Üllő, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
