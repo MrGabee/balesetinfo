@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T15:28:18.579758+00:00",
-  "count": 3722,
+  "updated_at": "2026-09-28T15:31:49.611087+00:00",
+  "count": 3723,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92381",
+      "datetime": "2026.09.28. 17:30",
+      "title": "Tűz volt egy házban Bejcgyertyánoson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92381",
+      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy már félig leégett családi házban Bejcgyertyánoson, a Petőfi utcában. A sárvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Bejcgyertyános, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92380",
       "datetime": "2026.09.28. 17:25",
