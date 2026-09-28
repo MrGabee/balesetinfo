@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T12:33:38.407005+00:00",
-  "count": 3716,
+  "updated_at": "2026-09-28T12:36:39.160263+00:00",
+  "count": 3717,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92375",
+      "datetime": "2026.09.28. 14:34",
+      "title": "Családi ház égett Balatonlellén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92375",
+      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy családi ház tetőszerkezete Balatonlellén, a Petőfi utcában. A balatonboglári önkormányzati tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Balatonlelle, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92374",
       "datetime": "2026.09.28. 14:21",
@@ -236,9 +247,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M85-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92355",
-      "lead": "A Sopron felé vezető oldalon, Farád közelében forgalmi akadályra kell számítani.",
-      "body": "Szalagkorlátnak hajtott egy személyautó az M85-ös autóút Sopron felé vezető oldalán, Farád közelében, a 31-es kilométerszelvénynél. A csornai hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Fraád, M85",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
