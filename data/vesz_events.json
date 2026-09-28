@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T09:33:55.866767+00:00",
+  "updated_at": "2026-09-28T09:37:15.093701+00:00",
   "count": 3708,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,7 +45,16 @@
       "lead": "A Köztársaság úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy lakóépület Nagyfügeden, a Köztársaság úton. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek négy vízsugárral már körülhatárolták a lángokat.",
       "location": "Nagyfüged, Köztársaság út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Nagyfügeden",
+          "datetime": "2026.09.28. 09:32",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy lakóépületben Nagyfügeden, a Köztársaság úton. A melléképület teljes terjedelmében, a főépület tetőszerkezete nagyobb részen égett. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Nagyfüged, Köztársaság út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92363"
+        }
+      ]
     },
     {
       "id": "92362",
