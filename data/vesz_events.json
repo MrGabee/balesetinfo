@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T10:56:32.787310+00:00",
-  "count": 3710,
+  "updated_at": "2026-09-28T11:00:09.322216+00:00",
+  "count": 3711,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92369",
+      "datetime": "2026.09.28. 12:56",
+      "title": "Égett egy autó Mogyorósbányán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92369",
+      "lead": "A Sport utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy személyautó Mogyorósbánya határában, a Sport utcában, Teljes terjedelmében égett a jármű, és mintegy húsz négyzetméteren a körülötte lévő avar is lángra kapott. A nyergesújfalui hivatásos tűzoltók megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat.",
+      "location": "Mogyorósbánya, Sport utca",
+      "updates": []
+    },
     {
       "id": "92368",
       "datetime": "2026.09.28. 12:48",
@@ -106,9 +117,9 @@
       "title": "Pince égett Budapest XVII. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92360",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Edző utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi ház pincerészében Budapest XVII. kerületében, az Edző utcában. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Budapest, Edző utca",
       "updates": []
     },
     {
