@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T07:57:44.410055+00:00",
-  "count": 3705,
+  "updated_at": "2026-09-28T08:01:19.005638+00:00",
+  "count": 3706,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92364",
+      "datetime": "2026.09.28. 09:59",
+      "title": "Baleset Budapest XVI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92364",
+      "lead": "Az Állás utcát teljes szélességében lezárták.",
+      "body": "Parkoló járműnek ütközött és felborult egy személygépkocsi Budapest XVI. kerületében, az Állás utcában. Az autóban csak a sofőr utazott. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Állás utca",
+      "updates": []
+    },
     {
       "id": "92363",
       "datetime": "2026.09.28. 09:13 -",
