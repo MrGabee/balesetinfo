@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T04:47:46.550162+00:00",
-  "count": 3701,
+  "updated_at": "2026-09-28T04:50:47.687435+00:00",
+  "count": 3702,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92360",
+      "datetime": "2026.09.28. 06:49",
+      "title": "Pince égett Budapest XVII. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92360",
+      "lead": "Az Edző utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi ház pincerészében Budapest XVII. kerületében, az Edző utcában. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Budapest, Edző utca",
+      "updates": []
+    },
     {
       "id": "92359",
       "datetime": "2026.09.27. 22:39",
