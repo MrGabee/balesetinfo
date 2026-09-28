@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T14:56:48.978255+00:00",
-  "count": 3720,
+  "updated_at": "2026-09-28T15:00:14.267430+00:00",
+  "count": 3721,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92379",
+      "datetime": "2026.09.28. 16:58",
+      "title": "Felborult egy vasúti szerelvény Budapest tizedik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92379",
+      "lead": "Az érintett vasúti szakaszon teljes vágányzár van érvényben.",
+      "body": "Felborult egy petróleumot szállító vasúti szerelvény két tartálykocsija, egy pedig veszélyesen megdőlt Budapest tizedik kerületében, a Jászberényi út közelében. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a hivatásos tűzoltók egy kocsi esetében megszűntették a szivárgást. Az érintett vasúti szakaszon teljes vágányzár van érvényben.",
+      "location": "Budapest, Kozma utca",
+      "updates": []
+    },
     {
       "id": "92378",
       "datetime": "2026.09.28. 15:57",
