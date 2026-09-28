@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T19:37:28.906026+00:00",
-  "count": 3726,
+  "updated_at": "2026-09-28T19:40:58.359608+00:00",
+  "count": 3727,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92385",
+      "datetime": "2026.09.28. 21:39",
+      "title": "Autó égett Csepelen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92385",
+      "lead": "A II. Rákóczi Ferenc úton dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi Budapest XXI. kerületében, a II. Rákóczi Ferenc úton. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Budapest, II. Rákóczi Ferenc út",
+      "updates": []
+    },
     {
       "id": "92384",
       "datetime": "2026.09.28. 21:19",
