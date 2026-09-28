@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:22:05.991763+00:00",
+  "updated_at": "2026-09-28T11:25:26.042637+00:00",
   "count": 3713,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Karambol történt a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92370",
-      "lead": "Kaba közelében lassítja a forgalmat a baleset.",
-      "body": "Egymásnak ütközött egy furgon és egy személyautó a 4-es főúton, Kaba közelében, a 191. kilométernél. Az egyik jármű az árokba sodródott, a másik az úttesten van. A püspökladányi hivatásos tűzoltók áramtalanítják őket. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
-      "location": "Kaba, 4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,19 +97,10 @@
       "title": "Lakóépület ég Nagyfügeden",
       "category": "Lakóépület ég Nagyfügeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363",
-      "lead": "A Köztársaság úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy lakóépület Nagyfügeden, a Köztársaság úton. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek négy vízsugárral már körülhatárolták a lángokat.",
-      "location": "Nagyfüged, Köztársaság út",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Nagyfügeden",
-          "datetime": "2026.09.28. 09:32",
-          "category": "Tűzeset",
-          "text": "Tűz keletkezett egy lakóépületben Nagyfügeden, a Köztársaság úton. A melléképület teljes terjedelmében, a főépület tetőszerkezete nagyobb részen égett. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Nagyfüged, Köztársaság út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92363"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92362",
@@ -219,7 +210,16 @@
       "lead": "A tűz körülbelül tíz hektárt érint.",
       "body": "Bozótos, száraz füves terület ég Hevesvezekényen, az Alkotmány út közelében. A tűz körülbelül tíz hektárt érint, ami egy pulykatelepet is veszélyeztet. A hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
       "location": "Hevesvezekény, Alkotmány út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat Hevesvezekényen",
+          "datetime": "2026.09.27. 17:34",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Hevesvezekényen, ahol bozótos, száraz füves terület égett az Alkotmány út közelében. A tűz körülbelül tíz hektárt érintett. A lángokat a hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el.",
+          "location": "Hevesvezekény, Alkotmány út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92353"
+        }
+      ]
     },
     {
       "id": "92352",
