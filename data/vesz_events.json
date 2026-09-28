@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T12:19:07.526784+00:00",
-  "count": 3715,
+  "updated_at": "2026-09-28T12:23:01.860586+00:00",
+  "count": 3716,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92374",
+      "datetime": "2026.09.28. 14:21",
+      "title": "Összeütközött két autó Sopronban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92374",
+      "lead": "A Balfi út egy szakaszán egy sávon halad a forgalom.",
+      "body": "Karambolozott két személyautó Sopronban, a Balfi úton, a Töpler Kálmán utcánál. A város hivatásos tűzoltói áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Sopron, Balfi út",
+      "updates": []
+    },
     {
       "id": "92373",
       "datetime": "2026.09.28. 13:49 -",
@@ -106,9 +117,9 @@
       "title": "Kamion és személyautó karambolozott az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92365",
-      "lead": "Üllő közelében van szükség a tűzoltók beavatkozására.",
-      "body": "Karambolozott egy utánfutót vontató személygépkocsi és egy kamion az M4-es autóút Szolnok felé vezető oldalán, Üllő közelében. A műszaki mentést végző monori hivatásos tűzoltók áramtalanították a személyautót. A másik járműnél nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Üllő, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
