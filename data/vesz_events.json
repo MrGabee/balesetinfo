@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:29:00.159791+00:00",
+  "updated_at": "2026-09-28T13:32:36.807538+00:00",
   "count": 3719,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -161,9 +161,9 @@
       "title": "Baleset Budapest XVI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92364",
-      "lead": "Az Állás utcát teljes szélességében lezárták.",
-      "body": "Parkoló járműnek ütközött és felborult egy személygépkocsi Budapest XVI. kerületében, az Állás utcában. Az autóban csak a sofőr utazott. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Budapest, Állás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -269,9 +269,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M85-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92355",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sopron felé vezető oldalon, Farád közelében forgalmi akadályra kell számítani.",
+      "body": "Szalagkorlátnak hajtott egy személyautó az M85-ös autóút Sopron felé vezető oldalán, Farád közelében, a 31-es kilométerszelvénynél. A csornai hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Fraád, M85",
       "updates": []
     },
     {
@@ -291,10 +291,19 @@
       "title": "Bozótos, száraz füves terület ég Hevesvezekényen",
       "category": "Bozótos, száraz füves terület ég Hevesvezekényen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92353",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűz körülbelül tíz hektárt érint.",
+      "body": "Bozótos, száraz füves terület ég Hevesvezekényen, az Alkotmány út közelében. A tűz körülbelül tíz hektárt érint, ami egy pulykatelepet is veszélyeztet. A hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
+      "location": "Hevesvezekény, Alkotmány út",
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat Hevesvezekényen",
+          "datetime": "2026.09.27. 17:34",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Hevesvezekényen, ahol bozótos, száraz füves terület égett az Alkotmány út közelében. A tűz körülbelül tíz hektárt érintett. A lángokat a hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el.",
+          "location": "Hevesvezekény, Alkotmány út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92353"
+        }
+      ]
     },
     {
       "id": "92352",
