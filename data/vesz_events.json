@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T08:58:38.016470+00:00",
+  "updated_at": "2026-09-28T09:01:42.354963+00:00",
   "count": 3708,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Kamion és személyautó karambolozott az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92365",
-      "lead": "Üllő közelében van szükség a tűzoltók beavatkozására.",
-      "body": "Karambolozott egy utánfutót vontató személygépkocsi és egy kamion az M4-es autóút Szolnok felé vezető oldalán, Üllő közelében. A műszaki mentést végző monori hivatásos tűzoltók áramtalanították a személyautót. A másik járműnél nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Üllő, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -42,19 +42,10 @@
       "title": "Lakóépület ég Nagyfügeden",
       "category": "Lakóépület ég Nagyfügeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363",
-      "lead": "A Köztársaság úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy lakóépület Nagyfügeden, a Köztársaság úton. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek négy vízsugárral már körülhatárolták a lángokat.",
-      "location": "Nagyfüged, Köztársaság út",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Nagyfügeden",
-          "datetime": "2026.09.28. 09:32",
-          "category": "Tűzeset",
-          "text": "Tűz keletkezett egy lakóépületben Nagyfügeden, a Köztársaság úton. A melléképület teljes terjedelmében, a főépület tetőszerkezete nagyobb részen égett. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Nagyfüged, Köztársaság út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92363"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92362",
@@ -62,9 +53,9 @@
       "title": "Baleset az M7-es lehajtóján",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92362",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Törökbálintnál végeznek műszaki mentést a tűzoltók.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M7-es autópálya lehajtóján, Törökbálintnál. A törökbálinti hivatásos tűzoltókat riasztották a balesethez. A raj felitatta a kifolyt motorolajat, és áramtalanította a gépkocsit, amely akadályozza a forgalmat.",
+      "location": "Törökbálint, M7",
       "updates": []
     },
     {
