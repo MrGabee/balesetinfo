@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:49:58.855194+00:00",
+  "updated_at": "2026-09-28T07:53:46.931927+00:00",
   "count": 3705,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,10 +9,19 @@
       "title": "Lakóépület ég Nagyfügeden",
       "category": "Lakóépület ég Nagyfügeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Köztársaság úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakóépület Nagyfügeden, a Köztársaság úton. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek négy vízsugárral már körülhatárolták a lángokat.",
+      "location": "Nagyfüged, Köztársaság út",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Nagyfügeden",
+          "datetime": "2026.09.28. 09:32",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy lakóépületben Nagyfügeden, a Köztársaság úton. A melléképület teljes terjedelmében, a főépület tetőszerkezete nagyobb részen égett. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Nagyfüged, Köztársaság út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92363"
+        }
+      ]
     },
     {
       "id": "92362",
@@ -20,9 +29,9 @@
       "title": "Baleset az M7-es lehajtóján",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92362",
-      "lead": "Törökbálintnál végeznek műszaki mentést a tűzoltók.",
-      "body": "Szalagkorlátnak ütközött egy személyautó az M7-es autópálya lehajtóján, Törökbálintnál. A törökbálinti hivatásos tűzoltókat riasztották a balesethez. A raj felitatta a kifolyt motorolajat, és áramtalanította a gépkocsit, amely akadályozza a forgalmat.",
-      "location": "Törökbálint, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -172,9 +181,9 @@
       "title": "Baleset történt az M6-oson, Iváncsánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92349",
-      "lead": "A Budapest felé vezető oldalon félpályán halad a forgalom.",
-      "body": "Szalagkorlátnak ütközött majd felborult egy személyautó az M6-os autópálya Budapest felé vezető oldalán, Iváncsa közelében, a 47-es kilométerszelvény közelében. A pusztaszabolcsi hivatásos tűzoltók két embert kiemeltek a gépkocsiból. A helyszínre mentőhelikopter is érkezett. Az érintett sztrádaszakaszon félpályán halad a forgalom.",
-      "location": "Iváncsa, M6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,9 +300,9 @@
       "title": "Kisteherautó és személygépkocsi karambolozott Budapest XVI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92339",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákosi út és a Batthyány utca kereszteződésében történt a baleset.",
+      "body": "Kisteherautó és személygépkocsi karambolozott Budapest XVI. kerületében, a Rákosi út és a Batthyány utca kereszteződésében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Rákosi út",
       "updates": []
     },
     {
@@ -302,9 +311,9 @@
       "title": "Szalagkorlátnak ütközött egy autó az M7-esen, Velencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92338",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Szalagkorlátnak ütközött, és átszakította azt egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Velence közelében, a 43-as és 44-es kilométerszelvénynél. A székesfehérvári hivatásos és a velencei önkéntes tűzoltók áramtalanították a gépkocsit. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Velence, M7",
       "updates": []
     },
     {
@@ -421,10 +430,19 @@
       "title": "Garázs ég Tapolcán",
       "category": "Garázs ég Tapolcán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92328",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók négy vízsugárral oltják a lángokat.",
+      "body": "Egy hatvan négyzetméteres, garázsnak is használt melléképület ég Tapolcán, a Babits Mihály utcában. Az épület padlásterén található méhkaptárakat is elérték a lángok. A tapolcai önkormányzati és a badacsonytomaji hivatásos tűzoltók négy vízsugárral oltják a tüzet, amely továbbterjedését már megakadályozták. A munkálatok közben az egységek kihoztak egy gázpalackot az épületből.",
+      "location": "Tapolca, Babits Mihály utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Tapolcán",
+          "datetime": "2026.09.26. 19:07",
+          "category": "Tűzeset",
+          "text": "A tűzoltók négy vízsugárral eloltották a lángokat Tapolcán, ahol egy hatvan négyzetméteres, műhelynek használt melléképület égett a Babits Mihály utcában. A lángok az épület padlásterén található méhkaptárakat is elérték. A tapolcai önkormányzati és a badacsonytomaji hivatásos tűzoltók dolgoztak a tűz elfojtásán, a munkálatok közben kihoztak egy gázpalackot az épületből. Az egységek jelenleg az utómunkálatokat végzik.",
+          "location": "Tapolca, Babits Mihály utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92328/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92328"
+        }
+      ]
     },
     {
       "id": "92327",
