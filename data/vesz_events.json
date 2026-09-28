@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:55:28.804518+00:00",
+  "updated_at": "2026-09-28T05:58:44.384129+00:00",
   "count": 3702,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -225,9 +225,9 @@
       "title": "Oszlopnak hajtott egy autó Balmazújvárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92342",
-      "lead": "A Hortobágyi útra vonultak a tűzoltók.",
-      "body": "Kidöntött egy villanyoszlopot egy személyautó Balmazújvárosban, a Hortobágyi úton, a Daru-Csengei utca közelében. A helyi önkormányzati tűzoltók áramtalanították a gépkocsit. . A helyszínre várják az áramszolgáltató szakembereit.",
-      "location": "Balmazújváros, Hortobágyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -280,9 +280,9 @@
       "title": "Baleset történt Héderváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92337",
-      "lead": "A Fő út és a Hársfa utca találkozásánál dolgoznak a tűzoltók.",
-      "body": "Lesodródott az útról egy személyautó Héderváron, a Fő út és a Hársfa utca találkozásánál. A lébényi hivatásos, valamint a hédervári és ásványrárói önkéntes tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
-      "location": "Hédervár, Fő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -324,19 +324,10 @@
       "title": "Családi ház tetőszerkezete ég Tiszavasváriban",
       "category": "Családi ház tetőszerkezete ég Tiszavasváriban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92333",
-      "lead": "A tűzoltók négy vízsugárral oltják a lángokat.",
-      "body": "Egy száz négyzetméteres családi ház tetőszerkezete ég teljes egészében Tiszavasváriban, a Babits Mihály utcában. A tiszavasvári önkormányzati tűzoltókat követően a hajdúnánási hivatásos tűzoltók is a helyszínre értek, négy vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. Az egységek a munkálatok közben kihoztak a garázsból két gázpalackot, amelyeket nem ért hőhatás.",
-      "location": "Tiszavasvári, Babits Mihály utca",
-      "updates": [
-        {
-          "title": "Megfékezték a lángokat a tűzoltók Tiszavasváriban",
-          "datetime": "2026.09.26. 21:56",
-          "category": "Tűzeset",
-          "text": "A tűzoltók megfékezték a lángokat Tiszavasváriban, ahol egy száz négyzetméteres, téglafalú, cserépfedésű családi ház tetőszerkezete égett teljes egészében a Babits Mihály utcában. A két lakó időben elhagyta az ingatlant. A tiszavasvári önkormányzati és a hajdúnánási hivatásos tűzoltók négy vízsugárral dolgoztak a tűz elfojtásán. A munkálatok közben kihoztak a garázsból két gázpalackot, amelyeket nem ért hőhatás.",
-          "location": "Tiszavasvári, Babits Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92333/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92333"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92332",
@@ -344,9 +335,9 @@
       "title": "Két autó karambolozott Dombóváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92332",
-      "lead": "A tűzoltók az egyik járművet áramtalanították.",
-      "body": "Összeütközött két gépkocsi Dombóváron, a Pannónia út és a Teleki utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másik kocsit hőkamerával vizsgálják át. A baleset miatt egy sávon forgalmi akadály alakult ki.",
-      "location": "Dombóvár, Pannónia út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,9 +346,9 @@
       "title": "Traktor pótkocsijának ütközött egy furgon Kétegyházánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92331",
-      "lead": "A baleset miatt lezárták a 4434-es út érintett szakaszát.",
-      "body": "Egy mezőgazdasági vontató pótkocsijának ütközött egy furgon a 4434-es út 11-es kilométerszelvényénél, Kétegyháza térségében. Az ütközés következtében a traktor keresztben állt meg az úttesten. A helyszínre kiérkezett gyulai hivatásos tűzoltók áramtalanították a furgont. Az egység mellett a társhatóságok is a balesetnél dolgoznak, teljes útlezárás mellett.",
-      "location": "Kétegyháza, 4434",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
