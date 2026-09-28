@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T16:24:39.073188+00:00",
-  "count": 3724,
+  "updated_at": "2026-09-28T16:27:47.281941+00:00",
+  "count": 3725,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92383",
+      "datetime": "2026.09.28. 18:25",
+      "title": "Karambol Budapest XIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92383",
+      "lead": "A Csanády utca és a Tátra utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest XIII. kerületében, a Csanády utca és a Tátra utca kereszteződésében. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Tátra utca",
+      "updates": []
+    },
     {
       "id": "92382",
       "datetime": "2026.09.28. 17:58",
