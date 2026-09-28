@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T10:30:37.568184+00:00",
-  "count": 3708,
+  "updated_at": "2026-09-28T10:34:19.246201+00:00",
+  "count": 3709,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92367",
+      "datetime": "2026.09.28. 12:33",
+      "title": "Ház égett Pécsen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92367",
+      "lead": "A Csap dűlőn dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy családi házban Pécsen, a Csap dűlőn. Az épület alsó szintjén lomok égtek. A pécsi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Pécs, Csap dűlő",
+      "updates": []
+    },
     {
       "id": "92366",
       "datetime": "2026.09.28. 10:47",
