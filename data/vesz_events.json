@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T15:55:28.621984+00:00",
-  "count": 3723,
+  "updated_at": "2026-09-28T15:59:16.765241+00:00",
+  "count": 3724,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92382",
+      "datetime": "2026.09.28. 17:58",
+      "title": "Árokba hajtott és felborult egy autó a 406-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92382",
+      "lead": "Abony közelében forgalmi akadályra kell számítani.",
+      "body": "Árokba hajtott és tetejére borult egy személygépkocsi a 406-os főúton, Abony közelében, a 2-es kilométerszelvénynél. Az autóban hárman utaztak. A szolnoki hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Abony, Sashalom dűlő",
+      "updates": []
+    },
     {
       "id": "92381",
       "datetime": "2026.09.28. 17:30",
