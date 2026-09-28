@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T13:18:53.749897+00:00",
-  "count": 3718,
+  "updated_at": "2026-09-28T13:22:09.563605+00:00",
+  "count": 3719,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92377",
+      "datetime": "2026.09.28. 15:21",
+      "title": "Száraz fű égett Királdnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92377",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Száraz fű és bozótos égett Királd térségében mintegy tizenöt hektárnyi területen. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett az ózdi, az aggteleki és a kazincbarcikai hivatásos tűzoltók elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Királd, Kossuth út",
+      "updates": []
+    },
     {
       "id": "92376",
       "datetime": "2026.09.28. 15:14",
