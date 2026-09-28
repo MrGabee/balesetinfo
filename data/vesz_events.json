@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:18:19.558654+00:00",
+  "updated_at": "2026-09-28T11:22:05.991763+00:00",
   "count": 3713,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Kamion és személyautó karambolozott az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92365",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Üllő közelében van szükség a tűzoltók beavatkozására.",
+      "body": "Karambolozott egy utánfutót vontató személygépkocsi és egy kamion az M4-es autóút Szolnok felé vezető oldalán, Üllő közelében. A műszaki mentést végző monori hivatásos tűzoltók áramtalanították a személyautót. A másik járműnél nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Üllő, M4",
       "updates": []
     },
     {
@@ -219,16 +219,7 @@
       "lead": "A tűz körülbelül tíz hektárt érint.",
       "body": "Bozótos, száraz füves terület ég Hevesvezekényen, az Alkotmány út közelében. A tűz körülbelül tíz hektárt érint, ami egy pulykatelepet is veszélyeztet. A hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat.",
       "location": "Hevesvezekény, Alkotmány út",
-      "updates": [
-        {
-          "title": "Megfékezték a lángokat Hevesvezekényen",
-          "datetime": "2026.09.27. 17:34",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Hevesvezekényen, ahol bozótos, száraz füves terület égett az Alkotmány út közelében. A tűz körülbelül tíz hektárt érintett. A lángokat a hevesi, füzesabonyi és jászberényi hivatásos tűzoltók a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el.",
-          "location": "Hevesvezekény, Alkotmány út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92353/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92353"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92352",
@@ -377,9 +368,9 @@
       "title": "Egymásnak ütközött két autó Veszprémben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92340",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 830-as főúton van szükség műszaki mentésre.",
+      "body": "Összeütközött két személyautó Veszprémben, a 830-as főút belterületi szakaszának 2-es kilométerszelvényénél. . A műszaki mentést a veszprémi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Veszprém, Házgyári út",
       "updates": []
     },
     {
