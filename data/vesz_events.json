@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T08:47:29.233749+00:00",
-  "count": 3707,
+  "updated_at": "2026-09-28T08:50:53.720274+00:00",
+  "count": 3708,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92366",
+      "datetime": "2026.09.28. 10:47",
+      "title": "Összeütközött egy autó és egy motor Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92366",
+      "lead": "A Jászberényi út egy szakaszán forgalmi akadály van.",
+      "body": "Összeütközött egy motorkerékpár és egy kisteherautó Budapest X. kerületében, a Jászberényi úton, a Kozma utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A karambol helyszínén forgalmi akadályra kell számítani.",
+      "location": "Budapest, Jászberényi út",
+      "updates": []
+    },
     {
       "id": "92365",
       "datetime": "2026.09.28. 10:29",
