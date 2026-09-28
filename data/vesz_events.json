@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-28T12:00:26.793523+00:00",
+  "updated_at": "2026-09-28T12:04:26.706321+00:00",
   "count": 3715,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "92373",
-      "datetime": "2026.09.28. 13:49",
+      "datetime": "2026.09.28. 13:49 -",
       "title": "Ház ég Hetesen",
-      "category": "Tűzeset",
+      "category": "Ház ég Hetesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92373",
       "lead": "A 6703-as út mellett dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy ház Hetesen, a 6703-as út mellett. A kaposvári hivatásos tűzoltók egy gázpalackot kihoztak az épületből. A tűz egy melléképületet is érintett, amely teljesen leégett. Az egységek négy vízsugárral oltják a lángokat.",
@@ -42,9 +42,9 @@
       "title": "Karambol történt a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92370",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kaba közelében lassítja a forgalmat a baleset.",
+      "body": "Egymásnak ütközött egy furgon és egy személyautó a 4-es főúton, Kaba közelében, a 191. kilométernél. Az egyik jármű az árokba sodródott, a másik az úttesten van. A püspökladányi hivatásos tűzoltók áramtalanítják őket. A mentők is megérkeztek a baleset helyszínére, ahol félpályán lezárták az utat.",
+      "location": "Kaba, 4",
       "updates": []
     },
     {
