@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T10:45:27.075307+00:00",
-  "count": 3709,
+  "updated_at": "2026-09-28T10:49:25.448511+00:00",
+  "count": 3710,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92368",
+      "datetime": "2026.09.28. 12:48",
+      "title": "Tűz volt egy váci lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92368",
+      "lead": "A tűzoltók az Árpád úton fékezték meg a lángokat.",
+      "body": "Kigyulladt egy sorházi lakás Vácon, az Árpád úton, azaz a 2-es főút belterületi szakaszán, a Diák utca közelében. A konyhában keletkezett tűz mintegy két négyzetméteren. A város hivatásos tűzoltói eloltották a lángokat, és kihoztak egy gázpalackot az égő helyiségből. Összesen négy ember hagyta el az épületet a tűz miatt, az egyiküket még a tűzoltók kiérkezése előtt a helyszínen lévő rendőrök menekítették ki.",
+      "location": "Vác, Árpád út",
+      "updates": []
+    },
     {
       "id": "92367",
       "datetime": "2026.09.28. 12:33",
@@ -203,9 +214,9 @@
       "title": "Tetőszerkezet égett Röszkén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92351",
-      "lead": "A József Attila utcában oltották el a lángokat.",
-      "body": "Családi ház tetőszerkezete égett Röszkén, a József Attila utcában. A padlástéren fólia égett, valamint szarufák is meggyulladtak. A szegedi hivatásos tűzoltók eloltották a lángokat.",
-      "location": "Röszke, József Attila utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -247,19 +258,10 @@
       "title": "Tűz van Budapest XVII. kerületében",
       "category": "Tűz van Budapest XVII. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92347",
-      "lead": "Az Orgoványiszőlő dűlőnél ég az erdő.",
-      "body": "Aljnövényzet és erdő ég Budapest XVII. kerületében, az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A fővárosi hivatásos tűzoltók több vízsugárral oltják a lángokat.",
-      "location": "Budapest, Orgoványiszőlő dűlő",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Budapest XVII. kerületében",
-          "datetime": "2026.09.27. 16:42",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Budapest XVII. kerületében, ahol erdő égett az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A lángokat a fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók oltották el.",
-          "location": "Budapest, Orgoványiszőlő dűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92347/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92347"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92346",
@@ -355,9 +357,9 @@
       "title": "Szalagkorlátnak ütközött egy autó az M7-esen, Velencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92338",
-      "lead": "A Budapest felé vezető oldalon forgalomkorlátozásra kell számítani.",
-      "body": "Szalagkorlátnak ütközött, és átszakította azt egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Velence közelében, a 43-as és 44-es kilométerszelvénynél. A székesfehérvári hivatásos és a velencei önkéntes tűzoltók áramtalanították a gépkocsit. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Velence, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -452,9 +454,9 @@
       "title": "Baleset történt a 4-esen, Kisújszállásnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92330",
-      "lead": "Az egyik jármű utasát a tűzoltók a kocsi alól mentették ki.",
-      "body": "Két gépkocsi karambolozott a 4-es főút 151-es kilométerszelvénye után, a lehajtónál. A baleset következtében az egyik jármű két utasának egyike a kocsi alá került, a karcagi hivatásos és a kisújszállási önkormányzati tűzoltók mentették ki. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
-      "location": "Kisújszállás, 4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
