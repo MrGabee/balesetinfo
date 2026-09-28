@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T06:30:59.993883+00:00",
-  "count": 3702,
+  "updated_at": "2026-09-28T06:34:08.709251+00:00",
+  "count": 3703,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92361",
+      "datetime": "2026.09.28. 08:32",
+      "title": "Karambol Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92361",
+      "lead": "A Szállás utcába vonultak a tűzoltók.",
+      "body": "Összeütközött egy személyautó és egy motorkerékpár Budapest X. kerületében, a Szállás utcában, a Szállás köznél. A fővárosi hivatásos tűzoltók vonultak ki a balesethez, amely akadályozza a forgalmat. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Szállás utca",
+      "updates": []
+    },
     {
       "id": "92360",
       "datetime": "2026.09.28. 06:49",
