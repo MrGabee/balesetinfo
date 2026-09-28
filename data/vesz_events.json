@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T08:04:44.856568+00:00",
+  "updated_at": "2026-09-28T08:08:01.722542+00:00",
   "count": 3706,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -73,9 +73,9 @@
       "title": "Vadgázolás a 81-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92359",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mór és Bakonysárkány között félpályán halad a forgalom.",
+      "body": "Vadat gázolt egy személyautó Mór és Bakonysárkány között, a 81-es főút 35-ös kilométerszelvénynél. A balesethez a móri önkormányzati tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mór, 81",
       "updates": []
     },
     {
@@ -106,9 +106,9 @@
       "title": "Hármas karambol az M3-as kivezetőjén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92356",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 11-es kilométerszelvénynél forgalomkorlátozásra kell számítani.",
+      "body": "Három személyautó ütközött össze Budapest XV. kerületében, az M3-as autópálya kivezető szakaszának 11-es kilométerszelvényénél. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, M3 kivezető",
       "updates": []
     },
     {
@@ -214,10 +214,19 @@
       "title": "Tűz van Budapest XVII. kerületében",
       "category": "Tűz van Budapest XVII. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92347",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az Orgoványiszőlő dűlőnél ég az erdő.",
+      "body": "Aljnövényzet és erdő ég Budapest XVII. kerületében, az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A fővárosi hivatásos tűzoltók több vízsugárral oltják a lángokat.",
+      "location": "Budapest, Orgoványiszőlő dűlő",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest XVII. kerületében",
+          "datetime": "2026.09.27. 16:42",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Budapest XVII. kerületében, ahol erdő égett az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A lángokat a fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók oltották el.",
+          "location": "Budapest, Orgoványiszőlő dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92347/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92347"
+        }
+      ]
     },
     {
       "id": "92346",
