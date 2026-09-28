@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-28T13:54:36.123561+00:00",
-  "count": 3719,
+  "updated_at": "2026-09-28T13:58:08.721086+00:00",
+  "count": 3720,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92378",
+      "datetime": "2026.09.28. 15:57",
+      "title": "Két baleset történt az 5-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92378",
+      "lead": "Kecskemét közelében forgalmi akadály van.",
+      "body": "Két baleset történt az 5-ös főúton, Kecskemét közelében, a 94-es kilométerszelvénynél. Egy személyautó és egy tehergépkocsi ütközött, illetve egymásba futott három személygépkocsi is. A kecskeméti hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kecskemét, Városföld tanya",
+      "updates": []
+    },
     {
       "id": "92377",
       "datetime": "2026.09.28. 15:21",
@@ -333,9 +344,9 @@
       "title": "Összeütközött két autó Tiszavasvári és Hajdúnánás között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92350",
-      "lead": "Az M3-as autópálya felhajtó közelében történt a baleset.",
-      "body": "Két személyautó karambolozott Tiszavasvári és Hajdúnánás között, az M3-as autópálya felhajtó közelében. A balesethez a hajdúnánási hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Hajdúnánás, 3502",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
