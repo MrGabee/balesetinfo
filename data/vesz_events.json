@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:19:14.681289+00:00",
+  "updated_at": "2026-09-28T07:23:19.260298+00:00",
   "count": 3705,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -197,7 +197,16 @@
       "lead": "Az Orgoványiszőlő dűlőnél ég az erdő.",
       "body": "Aljnövényzet és erdő ég Budapest XVII. kerületében, az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A fővárosi hivatásos tűzoltók több vízsugárral oltják a lángokat.",
       "location": "Budapest, Orgoványiszőlő dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest XVII. kerületében",
+          "datetime": "2026.09.27. 16:42",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Budapest XVII. kerületében, ahol erdő égett az Orgoványiszőlő dűlőnél. A helyszínen egy kisebb faépület teljesen leégett. A lángokat a fővárosi hivatásos és a nagytarcsai önkéntes tűzoltók oltották el.",
+          "location": "Budapest, Orgoványiszőlő dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92347/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92347"
+        }
+      ]
     },
     {
       "id": "92346",
