@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:05:08.199396+00:00",
+  "updated_at": "2026-09-28T07:08:41.770066+00:00",
   "count": 3704,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -366,9 +366,9 @@
       "title": "Két autó karambolozott Dombóváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92332",
-      "lead": "A tűzoltók az egyik járművet áramtalanították.",
-      "body": "Összeütközött két gépkocsi Dombóváron, a Pannónia út és a Teleki utca kereszteződésénél. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másik kocsit hőkamerával vizsgálják át. A baleset miatt egy sávon forgalmi akadály alakult ki.",
-      "location": "Dombóvár, Pannónia út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -413,7 +413,16 @@
       "lead": "A tűzoltók négy vízsugárral oltják a lángokat.",
       "body": "Egy hatvan négyzetméteres, garázsnak is használt melléképület ég Tapolcán, a Babits Mihály utcában. Az épület padlásterén található méhkaptárakat is elérték a lángok. A tapolcai önkormányzati és a badacsonytomaji hivatásos tűzoltók négy vízsugárral oltják a tüzet, amely továbbterjedését már megakadályozták. A munkálatok közben az egységek kihoztak egy gázpalackot az épületből.",
       "location": "Tapolca, Babits Mihály utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Tapolcán",
+          "datetime": "2026.09.26. 19:07",
+          "category": "Tűzeset",
+          "text": "A tűzoltók négy vízsugárral eloltották a lángokat Tapolcán, ahol egy hatvan négyzetméteres, műhelynek használt melléképület égett a Babits Mihály utcában. A lángok az épület padlásterén található méhkaptárakat is elérték. A tapolcai önkormányzati és a badacsonytomaji hivatásos tűzoltók dolgoztak a tűz elfojtásán, a munkálatok közben kihoztak egy gázpalackot az épületből. Az egységek jelenleg az utómunkálatokat végzik.",
+          "location": "Tapolca, Babits Mihály utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92328/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92328"
+        }
+      ]
     },
     {
       "id": "92327",
