@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T10:54:29.560620+00:00",
-  "count": 3741,
+  "updated_at": "2026-09-29T10:57:37.358215+00:00",
+  "count": 3742,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92400",
+      "datetime": "2026.09.29. 12:56",
+      "title": "Három autó karambolozott az 53-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92400",
+      "lead": "Pirtó közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött három személyautó az 53-as főúton, Pirtó közelében, a 47. kilométernél. A kiskunhalasi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonultak. A raj áramtalanította a gépkocsikat. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Pirtó, 53",
+      "updates": []
+    },
     {
       "id": "92399",
       "datetime": "2026.09.29. 12:54",
