@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T15:53:51.884543+00:00",
-  "count": 3753,
+  "updated_at": "2026-09-29T15:57:24.558219+00:00",
+  "count": 3754,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92412",
+      "datetime": "2026.09.29. 17:54",
+      "title": "Melléképülettűz Zalaszentgróton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92412",
+      "lead": "A tűzoltókat a Bartók Béla utcába riasztották.",
+      "body": "Kigyulladt egy melléképület Zalaszentgróton, a Bartók Béla utcában. A tizenkét négyzetméteres épület tetőszerkezete két négyzetméteren égett. A helyi önkormányzati tűzoltók egy vízsugárral fojtották el a lángokat.",
+      "location": "Zalaszentgrót, Bartók Béla utca",
+      "updates": []
+    },
     {
       "id": "92411",
       "datetime": "2026.09.29. 17:47",
