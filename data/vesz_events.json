@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T15:57:24.558219+00:00",
-  "count": 3754,
+  "updated_at": "2026-09-29T16:01:41.758105+00:00",
+  "count": 3755,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92413",
+      "datetime": "2026.09.29. 18:00",
+      "title": "Négyes karambol az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92413",
+      "lead": "A főváros XXII. kerületénél történt a baleset.",
+      "body": "Négy személygépkocsi karambolozott Budapest XXII. kerületénél, az M0-s autóút 14-es kilométerénél, az M5-ös autópálya felé vezető oldalon. A fővárosi hivatásos tűzoltók végzik a műszaki mentést, amely során két járművet áramtalanítottak. A társhatóság is a helyszínen dolgozik.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "92412",
       "datetime": "2026.09.29. 17:54",
