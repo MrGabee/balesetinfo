@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T15:37:14.828987+00:00",
-  "count": 3751,
+  "updated_at": "2026-09-29T15:40:58.711017+00:00",
+  "count": 3752,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92410",
+      "datetime": "2026.09.29. 17:40",
+      "title": "Tűz keletkezett Penészleknél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92410",
+      "lead": "Száraz fű égett.",
+      "body": "Foltokba égett a száraz fű Penészleknél, a Táncsics Mihály utca közelében. A nyíradonyi, a nyírbátori és a mátészalkai hivatásos tűzoltók négy vízsugárral, kéziszerszámokkal és puttonyfecskendővel fojtották el a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek. A munkálatokat egy nyírbátori vízszállító jármű is segíti.",
+      "location": "Penészlek, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "92409",
       "datetime": "2026.09.29. 17:21",
