@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T19:04:38.377103+00:00",
+  "updated_at": "2026-09-29T19:07:38.891606+00:00",
   "count": 3757,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -115,14 +115,23 @@
     },
     {
       "id": "92405",
-      "datetime": "2026.09.29. 15:56",
+      "datetime": "2026.09.29. 15:56 -",
       "title": "Ég egy erdő aljnövényzete Németkérnél",
-      "category": "Tűzeset",
+      "category": "Ég egy erdő aljnövényzete Németkérnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92405",
       "lead": "Nagy erőkkel vonulnak a helyszínre a tűzoltók.",
       "body": "Kigyulladt egy erdő aljnövényzete Németkér közelében, az M6-os autópálya és a 6229-es út között. Nagy területet érint a tűz, amelyet a paksi hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Németkér, Németkér külterülete",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Németkérnél",
+          "datetime": "2026.09.29. 21:05",
+          "category": "Tűzeset",
+          "text": "Körülbelül tíz hektáron egy erdő aljnövényzete égett Németkérnél, az M6-os autópálya és a 6229-es út között. A paksi, a solti és a dunaújvárosi hivatásos tűzoltók hat vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. A munkálatokat a Tolna vármegyei katasztrófavédelmi műveleti szolgálat irányította. Egy kalocsai, egy szekszárdi és egy paksi vízszállító jármű is segítette az oltást.",
+          "location": "Németkér, Németkér külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92405/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92405"
+        }
+      ]
     },
     {
       "id": "92404",
