@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T13:48:53.722514+00:00",
-  "count": 3745,
+  "updated_at": "2026-09-29T13:51:52.277707+00:00",
+  "count": 3746,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92404",
+      "datetime": "2026.09.29. 15:50",
+      "title": "Egymásnak ütközött két autó Kótaj közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92404",
+      "lead": "A 3823-as és a 3834-es út kereszteződésében történt a baleset.",
+      "body": "Karambolozott két személyautó Kótaj és Kemecse között, a 3823-as és a 3834-es út kereszteződésében. A járművekben összesen hárman utaztak, őket megvizsgálták a mentők. A nyíregyházi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén forgalmi akadályra lehet számítani.",
+      "location": "Kótaj, 3823, 3834",
+      "updates": []
+    },
     {
       "id": "92403",
       "datetime": "2026.09.29. 14:55",
@@ -269,9 +280,9 @@
       "title": "Tűz volt egy házban Bejcgyertyánoson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92381",
-      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy már félig leégett családi házban Bejcgyertyánoson, a Petőfi utcában. A sárvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-      "location": "Bejcgyertyános, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
