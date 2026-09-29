@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T07:22:33.174864+00:00",
-  "count": 3731,
+  "updated_at": "2026-09-29T07:25:45.451999+00:00",
+  "count": 3732,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92390",
+      "datetime": "2026.09.29. 09:24",
+      "title": "Autó és vonat ütközött össze Felsőpakonyban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92390",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Rét utcai vasúti átjárónál.",
+      "body": "Személyautóval ütközött össze egy vonat Felsőpakonyban, a Rét utcai vasúti átjáróban. A fővárosi hivatásos tűzoltókat riasztották a balesethez. A raj áramtalanította a gépkocsit, és a rendőrségi helyszínelés után megszünteti a forgalmi akadályt.",
+      "location": "Felsőpakony, Rét utca",
+      "updates": []
+    },
     {
       "id": "92389",
       "datetime": "2026.09.29. 09:19",
@@ -42,9 +53,9 @@
       "title": "Felborult egy autó az M3-on",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92386",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Aszód és Hatvan között teljes szélességében lezárták az utat.",
+      "body": "Lesodródott az útról és felborult egy személygépkocsi az M3-as autópályán, Nyíregyháza felé, Aszód és Hatvan között, a 47-es kilométerszelvénynél. A gödöllői és aszódi hivatásos tűzoltók kiemeltek egy utast az autóból. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kartal, Császár út",
       "updates": []
     },
     {
