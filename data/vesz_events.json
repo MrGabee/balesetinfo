@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T05:47:46.460339+00:00",
-  "count": 3727,
+  "updated_at": "2026-09-29T05:50:47.574681+00:00",
+  "count": 3728,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92386",
+      "datetime": "2026.09.29. 07:48",
+      "title": "Felborult egy autó az M3-on",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92386",
+      "lead": "Aszód és Hatvan között teljes szélességében lezárták az utat.",
+      "body": "Lesodródott az útról és felborult egy személygépkocsi az M3-as autópályán, Nyíregyháza felé, Aszód és Hatvan között, a 47-es kilométerszelvénynél. A gödöllői és aszódi hivatásos tűzoltók kiemeltek egy utast az autóból. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kartal, Császár út",
+      "updates": []
+    },
     {
       "id": "92385",
       "datetime": "2026.09.28. 21:39",
@@ -364,9 +375,9 @@
       "title": "Hármas karambol az M3-as kivezetőjén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92356",
-      "lead": "A 11-es kilométerszelvénynél forgalomkorlátozásra kell számítani.",
-      "body": "Három személyautó ütközött össze Budapest XV. kerületében, az M3-as autópálya kivezető szakaszának 11-es kilométerszelvényénél. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Budapest, M3 kivezető",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
