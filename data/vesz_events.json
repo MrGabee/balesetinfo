@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T11:18:39.371177+00:00",
-  "count": 3743,
+  "updated_at": "2026-09-29T11:22:13.116825+00:00",
+  "count": 3744,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92402",
+      "datetime": "2026.09.29. 13:20",
+      "title": "Száraz fű gyulladt ki Miskolcnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92402",
+      "lead": "Épületekbe is belekaptak a lángok, amelyeket megfékeztek a tűzoltók.",
+      "body": "Lángra kapott a száraz fű Miskolc külterületén, a Lyukóvölgyi útnál, a Régi vasút dűlő közelében. Három épületbe is belekaptak a lángok, de a város hivatásos tűzoltói vízsugarakkal és kéziszerszámokkal megakadályozták a továbbterjedésüket, majd eloltották a tüzet. A rajok megkezdték az utómunkálatokat.",
+      "location": "Miskolc, Lyukóvölgyi út",
+      "updates": []
+    },
     {
       "id": "92401",
       "datetime": "2026.09.29. 13:11",
