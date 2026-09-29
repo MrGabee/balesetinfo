@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T14:47:36.707156+00:00",
-  "count": 3748,
+  "updated_at": "2026-09-29T14:51:45.017558+00:00",
+  "count": 3749,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92407",
+      "datetime": "2026.09.29. 16:48",
+      "title": "Karambol a XIV. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92407",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Két személygépkocsi karambolozott Budapest XIV. kerületében, a Rákospatak utcában. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Rákospatak utca",
+      "updates": []
+    },
     {
       "id": "92406",
       "datetime": "2026.09.29. 16:01",
