@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T17:03:29.412415+00:00",
-  "count": 3755,
+  "updated_at": "2026-09-29T17:06:48.917512+00:00",
+  "count": 3756,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92414",
+      "datetime": "2026.09.29. 19:04",
+      "title": "Összeütközött két jármű a IX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92414",
+      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "body": "Két gépkocsi karambolozott Budapest IX. kerületében, a Gyáli út és az Ecseri út kereszteződésénél. A baleset következtében az egyik jármű felborult. A fővárosi hivatásos tűzoltók áramtalanítják a kocsikat. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, Ecseri út",
+      "updates": []
+    },
     {
       "id": "92413",
       "datetime": "2026.09.29. 18:00",
