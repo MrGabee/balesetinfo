@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T13:51:52.277707+00:00",
+  "updated_at": "2026-09-29T13:55:36.564018+00:00",
   "count": 3746,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -280,9 +280,9 @@
       "title": "Tűz volt egy házban Bejcgyertyánoson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92381",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy már félig leégett családi házban Bejcgyertyánoson, a Petőfi utcában. A sárvári hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Bejcgyertyános, Petőfi utca",
       "updates": []
     },
     {
@@ -386,19 +386,10 @@
       "title": "Ház ég Hetesen",
       "category": "Ház ég Hetesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92373",
-      "lead": "A 6703-as út mellett dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy ház Hetesen, a 6703-as út mellett. A kaposvári hivatásos tűzoltók egy gázpalackot kihoztak az épületből. A tűz egy melléképületet is érintett, amely teljesen leégett. Az egységek négy vízsugárral oltják a lángokat.",
-      "location": "Hetes, József Attila utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Hetesen",
-          "datetime": "2026.09.28. 14:02",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy ház Hetesen, a 6703-as út mellett. A kaposvári hivatásos tűzoltók egy gázpalackot kihoztak az épületből. A tűz egy melléképületet is érintett, amely teljesen leégett. Az egységek négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Hetes, József Attila utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92373/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92373"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92372",
@@ -450,9 +441,9 @@
       "title": "Tűz volt egy váci lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92368",
-      "lead": "A tűzoltók az Árpád úton fékezték meg a lángokat.",
-      "body": "Kigyulladt egy sorházi lakás Vácon, az Árpád úton, azaz a 2-es főút belterületi szakaszán, a Diák utca közelében. A konyhában keletkezett tűz mintegy két négyzetméteren. A város hivatásos tűzoltói eloltották a lángokat, és kihoztak egy gázpalackot az égő helyiségből. Összesen négy ember hagyta el az épületet a tűz miatt, az egyiküket még a tűzoltók kiérkezése előtt a helyszínen lévő rendőrök menekítették ki.",
-      "location": "Vác, Árpád út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
