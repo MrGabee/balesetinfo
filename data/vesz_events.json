@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T07:36:08.067036+00:00",
-  "count": 3733,
+  "updated_at": "2026-09-29T07:39:07.085199+00:00",
+  "count": 3734,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92392",
+      "datetime": "2026.09.29. 09:38",
+      "title": "Összeütközött két autó Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92392",
+      "lead": "Forgalmi akadály van a Berényi út és a Szent Flórián körút kereszteződésénél.",
+      "body": "Karambolozott két személyautó Székesfehérváron, a Berényi út és a Szent Flórián körút kereszteződésénél. A járművekben egy-egy ember utazott, hozzájuk mentők érkeztek a helyszínre. A balesethez a város hivatásos tűzoltói vonultak ki, akik megszüntetik a forgalmi akadályt.",
+      "location": "Székesfehérvár, Berényi út",
+      "updates": []
+    },
     {
       "id": "92391",
       "datetime": "2026.09.29. 09:27",
