@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T15:19:59.451203+00:00",
-  "count": 3750,
+  "updated_at": "2026-09-29T15:22:58.837128+00:00",
+  "count": 3751,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92409",
+      "datetime": "2026.09.29. 17:21",
+      "title": "Lakóház égett Milotán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92409",
+      "lead": "A Rákóczi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház Milotán, a Rákóczi utcában. Az ingatlan berendezési tárgyai és a tetőszerkezete égett. A fehérgyarmati hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Milota, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "92408",
       "datetime": "2026.09.29. 17:16",
