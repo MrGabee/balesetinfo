@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T06:39:04.030497+00:00",
+  "updated_at": "2026-09-29T06:42:56.579647+00:00",
   "count": 3728,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -131,7 +131,16 @@
       "lead": "A Dózsa utcában oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt és teljes terjedelmében ég egy melléképület Káptalanfán, a Dózsa utcában. Az udvaron több jármű, a szomszéd telken pedig egy másik melléképület is ég. Az ajkai hivatásos és a sümegi önkormányzati tűzoltók oltják a lángokat, és védik a közeli családi házat, hogy arra ne terjedjen át a tűz. A helyszínre indult több más egység is. .",
       "location": "Káptalanfa, Dózsa utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Káptalanfán",
+          "datetime": "2026.09.28. 16:00",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Káptalanfán, a Dózsa utcában, ahol kigyulladt egy melléképület. A műhelyként használt ingatlanban kerti traktor, kisgépek, az udvaron bontás alatt lévő személyautók égtek, a szomszéd telken pedig egy másik melléképület homlokzatát is érintette a tűz. Az ajkai és a pápai hivatásos, a sümegi önkormányzati tűzoltók, valamint a Kráter Önkéntes Tűzoltó Egyesület tagjai fékezték meg a lángokat, amelyek a közeli családi házra nem terjedtek át. A rajok utómunkálatokat végeznek.",
+          "location": "Káptalanfa, Dózsa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92376/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92376"
+        }
+      ]
     },
     {
       "id": "92375",
@@ -269,9 +278,9 @@
       "title": "Baleset Budapest XVI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92364",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Állás utcát teljes szélességében lezárták.",
+      "body": "Parkoló járműnek ütközött és felborult egy személygépkocsi Budapest XVI. kerületében, az Állás utcában. Az autóban csak a sofőr utazott. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Állás utca",
       "updates": []
     },
     {
