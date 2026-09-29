@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T07:25:45.451999+00:00",
-  "count": 3732,
+  "updated_at": "2026-09-29T07:29:17.400078+00:00",
+  "count": 3733,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92391",
+      "datetime": "2026.09.29. 09:27",
+      "title": "Baleset történt Nyíregyházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92391",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Nyíregyházánál, a Kemecsei úton, azaz a 3834-es út, a Blaha Lujza sétány és a Korányi Frigyes utca kereszteződésénél. A nyíregyházi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Nyíregyháza, Blaha Lujza sétány",
+      "updates": []
+    },
     {
       "id": "92390",
       "datetime": "2026.09.29. 09:24",
