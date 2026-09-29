@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:11:34.638123+00:00",
+  "updated_at": "2026-09-29T11:14:59.531808+00:00",
   "count": 3743,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -128,9 +128,9 @@
       "title": "Baleset történt Nyíregyházánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92391",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Nyíregyházánál, a Kemecsei úton, azaz a 3834-es út, a Blaha Lujza sétány és a Korányi Frigyes utca kereszteződésénél. A nyíregyházi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Nyíregyháza, Blaha Lujza sétány",
       "updates": []
     },
     {
@@ -333,9 +333,9 @@
       "title": "Összeütközött két autó Sopronban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92374",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Balfi út egy szakaszán egy sávon halad a forgalom.",
+      "body": "Karambolozott két személyautó Sopronban, a Balfi úton, a Töpler Kálmán utcánál. A város hivatásos tűzoltói áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Sopron, Balfi út",
       "updates": []
     },
     {
