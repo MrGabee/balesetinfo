@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T18:24:15.411749+00:00",
-  "count": 3756,
+  "updated_at": "2026-09-29T18:27:45.506857+00:00",
+  "count": 3757,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92415",
+      "datetime": "2026.09.29. 20:24",
+      "title": "Autótűz Érden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92415",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Kigyulladt egy személygépkocsi Érden, a Bajcsi-Zsilinszky úton. A jármű motortere teljes terjedelmében égett. Az érdi hivatásos tűzoltók egy vízsugárral fojtották el a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Érd, Bajcsy-Zsilinszky út",
+      "updates": []
+    },
     {
       "id": "92414",
       "datetime": "2026.09.29. 19:04",
