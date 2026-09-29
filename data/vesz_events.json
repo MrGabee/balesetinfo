@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T22:05:57.627107+00:00",
-  "count": 3758,
+  "updated_at": "2026-09-29T22:09:27.994322+00:00",
+  "count": 3759,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92417",
+      "datetime": "2026.09.30. 00:09",
+      "title": "Tűz keletkezett egy kecskeméti hulladéklerakóban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92417",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Mintegy száz négyzetméteren égett a szemét egy hulladéklerakóban, Kecskemétnél. A kecskeméti hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A munkálatokat egy kecskeméti vízszállító jármű és egy erőgép is segíti. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Kecskemét, Kisfái",
+      "updates": []
+    },
     {
       "id": "92416",
       "datetime": "2026.09.29. 22:42",
