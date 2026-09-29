@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T08:55:37.343555+00:00",
-  "count": 3736,
+  "updated_at": "2026-09-29T08:58:27.173406+00:00",
+  "count": 3737,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92395",
+      "datetime": "2026.09.29. 10:56",
+      "title": "Kigyulladt egy melléképület Makón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395",
+      "lead": "A tűzoltók a Kelemen László utcában oltják a lángokat.",
+      "body": "Tűz ütött ki egy melléképületben, Makón, a Kelemen László utcában. Az ingatlan tetőszerkezete, két helyisége és a bennük lévő anyag ég. A város hivatásos tűzoltói két vízsugárral oltják a lángokat.",
+      "location": "Makó, Kelemen László utca",
+      "updates": []
+    },
     {
       "id": "92394",
       "datetime": "2026.09.29. 10:25",
