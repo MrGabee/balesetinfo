@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T12:54:34.960655+00:00",
-  "count": 3744,
+  "updated_at": "2026-09-29T12:58:09.881658+00:00",
+  "count": 3745,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92403",
+      "datetime": "2026.09.29. 14:55",
+      "title": "Karambol 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92403",
+      "lead": "A Székesfehérvárt elkerülő szakaszon dolgoznak a tűzoltók.",
+      "body": "Egymásnak ütközött két személyautó 8-as főút Székesfehérvárt elkerülő szakaszán, az 1. kilométerszelvényben, a Szlovák utca közelében. A város hivatásos tűzoltói áramtalanították az egyik járművet. A másiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Székesfehérvár, 8",
+      "updates": []
+    },
     {
       "id": "92402",
       "datetime": "2026.09.29. 13:20",
@@ -106,9 +117,9 @@
       "title": "Ráfutásos baleset az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92394",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Tatabányánál, a Győr felé vezető sztrádaszakaszt teljes szélességében lezárták.",
+      "body": "Egy személygépkocsi és egy kamion ütközött Tatabányánál, az M1-es autópálya 56-os kilométerénél, a Győr felé vezető oldalon. A személyautóból egy embert a tatabányai hivatásos tűzoltók emeltek ki. A Komárom-Esztergom vármegyei katasztrófavédelmi műveleti szolgálat is az esetnél dolgozik. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Tatabánya, M1",
       "updates": []
     },
     {
