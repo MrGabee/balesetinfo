@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T20:39:25.073657+00:00",
-  "count": 3757,
+  "updated_at": "2026-09-29T20:43:04.923131+00:00",
+  "count": 3758,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92416",
+      "datetime": "2026.09.29. 22:42",
+      "title": "Vadat gázolt egy autó a 813-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92416",
+      "lead": "Győrnél történt a baleset.",
+      "body": "Vadat gázolt egy személyautó Győrnél, a 813-as főút 6-os kilométerénél. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóság is a helyszínre érkezett.",
+      "location": "Győr, 813",
+      "updates": []
+    },
     {
       "id": "92415",
       "datetime": "2026.09.29. 20:24",
