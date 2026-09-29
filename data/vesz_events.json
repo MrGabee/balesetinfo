@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T10:03:18.137327+00:00",
-  "count": 3738,
+  "updated_at": "2026-09-29T10:06:28.161406+00:00",
+  "count": 3739,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92397",
+      "datetime": "2026.09.29. 12:05",
+      "title": "Karambol a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92397",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két személygépkocsi karambolozott Budapest XVIII. kerületében, a Közdűlő úton, az Ipacsfa utca közelében. A baleset következtében az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók áramtalanították az autókat. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Közdűlő út",
+      "updates": []
+    },
     {
       "id": "92396",
       "datetime": "2026.09.29. 11:54",
