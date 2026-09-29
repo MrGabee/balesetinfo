@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T08:18:01.191028+00:00",
-  "count": 3734,
+  "updated_at": "2026-09-29T08:21:33.754557+00:00",
+  "count": 3735,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92393",
+      "datetime": "2026.09.29. 10:20",
+      "title": "Karambolozott két autó a IX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92393",
+      "lead": "A Könyves Kálmán körútra riasztották a tűzoltókat.",
+      "body": "Egymásnak ütközött két személyautó Budapest IX. kerületében, a Könyves Kálmán körúton, a Mester utcánál. A fővárosi hivatásos tűzoltók vonultak ki a balesethez, amely egy sávon akadályozza a forgalmat. A raj eltávolítja az úttestről a járműveket.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "92392",
       "datetime": "2026.09.29. 09:38",
@@ -419,9 +430,9 @@
       "title": "Két autó ütközött össze Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92358",
-      "lead": "A Virág utca és a Munkásotthon utca kereszteződésében dolgoznak a tűzoltók.",
-      "body": "Két személyautó ütközött össze Újpesten, a Virág utca és a Munkásotthon utca kereszteződésében. A fővárosi hivatásos tűzoltók az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett.",
-      "location": "Budapest, Munkásotthon utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
