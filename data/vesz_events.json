@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:43:37.028312+00:00",
+  "updated_at": "2026-09-29T12:47:24.764299+00:00",
   "count": 3744,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,10 +86,19 @@
       "title": "Kigyulladt egy melléképület Makón",
       "category": "Kigyulladt egy melléképület Makón",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Kelemen László utcában oltják a lángokat.",
+      "body": "Tűz ütött ki egy melléképületben, Makón, a Kelemen László utcában. Az ingatlan tetőszerkezete, két helyisége és a bennük lévő anyag ég. A város hivatásos tűzoltói két vízsugárral oltják a lángokat.",
+      "location": "Makó, Kelemen László utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a makói tűznél",
+          "datetime": "2026.09.29. 11:24",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Makón, a Kelemen László utcában, ahol kigyulladt egy melléképület. Mintegy húsz négyzetméteren égett az ingatlan két helyisége és a fölöttük lévő tetőszerkezet. A város hivatásos tűzoltói fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
+          "location": "Makó, Kelemen László utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92395"
+        }
+      ]
     },
     {
       "id": "92394",
@@ -141,9 +150,9 @@
       "title": "Autó és vonat ütközött össze Felsőpakonyban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92390",
-      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Rét utcai vasúti átjárónál.",
-      "body": "Személyautóval ütközött össze egy vonat Felsőpakonyban, a Rét utcai vasúti átjáróban. A fővárosi hivatásos tűzoltókat riasztották a balesethez. A raj áramtalanította a gépkocsit, és a rendőrségi helyszínelés után megszünteti a forgalmi akadályt.",
-      "location": "Felsőpakony, Rét utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -443,9 +452,9 @@
       "title": "Kamion és személyautó karambolozott az M4-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92365",
-      "lead": "Üllő közelében van szükség a tűzoltók beavatkozására.",
-      "body": "Karambolozott egy utánfutót vontató személygépkocsi és egy kamion az M4-es autóút Szolnok felé vezető oldalán, Üllő közelében. A műszaki mentést végző monori hivatásos tűzoltók áramtalanították a személyautót. A másik járműnél nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Üllő, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
