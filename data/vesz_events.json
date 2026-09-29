@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-29T07:18:36.560695+00:00",
-  "count": 3729,
+  "updated_at": "2026-09-29T07:22:33.174864+00:00",
+  "count": 3731,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92389",
+      "datetime": "2026.09.29. 09:19",
+      "title": "Összeütközött két autó Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92389",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két személygépkocsi karambolozott Pécsen, a Zsolnay Vilmos utcában, azaz a 6-os főút 195-ös kilométerénél. A helyi hivatásos tűzoltókat riasztották az esethez. A raj áramtalanította a járműveket.",
+      "location": "Pécs, Zsolnay Vilmos utca",
+      "updates": []
+    },
+    {
+      "id": "92388",
+      "datetime": "2026.09.29. 09:19",
+      "title": "Négyes karambol az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92388",
+      "lead": "Csömör közelében az M3-as felé forgalomkorlátozásra kell számítani.",
+      "body": "Összeütközött négy személyautó az M0-s autóút M3-as felé vezető oldalán, Csömör közelében, a 62. kilométernél. A fővárosi hivatásos és a csömöri önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon a külső és a leállósávon halad a forgalom.",
+      "location": "Csömör, M0",
+      "updates": []
+    },
     {
       "id": "92387",
       "datetime": "2026.09.29. 09:14",
@@ -20,9 +42,9 @@
       "title": "Felborult egy autó az M3-on",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92386",
-      "lead": "Aszód és Hatvan között teljes szélességében lezárták az utat.",
-      "body": "Lesodródott az útról és felborult egy személygépkocsi az M3-as autópályán, Nyíregyháza felé, Aszód és Hatvan között, a 47-es kilométerszelvénynél. A gödöllői és aszódi hivatásos tűzoltók kiemeltek egy utast az autóból. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Kartal, Császár út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -303,7 +325,16 @@
       "lead": "A Köztársaság úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy lakóépület Nagyfügeden, a Köztársaság úton. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek négy vízsugárral már körülhatárolták a lángokat.",
       "location": "Nagyfüged, Köztársaság út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Nagyfügeden",
+          "datetime": "2026.09.28. 09:32",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy lakóépületben Nagyfügeden, a Köztársaság úton. A melléképület teljes terjedelmében, a főépület tetőszerkezete nagyobb részen égett. A gyöngyösi hivatásos tűzoltók és egy hevesi vízszállító érkezett ki. Az egységek három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Nagyfüged, Köztársaság út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92363/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92363"
+        }
+      ]
     },
     {
       "id": "92362",
