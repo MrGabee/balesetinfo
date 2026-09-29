@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T11:07:44.531663+00:00",
-  "count": 3742,
+  "updated_at": "2026-09-29T11:11:34.638123+00:00",
+  "count": 3743,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92401",
+      "datetime": "2026.09.29. 13:11",
+      "title": "Autó égett Pilisnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92401",
+      "lead": "A 3123-as úton kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt egy személyautó a 3123-as úton, Pilis közelében. Teljes terjedelmében égett a jármű, amikor a monori hivatásos tűzoltók a helyszínre érkeztek. A raj két vízsugárral eloltotta a tüzet, és megkezdte az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt, de később félpályán megindult a forgalom.",
+      "location": "Pilis, 3123",
+      "updates": []
+    },
     {
       "id": "92400",
       "datetime": "2026.09.29. 12:56",
@@ -117,9 +128,9 @@
       "title": "Baleset történt Nyíregyházánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92391",
-      "lead": "Forgalmi akadály van.",
-      "body": "Összeütközött két személyautó Nyíregyházánál, a Kemecsei úton, azaz a 3834-es út, a Blaha Lujza sétány és a Korányi Frigyes utca kereszteződésénél. A nyíregyházi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Nyíregyháza, Blaha Lujza sétány",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -322,9 +333,9 @@
       "title": "Összeütközött két autó Sopronban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92374",
-      "lead": "A Balfi út egy szakaszán egy sávon halad a forgalom.",
-      "body": "Karambolozott két személyautó Sopronban, a Balfi úton, a Töpler Kálmán utcánál. A város hivatásos tűzoltói áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Sopron, Balfi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
