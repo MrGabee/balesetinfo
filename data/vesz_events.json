@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:58:45.471091+00:00",
+  "updated_at": "2026-09-29T12:02:06.658378+00:00",
   "count": 3744,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -89,7 +89,16 @@
       "lead": "A tűzoltók a Kelemen László utcában oltják a lángokat.",
       "body": "Tűz ütött ki egy melléképületben, Makón, a Kelemen László utcában. Az ingatlan tetőszerkezete, két helyisége és a bennük lévő anyag ég. A város hivatásos tűzoltói két vízsugárral oltják a lángokat.",
       "location": "Makó, Kelemen László utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a makói tűznél",
+          "datetime": "2026.09.29. 11:24",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Makón, a Kelemen László utcában, ahol kigyulladt egy melléképület. Mintegy húsz négyzetméteren égett az ingatlan két helyisége és a fölöttük lévő tetőszerkezet. A város hivatásos tűzoltói fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
+          "location": "Makó, Kelemen László utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92395"
+        }
+      ]
     },
     {
       "id": "92394",
@@ -410,9 +419,9 @@
       "title": "Tűz volt egy váci lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92368",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók az Árpád úton fékezték meg a lángokat.",
+      "body": "Kigyulladt egy sorházi lakás Vácon, az Árpád úton, azaz a 2-es főút belterületi szakaszán, a Diák utca közelében. A konyhában keletkezett tűz mintegy két négyzetméteren. A város hivatásos tűzoltói eloltották a lángokat, és kihoztak egy gázpalackot az égő helyiségből. Összesen négy ember hagyta el az épületet a tűz miatt, az egyiküket még a tűzoltók kiérkezése előtt a helyszínen lévő rendőrök menekítették ki.",
+      "location": "Vác, Árpád út",
       "updates": []
     },
     {
