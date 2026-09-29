@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T15:16:19.447359+00:00",
-  "count": 3749,
+  "updated_at": "2026-09-29T15:19:59.451203+00:00",
+  "count": 3750,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92408",
+      "datetime": "2026.09.29. 17:16",
+      "title": "Baleset történt Budapesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92408",
+      "lead": "A VIII. kerületbe riasztották a tűzoltókat.",
+      "body": "Fellökött egy embert az M3-as metró, a Corvin-negyedi állomáson. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. A helyszínelés követően újra megindul a forgalom az érintett vonalon.",
+      "location": "Budapest, Ferenc körút",
+      "updates": []
+    },
     {
       "id": "92407",
       "datetime": "2026.09.29. 16:48",
