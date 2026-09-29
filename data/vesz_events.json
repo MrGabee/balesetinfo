@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-29T13:55:36.564018+00:00",
-  "count": 3746,
+  "updated_at": "2026-09-29T13:58:59.283972+00:00",
+  "count": 3747,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92405",
+      "datetime": "2026.09.29. 15:56",
+      "title": "Ég egy erdő aljnövényzete Németkérnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92405",
+      "lead": "Nagy erőkkel vonulnak a helyszínre a tűzoltók.",
+      "body": "Kigyulladt egy erdő aljnövényzete Németkér közelében, az M6-os autópálya és a 6229-es út között. Nagy területet érint a tűz, amelyet a paksi hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
+      "location": "Németkér, Németkér külterülete",
+      "updates": []
+    },
     {
       "id": "92404",
       "datetime": "2026.09.29. 15:50",
@@ -386,9 +397,9 @@
       "title": "Ház ég Hetesen",
       "category": "Ház ég Hetesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92373",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6703-as út mellett dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy ház Hetesen, a 6703-as út mellett. A kaposvári hivatásos tűzoltók egy gázpalackot kihoztak az épületből. A tűz egy melléképületet is érintett, amely teljesen leégett. Az egységek négy vízsugárral oltják a lángokat.",
+      "location": "Hetes, József Attila utca",
       "updates": []
     },
     {
