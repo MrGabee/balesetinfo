@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T16:46:05.426047+00:00",
-  "count": 3780,
+  "updated_at": "2026-09-30T16:49:12.870359+00:00",
+  "count": 3781,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92439",
+      "datetime": "2026.09.30. 18:46",
+      "title": "Több jármű karambolozott az M0-son, Szigetszentmiklósnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92439",
+      "lead": "A baleset miatt lezárták az érintett útszakaszt az M5-ös felé vezető irányban.",
+      "body": "Három kamion és két személyautó ütközött össze az M0-s autóút 19-es kilométerszelvényénél, Szigetszentmiklós térségében, az M5-ös autópálya felé vezető irányban.  A baleset következtében az egyik autóba egy utas beszorult. A szigetszentmiklósi hivatásos tűzoltók drótkötél segítségével levontatták a járművet a szalagkorlátról, majd feszítővágó használatával kiemelték az utast. A balesethez a társhatóságok is kiérkeztek, az egységekkel együttműködve teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Szigetszentmiklós, M0",
+      "updates": []
+    },
     {
       "id": "92438",
       "datetime": "2026.09.30. 16:36",
