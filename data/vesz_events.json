@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-09-30T06:09:56.615807+00:00",
-  "count": 3761,
+  "updated_at": "2026-09-30T06:13:18.962546+00:00",
+  "count": 3762,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92420",
+      "datetime": "2026.09.30. 08:10",
+      "title": "Összeütközött két autó Mátramindszenten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92420",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi ütközött össze Mátramindszenten, a Kossuth téren. A bátonyterenyei hivatásos tűzoltók áramtalanították a karambolos járműveket. Az egység mellett a társhatóságok is kiérkeztek a balesethez.",
+      "location": "Mátramindszent, Kossuth tér",
+      "updates": []
+    },
     {
       "id": "92419",
       "datetime": "2026.09.30. 07:57",
       "title": "Két autó ütközött Kunadacsnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92419",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött két személygépkocsi Kunadacsnál, az 5211-es út 21-es kilométerénél. A szabadszállási önkormányzati tűzoltók áramtalanították a járműveket. A társhatóság is a helyszínre érkezett.",
+      "location": "Kunadacs, 5211",
       "updates": []
     },
     {
@@ -227,9 +238,9 @@
       "title": "Három autó karambolozott az 53-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92400",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pirtó közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött három személyautó az 53-as főúton, Pirtó közelében, a 47. kilométernél. A kiskunhalasi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonultak. A raj áramtalanította a gépkocsikat. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Pirtó, 53",
       "updates": []
     },
     {
@@ -355,9 +366,9 @@
       "title": "Autó és vonat ütközött össze Felsőpakonyban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92390",
-      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Rét utcai vasúti átjárónál.",
-      "body": "Személyautóval ütközött össze egy vonat Felsőpakonyban, a Rét utcai vasúti átjáróban. A fővárosi hivatásos tűzoltókat riasztották a balesethez. A raj áramtalanította a gépkocsit, és a rendőrségi helyszínelés után megszünteti a forgalmi akadályt.",
-      "location": "Felsőpakony, Rét utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
