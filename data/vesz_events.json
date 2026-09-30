@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T20:07:43.194599+00:00",
-  "count": 3782,
+  "updated_at": "2026-09-30T20:10:58.096856+00:00",
+  "count": 3783,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92441",
+      "datetime": "2026.09.30. 22:09",
+      "title": "Összeütközött két autó Zalakomáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92441",
+      "lead": "Az egyik jármű az árokba került a karambol után.",
+      "body": "Összeütközött két gépkocsi Zalakomáron, a Tavasz utcában, az Ady Endre utca közelében. Az ütközés következtében az egyik jármű az árokba került, valamint egy villanyoszlop is károsodott. Az autókban csak a vezetők utaztak, saját erejükből ki tudtak szállni. A zalakarosi hivatásos tűzoltók áramtalanították a kocsikat, valamint az áramszolgáltató szakembereinek értesítését kérték az oszlop miatt.",
+      "location": "Zalakomár, Tavasz utca",
+      "updates": []
+    },
     {
       "id": "92440",
       "datetime": "2026.09.30. 20:39",
