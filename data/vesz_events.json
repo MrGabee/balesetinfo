@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T20:10:58.096856+00:00",
-  "count": 3783,
+  "updated_at": "2026-09-30T20:14:20.049000+00:00",
+  "count": 3784,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92442",
+      "datetime": "2026.09.30. 22:13",
+      "title": "Árokba hajtott egy autó a 441-esen, Nagykőrösnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92442",
+      "lead": "A jármű áramtalanítására van szükség.",
+      "body": "Árokba hajtott egy gépkocsi a 441-es főút 19-es kilométerszelvényénél, Nagykőrös térségében. A vezető egy, a jármű elé ugrott őz miatt rántotta félre a kormányt, aminek következtében megtörtént a baleset. A nagykőrösi önkormányzati tűzoltók áramtalanítják a bajba került autót.",
+      "location": "Nagykőrös, 441",
+      "updates": []
+    },
     {
       "id": "92441",
       "datetime": "2026.09.30. 22:09",
