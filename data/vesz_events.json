@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T06:40:56.015033+00:00",
-  "count": 3762,
+  "updated_at": "2026-09-30T06:44:06.539855+00:00",
+  "count": 3763,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92421",
+      "datetime": "2026.09.30. 08:43",
+      "title": "Kigyulladt egy autó motortere Szarvason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92421",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy gépkocsi motortere égett ki Szarvason, a Kossuth Lajos utca és a Luther Márton utca sarkán. Az égő autó mellett egy másik jármű állt, amellyel időben el tudtak állni, így nem keletkezett benne kár. A szarvasi hivatásos tűzoltók két vízsugárral oltották el a kocsi lángjait.",
+      "location": "Szarvas, Luther Márton utca",
+      "updates": []
+    },
     {
       "id": "92420",
       "datetime": "2026.09.30. 08:10",
