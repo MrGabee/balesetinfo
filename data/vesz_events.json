@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T09:55:26.148513+00:00",
-  "count": 3764,
+  "updated_at": "2026-09-30T09:59:04.188586+00:00",
+  "count": 3765,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92423",
+      "datetime": "2026.09.30. 11:55",
+      "title": "Utoléréses baleset Angyalföldön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92423",
+      "lead": "A Róbert Károly körútra riasztották a tűzoltókat.",
+      "body": "Összeütközött két személyautó Budapest XIII. kerületében, a Róbert Károly körúton, a Lehel utca közelében. Utoléréses baleset történt, amelyhez a fővárosi hivatásos tűzoltókat riasztották. A karambol egy sávon akadályozza az Árpád híd felé haladó forgalmat.",
+      "location": "Budapest, Róbert Károly körút",
+      "updates": []
+    },
     {
       "id": "92422",
       "datetime": "2026.09.30. 08:53",
