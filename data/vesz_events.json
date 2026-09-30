@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:23:22.745451+00:00",
+  "updated_at": "2026-09-30T10:26:36.111160+00:00",
   "count": 3767,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -271,9 +271,9 @@
       "title": "Száraz fű gyulladt ki Miskolcnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92402",
-      "lead": "Épületekbe is belekaptak a lángok, amelyeket megfékeztek a tűzoltók.",
-      "body": "Lángra kapott a száraz fű Miskolc külterületén, a Lyukóvölgyi útnál, a Régi vasút dűlő közelében. Három épületbe is belekaptak a lángok, de a város hivatásos tűzoltói vízsugarakkal és kéziszerszámokkal megakadályozták a továbbterjedésüket, majd eloltották a tüzet. A rajok megkezdték az utómunkálatokat.",
-      "location": "Miskolc, Lyukóvölgyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -357,19 +357,10 @@
       "title": "Kigyulladt egy melléképület Makón",
       "category": "Kigyulladt egy melléképület Makón",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395",
-      "lead": "A tűzoltók a Kelemen László utcában oltják a lángokat.",
-      "body": "Tűz ütött ki egy melléképületben, Makón, a Kelemen László utcában. Az ingatlan tetőszerkezete, két helyisége és a bennük lévő anyag ég. A város hivatásos tűzoltói két vízsugárral oltják a lángokat.",
-      "location": "Makó, Kelemen László utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak a makói tűznél",
-          "datetime": "2026.09.29. 11:24",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Makón, a Kelemen László utcában, ahol kigyulladt egy melléképület. Mintegy húsz négyzetméteren égett az ingatlan két helyisége és a fölöttük lévő tetőszerkezet. A város hivatásos tűzoltói fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
-          "location": "Makó, Kelemen László utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92395"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92394",
@@ -388,9 +379,9 @@
       "title": "Karambolozott két autó a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92393",
-      "lead": "A Könyves Kálmán körútra riasztották a tűzoltókat.",
-      "body": "Egymásnak ütközött két személyautó Budapest IX. kerületében, a Könyves Kálmán körúton, a Mester utcánál. A fővárosi hivatásos tűzoltók vonultak ki a balesethez, amely egy sávon akadályozza a forgalmat. A raj eltávolítja az úttestről a járműveket.",
-      "location": "Budapest, Könyves Kálmán körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -421,9 +412,9 @@
       "title": "Autó és vonat ütközött össze Felsőpakonyban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92390",
-      "lead": "A tűzoltók megszüntetik a forgalmi akadályt a Rét utcai vasúti átjárónál.",
-      "body": "Személyautóval ütközött össze egy vonat Felsőpakonyban, a Rét utcai vasúti átjáróban. A fővárosi hivatásos tűzoltókat riasztották a balesethez. A raj áramtalanította a gépkocsit, és a rendőrségi helyszínelés után megszünteti a forgalmi akadályt.",
-      "location": "Felsőpakony, Rét utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -454,9 +445,9 @@
       "title": "Két autó karambolozott Gödön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92387",
-      "lead": "Az érintett útszakaszon forgalmi akadályra lehet számítani.",
-      "body": "Összeütközött két személygépkocsi Gödön, a Kacsóh Pongrác utca és a Turista utca kereszteződésénél. A váci hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
-      "location": "Göd, Kacsóh Pongrác utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
