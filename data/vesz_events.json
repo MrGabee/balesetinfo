@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T12:12:42.145062+00:00",
-  "count": 3772,
+  "updated_at": "2026-09-30T12:16:01.707671+00:00",
+  "count": 3773,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92431",
+      "datetime": "2026.09.30. 14:14",
+      "title": "Kigyulladt egy melléképület Nagylócon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92431",
+      "lead": "A tűz egy fóliasátorra és a bozótosra is átterjedt.",
+      "body": "Kigyulladt egy lakóház ötven négyzetméteres melléképülete Nagylócon, a Rákóczi úton. A lángok az épület mellett álló fóliasátorra, valamint a környezetében a füves, bozótos területre is átterjedtek. A balassagyarmati és a szécsényi hivatásos tűzoltók két vízsugárral fékezték meg a tüzet, amely a szomszédos területekre nem terjedtek tovább. Az egységek jelenleg megbontják az épülete tetőzetét.",
+      "location": "Nagylóc, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "92430",
       "datetime": "2026.09.30. 13:57",
