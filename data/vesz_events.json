@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T05:55:40.817565+00:00",
-  "count": 3760,
+  "updated_at": "2026-09-30T05:59:01.211099+00:00",
+  "count": 3761,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92419",
+      "datetime": "2026.09.30. 07:57",
+      "title": "Két autó ütközött Kunadacsnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92419",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött két személygépkocsi Kunadacsnál, az 5211-es út 21-es kilométerénél. A szabadszállási önkormányzati tűzoltók áramtalanították a járműveket. A társhatóság is a helyszínre érkezett.",
+      "location": "Kunadacs, 5211",
+      "updates": []
+    },
     {
       "id": "92418",
       "datetime": "2026.09.30. 06:15",
@@ -155,16 +166,7 @@
       "lead": "Nagy erőkkel vonulnak a helyszínre a tűzoltók.",
       "body": "Kigyulladt egy erdő aljnövényzete Németkér közelében, az M6-os autópálya és a 6229-es út között. Nagy területet érint a tűz, amelyet a paksi hivatásos tűzoltók oltanak. A helyszínre indult több más egység is.",
       "location": "Németkér, Németkér külterülete",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Németkérnél",
-          "datetime": "2026.09.29. 21:05",
-          "category": "Tűzeset",
-          "text": "Körülbelül tíz hektáron egy erdő aljnövényzete égett Németkérnél, az M6-os autópálya és a 6229-es út között. A paksi, a solti és a dunaújvárosi hivatásos tűzoltók hat vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. A munkálatokat a Tolna vármegyei katasztrófavédelmi műveleti szolgálat irányította. Egy kalocsai, egy szekszárdi és egy paksi vízszállító jármű is segítette az oltást.",
-          "location": "Németkér, Németkér külterülete",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92405/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92405"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92404",
@@ -366,9 +368,9 @@
       "title": "Négyes karambol az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92388",
-      "lead": "Csömör közelében az M3-as felé forgalomkorlátozásra kell számítani.",
-      "body": "Összeütközött négy személyautó az M0-s autóút M3-as felé vezető oldalán, Csömör közelében, a 62. kilométernél. A fővárosi hivatásos és a csömöri önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon a külső és a leállósávon halad a forgalom.",
-      "location": "Csömör, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -421,9 +423,9 @@
       "title": "Karambol Budapest XIII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92383",
-      "lead": "A Csanády utca és a Tátra utca kereszteződésében forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Budapest XIII. kerületében, a Csanády utca és a Tátra utca kereszteződésében. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Budapest, Tátra utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
