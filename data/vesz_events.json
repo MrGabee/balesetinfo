@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T10:47:18.277889+00:00",
-  "count": 3767,
+  "updated_at": "2026-09-30T10:50:56.888929+00:00",
+  "count": 3768,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92426",
+      "datetime": "2026.09.30. 12:47",
+      "title": "Baleset történt az M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92426",
+      "lead": "Szabadbattyánnál lezárták a Budapest felé vezető sztrádaoldalt.",
+      "body": "Karambolozott egy kamion és egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Szabadbattyán közelében, a 67. és a 68. kilométer között. A gépkocsiban egy ember utazott, őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző székesfehérvári hivatásos tűzoltók. A rajok áramtalanították a járművet.  Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az érintett sztrádaszakaszt.",
+      "location": "Szabadbattyán, M7",
+      "updates": []
+    },
     {
       "id": "92425",
       "datetime": "2026.09.30. 12:19",
