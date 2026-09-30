@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T08:56:09.209140+00:00",
+  "updated_at": "2026-09-30T08:59:45.787814+00:00",
   "count": 3764,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Összeütközött két autó Mátramindszenten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92420",
-      "lead": "A tűzoltók mindkét járművet áramtalanították.",
-      "body": "Két gépkocsi ütközött össze Mátramindszenten, a Kossuth téren. A bátonyterenyei hivatásos tűzoltók áramtalanították a karambolos járműveket. Az egység mellett a társhatóságok is kiérkeztek a balesethez.",
-      "location": "Mátramindszent, Kossuth tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,9 +163,9 @@
       "title": "Baleset történt Budapesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92408",
-      "lead": "A VIII. kerületbe riasztották a tűzoltókat.",
-      "body": "Fellökött egy embert az M3-as metró, a Corvin-negyedi állomáson. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínen dolgoznak. A helyszínelés követően újra megindul a forgalom az érintett vonalon.",
-      "location": "Budapest, Ferenc körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +313,9 @@
       "title": "Baleset történt az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92396",
-      "lead": "Károlyházánál forgalmi akadály van.",
-      "body": "Szalagkorlátnak ütközött egy személyautó az M1-es autópálya Budapest felé vezető oldalán, Károlyháza térségében, a 147. és a 148. kilométer között. A járműben egy ember utazott. A lébényi hivatásos tűzoltók vonultak ki a balesethez, amelynek helyszínén lezárták a külső és a leállósávot, így a belső sávban halad a forgalom.",
-      "location": "Károlyháza, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -327,16 +327,7 @@
       "lead": "A tűzoltók a Kelemen László utcában oltják a lángokat.",
       "body": "Tűz ütött ki egy melléképületben, Makón, a Kelemen László utcában. Az ingatlan tetőszerkezete, két helyisége és a bennük lévő anyag ég. A város hivatásos tűzoltói két vízsugárral oltják a lángokat.",
       "location": "Makó, Kelemen László utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak a makói tűznél",
-          "datetime": "2026.09.29. 11:24",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Makón, a Kelemen László utcában, ahol kigyulladt egy melléképület. Mintegy húsz négyzetméteren égett az ingatlan két helyisége és a fölöttük lévő tetőszerkezet. A város hivatásos tűzoltói fékezték meg a lángokat, majd megkezdték az utómunkálatokat.",
-          "location": "Makó, Kelemen László utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92395/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92395"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92394",
