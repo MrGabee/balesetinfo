@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T14:18:53.327531+00:00",
-  "count": 3778,
+  "updated_at": "2026-09-30T14:22:01.938525+00:00",
+  "count": 3779,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92437",
+      "datetime": "2026.09.30. 16:20",
+      "title": "Tarló és száraz fű ég Kakasdnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92437",
+      "lead": "Egy nádast és több szalmabálát is érint a tűz.",
+      "body": "Meggyulladt a tarló és száraz fű Kakasd külterületén, egy a 6-os főút és a 6533-as út közötti területen. Nagy kiterjedésű a tűz, amely egy nádast és több szalmabálát is elért. A szekszárdi hivatásos tűzoltók oltják a lángokat, és más egységek is a helyszínre indultak.",
+      "location": "Kakasd, Kakasd külterülete",
+      "updates": []
+    },
     {
       "id": "92436",
       "datetime": "2026.09.30. 15:29",
