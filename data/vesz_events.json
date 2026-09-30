@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T10:09:21.236544+00:00",
-  "count": 3765,
+  "updated_at": "2026-09-30T10:12:33.663807+00:00",
+  "count": 3766,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92424",
+      "datetime": "2026.09.30. 12:12",
+      "title": "Kigyulladt egy ház Tiszaföldváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92424",
+      "lead": "A Baross körúton csaptak fel a lángok, amelyeket elfojtottak a tűzoltók.",
+      "body": "Tűz keletkezett egy lakóházban, Tiszaföldváron, a Baross körúton. A mintegy hetven négyzetméteres épület belső tere égett, és a tetőszerkezetre is kezdtek átterjedni a lángok, amelyeket eloltottak a kunszentmártoni hivatásos és a tiszaföldvári önkormányzati tűzoltók. A rajok átvizsgálták az ingatlant, és senkit sem találtak benne.",
+      "location": "Tiszaföldvár, Baross körút",
+      "updates": []
+    },
     {
       "id": "92423",
       "datetime": "2026.09.30. 11:55",
