@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T11:55:09.730736+00:00",
-  "count": 3771,
+  "updated_at": "2026-09-30T11:58:05.823793+00:00",
+  "count": 3772,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92430",
+      "datetime": "2026.09.30. 13:57",
+      "title": "Tréler és kamion karambolozott az M5-ösön, Városföldnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92430",
+      "lead": "Forgalmi akadály alakult ki a Budapest felé vezető oldalon.",
+      "body": "Utoléréses balesetet szenvedett egy üres autószállító jármű és egy raklapokat szállító nyerges vontató az M5-ös autópálya 98-as kilométerszelvényénél, Városföld térségében, a Budapest felé vezető oldalon. A balesetben egy harmadik kamion is érintetté vált. Csak a tréler áramtalanítására volt szükség, amelyet a kiskunfélegyházi hivatásos tűzoltók végeztek el. Az egység mellett a társhatóságok is kiérkeztek a balesethez, amely miatt forgalmi akadályra kell számítani az érintett pályaszakaszon.",
+      "location": "Városföld, M5",
+      "updates": []
+    },
     {
       "id": "92429",
       "datetime": "2026.09.30. 13:45",
@@ -379,9 +390,9 @@
       "title": "Karambol a XVIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92397",
-      "lead": "A tűzoltók áramtalanították a járműveket.",
-      "body": "Két személygépkocsi karambolozott Budapest XVIII. kerületében, a Közdűlő úton, az Ipacsfa utca közelében. A baleset következtében az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók áramtalanították az autókat. A társhatóságok is a helyszínre érkeztek.",
-      "location": "Budapest, Közdűlő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -443,9 +454,9 @@
       "title": "Összeütközött két autó Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92392",
-      "lead": "Forgalmi akadály van a Berényi út és a Szent Flórián körút kereszteződésénél.",
-      "body": "Karambolozott két személyautó Székesfehérváron, a Berényi út és a Szent Flórián körút kereszteződésénél. A járművekben egy-egy ember utazott, hozzájuk mentők érkeztek a helyszínre. A balesethez a város hivatásos tűzoltói vonultak ki, akik megszüntetik a forgalmi akadályt.",
-      "location": "Székesfehérvár, Berényi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
