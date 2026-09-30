@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T10:16:29.253282+00:00",
-  "count": 3766,
+  "updated_at": "2026-09-30T10:19:52.033310+00:00",
+  "count": 3767,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92425",
+      "datetime": "2026.09.30. 12:19",
+      "title": "Tűz volt egy söjtöri családi ház pincéjében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92425",
+      "lead": "A tűzoltók rövid időn belül eloltották a lángokat.",
+      "body": "Tűz keletkezett egy családi ház pincéjében Söjtörön, a Deák Ferenc utcában. A zalaegerszegi és a pacsai hivatásos tűzoltók érkeztek a helyszínre, rövid időn belül körülhatárolták, majd eloltották a tüzet. A munkálatok közben az egységek kihoztak egy gázpalackot a helyiségből, amelyet jelenleg átszellőztetnek.",
+      "location": "Söjtör, Deák Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92424",
       "datetime": "2026.09.30. 12:12",
