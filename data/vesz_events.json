@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T12:23:19.409508+00:00",
-  "count": 3774,
+  "updated_at": "2026-09-30T12:29:27.726686+00:00",
+  "count": 3775,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92433",
+      "datetime": "2026.09.30. 14:26",
+      "title": "Autóbusznak hajtott egy személyautó Nógrádkövesden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92433",
+      "lead": "Félpályás forgalmi akadály alakult ki a Kossuth út érintett szakaszán.",
+      "body": "Egy autóbusznak hajtott hátulról egy személyautó Nógrádkövesden, a Kossuth úton, a Galgapart út közelében. A berceli hivatásos tűzoltók áramtalanították a járműveket. A baleset miatt félpályás forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Nógrádkövesd, Kossuth út",
+      "updates": []
+    },
     {
       "id": "92432",
       "datetime": "2026.09.30. 14:21",
@@ -185,9 +196,9 @@
       "title": "Vadat gázolt egy autó a 813-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92416",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Győrnél történt a baleset.",
+      "body": "Vadat gázolt egy személyautó Győrnél, a 813-as főút 6-os kilométerénél. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóság is a helyszínre érkezett.",
+      "location": "Győr, 813",
       "updates": []
     },
     {
@@ -207,9 +218,9 @@
       "title": "Összeütközött két jármű a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92414",
-      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "body": "Két gépkocsi karambolozott Budapest IX. kerületében, a Gyáli út és az Ecseri út kereszteződésénél. A baleset következtében az egyik jármű felborult. A fővárosi hivatásos tűzoltók áramtalanítják a kocsikat. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Budapest, Ecseri út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -251,9 +262,9 @@
       "title": "Tűz keletkezett Penészleknél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92410",
-      "lead": "Száraz fű égett.",
-      "body": "Foltokba égett a száraz fű Penészleknél, a Táncsics Mihály utca közelében. A nyíradonyi, a nyírbátori és a mátészalkai hivatásos tűzoltók négy vízsugárral, kéziszerszámokkal és puttonyfecskendővel fojtották el a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek. A munkálatokat egy nyírbátori vízszállító jármű is segíti.",
-      "location": "Penészlek, Táncsics Mihály utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
