@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T13:06:50.520289+00:00",
-  "count": 3775,
+  "updated_at": "2026-09-30T13:10:12.742233+00:00",
+  "count": 3776,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92434",
+      "datetime": "2026.09.30. 15:07",
+      "title": "Vonat és teherautó karambolozott Somlóvásárhelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92434",
+      "lead": "A tűzoltók a Somlay térnél áramtalanították a gépkocsit.",
+      "body": "Összeütközött egy kisteherautó és egy tehervonat Somlóvásárhelyen, a Somlay térnél lévő vasúti átkelőnél. Az ajkai hivatásos és a somlóvásárhelyi önkéntes tűzoltók vonultak ki a balesethez. A rajok áramtalanították a gépkocsit, amelyben ketten utaztak. Az egyikükhöz mentők érkeztek a helyszínre.",
+      "location": "Somlóvásárhely, Somlay tér",
+      "updates": []
+    },
     {
       "id": "92433",
       "datetime": "2026.09.30. 14:26",
