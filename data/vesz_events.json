@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T11:30:03.560195+00:00",
-  "count": 3768,
+  "updated_at": "2026-09-30T11:33:39.303089+00:00",
+  "count": 3769,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92427",
+      "datetime": "2026.09.30. 13:33",
+      "title": "Több autó karambolozott az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92427",
+      "lead": "Törökbálint közelében, az M1-es felé nagy a torlódás.",
+      "body": "Egymásnak ütközött négy személyautó az M0-s autó törökbálinti szakaszán, az M1-es autópálya felé vezető oldalon, a 2. kilométer közelében. A járművek a belső és a leállósávban állnak. Közülük kettőt áramtalanítottak a műszaki mentést végző törökbálinti hivatásos tűzoltók. A baleset helyszínén két sávon halad a forgalom, nagy a torlódás.",
+      "location": "Törökbálint, M0",
+      "updates": []
+    },
     {
       "id": "92426",
       "datetime": "2026.09.30. 12:47",
@@ -454,9 +465,9 @@
       "title": "Négyes karambol az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92388",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Csömör közelében az M3-as felé forgalomkorlátozásra kell számítani.",
+      "body": "Összeütközött négy személyautó az M0-s autóút M3-as felé vezető oldalán, Csömör közelében, a 62. kilométernél. A fővárosi hivatásos és a csömöri önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon a külső és a leállósávon halad a forgalom.",
+      "location": "Csömör, M0",
       "updates": []
     },
     {
