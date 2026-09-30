@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T11:38:01.773490+00:00",
-  "count": 3769,
+  "updated_at": "2026-09-30T11:41:47.397993+00:00",
+  "count": 3770,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92428",
+      "datetime": "2026.09.30. 13:41",
+      "title": "Összeütközött két autó Fóton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92428",
+      "lead": "A tűzoltók a Béke és a Hegyalja utca kereszteződésénél áramtalanítják a járműveket.",
+      "body": "Karambolozott két személyautó Fóton, a Béke és a Hegyalja utca kereszteződésénél. A város önkéntes tűzoltói végzik a műszaki mentést a balesetnél. A raj áramtalanítja a járműveket, és megszünteti a forgalmi akadályt. A helyszínre érkeztek a mentők is.",
+      "location": "Fót, Hegyalja utca",
+      "updates": []
+    },
     {
       "id": "92427",
       "datetime": "2026.09.30. 13:33",
