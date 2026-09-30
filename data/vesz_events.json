@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-30T06:50:59.239929+00:00",
-  "count": 3763,
+  "updated_at": "2026-09-30T06:54:18.092762+00:00",
+  "count": 3764,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92422",
+      "datetime": "2026.09.30. 08:53",
+      "title": "Tűz volt egy melléképületben Rákóczifalván",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92422",
+      "lead": "A tűzoltók a Jókai Mór úton fékezték meg a lángokat.",
+      "body": "Kigyulladt egy melléképület Rákóczifalván, a Jókai Mór úton. A mintegy negyven négyzetméteres ingatlannak egy része égett. Ebben takarmányt tároltak. Egy gázpalack felrobbant a tűzben, amelyet két vízsugárral és kéziszerszámokkal elfojtottak a szolnoki hivatásos tűzoltók.",
+      "location": "Rákóczifalva, Jókai Mór út",
+      "updates": []
+    },
     {
       "id": "92421",
       "datetime": "2026.09.30. 08:43",
@@ -249,9 +260,9 @@
       "title": "Három autó karambolozott az 53-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92400",
-      "lead": "Pirtó közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött három személyautó az 53-as főúton, Pirtó közelében, a 47. kilométernél. A kiskunhalasi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonultak. A raj áramtalanította a gépkocsikat. Az érintett útszakaszt félpályán lezárták.",
-      "location": "Pirtó, 53",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -344,9 +355,9 @@
       "title": "Karambolozott két autó a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92393",
-      "lead": "A Könyves Kálmán körútra riasztották a tűzoltókat.",
-      "body": "Egymásnak ütközött két személyautó Budapest IX. kerületében, a Könyves Kálmán körúton, a Mester utcánál. A fővárosi hivatásos tűzoltók vonultak ki a balesethez, amely egy sávon akadályozza a forgalmat. A raj eltávolítja az úttestről a járműveket.",
-      "location": "Budapest, Könyves Kálmán körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
