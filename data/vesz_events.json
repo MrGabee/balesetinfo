@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-30T13:27:09.705267+00:00",
-  "count": 3776,
+  "updated_at": "2026-09-30T13:30:47.310753+00:00",
+  "count": 3778,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92436",
+      "datetime": "2026.09.30. 15:29",
+      "title": "Felborult egy autó Csipkereknél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92436",
+      "lead": "A 7359-es úton dolgoznak a tűzoltók.",
+      "body": "A tetejére borult egy személyautó Csipkerek határában, a 7359-es út 17. és 18. kilométere között. A vasvári önkormányzati tűzoltók vonultak ki a balesethez, amelyhez a mentőket is riasztották. A raj a rendőrségi helyszínelés után tudja áramtalanítani a gépkocsit.",
+      "location": "Csipkerek, 7359",
+      "updates": []
+    },
+    {
+      "id": "92435",
+      "datetime": "2026.09.30. 15:28",
+      "title": "Garázs és műhely égett Szombathelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92435",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy húsz négyzetméteres, faszerkezetű, cseréptetős garázs és egy harminc négyzetméteres, faszerkezetű, lemezborítású műhely égett ki Szombathelyen, a Mókus utca végén. A városi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal fékezték meg a tüzet. Az épületek teljesen megsemmisültek.",
+      "location": "Szombathely, Mókus utca",
+      "updates": []
+    },
     {
       "id": "92434",
       "datetime": "2026.09.30. 15:07",
@@ -368,9 +390,9 @@
       "title": "Karambol 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92403",
-      "lead": "A Székesfehérvárt elkerülő szakaszon dolgoznak a tűzoltók.",
-      "body": "Egymásnak ütközött két személyautó 8-as főút Székesfehérvárt elkerülő szakaszán, az 1. kilométerszelvényben, a Szlovák utca közelében. A város hivatásos tűzoltói áramtalanították az egyik járművet. A másiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Székesfehérvár, 8",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
