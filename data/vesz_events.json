@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T07:12:35.169123+00:00",
+  "updated_at": "2026-09-30T07:16:11.143339+00:00",
   "count": 3764,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -271,19 +271,10 @@
       "title": "Tűz keletkezett Tolcsvánál",
       "category": "Tűz keletkezett Tolcsvánál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92399",
-      "lead": "Száraz fű és bozótos ég.",
-      "body": "Kigyulladt a száraz fű és a bozótos Tolcsva külterületén. A sátoraljaújhelyi és a tolcsvai hivatásos tűzoltók dolgoznak a helyszínen. A rajok kéziszerszámokkal és háti permetezővel oltják a lángokat.",
-      "location": "Tolcsva, Klapka György utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Tolcsvánál",
-          "datetime": "2026.09.29. 15:43",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Tolcsva külterületén, a Klapka György utcánál, ahol mintegy huszonöt hektáron száraz fű és bozótos égett. A sátoraljaújhelyi, a tolcsvai és az encsi hivatásos tűzoltók három vízsugárral, kéziszerszámokkal és háti permetezővel a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a tüzet. A munkálatokat egy sátoraljaújhelyi vízszállító jármű is segíti. Jelenleg az utómunkálatok zajlanak a helyszínen.",
-          "location": "Tolcsva, Klapka György utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92399/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92399"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92398",
