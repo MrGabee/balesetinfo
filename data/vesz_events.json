@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T13:01:28.657946+00:00",
-  "count": 2897,
+  "updated_at": "2026-10-01T13:05:34.362412+00:00",
+  "count": 2898,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92458",
+      "datetime": "2026.10.01. 15:04",
+      "title": "Bozótos és akácfa sor égett Nyírmihálydin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92458",
+      "lead": "A tűz körülbelül három hektárnyi területet érintett.",
+      "body": "Bozótos és akácfa sor égett Nyírmihálydin, a Nádlós utca közelében. A tűz körülbelül három hektárnyi területet érintett. A lángokat a nyíradonyi hivatásos és a szakolyi önkormányzati tűzoltók oltották el.",
+      "location": "Nyírmihálydi, Nádlós utca",
+      "updates": []
+    },
     {
       "id": "92457",
       "datetime": "2026.10.01. 14:58",
@@ -42,9 +53,9 @@
       "title": "Karambol történt Keszthelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92454",
-      "lead": "A Zámor utcában dolgoznak a tűzoltók.",
-      "body": "Összeütközött egy furgon és egy személyautó Keszthelyen, a Zámor utcában, a Lóczy Lajos utcánál. A furgon nekicsapódott egy fának is, amely kidőlt. A város hivatásos tűzoltói áramtalanították a járműveket. A helyszínen vannak a mentők is.",
-      "location": "Keszthely, Zámor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -388,9 +399,9 @@
       "title": "Tűz volt egy söjtöri családi ház pincéjében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92425",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók rövid időn belül eloltották a lángokat.",
+      "body": "Tűz keletkezett egy családi ház pincéjében Söjtörön, a Deák Ferenc utcában. A zalaegerszegi és a pacsai hivatásos tűzoltók érkeztek a helyszínre, rövid időn belül körülhatárolták, majd eloltották a tüzet. A munkálatok közben az egységek kihoztak egy gázpalackot a helyiségből, amelyet jelenleg átszellőztetnek.",
+      "location": "Söjtör, Deák Ferenc utca",
       "updates": []
     },
     {
