@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T14:10:34.707761+00:00",
-  "count": 2899,
+  "updated_at": "2026-10-01T14:14:19.816844+00:00",
+  "count": 2900,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92460",
+      "datetime": "2026.10.01. 16:14",
+      "title": "Frontálisan ütközött két autó Budapest XVIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92460",
+      "lead": "A Kisfaludy utcát lezárták.",
+      "body": "Frontálisan ütközött össze két személyautó Budapest XVIII. kerületében, a Kisfaludy utcában. A baleset a Nemes utca és a Juhász József utca közötti szakaszon történt. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták, valamint a közösségi közlekedésben is fennakadásokra kell számítani.",
+      "location": "Budapest, Kisfaludy utca",
+      "updates": []
+    },
     {
       "id": "92459",
       "datetime": "2026.10.01. 15:51",
