@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T04:42:38.689599+00:00",
-  "count": 2885,
+  "updated_at": "2026-10-01T04:46:10.869361+00:00",
+  "count": 2886,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92446",
+      "datetime": "2026.10.01. 06:44",
+      "title": "Két autó karambolozott Hajóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92446",
+      "lead": "Az egyik jármű az árokba hajtott az ütközés után.",
+      "body": "Két gépkocsi ütközött össze Hajóson, az Ady utca és a Hunyadi utca kereszteződésénél. Az ütközés következtében az egyik jármű az árokba került, a másik kocsi az úttesten okoz félpályás forgalmi akadályt. A kalocsai hivatásos és a hajósi önkéntes tűzoltók érkeztek a helyszínre, áramtalanítják az autókat. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Hajós, Ady utca",
+      "updates": []
+    },
     {
       "id": "92445",
       "datetime": "2026.10.01. 06:15",
