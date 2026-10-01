@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T04:09:19.370011+00:00",
-  "count": 2883,
+  "updated_at": "2026-10-01T04:12:54.310159+00:00",
+  "count": 2884,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92444",
+      "datetime": "2026.10.01. 06:10",
+      "title": "Családi ház szaunája ég Újlengyelen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92444",
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Egy családi ház szaunájában keletkezett tűz Újlengyelen, a Hernádi dűlőn. A tűz a tetőszerkezetben kezdett továbbterjedni. A dabasi hivatásos tűzoltók két vízsugárral oltják a lángokat, megkezdték a szauna megbontását.",
+      "location": "Újhartyán, Hernádi dűlő",
+      "updates": []
+    },
     {
       "id": "92443",
       "datetime": "2026.09.30. 22:46",
