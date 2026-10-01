@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:20:56.159040+00:00",
+  "updated_at": "2026-10-01T12:24:49.910709+00:00",
   "count": 2895,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -97,9 +97,9 @@
       "title": "Baleset történt Budapest II. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92447",
-      "lead": "Két autó ütközött a Slachta Margit rakparton.",
-      "body": "Két személyautó ütközött össze Budapest II. kerületében, a Slachta Margit rakparton, a Margit híd közelében. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Budapest, Slachta Margit rakpart",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -130,19 +130,10 @@
       "title": "Családi ház szaunája ég Újlengyelen",
       "category": "Családi ház szaunája ég Újlengyelen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92444",
-      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
-      "body": "Egy családi ház szaunájában keletkezett tűz Újlengyelen, a Hernádi dűlőn. A tűz a tetőszerkezetben kezdett továbbterjedni. A dabasi hivatásos tűzoltók két vízsugárral oltják a lángokat, megkezdték a szauna megbontását.",
-      "location": "Újhartyán, Hernádi dűlő",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Újlengyelen",
-          "datetime": "2026.10.01. 06:47",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Újlengyelen, ahol egy családi ház szaunájában keletkezett tűz a Hernádi dűlőn. A dabasi hivatásos egységek két vízsugárral és kéziszerszámokkal dolgoztak a tűz megfékezésén.",
-          "location": "Újhartyán, Hernádi dűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92444/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92444"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92443",
@@ -399,9 +390,9 @@
       "title": "Tűz volt egy melléképületben Rákóczifalván",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92422",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Jókai Mór úton fékezték meg a lángokat.",
+      "body": "Kigyulladt egy melléképület Rákóczifalván, a Jókai Mór úton. A mintegy negyven négyzetméteres ingatlannak egy része égett. Ebben takarmányt tároltak. Egy gázpalack felrobbant a tűzben, amelyet két vízsugárral és kéziszerszámokkal elfojtottak a szolnoki hivatásos tűzoltók.",
+      "location": "Rákóczifalva, Jókai Mór út",
       "updates": []
     },
     {
@@ -465,9 +456,9 @@
       "title": "Vadat gázolt egy autó a 813-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92416",
-      "lead": "Győrnél történt a baleset.",
-      "body": "Vadat gázolt egy személyautó Győrnél, a 813-as főút 6-os kilométerénél. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóság is a helyszínre érkezett.",
-      "location": "Győr, 813",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
