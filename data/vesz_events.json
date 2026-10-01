@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T09:51:06.219122+00:00",
+  "updated_at": "2026-10-01T09:54:53.935879+00:00",
   "count": 2892,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -250,7 +250,16 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a tüzet.",
       "body": "Egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki Kiskőrösön, az Alkotmány utcában. A város hivatásos és önkéntes tűzoltói három vízsugárral már megakadályozták a lángok továbbterjedését, folytatják a munkálatokat. Az esethez a társhatóságok is kiérkeztek, valamint az egységek a közműszolgáltató szakembereit is a helyszínre kérték a villanyóra és a gázóra károsodása miatt.",
       "location": "Kiskőrös, Alkotmány utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a kiskőrösi lakóház lángjait",
+          "datetime": "2026.09.30. 14:51",
+          "category": "Tűzeset",
+          "text": "A kiskőrösi hivatásos és önkéntes tűzoltók három vízsugárral megfékezték a lángokat városukban, ahol egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki az Alkotmány utcában. Az egységek mellett a társhatóságok is az esetnél dolgoztak, illetve a villanyóra és a gázóra károsodása miatt a közműszolgáltató szakemberei is a helyszínre érkeztek.",
+          "location": "Kiskőrös, Alkotmány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92432/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92432"
+        }
+      ]
     },
     {
       "id": "92431",
@@ -357,9 +366,9 @@
       "title": "Tűz volt egy melléképületben Rákóczifalván",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92422",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Jókai Mór úton fékezték meg a lángokat.",
+      "body": "Kigyulladt egy melléképület Rákóczifalván, a Jókai Mór úton. A mintegy negyven négyzetméteres ingatlannak egy része égett. Ebben takarmányt tároltak. Egy gázpalack felrobbant a tűzben, amelyet két vízsugárral és kéziszerszámokkal elfojtottak a szolnoki hivatásos tűzoltók.",
+      "location": "Rákóczifalva, Jókai Mór út",
       "updates": []
     },
     {
@@ -423,9 +432,9 @@
       "title": "Vadat gázolt egy autó a 813-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92416",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Győrnél történt a baleset.",
+      "body": "Vadat gázolt egy személyautó Győrnél, a 813-as főút 6-os kilométerénél. A győri hivatásos tűzoltókat riasztották a helyszínre. A társhatóság is a helyszínre érkezett.",
+      "location": "Győr, 813",
       "updates": []
     },
     {
