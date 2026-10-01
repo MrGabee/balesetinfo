@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T05:54:28.710788+00:00",
-  "count": 2886,
+  "updated_at": "2026-10-01T05:58:09.301441+00:00",
+  "count": 2887,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92447",
+      "datetime": "2026.10.01. 07:57",
+      "title": "Baleset történt Budapest II. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92447",
+      "lead": "Két autó ütközött a Slachta Margit rakparton.",
+      "body": "Két személyautó ütközött össze Budapest II. kerületében, a Slachta Margit rakparton, a Margit híd közelében. A fővárosi hivatásos tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Slachta Margit rakpart",
+      "updates": []
+    },
     {
       "id": "92446",
       "datetime": "2026.10.01. 06:44",
@@ -137,9 +148,9 @@
       "title": "Felborult egy autó Csipkereknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92436",
-      "lead": "A 7359-es úton dolgoznak a tűzoltók.",
-      "body": "A tetejére borult egy személyautó Csipkerek határában, a 7359-es út 17. és 18. kilométere között. A vasvári önkormányzati tűzoltók vonultak ki a balesethez, amelyhez a mentőket is riasztották. A raj a rendőrségi helyszínelés után tudja áramtalanítani a gépkocsit.",
-      "location": "Csipkerek, 7359",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -267,9 +278,9 @@
       "title": "Tűz volt egy söjtöri családi ház pincéjében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92425",
-      "lead": "A tűzoltók rövid időn belül eloltották a lángokat.",
-      "body": "Tűz keletkezett egy családi ház pincéjében Söjtörön, a Deák Ferenc utcában. A zalaegerszegi és a pacsai hivatásos tűzoltók érkeztek a helyszínre, rövid időn belül körülhatárolták, majd eloltották a tüzet. A munkálatok közben az egységek kihoztak egy gázpalackot a helyiségből, amelyet jelenleg átszellőztetnek.",
-      "location": "Söjtör, Deák Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
