@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T10:57:31.267003+00:00",
-  "count": 2892,
+  "updated_at": "2026-10-01T11:00:41.656218+00:00",
+  "count": 2893,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92453",
+      "datetime": "2026.10.01. 12:57",
+      "title": "Tűz van Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453",
+      "lead": "A Zsámbok-Réti sorra riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Benzin és alkoholszármazékok égnek. A szegedi hivatásos tűzoltók a Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre indult több más egység is.",
+      "location": "Szeged, Zsámbok-Réti sor",
+      "updates": []
+    },
     {
       "id": "92452",
       "datetime": "2026.10.01. 10:30",
@@ -100,7 +111,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Egy családi ház szaunájában keletkezett tűz Újlengyelen, a Hernádi dűlőn. A tűz a tetőszerkezetben kezdett továbbterjedni. A dabasi hivatásos tűzoltók két vízsugárral oltják a lángokat, megkezdték a szauna megbontását.",
       "location": "Újhartyán, Hernádi dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Újlengyelen",
+          "datetime": "2026.10.01. 06:47",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Újlengyelen, ahol egy családi ház szaunájában keletkezett tűz a Hernádi dűlőn. A dabasi hivatásos egységek két vízsugárral és kéziszerszámokkal dolgoztak a tűz megfékezésén.",
+          "location": "Újhartyán, Hernádi dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92444/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92444"
+        }
+      ]
     },
     {
       "id": "92443",
@@ -119,9 +139,9 @@
       "title": "Árokba hajtott egy autó a 441-esen, Nagykőrösnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92442",
-      "lead": "A jármű áramtalanítására van szükség.",
-      "body": "Árokba hajtott egy gépkocsi a 441-es főút 19-es kilométerszelvényénél, Nagykőrös térségében. A vezető egy, a jármű elé ugrott őz miatt rántotta félre a kormányt, aminek következtében megtörtént a baleset. A nagykőrösi önkormányzati tűzoltók áramtalanítják a bajba került autót.",
-      "location": "Nagykőrös, 441",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
