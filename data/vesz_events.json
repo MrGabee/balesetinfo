@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T15:03:03.165382+00:00",
-  "count": 2903,
+  "updated_at": "2026-10-01T15:06:11.362187+00:00",
+  "count": 2904,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92464",
+      "datetime": "2026.10.01. 17:03",
+      "title": "Összeütközött két autó Nagyigmándnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92464",
+      "lead": "A tűzoltók egy embert kimentettek az egyik járműből.",
+      "body": "Karambolozott két személyautó Nagyigmánd határában, a 13-as főút és a 8136-os út kereszteződésében. Az egyik járműbe beszorult egy ember. A műszaki mentést végző nagyigmándi és ácsi önkormányzati, valamint a csépi és az ácsi önkéntes tűzoltók feszítővágóval kiszabadították, majd kiemelték és átadták őt a mentőknek A rajok áramtalanították a gépkocsikat. Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták mind a két érintett utat.",
+      "location": "Nagyigmánd, 13",
+      "updates": []
+    },
     {
       "id": "92463",
       "datetime": "2026.10.01. 16:59",
