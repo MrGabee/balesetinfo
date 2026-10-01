@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T14:27:53.152028+00:00",
-  "count": 2900,
+  "updated_at": "2026-10-01T14:31:19.487082+00:00",
+  "count": 2901,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92461",
+      "datetime": "2026.10.01. 16:27",
+      "title": "Autó égett Dunapatajon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92461",
+      "lead": "A Dunasoron fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy személyautó Dunapatajon, a Dunasoron, a Nyár utca közelében. Teljes terjedelmében égett a jármű, és a tűz a környező avarra is átterjedt. A kalocsai hivatásos és a dunapataji önkéntes tűzoltók eloltották a lángokat, majd megkezdték az utómunkálatokat.",
+      "location": "Dunapataj, Dunasor",
+      "updates": []
+    },
     {
       "id": "92460",
       "datetime": "2026.10.01. 16:14",
