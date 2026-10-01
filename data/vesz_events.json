@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T17:46:44.710339+00:00",
-  "count": 2907,
+  "updated_at": "2026-10-01T17:49:54.466299+00:00",
+  "count": 2908,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92468",
+      "datetime": "2026.10.01. 19:48",
+      "title": "Árokba borult egy autó Tiszabecs és Uszka között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92468",
+      "lead": "A 4143-as úton félpályán halad a forgalom.",
+      "body": "Árokba borult egy személyautó Tiszabecs és Uszka között, a 4143-as út 32-es kilométerszelvénye közelében. A műszaki mentést a fehérgyarmati hivatásos tűzoltók végzik. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tiszabecs, 4143",
+      "updates": []
+    },
     {
       "id": "92467",
       "datetime": "2026.10.01. 19:36",
