@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T09:44:33.687894+00:00",
+  "updated_at": "2026-10-01T09:47:50.319919+00:00",
   "count": 2892,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -250,7 +250,16 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a tüzet.",
       "body": "Egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki Kiskőrösön, az Alkotmány utcában. A város hivatásos és önkéntes tűzoltói három vízsugárral már megakadályozták a lángok továbbterjedését, folytatják a munkálatokat. Az esethez a társhatóságok is kiérkeztek, valamint az egységek a közműszolgáltató szakembereit is a helyszínre kérték a villanyóra és a gázóra károsodása miatt.",
       "location": "Kiskőrös, Alkotmány utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a kiskőrösi lakóház lángjait",
+          "datetime": "2026.09.30. 14:51",
+          "category": "Tűzeset",
+          "text": "A kiskőrösi hivatásos és önkéntes tűzoltók három vízsugárral megfékezték a lángokat városukban, ahol egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki az Alkotmány utcában. Az egységek mellett a társhatóságok is az esetnél dolgoztak, illetve a villanyóra és a gázóra károsodása miatt a közműszolgáltató szakemberei is a helyszínre érkeztek.",
+          "location": "Kiskőrös, Alkotmány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92432/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92432"
+        }
+      ]
     },
     {
       "id": "92431",
@@ -280,9 +289,9 @@
       "title": "Újabb baleset az M7-esen, Szabadbattyánnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92429",
-      "lead": "Lezárták az érintett útszakaszt a főváros felé vezető irányban.",
-      "body": "Három gépkocsi szenvedett ráfutásos balesetet az M7-es autópálya 70-es és 71-es kilométerszelvénye között, Szabadbattyán térségében, a Budapest felé vezető irányban. A székesfehérvári hivatásos tűzoltók érkeztek a műszaki mentési munkálatokhoz. A hatósági beavatkozás idejére lezárták az érintett pályaszakaszt, elterelik a forgalmat.",
-      "location": "Szabadbattyán, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
