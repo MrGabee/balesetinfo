@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T04:12:54.310159+00:00",
-  "count": 2884,
+  "updated_at": "2026-10-01T04:16:13.354455+00:00",
+  "count": 2885,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92445",
+      "datetime": "2026.10.01. 06:15",
+      "title": "Baleset történt Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92445",
+      "lead": "Forgalmi akadály alakult ki az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi a XIX. kerületben, az Ady Endre út és a Hofherr Albert utca kereszteződésében. A járművekben csak a vezetők utaztak, akik saját erejükből ki tudtak szállni. A fővárosi hivatásos tűzoltók megkezdték a forgalmi akadályt okozó autók áramtalanítását.",
+      "location": "Budapest, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "92444",
       "datetime": "2026.10.01. 06:10",
