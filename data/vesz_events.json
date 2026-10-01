@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T18:10:19.179631+00:00",
-  "count": 2909,
+  "updated_at": "2026-10-01T18:13:55.227657+00:00",
+  "count": 2910,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92470",
+      "datetime": "2026.10.01. 20:12",
+      "title": "Vadgázolás a 71-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92470",
+      "lead": "Badacsonytördemic közelében félpályán halad a forgalom.",
+      "body": "Vadat gázolt egy személyautó a 71-es főúton, Badacsonytördemic közelében, a 82-es és 83-as kilométerszelvény között. A balesethez a badacsonytomaji hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Badacsonytördemic, 71",
+      "updates": []
+    },
     {
       "id": "92469",
       "datetime": "2026.10.01. 19:59",
