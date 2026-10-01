@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:47:38.918353+00:00",
+  "updated_at": "2026-10-01T11:51:07.310138+00:00",
   "count": 2894,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Összeütközött két autó Dombóváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92450",
-      "lead": "A 61-es főúton van szükség tűzoltói beavatkozásra.",
-      "body": "Karambolozott egy személygépkocsi és egy teherautó Dombóváron, a Köztársaság utcában, azaz a 61-es főúton, a Kórház utca közelében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen hárman utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszt félpályán lezárták.",
-      "location": "Dombóvár, Köztársaság utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -269,19 +269,10 @@
       "title": "Tűz ütött ki egy kiskőrösi lakóházban",
       "category": "Tűz ütött ki egy kiskőrösi lakóházban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92432",
-      "lead": "A tűzoltók három vízsugárral már körülhatárolták a tüzet.",
-      "body": "Egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki Kiskőrösön, az Alkotmány utcában. A város hivatásos és önkéntes tűzoltói három vízsugárral már megakadályozták a lángok továbbterjedését, folytatják a munkálatokat. Az esethez a társhatóságok is kiérkeztek, valamint az egységek a közműszolgáltató szakembereit is a helyszínre kérték a villanyóra és a gázóra károsodása miatt.",
-      "location": "Kiskőrös, Alkotmány utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tűzoltók a kiskőrösi lakóház lángjait",
-          "datetime": "2026.09.30. 14:51",
-          "category": "Tűzeset",
-          "text": "A kiskőrösi hivatásos és önkéntes tűzoltók három vízsugárral megfékezték a lángokat városukban, ahol egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki az Alkotmány utcában. Az egységek mellett a társhatóságok is az esetnél dolgoztak, illetve a villanyóra és a gázóra károsodása miatt a közműszolgáltató szakemberei is a helyszínre érkeztek.",
-          "location": "Kiskőrös, Alkotmány utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92432/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92432"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92431",
