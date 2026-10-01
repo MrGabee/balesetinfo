@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T12:32:40.665821+00:00",
-  "count": 2895,
+  "updated_at": "2026-10-01T12:36:40.381457+00:00",
+  "count": 2896,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92456",
+      "datetime": "2026.10.01. 14:35",
+      "title": "Karambol az M5-ösön, Lajosmizsénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92456",
+      "lead": "A Budapest felé vezető oldalon torlódásra kell számítani.",
+      "body": "Egy kamion, egy kisteherautó és egy személygépkocsi ütközött össze az M5-ös autópálya Budapest felé vezető oldalán, Lajosmizse közelében, a 63-as és 64-es kilométerszelvény között. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon forgalomkorlátozásra, torlódásra kell számítani.",
+      "location": "Lajosmizse, M5",
+      "updates": []
+    },
     {
       "id": "92455",
       "datetime": "2026.10.01. 13:53",
@@ -75,9 +86,9 @@
       "title": "Karambol Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92449",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kőbányai úton forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Budapest X. kerületében, a Kőbányai úton, a Vaspálya utcánál. A járműben ketten utaztak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén forgalmi akadály van.",
+      "location": "Budapest, Kőbányai út",
       "updates": []
     },
     {
@@ -108,9 +119,9 @@
       "title": "Két autó karambolozott Hajóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92446",
-      "lead": "Az egyik jármű az árokba hajtott az ütközés után.",
-      "body": "Két gépkocsi ütközött össze Hajóson, az Ady utca és a Hunyadi utca kereszteződésénél. Az ütközés következtében az egyik jármű az árokba került, a másik kocsi az úttesten okoz félpályás forgalmi akadályt. A kalocsai hivatásos és a hajósi önkéntes tűzoltók érkeztek a helyszínre, áramtalanítják az autókat. A balesethez a társhatóságok is kiérkeztek.",
-      "location": "Hajós, Ady utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,9 +366,9 @@
       "title": "Baleset történt az M7-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92426",
-      "lead": "Szabadbattyánnál lezárták a Budapest felé vezető sztrádaoldalt.",
-      "body": "Karambolozott egy kamion és egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Szabadbattyán közelében, a 67. és a 68. kilométer között. A gépkocsiban egy ember utazott, őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző székesfehérvári hivatásos tűzoltók. A rajok áramtalanították a járművet.  Mentőhelikopter is érkezett a baleset helyszínére, ahol teljes szélességében lezárták az érintett sztrádaszakaszt.",
-      "location": "Szabadbattyán, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
