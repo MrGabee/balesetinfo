@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T14:42:07.037492+00:00",
-  "count": 2901,
+  "updated_at": "2026-10-01T14:45:26.684985+00:00",
+  "count": 2902,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92462",
+      "datetime": "2026.10.01. 16:42",
+      "title": "Kigyulladt a száraz fű Tiszadobon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92462",
+      "lead": "Az Árpád utca közelében oltják a lángokat.",
+      "body": "Kigyulladt a száraz fű Tiszadobon, az Árpád utca közelében. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és tiszadobi önkéntes tűzoltók dolgoznak a lángok megfékezésén. A tűz oltását az erős szél is nehezíti.",
+      "location": "Tiszadob, Árpád utca",
+      "updates": []
+    },
     {
       "id": "92461",
       "datetime": "2026.10.01. 16:27",
