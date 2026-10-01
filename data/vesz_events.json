@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T11:07:58.802453+00:00",
-  "count": 2893,
+  "updated_at": "2026-10-01T11:11:35.199415+00:00",
+  "count": 2894,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92454",
+      "datetime": "2026.10.01. 13:11",
+      "title": "Karambol történt Keszthelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92454",
+      "lead": "A Zámor utcában dolgoznak a tűzoltók.",
+      "body": "Összeütközött egy furgon és egy személyautó Keszthelyen, a Zámor utcában, a Lóczy Lajos utcánál. A furgon nekicsapódott egy fának is, amely kidőlt. A város hivatásos tűzoltói áramtalanították a járműveket. A helyszínen vannak a mentők is.",
+      "location": "Keszthely, Zámor utca",
+      "updates": []
+    },
     {
       "id": "92453",
       "datetime": "2026.10.01. 12:57",
