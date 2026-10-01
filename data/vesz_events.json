@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:19:04.326514+00:00",
+  "updated_at": "2026-10-01T07:22:44.564785+00:00",
   "count": 2890,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -64,9 +64,9 @@
       "title": "Baleset történt Kispesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92445",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi a XIX. kerületben, az Ady Endre út és a Hofherr Albert utca kereszteződésében. A járművekben csak a vezetők utaztak, akik saját erejükből ki tudtak szállni. A fővárosi hivatásos tűzoltók megkezdték a forgalmi akadályt okozó autók áramtalanítását.",
+      "location": "Budapest, Ady Endre út",
       "updates": []
     },
     {
@@ -161,10 +161,19 @@
       "title": "Tarló és száraz fű ég Kakasdnál",
       "category": "Tarló és száraz fű ég Kakasdnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92437",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Egy nádast és több szalmabálát is érint a tűz.",
+      "body": "Meggyulladt a tarló és száraz fű Kakasd külterületén, egy a 6-os főút és a 6533-as út közötti területen. Nagy kiterjedésű a tűz, amely egy nádast és több szalmabálát is elért. A szekszárdi hivatásos tűzoltók oltják a lángokat, és más egységek is a helyszínre indultak.",
+      "location": "Kakasd, Kakasd külterülete",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kakasdnál",
+          "datetime": "2026.09.30. 17:50",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Kakasd külterületén, a 6-os főút és a 6533-as út közötti területen, ahol négy hektáron égett a gaz, ezer négyzetméteren a nádas, valamint több szalmabála is meggyulladt. A szekszárdi és a komlói hivatásos, továbbá a bonyhádi önkéntes tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak a tűz elfojtásán, jelenleg az utómunkálatokat végzik.",
+          "location": "Kakasd, Kakasd külterülete",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92437/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92437"
+        }
+      ]
     },
     {
       "id": "92436",
