@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T07:01:20.156294+00:00",
-  "count": 2888,
+  "updated_at": "2026-10-01T07:04:41.365386+00:00",
+  "count": 2889,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92449",
+      "datetime": "2026.10.01. 09:02",
+      "title": "Karambol Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92449",
+      "lead": "A Kőbányai úton forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Budapest X. kerületében, a Kőbányai úton, a Vaspálya utcánál. A járműben ketten utaztak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelynek helyszínén forgalmi akadály van.",
+      "location": "Budapest, Kőbányai út",
+      "updates": []
+    },
     {
       "id": "92448",
       "datetime": "2026.10.01. 08:25",
