@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T18:43:56.973003+00:00",
-  "count": 2910,
+  "updated_at": "2026-10-01T18:47:54.147759+00:00",
+  "count": 2911,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92471",
+      "datetime": "2026.10.01. 20:45",
+      "title": "Kigyulladt egy melléképület Sümegen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92471",
+      "lead": "A Dózsa György utcába vonultak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Sümegen, a Dózsa György utcában. A keszthelyi hivatásos és a sümegi önkormányzati tűzoltók három vízsugárral eloltották a lángokat. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
+      "location": "Sümeg, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "92470",
       "datetime": "2026.10.01. 20:12",
