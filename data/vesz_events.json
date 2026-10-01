@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T16:49:26.030553+00:00",
-  "count": 2905,
+  "updated_at": "2026-10-01T16:53:08.563751+00:00",
+  "count": 2906,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92466",
+      "datetime": "2026.10.01. 18:51",
+      "title": "Hármas karambol Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92466",
+      "lead": "Két autó és egy motor ütközött a Kálvin utca és a Jókai utca kereszteződésében.",
+      "body": "Két személyautó és egy motorkerékpár ütközött össze Pécsen, a Kálvin utca és a Jókai utca kereszteződésében. A pécsi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Pécs, Kálvin utca",
+      "updates": []
+    },
     {
       "id": "92465",
       "datetime": "2026.10.01. 18:08",
