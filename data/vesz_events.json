@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:47:17.437678+00:00",
+  "updated_at": "2026-10-01T12:50:59.721545+00:00",
   "count": 2896,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Karambol történt Keszthelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92454",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Zámor utcában dolgoznak a tűzoltók.",
+      "body": "Összeütközött egy furgon és egy személyautó Keszthelyen, a Zámor utcában, a Lóczy Lajos utcánál. A furgon nekicsapódott egy fának is, amely kidőlt. A város hivatásos tűzoltói áramtalanították a járműveket. A helyszínen vannak a mentők is.",
+      "location": "Keszthely, Zámor utca",
       "updates": []
     },
     {
@@ -42,9 +42,9 @@
       "title": "Tűz van Szegeden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Zsámbok-Réti sorra riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Benzin és alkoholszármazékok égnek. A szegedi hivatásos tűzoltók a Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre indult több más egység is.",
+      "location": "Szeged, Zsámbok-Réti sor",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Árokba hajtott egy traktor Tenken",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92452",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Felborult a szalmabálákat szállító jármű vontatmánya.",
+      "body": "Az út mellett parkoló autónak ütközött és árokba hajtott egy traktor Tenken, az Erdőtelki úton. Vontatmánya, amelyen szalmabálákat szállított, felborult. A füzesabonyi hivatásos tűzoltók vonultak ki a balesethez, és áramtalanították a személygépkocsit. A baleset következtében egy távközlési oszlop is megrongálódott.",
+      "location": "Tenk, Erdőtelki út",
       "updates": []
     },
     {
@@ -294,7 +294,16 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a tüzet.",
       "body": "Egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki Kiskőrösön, az Alkotmány utcában. A város hivatásos és önkéntes tűzoltói három vízsugárral már megakadályozták a lángok továbbterjedését, folytatják a munkálatokat. Az esethez a társhatóságok is kiérkeztek, valamint az egységek a közműszolgáltató szakembereit is a helyszínre kérték a villanyóra és a gázóra károsodása miatt.",
       "location": "Kiskőrös, Alkotmány utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a kiskőrösi lakóház lángjait",
+          "datetime": "2026.09.30. 14:51",
+          "category": "Tűzeset",
+          "text": "A kiskőrösi hivatásos és önkéntes tűzoltók három vízsugárral megfékezték a lángokat városukban, ahol egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki az Alkotmány utcában. Az egységek mellett a társhatóságok is az esetnél dolgoztak, illetve a villanyóra és a gázóra károsodása miatt a közműszolgáltató szakemberei is a helyszínre érkeztek.",
+          "location": "Kiskőrös, Alkotmány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92432/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92432"
+        }
+      ]
     },
     {
       "id": "92431",
