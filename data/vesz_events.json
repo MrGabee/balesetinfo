@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T06:22:52.259602+00:00",
-  "count": 2887,
+  "updated_at": "2026-10-01T06:26:18.591221+00:00",
+  "count": 2888,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92448",
+      "datetime": "2026.10.01. 08:25",
+      "title": "Két autó karambolozott Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92448",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92447",
       "datetime": "2026.10.01. 07:57",
@@ -454,9 +465,9 @@
       "title": "Lakóház égett Milotán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92409",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház Milotán, a Rákóczi utcában. Az ingatlan berendezési tárgyai és a tetőszerkezete égett. A fehérgyarmati hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Milota, Rákóczi utca",
       "updates": []
     },
     {
