@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T14:59:33.804491+00:00",
-  "count": 2902,
+  "updated_at": "2026-10-01T15:03:03.165382+00:00",
+  "count": 2903,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92463",
+      "datetime": "2026.10.01. 16:59",
+      "title": "Kamion és személyautó ütközött az M1-esen, Vértesszőlősnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92463",
+      "lead": "A Budapest felé vezető oldalon van szükség műszaki mentésre.",
+      "body": "Kamion és személyautó ütközött össze az M1-es autópálya Budapest felé vezető oldalán, Vértesszőlős térségében, a 65-ös kilométerszelvény közelében. A ráfutásos baleset következtében a gépkocsi a kamion alá szorult. A tatabányai hivatásos tűzoltók egy embert feszítővágó segítségével kiemeltek a járműből. A műszaki mentést a Komárom-Esztergom megyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Vértesszőlős, M1",
+      "updates": []
+    },
     {
       "id": "92462",
       "datetime": "2026.10.01. 16:42",
