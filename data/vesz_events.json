@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T08:28:46.789304+00:00",
-  "count": 2891,
+  "updated_at": "2026-10-01T08:31:44.547995+00:00",
+  "count": 2892,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92452",
+      "datetime": "2026.10.01. 10:30",
+      "title": "Árokba hajtott egy traktor Tenken",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92452",
+      "lead": "Felborult a szalmabálákat szállító jármű vontatmánya.",
+      "body": "Az út mellett parkoló autónak ütközött és árokba hajtott egy traktor Tenken, az Erdőtelki úton. Vontatmánya, amelyen szalmabálákat szállított, felborult. A füzesabonyi hivatásos tűzoltók vonultak ki a balesethez, és áramtalanították a személygépkocsit. A baleset következtében egy távközlési oszlop is megrongálódott.",
+      "location": "Tenk, Erdőtelki út",
+      "updates": []
+    },
     {
       "id": "92451",
       "datetime": "2026.10.01. 10:24",
