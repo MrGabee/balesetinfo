@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:20:18.772308+00:00",
+  "updated_at": "2026-10-01T13:23:31.201193+00:00",
   "count": 2898,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "92453",
-      "datetime": "2026.10.01. 12:57",
+      "datetime": "2026.10.01. 12:57 -",
       "title": "Tűz van Szegeden",
-      "category": "Tűzeset",
+      "category": "Tűz van Szegeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453",
       "lead": "A Zsámbok-Réti sorra riasztották a tűzoltókat.",
       "body": "Tűz keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Benzin és alkoholszármazékok égnek. A szegedi hivatásos tűzoltók a Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre indult több más egység is.",
       "location": "Szeged, Zsámbok-Réti sor",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nem terjed tovább a tűz Szegeden",
+          "datetime": "2026.10.01. 15:21",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a lángok továbbterjedését Szegeden, a Zsámbok-Réti soron, ahol tűz keletkezett egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és a környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos tűzoltók egy szegedi, egy hódmezővásárhelyi és egy orosházi vízszállító jármű közreműködésével, a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett, nagy erőkkel oltják a tüzet.",
+          "location": "Szeged, Zsámbok-Réti sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
+        }
+      ]
     },
     {
       "id": "92452",
@@ -194,9 +203,9 @@
       "title": "Árokba hajtott egy autó a 441-esen, Nagykőrösnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92442",
-      "lead": "A jármű áramtalanítására van szükség.",
-      "body": "Árokba hajtott egy gépkocsi a 441-es főút 19-es kilométerszelvényénél, Nagykőrös térségében. A vezető egy, a jármű elé ugrott őz miatt rántotta félre a kormányt, aminek következtében megtörtént a baleset. A nagykőrösi önkormányzati tűzoltók áramtalanítják a bajba került autót.",
-      "location": "Nagykőrös, 441",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -227,9 +236,9 @@
       "title": "Több jármű karambolozott az M0-son, Szigetszentmiklósnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92439",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset miatt lezárták az érintett útszakaszt az M5-ös felé vezető irányban.",
+      "body": "Három kamion és két személyautó ütközött össze az M0-s autóút 19-es kilométerszelvényénél, Szigetszentmiklós térségében, az M5-ös autópálya felé vezető irányban.  A baleset következtében az egyik autóba egy utas beszorult. A szigetszentmiklósi hivatásos tűzoltók drótkötél segítségével levontatták a járművet a szalagkorlátról, majd feszítővágó használatával kiemelték az utast. A balesethez a társhatóságok is kiérkeztek, az egységekkel együttműködve teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Szigetszentmiklós, M0",
       "updates": []
     },
     {
