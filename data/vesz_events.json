@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-01T08:21:34.062809+00:00",
-  "count": 2890,
+  "updated_at": "2026-10-01T08:24:52.027568+00:00",
+  "count": 2891,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92451",
+      "datetime": "2026.10.01. 10:24",
+      "title": "Autó égett Gyálnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92451",
+      "lead": "A tűzoltók az M5-ös közelében fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személyautó Gyál közelében, az M5-ös autópályáról a 4602-es útra vezető lehajtójánál lévő benzinkút területén. Teljes terjedelmében égett a jármű, amely a benzinkút egy félreeső részén áll. A fővárosi hivatásos tűzoltók két vízsugárral eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Gyál, Gyál közelében",
+      "updates": []
+    },
     {
       "id": "92450",
       "datetime": "2026.10.01. 09:11",
@@ -366,9 +377,9 @@
       "title": "Összeütközött két autó Mátramindszenten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92420",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi ütközött össze Mátramindszenten, a Kossuth téren. A bátonyterenyei hivatásos tűzoltók áramtalanították a karambolos járműveket. Az egység mellett a társhatóságok is kiérkeztek a balesethez.",
+      "location": "Mátramindszent, Kossuth tér",
       "updates": []
     },
     {
