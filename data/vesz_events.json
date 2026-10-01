@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:25:58.360790+00:00",
+  "updated_at": "2026-10-01T07:29:23.248113+00:00",
   "count": 2890,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -228,16 +228,7 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a tüzet.",
       "body": "Egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki Kiskőrösön, az Alkotmány utcában. A város hivatásos és önkéntes tűzoltói három vízsugárral már megakadályozták a lángok továbbterjedését, folytatják a munkálatokat. Az esethez a társhatóságok is kiérkeztek, valamint az egységek a közműszolgáltató szakembereit is a helyszínre kérték a villanyóra és a gázóra károsodása miatt.",
       "location": "Kiskőrös, Alkotmány utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tűzoltók a kiskőrösi lakóház lángjait",
-          "datetime": "2026.09.30. 14:51",
-          "category": "Tűzeset",
-          "text": "A kiskőrösi hivatásos és önkéntes tűzoltók három vízsugárral megfékezték a lángokat városukban, ahol egy száz négyzetméteres lakóház alsó szintje, valamint a tetőtere gyulladt ki az Alkotmány utcában. Az egységek mellett a társhatóságok is az esetnél dolgoztak, illetve a villanyóra és a gázóra károsodása miatt a közműszolgáltató szakemberei is a helyszínre érkeztek.",
-          "location": "Kiskőrös, Alkotmány utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92432/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92432"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92431",
@@ -465,9 +456,9 @@
       "title": "Ráfutásos baleset Szendehelynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92411",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 2-es főúton történt a karambol.",
+      "body": "Összeütközött két személygépkocsi Szendehelynél, a Dózsa György úton, azaz a 2-es főút 44-es és 45-ös kilométere közötti szakaszán. A rétsági hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Szendehely, Dózsa György út",
       "updates": []
     },
     {
