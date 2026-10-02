@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T21:52:08.608045+00:00",
-  "count": 2932,
+  "updated_at": "2026-10-02T21:55:04.803271+00:00",
+  "count": 2933,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92493",
+      "datetime": "2026.10.02. 23:54",
+      "title": "Családi ház égett Misefán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92493",
+      "lead": "A Fő utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Misefán, a Fő utcában. A tűz a tetőszerkezet és a lakóteret érintette. A pacsai, a zalaegerszegi és a keszthelyi hivatásos tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Misefa, Fő utca",
+      "updates": []
+    },
     {
       "id": "92492",
       "datetime": "2026.10.02. 23:04",
