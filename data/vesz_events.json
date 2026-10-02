@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:59:02.460294+00:00",
+  "updated_at": "2026-10-02T11:02:59.792254+00:00",
   "count": 2915,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Autótűz a 471-es főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92469",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nyírbátor és Nyírcsászári út között lezárták az utat.",
+      "body": "Teljes terjedelmében égett egy személyautó a 471-es főút Nyírbátor és Nyírcsászári út közötti szakaszán, az 56-os kilométerszelvény között. A lángokat a nyírbátori hivatásos tűzoltók oltották el. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyírcsászári, 471",
       "updates": []
     },
     {
@@ -157,12 +157,12 @@
       "location": "Tiszadob, Árpád utca",
       "updates": [
         {
-          "title": "Eloltották a tiszadobi tüzet",
-          "datetime": "2026.10.02. 12:12",
+          "title": "Már körülhatárolták a lángokat Tiszadobon",
+          "datetime": "2026.10.01. 22:01",
           "category": "Tűzeset",
-          "text": "Eloltották a tüzet Tiszadobon, ahol száraz fű és tőzeges égett az Árpád utca közelében. A tűz körülbelül öt hektárnyi területet érintett. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és a tiszadobi önkéntes tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett két vízsugárral és kéziszerszámokkal fékezték meg a lángokat.",
+          "text": "Már körülhatárolták a lángokat Tiszadobon, ahol tőzeges ég az Árpád utca közelében. A tűz körülbelül öt hektárnyi területet érint. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és tiszadobi önkéntes tűzoltók a Szabolcs-Szatmár-Bereg megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak.",
           "location": "Tiszadob, Árpád utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92462/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92462"
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92462/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92462"
         }
       ]
     },
@@ -264,14 +264,6 @@
       "body": "Tűz keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Benzin és alkoholszármazékok égnek. A szegedi hivatásos tűzoltók a Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre indult több más egység is.",
       "location": "Szeged, Zsámbok-Réti sor",
       "updates": [
-        {
-          "title": "Nem terjed tovább a tűz Szegeden",
-          "datetime": "2026.10.01. 15:21",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a lángok továbbterjedését Szegeden, a Zsámbok-Réti soron, ahol tűz keletkezett egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és a környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos tűzoltók egy szegedi, egy hódmezővásárhelyi és egy orosházi vízszállító jármű közreműködésével, a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett, nagy erőkkel oltják a tüzet.",
-          "location": "Szeged, Zsámbok-Réti sor",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
-        },
         {
           "title": "Elhúzódnak a munkálatok Szegeden",
           "datetime": "2026.10.01. 22:04",
