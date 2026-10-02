@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T13:47:20.804068+00:00",
-  "count": 2921,
+  "updated_at": "2026-10-02T13:51:23.987886+00:00",
+  "count": 2922,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92482",
+      "datetime": "2026.10.02. 15:51",
+      "title": "Autó égett Külsővatnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92482",
+      "lead": "A 834-es főút és a 8413-as út kereszteződésében forgalmi akadály van.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi a 834-es főút és a 8413-as út kereszteződésében, Külsővat közelében. A celldömölki önkormányzati tűzoltók egy vízsugárral elfojtotta a lángokat. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Külsővat, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92481",
       "datetime": "2026.10.02. 15:38",
