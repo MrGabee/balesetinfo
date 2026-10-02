@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:06:50.774689+00:00",
+  "updated_at": "2026-10-02T11:10:34.398983+00:00",
   "count": 2915,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -268,10 +268,35 @@
       "title": "Tűz van Szegeden",
       "category": "Tűz van Szegeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Zsámbok-Réti sorra riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Benzin és alkoholszármazékok égnek. A szegedi hivatásos tűzoltók a Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre indult több más egység is.",
+      "location": "Szeged, Zsámbok-Réti sor",
+      "updates": [
+        {
+          "title": "Nem terjed tovább a tűz Szegeden",
+          "datetime": "2026.10.01. 15:21",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a lángok továbbterjedését Szegeden, a Zsámbok-Réti soron, ahol tűz keletkezett egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és a környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos tűzoltók egy szegedi, egy hódmezővásárhelyi és egy orosházi vízszállító jármű közreműködésével, a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett, nagy erőkkel oltják a tüzet.",
+          "location": "Szeged, Zsámbok-Réti sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
+        },
+        {
+          "title": "Elhúzódnak a munkálatok Szegeden",
+          "datetime": "2026.10.01. 22:04",
+          "category": "Tűzeset",
+          "text": "Elhúzódnak a munkálatok Szegeden, a Zsámbok-Réti soron, ahol tűz keletkezett egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és a környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos tűzoltók egy szegedi, egy hódmezővásárhelyi és egy orosházi vízszállító jármű közreműködésével, a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett már megakadályozták a lángok továbbterjedését.",
+          "location": "Szeged, Zsámbok-Réti sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
+        },
+        {
+          "title": "Megfékezték a tüzet Szegeden",
+          "datetime": "2026.10.02. 12:19",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely még tegnap keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos, valamint a mindszenti és a szegedi önkéntes tűzoltók a Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett, tíz vízsugárral fékezték meg a lángokat, és két vízsugárral megakadályozták, hogy a tűz a közeli erdőre is átterjedjen.",
+          "location": "Szeged, Zsámbok-Réti sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
+        }
+      ]
     },
     {
       "id": "92452",
@@ -442,9 +467,9 @@
       "title": "Autótűz az M3-ason",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92438",
-      "lead": "Bag térségében kellett beavatkozniuk a tűzoltóknak.",
-      "body": "Kigyulladt egy személyautó az M3-as autópálya Nyíregyháza felé vezető oldalán, Bag térségében, a 36. és a 37. kilométer között. Teljes terjedelmében égett a jármű, és a tűz a környező száraz fűre, valamint a közeli rézsűre is átterjedt. A gödöllői hivatásos tűzoltók két vízsugárral eloltották a lángokat.",
-      "location": "Bag, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
