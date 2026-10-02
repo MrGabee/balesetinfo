@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:40:34.888836+00:00",
+  "updated_at": "2026-10-02T09:44:21.209420+00:00",
   "count": 2913,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -243,6 +243,14 @@
       "location": "Szeged, Zsámbok-Réti sor",
       "updates": [
         {
+          "title": "Nem terjed tovább a tűz Szegeden",
+          "datetime": "2026.10.01. 15:21",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a lángok továbbterjedését Szegeden, a Zsámbok-Réti soron, ahol tűz keletkezett egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és a környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos tűzoltók egy szegedi, egy hódmezővásárhelyi és egy orosházi vízszállító jármű közreműködésével, a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett, nagy erőkkel oltják a tüzet.",
+          "location": "Szeged, Zsámbok-Réti sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
+        },
+        {
           "title": "Elhúzódnak a munkálatok Szegeden",
           "datetime": "2026.10.01. 22:04",
           "category": "Tűzeset",
@@ -349,16 +357,7 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Egy családi ház szaunájában keletkezett tűz Újlengyelen, a Hernádi dűlőn. A tűz a tetőszerkezetben kezdett továbbterjedni. A dabasi hivatásos tűzoltók két vízsugárral oltják a lángokat, megkezdték a szauna megbontását.",
       "location": "Újhartyán, Hernádi dűlő",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Újlengyelen",
-          "datetime": "2026.10.01. 06:47",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Újlengyelen, ahol egy családi ház szaunájában keletkezett tűz a Hernádi dűlőn. A dabasi hivatásos egységek két vízsugárral és kéziszerszámokkal dolgoztak a tűz megfékezésén.",
-          "location": "Újhartyán, Hernádi dűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92444/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92444"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92443",
