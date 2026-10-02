@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T14:36:39.133178+00:00",
-  "count": 2924,
+  "updated_at": "2026-10-02T14:40:05.328536+00:00",
+  "count": 2925,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92485",
+      "datetime": "2026.10.02. 16:37",
+      "title": "Felborult egy traktor Vállajon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92485",
+      "lead": "A Báthory utcába riasztották a tűzoltókat.",
+      "body": "Felborult egy mezőgazdasági vontató és két vontatmánya Vállajon, a Báthory utcában. A traktor egy villanyoszlopot is kidöntött. A mátészalkai hivatásos tűzoltók műszaki mentést végeznek. A helyszínre mentőhelikopter is érkezett.",
+      "location": "Vállaj, Báthory utca",
+      "updates": []
+    },
     {
       "id": "92484",
       "datetime": "2026.10.02. 16:26",
