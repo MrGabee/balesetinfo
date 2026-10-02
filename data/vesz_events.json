@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T08:51:15.537444+00:00",
-  "count": 2912,
+  "updated_at": "2026-10-02T08:54:31.393648+00:00",
+  "count": 2913,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92473",
+      "datetime": "2026.10.02. 10:54",
+      "title": "Karambol az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92473",
+      "lead": "Lajosmizse közelében dolgoznak a tűzoltók, akik egy embert kimentettek az egyik járműből.",
+      "body": "Összeütközött egy kamion és egy kistehergépkocsi az M5-ös autópálya Budapest felé vezető oldalán, Lajosmizse térdégében, a 62. kilométernél. Az autóba beszorult egy ember. Őt feszítővágóval és feszítőhengerrel kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző kecskeméti hivatásos és lajosmizsei önkormányzati tűzoltók. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Lajosmizse, M5",
+      "updates": []
+    },
     {
       "id": "92472",
       "datetime": "2026.10.02. 07:45",
