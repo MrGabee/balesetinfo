@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:55:27.097916+00:00",
+  "updated_at": "2026-10-02T10:59:02.460294+00:00",
   "count": 2915,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Autótűz a 471-es főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92469",
-      "lead": "Nyírbátor és Nyírcsászári út között lezárták az utat.",
-      "body": "Teljes terjedelmében égett egy személyautó a 471-es főút Nyírbátor és Nyírcsászári út közötti szakaszán, az 56-os kilométerszelvény között. A lángokat a nyírbátori hivatásos tűzoltók oltották el. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Nyírcsászári, 471",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -156,14 +156,6 @@
       "body": "Kigyulladt a száraz fű Tiszadobon, az Árpád utca közelében. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és tiszadobi önkéntes tűzoltók dolgoznak a lángok megfékezésén. A tűz oltását az erős szél is nehezíti.",
       "location": "Tiszadob, Árpád utca",
       "updates": [
-        {
-          "title": "Már körülhatárolták a lángokat Tiszadobon",
-          "datetime": "2026.10.01. 22:01",
-          "category": "Tűzeset",
-          "text": "Már körülhatárolták a lángokat Tiszadobon, ahol tőzeges ég az Árpád utca közelében. A tűz körülbelül öt hektárnyi területet érint. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és tiszadobi önkéntes tűzoltók a Szabolcs-Szatmár-Bereg megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak.",
-          "location": "Tiszadob, Árpád utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92462/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92462"
-        },
         {
           "title": "Eloltották a tiszadobi tüzet",
           "datetime": "2026.10.02. 12:12",
