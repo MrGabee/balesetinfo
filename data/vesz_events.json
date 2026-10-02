@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T13:36:20.755665+00:00",
-  "count": 2920,
+  "updated_at": "2026-10-02T13:40:18.513246+00:00",
+  "count": 2921,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92481",
+      "datetime": "2026.10.02. 15:38",
+      "title": "Karambol Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92481",
+      "lead": "A Szalag utca és a Törzs utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személygépkocsi Nyíregyházán, a Szalag utca és a Törzs utca kereszteződésében. Az autókban csak a sofőrök utaztak. A nyíregyházi hivatásos tűzoltók egy járművet áramtalanítottak.",
+      "location": "Nyíregyháza, Szentháromság tér",
+      "updates": []
+    },
     {
       "id": "92480",
       "datetime": "2026.10.02. 14:24",
@@ -97,9 +108,9 @@
       "title": "Összeütközött két autó a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92472",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Albertirsa és Ceglédbercel között félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó a 4-es főút Albertirsa és Ceglédbercel közötti szakaszán, az 56-os kilométerszelvénynél. A balesethez a ceglédi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Albertirsa, 4",
       "updates": []
     },
     {
