@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T11:52:40.289150+00:00",
-  "count": 2916,
+  "updated_at": "2026-10-02T11:56:01.203813+00:00",
+  "count": 2917,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92477",
+      "datetime": "2026.10.02. 13:53",
+      "title": "Karambol a 84-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92477",
+      "lead": "Sopronnál forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi a 84-es főúton, Sopronnál, 128-as kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A soproni hivatásos tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Sopron, Nyugati major",
+      "updates": []
+    },
     {
       "id": "92476",
       "datetime": "2026.10.02. 13:30",
