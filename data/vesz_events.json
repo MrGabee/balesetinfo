@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T20:03:44.191782+00:00",
-  "count": 2929,
+  "updated_at": "2026-10-02T20:07:15.232585+00:00",
+  "count": 2930,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92490",
+      "datetime": "2026.10.02. 22:04",
+      "title": "Karambol a 4434-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92490",
+      "lead": "Makó és Csanádpalota között teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy traktor a 4434-es úton, Makó és Csanádpalota között, a 81-es kilométerszelvénynél. A baleset következtében a traktor az árokba sodródott. A makói hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Makó, Habtató ugar tanya",
+      "updates": []
+    },
     {
       "id": "92489",
       "datetime": "2026.10.02. 21:31",
