@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T18:15:52.176724+00:00",
-  "count": 2926,
+  "updated_at": "2026-10-02T18:19:10.680942+00:00",
+  "count": 2927,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92487",
+      "datetime": "2026.10.02. 20:16",
+      "title": "Baleset történt Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92487",
+      "lead": "A Baross utcában forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi Szolnokon, a Baross utca és a Sütő utca kereszteződésében. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szolnok, Baross utca",
+      "updates": []
+    },
     {
       "id": "92486",
       "datetime": "2026.10.02. 17:47",
