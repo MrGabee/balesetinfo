@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T15:45:37.792671+00:00",
-  "count": 2925,
+  "updated_at": "2026-10-02T15:49:02.431415+00:00",
+  "count": 2926,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92486",
+      "datetime": "2026.10.02. 17:47",
+      "title": "Tíz hektárnyi száraz fű égett Gyöngyösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92486",
+      "lead": "A 3204-es út mellett dolgoznak a tűzoltók.",
+      "body": "Kigyulladt mintegy tíz hektárnyi száraz fű, hulladék és trágya Gyöngyösön, a 3204-es út mellett. A gyöngyösi és hatvani hivatásos tűzoltók öt vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Gyöngyös, Karácsondi út",
+      "updates": []
+    },
     {
       "id": "92485",
       "datetime": "2026.10.02. 16:37",
