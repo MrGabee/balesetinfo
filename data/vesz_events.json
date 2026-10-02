@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T12:09:36.990839+00:00",
-  "count": 2917,
+  "updated_at": "2026-10-02T12:13:18.742497+00:00",
+  "count": 2918,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92478",
+      "datetime": "2026.10.02. 14:09",
+      "title": "Pince égett Gombán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92478",
+      "lead": "A Liliom utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy három szintes családi ház pincéje Gombán, a Liliom utcában. A tűz a felsőbb szintekre nem terjedt át. A monori hivatásos tűzoltók és egy nagykátai vízszállító érkezett ki a helyszínre. A rajok két vízsugárral elfojtották a lángokat. Az egységek az utómunkálatokat végzik.",
+      "location": "Gomba, Liliom utca",
+      "updates": []
+    },
     {
       "id": "92477",
       "datetime": "2026.10.02. 13:53",
