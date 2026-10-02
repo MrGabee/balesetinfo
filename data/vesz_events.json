@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T18:22:38.670604+00:00",
-  "count": 2927,
+  "updated_at": "2026-10-02T18:26:08.861541+00:00",
+  "count": 2928,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92488",
+      "datetime": "2026.10.02. 20:23",
+      "title": "Hármas karambol az 1-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92488",
+      "lead": "Bicske és Herceghalom között teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi és egy tehergépkocsi az 1-es főúton, Bicske és Herceghalom között, a 26-os kilométerszelvény közelében. A bicskei önkormányzati tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mány, Háromrózsa puszta",
+      "updates": []
+    },
     {
       "id": "92487",
       "datetime": "2026.10.02. 20:16",
