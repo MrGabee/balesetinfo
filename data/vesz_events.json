@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T14:25:41.196900+00:00",
-  "count": 2923,
+  "updated_at": "2026-10-02T14:29:13.474137+00:00",
+  "count": 2924,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92484",
+      "datetime": "2026.10.02. 16:26",
+      "title": "Két autó égett Fóton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92484",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Teljes terjedelmében égett két személygépkocsi Fóton, a Fehérkő utcában. A tűz több autót is veszélyeztetett. A fővárosi hivatásos és a fóti önkéntes tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Fót, Fehérkő utca",
+      "updates": []
+    },
     {
       "id": "92483",
       "datetime": "2026.10.02. 16:07",
