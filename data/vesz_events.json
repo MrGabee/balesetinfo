@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T20:10:52.222773+00:00",
-  "count": 2930,
+  "updated_at": "2026-10-02T20:14:01.866890+00:00",
+  "count": 2931,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92491",
+      "datetime": "2026.10.02. 22:10",
+      "title": "Romos épület égett Apcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92491",
+      "lead": "A Háromkereszt utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy romos épület és környezete Apcon, a Háromkereszt utcában. A hatvani hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Apc, Háromkereszt utca",
+      "updates": []
+    },
     {
       "id": "92490",
       "datetime": "2026.10.02. 22:04",
