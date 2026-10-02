@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T14:04:52.075760+00:00",
-  "count": 2922,
+  "updated_at": "2026-10-02T14:08:03.878599+00:00",
+  "count": 2923,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92483",
+      "datetime": "2026.10.02. 16:07",
+      "title": "Hulladék és épület égett Adácson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92483",
+      "lead": "A tűzoltók a Honvéd utcában dolgoznak.",
+      "body": "Hulladék égett egy udvaron Adácson, a Honvéd utcában. A tűz átterjedt egy szomszédos könnyűszerkezetes épületre is. A gyöngyösi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az egység az utómunkálatokat kezdi meg.",
+      "location": "Adács, Honvéd utca",
+      "updates": []
+    },
     {
       "id": "92482",
       "datetime": "2026.10.02. 15:51",
