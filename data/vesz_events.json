@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T12:23:54.995883+00:00",
-  "count": 2919,
+  "updated_at": "2026-10-02T12:27:21.148146+00:00",
+  "count": 2920,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92480",
+      "datetime": "2026.10.02. 14:24",
+      "title": "Kamion és kisteherautó ütközött az M5-ön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92480",
+      "lead": "Lajosmizse közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött egy kisteherautó és egy kamion az M5-ös autópályán, Budapest felé, Lajosmizse közelében, a 71-es kilométerszelvénynél. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Lajosmizse, Alsólajos tanya",
+      "updates": []
+    },
     {
       "id": "92479",
       "datetime": "2026.10.02. 14:16",
