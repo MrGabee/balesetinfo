@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:10:17.372015+00:00",
+  "updated_at": "2026-10-02T10:13:29.037017+00:00",
   "count": 2913,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -139,6 +139,14 @@
           "datetime": "2026.10.01. 22:01",
           "category": "Tűzeset",
           "text": "Már körülhatárolták a lángokat Tiszadobon, ahol tőzeges ég az Árpád utca közelében. A tűz körülbelül öt hektárnyi területet érint. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és tiszadobi önkéntes tűzoltók a Szabolcs-Szatmár-Bereg megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltanak.",
+          "location": "Tiszadob, Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92462/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92462"
+        },
+        {
+          "title": "Eloltották a tiszadobi tüzet",
+          "datetime": "2026.10.02. 12:12",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Tiszadobon, ahol száraz fű és tőzeges égett az Árpád utca közelében. A tűz körülbelül öt hektárnyi területet érintett. A tiszaújvárosi és a hajdúnánási hivatásos, valamint a tiszavasvári önkormányzati és a tiszadobi önkéntes tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett két vízsugárral és kéziszerszámokkal fékezték meg a lángokat.",
           "location": "Tiszadob, Árpád utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92462/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92462"
         }
