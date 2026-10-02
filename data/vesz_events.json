@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-02T19:29:02.657351+00:00",
-  "count": 2928,
+  "updated_at": "2026-10-02T19:33:20.790513+00:00",
+  "count": 2929,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92489",
+      "datetime": "2026.10.02. 21:31",
+      "title": "Lesodródott az útról egy autó az M44-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92489",
+      "lead": "Nagykőrös térségében forgalmi akadályra kell számítani.",
+      "body": "Lesodródott az útról és a szántóföldön állt meg egy személygépkocsi az M44-es autóúton, Békéscsaba felé, Nagykőrös térségében, a 14-es kilométerszelvénynél. A nagykőrösi önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Nagykőrös, Kálmánhegy dűlő",
+      "updates": []
+    },
     {
       "id": "92488",
       "datetime": "2026.10.02. 20:23",
