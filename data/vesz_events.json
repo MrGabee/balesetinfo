@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:37:23.489102+00:00",
+  "updated_at": "2026-10-02T09:40:34.888836+00:00",
   "count": 2913,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -205,9 +205,9 @@
       "title": "Karambol az M5-ösön, Lajosmizsénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92456",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon torlódásra kell számítani.",
+      "body": "Egy kamion, egy kisteherautó és egy személygépkocsi ütközött össze az M5-ös autópálya Budapest felé vezető oldalán, Lajosmizse közelében, a 63-as és 64-es kilométerszelvény között. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon forgalomkorlátozásra, torlódásra kell számítani.",
+      "location": "Lajosmizse, M5",
       "updates": []
     },
     {
@@ -242,14 +242,6 @@
       "body": "Tűz keletkezett Szegeden, a Zsámbok-Réti soron, egy üzem területén. Benzin és alkoholszármazékok égnek. A szegedi hivatásos tűzoltók a Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A helyszínre indult több más egység is.",
       "location": "Szeged, Zsámbok-Réti sor",
       "updates": [
-        {
-          "title": "Nem terjed tovább a tűz Szegeden",
-          "datetime": "2026.10.01. 15:21",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a lángok továbbterjedését Szegeden, a Zsámbok-Réti soron, ahol tűz keletkezett egy üzem területén. Oldószerek, valamint tisztítószerek gyulladtak meg és égtek mintegy kétezer négyzetméteren egy csarnokban és a környékén. A szegedi, a hódmezővásárhelyi, a kisteleki, a makói, az orosházi, a kiskunmajsai és szentesi hivatásos tűzoltók egy szegedi, egy hódmezővásárhelyi és egy orosházi vízszállító jármű közreműködésével, a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság tűzoltósági főfelügyelőjének irányítása mellett, nagy erőkkel oltják a tüzet.",
-          "location": "Szeged, Zsámbok-Réti sor",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92453/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92453"
-        },
         {
           "title": "Elhúzódnak a munkálatok Szegeden",
           "datetime": "2026.10.01. 22:04",
