@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:22:12.945613+00:00",
-  "count": 2957,
+  "updated_at": "2026-10-03T15:25:25.867391+00:00",
+  "count": 2958,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92518",
+      "datetime": "2026.10.03. 17:23",
+      "title": "Három autó ütközött Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92518",
+      "lead": "A tűzoltók áramtalanítottak egy járművet .",
+      "body": "Három személyautó karambolozott Érden, a Burkoló utcában. Az érdi hivatásos tűzoltók egy járművet áramtalanítottak. A társhatóság is a helyszínre érkezett.",
+      "location": "Érd, Burkoló utca",
+      "updates": []
+    },
     {
       "id": "92517",
       "datetime": "2026.10.03. 17:18",
