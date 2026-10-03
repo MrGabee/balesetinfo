@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T11:50:34.279361+00:00",
-  "count": 2943,
+  "updated_at": "2026-10-03T11:54:02.654741+00:00",
+  "count": 2944,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92504",
+      "datetime": "2026.10.03. 13:51",
+      "title": "Kigyulladt egy ház Kecelen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92504",
+      "lead": "A Kalocsai utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy ház Kecelen, a Kalocsai utcába. Az ingatlan egyik szobájában ágy és ruhaneműk égtek. A keceli önkormányzati tűzoltók kiérkezése előtt az ott tartózkodók eloltották a lángokat. Az egység utómunkálatokat végez a helyszínen.",
+      "location": "Kecel, Kalocsai utca",
+      "updates": []
+    },
     {
       "id": "92503",
       "datetime": "2026.10.03. 13:29",
