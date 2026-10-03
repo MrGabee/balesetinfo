@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T17:28:15.990421+00:00",
-  "count": 2964,
+  "updated_at": "2026-10-03T17:31:25.764200+00:00",
+  "count": 2965,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92526",
+      "datetime": "2026.10.03. 19:28",
+      "title": "Baleset történt Bükkszentkereszt és Miskolc között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92526",
+      "lead": "Egy ember beszorult, őt a tűzoltók szabadítják ki.",
+      "body": "Szalagkorlát alá szorult egy személyautó Bükkszentkereszt és Miskolc között, a 2505-ös út 39-es kilométerénél. A baleset során egy ember beszorult a járműbe, őt a diósgyőri hivatásos tűzoltók szabadítják ki. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Bükkszentkereszt, 2505",
+      "updates": []
+    },
     {
       "id": "92525",
       "datetime": "2026.10.03. 18:42 -",
