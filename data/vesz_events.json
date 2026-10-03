@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T17:52:43.806494+00:00",
+  "updated_at": "2026-10-03T17:56:35.274828+00:00",
   "count": 2966,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92526",
-      "datetime": "2026.10.03. 19:28",
+      "datetime": "2026.10.03. 19:28 -",
       "title": "Baleset történt Bükkszentkereszt és Miskolc között",
-      "category": "Közlekedési baleset",
+      "category": "Baleset történt Bükkszentkereszt és Miskolc között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92526",
       "lead": "Egy ember beszorult, őt a tűzoltók szabadítják ki.",
       "body": "Szalagkorlát alá szorult egy személyautó Bükkszentkereszt és Miskolc között, a 2505-ös út 39-es kilométerénél. A baleset során egy ember beszorult a járműbe, őt a diósgyőri hivatásos tűzoltók szabadítják ki. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
       "location": "Bükkszentkereszt, 2505",
-      "updates": []
+      "updates": [
+        {
+          "title": "Kiszabadították a Bükkszentkereszt és Miskolc között autóba szorult embert",
+          "datetime": "2026.10.03. 19:54",
+          "category": "Közlekedési baleset",
+          "text": "A diósgyőri hivatásos tűzoltók kiszabadították és átadták a mentőknek azt az embert, aki beszorult a személyautóba, miután a szalagkorlát alá szorult a járművel Bükkszentkereszt és Miskolc között, a 2505-ös út 39-es kilométerénél. A raj feszítőhengert is használ a beavatkozás során. A műszaki mentés ideje alatt az érintett útszakaszon forgalmi akadály volt az érintett útszakaszon.",
+          "location": "Bükkszentkereszt, 2505",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92526/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92526"
+        }
+      ]
     },
     {
       "id": "92525",
