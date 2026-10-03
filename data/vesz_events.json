@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T13:06:39.354649+00:00",
-  "count": 2947,
+  "updated_at": "2026-10-03T13:10:29.501854+00:00",
+  "count": 2948,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92508",
+      "datetime": "2026.10.03. 15:10",
+      "title": "Baleset történt Pécsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92508",
+      "lead": "Árpádtetőnél dolgoznak a tűzoltók.",
+      "body": "Letért az útról egy személygépkocsi Pécsnél, a Komlói úton, azaz a 66-os főút úton, Árpádtetőnél. A pécsi hivatásos tűzoltók egy embert kiemeltek a járműből. A rajok áramtalanították az autót. A mentőszolgálat is a helyszínen dolgozik. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pécs, Árpádtető",
+      "updates": []
+    },
     {
       "id": "92507",
       "datetime": "2026.10.03. 14:52",
