@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T09:36:03.752885+00:00",
-  "count": 2938,
+  "updated_at": "2026-10-03T09:39:58.199810+00:00",
+  "count": 2939,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92499",
+      "datetime": "2026.10.03. 11:38",
+      "title": "Baleset történt M7-esen, Balatonfőkajárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92499",
+      "lead": "A sztráda főváros felé vezető szakaszán félpályán halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó Balatonfőkajárnál, az M7-es autópálya 90-es kilométerénél, a Budapest felé vezető oldalon. A balesetben egy másik jármű is érintett. A polgárdi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett sztrádaszakaszon félpályán halad a forgalom.",
+      "location": "Balatonvilágos, M7",
+      "updates": []
+    },
     {
       "id": "92498",
       "datetime": "2026.10.03. 11:06",
