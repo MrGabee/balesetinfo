@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T12:00:04.395468+00:00",
-  "count": 2944,
+  "updated_at": "2026-10-03T12:03:32.036920+00:00",
+  "count": 2945,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92505",
+      "datetime": "2026.10.03. 14:00",
+      "title": "Tűz volt Harta külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92505",
+      "lead": "A Nagykékes pusztán csaptak fel a lángok.",
+      "body": "Tűz volt egy lakóház udvarán, Harta külterületén, a Nagykékes pusztán. A lángok több ingatlan területét is érintették, valamint egy melléképület tetőszerkezetére is átterjedtek. A kiskőrösi, a solti hivatásos és a helyi önkéntes tűzoltók körülhatárolták, majd eloltották a tüzet.",
+      "location": "Harta, Nagykékes puszta",
+      "updates": []
+    },
     {
       "id": "92504",
       "datetime": "2026.10.03. 13:51",
