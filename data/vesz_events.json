@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T13:54:52.395959+00:00",
-  "count": 2953,
+  "updated_at": "2026-10-03T13:57:58.035936+00:00",
+  "count": 2954,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92514",
+      "datetime": "2026.10.03. 15:56",
+      "title": "Kigyulladt egy családi ház Miskolcnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92514",
+      "lead": "Az ingatlan teljes terjedelmében égett.",
+      "body": "Kigyulladt egy lakóház Miskolc diósgyőri városrészénél, a Lackó tanyán. A mintegy huszonnégy négyzetméteres ingatlan teljes terjedelmében égett. A diósgyőri városrész hivatásos tűzoltói fojtották el a lángokat.",
+      "location": "Miskolc, Lackó tanya",
+      "updates": []
+    },
     {
       "id": "92513",
       "datetime": "2026.10.03. 15:47",
