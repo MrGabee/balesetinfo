@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T16:41:47.188781+00:00",
-  "count": 2963,
+  "updated_at": "2026-10-03T16:45:14.238035+00:00",
+  "count": 2964,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92525",
+      "datetime": "2026.10.03. 18:42",
+      "title": "Lakóháztűz Ercsin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92525",
+      "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
+      "body": "Kigyulladt egy családi ház Ercsin, a Május 1. körúton. A száz négyzetméteres ingatlan tetőszerkezete teljes terjedelmében ég. Az érdi hivatásos és a százhalombattai létesítményi tűzoltók a munkálatok során egy gázpalackot is kihoztak az épületből. A rajok három vízsugárral oltják a lángokat.",
+      "location": "Ercsi, Május 1. körút",
+      "updates": []
+    },
     {
       "id": "92524",
       "datetime": "2026.10.03. 18:05",
@@ -56,7 +67,16 @@
       "lead": "A tűzoltók már körülhatárolták a lángokat.",
       "body": "Kigyulladt egy épület Nádudvaron, az Ady Endre utcában. A tűz az épület mellett lévő lakóház padlásterére is átterjedt. A püspökládányi és a hajdúszoboszlói hivatásos tűzoltók már három vízsugárral körülhatárolták a lángokat.",
       "location": "Nádudvar, Ady Endre utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Nádudvaron",
+          "datetime": "2026.10.03. 18:38",
+          "category": "Tűzeset",
+          "text": "A püspökládányi és a hajdúszoboszlói hivatásos tűzoltók már az utómunkálatokat végzik Nádudvaron, az Ady Endre utcában, ahol egy kétszáz négyzetméteres épület teljes terjedelmében égett. A tűz az épület mellett lévő száz négyzetméteres lakóház padlásterére is átterjedt. Az egységek három vízsugárral körülhatárolták majd elfojtották a lángokat.",
+          "location": "Nádudvar, Ady Endre utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92520/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92520"
+        }
+      ]
     },
     {
       "id": "92518",
