@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:56:16.120832+00:00",
-  "count": 2961,
+  "updated_at": "2026-10-03T15:59:32.849353+00:00",
+  "count": 2962,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92523",
+      "datetime": "2026.10.03. 17:58",
+      "title": "Két autó ütközött a 7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92523",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Két személygépkocsi ütközött Székesfehérváron, a Szent Flórián körúton, azaz a 7-es főút, 69-es és 70-es kilométere közötti szakaszán. A székesfehérvári hivatásos tűzoltók áramtalanították az egyik járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Székesfehérvár, Móri út",
+      "updates": []
+    },
     {
       "id": "92522",
       "datetime": "2026.10.03. 17:44",
