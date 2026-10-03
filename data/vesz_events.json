@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T07:58:25.405309+00:00",
-  "count": 2936,
+  "updated_at": "2026-10-03T08:02:14.521600+00:00",
+  "count": 2937,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92497",
+      "datetime": "2026.10.03. 10:01",
+      "title": "Mosógép égett Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92497",
+      "lead": "A Szamos utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy szegedi társasházban, a Szamos utcában. Az egyik lakásban egy mosógép gyulladt ki. A helyi hivatásos tűzoltók porral oltóval elfojtották a lángokat. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat is a helyszíne dolgozik.",
+      "location": "Szeged, Szamos utca",
+      "updates": []
+    },
     {
       "id": "92496",
       "datetime": "2026.10.03. 09:54",
