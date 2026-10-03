@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T16:02:55.814056+00:00",
-  "count": 2962,
+  "updated_at": "2026-10-03T16:06:41.481805+00:00",
+  "count": 2963,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92524",
+      "datetime": "2026.10.03. 18:05",
+      "title": "Összeütközött két autó a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92524",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személyautó karambolozott Budapest X. kerületében, a Kőér utca és a Basa utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Basa utca",
+      "updates": []
+    },
     {
       "id": "92523",
       "datetime": "2026.10.03. 17:58",
