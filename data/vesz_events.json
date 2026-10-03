@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T04:36:06.291015+00:00",
-  "count": 2933,
+  "updated_at": "2026-10-03T04:39:53.214001+00:00",
+  "count": 2934,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92494",
+      "datetime": "2026.10.03. 06:39",
+      "title": "Vadat gázolt egy autó a 81-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92494",
+      "lead": "Mór közelében forgalmi akadály van.",
+      "body": "Vadat gázolt egy személygépkocsi a 81-es főúton, Mór közelében, a 30-as kilométerszelvénynél. Az autóban ketten utaztak. A móri önkormányzati tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Mór, Vásártéri utca",
+      "updates": []
+    },
     {
       "id": "92493",
       "datetime": "2026.10.02. 23:54",
