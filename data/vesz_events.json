@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T14:11:48.181680+00:00",
-  "count": 2954,
+  "updated_at": "2026-10-03T14:15:08.249157+00:00",
+  "count": 2955,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92515",
+      "datetime": "2026.10.03. 16:12",
+      "title": "Tűz volt Szabadszállásnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92515",
+      "lead": "A Balázspuszta tanyán dolgoznak a tűzoltók.",
+      "body": "Mintegy ezerkétszáz négyzetméteren egy ötven négyzetméteres melléképület, gaz, avar és farakás égett Szabadszállásnál, a Balázspuszta tanyán. A tűz a főépületet nem érintette. A solti hivatásos és a szabadszállási önkormányzati tűzoltók négy vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Szabadszállás, Balázspuszta tanya",
+      "updates": []
+    },
     {
       "id": "92514",
       "datetime": "2026.10.03. 15:56",
