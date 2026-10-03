@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T20:08:26.756096+00:00",
-  "count": 2969,
+  "updated_at": "2026-10-03T20:12:07.417552+00:00",
+  "count": 2970,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92531",
+      "datetime": "2026.10.03. 22:09",
+      "title": "Pincetűz Csengeren",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92531",
+      "lead": "Az Ady Endre utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakóházzal egybeépített melléképület, Csengeren, az Ady Endre utcában. A melléképület hét négyzetméteres pincéje égett, amelyben mintegy három mázsa fát, illetve papírt tároltak. A tűz egy ajtófélfára is átterjedt. A csengeri önkormányzati tűzoltók oltották el a lángokat.",
+      "location": "Csenger, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "92530",
       "datetime": "2026.10.03. 20:28",
