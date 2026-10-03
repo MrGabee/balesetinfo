@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-03T21:43:31.578498+00:00",
-  "count": 2970,
+  "updated_at": "2026-10-03T23:03:45.816673+00:00",
+  "count": 2972,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92533",
+      "datetime": "2026.10.04. 00:44",
+      "title": "Két autó ütközött Üllőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92533",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Üllőn, a Pesti úton, azaz 4-es főúton, a Templom térnél. A monori hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Üllő, Templom tér",
+      "updates": []
+    },
+    {
+      "id": "92532",
+      "datetime": "2026.10.04. 00:23",
+      "title": "Kazánháztűz Mezőtúron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92532",
+      "lead": "A Köztársaság utcában csaptak fel a lángok.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy autószerelő műhely kazánháza Mezőtúron, a Köztársaság utcában. A tűz a szomszéd telekre is átterjedt. A helyi, a szarvasi és a kunszentmártoni hivatásos tűzoltók oltották el a lángokat. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A rajok az utómunkálatokat végzik.",
+      "location": "Mezőtúr, Köztársaság utca",
+      "updates": []
+    },
     {
       "id": "92531",
       "datetime": "2026.10.03. 22:09",
