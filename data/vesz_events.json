@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T11:22:58.767918+00:00",
-  "count": 2941,
+  "updated_at": "2026-10-03T11:26:08.953592+00:00",
+  "count": 2942,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92502",
+      "datetime": "2026.10.03. 13:23",
+      "title": "Ház égett Barcson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92502",
+      "lead": "A tűzoltók két vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy ház Barcs külterületén, a Német hegyen. A tűz az épület belső terét nem érintette. A barcsi hivatásos tűzoltók egy barcsi vízszállító jármű segítségével két vízsugárral elfojtották a lángokat.",
+      "location": "Barcs, Német hegy",
+      "updates": []
+    },
     {
       "id": "92501",
       "datetime": "2026.10.03. 12:24",
