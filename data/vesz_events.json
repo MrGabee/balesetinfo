@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T07:52:01.775386+00:00",
-  "count": 2935,
+  "updated_at": "2026-10-03T07:55:06.921804+00:00",
+  "count": 2936,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92496",
+      "datetime": "2026.10.03. 09:54",
+      "title": "Két autó ütközött az M6-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92496",
+      "lead": "A sztráda érintett szakaszán forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Palotabozsoknál, az M6-os autópálya 172-es és 173-as kilométere közötti szakaszán, a Budapest felé vezető oldalon. A mohácsi hivatásos tűzoltók áramtalanították a járműveket. A társhatóság is a helyszínre érkezett. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Palotabozsok, M6",
+      "updates": []
+    },
     {
       "id": "92495",
       "datetime": "2026.10.03. 08:02",
