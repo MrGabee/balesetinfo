@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:35:34.952770+00:00",
-  "count": 2959,
+  "updated_at": "2026-10-03T15:39:44.015644+00:00",
+  "count": 2960,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92521",
+      "datetime": "2026.10.03. 17:35",
+      "title": "Ég egy templom Radostyánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92521",
+      "lead": "Az Ady Endre utcába riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében ég egy templom tetőszerkezete Radostyánban, az Ady Endre utcában. A kazincbarcikai, a szendrői és a miskolci hivatásos tűzoltók több vízsugárral oltják a lángokat. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett zajlanak a munkálatok.",
+      "location": "Radostyán, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "92520",
       "datetime": "2026.10.03. 17:30",
