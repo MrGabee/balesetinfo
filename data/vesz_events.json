@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:15:31.901234+00:00",
-  "count": 2956,
+  "updated_at": "2026-10-03T15:19:19.284018+00:00",
+  "count": 2957,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92517",
+      "datetime": "2026.10.03. 17:18",
+      "title": "Bokor és aljnövényzet égett a IX. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92517",
+      "lead": "A tűzoltók egy vízsugárral körülhatárolták, majd elfojtották a lángokat.",
+      "body": "Mintegy tizenkét négyzetméteren bokor és aljnövényzet égett, Budapest IX. kerületében, a Könyves Kálmán körúton, a Mester utca közelében. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A raj egy vízsugárral körülhatárolta, majd elfojtotta a lángokat.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "92516",
       "datetime": "2026.10.03. 16:47",
