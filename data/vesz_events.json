@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T13:37:45.741314+00:00",
-  "count": 2951,
+  "updated_at": "2026-10-03T13:41:30.921097+00:00",
+  "count": 2952,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92512",
+      "datetime": "2026.10.03. 15:41",
+      "title": "Lakóház égett Kazincbarcikán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92512",
+      "lead": "A Lorántffy Zsuzsanna úton csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház Kazincbarcikán, a Lorántffy Zsuzsanna úton.  Az ingatlan tetőszerkezete teljes terjedelmében égett. A helyi és a miskolci hivatásos tűzoltók négy vízsugárral oltották el a lángokat. Egy helyi vízszállító jármű is a helyszínen dolgozik. Utómunkálatokat végeznek a rajok.",
+      "location": "Kazincbarcika, Lorántffy Zsuzsanna út",
+      "updates": []
+    },
     {
       "id": "92511",
       "datetime": "2026.10.03. 15:36",
