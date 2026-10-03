@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T17:38:34.441015+00:00",
-  "count": 2965,
+  "updated_at": "2026-10-03T17:42:35.961448+00:00",
+  "count": 2966,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92527",
+      "datetime": "2026.10.03. 19:40",
+      "title": "Tűz keletkezett egy kiskunmajsai telephelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92527",
+      "lead": "A tűzoltók egy vízsugárral és egy munkagép segítségével eloltották a lángokat",
+      "body": "Tűz keletkezett egy telephelyen, Kiskunmajsánál, Konyhadűlő tanyán. Mintegy ötven négyzetméteren hulladék égett. A kiskunmajsai hivatásos tűzoltók egy vízsugárral és egy munkagép segítségével eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Kiskunmajsa, Konyhadűlő tanya",
+      "updates": []
+    },
     {
       "id": "92526",
       "datetime": "2026.10.03. 19:28",
