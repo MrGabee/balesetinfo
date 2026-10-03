@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T09:05:43.955788+00:00",
-  "count": 2937,
+  "updated_at": "2026-10-03T09:09:03.032898+00:00",
+  "count": 2938,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92498",
+      "datetime": "2026.10.03. 11:06",
+      "title": "Tetejére borult egy autó az 55-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92498",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Tetejével az árokba borult egy személygépkocsi Domaszéknél, az 55-ös főút 6-os kilométerénél. A szegedi hivatásos tűzoltók áramtalanítják a járművet. A mentőszolgálat is a helyszínen dolgozik.",
+      "location": "Domaszék, 55",
+      "updates": []
+    },
     {
       "id": "92497",
       "datetime": "2026.10.03. 10:01",
