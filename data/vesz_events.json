@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T10:21:59.939349+00:00",
-  "count": 2940,
+  "updated_at": "2026-10-03T10:25:36.363458+00:00",
+  "count": 2941,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92501",
+      "datetime": "2026.10.03. 12:24",
+      "title": "Összeütközött két autó Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92501",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Két személyautó karambolozott Zalaegerszegen, a Platán soron. A helyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zalaegerszeg, Platán sor",
+      "updates": []
+    },
     {
       "id": "92500",
       "datetime": "2026.10.03. 11:45",
