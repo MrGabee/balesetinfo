@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T18:28:33.179110+00:00",
-  "count": 2968,
+  "updated_at": "2026-10-03T18:31:56.047283+00:00",
+  "count": 2969,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92530",
+      "datetime": "2026.10.03. 20:28",
+      "title": "Autótűz Zsanán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92530",
+      "lead": "A tűzoltók egy vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Zsana településen, a Nyírfa utcában. A kiskunhalasi hivatásos tűzoltók riasztották a helyszínre. A raj egy vízsugárral eloltotta a lángokat.",
+      "location": "Zsana, Nyírfa utca",
+      "updates": []
+    },
     {
       "id": "92529",
       "datetime": "2026.10.03. 20:21",
