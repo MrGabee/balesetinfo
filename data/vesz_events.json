@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T06:01:43.776485+00:00",
-  "count": 2934,
+  "updated_at": "2026-10-03T06:05:16.275092+00:00",
+  "count": 2935,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92495",
+      "datetime": "2026.10.03. 08:02",
+      "title": "Baleset Szokolyán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92495",
+      "lead": "A Fő utcában forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Szokolyán, a Fő utcán. Az autókban csak a sofőrök utaztak. A börzsönyi önkéntes tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szokolya, Fő utca",
+      "updates": []
+    },
     {
       "id": "92494",
       "datetime": "2026.10.03. 06:39",
