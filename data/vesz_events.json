@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:43:03.290312+00:00",
-  "count": 2960,
+  "updated_at": "2026-10-03T15:46:21.622978+00:00",
+  "count": 2961,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92522",
+      "datetime": "2026.10.03. 17:44",
+      "title": "Gázolt a vonat Pécelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92522",
+      "lead": "A tűzoltók a biztonságos átszállásban segítenek az utasoknak.",
+      "body": "Elgázolt egy embert a vonat Pécelen, az Erzsébet sétány közelében. A fővárosi hivatásos és a gyömrői önkéntes tűzoltókat riasztották a helyszínre. A rajok segítenek a szerelvény utasaink biztonságos átszállni a mentesítő járatra.",
+      "location": "Pécel, Erzsébet sétány",
+      "updates": []
+    },
     {
       "id": "92521",
       "datetime": "2026.10.03. 17:35",
