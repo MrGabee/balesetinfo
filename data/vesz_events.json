@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T15:05:49.542256+00:00",
+  "updated_at": "2026-10-03T15:09:18.677195+00:00",
   "count": 2956,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -98,7 +98,16 @@
       "lead": "A tűzoltók négy vízsugárral és kéziszerszámokkal oltják a lángokat.",
       "body": "Száraz aljnövényzet ég Kaposfő külterületén, a Póstelek szőlőhegyen. A kaposvári hivatásos tűzoltók négy vízsugárral és kéziszerszámokkal oltják a lángokat. Lajtos kocsi is segíti a munkálatokat.",
       "location": "Kaposfő, Póstelek szőlőhegy",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Kaposfőnél",
+          "datetime": "2026.10.03. 17:03",
+          "category": "Tűzeset",
+          "text": "Elfojtották a lángokat Kaposfő külterületén, a Póstelek szőlőhegyen, ahol mintegy öt hektáron száraz aljnövényzet égett. A kaposvári és a dombóvári hivatásos tűzoltók a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett őt vízsugárral és kéziszerszámokkal fékezték meg a lángokat. A munkálatokat egy lajtos kocsi és egy kaposvári vízszállító jármű is segíti.",
+          "location": "Kaposfő, Póstelek szőlőhegy",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92509/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92509"
+        }
+      ]
     },
     {
       "id": "92508",
