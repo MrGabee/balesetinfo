@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T18:21:12.438575+00:00",
-  "count": 2967,
+  "updated_at": "2026-10-03T18:25:03.248732+00:00",
+  "count": 2968,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92529",
+      "datetime": "2026.10.03. 20:21",
+      "title": "Lakóház égett Karádon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92529",
+      "lead": "A Rákóczi utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakóház Karádon, a Rákóczi utcában. A körülbelül százötven négyzetméteres ingatlan három szobája és előtere égett. A balatonboglári önkormányzati és a helyi önkéntes tűzoltók három vízsugárral elfojtották a lángokat.",
+      "location": "Karád, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "92528",
       "datetime": "2026.10.03. 20:10",
