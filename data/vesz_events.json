@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T13:03:39.099958+00:00",
+  "updated_at": "2026-10-03T13:06:39.354649+00:00",
   "count": 2947,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A Lajos hegy I. dűlőnél oltják a lángokat a tűzoltók.",
       "body": "Nagy területen ég a nádas Mezőszilasnál, a Lajos hegy I. dűlőnél. A sárbogárdi és a dunaújvárosi hivatásos tűzoltók dolgoznak a helyszínen. Az oltást egy székesfehérvári vízszállító jármű is segíti.",
       "location": "Mezőszilas, Lajos hegy I. dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Mezőszilasnál",
+          "datetime": "2026.10.03. 15:02",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Mezőszilasnál, a Lajos hegy I. dűlőnél, ahol nagy területen nádas égett. A sárbogárdi, a dunaújvárosi, a siófoki hivatásos, valamint a simontornyai és a lajoskomáromi önkéntes tűzoltók a Fejér vármegyei katasztrófavédelmi műveleti szolgálatirányítása mellett nyolc vízsugárral fékezték meg a tüzet. A munkálatokat egy székesfehérvári vízszállító jármű is segíti. Utómunkálatokat végeznek az egységek.",
+          "location": "Mezőszilas, Lajos hegy I. dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92503/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92503"
+        }
+      ]
     },
     {
       "id": "92502",
