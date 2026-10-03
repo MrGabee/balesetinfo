@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:31:53.927841+00:00",
+  "updated_at": "2026-10-03T14:35:40.906953+00:00",
   "count": 2955,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,7 +34,16 @@
       "lead": "A Galvani utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy négyszáz négyzetméteres raktárépület Budapest XI. kerületében, a Galvani utcában. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat. A munkálatokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Budapest, Galvani utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat a XI. kerületben",
+          "datetime": "2026.10.03. 16:31",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Budapest XI. kerületében, a Galvani úton, ahol egy körülbelül ötszáz négyzetméteres raktárépület gyulladt ki. A tűz következtében a raktár tetőszerkezete beszakadt. A lángok mintegy kétszáz négyzetméteren az épület melletti területet is érintették. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók nyolc vízsugárral a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett fékezték meg a tüzet. Az egységek az utómunkálatokat végzik jelenleg.",
+          "location": "Budapest, Galvani utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92513/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92513"
+        }
+      ]
     },
     {
       "id": "92512",
