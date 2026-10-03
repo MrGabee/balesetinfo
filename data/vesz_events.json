@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T13:16:32.756374+00:00",
-  "count": 2948,
+  "updated_at": "2026-10-03T13:21:10.579817+00:00",
+  "count": 2949,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92509",
+      "datetime": "2026.10.03. 15:17",
+      "title": "Száraz aljnövényzet ég Kaposfőnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92509",
+      "lead": "A tűzoltók négy vízsugárral és kéziszerszámokkal oltják a lángokat.",
+      "body": "Száraz aljnövényzet ég Kaposfő külterületén, a Póstelek szőlőhegyen. A kaposvári hivatásos tűzoltók négy vízsugárral és kéziszerszámokkal oltják a lángokat. Lajtos kocsi is segíti a munkálatokat.",
+      "location": "Kaposfő, Póstelek szőlőhegy",
+      "updates": []
+    },
     {
       "id": "92508",
       "datetime": "2026.10.03. 15:10",
