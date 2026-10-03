@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T13:27:09.263463+00:00",
-  "count": 2949,
+  "updated_at": "2026-10-03T13:30:36.849388+00:00",
+  "count": 2950,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92510",
+      "datetime": "2026.10.03. 15:29",
+      "title": "Tűz volt Pakodon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92510",
+      "lead": "A tűzoltókat a Csány László utcába riasztották.",
+      "body": "Kigyulladt egy melléképület Pakodon, a Csány László utcában. A kilenc négyzetméteres épület oldala és tetőszerkezete égett. A zalaegerszegi hivatásos és a zalaszentgróti önkormányzati tűzoltók három vízsugárral elfojtották a lángokat. Egy zalaegerszegi vízszállító is segíti a munkálatokat.",
+      "location": "Pakod, Csány László utca",
+      "updates": []
+    },
     {
       "id": "92509",
       "datetime": "2026.10.03. 15:17",
