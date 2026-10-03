@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:28:28.427800+00:00",
-  "count": 2958,
+  "updated_at": "2026-10-03T15:31:52.965710+00:00",
+  "count": 2959,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92520",
+      "datetime": "2026.10.03. 17:30",
+      "title": "Épület ég Nádudvaron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92520",
+      "lead": "A tűzoltók már körülhatárolták a lángokat.",
+      "body": "Kigyulladt egy épület Nádudvaron, az Ady Endre utcában. A tűz az épület mellett lévő lakóház padlásterére is átterjedt. A püspökládányi és a hajdúszoboszlói hivatásos tűzoltók már három vízsugárral körülhatárolták a lángokat.",
+      "location": "Nádudvar, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "92518",
       "datetime": "2026.10.03. 17:23",
