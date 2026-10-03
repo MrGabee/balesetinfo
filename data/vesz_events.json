@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T14:46:20.576133+00:00",
-  "count": 2955,
+  "updated_at": "2026-10-03T14:49:19.328842+00:00",
+  "count": 2956,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92516",
+      "datetime": "2026.10.03. 16:47",
+      "title": "Hármas karambol a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92516",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött három személygépkocsi Budapest XVIII. kerületében, a Nagykőrösi út és a Hunyadi János utca kereszteződésénél. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Hunyadi János utca",
+      "updates": []
+    },
     {
       "id": "92515",
       "datetime": "2026.10.03. 16:12",
