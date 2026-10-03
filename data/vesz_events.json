@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T09:43:49.553133+00:00",
-  "count": 2939,
+  "updated_at": "2026-10-03T09:47:19.937593+00:00",
+  "count": 2940,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92500",
+      "datetime": "2026.10.03. 11:45",
+      "title": "Tűz volt Sámsonházán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92500",
+      "lead": "A Kossuth úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakókocsi Sámsonházán, a Kossuth úton. A tűz a jármű környezetében lévő bozótosra is átterjedt. A pásztói hivatásos tűzoltók eloltották a lángokat. A lakókocsi teljesen leégett. A raj utómunkálatokat végez.",
+      "location": "Sámsonháza, Kossuth út",
+      "updates": []
+    },
     {
       "id": "92499",
       "datetime": "2026.10.03. 11:38",
