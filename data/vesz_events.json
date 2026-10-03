@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T13:33:56.361220+00:00",
-  "count": 2950,
+  "updated_at": "2026-10-03T13:37:45.741314+00:00",
+  "count": 2951,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92511",
+      "datetime": "2026.10.03. 15:36",
+      "title": "Száraz fű égett Kocsérnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92511",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Mintegy négyezer négyzetméteren égett a száraz fű Kocsér külterületén, a IX. dűlőben. A tűz egy hektáron egy tanya területét is érintett. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók három vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy ceglédi vízszállító és egy erőgép i segíti. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Kocsér, IX. dűlő",
+      "updates": []
+    },
     {
       "id": "92510",
       "datetime": "2026.10.03. 15:29",
