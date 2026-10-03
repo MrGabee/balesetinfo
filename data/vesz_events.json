@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T17:05:21.486196+00:00",
+  "updated_at": "2026-10-03T17:08:25.175832+00:00",
   "count": 2964,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy családi ház Ercsin, a Május 1. körúton. A száz négyzetméteres ingatlan tetőszerkezete teljes terjedelmében ég. Az érdi hivatásos és a százhalombattai létesítményi tűzoltók a munkálatok során egy gázpalackot is kihoztak az épületből. A rajok három vízsugárral oltják a lángokat.",
       "location": "Ercsi, Május 1. körút",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lakóháztűz lángjai Ercsin",
+          "datetime": "2026.10.03. 19:08",
+          "category": "Tűzeset",
+          "text": "Az érdi hivatásos, a százhalombattai létesítményi és önkéntes tűzoltók három vízsugárral elfojtották a lángokat Ercsin. A Május 1. körúton egy száz négyzetméteres családi ház tetőszerkezete teljes terjedelmében égett. A rajok egy gázpalackot is kihoztak az ingatlanból a munkálatok során.",
+          "location": "Ercsi, Május 1. körút",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92525/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92525"
+        }
+      ]
     },
     {
       "id": "92524",
