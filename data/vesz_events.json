@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-03T18:07:00.713718+00:00",
-  "count": 2966,
+  "updated_at": "2026-10-03T18:10:50.232150+00:00",
+  "count": 2967,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92528",
+      "datetime": "2026.10.03. 20:10",
+      "title": "Kigyulladt egy nyári konyha Püspökladányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92528",
+      "lead": "Az Északi sor utcában dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy nyolcvan négyzetméteres családi ház mellé épített huszonnégy négyzetméteres nyári konyha Püspökladányban, az Északi sor utcában. A tűz a lakóház födémszerkezetét is érintette. A helyi hivatásos tűzoltók két vízsugárral és kéziszerszámokkal eloltották a lángokat. Jelenleg utómunkálatokat végeznek az egységek",
+      "location": "Püspökladány, Északi sor utca",
+      "updates": []
+    },
     {
       "id": "92527",
       "datetime": "2026.10.03. 19:40",
