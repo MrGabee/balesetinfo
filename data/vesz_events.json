@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:47:37.847683+00:00",
-  "count": 2989,
+  "updated_at": "2026-10-04T12:51:00.665255+00:00",
+  "count": 2990,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92551",
+      "datetime": "2026.10.04. 14:49",
+      "title": "Autónak ütközött egy motoros a 25-ösön, Szentdomonkosnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92551",
+      "lead": "Félpályás útlezárás mellett dolgoznak a hatóságok.",
+      "body": "Az előtte haladó gépkocsinak ütközött egy motorkerékpáros a 25-ös főút 48-as kilométerszelvényénél, Szentdomonkos térségében. A motoron csak a vezetője tartózkodott, míg az autóban ketten utaztak. Az egri hivatásos tűzoltók a kétkerekű járművet áramtalanították. A balesethez az egység mellett a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Szentdomonkos, 25",
+      "updates": []
+    },
     {
       "id": "92550",
       "datetime": "2026.10.04. 14:43",
