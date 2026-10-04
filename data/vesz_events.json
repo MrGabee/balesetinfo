@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T14:27:29.676574+00:00",
-  "count": 2992,
+  "updated_at": "2026-10-04T14:30:17.431614+00:00",
+  "count": 2993,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92554",
+      "datetime": "2026.10.04. 16:29",
+      "title": "Két autó karambolozott Gyömrőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92554",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi karambolozott Gyömrőn, a Szent István út és a Tompa utca kereszteződésében. A járművekben összesen hárman utaztak. A gyömrői önkéntes tűzoltók áramtalanították mindkét autót.",
+      "location": "Gyömrő, Szent István út",
+      "updates": []
+    },
     {
       "id": "92553",
       "datetime": "2026.10.04. 15:55",
