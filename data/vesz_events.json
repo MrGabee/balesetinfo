@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T23:23:42.738151+00:00",
-  "count": 2998,
+  "updated_at": "2026-10-04T23:27:19.136605+00:00",
+  "count": 2999,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92560",
+      "datetime": "2026.10.05. 01:24",
+      "title": "Parkoló furgonnak ütközött egy személyautó Martonvásáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92560",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Parkoló furgonnak ütközött egy személyautó Martonvásáron, a Hunyadi úton, a Kinizsi utca közelében. A baleset következtében az egyik jármű az árokba borult. A martonvásári önkéntes tűzoltók áramtalanították az autókat, valamint a helyszínelést követően megszüntetik a forgalmi akadályt.",
+      "location": "Martonvásár, Hunyadi út",
+      "updates": []
+    },
     {
       "id": "92559",
       "datetime": "2026.10.05. 00:00",
