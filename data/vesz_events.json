@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T09:38:55.593355+00:00",
-  "count": 2979,
+  "updated_at": "2026-10-04T09:42:20.447930+00:00",
+  "count": 2980,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92541",
+      "datetime": "2026.10.04. 11:39",
+      "title": "Három autó ütközött össze az Andrássy úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92541",
+      "lead": "A tűzoltók megkezdték a járművek áramtalanítását.",
+      "body": "Három gépkocsi karambolozott a VI. kerületi Andrássy úton, a Vörösmarty utcánál. Tíz utas tartózkodott összesen a járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítanak. A baleset miatt forgalmi akadály alakult ki az Andrássy út érintett szakaszán.",
+      "location": "Budapest, Andrássy út",
+      "updates": []
+    },
     {
       "id": "92540",
       "datetime": "2026.10.04. 11:34",
