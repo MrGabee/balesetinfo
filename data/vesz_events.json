@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:37:07.543532+00:00",
-  "count": 2987,
+  "updated_at": "2026-10-04T12:40:33.302818+00:00",
+  "count": 2988,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92549",
+      "datetime": "2026.10.04. 14:38",
+      "title": "Baleset Mátészalkán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92549",
+      "lead": "Forgalmi akadály alakult ki a Széchenyi utcában.",
+      "body": "Összeütközött két gépkocsi Mátészalkán, a Széchenyi utcában, a Széchenyi köz közelében. Összesen öten utaztak a járművekben, amelyek közül az egyik áramtalanítását a városi hivatásos tűzoltók végezték el. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Mátészalka, Széchenyi utca",
+      "updates": []
+    },
     {
       "id": "92548",
       "datetime": "2026.10.04. 14:33",
