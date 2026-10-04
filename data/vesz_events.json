@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T07:36:47.145681+00:00",
-  "count": 2973,
+  "updated_at": "2026-10-04T07:40:36.830263+00:00",
+  "count": 2974,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92535",
+      "datetime": "2026.10.04. 09:38",
+      "title": "Baleset történt a Nagyvárad téren",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92535",
+      "lead": "Az egyik jármű felborult az ütközés következtében.",
+      "body": "Két gépkocsi ütközött össze a VIII. és a IX. kerület határában, a Nagyvárad téren. Az ütközés erejétől az egyik jármű felborult, a másik kocsi a villamossíneken állt meg. A fővárosi hivatásos tűzoltók mellett a társhatóságok, valamint a közösségi közlekedési társaság szakemberei is kiérkeztek a balesethez.",
+      "location": "Budapest, Nagyvárad tér",
+      "updates": []
+    },
     {
       "id": "92534",
       "datetime": "2026.10.04. 07:32 -",
