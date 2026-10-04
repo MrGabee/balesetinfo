@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T08:13:10.168654+00:00",
-  "count": 2976,
+  "updated_at": "2026-10-04T08:16:26.557587+00:00",
+  "count": 2977,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92538",
+      "datetime": "2026.10.04. 10:15",
+      "title": "Három autó karambolozott Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92538",
+      "lead": "A baleset miatt forgalmi akadály alakult ki.",
+      "body": "Három gépkocsi ütközött össze a XIX. kerületben, a Lehel utca és a Vak Bottyán utca kereszteződésénél. A fővárosi hivatásos tűzoltók megkezdték a műszaki mentés munkálatokat. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Budapest, Lehel utca",
+      "updates": []
+    },
     {
       "id": "92537",
       "datetime": "2026.10.04. 09:48",
