@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:25:47.615220+00:00",
-  "count": 2985,
+  "updated_at": "2026-10-04T12:29:56.341845+00:00",
+  "count": 2986,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92547",
+      "datetime": "2026.10.04. 14:27",
+      "title": "Fának hajtott egy autó Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92547",
+      "lead": "A jármű áramtalanítására volt szükség.",
+      "body": "Fának hajtott egy gépkocsi Szolnokon, a 402-es főút Tószegi úti szakaszán, a Sirály utca közelében. A járműben csak a vezetője utazott, akit a mentők a szolnoki hivatásos tűzoltók kiérkezése előtt kiemeltek. Az egység áramtalanította az autót.",
+      "location": "Szolnok, Tószegi út",
+      "updates": []
+    },
     {
       "id": "92546",
       "datetime": "2026.10.04. 14:12",
