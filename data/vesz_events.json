@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T07:47:35.816347+00:00",
-  "count": 2975,
+  "updated_at": "2026-10-04T07:52:08.651869+00:00",
+  "count": 2976,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92537",
+      "datetime": "2026.10.04. 09:48",
+      "title": "Hármas karambol történt Cegléden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92537",
+      "lead": "Forgalmi akadály alakult ki a Budai út érintett szakaszán.",
+      "body": "Három gépkocsi karambolozott Cegléden, a Budai úton, a Must utca és a Gőz dűlő közötti szakaszon. Az ütközés következtében az egyik jármű a tetejére borult. A ceglédi hivatásos tűzoltók áramtalanították a forgalmi akadályt okozó autókat. A balesethez a társhatóságok is megérkeztek.",
+      "location": "Cegléd, Budai út",
+      "updates": []
+    },
     {
       "id": "92536",
       "datetime": "2026.10.04. 09:43",
