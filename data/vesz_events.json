@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T14:33:53.771921+00:00",
-  "count": 2993,
+  "updated_at": "2026-10-04T14:37:38.064793+00:00",
+  "count": 2994,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92555",
+      "datetime": "2026.10.04. 16:36",
+      "title": "Szalagkorlátnak ütközött egy autó az M6-oson, Százhalombattánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92555",
+      "lead": "A leállósávban halad a forgalom a főváros felé vezető oldalon.",
+      "body": "Szalagkorlátnak ütközött egy gépkocsi az M6-os autópálya 26-os kilométerszelvényénél, Százhalombatta térségében, a Budapest felé vezető irányban. A két utas saját erejéből ki tudott szállni a járműből. A műszaki mentési munkálatokhoz az érdi hivatásos és a százhalombattai létesítményi tűzoltók érkeztek ki. A baleset miatt a leállósávban halad a forgalom az érintett pályaszakaszon.",
+      "location": "Százhalombatta, M6",
+      "updates": []
+    },
     {
       "id": "92554",
       "datetime": "2026.10.04. 16:29",
