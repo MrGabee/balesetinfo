@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:01:42.056307+00:00",
-  "count": 2983,
+  "updated_at": "2026-10-04T12:05:24.408612+00:00",
+  "count": 2984,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92545",
+      "datetime": "2026.10.04. 14:03",
+      "title": "Összeütközött két autó Cibakházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92545",
+      "lead": "Félpályán lezárták a 4633-as út érintett szakaszát.",
+      "body": "Két gépkocsi karambolozott a 4633-as út 15-ös kilométerszelvényénél, Cibakháza térségében. Csak a vezetők utaztak a járművekben, amelyeket a kunszentmártoni hivatásos tűzoltók áramtalanítottak. Az úttestre került törmelék miatt az egység a közútkezelő szakembereit kérte a helyszínre, ahol félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "location": "Cibakháza, 4633",
+      "updates": []
+    },
     {
       "id": "92544",
       "datetime": "2026.10.04. 13:18",
