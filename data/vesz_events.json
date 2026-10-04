@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T09:31:44.122841+00:00",
-  "count": 2978,
+  "updated_at": "2026-10-04T09:35:18.432748+00:00",
+  "count": 2979,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92540",
+      "datetime": "2026.10.04. 11:34",
+      "title": "Baleset az M1-esen, Mosonmagyaróvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92540",
+      "lead": "Egy kamion felborult, forgalmi akadályt okoz a főváros felé vezető irányban.",
+      "body": "Egy kamion és egy személyautó ütközött össze az M1-es autópálya 158-as kilométerszelvényénél, Mosonmagyaróvár térségében, a Budapest felé vezető irányban. A baleset következtében a kamion az oldalára borult, elzárja a pihenőhöz és a mérlegházhoz vezető utat. A személyautó a belső sávban állt meg a karambolt követően. A mosonmagyaróvári hivatásos tűzoltók megkezdték a műszaki mentési munkálatokat, mellettük a mentők és az útellenőrök is a helyszínre érkeztek. A hatósági beavatkozás idejére a szélső sávon halad a forgalom az érintett pályaszakaszon.",
+      "location": "Mosonmagyaróvár, M1",
+      "updates": []
+    },
     {
       "id": "92539",
       "datetime": "2026.10.04. 11:23",
