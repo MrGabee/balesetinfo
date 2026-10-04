@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:11:47.292679+00:00",
-  "count": 2984,
+  "updated_at": "2026-10-04T12:15:26.684549+00:00",
+  "count": 2985,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92546",
+      "datetime": "2026.10.04. 14:12",
+      "title": "Ráfutásos baleset történt az M3-ason, Atkárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92546",
+      "lead": "A külső sávban és a leállósávban forgalmi akadály van a főváros felé vezető irányban.",
+      "body": "Ráfutásos balesetet szenvedett három gépkocsi az M3-as autópálya 69-es és 70-es kilométerszelvénye között, Atkár térségében, a Budapest felé vezető irányban. Összesen kilencen utaztak a járművekben, amelyek közül egyet a gyöngyösi hivatásos tűzoltók áramtalanítottak. A baleset miatt a külső sávban és a leállósávban forgalmi akadályra kell számítani az érintett pályaszakaszon.",
+      "location": "Atkár, M3",
+      "updates": []
+    },
     {
       "id": "92545",
       "datetime": "2026.10.04. 14:03",
