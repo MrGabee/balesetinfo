@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T15:39:32.370885+00:00",
-  "count": 2994,
+  "updated_at": "2026-10-04T15:42:51.281833+00:00",
+  "count": 2995,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92556",
+      "datetime": "2026.10.04. 17:39",
+      "title": "Baleset történt Cegléden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92556",
+      "lead": "A tűzoltók szabadítanak ki egy utast az egyik járműből.",
+      "body": "Két gépkocsi karambolozott Cegléden, a Kertész utca és a Várkonyi István utca sarkán. A baleset következtében az egyik járműbe beszorult egy utas, akit a ceglédi hivatásos tűzoltók szabadítanak ki. Az egység és a társhatóságok teljes útlezárás mellett dolgoznak a helyszínen.",
+      "location": "Cegléd, Kertész utca",
+      "updates": []
+    },
     {
       "id": "92555",
       "datetime": "2026.10.04. 16:36",
