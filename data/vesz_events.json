@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T05:31:24.064297+00:00",
-  "count": 2972,
+  "updated_at": "2026-10-04T05:35:02.729381+00:00",
+  "count": 2973,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92534",
+      "datetime": "2026.10.04. 07:32",
+      "title": "Hétvégi ház gyulladt ki Balatonőszödön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92534",
+      "lead": "A tűzoltók több vízsugárral és kéziszerszámokkal oltanak.",
+      "body": "Kigyulladt egy hétvégi ház Balatonőszöd külterületén, az M7-es autópálya közelében. A mintegy harminc négyzetméteres ingatlan teljesen leégett. A siófoki hivatásos, balatonboglári önkormányzati és a balatonföldvári önkéntes tűzoltók több vízsugárral és kéziszerszámokkal már körülhatárolták a lángokat. Az oltást egy siófoki vízszállító jármű is segíti.",
+      "location": "Balatonőszöd, külterület",
+      "updates": []
+    },
     {
       "id": "92533",
       "datetime": "2026.10.04. 00:44",
