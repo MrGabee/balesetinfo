@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:29:56.341845+00:00",
-  "count": 2986,
+  "updated_at": "2026-10-04T12:33:26.564530+00:00",
+  "count": 2987,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92548",
+      "datetime": "2026.10.04. 14:33",
+      "title": "Két autó ütközött össze Kiskunmajsán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92548",
+      "lead": "Lezárták a Gépállomás utca érintett szakaszát a baleset miatt.",
+      "body": "Két gépkocsi karambolozott Kiskunmajsán, a Gépállomás utca és a Béla király utca kereszteződésénél. Az egyik jármű vezetője saját erejéből ki tudott szállni, a másik kocsi vezetőjének a kiskunmajsai hivatásos tűzoltók nyújtottak segítséget, az egység feszítővágóval nyitotta ki az autó ajtaját. A tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, teljes útlezárás mellett dolgoznak.",
+      "location": "Kiskunmajsa, Gépállomás utca",
+      "updates": []
+    },
     {
       "id": "92547",
       "datetime": "2026.10.04. 14:27",
