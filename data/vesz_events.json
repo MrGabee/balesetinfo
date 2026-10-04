@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T12:40:33.302818+00:00",
-  "count": 2988,
+  "updated_at": "2026-10-04T12:44:08.160556+00:00",
+  "count": 2989,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92550",
+      "datetime": "2026.10.04. 14:43",
+      "title": "Kamionnal karambolozott egy személyautó az M5-ösön, Ócsánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92550",
+      "lead": "Egy sávon halad a forgalom a főváros felé vezető irányban.",
+      "body": "Egy kamion és egy személyautó ütközött össze az M5-ös autópálya 31-es kilométerszelvényénél, Ócsa térségében, a Budapest felé vezető irányban. A dabasi hivatásos tűzoltók áramtalanították mindkét járművet, amelyekben összesen négyen utaztak. Az érintett pályaszakaszon egy sávon halad a forgalom a karambol miatt.",
+      "location": "Ócsa, M5",
+      "updates": []
+    },
     {
       "id": "92549",
       "datetime": "2026.10.04. 14:38",
