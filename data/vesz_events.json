@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T09:20:53.325485+00:00",
-  "count": 2977,
+  "updated_at": "2026-10-04T09:24:45.564857+00:00",
+  "count": 2978,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92539",
+      "datetime": "2026.10.04. 11:23",
+      "title": "Két autó karambolozott Dunapatajon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92539",
+      "lead": "Félpályán lezárták a Hartai út érintett szakaszát.",
+      "body": "Összeütközött két gépkocsi Dunapatajon, az 51-es főút Hartai úti szakaszán, a 103-as kilométerszelvény közelében. Hárman utaztak összesen a járművekben, amelyeket a kalocsai hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán lezárták az érintett útszakaszt.",
+      "location": "Dunapataj, Hartai út",
+      "updates": []
+    },
     {
       "id": "92538",
       "datetime": "2026.10.04. 10:15",
