@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T07:40:36.830263+00:00",
-  "count": 2974,
+  "updated_at": "2026-10-04T07:44:15.003759+00:00",
+  "count": 2975,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92536",
+      "datetime": "2026.10.04. 09:43",
+      "title": "Tanya égett Tiszakécskén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92536",
+      "lead": "A tűzoltók három vízsugárral fékezték meg a lángokat.",
+      "body": "Egy tanya égett le teljesen Tiszakécske külterületén, a Székhalom dűlőnél. A kecskeméti hivatásos és a tiszakécskei önkormányzati tűzoltók három vízsugárral dolgoztak a lángok megfékezésén. A munkálatok közben kihoztak az épületből két gázpalackot, amelyeket nem ért hőhatás. Az esethez a társhatóságok is kiérkeztek, valamint az egységek az áramszolgáltató szakembereit is a helyszínre kérték.",
+      "location": "Tiszakécske, Székhalom dűlő",
+      "updates": []
+    },
     {
       "id": "92535",
       "datetime": "2026.10.04. 09:38",
