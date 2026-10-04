@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-04T11:18:20.347145+00:00",
-  "count": 2982,
+  "updated_at": "2026-10-04T11:21:28.685635+00:00",
+  "count": 2983,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92544",
+      "datetime": "2026.10.04. 13:18",
+      "title": "Két autó karambolozott Hajdúnánáson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92544",
+      "lead": "Forgalmi akadály van az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi Hajdúnánáson, az Attila utca, a Dorogi utca és a Magyar utca kereszteződésében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen hárman utaztak. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Hajdúnánás, Attila utca",
+      "updates": []
+    },
     {
       "id": "92543",
       "datetime": "2026.10.04. 12:53",
