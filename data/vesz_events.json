@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T15:26:51.643926+00:00",
-  "count": 3021,
+  "updated_at": "2026-10-05T15:30:14.081991+00:00",
+  "count": 3022,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92583",
+      "datetime": "2026.10.05. 17:29",
+      "title": "Kigyulladt egy traktor Sorkifalud külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92583",
+      "lead": "A mezőgazdasági járművön kívül tüzet fogott a környező vegetáció is.",
+      "body": "Kigyulladt egy traktor és az általa vontatott rendsodró Sorkifalud külterületén. A szombathelyi hivatásos tűzoltók fékezték meg a lángokat. A mezőgazdasági járművön kívül égett nagyjából ötszáz négyzetméteren a tarló is. A területet körbe is tárcsázták.",
+      "location": "Sorkifalud, külterület",
+      "updates": []
+    },
     {
       "id": "92582",
       "datetime": "2026.10.05. 17:17",
