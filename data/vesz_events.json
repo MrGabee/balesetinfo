@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T14:26:24.509632+00:00",
-  "count": 3014,
+  "updated_at": "2026-10-05T14:29:43.476827+00:00",
+  "count": 3015,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92576",
+      "datetime": "2026.10.05. 16:27",
+      "title": "Hétvégi ház gyulladt ki Tatabányán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92576",
+      "lead": "A város déli végén, az Újtelepen volt szükség tűzoltói beavatkozásra.",
+      "body": "Egy nagyjából huszonöt négyzetméteres hétvégi ház égett teljes terjedelmében Tatabányán, az Újtelepen. A város hivatásos tűzoltói két vízsugárral oltották el a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Tatabánya, Bana Mihály utca",
+      "updates": []
+    },
     {
       "id": "92575",
       "datetime": "2026.10.05. 16:03",
