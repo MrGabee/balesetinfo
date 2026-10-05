@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T14:58:04.799984+00:00",
-  "count": 3017,
+  "updated_at": "2026-10-05T15:02:13.806367+00:00",
+  "count": 3018,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92579",
+      "datetime": "2026.10.05. 17:02",
+      "title": "Három autó karambolozott Budapest harmadik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92579",
+      "lead": "Az Aranyvölgy utcában történt a baleset.",
+      "body": "Összeütközött három személykocsi a főváros harmadik kerületében, az Aranyvölgy utcában. A járművekben összesen hatan utaztak, a helyszínre mentőt is riasztottak. A fővárosi hivatásos tűzoltók vonultak az esethez. A baleset akadályozza a forgalmat, ez érinti a közösségi közlekedést is.",
+      "location": "Budapest, Aranyvölgy utca",
+      "updates": []
+    },
     {
       "id": "92578",
       "datetime": "2026.10.05. 16:56",
