@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T10:14:53.073166+00:00",
-  "count": 3010,
+  "updated_at": "2026-10-05T10:18:31.628714+00:00",
+  "count": 3011,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92572",
+      "datetime": "2026.10.05. 12:15",
+      "title": "Tűz volt Pándon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92572",
+      "lead": "A Fő úton száraz fű gyulladt ki, a lángok elértek egy garázst is.",
+      "body": "Kigyulladt a száraz fű egy pándi, Fő úti telken, a lángok átterjedtek egy garázsra is, illetve átjutottak a szomszédos telekre is. Az oltást a lakók kezdték meg, majd a nagykátai hivatásos és a helyi önkéntes tűzoltók folytatták. Az egységek két vízsugárral fékezték meg a lángokat, illetve oltották el a garázs tüzét. A rajok már az utómunkálatoknál tartanak.",
+      "location": "Pánd, Fő út",
+      "updates": []
+    },
     {
       "id": "92571",
       "datetime": "2026.10.05. 11:56",
