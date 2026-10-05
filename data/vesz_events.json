@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T09:44:42.455457+00:00",
-  "count": 3008,
+  "updated_at": "2026-10-05T09:47:54.504756+00:00",
+  "count": 3009,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92570",
+      "datetime": "2026.10.05. 11:45",
+      "title": "Baleset történt a 81-es főúton, Ászár közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92570",
+      "lead": "Az 51-es kilométernél fának rohant egy személykocsi.",
+      "body": "Letért az úttestről és fának csapódott egy autó a 81-es főúton, Ászár közelében. A kisbéri hivatásos tűzoltókat riasztották az esethez, amelynél ott vannak a mentőszolgálat munkatársai is. A főút érintett szakaszán félpályán lehet közlekedni, a forgalom torlódik.",
+      "location": "Ászár, 81",
+      "updates": []
+    },
     {
       "id": "92569",
       "datetime": "2026.10.05. 10:33",
