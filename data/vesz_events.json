@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-05T06:15:38.821335+00:00",
-  "count": 3002,
+  "updated_at": "2026-10-05T06:19:20.349462+00:00",
+  "count": 3003,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92564",
+      "datetime": "2026.10.05. 08:16",
+      "title": "Összeütközött két autó Szombathely belvárosában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92564",
+      "lead": "A Hunyadi János útra riasztották a tűzoltókat.",
+      "body": "Két személykocsi karambolozott Szombathelyen, a Hunyadi János úton. Mindkét járműben csak a sofőr ült, a helyszínre mentőt riasztottak. A megyeszékhely hivatásos tűzoltói avatkoznak be. A négysávos úton két sávon halad a forgalom, torlódásra kell számítani.",
+      "location": "Szombathely, Hunyadi János út",
+      "updates": []
+    },
     {
       "id": "92563",
       "datetime": "2026.10.05. 08:14",
       "title": "Összeütközött két autó Jászfényszarun",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92563",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy sávon halad a forgalom a József Attila út érintett szakaszán.",
+      "body": "Két gépkocsi karambolozott Jászfényszarun, a József Attila úton, a Rákóczi út közelében. Csak a vezetők utaztak a járművekben, amelyeket a település önkéntes tűzoltói áramtalanítottak. Az esethez a jászberényi hivatásos tűzoltók és a társhatóságok is kiérkeztek. A forgalom egy sávon, irányítás mellett halad az érintett útszakaszon.",
+      "location": "Jászfényszaru, József Attila út",
       "updates": []
     },
     {
@@ -437,7 +448,16 @@
       "lead": "Egy ember beszorult, őt a tűzoltók szabadítják ki.",
       "body": "Szalagkorlát alá szorult egy személyautó Bükkszentkereszt és Miskolc között, a 2505-ös út 39-es kilométerénél. A baleset során egy ember beszorult a járműbe, őt a diósgyőri hivatásos tűzoltók szabadítják ki. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
       "location": "Bükkszentkereszt, 2505",
-      "updates": []
+      "updates": [
+        {
+          "title": "Kiszabadították a Bükkszentkereszt és Miskolc között autóba szorult embert",
+          "datetime": "2026.10.03. 19:54",
+          "category": "Közlekedési baleset",
+          "text": "A diósgyőri hivatásos tűzoltók kiszabadították és átadták a mentőknek azt az embert, aki beszorult a személyautóba, miután a szalagkorlát alá szorult a járművel Bükkszentkereszt és Miskolc között, a 2505-ös út 39-es kilométerénél. A raj feszítőhengert is használ a beavatkozás során. A műszaki mentés ideje alatt az érintett útszakaszon forgalmi akadály volt az érintett útszakaszon.",
+          "location": "Bükkszentkereszt, 2505",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92526/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92526"
+        }
+      ]
     },
     {
       "id": "92525",
