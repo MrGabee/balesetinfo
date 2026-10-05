@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T13:43:14.302203+00:00",
-  "count": 3012,
+  "updated_at": "2026-10-05T13:47:21.157769+00:00",
+  "count": 3013,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92574",
+      "datetime": "2026.10.05. 15:46",
+      "title": "Autó és motorok balesete Budapesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92574",
+      "lead": "Az első kerületbe, az Attila út és az Apród utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Két motorral karambolozott egy személykocsi Budapest első kerületében, az Attila út és az Apród utca kereszteződésében. Az autóban csak a sofőr utazott, ki tudott szállni a kocsiból. A motorok egyikén ketten ültek, a másik kétkerekű járművön csak egy ember utazott. A motorosokhoz mentő érkezett. A fővárosi hivatásos tűzoltók vonultak a helyszínre. A baleset miatt az Attila úton átmenetileg csak egy sáv járható.",
+      "location": "Budapest, Attila út",
+      "updates": []
+    },
     {
       "id": "92573",
       "datetime": "2026.10.05. 12:32",
@@ -183,9 +194,9 @@
       "title": "Hármas karambol történt az M4-esen, Monornál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92558",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A leállósávban halad a forgalom a Budapest felé vezető irányban.",
+      "body": "Három gépkocsi ütközött össze az M4-es autóút 34-es kilométerszelvényénél, Monor térségében, a Budapest felé vezető irányban. A monori hivatásos tűzoltók áramtalanítják a járműveket. A baleset miatt forgalmi akadály alakult ki, a leállósávban halad a közlekedés az érintett útszakaszon.",
+      "location": "Monor, M4",
       "updates": []
     },
     {
@@ -238,9 +249,9 @@
       "title": "Lesodródott az útról egy autó Szajol és Tiszapüspöki határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92553",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A kocsi kigyulladt, a tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Lesodródott az úttestről, majd kidöntött egy fát egy gépkocsi Szajol és Tiszapüspöki határában, a Püspöki út és a Vízparti dűlő találkozásánál. A baleset következtében a jármű kigyulladt, és a környezetében a fás, cserjés aljnövényzet is égni kezdett. A szolnoki hivatásos tűzoltók két vízsugárral és kéziszerszámokkal eloltották a lángokat, majd az utómunkálatok közben láncfűrésszel megkezdték a kidőlt fa eltávolítását.",
+      "location": "Szajol, Püspöki út",
       "updates": []
     },
     {
@@ -249,9 +260,9 @@
       "title": "Motoros és autós karambolozott Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92552",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eltávolították az úttestre került szennyeződést.",
+      "body": "Motorkerékpárossal ütközött össze egy személyautó Tatabányán, az 1-es főút és a Tolnai utca kereszteződésében. A motoron ketten utaztak, az autóban csak a vezetője. A balesethez a tatabányai hivatásos tűzoltók mellett a társhatóságok is kiérkeztek, az egység eltávolította az úttestre került szennyeződést.",
+      "location": "Tatabánya, Tolnai utca",
       "updates": []
     },
     {
@@ -260,9 +271,9 @@
       "title": "Autónak ütközött egy motoros a 25-ösön, Szentdomonkosnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92551",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályás útlezárás mellett dolgoznak a hatóságok.",
+      "body": "Az előtte haladó gépkocsinak ütközött egy motorkerékpáros a 25-ös főút 48-as kilométerszelvényénél, Szentdomonkos térségében. A motoron csak a vezetője tartózkodott, míg az autóban ketten utaztak. Az egri hivatásos tűzoltók a kétkerekű járművet áramtalanították. A balesethez az egység mellett a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Szentdomonkos, 25",
       "updates": []
     },
     {
@@ -271,9 +282,9 @@
       "title": "Kamionnal karambolozott egy személyautó az M5-ösön, Ócsánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92550",
-      "lead": "Egy sávon halad a forgalom a főváros felé vezető irányban.",
-      "body": "Egy kamion és egy személyautó ütközött össze az M5-ös autópálya 31-es kilométerszelvényénél, Ócsa térségében, a Budapest felé vezető irányban. A dabasi hivatásos tűzoltók áramtalanították mindkét járművet, amelyekben összesen négyen utaztak. Az érintett pályaszakaszon egy sávon halad a forgalom a karambol miatt.",
-      "location": "Ócsa, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -315,9 +326,9 @@
       "title": "Ráfutásos baleset történt az M3-ason, Atkárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92546",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A külső sávban és a leállósávban forgalmi akadály van a főváros felé vezető irányban.",
+      "body": "Ráfutásos balesetet szenvedett három gépkocsi az M3-as autópálya 69-es és 70-es kilométerszelvénye között, Atkár térségében, a Budapest felé vezető irányban. Összesen kilencen utaztak a járművekben, amelyek közül egyet a gyöngyösi hivatásos tűzoltók áramtalanítottak. A baleset miatt a külső sávban és a leállósávban forgalmi akadályra kell számítani az érintett pályaszakaszon.",
+      "location": "Atkár, M3",
       "updates": []
     },
     {
