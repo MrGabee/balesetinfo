@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T14:01:30.652473+00:00",
-  "count": 3013,
+  "updated_at": "2026-10-05T14:04:41.104682+00:00",
+  "count": 3014,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92575",
+      "datetime": "2026.10.05. 16:03",
+      "title": "Egymásba rohant két autó Kiskunmajsa és Kiskunhalas között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92575",
+      "lead": "A tűzoltókat az 5402-es útra, a zsanai gáztározóhoz vezető bekötőúthoz riasztották.",
+      "body": "Két személykocsi karambolozott az 5402-es út 38-39-es kilométere között, a zsanai tározóhoz vezető bekötőútnál. A Kiskunmajsa és Kiskunhalas között történt balesethez mindkét városból érkezett hivatásos tűzoltó egység, a rajok áramtalanítottak. Az egyik járműben hárman ültek, ki tudtak szállni gépkocsijukból, elhagyták a helyszínt. A másik autóban csak a sofőr ült, ő beszorult a járműbe, a tűzoltók szabadították ki. A baleset miatt az érintett útszakaszt egy időre teljes szélességében lezárták.",
+      "location": "Kiskunmajsa, 5402",
+      "updates": []
+    },
     {
       "id": "92574",
       "datetime": "2026.10.05. 15:46",
