@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T08:41:33.282980+00:00",
+  "updated_at": "2026-10-05T08:45:32.350141+00:00",
   "count": 3008,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Melléképület gyulladt ki Patakon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92569",
-      "lead": "A tűzoltókat a Dankó útra riasztották.",
-      "body": "Kigyulladt egy nagyjából húsz négyzetméteres melléképület Patakon, a Dankó úton. Az építményben berendezési tárgyak, bútorok égtek, és teljes terjedelmében lángolt a tetőszerkezet is. A tűz meggyújtotta a melléképület melletti száraz füvet, szemetet is. A helyszínre balassagyarmati és rétsági hivatásos, valamint az érsekvadkerti önkéntes tűzoltók vonultak. Az egységek két vízsugárral eloltották a lángokat.",
-      "location": "Patak, Dankó út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -183,9 +183,9 @@
       "title": "Két autó karambolozott Gyömrőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92554",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi karambolozott Gyömrőn, a Szent István út és a Tompa utca kereszteződésében. A járművekben összesen hárman utaztak. A gyömrői önkéntes tűzoltók áramtalanították mindkét autót.",
+      "location": "Gyömrő, Szent István út",
       "updates": []
     },
     {
@@ -293,9 +293,9 @@
       "title": "Két autó karambolozott Hajdúnánáson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92544",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi Hajdúnánáson, az Attila utca, a Dorogi utca és a Magyar utca kereszteződésében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen hárman utaztak. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Hajdúnánás, Attila utca",
       "updates": []
     },
     {
@@ -348,9 +348,9 @@
       "title": "Két autó karambolozott Dunapatajon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92539",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták a Hartai út érintett szakaszát.",
+      "body": "Összeütközött két gépkocsi Dunapatajon, az 51-es főút Hartai úti szakaszán, a 103-as kilométerszelvény közelében. Hárman utaztak összesen a járművekben, amelyeket a kalocsai hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán lezárták az érintett útszakaszt.",
+      "location": "Dunapataj, Hartai út",
       "updates": []
     },
     {
