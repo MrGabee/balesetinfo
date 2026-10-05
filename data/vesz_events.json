@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T15:02:13.806367+00:00",
-  "count": 3018,
+  "updated_at": "2026-10-05T15:07:04.473460+00:00",
+  "count": 3019,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92580",
+      "datetime": "2026.10.05. 17:05",
+      "title": "Autó égett Érden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92580",
+      "lead": "A Béke téren a város tűzoltói avatkoztak be.",
+      "body": "Tűz keletkezett egy személykocsi motorterében Érden, a Béke téren. Az autóban ketten utaztak, ki tudtak szállni a kocsiból. A tüzet még a város hivatásos tűzoltóinak megérkezése előtt az arra járók megfékezték, az egység a végleges oltást végezte el, illetve hőkamerával átvizsgálta az autót.",
+      "location": "Érd, Béke tér",
+      "updates": []
+    },
     {
       "id": "92579",
       "datetime": "2026.10.05. 17:02",
