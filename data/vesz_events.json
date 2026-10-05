@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T09:54:37.206115+00:00",
-  "count": 3009,
+  "updated_at": "2026-10-05T09:57:24.860731+00:00",
+  "count": 3010,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92571",
+      "datetime": "2026.10.05. 11:56",
+      "title": "Karambol a 4-esen, Kaba szélén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92571",
+      "lead": "A 190-es kilométernél, a vasúti átjárónál egy kisteherautó és egy személykocsi ütközött össze.",
+      "body": "Egymásba hajtott egy téglát szállító kisteherautó és egy hibrid meghajtású személykocsi a 4-es főút 190-es kilométerénél, Kaba határában. A nagyobbik járműben csak a sofőr ült, az autónak három utasa volt, mentő is érkezett a helyszínre. A kabai önkéntes tűzoltók végzik a műszaki mentést. A főút érintett szakaszán félpályán, rendőri irányítás mellett halad a forgalom.",
+      "location": "Kaba, 4",
+      "updates": []
+    },
     {
       "id": "92570",
       "datetime": "2026.10.05. 11:45",
