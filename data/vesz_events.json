@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T17:36:30.798893+00:00",
-  "count": 3024,
+  "updated_at": "2026-10-05T17:39:59.432069+00:00",
+  "count": 3025,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92586",
+      "datetime": "2026.10.05. 19:38",
+      "title": "Gázcsonkot tört ki egy jármű Pusztavámon",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92586",
+      "lead": "A történtek miatt tizenegy embert menekítettek ki a környező házakból.",
+      "body": "Tolatás közben kitört egy harminckét milliméteres gázcsonkot egy kis traktor Pusztavámon, a Kossuth Lajos utcában. A móri önkormányzati tűzoltók a helyszíntől jobbra és balra lévő három-három házból összesen tizenegy embert vittek biztonságos helyre, az épületeket áramtalanították is. Az egység védősugarat is szerelt. A tűzoltók légzésvédelem mellett körbeásták, majd a feszítővágóval elszorították a gázcsövet. A helyszínre várják a gázművek szakembereit.",
+      "location": "Pusztavám, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92585",
       "datetime": "2026.10.05. 18:31",
