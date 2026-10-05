@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T15:50:42.031041+00:00",
-  "count": 3022,
+  "updated_at": "2026-10-05T15:54:01.373218+00:00",
+  "count": 3023,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92584",
+      "datetime": "2026.10.05. 17:51",
+      "title": "Tűz keletkezett egy nyírgelsei falfeldolgozó cég telephelyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584",
+      "lead": "Jelentős mennyiségű fagally, faapríték kapott lángra.",
+      "body": "Meggyulladt a felhalmozott gally, apríték Nyírgelse külterületén, egy fafeldolgozó cég telephelyén. A több száz köbméteres rakat egyik része ég, nyírbátori és adonyi hivatásos, illetve szakolyi önkormányzati tűzoltók vízsugarakkal oltanak. A tűzoltók munkáját három erőgép is segíti, ezekkel széthúzzák a rakatot, hogy elválasszák az égő és az érintetlen részeket egymástól.",
+      "location": "Nyírgelse, külterület",
+      "updates": []
+    },
     {
       "id": "92583",
       "datetime": "2026.10.05. 17:29",
