@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T15:17:05.260497+00:00",
-  "count": 3020,
+  "updated_at": "2026-10-05T15:20:55.718666+00:00",
+  "count": 3021,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92582",
+      "datetime": "2026.10.05. 17:17",
+      "title": "Három autó karambolozott Budapest tizedik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92582",
+      "lead": "A Száva és a Basa utca kereszteződésének közelében történt a baleset.",
+      "body": "Három személykocsi ütközött össze Budapesten, a Száva utca és a Basa utca kereszteződésének közelében. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket, az esethez mentő is érkezett. Mivel a burkolatra nagyobb mennyiségű olaj került, a helyszínre várják a közterületfenntartó munkatársait is.",
+      "location": "Budapest, Száva utca",
+      "updates": []
+    },
     {
       "id": "92581",
       "datetime": "2026.10.05. 17:11",
