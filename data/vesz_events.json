@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T07:56:54.791154+00:00",
-  "count": 3006,
+  "updated_at": "2026-10-05T08:00:29.870644+00:00",
+  "count": 3007,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92568",
+      "datetime": "2026.10.05. 09:59",
+      "title": "Busz és autó karambolozott a 66-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92568",
+      "lead": "A 30-31-es kilométer között, Sásd közelében történt a baleset.",
+      "body": "Egymásba hajtott egy autóbusz és egy személykocsi a 66-os főúton, Sásd és Baranyajenő között, előbbi település közelében. A buszon tizennégyen utaztak, az autóban két ember ült, a helyszínre mentő is érkezett. A sásdi katasztrófavédelmi őrs hivatásos tűzoltói áramtalanították az autót. A főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Sásd, 66",
+      "updates": []
+    },
     {
       "id": "92567",
       "datetime": "2026.10.05. 08:33",
@@ -31,9 +42,9 @@
       "title": "Baleset történt a XI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92565",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították az egyik járművet.",
+      "body": "Összeütközött két gépkocsi a XI. kerületi Hunyadi János úton, az Építész utca és a Vegyész utca közötti szakaszon. A fővárosi hivatásos tűzoltók az egyik járművet áramtalanították, a másik kocsi helyzetét stabilizálták. Az egység a mentők értesítését kérte.",
+      "location": "Budapest, Hunyadi János út",
       "updates": []
     },
     {
@@ -348,9 +359,9 @@
       "title": "Hármas karambol történt Cegléden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92537",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki a Budai út érintett szakaszán.",
+      "body": "Három gépkocsi karambolozott Cegléden, a Budai úton, a Must utca és a Gőz dűlő közötti szakaszon. Az ütközés következtében az egyik jármű a tetejére borult. A ceglédi hivatásos tűzoltók áramtalanították a forgalmi akadályt okozó autókat. A balesethez a társhatóságok is megérkeztek.",
+      "location": "Cegléd, Budai út",
       "updates": []
     },
     {
