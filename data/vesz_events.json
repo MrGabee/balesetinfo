@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T14:33:30.701966+00:00",
-  "count": 3015,
+  "updated_at": "2026-10-05T14:37:05.364423+00:00",
+  "count": 3016,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92577",
+      "datetime": "2026.10.05. 16:34",
+      "title": "Kigyulladt egy garázs Óhídon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92577",
+      "lead": "A Petőfi útra zalaszentgróti és keszthelyi tűzoltókat riasztottak.",
+      "body": "Tűz ütött ki egy óhídi, Petőfi úti garázsban. A nagyjából húsz négyzetméteres építményből ki tudtak állni az ott tárolt járművel. A zalaszentgróti önkormányzati és a keszthelyi hivatásos tűzoltók vízsugarakkal eloltották a lángokat. A garázsban – ahol fűnyíró traktor és kéziszerszámok is voltak – az egységek három, felhasadt palackot is találtak. A tűz a családi házra nem terjedt át.",
+      "location": "Óhíd, Petőfi út",
+      "updates": []
+    },
     {
       "id": "92576",
       "datetime": "2026.10.05. 16:27",
