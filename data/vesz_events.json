@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T09:20:57.392822+00:00",
+  "updated_at": "2026-10-05T09:24:33.871877+00:00",
   "count": 3008,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Összeütközött két autó Jászfényszarun",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92563",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy sávon halad a forgalom a József Attila út érintett szakaszán.",
+      "body": "Két gépkocsi karambolozott Jászfényszarun, a József Attila úton, a Rákóczi út közelében. Csak a vezetők utaztak a járművekben, amelyeket a település önkéntes tűzoltói áramtalanítottak. Az esethez a jászberényi hivatásos tűzoltók és a társhatóságok is kiérkeztek. A forgalom egy sávon, irányítás mellett halad az érintett útszakaszon.",
+      "location": "Jászfényszaru, József Attila út",
       "updates": []
     },
     {
@@ -122,7 +122,16 @@
       "lead": "Egy fatároló épület leégett a tűz következtében.",
       "body": "Egy hatvan négyzetméteres, autószerelő műhelynek használt melléképület, egy húsz négyzetméteres fatároló, és a környezetében az aljnövényzet gyulladt ki Kutason, a Szellő utcában. A műhelyben egy emelőn álló gépkocsi is található. A nagyatádi hivatásos, a böhönyei önkormányzati és a nagybajomi önkéntes tűzoltók öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. A tűz következtében a fatároló már teljesen leégett, a műhely teteje leszakadt. Az egységek folytatják a munkálatokat.",
       "location": "Kutas, Szellő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kutason",
+          "datetime": "2026.10.05. 02:02",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Kutason, ahol egy hatvan négyzetméteres, autószerelő műhelynek használt melléképület, egy húsz négyzetméteres fatároló, és a környezetében az aljnövényzet gyulladt ki a Szellő utcában. A műhelyben egy emelőn állt egy gépkocsi is. A tűz következtében a fatároló teljesen leégett, a műhely teteje leszakadt. A nagyatádi hivatásos, a böhönyei önkormányzati és a nagybajomi önkéntes tűzoltók öt vízsugárral dolgoztak a tűz megfékezésén, jelenleg az utómunkálatokat végzik.",
+          "location": "Kutas, Szellő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92559"
+        }
+      ]
     },
     {
       "id": "92558",
@@ -174,9 +183,9 @@
       "title": "Két autó karambolozott Gyömrőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92554",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi karambolozott Gyömrőn, a Szent István út és a Tompa utca kereszteződésében. A járművekben összesen hárman utaztak. A gyömrői önkéntes tűzoltók áramtalanították mindkét autót.",
+      "location": "Gyömrő, Szent István út",
       "updates": []
     },
     {
@@ -436,9 +445,9 @@
       "title": "Pincetűz Csengeren",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92531",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy lakóházzal egybeépített melléképület, Csengeren, az Ady Endre utcában. A melléképület hét négyzetméteres pincéje égett, amelyben mintegy három mázsa fát, illetve papírt tároltak. A tűz egy ajtófélfára is átterjedt. A csengeri önkormányzati tűzoltók oltották el a lángokat.",
+      "location": "Csenger, Ady Endre utca",
       "updates": []
     },
     {
