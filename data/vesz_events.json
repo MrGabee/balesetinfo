@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T10:32:34.331320+00:00",
-  "count": 3011,
+  "updated_at": "2026-10-05T10:36:16.170774+00:00",
+  "count": 3012,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92573",
+      "datetime": "2026.10.05. 12:32",
+      "title": "Kigyulladt egy konyha Sárváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92573",
+      "lead": "A Kisfaludy Sándor utcai lángokat a tűzhelyen felejtett olaj okozta.",
+      "body": "Meggyulladt a tűzhelyen lévő olaj egy sárvári, Kisfaludy Sándor utcai családi ház konyhájában. A tűz elérte a berendezés feletti páraelszívót is. Mire a város hivatásos tűzoltói a helyszínre értek, a lángok már kialudtak. Az egységek átszellőztették a füsttel telítődő épületet. A ház lakójához mentő érkezett. A helyszínre mentek a gázszolgáltató szakemberei is.",
+      "location": "Sárvár, Kisfaludy Sándor utca",
+      "updates": []
+    },
     {
       "id": "92572",
       "datetime": "2026.10.05. 12:15",
