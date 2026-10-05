@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-05T06:32:52.426276+00:00",
-  "count": 3005,
+  "updated_at": "2026-10-05T06:36:11.015191+00:00",
+  "count": 3006,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92567",
+      "datetime": "2026.10.05. 08:33",
+      "title": "Baleset történt Páty határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92567",
+      "lead": "A 1102-es út 6-os kilométerénél árokba hajtott egy autó.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi Páty határában. A 1102-es út 6-os kilométerénél történt balesethez elsőként a helyi önkéntes tűzoltók érkeztek ki, majd a törökbálinti hivatásos tűzoltók is a helyszínre értek. Az autóban csak annak vezetője ült, a sofőr ki tudott szállni a kocsiból.",
+      "location": "Páty, 1102",
+      "updates": []
+    },
     {
       "id": "92566",
       "datetime": "2026.10.05. 08:32",
       "title": "Újabb baleset történt Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92566",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett kereszteződést a karambol miatt.",
+      "body": "Újabb baleset történt Kecskeméten, a Teleki László utca és a Széchenyi körút kereszteződésében ütközött össze két gépjármű. Összesen négyen utaztak a karambolos járművekben. A kecskeméti hivatásos tűzoltók megkezdték a munkálatokat, amelynek idejére félpályán lezárták az érintett útszakaszt.",
+      "location": "Kecskemét, Széchenyi körút",
       "updates": []
     },
     {
