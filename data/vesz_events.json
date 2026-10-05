@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T06:05:16.731224+00:00",
-  "count": 2999,
+  "updated_at": "2026-10-05T06:08:18.570112+00:00",
+  "count": 3000,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92561",
+      "datetime": "2026.10.05. 08:05",
+      "title": "Kigyulladt egy autó motortere a 8-ason, Márkó és Veszprém között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92561",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Egy gépkocsi motortere égett a 8-as főút 59-es kilométerszelvényénél, Márkó és Veszprém között. A vezető időben el tudta hagyni a járművet, amelynek oltását a veszprémi hivatásos tűzoltók kiérkezése előtt egy porral oltóval megkezdték a helyszínen tartózkodók. Az egység a végeleges oltást egy vízsugárral fejezte be. A munkálatokat egy szolgálatból hazafelé tartó tűzoltó is segítette.",
+      "location": "Márkó, 8",
+      "updates": []
+    },
     {
       "id": "92560",
       "datetime": "2026.10.05. 01:24",
@@ -51,9 +62,9 @@
       "title": "Átszakította a szalagkorlátot egy autó a 47-esen, Hódmezővásárhelynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92557",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett útszakaszt.",
+      "body": "Átszakította a szalagkorlátot, majd áthajtott a másik sávba egy gépkocsi a 47-es főút 204-es kilométerszelvényénél, Hódmezővásárhely térségében. A két utas saját erejéből el tudta hagyni a járművet, amelyet a hódmezővásárhelyi hivatásos tűzoltók áramtalanítottak. A balesethez a mentők is kiérkeztek, a forgalom félpályán, irányítás mellett halad az érintett útszakaszon.",
+      "location": "Hódmezővásárhely, 47",
       "updates": []
     },
     {
@@ -335,9 +346,9 @@
       "title": "Kazánháztűz Mezőtúron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92532",
-      "lead": "A Köztársaság utcában csaptak fel a lángok.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy autószerelő műhely kazánháza Mezőtúron, a Köztársaság utcában. A tűz a szomszéd telekre is átterjedt. A helyi, a szarvasi és a kunszentmártoni hivatásos tűzoltók oltották el a lángokat. A Jász-Nagykun-Szolnok vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik. A rajok az utómunkálatokat végzik.",
-      "location": "Mezőtúr, Köztársaság utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
