@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T14:54:35.884173+00:00",
-  "count": 3016,
+  "updated_at": "2026-10-05T14:58:04.799984+00:00",
+  "count": 3017,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92578",
+      "datetime": "2026.10.05. 16:56",
+      "title": "Edelényben is kigyulladt egy garázs",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92578",
+      "lead": "Az Újtemplom útra szendrői és kazincbarcikai tűzoltók vonultak.",
+      "body": "Kigyulladt egy edelényi, Újtemplom úti garázs. A nagyjából tízszer tíz méteres épület tetőszerkezete teljes terjedelmében lángol. Az esethez kazincbarcikai és szendrői hivatásos tűzoltók vonultak, az egységek két vízsugárral oltják a tüzet.",
+      "location": "Edelény, Újtemplom út",
+      "updates": []
+    },
     {
       "id": "92577",
       "datetime": "2026.10.05. 16:34",
