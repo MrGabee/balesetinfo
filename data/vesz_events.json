@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T16:30:40.176234+00:00",
-  "count": 3023,
+  "updated_at": "2026-10-05T16:34:03.263694+00:00",
+  "count": 3024,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92585",
+      "datetime": "2026.10.05. 18:31",
+      "title": "Kazánház gyulladt ki Mezőcsáton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92585",
+      "lead": "Helyi és tiszaújvárosi tűzoltók vonultak az esethez.",
+      "body": "Kigyulladt egy családi házhoz épített kazánház Mezőcsáton, a Pozsonyi utcában. Az esethez a helyi katasztrófavédelmi őrs hivatásos tűzoltói, a település önkéntesei, illetve a tiszaújvárosi hivatásos tűzoltók vízszállítója vonult. A tűzoltók vízsugárral oltják a tüzet. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Mezőcsát, Pozsonyi utca",
+      "updates": []
+    },
     {
       "id": "92584",
       "datetime": "2026.10.05. 17:51",
