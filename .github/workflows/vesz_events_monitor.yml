@@ -6,17 +6,50 @@ on:
     types: [vesz_events_trigger]
   schedule:
     # Biztonsági háló: ha az önindító lánc bármi okból megszakadna
-    # (pl. GitHub API hiba), ez legkésőbb 15 percen belül újraindítja.
-    - cron: '*/1 * * * *'
-
-concurrency:
-  group: vesz-events
-  cancel-in-progress: false
+    # (pl. GitHub API hiba vagy elveszett runner), ez legkésőbb kb.
+    # 15 percen belül újraindítja. Ha a frissítés már fut, nem csinál semmit.
+    - cron: '*/15 * * * *'
 
 jobs:
-  frissit:
+  ellenor:
+    # Csak az időzített futásnál: megnézi, fut-e már a frissítő ciklus
+    if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 2
+    permissions:
+      actions: read
+    outputs:
+      mar_fut: ${{ steps.ellenor.outputs.mar_fut }}
+    steps:
+      - name: 🔎 Fut már a frissítés?
+        id: ellenor
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DB=0
+          for allapot in in_progress queued; do
+            N=$(gh api "repos/${{ github.repository }}/actions/workflows/vesz_events_monitor.yml/runs?status=$allapot&per_page=20" \
+              --jq "[.workflow_runs[] | select(.id != ${{ github.run_id }})] | length" || echo 0)
+            DB=$((DB + N))
+          done
+          echo "Másik futó/sorban álló frissítés: $DB"
+          if [ "$DB" -gt 0 ]; then
+            echo "mar_fut=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "mar_fut=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  frissit:
+    needs: ellenor
+    if: always() && (github.event_name != 'schedule' || needs.ellenor.outputs.mar_fut == 'false')
+    runs-on: ubuntu-latest
+    # Egy futás kb. 5,5 órán át ciklusban frissít, utána indítja a következőt.
+    # Így naponta ~5 futás van ~400 helyett, és sokkal kevesebb esélye van
+    # egy GitHub-oldali akadásnak (elveszett runner, API hiba) hibát okozni.
+    timeout-minutes: 350
+    concurrency:
+      group: vesz-events
+      cancel-in-progress: false
     permissions:
       contents: write
 
@@ -34,55 +67,63 @@ jobs:
       - name: 📦 Függőségek telepítése
         run: pip install requests beautifulsoup4
 
-      - name: 🚨 VÉSZ események lekérdezése
-        run: python fetch_vesz_events.py
-
-      - name: 💾 Adat commitolása
-        if: always()
+      - name: 🔁 VÉSZ események frissítése ciklusban
         run: |
+          # Egy-egy kör hibája (forrásoldal, git push) ne állítsa le a ciklust
+          set +e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if [ ! -f data/vesz_events.json ]; then
-            echo "Nincs adatfájl, nincs mit commitolni."
-            exit 0
-          fi
+          CIKLUS_MP=120
+          HATARIDO=$(( $(date +%s) + 330 * 60 ))
+          KOR=0
 
-          cp data/vesz_events.json /tmp/vesz_events_sajat.json
+          while [ "$(date +%s)" -lt "$HATARIDO" ]; do
+            KOR=$((KOR + 1))
+            KEZDES=$(date +%s)
+            echo "::group::Kör $KOR ($(date -u +%H:%M:%S) UTC)"
 
-          SIKERULT=0
-          for i in 1 2 3 4 5 6; do
-            echo "Push kísérlet $i/6..."
-            git fetch origin main
-            git reset --hard origin/main
-            mkdir -p data
-            cp /tmp/vesz_events_sajat.json data/vesz_events.json
-            git add data/vesz_events.json
-            if git diff --staged --quiet; then
-              echo "Nincs változás, kész."
-              SIKERULT=1
-              break
+            # Mindig a main legfrissebb állapotából indulunk (gyorsítótár)
+            git fetch -q origin main && git reset -q --hard origin/main
+
+            timeout 240 python fetch_vesz_events.py
+            PY_KOD=$?
+            if [ "$PY_KOD" != "0" ]; then
+              echo "⚠️ A lekérdezés hibával állt le (kód: $PY_KOD), következő körben újra."
+            elif [ -f data/vesz_events.json ]; then
+              cp data/vesz_events.json /tmp/vesz_events_sajat.json
+
+              for i in 1 2 3 4 5 6; do
+                git fetch -q origin main && git reset -q --hard origin/main
+                # Csak akkor commitolunk, ha az események ténylegesen
+                # változtak - a puszta updated_at időbélyeg-változás miatt
+                # nem indítunk feleslegesen Pages deployt
+                if [ -f data/vesz_events.json ] && cmp -s \
+                    <(jq -S 'del(.updated_at)' data/vesz_events.json) \
+                    <(jq -S 'del(.updated_at)' /tmp/vesz_events_sajat.json); then
+                  echo "Nincs érdemi változás."
+                  break
+                fi
+                mkdir -p data
+                cp /tmp/vesz_events_sajat.json data/vesz_events.json
+                git add data/vesz_events.json
+                git commit -q -m "vész események frissítve [skip ci]"
+                if git push -q origin HEAD:main; then
+                  echo "Push sikeres."
+                  break
+                fi
+                echo "Push ütközött, újrapróbálkozás ($i/6)..."
+                sleep $((RANDOM % 6 + 2))
+              done
             fi
-            git commit -m "vész események frissítve [skip ci]"
-            if git push origin HEAD:main; then
-              echo "Push sikeres."
-              SIKERULT=1
-              break
-            else
-              echo "Push ütközött, újrapróbálkozás..."
-              sleep $((RANDOM % 6 + 2))
+            echo "::endgroup::"
+
+            ELTELT=$(( $(date +%s) - KEZDES ))
+            if [ "$ELTELT" -lt "$CIKLUS_MP" ]; then
+              sleep $(( CIKLUS_MP - ELTELT ))
             fi
           done
-
-          if [ "$SIKERULT" != "1" ]; then
-            echo "⚠️ 6 próbálkozás után sem sikerült a push."
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-
-      - name: ⏱️ Várakozás
-        if: always()
-        run: sleep 90
+          exit 0
 
       - name: 🔄 Következő futás indítása
         if: always()
@@ -105,5 +146,5 @@ jobs:
             fi
           done
           if [ "$SIKERULT" != "1" ]; then
-            echo "❌ FIGYELEM: nem sikerült elindítani a következő futást! A schedule biztonsági háló legfeljebb 15 percen belül úgyis újraindítja."
+            echo "❌ Nem sikerült elindítani a következő futást, a 15 perces biztonsági háló indítja újra."
           fi
