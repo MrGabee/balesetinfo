@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T08:30:06.935227+00:00",
-  "count": 3007,
+  "updated_at": "2026-10-05T08:34:25.656252+00:00",
+  "count": 3008,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92569",
+      "datetime": "2026.10.05. 10:33",
+      "title": "Melléképület gyulladt ki Patakon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92569",
+      "lead": "A tűzoltókat a Dankó útra riasztották.",
+      "body": "Kigyulladt egy nagyjából húsz négyzetméteres melléképület Patakon, a Dankó úton. Az építményben berendezési tárgyak, bútorok égtek, és teljes terjedelmében lángolt a tetőszerkezet is. A tűz meggyújtotta a melléképület melletti száraz füvet, szemetet is. A helyszínre balassagyarmati és rétsági hivatásos, valamint az érsekvadkerti önkéntes tűzoltók vonultak. Az egységek két vízsugárral eloltották a lángokat.",
+      "location": "Patak, Dankó út",
+      "updates": []
+    },
     {
       "id": "92568",
       "datetime": "2026.10.05. 09:59",
@@ -172,9 +183,9 @@
       "title": "Két autó karambolozott Gyömrőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92554",
-      "lead": "A tűzoltók áramtalanították a járműveket.",
-      "body": "Két gépkocsi karambolozott Gyömrőn, a Szent István út és a Tompa utca kereszteződésében. A járművekben összesen hárman utaztak. A gyömrői önkéntes tűzoltók áramtalanították mindkét autót.",
-      "location": "Gyömrő, Szent István út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -238,9 +249,9 @@
       "title": "Két autó ütközött össze Kiskunmajsán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92548",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták a Gépállomás utca érintett szakaszát a baleset miatt.",
+      "body": "Két gépkocsi karambolozott Kiskunmajsán, a Gépállomás utca és a Béla király utca kereszteződésénél. Az egyik jármű vezetője saját erejéből ki tudott szállni, a másik kocsi vezetőjének a kiskunmajsai hivatásos tűzoltók nyújtottak segítséget, az egység feszítővágóval nyitotta ki az autó ajtaját. A tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, teljes útlezárás mellett dolgoznak.",
+      "location": "Kiskunmajsa, Gépállomás utca",
       "updates": []
     },
     {
@@ -337,9 +348,9 @@
       "title": "Két autó karambolozott Dunapatajon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92539",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták a Hartai út érintett szakaszát.",
+      "body": "Összeütközött két gépkocsi Dunapatajon, az 51-es főút Hartai úti szakaszán, a 103-as kilométerszelvény közelében. Hárman utaztak összesen a járművekben, amelyeket a kalocsai hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán lezárták az érintett útszakaszt.",
+      "location": "Dunapataj, Hartai út",
       "updates": []
     },
     {
