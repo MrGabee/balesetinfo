@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-05T15:10:33.728573+00:00",
-  "count": 3019,
+  "updated_at": "2026-10-05T15:13:38.857765+00:00",
+  "count": 3020,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92581",
+      "datetime": "2026.10.05. 17:11",
+      "title": "Kigyulladt egy busz Kapuváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92581",
+      "lead": "A távolsági járat a Veszkényi utcai temető szomszédságában fogott tüzet.",
+      "body": "Lángolt egy autóbusz Kapuváron, az Osli utcában, a temető közelében. Mire a helyi hivatásos tűzoltók a helyszínre értek, a járművezető civilek segítségével, porral oltóval eloltották a tüzet. Az egység visszahűtötte a motorteret. A járaton a sofőrön kívül hat utas tartózkodott, időben leszálltak a buszról.",
+      "location": "Kapuvár, Osli utca",
+      "updates": []
+    },
     {
       "id": "92580",
       "datetime": "2026.10.05. 17:05",
