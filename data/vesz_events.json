@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T11:41:31.304525+00:00",
-  "count": 3040,
+  "updated_at": "2026-10-06T11:45:10.610402+00:00",
+  "count": 3041,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92602",
+      "datetime": "2026.10.06. 13:43",
+      "title": "Kamion és személyautó ütközött Makón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92602",
+      "lead": "A Szegedi utca és az Árpád utca kereszteződésében történt a baleset.",
+      "body": "Kamion és személyautó ütközött össze Makón, a Szegedi utca és az Árpád utca kereszteződésében. A balesethez a helyi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Makó, Árpád utca",
+      "updates": []
+    },
     {
       "id": "92601",
       "datetime": "2026.10.06. 13:04",
@@ -75,9 +86,9 @@
       "title": "Baleset történt Pakson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92595",
-      "lead": "A Tolnai úton félpályán halad a forgalom.",
-      "body": "Két személyautó ütközött össze Pakson, a Tolnai úton, a Kölesdi út közelében. A város hivatásos tűzoltói áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Paks, Tolnai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
