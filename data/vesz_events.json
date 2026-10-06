@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T12:55:02.280937+00:00",
+  "updated_at": "2026-10-06T12:58:25.745899+00:00",
   "count": 3043,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -241,16 +241,7 @@
       "lead": "Jelentős mennyiségű fagally, faapríték kapott lángra.",
       "body": "Meggyulladt a felhalmozott gally, apríték Nyírgelse külterületén, egy fafeldolgozó cég telephelyén. A több száz köbméteres rakat egyik része ég, nyírbátori és adonyi hivatásos, illetve szakolyi önkormányzati tűzoltók vízsugarakkal oltanak. A tűzoltók munkáját három erőgép is segíti, ezekkel széthúzzák a rakatot, hogy elválasszák az égő és az érintetlen részeket egymástól.",
       "location": "Nyírgelse, külterület",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Nyírgelsén",
-          "datetime": "2026.10.05. 19:27",
-          "category": "Tűzeset",
-          "text": "A település szélén egy faipari cég telephelyén jelentős mennyiségű fagally, faapríték kapott lángra. Nyírbátori, nyíradonyi és szakolyi tűzoltók több vízsugárral eloltották a lángokat, felszámolták az izzásokat. A munkát erőgépek segítették, amelyek megbontották a jelentős méretű rakatot. Az egységek eloltották a tüzet, már az utómunkálatokat végzik.",
-          "location": "Nyírgelse, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92584"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92583",
@@ -258,9 +249,9 @@
       "title": "Kigyulladt egy traktor Sorkifalud külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92583",
-      "lead": "A mezőgazdasági járművön kívül tüzet fogott a környező vegetáció is.",
-      "body": "Kigyulladt egy traktor és az általa vontatott rendsodró Sorkifalud külterületén. A szombathelyi hivatásos tűzoltók fékezték meg a lángokat. A mezőgazdasági járművön kívül égett nagyjából ötszáz négyzetméteren a tarló is. A területet körbe is tárcsázták.",
-      "location": "Sorkifalud, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -280,9 +271,9 @@
       "title": "Kigyulladt egy busz Kapuváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92581",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A távolsági járat a Veszkényi utcai temető szomszédságában fogott tüzet.",
+      "body": "Lángolt egy autóbusz Kapuváron, az Osli utcában, a temető közelében. Mire a helyi hivatásos tűzoltók a helyszínre értek, a járművezető civilek segítségével, porral oltóval eloltották a tüzet. Az egység visszahűtötte a motorteret. A járaton a sofőrön kívül hat utas tartózkodott, időben leszálltak a buszról.",
+      "location": "Kapuvár, Osli utca",
       "updates": []
     },
     {
