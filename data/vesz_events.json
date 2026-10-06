@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T17:51:45.445046+00:00",
-  "count": 3055,
+  "updated_at": "2026-10-06T17:55:12.882592+00:00",
+  "count": 3056,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92617",
+      "datetime": "2026.10.06. 19:53",
+      "title": "Lesodródott és fának ütközött egy autó a 46-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92617",
+      "lead": "Csárdaszállás közelében van szükség műszaki mentésre.",
+      "body": "Lesodródott és fának ütközött egy személyautó a 46-os főúton, Csárdaszállás közelében, az 57-es kilométerszelvénynél. A mezőberényi hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Csárdaszállás, 46",
+      "updates": []
+    },
     {
       "id": "92616",
       "datetime": "2026.10.06. 19:48",
