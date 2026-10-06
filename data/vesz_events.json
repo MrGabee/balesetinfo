@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T11:02:07.626681+00:00",
-  "count": 3039,
+  "updated_at": "2026-10-06T11:05:22.981089+00:00",
+  "count": 3040,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92601",
+      "datetime": "2026.10.06. 13:04",
+      "title": "Kigyulladt a száraz fű Felsőtárkány és Eger között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92601",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92600",
       "datetime": "2026.10.06. 12:59",
@@ -108,9 +119,9 @@
       "title": "Három autó ütközött Győrben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92591",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Gárdonyi Gáza utcába vonultak a tűzoltók.",
+      "body": "Három autó ütközött össze Győrben, a Gárdonyi Géza utcában. Az Árpád út és a Szent István út közötti szakaszon történt baleset következtében az egyik gépkocsi egy épület falának csapódott. A város hivatásos tűzoltói az egyik járművet áramtalanítják. A helyszínre mentő is érkezett.",
+      "location": "Győr, Gárdonyi Géza utca",
       "updates": []
     },
     {
