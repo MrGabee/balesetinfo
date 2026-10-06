@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T07:57:08.611577+00:00",
-  "count": 3032,
+  "updated_at": "2026-10-06T08:00:43.899088+00:00",
+  "count": 3033,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92594",
+      "datetime": "2026.10.06. 10:00",
+      "title": "Kisteherautó és személygépkocsi karambolozott Kisapostagon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92594",
+      "lead": "A Kossuth Lajos utca és a Táncsics Mihály utca kereszteződését lezárták.",
+      "body": "Kisteherautó és személygépkocsi karambolozott Kisapostagon, a Kossuth Lajos utca és a Táncsics Mihály utca kereszteződésében. A balesethez a dunaújvárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisapostag, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92593",
       "datetime": "2026.10.06. 09:48",
