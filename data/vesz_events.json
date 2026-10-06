@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T15:32:37.383948+00:00",
-  "count": 3051,
+  "updated_at": "2026-10-06T15:36:08.694425+00:00",
+  "count": 3052,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92613",
+      "datetime": "2026.10.06. 17:35",
+      "title": "Karambol az M5-ösön, Ócsánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92613",
+      "lead": "A Szeged felé vezető oldalon forgalmi akadályra, torlódásra kell számítani.",
+      "body": "Összeütközött két személyautó az M5-ös autópálya Szeged felé vezető oldalán, Ócsa közelében, a 31-es kilométerszelvénynél. A dabasi hivatásos és a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület áramtalanították a gépkocsikat. Az érintett sztrádaszakaszon forgalmi akadályra, torlódásra kell számítani.",
+      "location": "Ócsa, M5",
+      "updates": []
+    },
     {
       "id": "92612",
       "datetime": "2026.10.06. 16:58",
