@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:09:19.681011+00:00",
+  "updated_at": "2026-10-06T13:12:54.154847+00:00",
   "count": 3043,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -238,10 +238,19 @@
       "title": "Tűz keletkezett egy nyírgelsei falfeldolgozó cég telephelyén",
       "category": "Tűz keletkezett egy nyírgelsei falfeldolgozó cég telephelyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Jelentős mennyiségű fagally, faapríték kapott lángra.",
+      "body": "Meggyulladt a felhalmozott gally, apríték Nyírgelse külterületén, egy fafeldolgozó cég telephelyén. A több száz köbméteres rakat egyik része ég, nyírbátori és adonyi hivatásos, illetve szakolyi önkormányzati tűzoltók vízsugarakkal oltanak. A tűzoltók munkáját három erőgép is segíti, ezekkel széthúzzák a rakatot, hogy elválasszák az égő és az érintetlen részeket egymástól.",
+      "location": "Nyírgelse, külterület",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Nyírgelsén",
+          "datetime": "2026.10.05. 19:27",
+          "category": "Tűzeset",
+          "text": "A település szélén egy faipari cég telephelyén jelentős mennyiségű fagally, faapríték kapott lángra. Nyírbátori, nyíradonyi és szakolyi tűzoltók több vízsugárral eloltották a lángokat, felszámolták az izzásokat. A munkát erőgépek segítették, amelyek megbontották a jelentős méretű rakatot. Az egységek eloltották a tüzet, már az utómunkálatokat végzik.",
+          "location": "Nyírgelse, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92584"
+        }
+      ]
     },
     {
       "id": "92583",
@@ -315,9 +324,9 @@
       "title": "Kigyulladt egy garázs Óhídon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92577",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi útra zalaszentgróti és keszthelyi tűzoltókat riasztottak.",
+      "body": "Tűz ütött ki egy óhídi, Petőfi úti garázsban. A nagyjából húsz négyzetméteres építményből ki tudtak állni az ott tárolt járművel. A zalaszentgróti önkormányzati és a keszthelyi hivatásos tűzoltók vízsugarakkal eloltották a lángokat. A garázsban – ahol fűnyíró traktor és kéziszerszámok is voltak – az egységek három, felhasadt palackot is találtak. A tűz a családi házra nem terjedt át.",
+      "location": "Óhíd, Petőfi út",
       "updates": []
     },
     {
@@ -447,9 +456,9 @@
       "title": "Baleset történt a XI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92565",
-      "lead": "A tűzoltók áramtalanították az egyik járművet.",
-      "body": "Összeütközött két gépkocsi a XI. kerületi Hunyadi János úton, az Építész utca és a Vegyész utca közötti szakaszon. A fővárosi hivatásos tűzoltók az egyik járművet áramtalanították, a másik kocsi helyzetét stabilizálták. Az egység a mentők értesítését kérte.",
-      "location": "Budapest, Hunyadi János út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
