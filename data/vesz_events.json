@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T06:12:05.513894+00:00",
+  "updated_at": "2026-10-06T06:15:27.292248+00:00",
   "count": 3029,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Kigyulladt egy traktor Sorkifalud külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92583",
-      "lead": "A mezőgazdasági járművön kívül tüzet fogott a környező vegetáció is.",
-      "body": "Kigyulladt egy traktor és az általa vontatott rendsodró Sorkifalud külterületén. A szombathelyi hivatásos tűzoltók fékezték meg a lángokat. A mezőgazdasági járművön kívül égett nagyjából ötszáz négyzetméteren a tarló is. A területet körbe is tárcsázták.",
-      "location": "Sorkifalud, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -205,9 +205,9 @@
       "title": "Kigyulladt egy konyha Sárváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92573",
-      "lead": "A Kisfaludy Sándor utcai lángokat a tűzhelyen felejtett olaj okozta.",
-      "body": "Meggyulladt a tűzhelyen lévő olaj egy sárvári, Kisfaludy Sándor utcai családi ház konyhájában. A tűz elérte a berendezés feletti páraelszívót is. Mire a város hivatásos tűzoltói a helyszínre értek, a lángok már kialudtak. Az egységek átszellőztették a füsttel telítődő épületet. A ház lakójához mentő érkezett. A helyszínre mentek a gázszolgáltató szakemberei is.",
-      "location": "Sárvár, Kisfaludy Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -359,19 +359,10 @@
       "title": "Autószerelő műhely ég Kutason",
       "category": "Autószerelő műhely ég Kutason",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92559",
-      "lead": "Egy fatároló épület leégett a tűz következtében.",
-      "body": "Egy hatvan négyzetméteres, autószerelő műhelynek használt melléképület, egy húsz négyzetméteres fatároló, és a környezetében az aljnövényzet gyulladt ki Kutason, a Szellő utcában. A műhelyben egy emelőn álló gépkocsi is található. A nagyatádi hivatásos, a böhönyei önkormányzati és a nagybajomi önkéntes tűzoltók öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. A tűz következtében a fatároló már teljesen leégett, a műhely teteje leszakadt. Az egységek folytatják a munkálatokat.",
-      "location": "Kutas, Szellő utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Kutason",
-          "datetime": "2026.10.05. 02:02",
-          "category": "Tűzeset",
-          "text": "A tűzoltók eloltották a lángokat Kutason, ahol egy hatvan négyzetméteres, autószerelő műhelynek használt melléképület, egy húsz négyzetméteres fatároló, és a környezetében az aljnövényzet gyulladt ki a Szellő utcában. A műhelyben egy emelőn állt egy gépkocsi is. A tűz következtében a fatároló teljesen leégett, a műhely teteje leszakadt. A nagyatádi hivatásos, a böhönyei önkormányzati és a nagybajomi önkéntes tűzoltók öt vízsugárral dolgoztak a tűz megfékezésén, jelenleg az utómunkálatokat végzik.",
-          "location": "Kutas, Szellő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92559"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92558",
