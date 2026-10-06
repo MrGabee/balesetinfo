@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:16:23.531520+00:00",
+  "updated_at": "2026-10-06T13:19:42.677898+00:00",
   "count": 3043,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -58,14 +58,23 @@
     },
     {
       "id": "92600",
-      "datetime": "2026.10.06. 12:59",
+      "datetime": "2026.10.06. 12:59 -",
       "title": "Tűz van Hajdúsámson közelében",
-      "category": "Tűzeset",
+      "category": "Tűz van Hajdúsámson közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92600",
       "lead": "A Vénkertdűlőn van szükség tűzoltói beavatkozásra.",
       "body": "Gazos terület, valamint egy tanya ég Hajdúsámson közelében, a Vénkertdűlőn. A tűz körülbelül húsz hektárnyi területet érint. A debreceni hivatásos tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Hajdúsámson, Vénkertdűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Hajdúsámson közelében",
+          "datetime": "2026.10.06. 15:18",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Hajdúsámsonon, ahol gazos terület és egy tanya égett a Vénkertdűlőn. A tűz mintegy húsz hektárnyi területet érintett.  A lángokat a debreceni, nyíradonyi és hajdúböszörményi hivatásos tűzoltók oltották el, négy vízsugárral. A munkálatokat a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+          "location": "Hajdúsámson, Vénkertdűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92600/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92600"
+        }
+      ]
     },
     {
       "id": "92599",
