@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T05:19:24.019584+00:00",
-  "count": 3027,
+  "updated_at": "2026-10-06T05:22:53.789200+00:00",
+  "count": 3028,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92589",
+      "datetime": "2026.10.06. 07:21",
+      "title": "Árokba hajtott egy személykocsi Kardoskúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92589",
+      "lead": "Az Árpád sori balesethez az orosházi tűzoltók vonultak.",
+      "body": "Orosháza felé haladt az a személykocsi, amelyik árokba hajtott Kardoskúton, az Árpád soron. A jármű sofőrjéhez mentő érkezett. A műszaki mentést az orosházi hivatásos tűzoltók végzik.",
+      "location": "Kardoskút, Árpád sor",
+      "updates": []
+    },
     {
       "id": "92588",
       "datetime": "2026.10.06. 00:23",
