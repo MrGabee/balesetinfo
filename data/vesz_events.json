@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T17:44:52.193372+00:00",
-  "count": 3054,
+  "updated_at": "2026-10-06T17:48:18.677147+00:00",
+  "count": 3055,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92616",
+      "datetime": "2026.10.06. 19:48",
+      "title": "Ráfutásos baleset Dömsödön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92616",
+      "lead": "Az 51-es főúton egy sávon halad a forgalom.",
+      "body": "Parkoló autónak ütközött egy személygépkocsi Dömsödön, az 51-es főút és a Tassi út találkozásánál. A ráfutásos balesethez a ráckevei önkormányzati és a dömsödi önkéntes tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Dömsöd, 51",
+      "updates": []
+    },
     {
       "id": "92615",
       "datetime": "2026.10.06. 19:04",
@@ -109,7 +120,16 @@
       "lead": "Az autópálya  Budapest felé vezető szakaszán egy sávon halad a forgalom.",
       "body": "Kigyulladt a száraz fű az M5-ös autópálya melletti területen, Ócsa közelében. A tűz körülbelül másfél hektárnyi területet érint, valamint egy tanyaépületet is veszélyeztet. A fővárosi és dabasi hivatásos, valamint a gyömrői önkéntes tűzoltók dolgoznak a lángok megfékezésén. Az M5-ös autópálya Budapest felé vezető szakaszán egy sávon halad a forgalom.",
       "location": "Ócsa, M5",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat az M5-ös autópálya mellett",
+          "datetime": "2026.10.06. 19:42",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat az M5-ös autópálya mellett, ahol száraz fű és erdő égett. A tűz tíz hektárnyi területet érintett. A fővárosi, monori, szigetszentmiklósi és dabasi hivatásos, valamint a FOKA Folyami Katasztrófavédelem és Speciális Mentő Közhasznú Egyesület, a délegyházai, az ócsai, a váci és gyömrői önkéntes tűzoltók hat vízsugárral oltották el a lángokat. A rajok utómunkálatokat végeznek. A tűz oltását a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányította. Az autópálya Budapest felé vezető szakaszán, a 31-es kilométerszelvény közelében a külső sávot lezárták az oltási munkálatok idejére.",
+          "location": "Ócsa, M5",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92607/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92607"
+        }
+      ]
     },
     {
       "id": "92606",
