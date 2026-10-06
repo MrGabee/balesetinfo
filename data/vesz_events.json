@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T06:19:14.580817+00:00",
-  "count": 3029,
+  "updated_at": "2026-10-06T06:22:43.934574+00:00",
+  "count": 3030,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92591",
+      "datetime": "2026.10.06. 08:20",
+      "title": "Három autó ütközött Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92591",
+      "lead": "A Gárdonyi Gáza utcába vonultak a tűzoltók.",
+      "body": "Három autó ütközött össze Győrben, a Gárdonyi Géza utcában. Az Árpád út és a Szent István út közötti szakaszon történt baleset következtében az egyik gépkocsi egy épület falának csapódott. A város hivatásos tűzoltói az egyik járművet áramtalanítják. A helyszínre mentő is érkezett.",
+      "location": "Győr, Gárdonyi Géza utca",
+      "updates": []
+    },
     {
       "id": "92590",
       "datetime": "2026.10.06. 07:29",
