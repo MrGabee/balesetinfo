@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T22:02:23.195594+00:00",
-  "count": 3058,
+  "updated_at": "2026-10-06T22:06:05.571173+00:00",
+  "count": 3059,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92620",
+      "datetime": "2026.10.07. 00:04",
+      "title": "Átszakította a szalagkorlátot egy kisteherautó az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92620",
+      "lead": "Kunszállás közelében dolgoznak a tűzoltók.",
+      "body": "Átszakította a szalagkorlátot egy kisteherautó az M5-ös autópályán, Kunszállás közelében, a 105-ös kilométerszelvénynél. A balesethez a kiskunfélegyházai hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Kunszállás, M5",
+      "updates": []
+    },
     {
       "id": "92619",
       "datetime": "2026.10.06. 21:59",
