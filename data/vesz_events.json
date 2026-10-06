@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T11:56:02.655570+00:00",
-  "count": 3041,
+  "updated_at": "2026-10-06T11:59:42.825028+00:00",
+  "count": 3042,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92603",
+      "datetime": "2026.10.06. 13:58",
+      "title": "Tűz van egy szemétlerakóban Százhalombattán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92603",
+      "lead": "Az Olajmunkás utca és a 6-os főút között dolgoznak a tűzoltók.",
+      "body": "Tűz van egy szemétlerakóban Százhalombattán, az Olajmunkás utca és a 6-os főút között. Az érdi hivatásos és a százhalombattai létesítményi tűzoltók jelenleg öt vízsugárral oltják a lángokat. A helyszínre egy munkagép is érkezett, amivel széthúzzák a szeméthalmokat.",
+      "location": "Százhalombatta, Olajmunkás utca",
+      "updates": []
+    },
     {
       "id": "92602",
       "datetime": "2026.10.06. 13:43",
@@ -31,9 +42,9 @@
       "title": "Tűz van Hajdúsámson közelében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92600",
-      "lead": "A Vénkertdűlőn van szükség tűzoltói beavatkozásra.",
-      "body": "Gazos terület, valamint egy tanya ég Hajdúsámson közelében, a Vénkertdűlőn. A tűz körülbelül húsz hektárnyi területet érint. A debreceni hivatásos tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
-      "location": "Hajdúsámson, Vénkertdűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -64,9 +75,9 @@
       "title": "Vonat és kisteherautó ütközött Budapest X. kerületében",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92597",
-      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
-      "body": "Vonat és kisteherautó ütközött össze Budapest X. kerületében, a Jászberényi úti vasúti átjáróban. A vonaton negyvennégyen utaztak. A fővárosi hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő busz megérkezik a helyszínre.",
-      "location": "Budapest, Jászberényi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +108,9 @@
       "title": "Kisteherautó és személygépkocsi karambolozott Kisapostagon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92594",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth Lajos utca és a Táncsics Mihály utca kereszteződését lezárták.",
+      "body": "Kisteherautó és személygépkocsi karambolozott Kisapostagon, a Kossuth Lajos utca és a Táncsics Mihály utca kereszteződésében. A balesethez a dunaújvárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisapostag, Kossuth Lajos utca",
       "updates": []
     },
     {
