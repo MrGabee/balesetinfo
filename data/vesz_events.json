@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-05T19:17:05.230495+00:00",
-  "count": 3025,
+  "updated_at": "2026-10-06T01:31:30.823216+00:00",
+  "count": 3027,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92588",
+      "datetime": "2026.10.06. 00:23",
+      "title": "Melléképület égett Sárisápon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92588",
+      "lead": "Bajnai, nyergesújfalui és sárisápi tűzoltók vonultak a Hunyadi János utcába.",
+      "body": "Kigyulladt egy melléképület Sárisápon, a Hunyadi János utcában. A helyszínre elsőként a sárisápi önkéntes tűzoltók érkeztek meg, majd rövid időn belül a bajnai és a nyergesújfalui hivatásos egység is csatlakozott hozzájuk. Az egységek vízsugarakkal előbb körülhatárolták, majd eloltották a tüzet.",
+      "location": "Sárisáp, Hunyadi János utca",
+      "updates": []
+    },
+    {
+      "id": "92587",
+      "datetime": "2026.10.05. 21:18",
+      "title": "Oszlopnak hajtott egy autó Budakeszi határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92587",
+      "lead": "A 8102-es út 13-as kilométerénél történt a baleset.",
+      "body": "Oszlopnak ütközött egy személykocsi Budakeszi határában, a 8102-es úton. A 13-as kilométernél történt balesethez fővárosi hivatásos és budakeszi önkéntes tűzoltók vonultak, a helyszínre mentő is érkezett. A jármű akadályozza a forgalmat.",
+      "location": "Budakeszi, 8102",
+      "updates": []
+    },
     {
       "id": "92586",
       "datetime": "2026.10.05. 19:38",
@@ -139,9 +161,9 @@
       "title": "Egymásba rohant két autó Kiskunmajsa és Kiskunhalas között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92575",
-      "lead": "A tűzoltókat az 5402-es útra, a zsanai gáztározóhoz vezető bekötőúthoz riasztották.",
-      "body": "Két személykocsi karambolozott az 5402-es út 38-39-es kilométere között, a zsanai tározóhoz vezető bekötőútnál. A Kiskunmajsa és Kiskunhalas között történt balesethez mindkét városból érkezett hivatásos tűzoltó egység, a rajok áramtalanítottak. Az egyik járműben hárman ültek, ki tudtak szállni gépkocsijukból, elhagyták a helyszínt. A másik autóban csak a sofőr ült, ő beszorult a járműbe, a tűzoltók szabadították ki. A baleset miatt az érintett útszakaszt egy időre teljes szélességében lezárták.",
-      "location": "Kiskunmajsa, 5402",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -260,9 +282,9 @@
       "title": "Összeütközött két autó Szombathely belvárosában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92564",
-      "lead": "A Hunyadi János útra riasztották a tűzoltókat.",
-      "body": "Két személykocsi karambolozott Szombathelyen, a Hunyadi János úton. Mindkét járműben csak a sofőr ült, a helyszínre mentőt riasztottak. A megyeszékhely hivatásos tűzoltói avatkoznak be. A négysávos úton két sávon halad a forgalom, torlódásra kell számítani.",
-      "location": "Szombathely, Hunyadi János út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
