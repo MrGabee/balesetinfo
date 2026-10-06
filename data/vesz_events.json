@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T10:58:39.486213+00:00",
-  "count": 3038,
+  "updated_at": "2026-10-06T11:02:07.626681+00:00",
+  "count": 3039,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92600",
+      "datetime": "2026.10.06. 12:59",
+      "title": "Tűz van Hajdúsámson közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92600",
+      "lead": "A Vénkertdűlőn van szükség tűzoltói beavatkozásra.",
+      "body": "Gazos terület, valamint egy tanya ég Hajdúsámson közelében, a Vénkertdűlőn. A tűz körülbelül húsz hektárnyi területet érint. A debreceni hivatásos tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
+      "location": "Hajdúsámson, Vénkertdűlő",
+      "updates": []
+    },
     {
       "id": "92599",
       "datetime": "2026.10.06. 12:55",
@@ -97,9 +108,9 @@
       "title": "Három autó ütközött Győrben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92591",
-      "lead": "A Gárdonyi Gáza utcába vonultak a tűzoltók.",
-      "body": "Három autó ütközött össze Győrben, a Gárdonyi Géza utcában. Az Árpád út és a Szent István út közötti szakaszon történt baleset következtében az egyik gépkocsi egy épület falának csapódott. A város hivatásos tűzoltói az egyik járművet áramtalanítják. A helyszínre mentő is érkezett.",
-      "location": "Győr, Gárdonyi Géza utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
