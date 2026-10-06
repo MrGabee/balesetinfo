@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:14:58.245176+00:00",
+  "updated_at": "2026-10-06T10:18:53.784923+00:00",
   "count": 3037,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -119,9 +119,9 @@
       "title": "Melléképület égett Sárisápon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92588",
-      "lead": "Bajnai, nyergesújfalui és sárisápi tűzoltók vonultak a Hunyadi János utcába.",
-      "body": "Kigyulladt egy melléképület Sárisápon, a Hunyadi János utcában. A helyszínre elsőként a sárisápi önkéntes tűzoltók érkeztek meg, majd rövid időn belül a bajnai és a nyergesújfalui hivatásos egység is csatlakozott hozzájuk. Az egységek vízsugarakkal előbb körülhatárolták, majd eloltották a tüzet.",
-      "location": "Sárisáp, Hunyadi János utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -166,16 +166,7 @@
       "lead": "Jelentős mennyiségű fagally, faapríték kapott lángra.",
       "body": "Meggyulladt a felhalmozott gally, apríték Nyírgelse külterületén, egy fafeldolgozó cég telephelyén. A több száz köbméteres rakat egyik része ég, nyírbátori és adonyi hivatásos, illetve szakolyi önkormányzati tűzoltók vízsugarakkal oltanak. A tűzoltók munkáját három erőgép is segíti, ezekkel széthúzzák a rakatot, hogy elválasszák az égő és az érintetlen részeket egymástól.",
       "location": "Nyírgelse, külterület",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Nyírgelsén",
-          "datetime": "2026.10.05. 19:27",
-          "category": "Tűzeset",
-          "text": "A település szélén egy faipari cég telephelyén jelentős mennyiségű fagally, faapríték kapott lángra. Nyírbátori, nyíradonyi és szakolyi tűzoltók több vízsugárral eloltották a lángokat, felszámolták az izzásokat. A munkát erőgépek segítették, amelyek megbontották a jelentős méretű rakatot. Az egységek eloltották a tüzet, már az utómunkálatokat végzik.",
-          "location": "Nyírgelse, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92584"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92583",
@@ -205,9 +196,9 @@
       "title": "Kigyulladt egy busz Kapuváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92581",
-      "lead": "A távolsági járat a Veszkényi utcai temető szomszédságában fogott tüzet.",
-      "body": "Lángolt egy autóbusz Kapuváron, az Osli utcában, a temető közelében. Mire a helyi hivatásos tűzoltók a helyszínre értek, a járművezető civilek segítségével, porral oltóval eloltották a tüzet. Az egység visszahűtötte a motorteret. A járaton a sofőrön kívül hat utas tartózkodott, időben leszálltak a buszról.",
-      "location": "Kapuvár, Osli utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -293,9 +284,9 @@
       "title": "Kigyulladt egy konyha Sárváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92573",
-      "lead": "A Kisfaludy Sándor utcai lángokat a tűzhelyen felejtett olaj okozta.",
-      "body": "Meggyulladt a tűzhelyen lévő olaj egy sárvári, Kisfaludy Sándor utcai családi ház konyhájában. A tűz elérte a berendezés feletti páraelszívót is. Mire a város hivatásos tűzoltói a helyszínre értek, a lángok már kialudtak. Az egységek átszellőztették a füsttel telítődő épületet. A ház lakójához mentő érkezett. A helyszínre mentek a gázszolgáltató szakemberei is.",
-      "location": "Sárvár, Kisfaludy Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -359,9 +350,9 @@
       "title": "Baleset történt Páty határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92567",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 1102-es út 6-os kilométerénél árokba hajtott egy autó.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi Páty határában. A 1102-es út 6-os kilométerénél történt balesethez elsőként a helyi önkéntes tűzoltók érkeztek ki, majd a törökbálinti hivatásos tűzoltók is a helyszínre értek. Az autóban csak annak vezetője ült, a sofőr ki tudott szállni a kocsiból.",
+      "location": "Páty, 1102",
       "updates": []
     },
     {
