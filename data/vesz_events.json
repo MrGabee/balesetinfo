@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T14:09:04.463703+00:00",
-  "count": 3045,
+  "updated_at": "2026-10-06T14:12:54.175763+00:00",
+  "count": 3046,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92607",
+      "datetime": "2026.10.06. 16:09",
+      "title": "Kigyulladt a száraz fű az M5-ös autópálya melletti területen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92607",
+      "lead": "Az autópálya  Budapest felé vezető szakaszán egy sávon halad a forgalom.",
+      "body": "Kigyulladt a száraz fű az M5-ös autópálya melletti területen, Ócsa közelében. A tűz körülbelül másfél hektárnyi területet érint, valamint egy tanyaépületet is veszélyeztet. A fővárosi és dabasi hivatásos, valamint a gyömrői önkéntes tűzoltók dolgoznak a lángok megfékezésén. Az M5-ös autópálya Budapest felé vezető szakaszán egy sávon halad a forgalom.",
+      "location": "Ócsa, M5",
+      "updates": []
+    },
     {
       "id": "92606",
       "datetime": "2026.10.06. 16:03",
