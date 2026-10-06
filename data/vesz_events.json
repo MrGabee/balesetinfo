@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T09:30:50.153023+00:00",
-  "count": 3036,
+  "updated_at": "2026-10-06T09:34:30.620453+00:00",
+  "count": 3037,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92598",
+      "datetime": "2026.10.06. 11:33",
+      "title": "Ráfutásos baleset Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92598",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92597",
       "datetime": "2026.10.06. 10:45",
@@ -326,9 +337,9 @@
       "title": "Melléképület gyulladt ki Patakon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92569",
-      "lead": "A tűzoltókat a Dankó útra riasztották.",
-      "body": "Kigyulladt egy nagyjából húsz négyzetméteres melléképület Patakon, a Dankó úton. Az építményben berendezési tárgyak, bútorok égtek, és teljes terjedelmében lángolt a tetőszerkezet is. A tűz meggyújtotta a melléképület melletti száraz füvet, szemetet is. A helyszínre balassagyarmati és rétsági hivatásos, valamint az érsekvadkerti önkéntes tűzoltók vonultak. Az egységek két vízsugárral eloltották a lángokat.",
-      "location": "Patak, Dankó út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -403,9 +414,9 @@
       "title": "Baleset történt Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92562",
-      "lead": "A Szent László körúton két személykocsi karambolozott.",
-      "body": "Egymásba hajtott két autó Kecskeméten, a Szent László körúton. A város hivatásos tűzoltói végzik a műszaki mentést. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Kecskemét, Szent László körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
