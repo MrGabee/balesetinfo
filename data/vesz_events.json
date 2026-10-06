@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T14:16:28.566358+00:00",
-  "count": 3047,
+  "updated_at": "2026-10-06T14:20:28.612039+00:00",
+  "count": 3048,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92609",
+      "datetime": "2026.10.06. 16:18",
+      "title": "Tűz volt Szeged és Röszke között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92609",
+      "lead": "A Bodom tanyánál oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy autó Szeged és Röszke között, a Bodom tanyánál. A tűz átterjedt a környező nádasra is, mintegy fél hektáron. A lángokat a szegedi és ruzsai hivatásos tűzoltók oltották el, három vízsugárral. A rajok munkáját egy hódmezővásárhelyi vízszállító is segítette.",
+      "location": "Szeged, Bodom tanya",
+      "updates": []
+    },
     {
       "id": "92608",
       "datetime": "2026.10.06. 16:14",
