@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T05:26:15.325412+00:00",
-  "count": 3028,
+  "updated_at": "2026-10-06T05:29:39.207774+00:00",
+  "count": 3029,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92590",
+      "datetime": "2026.10.06. 07:29",
+      "title": "Kigyulladt egy ól Tardoson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92590",
+      "lead": "A Dózsa közben lángoló építményhez helyi, tatabányai, tarjáni és vértestolnai tűzoltók érkeztek.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy fa tárolására használt, eredetileg ólnak készült építmény Tardoson. A lángok átterjedtek a környező aljnövényzetre is. A Dózsa közben égő tűzhöz tatabányai hivatásos, valamint tardosi, tarjáni és vértestolnai önkéntes tűzoltók vonultak. Az egységek rövid idő alatt megfékezték a lángokat, már a tető megbontásánál tartanak, hogy kiderüljön, vannak-e még izzások.",
+      "location": "Tardos, Dózsa köz",
+      "updates": []
+    },
     {
       "id": "92589",
       "datetime": "2026.10.06. 07:21",
@@ -64,19 +75,10 @@
       "title": "Tűz keletkezett egy nyírgelsei falfeldolgozó cég telephelyén",
       "category": "Tűz keletkezett egy nyírgelsei falfeldolgozó cég telephelyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584",
-      "lead": "Jelentős mennyiségű fagally, faapríték kapott lángra.",
-      "body": "Meggyulladt a felhalmozott gally, apríték Nyírgelse külterületén, egy fafeldolgozó cég telephelyén. A több száz köbméteres rakat egyik része ég, nyírbátori és adonyi hivatásos, illetve szakolyi önkormányzati tűzoltók vízsugarakkal oltanak. A tűzoltók munkáját három erőgép is segíti, ezekkel széthúzzák a rakatot, hogy elválasszák az égő és az érintetlen részeket egymástól.",
-      "location": "Nyírgelse, külterület",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Nyírgelsén",
-          "datetime": "2026.10.05. 19:27",
-          "category": "Tűzeset",
-          "text": "A település szélén egy faipari cég telephelyén jelentős mennyiségű fagally, faapríték kapott lángra. Nyírbátori, nyíradonyi és szakolyi tűzoltók több vízsugárral eloltották a lángokat, felszámolták az izzásokat. A munkát erőgépek segítették, amelyek megbontották a jelentős méretű rakatot. Az egységek eloltották a tüzet, már az utómunkálatokat végzik.",
-          "location": "Nyírgelse, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92584/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92584"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92583",
@@ -315,9 +317,9 @@
       "title": "Baleset történt Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92562",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szent László körúton két személykocsi karambolozott.",
+      "body": "Egymásba hajtott két autó Kecskeméten, a Szent László körúton. A város hivatásos tűzoltói végzik a műszaki mentést. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Kecskemét, Szent László körút",
       "updates": []
     },
     {
