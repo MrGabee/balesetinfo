@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T18:19:20.711432+00:00",
-  "count": 3056,
+  "updated_at": "2026-10-06T18:22:50.691888+00:00",
+  "count": 3057,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92618",
+      "datetime": "2026.10.06. 20:21",
+      "title": "Karambol Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92618",
+      "lead": "A Soroksári úton forgalmi akadályra lehet számítani.",
+      "body": "Két személyautó karambolozott Budapest IX. kerületében, a Soroksári úton, a Rákóczi híd közelében. A fővárosi hivatásos tűzoltók egy embert kiemeltek az egyik gépkocsiból. A helyszínre mentő is érkezett. AZ érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Soroksári út",
+      "updates": []
+    },
     {
       "id": "92617",
       "datetime": "2026.10.06. 19:53",
