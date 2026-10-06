@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T07:46:51.266529+00:00",
-  "count": 3031,
+  "updated_at": "2026-10-06T07:50:15.236873+00:00",
+  "count": 3032,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92593",
+      "datetime": "2026.10.06. 09:48",
+      "title": "Autótűz az M1-esen, Mosonszentmiklósnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92593",
+      "lead": "A Hegyeshalom felé vezető oldalon oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy személyautó az M1-es autópálya Hegyeshalom felé vezető oldalán, Mosonszentmiklós közelében, a 137-es és 138-as kilométerszelvény között. A győri hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Mosonszentmiklós, Szilas dűlő",
+      "updates": []
+    },
     {
       "id": "92592",
       "datetime": "2026.10.06. 09:27",
