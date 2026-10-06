@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:26:12.617124+00:00",
+  "updated_at": "2026-10-06T10:29:54.114999+00:00",
   "count": 3037,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -370,9 +370,9 @@
       "title": "Újabb baleset történt Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92566",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett kereszteződést a karambol miatt.",
+      "body": "Újabb baleset történt Kecskeméten, a Teleki László utca és a Széchenyi körút kereszteződésében ütközött össze két gépjármű. Összesen négyen utaztak a karambolos járművekben. A kecskeméti hivatásos tűzoltók megkezdték a munkálatokat, amelynek idejére félpályán lezárták az érintett útszakaszt.",
+      "location": "Kecskemét, Széchenyi körút",
       "updates": []
     },
     {
@@ -414,9 +414,9 @@
       "title": "Baleset történt Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92562",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szent László körúton két személykocsi karambolozott.",
+      "body": "Egymásba hajtott két autó Kecskeméten, a Szent László körúton. A város hivatásos tűzoltói végzik a műszaki mentést. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Kecskemét, Szent László körút",
       "updates": []
     },
     {
@@ -450,7 +450,16 @@
       "lead": "Egy fatároló épület leégett a tűz következtében.",
       "body": "Egy hatvan négyzetméteres, autószerelő műhelynek használt melléképület, egy húsz négyzetméteres fatároló, és a környezetében az aljnövényzet gyulladt ki Kutason, a Szellő utcában. A műhelyben egy emelőn álló gépkocsi is található. A nagyatádi hivatásos, a böhönyei önkormányzati és a nagybajomi önkéntes tűzoltók öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. A tűz következtében a fatároló már teljesen leégett, a műhely teteje leszakadt. Az egységek folytatják a munkálatokat.",
       "location": "Kutas, Szellő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kutason",
+          "datetime": "2026.10.05. 02:02",
+          "category": "Tűzeset",
+          "text": "A tűzoltók eloltották a lángokat Kutason, ahol egy hatvan négyzetméteres, autószerelő műhelynek használt melléképület, egy húsz négyzetméteres fatároló, és a környezetében az aljnövényzet gyulladt ki a Szellő utcában. A műhelyben egy emelőn állt egy gépkocsi is. A tűz következtében a fatároló teljesen leégett, a műhely teteje leszakadt. A nagyatádi hivatásos, a böhönyei önkormányzati és a nagybajomi önkéntes tűzoltók öt vízsugárral dolgoztak a tűz megfékezésén, jelenleg az utómunkálatokat végzik.",
+          "location": "Kutas, Szellő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92559"
+        }
+      ]
     },
     {
       "id": "92558",
