@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T15:29:44.881483+00:00",
+  "updated_at": "2026-10-06T15:32:37.383948+00:00",
   "count": 3051,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92611",
-      "datetime": "2026.10.06. 16:25",
+      "datetime": "2026.10.06. 16:25 -",
       "title": "Elhúzódó munkálatokra kell számítani Százhalombattán",
-      "category": "Tűzeset",
+      "category": "Elhúzódó munkálatokra kell számítani Százhalombattán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92611",
       "lead": "Egy szemétlerakóban van a tűz.",
       "body": "Elhúzódó munkálatokra kell számítani Százhalombattán, ahol egy szemétlerakóban keletkezett tűz az Olajmunkás utca és a 6-os főút között. Az érdi hivatásos és a százhalombattai létesítményi tűzoltók jelenleg öt vízsugárral oltják a lángokat. A helyszínre egy munkagép is érkezett, amivel széthúzzák a szeméthalmokat.",
       "location": "Százhalombatta, Fuvaros utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Százhalombattán",
+          "datetime": "2026.10.06. 17:29",
+          "category": "Tűzeset",
+          "text": "Megfékezték a lángokat Százhalombattán, ahol egy szemétlerakóban keletkezett tűz az Olajmunkás utca és a 6-os főút között. Az érdi hivatásos és a százhalombattai létesítményi tűzoltók öt vízsugárra eloltották a lángokat. A rajok munkáját egy munkagép is segítette.",
+          "location": "Százhalombatta, Fuvaros utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92611/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92611"
+        }
+      ]
     },
     {
       "id": "92610",
