@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T12:20:59.754206+00:00",
+  "updated_at": "2026-10-06T12:24:08.483204+00:00",
   "count": 3043,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "92601",
-      "datetime": "2026.10.06. 13:04",
+      "datetime": "2026.10.06. 13:04 -",
       "title": "Kigyulladt a száraz fű Felsőtárkány és Eger között",
-      "category": "Tűzeset",
+      "category": "Kigyulladt a száraz fű Felsőtárkány és Eger között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92601",
       "lead": "A tűz hétvégi házakat is veszélyeztet.",
       "body": "Kigyulladt a száraz fű, valamint egy erdős terület Felsőtárkány és Eger között. A tűz hétvégi házakat is veszélyeztet. Az egri hivatásos tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Felsőtárkány, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Felsőtárkány és Eger között",
+          "datetime": "2026.10.06. 14:23",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Felsőtárkány és Eger között, ahol száraz fű és erdős terület égett. A tűz körülbelül öt hektárt érintett. A lángokat az egri, füzesabonyi és mezőkövesdi hivatásos tűzoltók oltották el, a Heves vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
+          "location": "Felsőtárkány, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92601/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92601"
+        }
+      ]
     },
     {
       "id": "92600",
