@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T13:44:07.206515+00:00",
-  "count": 3043,
+  "updated_at": "2026-10-06T13:47:50.826849+00:00",
+  "count": 3044,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92605",
+      "datetime": "2026.10.06. 15:45",
+      "title": "Egymásnak ütközött két autó Budapest XX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92605",
+      "lead": "A Török Flóris utca és a Pöltenberg utca kereszteződésénél forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest XX. kerületében, a Török Flóris utca és a Pöltenberg utca kereszteződésénél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Pöltenberg utca",
+      "updates": []
+    },
     {
       "id": "92604",
       "datetime": "2026.10.06. 14:04",
