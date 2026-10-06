@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-06T19:59:09.997256+00:00",
-  "count": 3057,
+  "updated_at": "2026-10-06T20:02:44.722177+00:00",
+  "count": 3058,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92619",
+      "datetime": "2026.10.06. 21:59",
+      "title": "Családi ház égett Balassagyarmaton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92619",
+      "lead": "A Zrínyi utcában oltották el a lángokat.",
+      "body": "Kigyulladt egy családi ház Balassagyarmaton, a Zrínyi utcában. A tűz a tetőszerkezetre is átterjedt. A szécsényi, rétsági és balassagyarmati hivatásos tűzoltók három vízsugárral eloltották a lángokat. A helyszínre az áramszolgáltató szakemberei is megérkeztek, akik leválasztották az ingatlant a hálózatról.",
+      "location": "Balassagyarmat, Zrínyi utca",
+      "updates": []
+    },
     {
       "id": "92618",
       "datetime": "2026.10.06. 20:21",
