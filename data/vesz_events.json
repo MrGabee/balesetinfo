@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:42:58.658539+00:00",
+  "updated_at": "2026-10-07T08:46:42.136494+00:00",
   "count": 3064,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -117,9 +117,9 @@
       "title": "Ráfutásos baleset Dömsödön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92616",
-      "lead": "Az 51-es főúton egy sávon halad a forgalom.",
-      "body": "Parkoló autónak ütközött egy személygépkocsi Dömsödön, az 51-es főút és a Tassi út találkozásánál. A ráfutásos balesethez a ráckevei önkormányzati és a dömsödi önkéntes tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Dömsöd, 51",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -323,16 +323,7 @@
       "lead": "A Vénkertdűlőn van szükség tűzoltói beavatkozásra.",
       "body": "Gazos terület, valamint egy tanya ég Hajdúsámson közelében, a Vénkertdűlőn. A tűz körülbelül húsz hektárnyi területet érint. A debreceni hivatásos tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Hajdúsámson, Vénkertdűlő",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Hajdúsámson közelében",
-          "datetime": "2026.10.06. 15:18",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Hajdúsámsonon, ahol gazos terület és egy tanya égett a Vénkertdűlőn. A tűz mintegy húsz hektárnyi területet érintett.  A lángokat a debreceni, nyíradonyi és hajdúböszörményi hivatásos tűzoltók oltották el, négy vízsugárral. A munkálatokat a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
-          "location": "Hajdúsámson, Vénkertdűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92600/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92600"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92599",
