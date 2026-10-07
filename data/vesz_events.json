@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T04:42:05.223554+00:00",
-  "count": 3060,
+  "updated_at": "2026-10-07T04:45:30.910338+00:00",
+  "count": 3061,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92622",
+      "datetime": "2026.10.07. 06:43",
+      "title": "Tűz van egy Kistarcsa és Csömör közötti szeméttelepen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92622",
+      "lead": "A rajok már oltják a lángokat.",
+      "body": "Tűz ütött ki egy Kistarcsa és Csömör közötti szeméttelepen. A fővárosi és gödöllői hivatásos, valamint a csömöri, fóti és rózsadombi önkéntes tűzoltók jelenleg öt vízsugárral oltják a lángokat. A rajok munkáját három munkagép is segíti.",
+      "location": "Kistarcsa, külterület",
+      "updates": []
+    },
     {
       "id": "92621",
       "datetime": "2026.10.07. 06:37",
