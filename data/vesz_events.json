@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T11:47:37.415612+00:00",
-  "count": 3071,
+  "updated_at": "2026-10-07T11:50:56.565732+00:00",
+  "count": 3072,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92633",
+      "datetime": "2026.10.07. 13:48",
+      "title": "Karambol Csömörön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92633",
+      "lead": "A Szabadság út és a Kossuth Lajos utca kereszteződésében történt a baleset.",
+      "body": "Egymásnak ütközött két személygépkocsi Csömörön, a Szabadság út és a Kossuth Lajos utca kereszteződésében. A baleset következtében az egyik autó kerítésnek hajtott. A fővárosi hivatásos és a helyi önkéntes tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Csömör, Szabadság út",
+      "updates": []
+    },
     {
       "id": "92632",
       "datetime": "2026.10.07. 13:41",
