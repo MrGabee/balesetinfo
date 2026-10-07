@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T10:12:32.417084+00:00",
-  "count": 3066,
+  "updated_at": "2026-10-07T10:16:15.607819+00:00",
+  "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92628",
+      "datetime": "2026.10.07. 12:14",
+      "title": "Kerti tároló égett Gyöngyösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92628",
+      "lead": "A Huszár utcában fojtották el a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett egy kerti tárolóban Gyöngyösön, a Huszár utcában. Az épületben kertészeti eszközök, szerszámok és gépek égtek. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Gyöngyös, Huszár utca",
+      "updates": []
+    },
     {
       "id": "92627",
       "datetime": "2026.10.07. 11:49",
@@ -95,9 +106,9 @@
       "title": "Átszakította a szalagkorlátot egy kisteherautó az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92620",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kunszállás közelében dolgoznak a tűzoltók.",
+      "body": "Átszakította a szalagkorlátot egy kisteherautó az M5-ös autópályán, Kunszállás közelében, a 105-ös kilométerszelvénynél. A balesethez a kiskunfélegyházai hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Kunszállás, M5",
       "updates": []
     },
     {
@@ -225,9 +236,9 @@
       "title": "Tűz volt Szeged és Röszke között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92609",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bodom tanyánál oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy autó Szeged és Röszke között, a Bodom tanyánál. A tűz átterjedt a környező nádasra is, mintegy fél hektáron. A lángokat a szegedi és ruzsai hivatásos tűzoltók oltották el, három vízsugárral. A rajok munkáját egy hódmezővásárhelyi vízszállító is segítette.",
+      "location": "Szeged, Bodom tanya",
       "updates": []
     },
     {
