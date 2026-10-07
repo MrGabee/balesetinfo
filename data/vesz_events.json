@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T11:39:56.619126+00:00",
-  "count": 3070,
+  "updated_at": "2026-10-07T11:43:59.627906+00:00",
+  "count": 3071,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92632",
+      "datetime": "2026.10.07. 13:41",
+      "title": "Családi ház égett Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92632",
+      "lead": "A Zsinór utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy családi ház tetőszerkezetén Kecskeméten, a Zsinór utcában. A A helyi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik és megbontják a tetőt.",
+      "location": "Kecskemét, Zsinór utca",
+      "updates": []
+    },
     {
       "id": "92631",
       "datetime": "2026.10.07. 13:33",
@@ -31,9 +42,9 @@
       "title": "Baleset történt az M5-ön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92629",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Inárcs térségében egy sávon halad a forgalom.",
+      "body": "Összeütközött két kamion és két személygépkocsi az M5-ös autópályán, Budapest felé, Inárcs térségében, a 37-es kilométerszelvénynél. A dabasi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Inárcs, Erdősor utca",
       "updates": []
     },
     {
