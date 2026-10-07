@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T12:37:40.521517+00:00",
-  "count": 3073,
+  "updated_at": "2026-10-07T12:41:21.218570+00:00",
+  "count": 3074,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92635",
+      "datetime": "2026.10.07. 14:40",
+      "title": "Baleset a 44-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92635",
+      "lead": "Szarvas közelében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött egy személygépkocsi és egy busz a 44-es főúton, Szarvas közelében, a 79-es kilométerszelvénynél. Az ütközés következtében a busz árokba sodródott. A szarvasi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szarvas, Tanya III.",
+      "updates": []
+    },
     {
       "id": "92634",
       "datetime": "2026.10.07. 14:12",
