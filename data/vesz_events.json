@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T04:34:57.762132+00:00",
-  "count": 3059,
+  "updated_at": "2026-10-07T04:38:18.201408+00:00",
+  "count": 3060,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92621",
+      "datetime": "2026.10.07. 06:37",
+      "title": "Baleset történt az M3-ason, Kálnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92621",
+      "lead": "A Nyíregyháza felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Teherautó és személyautó ütközött össze az M3-as autópálya Nyíregyháza felé vezető oldalán, Nagyfüged közelében, a 95-ös kilométerszelvénynél. A gyöngyösi és füzesabonyi hivatásos tűzoltók áramtalanították az egyik járművet. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Kál, M3",
+      "updates": []
+    },
     {
       "id": "92620",
       "datetime": "2026.10.07. 00:04",
