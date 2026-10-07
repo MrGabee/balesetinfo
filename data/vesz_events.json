@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-10-07T15:02:59.385195+00:00",
-  "count": 3080,
+  "updated_at": "2026-10-07T16:43:38.702765+00:00",
+  "count": 3083,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92644",
+      "datetime": "2026.10.07. 18:31",
+      "title": "Családi ház égett Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92644",
+      "lead": "A Tinódi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy téglaépületben Miskolcon, a Tinódi utcában. A miskolci hivatásos tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Miskolc, Tinódi utca",
+      "updates": []
+    },
+    {
+      "id": "92643",
+      "datetime": "2026.10.07. 17:10",
+      "title": "Baleset történt Budapest XIX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92643",
+      "lead": "Az Üllői úton félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi Budapest XIX. kerületében, az Üllői úton. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
+    {
+      "id": "92642",
+      "datetime": "2026.10.07. 17:05",
+      "title": "Karambol a 31-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92642",
+      "lead": "Jászberény és Nagykáta között félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 31-es főúton, Jászberény és Nagykáta között, a 72-es kilométerszelvény közelében. A jászberényi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Jászberény, Neszűr tanya",
+      "updates": []
+    },
     {
       "id": "92641",
       "datetime": "2026.10.07. 16:57",
@@ -16,14 +49,23 @@
     },
     {
       "id": "92640",
-      "datetime": "2026.10.07. 16:43",
+      "datetime": "2026.10.07. 16:43 -",
       "title": "Kigyulladt egy lakás szigetelése Budapest II. kerületében",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy lakás szigetelése Budapest II. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640",
       "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
       "location": "Budapest, Eszter utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest II. kerületében",
+          "datetime": "2026.10.07. 18:36",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Budapest, Eszter utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
+        }
+      ]
     },
     {
       "id": "92639",
@@ -432,9 +474,9 @@
       "title": "Egymásnak ütközött két autó Budapest XX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92605",
-      "lead": "A Török Flóris utca és a Pöltenberg utca kereszteződésénél forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személyautó Budapest XX. kerületében, a Török Flóris utca és a Pöltenberg utca kereszteződésénél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Budapest, Pöltenberg utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
