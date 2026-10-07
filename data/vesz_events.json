@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T09:49:02.960520+00:00",
-  "count": 3065,
+  "updated_at": "2026-10-07T09:53:01.023581+00:00",
+  "count": 3066,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92627",
+      "datetime": "2026.10.07. 11:49",
+      "title": "Melléképületek égtek Nagylókon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92627",
+      "lead": "A Szél utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt az aljnövényzet Nagylókon, a Szél utcában. A tűz két melléképületre is átterjedt. A sárbogárdi hivatásos tűzoltók három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nagylók, Szél utca",
+      "updates": []
+    },
     {
       "id": "92626",
       "datetime": "2026.10.07. 11:38",
