@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T08:32:17.275660+00:00",
-  "count": 3063,
+  "updated_at": "2026-10-07T08:36:00.372978+00:00",
+  "count": 3064,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92625",
+      "datetime": "2026.10.07. 10:35",
+      "title": "Traktor égett Enese térségében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92625",
+      "lead": "A tűzoltók két vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt egy mezőgazdasági vontató Enese térségében, az Eper utcában. A traktor teljes terjedelmében égett, amit a csornai hivatásos és az enesei önkéntes tűzoltók oltottak el két vízsugárral. A rajok az utómunkálatokat végzik.",
+      "location": "Enese, Győri út",
+      "updates": []
+    },
     {
       "id": "92624",
       "datetime": "2026.10.07. 09:43",
@@ -128,9 +139,9 @@
       "title": "Frontális karambol Zánka és Köveskál között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92614",
-      "lead": "A 7313-as úton történt a baleset.",
-      "body": "Frontálisan karambolozott két személyautó Zánka és Köveskál között, a 7313-as út és a 73116-os út találkozásánál. A badacsonytomaji hivatásos tűzoltók áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Zánka, 7313",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
