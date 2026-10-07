@@ -1,8 +1,74 @@
 {
-  "updated_at": "2026-10-07T16:50:37.988780+00:00",
-  "count": 3083,
+  "updated_at": "2026-10-07T21:37:39.015438+00:00",
+  "count": 3089,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92650",
+      "datetime": "2026.10.07. 21:04",
+      "title": "Lesodródott és oldalára borult egy autó a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92650",
+      "lead": "Mecseknádasd és Hidas között forgalmi akadály van.",
+      "body": "Lesodródott az úttestről és oldalára borult egy személygépkocsi a 6-os főúton, Mecseknádasd és Hidas között, a 165-ös kilométerszelvénynél. Az autóban csak a sofőr utazott. A bonyhádi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Mecseknádasd, Külterület",
+      "updates": []
+    },
+    {
+      "id": "92649",
+      "datetime": "2026.10.07. 20:29",
+      "title": "Melléképület égett Hejőbábán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92649",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Melléképület égett Hejőbábán, a Hársfa közben. A tűz egy lemezgarázst is érintett. A tiszaújvárosi hivatásos tűzoltók két gázpalackot is kihoztak az épületből és három vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Hejőbába, Hársfa köz",
+      "updates": []
+    },
+    {
+      "id": "92648",
+      "datetime": "2026.10.07. 20:10",
+      "title": "Embert gázolt a vonat Simontornyánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92648",
+      "lead": "A tűzoltók segítenek az utasok biztonságos átszállásában.",
+      "body": "Embert gázolt a vonat Simontornyánál, a Dózsa utcánál. A személyvonaton mintegy kétszázan utaztak. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók segítenek az utasok biztonságos átszállásában a mentesítő járatra.",
+      "location": "Simontornya, Dózsa utca",
+      "updates": []
+    },
+    {
+      "id": "92647",
+      "datetime": "2026.10.07. 19:41",
+      "title": "Csarnok égett Lajosmizsén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92647",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Kigyulladt egy csarnok Lajosmizsén, a Közös tanyánál. Az épületben száraz virág és gyártáshoz alkalmazott termékek égtek. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kecskeméti és a dabasi hivatásos, illetve a helyi önkormányzati tűzoltók egy vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik és megbontják a csarnok tetejét.",
+      "location": "Lajosmizse, Közös tanya",
+      "updates": []
+    },
+    {
+      "id": "92646",
+      "datetime": "2026.10.07. 19:19",
+      "title": "Baleset történt az 5431-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92646",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
+    {
+      "id": "92645",
+      "datetime": "2026.10.07. 19:04",
+      "title": "Kisteherautó égett az M0-án",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92645",
+      "lead": "Érd közelében forgalmi akadályra kell számítani.",
+      "body": "Kigyulladt egy kisteherautó az M0-ás autóúton, Törökbálint felé, Érd közelében, az 5-ös kilométerszelvénynél. A fővárosi hivatásos tűzoltók áramtalanítottak és egy vízsugárral visszahűtik a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Törökbálint, Felsővár utca",
+      "updates": []
+    },
     {
       "id": "92644",
       "datetime": "2026.10.07. 18:31",
@@ -38,14 +104,23 @@
     },
     {
       "id": "92641",
-      "datetime": "2026.10.07. 16:57",
+      "datetime": "2026.10.07. 16:57 -",
       "title": "Ég az aljnövényzet Szeged és Algyő között",
-      "category": "Tűzeset",
+      "category": "Ég az aljnövényzet Szeged és Algyő között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92641",
       "lead": "A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "body": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók oltják a lángokat. A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "location": "Szeged, Szabó 3 tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Szeged és Algyő között",
+          "datetime": "2026.10.07. 20:37",
+          "category": "Tűzeset",
+          "text": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók tizenkilenc vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Szeged, Szabó 3 tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92641/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92641"
+        }
+      ]
     },
     {
       "id": "92640",
@@ -346,9 +421,9 @@
       "title": "Árokba borult egy autó Budapesten, az M3-as kivezető szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92615",
-      "lead": "A 11-es kilométerszelvénynél dolgoznak a tűzoltók.",
-      "body": "Árokba borult egy személyautó Budapest XV. kerületében, az M3-as autópálya kivezető szakaszának 11-es kilométerszelvényénél. A balesethez a fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
-      "location": "Budapest, M3 kivezető",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
