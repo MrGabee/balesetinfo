@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:14:33.196755+00:00",
+  "updated_at": "2026-10-07T08:18:14.542872+00:00",
   "count": 3063,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,10 +31,19 @@
       "title": "Tűz van egy Kistarcsa és Csömör közötti szeméttelepen",
       "category": "Tűz van egy Kistarcsa és Csömör közötti szeméttelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92622",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A rajok már oltják a lángokat.",
+      "body": "Tűz ütött ki egy Kistarcsa és Csömör közötti szeméttelepen. A fővárosi és gödöllői hivatásos, valamint a csömöri, fóti és rózsadombi önkéntes tűzoltók jelenleg öt vízsugárral oltják a lángokat. A rajok munkáját három munkagép is segíti.",
+      "location": "Kistarcsa, külterület",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat a Kistarcsa és Csömör közötti szeméttelepen",
+          "datetime": "2026.10.07. 09:48",
+          "category": "Tűzeset",
+          "text": "Tűz ütött ki egy Kistarcsa és Csömör közötti szeméttelepen. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi és gödöllői hivatásos, valamint a csömöri, fóti és rózsadombi önkéntes tűzoltók öt vízsugárral elfojtották a lángokat. A rajok munkáját három munkagép is segítette.",
+          "location": "Kistarcsa, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92622/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92622"
+        }
+      ]
     },
     {
       "id": "92621",
@@ -141,9 +150,9 @@
       "title": "Felborult egy mezőgazdasági vontató Kistokaj közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92612",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 3603-as utat lezárták.",
+      "body": "Felborult egy mezőgazdasági vontató Kistokaj közelében, a 3603-as úton, az M30-as autópálya felhajtója közelében. A műszaki mentést a miskolci hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kistokaj, 3603",
       "updates": []
     },
     {
