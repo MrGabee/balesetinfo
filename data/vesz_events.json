@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T06:27:42.464934+00:00",
-  "count": 3061,
+  "updated_at": "2026-10-07T06:31:26.494351+00:00",
+  "count": 3062,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92623",
+      "datetime": "2026.10.07. 08:30",
+      "title": "Kazánház égett Alsómocsoládon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92623",
+      "lead": "Az Erdőmajorban dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy sertéstelep kazánházában, Alsómocsoládon, az Erdőmajorban. A tűz átterjedt az ott tárolt éghető anyagokra is. A dombóvári hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Alsómocsolád, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "92622",
       "datetime": "2026.10.07. 06:43",
