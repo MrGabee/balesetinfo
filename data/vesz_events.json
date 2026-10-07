@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T13:59:57.139751+00:00",
-  "count": 3075,
+  "updated_at": "2026-10-07T14:03:07.034556+00:00",
+  "count": 3076,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92637",
+      "datetime": "2026.10.07. 16:02",
+      "title": "Karambol a 14-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92637",
+      "lead": "Győr térségében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi a 14-es főúton, Győr térségében, a 4-es kilométerszelvénynél. Az autókban összesen hárman utaztak. A győri hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Győr, Galántai utca",
+      "updates": []
+    },
     {
       "id": "92636",
       "datetime": "2026.10.07. 15:10",
