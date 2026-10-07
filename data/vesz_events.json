@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T14:23:42.852366+00:00",
-  "count": 3077,
+  "updated_at": "2026-10-07T14:27:23.281344+00:00",
+  "count": 3078,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92639",
+      "datetime": "2026.10.07. 16:24",
+      "title": "Baleset történt a 471-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92639",
+      "lead": "Nyírbogátnál forgalmi akadály van.",
+      "body": "Összeütközött egy kisteherautó és egy mezőgazdasági vontató a 471-es főúton, Nyírbogát közelében, a 47-es kilométerszelvénynél. A nyírbátori hivatásos tűzoltók feszítővágó segítségével egy utast kiemeltek, akit átadták a mentőszolgálatnak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Nyírbogát, Kossuth út",
+      "updates": []
+    },
     {
       "id": "92638",
       "datetime": "2026.10.07. 16:18",
