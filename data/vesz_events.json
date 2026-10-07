@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T09:38:30.304028+00:00",
-  "count": 3064,
+  "updated_at": "2026-10-07T09:42:09.710845+00:00",
+  "count": 3065,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92626",
+      "datetime": "2026.10.07. 11:38",
+      "title": "Tűz volt egy lakásban Budapest XI. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92626",
+      "lead": "Az Egry József utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy lakóház egyik ingatlanjában Budapest XI. kerületében, az Egry József utcában. A lakás konyhája égett, ahol berendezési tárgyakat érintett a tűz. A fővárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok átszellőztetik az épületet.",
+      "location": "Budapest, Egry József utca",
+      "updates": []
+    },
     {
       "id": "92625",
       "datetime": "2026.10.07. 10:35",
