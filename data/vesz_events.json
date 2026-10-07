@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T14:16:40.831143+00:00",
-  "count": 3076,
+  "updated_at": "2026-10-07T14:20:25.898424+00:00",
+  "count": 3077,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92638",
+      "datetime": "2026.10.07. 16:18",
+      "title": "Baleset az 52-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92638",
+      "lead": "Kecskemétnél áramtalanítottak a tűzoltók.",
+      "body": "Egymásnak ütközött két gépjármű az 52-es főúton, Kecskemétnél, az 5-ös kilométerszelvénynél. A kecskeméti hivatásos tűzoltók egy járművet áramtalanítottak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kecskemét, Alsócsalános tanya",
+      "updates": []
+    },
     {
       "id": "92637",
       "datetime": "2026.10.07. 16:02",
