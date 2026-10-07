@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-07T07:40:23.621831+00:00",
-  "count": 3062,
+  "updated_at": "2026-10-07T07:43:52.950972+00:00",
+  "count": 3063,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92624",
+      "datetime": "2026.10.07. 09:43",
+      "title": "Baleset történt Bodajkon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92624",
+      "lead": "A Fehérvári utcát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Bodajkon, a Fehérvári utcában. Az autókban összesen hárman utaztak, akik ki tudtak szállni. A móri önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Bodajk, Fehérvári utca",
+      "updates": []
+    },
     {
       "id": "92623",
       "datetime": "2026.10.07. 08:30",
@@ -97,9 +108,9 @@
       "title": "Árokba borult egy autó Budapesten, az M3-as kivezető szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92615",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 11-es kilométerszelvénynél dolgoznak a tűzoltók.",
+      "body": "Árokba borult egy személyautó Budapest XV. kerületében, az M3-as autópálya kivezető szakaszának 11-es kilométerszelvényénél. A balesethez a fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Budapest, M3 kivezető",
       "updates": []
     },
     {
