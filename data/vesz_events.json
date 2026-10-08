@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T10:06:09.051905+00:00",
+  "updated_at": "2026-10-08T10:09:43.064262+00:00",
   "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Tűz volt Sükösdön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92660",
-      "lead": "A tűzoltókat a Petőfi Sándor utcába riasztották.",
-      "body": "Tűz volt egy melléképületben, Sükösdön, a Petőfi Sándor utcában. Egy hat négyzetméter alapterületű kazánhelyiség égett. A bajai hivatásos tűzoltók két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
-      "location": "Sükösd, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -31,9 +31,9 @@
       "title": "Baleset a 8704-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92659",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Sorkifaludnál a fák közé csapódott egy jármű.",
+      "body": "Fák közé csapódott egy személyautó Sorkifaludnál, a 8704-es út 5-ös kilométerénél. A szombathelyi hivatásos és a vasvári önkormányzati tűzoltók végzik a műszaki mentést. A mentőszolgálat is a helyszínen dolgozik.",
+      "location": "Sorkifalud, 8704",
       "updates": []
     },
     {
@@ -261,16 +261,7 @@
       "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
       "location": "Budapest, Eszter utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Budapest II. kerületében",
-          "datetime": "2026.10.07. 18:36",
-          "category": "Tűzeset",
-          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
-          "location": "Budapest, Eszter utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92639",
