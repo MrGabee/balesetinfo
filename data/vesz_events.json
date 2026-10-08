@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T12:00:26.993087+00:00",
+  "updated_at": "2026-10-08T12:03:45.713837+00:00",
   "count": 3109,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "92667",
-      "datetime": "2026.10.08. 13:06",
+      "datetime": "2026.10.08. 13:06 -",
       "title": "Tűz van Madarasnál",
-      "category": "Tűzeset",
+      "category": "Tűz van Madarasnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92667",
       "lead": "A szél nehezíti az oltást.",
       "body": "Tűz keletkezett Madaras külterületén. Nagy területen cserjés, száraz fű és avar ég. A bajai hivatásos és a bácsalmási önkormányzati tűzoltók dolgoznak a helyszínen. A szél nehezíti az oltást.",
       "location": "Madaras, Madarasi szőlők tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók Madarasnál",
+          "datetime": "2026.10.08. 14:01",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Madarasnál, ahol mintegy hat hektáron cserjés, száraz fű és avar gyulladt ki. A szél nehezítette az oltást. A bajai hivatásos és a bácsalmási önkormányzati, valamint önkéntes tűzoltók három vízsugárral fékezték meg a tüzet. A munkálatokat egy erőgép is segíti. Utómunkálatokat végeznek az egységek.",
+          "location": "Madaras, Madarasi szőlők tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92667/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92667"
+        }
+      ]
     },
     {
       "id": "92666",
@@ -64,9 +73,9 @@
       "title": "Két autó ütközött Kisvárdán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92665",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Összeütközött két személygépkocsi Kisvárdán, a Hunyadi utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket. A mentőszolgálat is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Kisvárda, Hunyadi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
