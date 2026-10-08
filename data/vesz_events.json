@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T16:47:46.310500+00:00",
-  "count": 3123,
+  "updated_at": "2026-10-08T16:51:09.647729+00:00",
+  "count": 3124,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92685",
+      "datetime": "2026.10.08. 18:48",
+      "title": "Tűz volt Kölesdnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92685",
+      "lead": "Jelenleg az utómunkálatokat végzik a tűzoltók.",
+      "body": "Mintegy két hektáron aljnövényzet, gaz és avar égett Kölesdnél, a Szekszárdi útnál. A szekszárdi és a paksi hivatásos tűzoltók két vízsugárral és puttonyfecskendőkkel oltották el a lángokat a Tolna vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy kalocsai vízszállító jármű is segíti. Utómunkálatokat zajlanak jelenleg a helyszínen.",
+      "location": "Kölesd, Szekszárdi út",
+      "updates": []
+    },
     {
       "id": "92684",
       "datetime": "2026.10.08. 17:56",
