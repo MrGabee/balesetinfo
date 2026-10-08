@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T17:46:12.864609+00:00",
-  "count": 3127,
+  "updated_at": "2026-10-08T17:49:34.719092+00:00",
+  "count": 3128,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92689",
+      "datetime": "2026.10.08. 19:48",
+      "title": "Árokba hajtott egy autó Hévízgyörknél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92689",
+      "lead": "A 3-as főút érintett szakaszán félpályán halad a forgalom.",
+      "body": "Letért az útról és az árokba hajtott egy személygépkocsi Hévízgyörknél, a 3-as főút 49-es kilométerénél. Az aszódi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Hévízgyörk, 3",
+      "updates": []
+    },
     {
       "id": "92688",
       "datetime": "2026.10.08. 19:15",
