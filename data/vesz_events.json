@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T04:35:58.663043+00:00",
-  "count": 3090,
+  "updated_at": "2026-10-08T04:39:11.661392+00:00",
+  "count": 3091,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92652",
+      "datetime": "2026.10.08. 06:38",
+      "title": "Autó égett a 2137-es úton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92652",
+      "lead": "Kálló és Vanyarc között félpályán halad a forgalom.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi a 2137-es úton, Kálló és Vanyarc között, a 7-es kilométerszelvénynél. Az aszódi hivatásos tűzoltók eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Erdőkürt, Morgos puszta",
+      "updates": []
+    },
     {
       "id": "92651",
       "datetime": "2026.10.08. 06:32",
