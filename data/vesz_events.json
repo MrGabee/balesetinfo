@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T05:18:33.970671+00:00",
-  "count": 3092,
+  "updated_at": "2026-10-08T05:21:59.006203+00:00",
+  "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92654",
+      "datetime": "2026.10.08. 07:21",
+      "title": "Szalagkorlátnak hajtott egy busz az M5-ön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92654",
+      "lead": "Röszke közelében forgalmi akadály van.",
+      "body": "Letért az útról és szalagkorlátnak ütközött egy busz az M5-ös autópályán, Röszke felé, Röszke közelében, a 170-es kilométerszelvénynél. A buszon összesen tizenhárman utaztak. A szegedi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Röszke, II. körzet",
+      "updates": []
+    },
     {
       "id": "92653",
       "datetime": "2026.10.08. 06:42",
