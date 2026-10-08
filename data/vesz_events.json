@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:33:28.948458+00:00",
-  "count": 3117,
+  "updated_at": "2026-10-08T14:36:56.194013+00:00",
+  "count": 3118,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92679",
+      "datetime": "2026.10.08. 16:34",
+      "title": "Aljnövényzet gyulladt ki Rakamaznál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92679",
+      "lead": "A tűzoltók egy vízsugárral és kéziszerszámokkal oltják a lángokat.",
+      "body": "Száraz aljnövényzet ég Rakamaz külterületén, a Nagy-Morotvánál. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók dolgoznak a helyszínen. Az oltási munkálatokat egy nyíregyházi vízszállító jármű is segíti.",
+      "location": "Rakamaz, Nagy-Morotva",
+      "updates": []
+    },
     {
       "id": "92678",
       "datetime": "2026.10.08. 16:25",
