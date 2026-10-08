@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T07:52:15.377006+00:00",
-  "count": 3094,
+  "updated_at": "2026-10-08T07:55:42.780272+00:00",
+  "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92656",
+      "datetime": "2026.10.08. 09:55",
+      "title": "Munkagép égett Bükkszenterzsébetnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92656",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt és teljes terjedelmében égett Bükkszenterzsébet határánál. Az egri hivatásos tűzoltókat riasztották az esethez. A raj egy vízsugárral eloltotta a lángokat.",
+      "location": "Bükkszenterzsébet, külterület",
+      "updates": []
+    },
     {
       "id": "92655",
       "datetime": "2026.10.08. 08:38",
@@ -56,16 +67,7 @@
       "lead": "A tűzoltók jelenleg három vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy csarnok Sükösd külterületén, az 54-es főút mellett. A helyszínen egy könnyű szerkezetes épület, egy olajtároló és egy hozzáépített nyitott szín ég. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a bajai és a kalocsai hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. Az egységek több gázpalackot is kihoztak.",
       "location": "Sükösd, Dózsa György út",
-      "updates": [
-        {
-          "title": "Eloltották a csarnoktüzet Sükösdnél",
-          "datetime": "2026.10.08. 08:32",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Sükösd külterületén, az 54-es főút mellett, ahol egy csarnok gyulladt ki. Egy könnyű szerkezetes épület, egy olajtároló és egy hozzáépített szín égett a helyszínen. A bajai és a kalocsai hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, három vízsugárral fékezték meg a tüzet. A munkálatok során több palackot is kihoztak az egységek. Az oltást egy mohácsi vízszállító jármű is segítette. A rajok jelenleg az utómunkálatokat végzik.",
-          "location": "Sükösd, Dózsa György út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92651/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92651"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92650",
@@ -399,10 +401,19 @@
       "title": "Tűz van egy Kistarcsa és Csömör közötti szeméttelepen",
       "category": "Tűz van egy Kistarcsa és Csömör közötti szeméttelepen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92622",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A rajok már oltják a lángokat.",
+      "body": "Tűz ütött ki egy Kistarcsa és Csömör közötti szeméttelepen. A fővárosi és gödöllői hivatásos, valamint a csömöri, fóti és rózsadombi önkéntes tűzoltók jelenleg öt vízsugárral oltják a lángokat. A rajok munkáját három munkagép is segíti.",
+      "location": "Kistarcsa, külterület",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat a Kistarcsa és Csömör közötti szeméttelepen",
+          "datetime": "2026.10.07. 09:48",
+          "category": "Tűzeset",
+          "text": "Tűz ütött ki egy Kistarcsa és Csömör közötti szeméttelepen. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi és gödöllői hivatásos, valamint a csömöri, fóti és rózsadombi önkéntes tűzoltók öt vízsugárral elfojtották a lángokat. A rajok munkáját három munkagép is segítette.",
+          "location": "Kistarcsa, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92622/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92622"
+        }
+      ]
     },
     {
       "id": "92621",
