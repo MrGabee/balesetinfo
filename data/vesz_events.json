@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T13:25:14.802774+00:00",
-  "count": 3112,
+  "updated_at": "2026-10-08T13:28:32.860057+00:00",
+  "count": 3113,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92674",
+      "datetime": "2026.10.08. 15:25",
+      "title": "Motoros és autós karambolozott Budaörsön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92674",
+      "lead": "Egy villanyoszlop is kidőlt.",
+      "body": "Motorkerékpárossal karambolozott egy személygépkocsi Budaörsön, a Templom téren. A személyautó egy villanyoszlopnak is ütközött, amely ennek következtében kidőlt. A törökbálinti hivatásos és a helyi önkéntes tűzoltókat riasztották az esethez.",
+      "location": "Budaörs, Templom tér",
+      "updates": []
+    },
     {
       "id": "92673",
       "datetime": "2026.10.08. 15:10",
@@ -115,9 +126,9 @@
       "title": "Két autó ütközött Kisvárdán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92665",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kisvárdán, a Hunyadi utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket. A mentőszolgálat is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisvárda, Hunyadi utca",
       "updates": []
     },
     {
@@ -214,9 +225,9 @@
       "title": "Munkagép égett Bükkszenterzsébetnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92656",
-      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
-      "body": "Kigyulladt és teljes terjedelmében égett Bükkszenterzsébet határánál. Az egri hivatásos tűzoltókat riasztották az esethez. A raj egy vízsugárral eloltotta a lángokat.",
-      "location": "Bükkszenterzsébet, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
