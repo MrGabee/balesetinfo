@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T11:46:43.478908+00:00",
-  "count": 3108,
+  "updated_at": "2026-10-08T11:50:12.538003+00:00",
+  "count": 3109,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92670",
+      "datetime": "2026.10.08. 13:49",
+      "title": "Családi ház ég Bérbaltaváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92670",
+      "lead": "A tűzoltók a Rákóczi Ferenc utcában oltják a lángokat.",
+      "body": "Kigyulladt egy lakóház Bérbaltaváron, a Rákóczi Ferenc utcában. A száz négyzetméter alapterületű ingatlan teljes terjedelmében ég. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók négy vízsugárral oltják a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Bérbaltavár, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92669",
       "datetime": "2026.10.08. 13:41",
@@ -196,9 +207,9 @@
       "title": "Autó égett a 2137-es úton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92652",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kálló és Vanyarc között félpályán halad a forgalom.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi a 2137-es úton, Kálló és Vanyarc között, a 7-es kilométerszelvénynél. Az aszódi hivatásos tűzoltók eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Erdőkürt, Morgos puszta",
       "updates": []
     },
     {
@@ -421,9 +432,9 @@
       "title": "Családi ház és autók égtek Tengelic térségében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92634",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Vadászmajorban dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy családi ház tetőszerkezete Tengelicen, a Vadászmajorban. A tűz két személygépkocsit is érintett. A Tolna vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, a paksi és szekszárdi hivatásos tűzoltók négy vízsugárral elfojtották a lángokat.",
+      "location": "Tengelic, Vadászmajor",
       "updates": []
     },
     {
