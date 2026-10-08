@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T08:48:28.005792+00:00",
-  "count": 3098,
+  "updated_at": "2026-10-08T08:52:35.254422+00:00",
+  "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92660",
+      "datetime": "2026.10.08. 10:50",
+      "title": "Tűz volt Sükösdön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92660",
+      "lead": "A tűzoltókat a Petőfi Sándor utcába riasztották.",
+      "body": "Tűz volt egy melléképületben, Sükösdön, a Petőfi Sándor utcában. Egy hat négyzetméter alapterületű kazánhelyiség égett. A bajai hivatásos tűzoltók két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
+      "location": "Sükösd, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "92659",
       "datetime": "2026.10.08. 10:43",
