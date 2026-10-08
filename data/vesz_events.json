@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:28:56.602463+00:00",
+  "updated_at": "2026-10-08T07:32:55.570344+00:00",
   "count": 3094,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -192,10 +192,19 @@
       "title": "Kigyulladt egy lakás szigetelése Budapest II. kerületében",
       "category": "Kigyulladt egy lakás szigetelése Budapest II. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
+      "location": "Budapest, Eszter utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest II. kerületében",
+          "datetime": "2026.10.07. 18:36",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Budapest, Eszter utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
+        }
+      ]
     },
     {
       "id": "92639",
