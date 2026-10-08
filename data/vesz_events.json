@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T04:29:42.238181+00:00",
-  "count": 3089,
+  "updated_at": "2026-10-08T04:32:33.383579+00:00",
+  "count": 3090,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92651",
+      "datetime": "2026.10.08. 06:32",
+      "title": "Csarnok ég Sükösdnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92651",
+      "lead": "A tűzoltók jelenleg három vízsugárral oltják a lángokat.",
+      "body": "Kigyulladt egy csarnok Sükösd külterületén, az 54-es főút mellett. A helyszínen egy könnyű szerkezetes épület, egy olajtároló és egy hozzáépített nyitott szín ég. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a bajai és a kalocsai hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. Az egységek több gázpalackot is kihoztak.",
+      "location": "Sükösd, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "92650",
       "datetime": "2026.10.07. 21:04",
