@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:55:20.405295+00:00",
-  "count": 3119,
+  "updated_at": "2026-10-08T14:58:44.739380+00:00",
+  "count": 3120,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92681",
+      "datetime": "2026.10.08. 16:57",
+      "title": "Hármas karambol Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92681",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Összeütközött három személygépkocsi Győrben, a 82-es főút, azaz a Szent Imre út és a Régi Veszprémi út körforgalmánál. A győri hivatásos tűzoltók egy embert kiemeltek az egyik járműből. A rajok áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Győr, Régi Veszprémi út",
+      "updates": []
+    },
     {
       "id": "92680",
       "datetime": "2026.10.08. 16:42",
