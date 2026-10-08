@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T13:28:32.860057+00:00",
-  "count": 3113,
+  "updated_at": "2026-10-08T13:31:54.253409+00:00",
+  "count": 3114,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92675",
+      "datetime": "2026.10.08. 15:30",
+      "title": "Utoléréses baleset történt a XI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92675",
+      "lead": "Forgalmi akadály van.",
+      "body": "Karambolozott két személygépkocsi Budapest XI. kerületében, a Karolina úton, a Bocskai út közelében. A fővárosi hivatásos tűzoltók egy embert kiemeltek az egyik járműből. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Karolina út",
+      "updates": []
+    },
     {
       "id": "92674",
       "datetime": "2026.10.08. 15:25",
@@ -225,9 +236,9 @@
       "title": "Munkagép égett Bükkszenterzsébetnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92656",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt és teljes terjedelmében égett Bükkszenterzsébet határánál. Az egri hivatásos tűzoltókat riasztották az esethez. A raj egy vízsugárral eloltotta a lángokat.",
+      "location": "Bükkszenterzsébet, külterület",
       "updates": []
     },
     {
