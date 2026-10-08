@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T08:41:08.668838+00:00",
-  "count": 3097,
+  "updated_at": "2026-10-08T08:45:03.792307+00:00",
+  "count": 3098,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92659",
+      "datetime": "2026.10.08. 10:43",
+      "title": "Baleset a 8704-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92659",
+      "lead": "Sorkifaludnál a fák közé csapódott egy jármű.",
+      "body": "Fák közé csapódott egy személyautó Sorkifaludnál, a 8704-es út 5-ös kilométerénél. A szombathelyi hivatásos és a vasvári önkormányzati tűzoltók végzik a műszaki mentést. A mentőszolgálat is a helyszínen dolgozik.",
+      "location": "Sorkifalud, 8704",
+      "updates": []
+    },
     {
       "id": "92658",
       "datetime": "2026.10.08. 10:17",
