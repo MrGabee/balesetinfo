@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:59:32.178394+00:00",
+  "updated_at": "2026-10-08T08:02:44.462965+00:00",
   "count": 3096,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,7 +78,16 @@
       "lead": "A tűzoltók jelenleg három vízsugárral oltják a lángokat.",
       "body": "Kigyulladt egy csarnok Sükösd külterületén, az 54-es főút mellett. A helyszínen egy könnyű szerkezetes épület, egy olajtároló és egy hozzáépített nyitott szín ég. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a bajai és a kalocsai hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. Az egységek több gázpalackot is kihoztak.",
       "location": "Sükösd, Dózsa György út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a csarnoktüzet Sükösdnél",
+          "datetime": "2026.10.08. 08:32",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Sükösd külterületén, az 54-es főút mellett, ahol egy csarnok gyulladt ki. Egy könnyű szerkezetes épület, egy olajtároló és egy hozzáépített szín égett a helyszínen. A bajai és a kalocsai hivatásos tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett, három vízsugárral fékezték meg a tüzet. A munkálatok során több palackot is kihoztak az egységek. Az oltást egy mohácsi vízszállító jármű is segítette. A rajok jelenleg az utómunkálatokat végzik.",
+          "location": "Sükösd, Dózsa György út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92651/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92651"
+        }
+      ]
     },
     {
       "id": "92650",
