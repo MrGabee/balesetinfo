@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:12:00.376569+00:00",
-  "count": 3115,
+  "updated_at": "2026-10-08T14:15:36.597051+00:00",
+  "count": 3116,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92677",
+      "datetime": "2026.10.08. 16:15",
+      "title": "Melléképülettűz Jármiban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92677",
+      "lead": "A Kossuth Lajos utcában végzik az utómunkálatokat a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Jármiban, a Kossuth Lajos utcában. A tűz a lakóházra nem terjedt át. A mátészalkai hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Jármi, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92676",
       "datetime": "2026.10.08. 15:39",
