@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-08T10:29:04.381062+00:00",
-  "count": 3102,
+  "updated_at": "2026-10-08T10:32:33.816951+00:00",
+  "count": 3104,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92665",
+      "datetime": "2026.10.08. 12:32",
+      "title": "Két autó ütközött Kisvárdán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92665",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kisvárdán, a Hunyadi utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket. A mentőszolgálat is a helyszínre érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisvárda, Hunyadi utca",
+      "updates": []
+    },
+    {
+      "id": "92664",
+      "datetime": "2026.10.08. 12:30",
+      "title": "Konyhatűz Cecén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92664",
+      "lead": "Az Árpád utcába riasztották a tűzoltókat.",
+      "body": "Tűz volt egy lakóházban, Cecén, az Árpád utcában. Az ingatlan konyhájában tűzhelyen felejtett étel gyulladt ki. A sárbogárdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Cece, Árpád utca",
+      "updates": []
+    },
     {
       "id": "92663",
       "datetime": "2026.10.08. 12:12",
