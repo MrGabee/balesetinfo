@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T12:29:31.532472+00:00",
+  "updated_at": "2026-10-08T12:33:17.704725+00:00",
   "count": 3110,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92670",
-      "datetime": "2026.10.08. 13:49",
+      "datetime": "2026.10.08. 13:49 -",
       "title": "Családi ház ég Bérbaltaváron",
-      "category": "Tűzeset",
+      "category": "Családi ház ég Bérbaltaváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92670",
       "lead": "A tűzoltók a Rákóczi Ferenc utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Bérbaltaváron, a Rákóczi Ferenc utcában. A száz négyzetméter alapterületű ingatlan teljes terjedelmében ég. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók négy vízsugárral oltják a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
       "location": "Bérbaltavár, Rákóczi Ferenc utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Bérbaltaváron",
+          "datetime": "2026.10.08. 14:30",
+          "category": "Tűzeset",
+          "text": "Eloltották az egységek a lángokat Bérbaltaváron, a Rákóczi Ferenc utcában, ahol egy száz négyzetméteres családi ház teljes terjedelmében égett. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók több vízsugárral fékezték meg a lángokat. Egy zalaegerszegi vízszállító jármű is segíti a munkálatokat. A rajok elhúzódó utómunkálatokra számítani.",
+          "location": "Bérbaltavár, Rákóczi Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92670/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92670"
+        }
+      ]
     },
     {
       "id": "92669",
@@ -95,9 +104,9 @@
       "title": "Konyhatűz Cecén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92664",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád utcába riasztották a tűzoltókat.",
+      "body": "Tűz volt egy lakóházban, Cecén, az Árpád utcában. Az ingatlan konyhájában tűzhelyen felejtett étel gyulladt ki. A sárbogárdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Cece, Árpád utca",
       "updates": []
     },
     {
@@ -291,9 +300,9 @@
       "title": "Csarnok égett Lajosmizsén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92647",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Kigyulladt egy csarnok Lajosmizsén, a Közös tanyánál. Az épületben száraz virág és gyártáshoz alkalmazott termékek égtek. A Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kecskeméti és a dabasi hivatásos, illetve a helyi önkormányzati tűzoltók egy vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik és megbontják a csarnok tetejét.",
+      "location": "Lajosmizse, Közös tanya",
       "updates": []
     },
     {
