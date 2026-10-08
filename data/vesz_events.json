@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T12:43:49.024899+00:00",
-  "count": 3110,
+  "updated_at": "2026-10-08T12:47:20.220151+00:00",
+  "count": 3111,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92672",
+      "datetime": "2026.10.08. 14:46",
+      "title": "Két autó ütközött a VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92672",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött két személygépkocsi Budapest VIII. kerületében, a Dózsa György úton, egy benzinkútnál. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A raj áramtalanította a járműveket.",
+      "location": "Budapest, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "92671",
       "datetime": "2026.10.08. 14:21",
