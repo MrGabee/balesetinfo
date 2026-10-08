@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T13:08:57.880567+00:00",
-  "count": 3111,
+  "updated_at": "2026-10-08T13:12:54.801077+00:00",
+  "count": 3112,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92673",
+      "datetime": "2026.10.08. 15:10",
+      "title": "Baleset a XII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92673",
+      "lead": "A Kiss János altábornagy utcában riasztották a tűzoltókat.",
+      "body": "Parkoló járműveknek ütközött egy furgon Budapest XII. kerületében, a Kiss János altábornagy utcában. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. Az egység áramtalanította a furgont.",
+      "location": "Budapest, Kiss János altábornagy utca",
+      "updates": []
+    },
     {
       "id": "92672",
       "datetime": "2026.10.08. 14:46",
@@ -247,9 +258,9 @@
       "title": "Autó égett a 2137-es úton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92652",
-      "lead": "Kálló és Vanyarc között félpályán halad a forgalom.",
-      "body": "Teljes terjedelmében égett egy személygépkocsi a 2137-es úton, Kálló és Vanyarc között, a 7-es kilométerszelvénynél. Az aszódi hivatásos tűzoltók eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Erdőkürt, Morgos puszta",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
