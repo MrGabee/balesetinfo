@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T07:55:42.780272+00:00",
-  "count": 3095,
+  "updated_at": "2026-10-08T07:59:32.178394+00:00",
+  "count": 3096,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92657",
+      "datetime": "2026.10.08. 09:58",
+      "title": "Tűz volt Csurgón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92657",
+      "lead": "Az Eötvös utcába riasztották a tűzoltókat.",
+      "body": "Zöldhulladék égett Csurgón, az Eötvös utcában. A tűz egy hat négyzetméteres, romos melléképületre is átterjedt. A csurgói önkormányzati tűzoltók egy vízsugárral eloltották a lángokat..",
+      "location": "Csurgó, Eötvös utca",
+      "updates": []
+    },
     {
       "id": "92656",
       "datetime": "2026.10.08. 09:55",
