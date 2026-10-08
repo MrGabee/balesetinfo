@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T04:39:11.661392+00:00",
-  "count": 3091,
+  "updated_at": "2026-10-08T04:42:51.229376+00:00",
+  "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92653",
+      "datetime": "2026.10.08. 06:42",
+      "title": "Árokba csúszott egy autó a 834-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92653",
+      "lead": "Nyárád közelében félpályán halad a forgalom.",
+      "body": "Árokba csúszott és fának ütközött egy személygépkocsi a 834-es főúton, Nyárád közelében, a 9-es kilométerszelvénynél. Az autóban csak a sofőr utazott. A pápai hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyárád, Arany János utca",
+      "updates": []
+    },
     {
       "id": "92652",
       "datetime": "2026.10.08. 06:38",
