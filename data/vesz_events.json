@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T10:56:44.853064+00:00",
-  "count": 3104,
+  "updated_at": "2026-10-08T11:00:19.340446+00:00",
+  "count": 3105,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92666",
+      "datetime": "2026.10.08. 12:56",
+      "title": "Baleset Nagykónyinál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92666",
+      "lead": "A 61-es főút érintett szakaszán félpályán halad a forgalom.",
+      "body": "Egy személygépkocsi és egy teherautó ütközött Nagykónyinál, a 61-es főút 63-as kilométerénél. A teherautó defektet kapott, emiatt történt a karambol. A tamási önkormányzati tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nagykónyi, 61",
+      "updates": []
+    },
     {
       "id": "92665",
       "datetime": "2026.10.08. 12:32",
@@ -260,9 +271,9 @@
       "title": "Baleset történt Budapest XIX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92643",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Üllői úton félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi Budapest XIX. kerületében, az Üllői úton. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budapest, Üllői út",
       "updates": []
     },
     {
@@ -285,7 +296,16 @@
       "lead": "A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "body": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók oltják a lángokat. A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "location": "Szeged, Szabó 3 tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Szeged és Algyő között",
+          "datetime": "2026.10.07. 20:37",
+          "category": "Tűzeset",
+          "text": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók tizenkilenc vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Szeged, Szabó 3 tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92641/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92641"
+        }
+      ]
     },
     {
       "id": "92640",
@@ -296,7 +316,16 @@
       "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
       "location": "Budapest, Eszter utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest II. kerületében",
+          "datetime": "2026.10.07. 18:36",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Budapest, Eszter utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
+        }
+      ]
     },
     {
       "id": "92639",
