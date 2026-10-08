@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-08T10:09:43.064262+00:00",
-  "count": 3100,
+  "updated_at": "2026-10-08T10:13:49.448018+00:00",
+  "count": 3102,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92663",
+      "datetime": "2026.10.08. 12:12",
+      "title": "Melléképület égett Érden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92663",
+      "lead": "A Bendegúz utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Érden, a Bendegúz utcában. A mintegy ötven négyzetméter alapterületű melléképület teljes terjedelmében égett. Az érdi hivatásos tűzoltók három vízsugárral elfojtották a lángokat.",
+      "location": "Érd, Bendegúz utca",
+      "updates": []
+    },
+    {
+      "id": "92662",
+      "datetime": "2026.10.08. 12:11",
+      "title": "Autótűz Szeghalmon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92662",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Tűz volt egy családi háznál, Szeghalmon, az Újtelep VIII. utcában. A lakóház udvarán egy személyautó égett. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Szeghalom, Újtelep VIII. utca",
+      "updates": []
+    },
     {
       "id": "92661",
       "datetime": "2026.10.08. 11:37",
@@ -20,9 +42,9 @@
       "title": "Tűz volt Sükösdön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92660",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat a Petőfi Sándor utcába riasztották.",
+      "body": "Tűz volt egy melléképületben, Sükösdön, a Petőfi Sándor utcában. Egy hat négyzetméter alapterületű kazánhelyiség égett. A bajai hivatásos tűzoltók két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
+      "location": "Sükösd, Petőfi Sándor utca",
       "updates": []
     },
     {
@@ -261,7 +283,16 @@
       "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
       "location": "Budapest, Eszter utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest II. kerületében",
+          "datetime": "2026.10.07. 18:36",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Budapest, Eszter utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
+        }
+      ]
     },
     {
       "id": "92639",
