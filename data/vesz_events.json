@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T09:33:52.792281+00:00",
-  "count": 3099,
+  "updated_at": "2026-10-08T09:37:30.170064+00:00",
+  "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92661",
+      "datetime": "2026.10.08. 11:37",
+      "title": "Tűz keletkezett Nyíradonyban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92661",
+      "lead": "A Szénégető úton csaptak fel a lángok.",
+      "body": "Tűz keletkezett Nyíradony aradványpusztai városrészén, a Szénégető úton. A helyszínen körülbelül száz négyzetméter száraz avar, gaz égett, valamint mintegy ötven darab raklap. A tűz átterjedt egy kamionról leszerelt utasfülkére és tűzifára is. A nyíradonyi hivatásos és a szakolyi önkormányzati tűzoltók két vízsugárral és kéziszerszámokkal eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Nyíradony, Szénégető út",
+      "updates": []
+    },
     {
       "id": "92660",
       "datetime": "2026.10.08. 10:50",
@@ -97,9 +108,9 @@
       "title": "Autó égett a 2137-es úton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92652",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kálló és Vanyarc között félpályán halad a forgalom.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi a 2137-es úton, Kálló és Vanyarc között, a 7-es kilométerszelvénynél. Az aszódi hivatásos tűzoltók eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Erdőkürt, Morgos puszta",
       "updates": []
     },
     {
@@ -250,7 +261,16 @@
       "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
       "location": "Budapest, Eszter utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Budapest II. kerületében",
+          "datetime": "2026.10.07. 18:36",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Budapest, Eszter utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
+        }
+      ]
     },
     {
       "id": "92639",
@@ -368,9 +388,9 @@
       "title": "Baleset történt az M5-ön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92629",
-      "lead": "Inárcs térségében egy sávon halad a forgalom.",
-      "body": "Összeütközött két kamion és két személygépkocsi az M5-ös autópályán, Budapest felé, Inárcs térségében, a 37-es kilométerszelvénynél. A dabasi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Inárcs, Erdősor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
