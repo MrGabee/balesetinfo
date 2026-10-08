@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T15:41:00.941496+00:00",
-  "count": 3121,
+  "updated_at": "2026-10-08T15:44:27.479595+00:00",
+  "count": 3122,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92683",
+      "datetime": "2026.10.08. 17:43",
+      "title": "Tűz volt Sarkadon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92683",
+      "lead": "A Magyar utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki Sarkadon, a Magyar utcában. Mintegy háromszáz négyzetméteren aljnövényzet és szemét égett. A tűz három portát és egy melléképületet is érintett. A lakóházakra nem terjedtek át a lángok. A gyulai hivatásos tűzoltók három vízsugárral fékezték meg a tüzet. A Békés vármegyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
+      "location": "Sarkad, Magyar utca",
+      "updates": []
+    },
     {
       "id": "92682",
       "datetime": "2026.10.08. 17:03",
