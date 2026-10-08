@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T15:55:42.771607+00:00",
-  "count": 3122,
+  "updated_at": "2026-10-08T15:59:27.138594+00:00",
+  "count": 3123,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92684",
+      "datetime": "2026.10.08. 17:56",
+      "title": "Négyes karambol a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92684",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött négy személygépkocsi Budapest X. kerületében, a Horog utca és a Kőbányai út kereszteződésénél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A raj három járművet áramtalanították. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Budapest, Kőbányai út",
+      "updates": []
+    },
     {
       "id": "92683",
       "datetime": "2026.10.08. 17:43",
@@ -98,7 +109,16 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a lángokat.",
       "body": "Kigyulladt egy száz négyzetméteres családi ház és egy mellette lévő személyautó Törökbálinton, a Temető köznél. A törökbálinti és az érdi hivatásos tűzoltók három vízsugárral már körülhatárolták a lángokat.",
       "location": "Törökbálint, Temető köz",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat Törökbálinton",
+          "datetime": "2026.10.08. 17:53",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a rajok Törökbálinton, a Temető köznél, ahol egy lakóház és egy mellette lévő személyautó gyulladt ki. A száz négyzetméteres családi ház felső szintje és tetőszerkezete égett. A törökbálinti és az érdi hivatásos tűzoltók öt vízsugárral oltották el a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálatot is a helyszínre riasztották.",
+          "location": "Törökbálint, Temető köz",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92676/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92676"
+        }
+      ]
     },
     {
       "id": "92675",
