@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T21:57:28.366271+00:00",
-  "count": 3129,
+  "updated_at": "2026-10-08T22:01:06.904247+00:00",
+  "count": 3130,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92691",
+      "datetime": "2026.10.08. 23:57",
+      "title": "Tetejére borult egy autó Túrkeve határánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92691",
+      "lead": "A 4202-es úton történt a baleset.",
+      "body": "Tetejével az árokba borult egy személyautó Túrkeve határánál, a 4202-es út 24-es kilométerénél. A baleset következtében egy fa is kidőlt. A műszaki mentési munkálatok elvégzéséhez a mezőtúri hivatásos és a túrkevei önkéntes tűzoltók vonultak ki. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Túrkeve, 4202",
+      "updates": []
+    },
     {
       "id": "92690",
       "datetime": "2026.10.08. 23:06",
