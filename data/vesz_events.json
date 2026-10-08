@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T10:01:50.981882+00:00",
+  "updated_at": "2026-10-08T10:06:09.051905+00:00",
   "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Baleset a 8704-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92659",
-      "lead": "Sorkifaludnál a fák közé csapódott egy jármű.",
-      "body": "Fák közé csapódott egy személyautó Sorkifaludnál, a 8704-es út 5-ös kilométerénél. A szombathelyi hivatásos és a vasvári önkormányzati tűzoltók végzik a műszaki mentést. A mentőszolgálat is a helyszínen dolgozik.",
-      "location": "Sorkifalud, 8704",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -241,7 +241,16 @@
       "lead": "A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "body": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók oltják a lángokat. A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "location": "Szeged, Szabó 3 tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Szeged és Algyő között",
+          "datetime": "2026.10.07. 20:37",
+          "category": "Tűzeset",
+          "text": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók tizenkilenc vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+          "location": "Szeged, Szabó 3 tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92641/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92641"
+        }
+      ]
     },
     {
       "id": "92640",
