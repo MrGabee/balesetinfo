@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:30:38.536803+00:00",
+  "updated_at": "2026-10-08T09:33:52.792281+00:00",
   "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -97,9 +97,9 @@
       "title": "Autó égett a 2137-es úton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92652",
-      "lead": "Kálló és Vanyarc között félpályán halad a forgalom.",
-      "body": "Teljes terjedelmében égett egy személygépkocsi a 2137-es úton, Kálló és Vanyarc között, a 7-es kilométerszelvénynél. Az aszódi hivatásos tűzoltók eloltották a lángokat. A raj az utómunkálatokat végzi. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Erdőkürt, Morgos puszta",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -250,16 +250,7 @@
       "lead": "Az Eszter utcában dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral oltják a lángokat. A rajok megkezdték a tetőszerkezet megbontását.",
       "location": "Budapest, Eszter utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Budapest II. kerületében",
-          "datetime": "2026.10.07. 18:36",
-          "category": "Tűzeset",
-          "text": "Tűz keletkezett egy felújítás alatt álló három szintes társasház szigetelésén Budapest II. kerületében, az Eszter utcában. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók két vízsugárral fojtották el a lángokat. A rajok az utómunkálatokat végzik.",
-          "location": "Budapest, Eszter utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92640/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92640"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92639",
