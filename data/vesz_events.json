@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:22:31.240399+00:00",
-  "count": 3116,
+  "updated_at": "2026-10-08T14:26:02.849629+00:00",
+  "count": 3117,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92678",
+      "datetime": "2026.10.08. 16:25",
+      "title": "Tűz ütött ki Penészleknél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92678",
+      "lead": "Hat hektárt érintenek a lángok.",
+      "body": "Mintegy hat hektáron száraz fű és alacsony füves vegetáció Penészleknél, a Táncsics Mihály utcánál. A nyíradonyi, a nyírbátori és a mátészalkai hivatásos tűzoltók oltják a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett zajlanak a munkálatok.",
+      "location": "Penészlek, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "92677",
       "datetime": "2026.10.08. 16:15",
