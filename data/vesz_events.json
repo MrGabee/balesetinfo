@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T15:02:32.509259+00:00",
-  "count": 3120,
+  "updated_at": "2026-10-08T15:06:00.616004+00:00",
+  "count": 3121,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92682",
+      "datetime": "2026.10.08. 17:03",
+      "title": "Garázstűz Endrőcön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92682",
+      "lead": "A tűzoltók egy vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt egy garázs Endrőcön, a Fő utcában, a Teklafaluhoz közelebb eső felében. A huszonnégy négyzetméteres épület teljes terjedelmében égett. A sellyei hivatásos tűzoltók egy vízsugárral eloltották a lángokat. Utómunkálatok zajlanak a helyszínen.",
+      "location": "Endrőc, Fő utca",
+      "updates": []
+    },
     {
       "id": "92681",
       "datetime": "2026.10.08. 16:57",
