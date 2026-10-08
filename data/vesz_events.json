@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T13:39:12.771150+00:00",
-  "count": 3114,
+  "updated_at": "2026-10-08T13:43:08.967843+00:00",
+  "count": 3115,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92676",
+      "datetime": "2026.10.08. 15:39",
+      "title": "Lakóház és autó ég Törökbálinton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92676",
+      "lead": "A tűzoltók három vízsugárral már körülhatárolták a lángokat.",
+      "body": "Kigyulladt egy száz négyzetméteres családi ház és egy mellette lévő személyautó Törökbálinton, a Temető köznél. A törökbálinti és az érdi hivatásos tűzoltók három vízsugárral már körülhatárolták a lángokat.",
+      "location": "Törökbálint, Temető köz",
+      "updates": []
+    },
     {
       "id": "92675",
       "datetime": "2026.10.08. 15:30",
@@ -53,9 +64,9 @@
       "title": "Rakomány ég Tószegen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92671",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Vörösmarty úton dolgoznak.",
+      "body": "Kigyulladt egy kukásautó rakománya Tószegen, a Vörösmarty úton. A szolnoki hivatásos tűzoltók oltják a lángokat. Egy szolnoki vízszállító jármű is a helyszínen dolgozik.",
+      "location": "Tószeg, Vörösmarty út",
       "updates": []
     },
     {
