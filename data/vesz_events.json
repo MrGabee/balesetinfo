@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T15:09:30.678912+00:00",
+  "updated_at": "2026-10-08T15:13:06.162751+00:00",
   "count": 3121,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -168,14 +168,23 @@
     },
     {
       "id": "92668",
-      "datetime": "2026.10.08. 13:29",
+      "datetime": "2026.10.08. 13:29 -",
       "title": "Tűz keletkezett Szikszónál",
-      "category": "Tűzeset",
+      "category": "Tűz keletkezett Szikszónál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92668",
       "lead": "Hulladék ég.",
       "body": "Kigyulladt a szemét Szikszónál. A miskolci, az encsi és a kazincbarcikai hivatásos tűzoltók oltják a lángokat. A munkálatokat a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Szikszó, Nagyidai út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szikszónál",
+          "datetime": "2026.10.08. 17:10",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Szikszónál, ahol körülbelül húsz hektáron vágástéri hulladék égett. A Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a miskolci, az encsi és a kazincbarcikai hivatásos tűzoltók négy vízsugárral, kéziszerszámokkal és lombfúvóval fékezték meg a tüzet. A helyszínen egy munkagép is dolgozik. Az egységek az utómunkálatokat végzik.",
+          "location": "Szikszó, Nagyidai út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92668/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92668"
+        }
+      ]
     },
     {
       "id": "92667",
