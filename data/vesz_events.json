@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:17:06.943206+00:00",
+  "updated_at": "2026-10-08T13:21:04.319925+00:00",
   "count": 3112,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,7 +45,16 @@
       "lead": "A tűzoltók a Rákóczi Ferenc utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Bérbaltaváron, a Rákóczi Ferenc utcában. A száz négyzetméter alapterületű ingatlan teljes terjedelmében ég. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók négy vízsugárral oltják a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
       "location": "Bérbaltavár, Rákóczi Ferenc utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Bérbaltaváron",
+          "datetime": "2026.10.08. 14:30",
+          "category": "Tűzeset",
+          "text": "Eloltották az egységek a lángokat Bérbaltaváron, a Rákóczi Ferenc utcában, ahol egy száz négyzetméteres családi ház teljes terjedelmében égett. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók több vízsugárral fékezték meg a lángokat. Egy zalaegerszegi vízszállító jármű is segíti a munkálatokat. A rajok elhúzódó utómunkálatokra számítani.",
+          "location": "Bérbaltavár, Rákóczi Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92670/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92670"
+        }
+      ]
     },
     {
       "id": "92669",
@@ -53,9 +62,9 @@
       "title": "Tűz volt Csőszön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92669",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bartók Béla utcába riasztották a tűzoltókat.",
+      "body": "Egy lakóház és egy melléképület égett Csőszön, a Bartók Béla utcában. A körülbelül hetven négyzetméteres lakóépület két helyiségét érintette a tűz, a hozzáépített, mintegy ötven négyzetméteres melléképület pedig teljes terjedelmében égett. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a székesfehérvári hivatásos tűzoltók három vízsugárral oltották el a lángokat. A rajok jelenleg utómunkálatokat végeznek.",
+      "location": "Csősz, Bartók Béla utca",
       "updates": []
     },
     {
@@ -183,9 +192,9 @@
       "title": "Karambol történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92658",
-      "lead": "A tűzoltók a Lámpás utcába vonultak ki.",
-      "body": "Egy teherautó és egy személygépkocsi karambolozott Budapest XXI. kerületében, a Lámpás utcában. A fővárosi hivatásos tűzoltókat riasztották a balesethez. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
-      "location": "Budapest, Lámpás utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
