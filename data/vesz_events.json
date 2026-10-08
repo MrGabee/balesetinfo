@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T11:03:42.768834+00:00",
-  "count": 3105,
+  "updated_at": "2026-10-08T11:06:51.329121+00:00",
+  "count": 3106,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92667",
+      "datetime": "2026.10.08. 13:06",
+      "title": "Tűz van Madarasnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92667",
+      "lead": "A szél nehezíti az oltást.",
+      "body": "Tűz keletkezett Madaras külterületén. Nagy területen cserjés, száraz fű és avar ég. A bajai hivatásos és a bácsalmási önkormányzati tűzoltók dolgoznak a helyszínen. A szél nehezíti az oltást.",
+      "location": "Madaras, Madarasi szőlők tanya",
+      "updates": []
+    },
     {
       "id": "92666",
       "datetime": "2026.10.08. 12:56",
@@ -75,9 +86,9 @@
       "title": "Tűz volt Sükösdön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92660",
-      "lead": "A tűzoltókat a Petőfi Sándor utcába riasztották.",
-      "body": "Tűz volt egy melléképületben, Sükösdön, a Petőfi Sándor utcában. Egy hat négyzetméter alapterületű kazánhelyiség égett. A bajai hivatásos tűzoltók két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
-      "location": "Sükösd, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
