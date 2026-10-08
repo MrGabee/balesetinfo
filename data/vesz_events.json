@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:58:24.324988+00:00",
+  "updated_at": "2026-10-08T10:01:50.981882+00:00",
   "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Szalagkorlátnak hajtott egy busz az M5-ön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92654",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Röszke közelében forgalmi akadály van.",
+      "body": "Letért az útról és szalagkorlátnak ütközött egy busz az M5-ös autópályán, Röszke felé, Röszke közelében, a 170-es kilométerszelvénynél. A buszon összesen tizenhárman utaztak. A szegedi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Röszke, II. körzet",
       "updates": []
     },
     {
@@ -241,16 +241,7 @@
       "lead": "A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "body": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók oltják a lángokat. A tűz a vasúti közlekedés forgalmát is akadályozza.",
       "location": "Szeged, Szabó 3 tanya",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Szeged és Algyő között",
-          "datetime": "2026.10.07. 20:37",
-          "category": "Tűzeset",
-          "text": "Kigyulladt az aljnövényzet több kilométernyi szakaszon Szeged és Algyő között. A Csongrád-Csanád vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a szegedi, a hódmezővásárhelyi, a makói, a kisteleki hivatásos, az algyői létesítményi és a sándorfalvi önkéntes tűzoltók tizenkilenc vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-          "location": "Szeged, Szabó 3 tanya",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92641/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92641"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92640",
@@ -443,9 +434,9 @@
       "title": "Baleset történt Bodajkon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92624",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Fehérvári utcát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Bodajkon, a Fehérvári utcában. Az autókban összesen hárman utaztak, akik ki tudtak szállni. A móri önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Bodajk, Fehérvári utca",
       "updates": []
     },
     {
