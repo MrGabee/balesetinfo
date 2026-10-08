@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T16:51:09.647729+00:00",
-  "count": 3124,
+  "updated_at": "2026-10-08T16:54:52.529859+00:00",
+  "count": 3125,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92686",
+      "datetime": "2026.10.08. 18:53",
+      "title": "Pince égett a XIV. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92686",
+      "lead": "A Jávor utcába vonultak ki a tűzoltók.",
+      "body": "Kigyulladt egy épület pincéje Budapest XIV. kerületében, a Jávor utcában. A tűz három helyiséget érintett. A fővárosi hivatásos és önkéntes tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Budapest, Jávor utca",
+      "updates": []
+    },
     {
       "id": "92685",
       "datetime": "2026.10.08. 18:48",
