@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:40:15.211512+00:00",
-  "count": 3118,
+  "updated_at": "2026-10-08T14:44:18.565283+00:00",
+  "count": 3119,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92680",
+      "datetime": "2026.10.08. 16:42",
+      "title": "Családi ház égett Sirokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92680",
+      "lead": "A Vár utcában csaptak fel a lángok.",
+      "body": "Egy száz négyzetméteres lakóház gyulladt ki Sirokon, a Vár utcában. A tűz a ház első felében keletkezett, a hátsó rész füsttel telítődött. Az ingatlan födémszerkezete beszakadt. Az egri és a pétervásárai hivatásos tűzoltók fojtották el a lángokat.",
+      "location": "Sirok, Vár utca",
+      "updates": []
+    },
     {
       "id": "92679",
       "datetime": "2026.10.08. 16:34",
