@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T08:17:12.696900+00:00",
-  "count": 3096,
+  "updated_at": "2026-10-08T08:20:31.352733+00:00",
+  "count": 3097,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92658",
+      "datetime": "2026.10.08. 10:17",
+      "title": "Karambol történt Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92658",
+      "lead": "A tűzoltók a Lámpás utcába vonultak ki.",
+      "body": "Egy teherautó és egy személygépkocsi karambolozott Budapest XXI. kerületében, a Lámpás utcában. A fővárosi hivatásos tűzoltókat riasztották a balesethez. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, Lámpás utca",
+      "updates": []
+    },
     {
       "id": "92657",
       "datetime": "2026.10.08. 09:58",
