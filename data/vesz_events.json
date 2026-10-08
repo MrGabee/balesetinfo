@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-08T06:35:56.434247+00:00",
-  "count": 3093,
+  "updated_at": "2026-10-08T06:39:58.624442+00:00",
+  "count": 3094,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92655",
+      "datetime": "2026.10.08. 08:38",
+      "title": "Két autó karambolozott az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92655",
+      "lead": "Győrnél, a főváros felé vezető szakaszon egy sávon halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Győrnél, az M1-es autópálya 111-e kilométerénél, a Budapest felé vezető oldalon. A győri hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Győr, M1",
+      "updates": []
+    },
     {
       "id": "92654",
       "datetime": "2026.10.08. 07:21",
