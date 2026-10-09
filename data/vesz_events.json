@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T20:33:40.452214+00:00",
-  "count": 3151,
+  "updated_at": "2026-10-09T20:37:36.376810+00:00",
+  "count": 3152,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92713",
+      "datetime": "2026.10.09. 22:35",
+      "title": "Tetejére borult egy autó Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92713",
+      "lead": "A tűzoltók feszítővágóval szabadították ki a jármű vezetőjét.",
+      "body": "Lesodródott az úttestről, majd tetejével az árokba borult egy gépkocsi Győrben, a Hűtőház utcában, a Dózsa major közelében. A járműben csak a vezetője utazott, aki beszorult. A győri hivatásos tűzoltók feszítővágó segítségével, a mentőkkel együttműködve emelték ki a sofőrt a kocsiból.",
+      "location": "Győr, Hűtőház utca",
+      "updates": []
+    },
     {
       "id": "92712",
       "datetime": "2026.10.09. 20:36",
