@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T07:58:48.181210+00:00",
+  "updated_at": "2026-10-09T08:01:50.805762+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -301,16 +301,7 @@
       "lead": "A tűzoltók a Vörösmarty úton dolgoznak.",
       "body": "Kigyulladt egy kukásautó rakománya Tószegen, a Vörösmarty úton. A szolnoki hivatásos tűzoltók oltják a lángokat. Egy szolnoki vízszállító jármű is a helyszínen dolgozik.",
       "location": "Tószeg, Vörösmarty út",
-      "updates": [
-        {
-          "title": "A tűzoltók az utómunkálatokat végzik Tószegen",
-          "datetime": "2026.10.08. 17:25",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Tószegen, a Vörösmarty úton, ahol egy kukásautó szállítmánya gyulladt ki. Körülbelül tíz köbméter szemét égett. A szolnoki hivatásos tűzoltók fékezték meg a tüzet. A munkálatokat egy szolnoki vízszállító jármű és egy erőgép is segíti.",
-          "location": "Tószeg, Vörösmarty út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92671/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92671"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92670",
