@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T07:03:29.938922+00:00",
+  "updated_at": "2026-10-09T07:07:06.346582+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -186,16 +186,7 @@
       "lead": "A tűzoltók egy vízsugárral és kéziszerszámokkal oltják a lángokat.",
       "body": "Száraz aljnövényzet ég Rakamaz külterületén, a Nagy-Morotvánál. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók dolgoznak a helyszínen. Az oltási munkálatokat egy nyíregyházi vízszállító jármű is segíti.",
       "location": "Rakamaz, Nagy-Morotva",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Rakamaznál",
-          "datetime": "2026.10.08. 19:02",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Rakamaznál, a Nagy-Morotvánál, ahol mintegy tíz hektáron foltokban száraz aljnövényzet, bozótos és nádas égett. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók négy vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. Nyíregyházi vízszállító is segíti a munkálatokat. Utómunkálatokat végeznek.",
-          "location": "Rakamaz, Nagy-Morotva",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92679/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92679"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92678",
@@ -422,9 +413,9 @@
       "title": "Melléképület égett Érden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92663",
-      "lead": "A Bendegúz utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy melléképület Érden, a Bendegúz utcában. A mintegy ötven négyzetméter alapterületű melléképület teljes terjedelmében égett. Az érdi hivatásos tűzoltók három vízsugárral elfojtották a lángokat.",
-      "location": "Érd, Bendegúz utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
