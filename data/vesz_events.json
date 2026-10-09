@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T08:05:34.803430+00:00",
+  "updated_at": "2026-10-09T08:09:07.278116+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -203,19 +203,10 @@
       "title": "Tűz ütött ki Penészleknél",
       "category": "Tűz ütött ki Penészleknél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92678",
-      "lead": "Hat hektárt érintenek a lángok.",
-      "body": "Mintegy hat hektáron száraz fű és alacsony füves vegetáció Penészleknél, a Táncsics Mihály utcánál. A nyíradonyi, a nyírbátori és a mátészalkai hivatásos tűzoltók oltják a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett zajlanak a munkálatok.",
-      "location": "Penészlek, Táncsics Mihály utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Penészleknél",
-          "datetime": "2026.10.08. 17:33",
-          "category": "Tűzeset",
-          "text": "Mintegy hat hektáron alacsony füves vegetáció égett Penészleknél, a Táncsics Mihály utcánál. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók két vízsugárral és kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak az egységek.",
-          "location": "Penészlek, Táncsics Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92678/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92678"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92677",
@@ -411,9 +402,9 @@
       "title": "Konyhatűz Cecén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92664",
-      "lead": "Az Árpád utcába riasztották a tűzoltókat.",
-      "body": "Tűz volt egy lakóházban, Cecén, az Árpád utcában. Az ingatlan konyhájában tűzhelyen felejtett étel gyulladt ki. A sárbogárdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "location": "Cece, Árpád utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
