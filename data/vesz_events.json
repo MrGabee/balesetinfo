@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T07:21:33.726572+00:00",
+  "updated_at": "2026-10-09T07:24:45.024744+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Tetejére borult egy autó Túrkeve határánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92691",
-      "lead": "A 4202-es úton történt a baleset.",
-      "body": "Tetejével az árokba borult egy személyautó Túrkeve határánál, a 4202-es út 24-es kilométerénél. A baleset következtében egy fa is kidőlt. A műszaki mentési munkálatok elvégzéséhez a mezőtúri hivatásos és a túrkevei önkéntes tűzoltók vonultak ki. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Túrkeve, 4202",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -75,19 +75,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92688",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.10.08. 21:24",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok kialakulása miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92688/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92688"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92687",
@@ -186,16 +177,7 @@
       "lead": "A tűzoltók egy vízsugárral és kéziszerszámokkal oltják a lángokat.",
       "body": "Száraz aljnövényzet ég Rakamaz külterületén, a Nagy-Morotvánál. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók dolgoznak a helyszínen. Az oltási munkálatokat egy nyíregyházi vízszállító jármű is segíti.",
       "location": "Rakamaz, Nagy-Morotva",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Rakamaznál",
-          "datetime": "2026.10.08. 19:02",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Rakamaznál, a Nagy-Morotvánál, ahol mintegy tíz hektáron foltokban száraz aljnövényzet, bozótos és nádas égett. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók négy vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. Nyíregyházi vízszállító is segíti a munkálatokat. Utómunkálatokat végeznek.",
-          "location": "Rakamaz, Nagy-Morotva",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92679/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92679"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92678",
@@ -276,9 +258,9 @@
       "title": "Baleset a XII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92673",
-      "lead": "A Kiss János altábornagy utcában riasztották a tűzoltókat.",
-      "body": "Parkoló járműveknek ütközött egy furgon Budapest XII. kerületében, a Kiss János altábornagy utcában. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. Az egység áramtalanította a furgont.",
-      "location": "Budapest, Kiss János altábornagy utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
