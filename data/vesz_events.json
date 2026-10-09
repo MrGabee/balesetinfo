@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T11:20:40.490971+00:00",
-  "count": 3137,
+  "updated_at": "2026-10-09T11:24:28.439655+00:00",
+  "count": 3138,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92699",
+      "datetime": "2026.10.09. 13:20",
+      "title": "Kisteherautóval karambolozott egy személyautó az M7-esen, Szabadbattyánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92699",
+      "lead": "Egy sávon halad a forgalom a főváros felé vezető oldalon.",
+      "body": "Egy kisteherautó és egy személyautó ütközött össze az M7-es autópálya 67-es kilométerszelvényénél, Szabadbattyán térségében, a Budapest felé vezető irányban. Csak a vezetők utaztak a járművekben, amelyeket a székesfehérvári hivatásos tűzoltók áramtalanítottak. A Sárvíz ÖTE önkéntes tűzoltói, valamint a társhatóságok is kiérkeztek a helyszínre, ahol az érintett pályaszakaszon egy sávon halad a forgalom.",
+      "location": "Szabadbattyán, M7",
+      "updates": []
+    },
     {
       "id": "92698",
       "datetime": "2026.10.09. 12:21",
