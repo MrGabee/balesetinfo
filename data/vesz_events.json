@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T05:23:11.583379+00:00",
-  "count": 3132,
+  "updated_at": "2026-10-09T05:27:08.460215+00:00",
+  "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92694",
+      "datetime": "2026.10.09. 07:24",
+      "title": "Két autó ütközött Perkátánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92694",
+      "lead": "A 62-es főút érintett szakaszán félpályán halad a forgalom.",
+      "body": "Karambolozott két személygépkocsi Perkátánál, 62-es főút 11-es kilométerénél. A baleset következtében az egyik autó az letért az útról és tetejével az árokba borult. A dunaújvárosi hivatásos tűzoltók áramtalanítják a járműveket.Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Perkáta, 62",
+      "updates": []
+    },
     {
       "id": "92693",
       "datetime": "2026.10.09. 07:18",
@@ -433,9 +444,9 @@
       "title": "Tűz keletkezett Nyíradonyban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92661",
-      "lead": "A Szénégető úton csaptak fel a lángok.",
-      "body": "Tűz keletkezett Nyíradony aradványpusztai városrészén, a Szénégető úton. A helyszínen körülbelül száz négyzetméter száraz avar, gaz égett, valamint mintegy ötven darab raklap. A tűz átterjedt egy kamionról leszerelt utasfülkére és tűzifára is. A nyíradonyi hivatásos és a szakolyi önkormányzati tűzoltók két vízsugárral és kéziszerszámokkal eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
-      "location": "Nyíradony, Szénégető út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
