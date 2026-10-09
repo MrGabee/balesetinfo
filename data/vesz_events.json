@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T08:48:05.965819+00:00",
+  "updated_at": "2026-10-09T08:51:31.505075+00:00",
   "count": 3135,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92695",
-      "datetime": "2026.10.09. 10:26",
+      "datetime": "2026.10.09. 10:26 -",
       "title": "Lakatlan társasház pincéje gyulladt ki Salgótarjánban",
-      "category": "Tűzeset",
+      "category": "Lakatlan társasház pincéje gyulladt ki Salgótarjánban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92695",
       "lead": "A tűz a tetőre is átterjedt.",
       "body": "Egy lakatlan, háromlakásos társasház pincéjében keletkezett tűz Salgótarjánban, az Acélgyári úton. A tűz elérte az épület tetőszerkezetét is. A salgótarjáni hivatásos tűzoltók három vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. A munkálatok közben megbontották a tetőszerkezetet.",
       "location": "Salgótarján, Acélgyári út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat a tűzoltók Salgótarjánban",
+          "datetime": "2026.10.09. 10:50",
+          "category": "Tűzeset",
+          "text": "A salgótarjáni hivatásos tűzoltók három vízsugárral eloltották a lángokat városukban, ahol egy lakatlan, háromlakásos társasház pincéjében keletkezett tűz az Acélgyári úton. A lángok az épület tetőszerkezetét is elérték. Az egységek a munkálatok közben megbontották a tetőszerkezetet, megszüntették az izzásokat, az áramszolgáltató szakemberei pedig leválasztották az épületet az elektromos hálózatról. A tűzoltók jelenleg az utómunkálatokat végzik.",
+          "location": "Salgótarján, Acélgyári út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92695/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92695"
+        }
+      ]
     },
     {
       "id": "92694",
@@ -194,9 +203,9 @@
       "title": "Családi ház égett Sirokon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92680",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Vár utcában csaptak fel a lángok.",
+      "body": "Egy száz négyzetméteres lakóház gyulladt ki Sirokon, a Vár utcában. A tűz a ház első felében keletkezett, a hátsó rész füsttel telítődött. Az ingatlan födémszerkezete beszakadt. Az egri és a pétervásárai hivatásos tűzoltók fojtották el a lángokat.",
+      "location": "Sirok, Vár utca",
       "updates": []
     },
     {
