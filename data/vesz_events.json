@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T08:40:56.441463+00:00",
-  "count": 3134,
+  "updated_at": "2026-10-09T08:44:31.081867+00:00",
+  "count": 3135,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92696",
+      "datetime": "2026.10.09. 10:44",
+      "title": "Lakóház és garázsa ég Lőrinciben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92696",
+      "lead": "A tűzoltók három vízsugárral kezdték oltani a lángokat.",
+      "body": "Egy harminc négyzetméteres, könnyűszerkezetes garázs ég teljes egészében Lőrinciben, a Herédi utcában, A lángok az épület mellett álló nyolcan négyzetméteres lakóház tetőszerkezetére is átterjedtek. A hatvani hivatásos tűzoltók három vízsugárral kezdték oltani a tüzet, a helyszínre kérték az aszódi hivatásos tűzoltókat, valamint a közműszolgáltatók szakembereit. A munkálatok idejére lezárták a Herédi utca érintett szakaszát.",
+      "location": "Lőrinci, Herédi utca",
+      "updates": []
+    },
     {
       "id": "92695",
       "datetime": "2026.10.09. 10:26",
