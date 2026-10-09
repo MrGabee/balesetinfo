@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T11:31:46.400318+00:00",
-  "count": 3139,
+  "updated_at": "2026-10-09T11:35:05.943891+00:00",
+  "count": 3140,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92701",
+      "datetime": "2026.10.09. 13:34",
+      "title": "Baleset történt Tószegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92701",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Két gépkocsi ütközött össze Tószegen, a 4625-ös út 8-as és 9-es kilométerszelvénye között, a Parkoló tér melletti szakaszon. Az egyik jármű áramtalanítására volt szükség, amelyet a szolnoki hivatásos tűzoltók végeztek el. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Tószeg, Parkoló tér",
+      "updates": []
+    },
     {
       "id": "92700",
       "datetime": "2026.10.09. 13:27",
