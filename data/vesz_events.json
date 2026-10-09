@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T04:51:31.644247+00:00",
-  "count": 3130,
+  "updated_at": "2026-10-09T04:54:51.612463+00:00",
+  "count": 3131,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92692",
+      "datetime": "2026.10.09. 06:52",
+      "title": "Összeütközött két autó az 51-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92692",
+      "lead": "Egy embert a tűzoltók emeltek ki.",
+      "body": "Két személygépkocsi karambolozott Dömsödnél, az 51-es főút 47-es kilométerénél. A ráckevei önkormányzati és a dömsödi önkéntes tűzoltók egy embert kiemeltek az egyik járműből. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Dömsöd, 51",
+      "updates": []
+    },
     {
       "id": "92691",
       "datetime": "2026.10.08. 23:57",
