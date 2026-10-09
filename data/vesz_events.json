@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T10:43:39.136382+00:00",
+  "updated_at": "2026-10-09T10:47:07.496334+00:00",
   "count": 3137,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -299,16 +299,7 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a lángokat.",
       "body": "Kigyulladt egy száz négyzetméteres családi ház és egy mellette lévő személyautó Törökbálinton, a Temető köznél. A törökbálinti és az érdi hivatásos tűzoltók három vízsugárral már körülhatárolták a lángokat.",
       "location": "Törökbálint, Temető köz",
-      "updates": [
-        {
-          "title": "Megfékezték a lángokat Törökbálinton",
-          "datetime": "2026.10.08. 17:53",
-          "category": "Tűzeset",
-          "text": "Utómunkálatokat végeznek a rajok Törökbálinton, a Temető köznél, ahol egy lakóház és egy mellette lévő személyautó gyulladt ki. A száz négyzetméteres családi ház felső szintje és tetőszerkezete égett. A törökbálinti és az érdi hivatásos tűzoltók öt vízsugárral oltották el a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálatot is a helyszínre riasztották.",
-          "location": "Törökbálint, Temető köz",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92676/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92676"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92675",
@@ -517,9 +508,9 @@
       "title": "Tűz volt Sükösdön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92660",
-      "lead": "A tűzoltókat a Petőfi Sándor utcába riasztották.",
-      "body": "Tűz volt egy melléképületben, Sükösdön, a Petőfi Sándor utcában. Egy hat négyzetméter alapterületű kazánhelyiség égett. A bajai hivatásos tűzoltók két vízsugárral körülhatárolták, majd elfojtották a lángokat.",
-      "location": "Sükösd, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
