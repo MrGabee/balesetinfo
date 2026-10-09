@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T11:24:28.439655+00:00",
-  "count": 3138,
+  "updated_at": "2026-10-09T11:28:25.088867+00:00",
+  "count": 3139,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92700",
+      "datetime": "2026.10.09. 13:27",
+      "title": "Két autó ütközött össze Dány és Szentkirály között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92700",
+      "lead": "A beavatkozás idejére lezárták a 3102-es út érintett szakaszát.",
+      "body": "Összeütközött két gépkocsi Dány és Szentkirály között, a 3102-es út 25-ös kilométerszelvényénél. Összesen öten utaztak a járművekben, egyikük beszorult. A gödöllői hivatásos és az isaszegi önkéntes tűzoltók feszítővágó segítségével kezdték meg a beszorult utas kiszabadítását. Az egységek és a mentők teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Dány, 3102",
+      "updates": []
+    },
     {
       "id": "92699",
       "datetime": "2026.10.09. 13:20",
