@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T12:46:40.567263+00:00",
-  "count": 3140,
+  "updated_at": "2026-10-09T12:50:00.166095+00:00",
+  "count": 3141,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92702",
+      "datetime": "2026.10.09. 14:47",
+      "title": "Több autó karambolozott a 26-oson, Sajószentpéternél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92702",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Négy gépkocsi ütközött össze a 26-os főút 11-es kilométerszelvényénél, Sajószentpéter térségében. A műszaki mentési munkálatokhoz a kazincbarcikai hivatásos tűzoltók érkeztek ki. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Sajószentpéter, 26",
+      "updates": []
+    },
     {
       "id": "92701",
       "datetime": "2026.10.09. 13:34",
