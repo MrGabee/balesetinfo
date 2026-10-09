@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T18:34:33.590198+00:00",
-  "count": 3150,
+  "updated_at": "2026-10-09T18:38:13.844561+00:00",
+  "count": 3151,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92712",
+      "datetime": "2026.10.09. 20:36",
+      "title": "Kisbusszal karambolozott egy teherautó a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92712",
+      "lead": "Csak a sofőrök utaztak a járművekben.",
+      "body": "Egy kisbusz és egy teherautó ütközött össze a X. kerületben, a Maglódi út és a Gitár utca kereszteződésében. A járművekben csak a vezetők utaztak. A fővárosi hivatásos tűzoltók mellett a társhatóságok, valamint a közösségi közlekedési társaság szakemberei is kiérkeztek a helyszínre. A baleset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Budapest, Maglódi út",
+      "updates": []
+    },
     {
       "id": "92711",
       "datetime": "2026.10.09. 19:28",
