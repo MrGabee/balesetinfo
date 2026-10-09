@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T05:16:22.801403+00:00",
-  "count": 3131,
+  "updated_at": "2026-10-09T05:19:44.975230+00:00",
+  "count": 3132,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92693",
+      "datetime": "2026.10.09. 07:18",
+      "title": "Karambol történt Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92693",
+      "lead": "Forgalomkorlátozásra lehet számítani az érintett útszakaszon.",
+      "body": "Összeütközött egy furgon és egy személygépkocsi Győrben, a Szent István úton, azaz az 1-es főút és a Tihanyi Árpád út kereszteződésénél. A helyi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Győr, Szent István út",
+      "updates": []
+    },
     {
       "id": "92692",
       "datetime": "2026.10.09. 06:52",
