@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T07:32:30.611505+00:00",
+  "updated_at": "2026-10-09T07:36:26.427647+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -223,9 +223,9 @@
       "title": "Melléképülettűz Jármiban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92677",
-      "lead": "A Kossuth Lajos utcában végzik az utómunkálatokat a tűzoltók.",
-      "body": "Kigyulladt egy melléképület Jármiban, a Kossuth Lajos utcában. A tűz a lakóházra nem terjedt át. A mátészalkai hivatásos tűzoltók két vízsugárral eloltották a lángokat. Utómunkálatokat végeznek.",
-      "location": "Jármi, Kossuth Lajos utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -321,16 +321,7 @@
       "lead": "A tűzoltók a Rákóczi Ferenc utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Bérbaltaváron, a Rákóczi Ferenc utcában. A száz négyzetméter alapterületű ingatlan teljes terjedelmében ég. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók négy vízsugárral oltják a lángokat. Az érintett útszakaszt teljes szélességében lezárták.",
       "location": "Bérbaltavár, Rákóczi Ferenc utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Bérbaltaváron",
-          "datetime": "2026.10.08. 14:30",
-          "category": "Tűzeset",
-          "text": "Eloltották az egységek a lángokat Bérbaltaváron, a Rákóczi Ferenc utcában, ahol egy száz négyzetméteres családi ház teljes terjedelmében égett. A zalaegerszegi hivatásos és a vasvári önkormányzati tűzoltók több vízsugárral fékezték meg a lángokat. Egy zalaegerszegi vízszállító jármű is segíti a munkálatokat. A rajok elhúzódó utómunkálatokra számítani.",
-          "location": "Bérbaltavár, Rákóczi Ferenc utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92670/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92670"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92669",
