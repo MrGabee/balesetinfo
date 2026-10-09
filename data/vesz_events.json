@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T16:47:58.326370+00:00",
-  "count": 3148,
+  "updated_at": "2026-10-09T16:51:28.692182+00:00",
+  "count": 3149,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92710",
+      "datetime": "2026.10.09. 18:50",
+      "title": "Felborult egy autó Jásdnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92710",
+      "lead": "Lezárták a 82111-es út érintett szakaszát.",
+      "body": "Tetejére borult egy gépkocsi Jásd térségében, a 82111-es út 2-es kilométerszelvényénél, a kanyarban. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A balesethez a zirci önkormányzati tűzoltók és a társhatóságok is kiérkeztek, az egység áramtalanította az autót. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Jásd, 82111",
+      "updates": []
+    },
     {
       "id": "92709",
       "datetime": "2026.10.09. 18:32",
