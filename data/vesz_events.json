@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T14:21:35.242656+00:00",
-  "count": 3145,
+  "updated_at": "2026-10-09T14:25:05.086447+00:00",
+  "count": 3146,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92707",
+      "datetime": "2026.10.09. 16:21",
+      "title": "Árokba hajtott egy autó Hangony és Domaháza között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92707",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Árokba hajtott, majd felborult egy gépkocsi Hangony és Domaháza között, a 2306-os út 16-os kilométerszelvényénél. A járműben ketten utaztak, saját erejükből ki tudtak szállni. Az ózdi hivatásos tűzoltók érkeztek a balesethez, áramtalanítják a bajba került autót.",
+      "location": "Hangony, 2306",
+      "updates": []
+    },
     {
       "id": "92706",
       "datetime": "2026.10.09. 15:27",
