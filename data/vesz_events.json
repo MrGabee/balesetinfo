@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T07:07:06.346582+00:00",
+  "updated_at": "2026-10-09T07:10:51.864179+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -186,7 +186,16 @@
       "lead": "A tűzoltók egy vízsugárral és kéziszerszámokkal oltják a lángokat.",
       "body": "Száraz aljnövényzet ég Rakamaz külterületén, a Nagy-Morotvánál. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók dolgoznak a helyszínen. Az oltási munkálatokat egy nyíregyházi vízszállító jármű is segíti.",
       "location": "Rakamaz, Nagy-Morotva",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Rakamaznál",
+          "datetime": "2026.10.08. 19:02",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Rakamaznál, a Nagy-Morotvánál, ahol mintegy tíz hektáron foltokban száraz aljnövényzet, bozótos és nádas égett. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók négy vízsugárral, kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. Nyíregyházi vízszállító is segíti a munkálatokat. Utómunkálatokat végeznek.",
+          "location": "Rakamaz, Nagy-Morotva",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92679/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92679"
+        }
+      ]
     },
     {
       "id": "92678",
@@ -194,19 +203,10 @@
       "title": "Tűz ütött ki Penészleknél",
       "category": "Tűz ütött ki Penészleknél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92678",
-      "lead": "Hat hektárt érintenek a lángok.",
-      "body": "Mintegy hat hektáron száraz fű és alacsony füves vegetáció Penészleknél, a Táncsics Mihály utcánál. A nyíradonyi, a nyírbátori és a mátészalkai hivatásos tűzoltók oltják a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett zajlanak a munkálatok.",
-      "location": "Penészlek, Táncsics Mihály utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Penészleknél",
-          "datetime": "2026.10.08. 17:33",
-          "category": "Tűzeset",
-          "text": "Mintegy hat hektáron alacsony füves vegetáció égett Penészleknél, a Táncsics Mihály utcánál. A nyíregyházi, a szerencsi hivatásos és a rakamazi önkéntes tűzoltók két vízsugárral és kéziszerszámokkal és puttonyfecskendővel oltották el a lángokat. A Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoztak az egységek.",
-          "location": "Penészlek, Táncsics Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92678/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92678"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92677",
@@ -413,9 +413,9 @@
       "title": "Melléképület égett Érden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92663",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bendegúz utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Érden, a Bendegúz utcában. A mintegy ötven négyzetméter alapterületű melléképület teljes terjedelmében égett. Az érdi hivatásos tűzoltók három vízsugárral elfojtották a lángokat.",
+      "location": "Érd, Bendegúz utca",
       "updates": []
     },
     {
