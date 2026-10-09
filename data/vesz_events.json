@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T10:19:41.979592+00:00",
-  "count": 3136,
+  "updated_at": "2026-10-09T10:22:58.172568+00:00",
+  "count": 3137,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92698",
+      "datetime": "2026.10.09. 12:21",
+      "title": "Összeütközött két autó Kiskunfélegyháza és Jászszentlászló között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92698",
+      "lead": "Az 5402-es út érintett szakaszát félpályán lezárták.",
+      "body": "Két gépkocsi ütközött össze Kiskunfélegyháza és Jászszentlászló között, az 5402-es út 17-es kilométerszelvényénél. Összesen hárman utaztak a járművekben, amelyeket a kiskunmajsai hivatásos tűzoltók áramtalanítottak. Az egység és a társhatóságok félpályás útlezárás mellett végzik a helyszíni munkálatokat.",
+      "location": "Jászszentlászló, 5402",
+      "updates": []
+    },
     {
       "id": "92697",
       "datetime": "2026.10.09. 11:33",
