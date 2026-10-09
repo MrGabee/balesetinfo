@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T13:02:06.340031+00:00",
-  "count": 3141,
+  "updated_at": "2026-10-09T13:05:35.728873+00:00",
+  "count": 3142,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92703",
+      "datetime": "2026.10.09. 15:02",
+      "title": "Két autó ütközött össze Fertőhomok térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92703",
+      "lead": "Az egyik jármű az árokba hajtott az ütközés után.",
+      "body": "Összeütközött két gépkocsi Fertőhomok térségében, a 8524-es út 1-es kilométerszelvényénél, a 85-ös főút kereszteződése közelében. Az ütközés következtében az egyik jármű az árokba hajtott, a másik kocsi az úttesten okoz forgalmi akadályt. A sopronkövesdi hivatásos, valamint a hegykői és a nagylózsi önkéntes tűzoltók érkeztek a helyszínre, a járművek stabilizálását követően az áramtalanítást is elvégezték.",
+      "location": "Fertőhomok, 8524",
+      "updates": []
+    },
     {
       "id": "92702",
       "datetime": "2026.10.09. 14:47",
