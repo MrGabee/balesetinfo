@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T16:31:03.492113+00:00",
-  "count": 3147,
+  "updated_at": "2026-10-09T16:34:41.791104+00:00",
+  "count": 3148,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92709",
+      "datetime": "2026.10.09. 18:32",
+      "title": "Kamionnal ütközött össze egy személyautó a 442-esen, Kunszentmártonnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92709",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Kamionba hajtott bele egy személyautó a 442-es főút 33-as kilométerszelvényénél, Kunszentmárton térségében. A város hivatásos tűzoltói mellett a társhatóságok is a helyszínen dolgoznak. A baleset miatt félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Kunszentmárton, 442",
+      "updates": []
+    },
     {
       "id": "92708",
       "datetime": "2026.10.09. 18:28",
