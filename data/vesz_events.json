@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T16:27:40.711594+00:00",
-  "count": 3146,
+  "updated_at": "2026-10-09T16:31:03.492113+00:00",
+  "count": 3147,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92708",
+      "datetime": "2026.10.09. 18:28",
+      "title": "Két autó karambolozott a 27-esen, Edelénynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92708",
+      "lead": "Az egyik jármű áramtalanítására volt szükség.",
+      "body": "Két gépkocsi karambolozott a 27-es főút 15-ös kilométerszelvényénél, Edelény térségében. A kazincbarcikai hivatásos tűzoltók áramtalanították az egyik járművet. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol irányítás mellett halad a forgalom a baleset miatt.",
+      "location": "Edelény, 27",
+      "updates": []
+    },
     {
       "id": "92707",
       "datetime": "2026.10.09. 16:21",
