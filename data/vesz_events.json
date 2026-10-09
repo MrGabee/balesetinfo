@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-09T17:27:27.491046+00:00",
-  "count": 3149,
+  "updated_at": "2026-10-09T17:30:44.702960+00:00",
+  "count": 3150,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92711",
+      "datetime": "2026.10.09. 19:28",
+      "title": "Ráfutásos baleset történt a 8-ason, Székesfehérvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92711",
+      "lead": "A hatóságok teljes útlezárás mellett dolgoznak a helyszínen.",
+      "body": "Két kisteherautó szenvedett ráfutásos balesetet a 8-as főút 2-es kilométerszelvényénél, Székesfehérvár térségében. Összesen négyen utaztak a járművekben, amelyek közül az egyiket a székesfehérvári hivatásos tűzoltók áramtalanították. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett dolgoznak.",
+      "location": "Székesfehérvár, 8",
+      "updates": []
+    },
     {
       "id": "92710",
       "datetime": "2026.10.09. 18:50",
