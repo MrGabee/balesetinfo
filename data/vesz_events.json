@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:12:50.252219+00:00",
+  "updated_at": "2026-10-09T13:16:15.078779+00:00",
   "count": 3142,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -89,16 +89,7 @@
       "lead": "A tűzoltók három vízsugárral kezdték oltani a lángokat.",
       "body": "Egy harminc négyzetméteres, könnyűszerkezetes garázs ég teljes egészében Lőrinciben, a Herédi utcában, A lángok az épület mellett álló nyolcan négyzetméteres lakóház tetőszerkezetére is átterjedtek. A hatvani hivatásos tűzoltók három vízsugárral kezdték oltani a tüzet, a helyszínre kérték az aszódi hivatásos tűzoltókat, valamint a közműszolgáltatók szakembereit. A munkálatok idejére lezárták a Herédi utca érintett szakaszát.",
       "location": "Lőrinci, Herédi utca",
-      "updates": [
-        {
-          "title": "Megkezdték az utómunkálatokat a tűzoltók Lőrinciben",
-          "datetime": "2026.10.09. 11:16",
-          "category": "Tűzeset",
-          "text": "A tűzoltók négy vízsugárral megfékezték a tüzet, jelenleg az utómunkálatokat végzik Lőrinciben, ahol egy harminc négyzetméteres, könnyűszerkezetes garázs égett teljes egészében a Herédi utcában. A lángok az épület mellett álló, nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy hetven százalékát is elérték. A tűz elfojtásán a hatvani és az aszódi hivatásos tűzoltók dolgoztak. Az egységek mellett a közműszolgáltatók szakemberei is kiérkeztek a helyszínre, ahol a munkálatok idejére lezárták a Herédi utca érintett szakaszát.",
-          "location": "Lőrinci, Herédi utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92696/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92696"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92695",
@@ -223,9 +214,9 @@
       "title": "Pince égett a XIV. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92686",
-      "lead": "A Jávor utcába vonultak ki a tűzoltók.",
-      "body": "Kigyulladt egy épület pincéje Budapest XIV. kerületében, a Jávor utcában. A tűz három helyiséget érintett. A fővárosi hivatásos és önkéntes tűzoltók egy vízsugárral elfojtották a lángokat.",
-      "location": "Budapest, Jávor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
