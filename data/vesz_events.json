@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-09T13:23:36.504229+00:00",
-  "count": 3144,
+  "updated_at": "2026-10-09T13:27:50.867749+00:00",
+  "count": 3145,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92706",
+      "datetime": "2026.10.09. 15:27",
+      "title": "Két jármű ütközött össze Herceghalom területén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92706",
+      "lead": "Az egyik autó a tetejére borult az ütközést követően.",
+      "body": "Összeütközött két gépkocsi Herceghalomnál, az Ördöglovas lejtő és az Árvácska utca kereszteződésében. Az ütközés erejétől az egyik jármű a tetejére borult. A bicskei önkormányzati tűzoltók és a mentők megkezdték a munkálatokat a helyszínen.",
+      "location": "Herceghalom, Ördöglovas lejtő",
+      "updates": []
+    },
     {
       "id": "92705",
       "datetime": "2026.10.09. 15:22",
       "title": "Karambolozott két autó a 82-esen, Olaszfalu és Eplény között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92705",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Két gépkocsi ütközött össze a 82-es főút 16-os kilométerszelvényénél, Olaszfalu és Eplény között. Összesen hárman utaztak a járművekben, amelyeket a zirci önkormányzati tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Olaszfalu, 82",
       "updates": []
     },
     {
@@ -181,9 +192,9 @@
       "title": "Tetejére borult egy autó Túrkeve határánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92691",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4202-es úton történt a baleset.",
+      "body": "Tetejével az árokba borult egy személyautó Túrkeve határánál, a 4202-es út 24-es kilométerénél. A baleset következtében egy fa is kidőlt. A műszaki mentési munkálatok elvégzéséhez a mezőtúri hivatásos és a túrkevei önkéntes tűzoltók vonultak ki. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Túrkeve, 4202",
       "updates": []
     },
     {
@@ -376,7 +387,16 @@
       "lead": "A tűzoltók három vízsugárral már körülhatárolták a lángokat.",
       "body": "Kigyulladt egy száz négyzetméteres családi ház és egy mellette lévő személyautó Törökbálinton, a Temető köznél. A törökbálinti és az érdi hivatásos tűzoltók három vízsugárral már körülhatárolták a lángokat.",
       "location": "Törökbálint, Temető köz",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat Törökbálinton",
+          "datetime": "2026.10.08. 17:53",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a rajok Törökbálinton, a Temető köznél, ahol egy lakóház és egy mellette lévő személyautó gyulladt ki. A száz négyzetméteres családi ház felső szintje és tetőszerkezete égett. A törökbálinti és az érdi hivatásos tűzoltók öt vízsugárral oltották el a lángokat. A Pest vármegyei katasztrófavédelmi műveleti szolgálatot is a helyszínre riasztották.",
+          "location": "Törökbálint, Temető köz",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92676/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92676"
+        }
+      ]
     },
     {
       "id": "92675",
