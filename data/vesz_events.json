@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T20:17:10.196712+00:00",
-  "count": 3179,
+  "updated_at": "2026-10-10T20:20:28.131927+00:00",
+  "count": 3180,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92741",
+      "datetime": "2026.10.10. 22:18",
+      "title": "Tűz ütött ki egy ludasi családi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92741",
+      "lead": "A lángok kis területen elérték a tetőszerkezetet is.",
+      "body": "Tűz keletkezett egy közművek nélküli, ludasi, József Attila úti családi ház egyik helyiségében. A lángok elérték a tetőszerkezetet is, amelyet kis területen megégettek, illetve kárt tettek a padláson tárolt anyagokban is. Az esethez a gyöngyösi hivatásos tűzoltó-parancsnokság két gépjárműfecskendőjét, illetve a hevesi vízszállítót riasztották. A tűzoltók egy vízsugárral oltják a tüzet. Az egységek átvizsgálták az épületet, de senkit nem találtak odabenn.",
+      "location": "Ludas, József Attila út",
+      "updates": []
+    },
     {
       "id": "92740",
       "datetime": "2026.10.10. 21:33",
