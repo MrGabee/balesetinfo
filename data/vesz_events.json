@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T14:51:05.349526+00:00",
-  "count": 3170,
+  "updated_at": "2026-10-10T14:54:28.878535+00:00",
+  "count": 3171,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92732",
+      "datetime": "2026.10.10. 16:51",
+      "title": "Összeütközött két autó Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92732",
+      "lead": "A Szent Sebestyén tér és a Móri út kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Baleset történt Székesfehérváron, a Szent Sebestyén tér és a Móri út kereszteződésénél, ahol két személykocsi hajtott egymásba. A járművekben összesen négyen utaztak, mentő érkezett hozzájuk. A város hivatásos tűzoltói végzik a műszaki mentést, áramtalanítanak.",
+      "location": "Székesfehérvár, Móri út",
+      "updates": []
+    },
     {
       "id": "92731",
       "datetime": "2026.10.10. 16:10",
