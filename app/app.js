@@ -2,7 +2,7 @@
    a forrása az apps-script-sync repó balesetinfo-app mappája (felulet/epites.cjs). */
 (function () {
 'use strict';
-const API_URL = "https://script.google.com/macros/s/AKfycbyWjUYtQLVy4PhPCKLo5C1KD3-TeLfTIp7rQyDj6GGRpbhBnbD2CPQVK0Y4PCZBsCzA/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbziexgMQGpVMINn6w7fs3a1RddOIR4a4_IFB_DvESxNxylQvcfENljeFhjPHpusX7-r/exec";
 const APP = {
   "NEV": "Balesetinfo"
 };
