@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T05:40:39.464716+00:00",
-  "count": 3152,
+  "updated_at": "2026-10-10T05:43:56.018345+00:00",
+  "count": 3153,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92714",
+      "datetime": "2026.10.10. 07:40",
+      "title": "Összeütközött két autó Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92714",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi karambolozott Zalaegerszegen, a Balatoni út és a Damjanich utca körforgalmánál. A járművekben csak a vezetők utaztak, akik saját erejükből ki tudtak szállni. A zalaegerszegi hivatásos tűzoltók mindkét autót áramtalanították. Az úttestre került törmelék és szennyeződés miatt a városgazdálkodás szakembereit kérték a helyszínre.",
+      "location": "Zalaegerszeg, Balatoni út",
+      "updates": []
+    },
     {
       "id": "92713",
       "datetime": "2026.10.09. 22:35",
