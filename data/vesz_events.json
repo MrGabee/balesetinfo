@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T14:08:47.211638+00:00",
-  "count": 3169,
+  "updated_at": "2026-10-10T14:12:22.911036+00:00",
+  "count": 3170,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92731",
+      "datetime": "2026.10.10. 16:10",
+      "title": "Karambol az M5-ösön, Gyál térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92731",
+      "lead": "A főváros felé vezető oldal 19-20-as kilométere között két autó ütközött össze.",
+      "body": "Két személykocsi hajtott egymásba az M5-ös autópálya Budapest felé vezető oldalán, a 19-20-as kilométer között. A Gyál térségében történt balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést, áramtalanítanak. A járművekben összesen öten utaztak, a helyszínre vonultak a társhatóságok is.",
+      "location": "Gyál, M5",
+      "updates": []
+    },
     {
       "id": "92730",
       "datetime": "2026.10.10. 15:48",
