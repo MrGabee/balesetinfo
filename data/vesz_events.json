@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T13:05:05.465833+00:00",
-  "count": 3164,
+  "updated_at": "2026-10-10T13:08:10.068580+00:00",
+  "count": 3165,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92726",
+      "datetime": "2026.10.10. 15:06",
+      "title": "Ráfutásos baleset a 10-es főúton, Pilisjászfalun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92726",
+      "lead": "A 30-as kilométernél, a Tinnyei út közelében karamboloztak a járművek.",
+      "body": "Három autó szenvedett ráfutásos balesetet a 10-es főút pilisjászfalui szakaszán. A három járműben összesen öt ember utazott. A 30-as kilométernél, a Tinnyei úti elágazás közelében történt karambolhoz a piliscsabai önkéntes és az esztergomi hivatásos tűzoltók vonultak, az egységek áramtalanítottak.",
+      "location": "Pilisjászfalu, 10",
+      "updates": []
+    },
     {
       "id": "92725",
       "datetime": "2026.10.10. 14:34",
