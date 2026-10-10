@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T20:20:28.131927+00:00",
-  "count": 3180,
+  "updated_at": "2026-10-10T20:24:05.073578+00:00",
+  "count": 3181,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92742",
+      "datetime": "2026.10.10. 22:22",
+      "title": "Villanyoszlopnak hajtott egy autó Pénzesgyőrön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92742",
+      "lead": "A Fő utcai balesethez a zirci tűzoltókat riasztották.",
+      "body": "Villanyoszlopnak csapódott és megrongálta azt egy személykocsi Pénzesgyőrön, a Fő utcán. A járműben hárman utaztak, mentő érkezett hozzájuk. A zirci önkormányzati tűzoltók végzik a műszaki mentést.",
+      "location": "Pénzesgyőr, Fő utca",
+      "updates": []
+    },
     {
       "id": "92741",
       "datetime": "2026.10.10. 22:18",
