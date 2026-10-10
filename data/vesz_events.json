@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T21:47:51.635049+00:00",
-  "count": 3182,
+  "updated_at": "2026-10-10T21:51:11.527867+00:00",
+  "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92744",
+      "datetime": "2026.10.10. 23:50",
+      "title": "Baleset történt az M7-es autópályán, Budaörsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92744",
+      "lead": "A főváros felé vezető oldalon, a 10-es kilométer környékén szalagkorlátnak hajtott egy autó.",
+      "body": "Szalagkorlátnak ütközött és a belső elválasztónál állt meg egy személykocsi az M7-es autópálya 10-es kilométerének környékén. A főváros felé vezető oldalon, Budaörs térségében történt balesethez a budaörsi önkéntes tűzoltók vonultak. A helyszínre mentő is érkezett. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Budaörs, M7",
+      "updates": []
+    },
     {
       "id": "92743",
       "datetime": "2026.10.10. 22:36",
