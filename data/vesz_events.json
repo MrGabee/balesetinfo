@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T16:48:31.653924+00:00",
-  "count": 3174,
+  "updated_at": "2026-10-10T16:51:58.217611+00:00",
+  "count": 3175,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92736",
+      "datetime": "2026.10.10. 18:49",
+      "title": "Ráfutásos baleset történt a 6-os főút pécsi szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92736",
+      "lead": "A 193-194-es kilométer között, a 66-os főúti csomópont közelében karamboloztak a járművek.",
+      "body": "Összeütközött két autó Pécsett, a 6-os főút városi szakaszán, a főváros felé vezető oldalon. A Zsolnay Vilmos utca (6) és a 66-os főút csomópontja közelében történt balesetben öt ember érintett, a helyszínre mentő is érkezett. A város hivatásos tűzoltói áramtalanítottak.",
+      "location": "Pécs, 6",
+      "updates": []
+    },
     {
       "id": "92735",
       "datetime": "2026.10.10. 18:43",
