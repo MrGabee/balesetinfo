@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T12:31:06.964116+00:00",
-  "count": 3163,
+  "updated_at": "2026-10-10T12:34:48.147079+00:00",
+  "count": 3164,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92725",
+      "datetime": "2026.10.10. 14:34",
+      "title": "Baleset a 75-ös főúton, Pölöske és Bak között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92725",
+      "lead": "A 31-es kilométernél egy autó lesodródott az úttestről.",
+      "body": "Kicsúszott a kanyarban és az árok szélén állt meg egy személykocsi a 75-ös főút 31-es kilométerénél. A Pölöske és Bak között történt balesethez a pacsai hivatásos tűzoltók vonultak. A helyszínre mentő és mentőhelikopter is érkezett, a tűzoltók segítettek kiemelni az autó utasát a kocsiból.",
+      "location": "Pölöske, 75",
+      "updates": []
+    },
     {
       "id": "92724",
       "datetime": "2026.10.10. 13:24",
