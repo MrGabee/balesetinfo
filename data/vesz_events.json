@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T06:11:28.503683+00:00",
-  "count": 3153,
+  "updated_at": "2026-10-10T06:15:04.318369+00:00",
+  "count": 3154,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92715",
+      "datetime": "2026.10.10. 08:14",
+      "title": "Hármas karambol Budapest kilencedik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92715",
+      "lead": "A Soroksári és a Kvassay Jenő út találkozásánál történt a baleset.",
+      "body": "Egymásba hajtott három személykocsi Budapest kilencedik kerületében, a Kvassay Jenő és a Soroksári út találkozásánál. Az egyik jármű a HÉV-megálló oldalánál állt meg. A fővárosi hivatásos tűzoltók áramtalanították a kocsikat. A helyszínre mentő is érkezett. A karambol miatt forgalmi fennakadásra kell számítani, ez érinti a közösségi közlekedést is.",
+      "location": "Budapest, Kvassay Jenő út",
+      "updates": []
+    },
     {
       "id": "92714",
       "datetime": "2026.10.10. 07:40",
