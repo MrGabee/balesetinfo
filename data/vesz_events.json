@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T10:49:24.348142+00:00",
-  "count": 3160,
+  "updated_at": "2026-10-10T10:53:03.046182+00:00",
+  "count": 3161,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92722",
+      "datetime": "2026.10.10. 12:51",
+      "title": "Felborult egy autó Tab és Nagybábony között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92722",
+      "lead": "A baleset a 6511-es úton, a 7-8-as kilométer között történt.",
+      "body": "Felborult egy személykocsi Tab és Nagybábony között, a Siófoki úton. A járműben csak annak vezetője ült, a sofőr ki tudott szállni az autóból. A tabi önkormányzati tűzoltók áramtalanították a kocsit. A helyszínre mentő is érkezett.",
+      "location": "Tab, 6511",
+      "updates": []
+    },
     {
       "id": "92721",
       "datetime": "2026.10.10. 12:38",
