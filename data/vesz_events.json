@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T18:40:55.005320+00:00",
-  "count": 3176,
+  "updated_at": "2026-10-10T18:43:36.007582+00:00",
+  "count": 3177,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92738",
+      "datetime": "2026.10.10. 20:41",
+      "title": "Szén-monoxid keletkezett egy pápai ingatlanban",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92738",
+      "lead": "A Kéttornyulaki utcába mentő is érkezett.",
+      "body": "A cserépkályha beüzemelése után megszólalt a szén-monoxid-érzékelő egy pápai, Kéttornyulaki utcai épületben. A háziak a jelzést követően kihívták a helyi hivatásos tűzoltókat. Az egység méréseket végzett, a műszer kimutatta a mérgező gáz megemelkedett koncentrációját. A három lakóhoz mentő is érkezett. Két embert átmenetileg rokonok fogadtak be.",
+      "location": "Pápa, Kéttornyulaki utca",
+      "updates": []
+    },
     {
       "id": "92737",
       "datetime": "2026.10.10. 19:35",
