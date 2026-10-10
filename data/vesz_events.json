@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T16:41:55.422955+00:00",
-  "count": 3173,
+  "updated_at": "2026-10-10T16:45:07.316306+00:00",
+  "count": 3174,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92735",
+      "datetime": "2026.10.10. 18:43",
+      "title": "Felborult egy autó a 8139-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92735",
+      "lead": "A 4-es kilométerhez a komáromi tűzoltókat riasztották.",
+      "body": "Baleset történt Tata közelében, a 8139-es úton. A 4-es kilométernél megcsúszott és felborult egy személykocsi. A komáromi hivatásos és önkéntes tűzoltók vonultak az esethez, áramtalanították a járművet. Az érintett szakaszon egy időre megállították a forgalmat.",
+      "location": "Tata, Diós puszta",
+      "updates": []
+    },
     {
       "id": "92734",
       "datetime": "2026.10.10. 18:18",
