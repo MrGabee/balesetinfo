@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T10:18:05.627464+00:00",
-  "count": 3158,
+  "updated_at": "2026-10-10T10:21:09.742665+00:00",
+  "count": 3159,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92720",
+      "datetime": "2026.10.10. 12:18",
+      "title": "Baleset történt Szamosszeg és Szamoskér között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92720",
+      "lead": "A 4120-as út 11-es kilométerénél árokba csapódott egy személykocsi.",
+      "body": "Megpördült az úton, azután árokba csapódott egy autó a 4120-as út Szamosszeg és Szamoskér közötti szakaszán. A mátészalkai hivatásos tűzoltók áramtalanítottak, a jármű sofőrjéhez mentő érkezett. Az utat az érintett szakaszon egy időre teljes szélességében lezárták.",
+      "location": "Szamosszeg, 4120",
+      "updates": []
+    },
     {
       "id": "92719",
       "datetime": "2026.10.10. 12:03",
