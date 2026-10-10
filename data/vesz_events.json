@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T13:22:26.031192+00:00",
-  "count": 3166,
+  "updated_at": "2026-10-10T13:25:51.069520+00:00",
+  "count": 3167,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92728",
+      "datetime": "2026.10.10. 15:25",
+      "title": "Baleset történt Kocsér és Kőröstetétlen között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92728",
+      "lead": "A 4613-as út 13-as kilométerénél árokba csapódott egy személykocsi.",
+      "body": "Árokba csapódott és ott az oldalára borulva állt meg egy autó a 4613-as út 13-as kilométerénél, Kocsér és Kőröstetétlen között. A kocsiban ketten ültek, mentő érkezett hozzájuk. A nagykőrösi önkormányzati tűzoltók áramtalanítottak, megszüntették a forgalmi akadályt.",
+      "location": "Törtel, 4613",
+      "updates": []
+    },
     {
       "id": "92727",
       "datetime": "2026.10.10. 15:15",
