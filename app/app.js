@@ -443,7 +443,7 @@ function renderEszkozOldal(id, jelszo) {
   body { padding: 12px 14px 0; display: flex; flex-direction: column; }
   .appnav { width: 100%; max-width: none; margin-bottom: 10px; }
   .eszkoz-cim { font: 600 15px/1.2 var(--f-display); color: var(--muted); }
-  .eszkoz-keret { flex: 1; min-height: 0; width: 100%; border: 1px solid var(--border); border-bottom: 0; border-radius: 12px 12px 0 0; background: #fff; }
+  .eszkoz-keret { flex: 1; min-height: 0; width: 100%; border: 0; background: var(--bg); }
 </style>
 <body>
 ${navSav('eszkoz', jelszo)}

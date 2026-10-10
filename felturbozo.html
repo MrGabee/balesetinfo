@@ -4,38 +4,75 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kép felturbózó</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Figtree:wght@400;500;600;700&display=swap">
 <style>
+  /* A Balesetinfo program arculata: ugyanazok a színtokenek, világos és sötét módban. */
+  :root {
+    color-scheme: light;
+    --bg: #f3f5f8; --card: #ffffff; --surface-2: #eef1f6; --border: #dde2ea;
+    --text: #16202e; --muted: #5d6a7c; --blue: #1f5f8b; --blue-soft: #e2edf6; --blue-soft2: #d2e2ef; --blue-press: #174a6d;
+    --red: #b3261e; --green: #1b7f4b; --disabled: #b9c3cf; --on-accent: #ffffff;
+    --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+    --f-body: "Figtree", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) { :root {
+    color-scheme: dark;
+    --bg: #0f141b; --card: #161d27; --surface-2: #1c2531; --border: #2a3443;
+    --text: #e6ebf2; --muted: #93a0b2; --blue: #6fb0e0; --blue-soft: #1b2e40; --blue-soft2: #234059; --blue-press: #8cc3ea;
+    --red: #f2867f; --green: #5cc98d; --disabled: #3a4656; --on-accent: #0f141b;
+  } }
+
   * { box-sizing: border-box; }
-  body { font-family: -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; background: #f4f6f5; margin: 0; padding: 16px; color: #1f2d2b; }
-  .card { max-width: 560px; margin: 0 auto; background: #ffffff; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
-  .header { background: #2c5f6f; color: #ffffff; padding: 20px 20px 14px; }
+  body { font-family: var(--f-body); background: var(--surface-2); margin: 0; padding: 16px; color: var(--text); }
+  .card { max-width: 560px; margin: 0 auto; background: var(--card); border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
+  .header { background: var(--blue); color: var(--on-accent); padding: 20px 20px 14px; }
   .header h1 { margin: 0; font-size: 18px; font-weight: 600; }
   .form-blokk { padding: 20px; }
-  .mezo-cimke { display: block; font-size: 13px; font-weight: 700; color: #55605e; margin: 0 0 6px; }
-  select, input[type="file"], input[type="password"] { width: 100%; padding: 12px 14px; font-size: 15px; border: 1.5px solid #dfe6e4; border-radius: 12px; box-sizing: border-box; background: #fff; }
-  .btn { display: block; width: 100%; background: #2c5f6f; color: #ffffff; border: none; padding: 15px; border-radius: 12px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 14px; }
-  .btn:active { background: #23494f; }
-  .btn:disabled { background: #b7c3c1; cursor: not-allowed; }
-  .btn-masodlagos { background: #eef4f2; color: #2c5f6f; }
-  .btn-masodlagos:active { background: #dbe6e3; }
+  .mezo-cimke { display: block; font-size: 13px; font-weight: 700; color: var(--muted); margin: 0 0 6px; }
+  select, input[type="file"], input[type="password"] { width: 100%; padding: 12px 14px; font-size: 15px; border: 1.5px solid var(--border); border-radius: 12px; box-sizing: border-box; background: var(--card); }
+  .btn { display: block; width: 100%; background: var(--blue); color: var(--on-accent); border: none; padding: 15px; border-radius: 12px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 14px; }
+  .btn:active { background: var(--blue-press); }
+  .btn:disabled { background: var(--disabled); cursor: not-allowed; }
+  .btn-masodlagos { background: var(--blue-soft); color: var(--blue); }
+  .btn-masodlagos:active { background: var(--blue-soft2); }
   .btn-sor { display: flex; gap: 10px; }
   .btn-sor .btn { margin-top: 0; }
-  .belepo-hiba { color: #b23b3b; font-size: 13px; margin: -6px 0 14px; }
+  .belepo-hiba { color: var(--red); font-size: 13px; margin: -6px 0 14px; }
   .jelszo-doboz { position: relative; }
   .jelszo-doboz input { padding-right: 44px; }
   .jelszo-szem { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 19px; cursor: pointer; padding: 8px; line-height: 1; }
-  .allapot { font-size: 13px; color: #55605e; margin-top: 10px; min-height: 18px; }
-  .allapot.hiba { color: #b23b3b; }
-  .allapot.sikeres { color: #1f7a3d; }
-  .vaszon-doboz { width: 100%; border: 1.5px solid #dfe6e4; border-radius: 12px; margin-top: 10px; overflow: hidden; background: #f9fafa; }
+  .allapot { font-size: 13px; color: var(--muted); margin-top: 10px; min-height: 18px; }
+  .allapot.hiba { color: var(--red); }
+  .allapot.sikeres { color: var(--green); }
+  .vaszon-doboz { width: 100%; border: 1.5px solid var(--border); border-radius: 12px; margin-top: 10px; overflow: hidden; background: var(--surface-2); }
   canvas.elotag-vaszon { display: block; width: 100%; height: auto; }
   .kep-blokk { margin-top: 4px; }
-  .kep-cim { font-size: 14px; font-weight: 700; color: #1f2d2b; margin: 0 0 4px; word-break: break-all; }
-  .lepes-cim { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #2c5f6f; margin: 22px 0 8px; }
+  .kep-cim { font-size: 14px; font-weight: 700; color: var(--text); margin: 0 0 4px; word-break: break-all; }
+  .lepes-cim { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--blue); margin: 22px 0 8px; }
   .lepes-cim:first-child { margin-top: 0; }
-  hr.elvalaszto { border: none; border-top: 1px solid #e4e9e7; margin: 20px 0; }
-  .sugo-szoveg { font-size: 12px; color: #7c8a88; margin-top: 6px; }
-  .cimke-pill { display: inline-block; background: #eef4f2; color: #2c5f6f; font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 999px; margin-top: 6px; }
+  hr.elvalaszto { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+  .sugo-szoveg { font-size: 12px; color: var(--muted); margin-top: 6px; }
+  .cimke-pill { display: inline-block; background: var(--blue-soft); color: var(--blue); font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 999px; margin-top: 6px; }
+
+  /* Programhoz illő megjelenés */
+  body { background: var(--bg); color: var(--text); font-family: var(--f-body); font-size: 15px; line-height: 1.5; padding: 20px 14px 40px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; box-shadow: none; }
+  .header { background: none; color: var(--text); padding: 18px 20px 0; }
+  .header h1 { font: 700 22px/1.2 var(--f-display); }
+  .lepes-cim { font-family: var(--f-display); letter-spacing: .05em; }
+  select, input, textarea, button { font-family: inherit; color: var(--text); }
+  select, input[type="file"], input[type="password"], input[type="text"] { border-width: 1px; border-radius: 8px; }
+  select:focus, input[type="password"]:focus, input[type="text"]:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px var(--blue-soft); }
+  input[type="file"]::file-selector-button { margin-right: 10px; padding: 8px 12px; border: 0; border-radius: 8px; background: var(--blue-soft); color: var(--blue); font: 700 14px var(--f-body); cursor: pointer; }
+  input[type="range"] { accent-color: var(--blue); }
+  .btn { border-radius: 10px; color: var(--on-accent); }
+  .btn-masodlagos { color: var(--blue); }
+  .btn:disabled { color: var(--muted); }
+  /* A programon belül nyitva a program adja a keretet. */
+  html.beagyazva body { padding: 4px 0 24px; }
+  html.beagyazva .card { max-width: 640px; border: 0; background: none; }
+  html.beagyazva .form-blokk { padding: 16px 14px; }
+  html.beagyazva .header { padding: 4px 14px 0; }
 </style>
 </head>
 <body>
@@ -91,6 +128,16 @@
     document.getElementById('jelszoMezo').addEventListener('keydown', function (esemeny) {
       if (esemeny.key === 'Enter') belepesProbalkozas();
     });
+
+    // A Balesetinfo programból (ugyanarról a címről) nyitva nem kér újra jelszót.
+    if (window.self !== window.top) document.documentElement.classList.add('beagyazva');
+    try {
+      const programJelszo = localStorage.getItem('balesetinfo_jelszo');
+      if (programJelszo && JELSZAVAK.indexOf(programJelszo) !== -1) {
+        document.getElementById('jelszoMezo').value = programJelszo;
+        belepesProbalkozas();
+      }
+    } catch (e) { /* nincs tárhely */ }
 
     // ============== KÉP FELTURBÓZÓ ESZKÖZ ==============
     let upscalerPeldany = null;
