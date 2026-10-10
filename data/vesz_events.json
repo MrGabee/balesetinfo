@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T10:01:14.856458+00:00",
-  "count": 3157,
+  "updated_at": "2026-10-10T10:05:09.642395+00:00",
+  "count": 3158,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92719",
+      "datetime": "2026.10.10. 12:03",
+      "title": "Árokba borult egy autó Balatonfűzfőnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92719",
+      "lead": "A 7213-as út elején történt a baleset.",
+      "body": "Letért az útról és az árokban, a tetejére borulva állt meg egy személykocsi a 7213-as út elején, Balatonfűzfő határában. A kocsiban csak a sofőr utazott, ki tudott szállni járművéből. A helyszínre mentő érkezett. A balatonfűzfői hivatásos tűzoltók megtisztítják a bokros területet, hogy áramtalanítani tudják az autót. A forgalom félpályán halad.",
+      "location": "Balatonfűzfő, 7213",
+      "updates": []
+    },
     {
       "id": "92718",
       "datetime": "2026.10.10. 11:52",
