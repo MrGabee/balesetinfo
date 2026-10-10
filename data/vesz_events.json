@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T13:45:13.824336+00:00",
-  "count": 3168,
+  "updated_at": "2026-10-10T13:48:52.944068+00:00",
+  "count": 3169,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92730",
+      "datetime": "2026.10.10. 15:48",
+      "title": "Több hektár égett Nagyberény szélén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92730",
+      "lead": "Az Ady Endre–József Attila utca közötti területen siófoki tűzoltók dolgoznak.",
+      "body": "Tarló, vágástéri hulladék gyulladt ki Nagyberény szélén, az Ady Endre és a József Attila utca közötti területen, az udvarok végében. A tűz átterjedt egy erdősávra is. A siófoki hivatásos tűzoltók több vízsugárral előbb körülhatárolták, majd eloltották a lángokat, amelyek nagyjából négyhektárnyi területet égettek le. Az egységek munkáját civilek is segítették.",
+      "location": "Nagyberény, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "92729",
       "datetime": "2026.10.10. 15:40",
