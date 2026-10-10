@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T13:39:05.516012+00:00",
-  "count": 3167,
+  "updated_at": "2026-10-10T13:42:03.946219+00:00",
+  "count": 3168,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92729",
+      "datetime": "2026.10.10. 15:40",
+      "title": "Kigyulladt egy melléképület Komlósdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92729",
+      "lead": "A Fő úton egy nagyjából tizenöt négyzetméteres építmény égett.",
+      "body": "Tűz ütött ki egy nagyjából tizenöt négyzetméteres, egy családi házzal egybeépített melléképületben Komlósdon. A Fő úti melléképületben van a kazánhelyiség, a tűz onnan indult, de a családi házra nem terjedt át. A barcsi és nagyatádi hivatásos tűzoltók rövid idő alatt megfékezték a lángokat, megbontják a tetőt, hogy kiderítsék, vannak-e izzó gócok.",
+      "location": "Komlósd, Fő utca",
+      "updates": []
+    },
     {
       "id": "92728",
       "datetime": "2026.10.10. 15:25",
