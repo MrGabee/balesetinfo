@@ -1585,6 +1585,109 @@ function mutat(html) {
   document.open();
   document.write(html);
   document.close();
+  telepitesFejlec();
+  telepitoSav();
+}
+
+/* ---- Telepítés: a program telefonon ikonról indítható, mint egy app ---- */
+const TELEPITES_REJTVE_KULCS = 'balesetinfo_telepites_rejtve';
+let telepitesEsemeny = null;
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(() => { /* nem baj, ha nem sikerül */ });
+}
+
+// A document.open() a fejlécet és a figyelőket is törli, ezért minden oldalnál újra kell.
+function telepitesFejlec() {
+  const fej = document.head;
+  if (!fej || fej.querySelector('link[rel=manifest]')) return;
+  fej.insertAdjacentHTML('beforeend',
+    '<link rel="manifest" href="manifest.webmanifest">' +
+    '<meta name="theme-color" content="#1f5f8b">' +
+    '<link rel="icon" href="ikon-192.png">' +
+    '<link rel="apple-touch-icon" href="ikon-180.png">' +
+    '<meta name="apple-mobile-web-app-capable" content="yes">' +
+    '<meta name="apple-mobile-web-app-title" content="Balesetinfo">');
+  if (!document.title) document.title = 'Balesetinfo';
+}
+
+function telepitesKell() {
+  const ua = navigator.userAgent;
+  if (window.matchMedia('(display-mode: standalone)').matches || navigator.standalone) return false; // már telepítve
+  if (/; wv\)/.test(ua)) return false; // az Android-alkalmazásban fut
+  if (!/Android|iPhone|iPad|iPod/i.test(ua) && !(navigator.maxTouchPoints > 1 && /Macintosh/.test(ua))) return false; // nem telefon
+  try {
+    const rejtve = Number(localStorage.getItem(TELEPITES_REJTVE_KULCS) || 0);
+    if (rejtve && Date.now() - rejtve < 14 * 24 * 3600 * 1000) return false;
+  } catch (e) { /* nincs tárhely */ }
+  return true;
+}
+
+function telepitesFigyelok() {
+  window.onbeforeinstallprompt = e => {
+    e.preventDefault();
+    telepitesEsemeny = e;
+  };
+  window.onappinstalled = () => {
+    const sav = document.getElementById('telepitoSav');
+    if (sav) sav.remove();
+  };
+}
+telepitesFigyelok();
+
+function telepitoSav() {
+  telepitesFigyelok();
+  // Az eszközök oldalán a beágyazott eszköz kapja a teljes magasságot.
+  if (!document.body || document.getElementById('telepitoSav') || document.querySelector('.eszkoz-keret') || !telepitesKell()) return;
+
+  const ios = /iPhone|iPad|iPod/i.test(navigator.userAgent) || (navigator.maxTouchPoints > 1 && /Macintosh/.test(navigator.userAgent));
+  const stilus = document.createElement('style');
+  stilus.textContent = `
+    #telepitoSav { position: fixed; left: 0; right: 0; bottom: 0; z-index: 1000; padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+      background: var(--card, #fff); border-top: 1px solid var(--border, #dde2ea); box-shadow: 0 -4px 16px rgba(15,20,27,.12);
+      font-family: var(--f-body, system-ui, sans-serif); color: var(--text, #16202e); }
+    #telepitoSav .ts-sor { display: flex; align-items: center; gap: 12px; max-width: 640px; margin: 0 auto; }
+    #telepitoSav img { width: 40px; height: 40px; border-radius: 10px; flex: none; }
+    #telepitoSav .ts-szoveg { flex: 1; min-width: 0; font-size: 13px; line-height: 1.35; color: var(--muted, #5d6a7c); }
+    #telepitoSav .ts-szoveg b { display: block; font-size: 15px; color: var(--text, #16202e); }
+    #telepitoSav .ts-gomb { flex: none; border: 0; border-radius: 999px; padding: 10px 16px; font: 700 14px var(--f-body, system-ui, sans-serif);
+      background: var(--blue, #1f5f8b); color: var(--on-accent, #fff); cursor: pointer; }
+    #telepitoSav .ts-bezar { flex: none; border: 0; background: none; font-size: 22px; line-height: 1; padding: 6px; color: var(--muted, #5d6a7c); cursor: pointer; }
+    #telepitoSav .ts-utmutato { display: none; max-width: 640px; margin: 10px auto 0; padding: 10px 12px; border-radius: 10px;
+      background: var(--blue-soft, #e2edf6); color: var(--text, #16202e); font-size: 14px; }
+    #telepitoSav.nyitva .ts-utmutato { display: block; }
+    body { padding-bottom: calc(96px + env(safe-area-inset-bottom)) !important; }`;
+  document.head.appendChild(stilus);
+
+  const utmutato = ios
+    ? 'Koppints alul a <b style="display:inline">Megosztás</b> gombra (négyzet felfelé nyíllal), majd válaszd a <b style="display:inline">Főképernyőhöz adás</b> lehetőséget.'
+    : 'Nyisd meg a böngésző menüjét (jobb felül ⋮), és válaszd az <b style="display:inline">Alkalmazás telepítése</b> vagy <b style="display:inline">Hozzáadás a kezdőképernyőhöz</b> lehetőséget.';
+  const sav = document.createElement('div');
+  sav.id = 'telepitoSav';
+  sav.innerHTML = `<div class="ts-sor">
+      <img src="ikon-192.png" alt="">
+      <div class="ts-szoveg"><b>Telepítsd a Balesetinfót</b>Ikonról indul, mint egy alkalmazás.</div>
+      <button type="button" class="ts-gomb">Telepítés</button>
+      <button type="button" class="ts-bezar" aria-label="Bezárás">×</button>
+    </div>
+    <div class="ts-utmutato">${utmutato}</div>`;
+  document.body.appendChild(sav);
+
+  sav.querySelector('.ts-gomb').addEventListener('click', async () => {
+    if (telepitesEsemeny) {
+      const e = telepitesEsemeny;
+      telepitesEsemeny = null;
+      e.prompt();
+      const { outcome } = await e.userChoice;
+      if (outcome === 'accepted') sav.remove();
+    } else {
+      sav.classList.toggle('nyitva');
+    }
+  });
+  sav.querySelector('.ts-bezar').addEventListener('click', () => {
+    try { localStorage.setItem(TELEPITES_REJTVE_KULCS, String(Date.now())); } catch (e) { /* nincs tárhely */ }
+    sav.remove();
+  });
 }
 
 function hibaOldal(cim, szoveg) {
