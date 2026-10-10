@@ -3,118 +3,218 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
 <title>TV2 Riport Beküldő</title>
+<meta name="theme-color" content="#1f5f8b">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Figtree:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap">
 <style>
+  /* Arculat: ugyanaz a kártyás, mobilbarát stílus, mint a számla-áttekintőé.
+     A színek tokenekben vannak, a sötét mód (rendszer-beállítás szerint)
+     csak a tokeneket írja felül. */
   :root {
-    --bg: #1b1d1f; --bg-card: #232629; --bg-card-hover: #2a2e31;
-    --amber: #f2a340; --red: #c8102e; --text: #eef0f2; --text-muted: #9aa0a6;
-    --border: #34383c; --green: #4caf6f; --turquoise: #2dd4bf;
+    color-scheme: light;
+    --bg: #f3f5f8;
+    --card: #ffffff;
+    --surface-2: #eef1f6;
+    --border: #dde2ea;
+    --text: #16202e;
+    --muted: #5d6a7c;
+    --blue: #1f5f8b;
+    --blue-soft: #e2edf6;
+    --red: #b3261e;
+    --red-soft: #fbe3e1;
+    --green: #1b7f4b;
+    --green-soft: #e1f3e8;
+    --amber: #a35a00;
+    --amber-soft: #fbefdc;
+    --on-accent: #ffffff;
+    --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+    --f-body: "Figtree", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    --f-num: "JetBrains Mono", ui-monospace, Consolas, monospace;
   }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; line-height: 1.5; }
-
-  .hazard-stripe { height: 6px; background: repeating-linear-gradient(-45deg, var(--amber), var(--amber) 14px, #1b1d1f 14px, #1b1d1f 28px); }
-
-  header { padding: 40px 32px 24px; max-width: 900px; margin: 0 auto; }
-  .eyebrow { font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--amber); margin-bottom: 10px; }
-  h1 { font-family: 'Oswald', sans-serif; font-weight: 700; font-size: clamp(26px, 4vw, 38px); text-transform: uppercase; }
-  h1 span { color: var(--turquoise); }
-
-  main { max-width: 900px; margin: 0 auto; padding: 0 32px 64px; }
-
-  section.block { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 22px; margin-bottom: 20px; }
-  .block-title { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 15px; text-transform: uppercase; letter-spacing: 0.03em; color: var(--amber); margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
-  .block-number { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; background: var(--amber); color: #1b1d1f; font-size: 11px; font-weight: 700; }
-
-  select, textarea, input[type="text"], input[type="date"] {
-    width: 100%; background: #141617; border: 1px solid var(--border); color: var(--text);
-    font-family: 'Inter', sans-serif; font-size: 13px; padding: 10px 12px; border-radius: 6px; outline: none;
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #0f141b; --card: #161d27; --surface-2: #1c2531; --border: #2a3443;
+    --text: #e6ebf2; --muted: #93a0b2; --blue: #6fb0e0; --blue-soft: #1b2e40;
+    --red: #f2867f; --red-soft: #3a1a18; --green: #5cc98d; --green-soft: #15301f;
+    --amber: #f0b052; --amber-soft: #33260f; --on-accent: #0f141b;
+  } }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #0f141b; --card: #161d27; --surface-2: #1c2531; --border: #2a3443;
+    --text: #e6ebf2; --muted: #93a0b2; --blue: #6fb0e0; --blue-soft: #1b2e40;
+    --red: #f2867f; --red-soft: #3a1a18; --green: #5cc98d; --green-soft: #15301f;
+    --amber: #f0b052; --amber-soft: #33260f; --on-accent: #0f141b;
   }
-  select:focus, textarea:focus, input:focus { border-color: var(--amber); }
-  textarea { min-height: 140px; resize: vertical; }
-  textarea:disabled { opacity: 0.6; cursor: not-allowed; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--f-body); font-size: 15px; line-height: 1.5;
+  }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font: 700 26px/1.15 var(--f-display); margin: 0 0 4px; text-wrap: balance; }
+  .alcim { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
 
-  .event-meta { margin-top: 8px; font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--text-muted); word-break: break-all; }
+  input, select, textarea, button { font-family: inherit; color: var(--text); }
+  input[type="text"], input[type="search"], input[type="date"], input[type="password"], textarea {
+    width: 100%; background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+    padding: 10px 12px; font-size: 15px; outline: none;
+  }
+  input:focus, textarea:focus { border-color: var(--blue); box-shadow: 0 0 0 3px var(--blue-soft); }
+  textarea { min-height: 130px; resize: vertical; }
+  textarea:disabled { background: var(--surface-2); color: var(--muted); cursor: not-allowed; }
 
-  .date-nav { display: flex; gap: 8px; align-items: center; }
-  .date-nav input[type="date"] { flex: 1; }
-  .date-nav button { flex-shrink: 0; font-size: 16px; line-height: 1; }
+  /* ── Gombok ── */
+  .gomb {
+    display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    padding: 10px 18px; border-radius: 8px; border: 1px solid transparent;
+    font-size: 14px; font-weight: 600; cursor: pointer; min-height: 42px;
+  }
+  .gomb:disabled { opacity: 0.6; cursor: default; }
+  .gomb-fo { background: var(--blue); color: var(--on-accent); }
+  .gomb-fo:hover:not(:disabled) { filter: brightness(1.08); }
+  .gomb-masod { background: var(--card); border-color: var(--border); color: var(--text); }
+  .gomb-masod:hover:not(:disabled) { border-color: var(--blue); color: var(--blue); }
+  .gomb-teljes { width: 100%; font-size: 16px; padding: 14px 18px; border-radius: 10px; }
 
-  .cat-header { display: flex; justify-content: space-between; align-items: center; background: #141617; border: 1px solid var(--border); border-radius: 6px; padding: 10px 14px; cursor: pointer; margin-bottom: 6px; font-family: 'Oswald', sans-serif; font-size: 13px; text-transform: uppercase; letter-spacing: 0.03em; color: var(--turquoise); }
-  .cat-header .count { color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: none; }
-  .cat-body { max-height: 0; overflow: hidden; transition: max-height 0.2s ease; border-left: 2px solid var(--border); margin: 0 0 10px 8px; }
-  .cat-body.open { max-height: 260px; overflow-y: auto; }
-  .cat-scroll { padding: 8px 0 8px 12px; }
-  .recipient-item { display: flex; align-items: center; gap: 8px; font-size: 13px; padding: 5px 6px; border-radius: 4px; cursor: pointer; }
-  .recipient-item:hover { background: var(--bg-card-hover); }
-  .recipient-item input { accent-color: var(--amber); }
+  /* ── KPI-kártyák ── */
+  .kartyak { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .kartya { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; min-width: 0; }
+  .kartya .cimke { color: var(--muted); font-size: 13px; }
+  .kartya .ertek { font: 500 24px/1.2 var(--f-num); font-variant-numeric: tabular-nums; margin-top: 4px; }
 
-  .selected-summary { margin-top: 8px; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--text-muted); }
+  /* ── Elrendezés: asztalon két oszlop, telefonon egy ── */
+  .racs { display: grid; grid-template-columns: 1fr; gap: 16px; align-items: start; }
+  .oszlop { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+  @media (min-width: 900px) {
+    .racs { grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); }
+  }
 
-  button.primary, button.secondary { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; border-radius: 4px; cursor: pointer; padding: 11px 20px; border: none; }
-  button.primary { background: var(--amber); color: #1b1d1f; width: 100%; }
-  button.primary:hover { background: #ffb75c; }
-  button.primary:disabled { opacity: 0.5; cursor: not-allowed; }
-  button.secondary { background: transparent; color: var(--turquoise); border: 1px solid var(--turquoise); }
-  button.secondary:hover { background: rgba(45,212,191,0.1); }
+  .panel { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px; min-width: 0; }
+  .panel-fej { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .panel-cim { font: 600 17px/1.2 var(--f-display); margin: 0; flex: 1; }
+  .lepes {
+    flex: none; width: 26px; height: 26px; border-radius: 50%;
+    display: inline-flex; align-items: center; justify-content: center;
+    background: var(--blue-soft); color: var(--blue); font-size: 13px; font-weight: 700;
+  }
+  .panel-info { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
 
-  .status-msg { margin-top: 10px; font-family: 'JetBrains Mono', monospace; font-size: 12px; min-height: 16px; }
-  .status-msg.ok { color: var(--green); }
-  .status-msg.error { color: var(--red); }
+  .badge { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+  .badge-kek { background: var(--blue-soft); color: var(--blue); }
+  .badge-zold { background: var(--green-soft); color: var(--green); }
+  .badge-sarga { background: var(--amber-soft); color: var(--amber); }
 
-  .history-item { border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; cursor: pointer; }
-  .history-item:hover { background: var(--bg-card-hover); }
-  .history-item.active { border-color: var(--amber); }
-  .history-item-title { font-family: 'Oswald', sans-serif; font-size: 13px; margin-bottom: 3px; }
-  .history-item-meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--text-muted); }
+  /* ── Címzett-választó ── */
+  .csoport { border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; overflow: hidden; }
+  .csoport:last-child { margin-bottom: 0; }
+  .csoport-fej {
+    display: flex; align-items: center; gap: 10px; width: 100%; padding: 12px 14px;
+    background: var(--surface-2); border: 0; cursor: pointer; text-align: left;
+  }
+  .csoport-fej .nev { flex: 1; font-weight: 600; font-size: 15px; }
+  .csoport-fej .nyil { color: var(--muted); transition: transform .15s ease; }
+  .csoport.nyitva .csoport-fej .nyil { transform: rotate(90deg); }
+  .csoport-test { display: none; padding: 12px 14px 14px; }
+  .csoport.nyitva .csoport-test { display: block; }
+  .csoport-mind { margin-bottom: 10px; font-size: 13px; padding: 6px 12px; min-height: 34px; }
+  .chipek { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { position: relative; }
+  .chip input { position: absolute; opacity: 0; pointer-events: none; }
+  .chip span {
+    display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; min-height: 38px;
+    border: 1px solid var(--border); border-radius: 999px; background: var(--card);
+    font-size: 14px; cursor: pointer; user-select: none;
+  }
+  .chip span::before { content: "+"; color: var(--muted); font-weight: 700; }
+  .chip:hover span { border-color: var(--blue); }
+  .chip input:checked + span { background: var(--blue); border-color: var(--blue); color: var(--on-accent); }
+  .chip input:checked + span::before { content: "✓"; color: var(--on-accent); }
+  .chip input:focus-visible + span { box-shadow: 0 0 0 3px var(--blue-soft); }
+  .osszesito { margin-top: 12px; font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .osszesito .torles { background: none; border: 0; color: var(--blue); cursor: pointer; font-size: 13px; padding: 0; text-decoration: underline; }
 
-  .resend-panel { display: none; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border); }
-  .resend-panel.open { display: block; }
+  /* ── VÉSZ esemény-választó ── */
+  .datum-sor { display: flex; gap: 8px; align-items: center; }
+  .datum-sor input { flex: 1; min-width: 0; }
+  .datum-sor .gomb { flex: none; width: 42px; padding: 0; font-size: 18px; }
+  .kereso { margin-top: 10px; }
+  .esemeny-lista { margin-top: 12px; display: flex; flex-direction: column; gap: 8px; max-height: 420px; overflow-y: auto; padding-right: 2px; }
+  .esemeny {
+    display: block; width: 100%; text-align: left; background: var(--card);
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; cursor: pointer;
+  }
+  .esemeny:hover { border-color: var(--blue); }
+  .esemeny.aktiv { border-color: var(--blue); background: var(--blue-soft); box-shadow: inset 3px 0 0 var(--blue); }
+  .esemeny-felso { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
+  .esemeny-ido { font-family: var(--f-num); font-variant-numeric: tabular-nums; }
+  .esemeny-cim { font-weight: 600; font-size: 15px; margin-top: 3px; overflow-wrap: anywhere; }
+  .esemeny-lead { font-size: 13px; color: var(--muted); margin-top: 2px; overflow-wrap: anywhere; }
+  .kivalasztott-esemeny { margin-top: 10px; font-size: 13px; color: var(--muted); overflow-wrap: anywhere; }
+  .kivalasztott-esemeny a { color: var(--blue); }
 
-  .empty-note { color: var(--text-muted); font-size: 13px; }
-  .btn-row { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
-  .btn-row .secondary, .btn-row .primary { width: auto; }
+  .statusz { margin-top: 10px; font-size: 14px; min-height: 20px; }
+  .statusz.ok { color: var(--green); }
+  .statusz.hiba { color: var(--red); }
+  .ures { color: var(--muted); text-align: center; padding: 20px 10px; font-size: 14px; }
 
-  .config-warning { background: rgba(200, 16, 46, 0.1); border: 1px solid var(--red); border-radius: 6px; padding: 14px 16px; font-size: 13px; margin-bottom: 24px; }
-  .config-warning strong { color: var(--red); }
+  /* ── Előzmények ── */
+  .elozmenyek { margin-top: 16px; }
+  .elozmeny-lista { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; }
+  .elozmeny {
+    display: block; width: 100%; text-align: left; background: var(--card);
+    border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; cursor: pointer; min-width: 0;
+  }
+  .elozmeny:hover { border-color: var(--blue); }
+  .elozmeny.aktiv { border-color: var(--blue); background: var(--blue-soft); }
+  .elozmeny-cim { font-weight: 600; font-size: 14px; overflow-wrap: anywhere; }
+  .elozmeny-meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .elozmeny-cimzettek { font-size: 12px; color: var(--muted); margin-top: 4px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
+  .ujrakuldes { display: none; margin-top: 14px; border-top: 1px solid var(--border); padding-top: 16px; }
+  .ujrakuldes.nyitva { display: block; }
+  .ujrakuldes h3 { font: 600 15px/1.2 var(--f-display); margin: 16px 0 10px; }
+  .ujrakuldes h3:first-child { margin-top: 0; }
+  .gomb-sor { display: flex; gap: 10px; margin-top: 12px; flex-wrap: wrap; }
+
+  .config-figyelmeztetes { background: var(--red-soft); color: var(--red); border-radius: 10px; padding: 12px 14px; font-size: 14px; margin-bottom: 16px; }
+
+  /* ── Jelszó-képernyő ── */
   #passwordGate {
     position: fixed; inset: 0; background: var(--bg); display: flex;
     align-items: center; justify-content: center; z-index: 2000; padding: 20px;
   }
-  .gate-box { max-width: 340px; width: 100%; text-align: center; }
-  .gate-box h2 { font-family: 'Oswald', sans-serif; text-transform: uppercase; font-size: 20px; margin-bottom: 8px; }
-  .gate-box p { color: var(--text-muted); font-size: 13px; margin-bottom: 20px; }
-  .gate-input { width: 100%; margin-bottom: 12px; text-align: center; }
+  .gate-box {
+    max-width: 360px; width: 100%; text-align: center; background: var(--card);
+    border: 1px solid var(--border); border-radius: 14px; padding: 28px 22px;
+  }
+  .gate-box h2 { font: 700 22px/1.2 var(--f-display); margin: 0 0 6px; }
+  .gate-box p { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
   .gate-input-wrap { position: relative; margin-bottom: 12px; }
-  .gate-input-wrap .gate-input {
-    margin-bottom: 0;
-    height: 48px;
-    padding-right: 44px;
-    font-size: 15px;
-  }
+  .gate-input-wrap input { height: 48px; padding-right: 46px; font-size: 16px; text-align: center; }
   .gate-eye-toggle {
-    position: absolute;
-    right: 6px;
-    top: 50%;
-    transform: translateY(-50%);
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: var(--text-muted);
-    padding: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 4px;
+    position: absolute; right: 6px; top: 50%; transform: translateY(-50%);
+    background: none; border: none; cursor: pointer; color: var(--muted);
+    padding: 8px; display: flex; align-items: center; justify-content: center; border-radius: 6px;
   }
-  .gate-eye-toggle:hover { color: var(--text); background: var(--bg-card-hover); }
+  .gate-eye-toggle:hover { color: var(--text); background: var(--surface-2); }
   .gate-eye-toggle svg { width: 18px; height: 18px; display: block; }
-  .gate-error { color: var(--red); font-size: 12px; margin-top: 10px; min-height: 16px; font-family: 'JetBrains Mono', monospace; }
+  .gate-error { color: var(--red); font-size: 13px; margin-top: 10px; min-height: 18px; }
   #protectedContent { display: none; }
+
+  @media (max-width: 560px) {
+    .wrap { padding: 18px 12px 40px; }
+    h1 { font-size: 22px; }
+    .kartyak { gap: 8px; }
+    .kartya { padding: 10px 12px; }
+    .kartya .cimke { font-size: 12px; }
+    .kartya .ertek { font-size: 20px; }
+    .esemeny-lista { max-height: 60vh; }
+  }
 </style>
 </head>
 <body>
@@ -124,7 +224,7 @@
     <h2>Belépés</h2>
     <p>Ehhez az oldalhoz jelszó szükséges.</p>
     <div class="gate-input-wrap">
-      <input type="password" id="gatePassword" class="gate-input" placeholder="Jelszó" autocomplete="off">
+      <input type="password" id="gatePassword" placeholder="Jelszó" autocomplete="off">
       <button type="button" class="gate-eye-toggle" id="gateEyeToggle" aria-label="Jelszó megjelenítése">
         <svg id="gateEyeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7Z"></path>
@@ -132,76 +232,84 @@
         </svg>
       </button>
     </div>
-    <button class="primary" id="gateSubmit">Belépés</button>
+    <button class="gomb gomb-fo gomb-teljes" id="gateSubmit">Belépés</button>
     <div class="gate-error" id="gateError"></div>
   </div>
 </div>
 
 <div id="protectedContent">
-<div class="hazard-stripe"></div>
+<div class="wrap">
 
-<header>
-  <div class="eyebrow">VÉSZ esemény · BM OKF · TV2</div>
-  <h1>Riport<span>·</span>Beküldő</h1>
-</header>
+  <h1>TV2 riport beküldő</h1>
+  <div class="alcim">VÉSZ esemény kiválasztása és elküldése a TV2 szerkesztőinek</div>
 
-<main>
-
-  <div class="config-warning" id="configWarning" style="display:none;">
+  <div class="config-figyelmeztetes" id="configWarning" style="display:none;">
     <strong>Figyelem:</strong> a küldéshez töltsd ki a fájl elején a KULDES_VEGPONT_URL értékét
     a saját cPanel-tárhelyeden lévő tv2_riport_kuldes.php elérési útjával.
   </div>
 
-  <section class="block">
-    <div class="block-title"><span class="block-number">1</span> Címzettek</div>
-    <div id="recipientPicker"></div>
-    <div class="selected-summary" id="selectedSummary">Nincs kiválasztott címzett.</div>
-  </section>
+  <div class="kartyak">
+    <div class="kartya"><div class="cimke">Események a napon</div><div class="ertek" id="kpiEsemeny">–</div></div>
+    <div class="kartya"><div class="cimke">Kiválasztott címzett</div><div class="ertek" id="kpiCimzett">0</div></div>
+    <div class="kartya"><div class="cimke">Elküldött levél</div><div class="ertek" id="kpiElozmeny">–</div></div>
+  </div>
 
-  <section class="block">
-    <div class="block-title"><span class="block-number">2</span> VÉSZ esemény</div>
-    <div class="date-nav">
-      <button class="secondary" id="prevDayBtn">‹</button>
-      <input type="date" id="dateInput">
-      <button class="secondary" id="nextDayBtn">›</button>
+  <div class="racs">
+    <div class="oszlop">
+      <section class="panel">
+        <div class="panel-fej"><span class="lepes">1</span><h2 class="panel-cim">Címzettek</h2></div>
+        <div id="recipientPicker"></div>
+        <div class="osszesito" id="selectedSummary"></div>
+      </section>
     </div>
-    <select id="eventSelect" style="margin-top:10px;"><option value="">Betöltés…</option></select>
-    <div class="event-meta" id="eventMeta"></div>
-  </section>
 
-  <section class="block">
-    <div class="block-title"><span class="block-number">3</span> Egyéb információ</div>
-    <textarea id="extraInfo" placeholder="Írd le a további részleteket, kontextust, forrást…"></textarea>
-  </section>
+    <div class="oszlop">
+      <section class="panel">
+        <div class="panel-fej"><span class="lepes">2</span><h2 class="panel-cim">VÉSZ esemény</h2></div>
+        <div class="datum-sor">
+          <button class="gomb gomb-masod" id="prevDayBtn" aria-label="Előző nap">‹</button>
+          <input type="date" id="dateInput">
+          <button class="gomb gomb-masod" id="nextDayBtn" aria-label="Következő nap">›</button>
+        </div>
+        <input type="search" id="eventSearch" class="kereso" placeholder="Keresés település, út, cím szerint…">
+        <div class="esemeny-lista" id="eventList"><div class="ures">Betöltés…</div></div>
+        <div class="kivalasztott-esemeny" id="eventMeta">Nincs kiválasztott esemény – esemény nélkül is küldhetsz.</div>
+      </section>
 
-  <section class="block">
-    <button class="primary" id="sendBtn">Email küldése</button>
-    <div class="status-msg" id="sendStatus"></div>
-  </section>
+      <section class="panel">
+        <div class="panel-fej"><span class="lepes">3</span><h2 class="panel-cim">Egyéb információ</h2></div>
+        <textarea id="extraInfo" placeholder="Írd le a további részleteket, kontextust, forrást…"></textarea>
+        <button class="gomb gomb-fo gomb-teljes" id="sendBtn" style="margin-top:12px;">Email küldése</button>
+        <div class="statusz" id="sendStatus"></div>
+      </section>
+    </div>
+  </div>
 
-  <section class="block">
-    <div class="block-title"><span class="block-number">4</span> Korábban elküldött emailek</div>
-    <div id="historyList"><div class="empty-note">Betöltés…</div></div>
+  <section class="panel elozmenyek">
+    <div class="panel-fej"><span class="lepes">4</span><h2 class="panel-cim">Korábban elküldött emailek</h2></div>
+    <p class="panel-info">Koppints egy levélre, ha új címzetteknek is el szeretnéd küldeni.</p>
+    <div id="historyList"><div class="ures">Betöltés…</div></div>
 
-    <div class="resend-panel" id="resendPanel">
-      <div class="block-title" style="color:var(--turquoise);">Kiválasztott levél újraküldése</div>
-      <div class="event-meta" id="resendOriginalMeta"></div>
-      <textarea id="resendExtraInfo" disabled style="margin-top:10px;"></textarea>
-      <div class="btn-row">
-        <button class="secondary" id="editResendBtn">Szerkesztés</button>
+    <div class="ujrakuldes" id="resendPanel">
+      <h3>Kiválasztott levél újraküldése</h3>
+      <div class="kivalasztott-esemeny" id="resendOriginalMeta" style="margin:0 0 10px;"></div>
+      <textarea id="resendExtraInfo" disabled></textarea>
+      <div class="gomb-sor">
+        <button class="gomb gomb-masod" id="editResendBtn">Szerkesztés</button>
       </div>
-      <div class="block-title" style="margin-top:16px;">Új címzettek</div>
+      <h3>Új címzettek</h3>
       <div id="resendRecipientPicker"></div>
-      <div class="selected-summary" id="resendSelectedSummary">Nincs kiválasztott címzett.</div>
-      <div class="btn-row">
-        <button class="primary" id="resendSendBtn" style="width:auto;">Újraküldés</button>
-        <button class="secondary" id="cancelResendBtn">Mégse</button>
+      <div class="osszesito" id="resendSelectedSummary"></div>
+      <div class="gomb-sor">
+        <button class="gomb gomb-fo" id="resendSendBtn">Újraküldés</button>
+        <button class="gomb gomb-masod" id="cancelResendBtn">Mégse</button>
       </div>
-      <div class="status-msg" id="resendStatus"></div>
+      <div class="statusz" id="resendStatus"></div>
     </div>
   </section>
 
-</main>
+</div>
+</div><!-- /#protectedContent -->
 
 <script>
   const KULDES_VEGPONT_URL = 'https://baleset-info.hu/tv2/tv2_riport_kuldes.php';
@@ -253,6 +361,13 @@
   }
   const RECIPIENT_GROUPS = buildGroups();
 
+  // E-mail címből név, hogy az előzményekben ne csak címek látszódjanak.
+  const NAME_BY_EMAIL = new Map();
+  RECIPIENT_GROUPS.forEach(g => g.people.forEach(p => NAME_BY_EMAIL.set(p.email.toLowerCase(), p.name)));
+  function displayName(email) {
+    return NAME_BY_EMAIL.get(String(email).toLowerCase()) || email;
+  }
+
   function escapeHtml(str) {
     const div = document.createElement('div');
     div.textContent = str ?? '';
@@ -262,37 +377,75 @@
   function renderRecipientPicker(containerId, summaryId, instanceKey) {
     const container = document.getElementById(containerId);
     container.innerHTML = RECIPIENT_GROUPS.map((group, gi) => `
-      <div class="cat-header" data-toggle="${instanceKey}-${gi}">
-        <span>${escapeHtml(group.title)}</span>
-        <span class="count">${group.people.length} fő ›</span>
-      </div>
-      <div class="cat-body" id="${instanceKey}-${gi}">
-        <div class="cat-scroll">
-          ${group.people.map(p => `
-            <label class="recipient-item">
-              <input type="checkbox" class="${instanceKey}-cb" value="${escapeHtml(p.email)}">
-              <span>${escapeHtml(p.name)}</span>
-            </label>
-          `).join('')}
+      <div class="csoport${gi === 0 ? ' nyitva' : ''}" id="${instanceKey}-${gi}">
+        <button type="button" class="csoport-fej" aria-expanded="${gi === 0}">
+          <span class="nev">${escapeHtml(group.title)}</span>
+          <span class="badge badge-kek" data-szamlalo>${group.people.length} fő</span>
+          <span class="nyil">›</span>
+        </button>
+        <div class="csoport-test">
+          <button type="button" class="gomb gomb-masod csoport-mind">Mindenki kijelölése</button>
+          <div class="chipek">
+            ${group.people.map(p => `
+              <label class="chip">
+                <input type="checkbox" class="${instanceKey}-cb" value="${escapeHtml(p.email)}">
+                <span>${escapeHtml(p.name)}</span>
+              </label>
+            `).join('')}
+          </div>
         </div>
       </div>
     `).join('');
 
-    container.querySelectorAll('.cat-header').forEach(h => {
-      h.addEventListener('click', () => {
-        document.getElementById(h.dataset.toggle).classList.toggle('open');
+    container.querySelectorAll('.csoport').forEach(csoport => {
+      const fej = csoport.querySelector('.csoport-fej');
+      fej.addEventListener('click', () => {
+        const nyitva = csoport.classList.toggle('nyitva');
+        fej.setAttribute('aria-expanded', String(nyitva));
+      });
+      csoport.querySelector('.csoport-mind').addEventListener('click', () => {
+        const cbs = Array.from(csoport.querySelectorAll(`.${instanceKey}-cb`));
+        const mind = cbs.every(cb => cb.checked);
+        cbs.forEach(cb => cb.checked = !mind);
+        updateSummary(instanceKey, summaryId);
       });
     });
     container.querySelectorAll(`.${instanceKey}-cb`).forEach(cb => {
       cb.addEventListener('change', () => updateSummary(instanceKey, summaryId));
     });
+    updateSummary(instanceKey, summaryId);
   }
 
   function updateSummary(instanceKey, summaryId) {
     const checked = getCheckedRecipients(instanceKey);
-    document.getElementById(summaryId).textContent = checked.length
-      ? `${checked.length} címzett kiválasztva.`
-      : 'Nincs kiválasztott címzett.';
+    const summary = document.getElementById(summaryId);
+    if (checked.length) {
+      summary.innerHTML = `<span class="badge badge-zold">${checked.length} címzett kiválasztva</span>
+        <button type="button" class="torles">kijelölés törlése</button>`;
+      summary.querySelector('.torles').addEventListener('click', () => {
+        document.querySelectorAll(`.${instanceKey}-cb`).forEach(cb => cb.checked = false);
+        updateSummary(instanceKey, summaryId);
+      });
+    } else {
+      summary.textContent = 'Nincs kiválasztott címzett.';
+    }
+
+    // Csoportonkénti számláló és a "mindenki" gomb felirata.
+    RECIPIENT_GROUPS.forEach((group, gi) => {
+      const csoport = document.getElementById(`${instanceKey}-${gi}`);
+      if (!csoport) return;
+      const cbs = Array.from(csoport.querySelectorAll(`.${instanceKey}-cb`));
+      const db = cbs.filter(cb => cb.checked).length;
+      const szamlalo = csoport.querySelector('[data-szamlalo]');
+      szamlalo.textContent = db ? `${db} / ${cbs.length}` : `${cbs.length} fő`;
+      szamlalo.className = 'badge ' + (db ? 'badge-zold' : 'badge-kek');
+      csoport.querySelector('.csoport-mind').textContent =
+        db === cbs.length ? 'Kijelölés törlése' : 'Mindenki kijelölése';
+    });
+
+    if (instanceKey === 'main') {
+      document.getElementById('kpiCimzett').textContent = checked.length;
+    }
   }
 
   function getCheckedRecipients(instanceKey) {
@@ -304,6 +457,8 @@
 
   let allEvents = [];
   let veszEvents = [];
+  let selectedEvent = null;
+  let eventsLoaded = false;
 
   function formatDate(d) {
     const y = d.getFullYear();
@@ -318,30 +473,79 @@
     return `${m[1]}-${m[2]}-${m[3]}`;
   }
 
-  function filterEventsForDate(dateStr) {
-    const select = document.getElementById('eventSelect');
-    veszEvents = allEvents.filter(ev => eventDatePrefix(ev.datetime) === dateStr);
+  function eventTime(datetimeStr) {
+    const m = String(datetimeStr).match(/(\d{1,2}:\d{2})/);
+    return m ? m[1] : datetimeStr;
+  }
 
-    if (!veszEvents.length) {
-      select.innerHTML = '<option value="">Nincs esemény ezen a napon</option>';
+  function renderEventMeta() {
+    const meta = document.getElementById('eventMeta');
+    if (!selectedEvent) {
+      meta.textContent = 'Nincs kiválasztott esemény – esemény nélkül is küldhetsz.';
       return;
     }
-    select.innerHTML = '<option value="">— Nincs kiválasztva —</option>' +
-      veszEvents.map((ev, idx) =>
-        `<option value="${idx}">${escapeHtml(ev.datetime)} — ${escapeHtml(ev.title)} (${escapeHtml(ev.category)})</option>`
-      ).join('');
+    meta.innerHTML = `Kiválasztva: <strong>${escapeHtml(selectedEvent.title)}</strong><br>
+      <a href="${escapeHtml(selectedEvent.url)}" target="_blank" rel="noopener">${escapeHtml(selectedEvent.url)}</a>`;
+  }
+
+  function renderEventList() {
+    const list = document.getElementById('eventList');
+    const q = document.getElementById('eventSearch').value.trim().toLowerCase();
+    const shown = veszEvents.filter(ev => !q ||
+      [ev.title, ev.category, ev.location, ev.lead].some(s => String(s || '').toLowerCase().includes(q)));
+
+    if (!eventsLoaded) return;
+    if (!veszEvents.length) {
+      list.innerHTML = '<div class="ures">Nincs esemény ezen a napon.</div>';
+      return;
+    }
+    if (!shown.length) {
+      list.innerHTML = '<div class="ures">Nincs a keresésnek megfelelő esemény.</div>';
+      return;
+    }
+    list.innerHTML = shown.map(ev => `
+      <button type="button" class="esemeny${ev === selectedEvent ? ' aktiv' : ''}" data-id="${escapeHtml(ev.id)}">
+        <div class="esemeny-felso">
+          <span class="esemeny-ido">${escapeHtml(eventTime(ev.datetime))}</span>
+          <span class="badge badge-sarga">${escapeHtml(ev.category)}</span>
+          ${ev.location ? `<span>${escapeHtml(ev.location)}</span>` : ''}
+        </div>
+        <div class="esemeny-cim">${escapeHtml(ev.title)}</div>
+        ${ev.lead ? `<div class="esemeny-lead">${escapeHtml(ev.lead)}</div>` : ''}
+      </button>
+    `).join('');
+
+    list.querySelectorAll('.esemeny').forEach(el => {
+      el.addEventListener('click', () => {
+        const ev = veszEvents.find(e => String(e.id) === el.dataset.id);
+        selectedEvent = selectedEvent === ev ? null : ev;
+        list.querySelectorAll('.esemeny').forEach(x => x.classList.toggle('aktiv', selectedEvent && x === el));
+        renderEventMeta();
+      });
+    });
+  }
+
+  function filterEventsForDate(dateStr) {
+    veszEvents = allEvents.filter(ev => eventDatePrefix(ev.datetime) === dateStr);
+    if (selectedEvent && !veszEvents.includes(selectedEvent)) {
+      selectedEvent = null;
+      renderEventMeta();
+    }
+    document.getElementById('kpiEsemeny').textContent = eventsLoaded ? veszEvents.length : '–';
+    renderEventList();
   }
 
   async function loadAllEvents() {
-    const select = document.getElementById('eventSelect');
+    const list = document.getElementById('eventList');
     try {
       const res = await fetch(EVENTS_DATA_URL, { cache: 'no-store' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       allEvents = data.events || [];
+      eventsLoaded = true;
       filterEventsForDate(dateInput.value);
     } catch (err) {
-      select.innerHTML = '<option value="">Nem sikerült betölteni a VÉSZ eseményeket</option>';
+      list.innerHTML = '<div class="ures">Nem sikerült betölteni a VÉSZ eseményeket.</div>';
       console.error(err);
     }
   }
@@ -359,11 +563,13 @@
   document.getElementById('prevDayBtn').addEventListener('click', () => shiftDay(-1));
   document.getElementById('nextDayBtn').addEventListener('click', () => shiftDay(1));
   dateInput.addEventListener('change', () => filterEventsForDate(dateInput.value));
+  document.getElementById('eventSearch').addEventListener('input', renderEventList);
 
-  document.getElementById('eventSelect').addEventListener('change', e => {
-    const idx = e.target.value;
-    document.getElementById('eventMeta').textContent = idx !== '' ? veszEvents[idx].url : '';
-  });
+  function setStatus(id, text, kind) {
+    const el = document.getElementById(id);
+    el.textContent = text;
+    el.className = 'statusz' + (kind ? ' ' + kind : '');
+  }
 
   async function triggerDispatch(payload) {
     if (KULDES_VEGPONT_URL.includes('IDE_IRD')) {
@@ -383,21 +589,17 @@
 
   document.getElementById('sendBtn').addEventListener('click', async () => {
     const btn = document.getElementById('sendBtn');
-    const status = document.getElementById('sendStatus');
-    const idx = document.getElementById('eventSelect').value;
     const extraInfo = document.getElementById('extraInfo').value.trim();
     const recipients = getCheckedRecipients('main');
 
     if (!recipients.length) {
-      status.textContent = 'Válassz ki legalább egy címzettet.';
-      status.className = 'status-msg error';
+      setStatus('sendStatus', 'Válassz ki legalább egy címzettet.', 'hiba');
       return;
     }
 
-    const ev = idx !== '' ? veszEvents[idx] : null;
+    const ev = selectedEvent;
     btn.disabled = true;
-    status.textContent = 'Küldés folyamatban…';
-    status.className = 'status-msg';
+    setStatus('sendStatus', 'Küldés folyamatban…');
 
     try {
       await triggerDispatch({
@@ -406,15 +608,13 @@
         extra_info: extraInfo,
         recipients: recipients,
       });
-      status.textContent = `Elindítva ${recipients.length} címzettnek. A GitHub Actions pár másodpercen belül elküldi.`;
-      status.className = 'status-msg ok';
+      setStatus('sendStatus', `Elindítva ${recipients.length} címzettnek. Pár másodpercen belül kimegy.`, 'ok');
       document.getElementById('extraInfo').value = '';
       document.querySelectorAll('.main-cb').forEach(cb => cb.checked = false);
       updateSummary('main', 'selectedSummary');
       setTimeout(loadHistory, 4000);
     } catch (err) {
-      status.textContent = `Hiba: ${err.message}`;
-      status.className = 'status-msg error';
+      setStatus('sendStatus', `Hiba: ${err.message}`, 'hiba');
     } finally {
       btn.disabled = false;
     }
@@ -429,27 +629,33 @@
       const res = await fetch(HISTORY_DATA_URL, { cache: 'no-store' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       historyData = await res.json();
+      document.getElementById('kpiElozmeny').textContent = historyData.length;
 
       if (!historyData.length) {
-        container.innerHTML = '<div class="empty-note">Még nincs elküldött email.</div>';
+        container.innerHTML = '<div class="ures">Még nincs elküldött email.</div>';
         return;
       }
 
-      container.innerHTML = historyData.map((item, idx) => {
+      container.innerHTML = '<div class="elozmeny-lista">' + historyData.map((item, idx) => {
         const dt = new Date(item.sent_at);
+        const recipients = item.recipients || [];
         return `
-          <div class="history-item" data-idx="${idx}">
-            <div class="history-item-title">${escapeHtml(item.subject)}</div>
-            <div class="history-item-meta">${dt.toLocaleString('hu-HU')} · ${escapeHtml(item.recipients.join(', '))}</div>
-          </div>
+          <button type="button" class="elozmeny${idx === activeHistoryIdx ? ' aktiv' : ''}" data-idx="${idx}">
+            <div class="elozmeny-cim">${escapeHtml(item.subject)}</div>
+            <div class="elozmeny-cimzettek">${escapeHtml(recipients.map(displayName).join(', '))}</div>
+            <div class="elozmeny-meta">
+              <span>${escapeHtml(dt.toLocaleString('hu-HU'))}</span>
+              <span class="badge badge-kek">${recipients.length} címzett</span>
+            </div>
+          </button>
         `;
-      }).join('');
+      }).join('') + '</div>';
 
-      container.querySelectorAll('.history-item').forEach(el => {
+      container.querySelectorAll('.elozmeny').forEach(el => {
         el.addEventListener('click', () => openResendPanel(Number(el.dataset.idx)));
       });
     } catch (err) {
-      container.innerHTML = '<div class="empty-note">Nem sikerült betölteni az előzményeket.</div>';
+      container.innerHTML = '<div class="ures">Nem sikerült betölteni az előzményeket.</div>';
       console.error(err);
     }
   }
@@ -458,11 +664,15 @@
     activeHistoryIdx = idx;
     const item = historyData[idx];
 
-    document.querySelectorAll('.history-item').forEach(el => el.classList.remove('active'));
-    document.querySelector(`.history-item[data-idx="${idx}"]`).classList.add('active');
+    document.querySelectorAll('.elozmeny').forEach(el => el.classList.toggle('aktiv', Number(el.dataset.idx) === idx));
 
-    document.getElementById('resendOriginalMeta').textContent =
-      item.event_title ? `Esemény: ${item.event_title}${item.event_url ? ' (' + item.event_url + ')' : ''}` : 'Nincs esemény hozzárendelve';
+    const meta = document.getElementById('resendOriginalMeta');
+    if (item.event_title) {
+      meta.innerHTML = `Esemény: <strong>${escapeHtml(item.event_title)}</strong>` +
+        (item.event_url ? `<br><a href="${escapeHtml(item.event_url)}" target="_blank" rel="noopener">${escapeHtml(item.event_url)}</a>` : '');
+    } else {
+      meta.textContent = 'Nincs esemény hozzárendelve';
+    }
 
     const textarea = document.getElementById('resendExtraInfo');
     textarea.value = item.extra_info || '';
@@ -471,22 +681,22 @@
 
     document.querySelectorAll('.resend-cb').forEach(cb => cb.checked = false);
     updateSummary('resend', 'resendSelectedSummary');
-    document.getElementById('resendStatus').textContent = '';
+    setStatus('resendStatus', '');
 
-    document.getElementById('resendPanel').classList.add('open');
-    document.getElementById('resendPanel').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    document.getElementById('resendPanel').classList.add('nyitva');
+    document.getElementById('resendPanel').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   document.getElementById('editResendBtn').addEventListener('click', () => {
     const textarea = document.getElementById('resendExtraInfo');
     textarea.disabled = !textarea.disabled;
-    document.getElementById('editResendBtn').textContent = textarea.disabled ? 'Szerkesztés' : 'Mentve (kész)';
+    document.getElementById('editResendBtn').textContent = textarea.disabled ? 'Szerkesztés' : 'Kész';
     if (!textarea.disabled) textarea.focus();
   });
 
   document.getElementById('cancelResendBtn').addEventListener('click', () => {
-    document.getElementById('resendPanel').classList.remove('open');
-    document.querySelectorAll('.history-item').forEach(el => el.classList.remove('active'));
+    document.getElementById('resendPanel').classList.remove('nyitva');
+    document.querySelectorAll('.elozmeny').forEach(el => el.classList.remove('aktiv'));
     activeHistoryIdx = null;
   });
 
@@ -494,19 +704,16 @@
     if (activeHistoryIdx === null) return;
     const item = historyData[activeHistoryIdx];
     const btn = document.getElementById('resendSendBtn');
-    const status = document.getElementById('resendStatus');
     const recipients = getCheckedRecipients('resend');
     const editedExtraInfo = document.getElementById('resendExtraInfo').value.trim();
 
     if (!recipients.length) {
-      status.textContent = 'Válassz ki legalább egy új címzettet.';
-      status.className = 'status-msg error';
+      setStatus('resendStatus', 'Válassz ki legalább egy új címzettet.', 'hiba');
       return;
     }
 
     btn.disabled = true;
-    status.textContent = 'Küldés folyamatban…';
-    status.className = 'status-msg';
+    setStatus('resendStatus', 'Küldés folyamatban…');
 
     try {
       await triggerDispatch({
@@ -515,12 +722,10 @@
         extra_info: editedExtraInfo,
         recipients: recipients,
       });
-      status.textContent = `Újraküldve ${recipients.length} címzettnek.`;
-      status.className = 'status-msg ok';
+      setStatus('resendStatus', `Újraküldve ${recipients.length} címzettnek.`, 'ok');
       setTimeout(loadHistory, 4000);
     } catch (err) {
-      status.textContent = `Hiba: ${err.message}`;
-      status.className = 'status-msg error';
+      setStatus('resendStatus', `Hiba: ${err.message}`, 'hiba');
     } finally {
       btn.disabled = false;
     }
@@ -532,8 +737,6 @@
   loadAllEvents();
   loadHistory();
 </script>
-
-</div><!-- /#protectedContent -->
 
 <script>
   // ---- Jelszókapu ----
