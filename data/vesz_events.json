@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T13:11:47.910264+00:00",
-  "count": 3165,
+  "updated_at": "2026-10-10T13:15:07.496914+00:00",
+  "count": 3166,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92727",
+      "datetime": "2026.10.10. 15:15",
+      "title": "Árokba hajtott egy gépkocsi Pócsa és Villány között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92727",
+      "lead": "Az 5701-es út 12-es kilométeréhez riasztották a tűzoltókat.",
+      "body": "Letért az úttestről és az árokba hajtott egy autó az 5701-es út Pócsa és Villány közötti szakaszán. A 12-es kilométerhez a villányi hivatásos tűzoltók vonultak, áramtalanítottak. A gépkocsi sofőrjéhez mentő érkezett.",
+      "location": "Pócsa, 5701",
+      "updates": []
+    },
     {
       "id": "92726",
       "datetime": "2026.10.10. 15:06",
