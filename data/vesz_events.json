@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T20:34:35.165264+00:00",
-  "count": 3181,
+  "updated_at": "2026-10-10T20:37:48.091853+00:00",
+  "count": 3182,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92743",
+      "datetime": "2026.10.10. 22:36",
+      "title": "Szalagkorlátnak ütközött egy személykocsi az M3-as sztrádán, Domonyvölgynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92743",
+      "lead": "A tűzoltókat a főváros felé vezető oldal 35-ös kilométeréhez riasztották.",
+      "body": "Szalagkorlátnak hajtott egy jármű az M3-as autópálya Budapest felé vezető oldalán, a 35-ös kilométernél. A Domonyvölgy térségében történt balesethez az aszódi hivatásos tűzoltók vonultak. Az autóban csak annak vezetője utazott. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Domony, M3",
+      "updates": []
+    },
     {
       "id": "92742",
       "datetime": "2026.10.10. 22:22",
