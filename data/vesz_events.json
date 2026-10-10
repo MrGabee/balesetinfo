@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T17:32:15.151585+00:00",
-  "count": 3175,
+  "updated_at": "2026-10-10T17:35:55.496098+00:00",
+  "count": 3176,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92737",
+      "datetime": "2026.10.10. 19:35",
+      "title": "Tűz keletkezett egy pálmonostorai pincében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92737",
+      "lead": "Egy Kossuth Lajos utcai ingatlanban csaptak fel a lángok.",
+      "body": "Lomok gyulladtak ki egy nagyjából huszonöt négyzetméteres pincehelyiségben Pálmonostorán. A Kossuth Lajos utcai helyszínre a kiskunfélegyházi hivatásos tűzoltók vonultak. A rajok két vízsugárral körülhatárolták, megfékezték a lángokat.",
+      "location": "Pálmonostora, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92736",
       "datetime": "2026.10.10. 18:49",
