@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T09:50:53.195186+00:00",
-  "count": 3156,
+  "updated_at": "2026-10-10T09:54:17.366365+00:00",
+  "count": 3157,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92718",
+      "datetime": "2026.10.10. 11:52",
+      "title": "Tűz keletkezett egy autóbuszban Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92718",
+      "lead": "A város tűzoltóit a Hont Ferenc utcai állomáshoz riasztották.",
+      "body": "Tűz keletkezett egy busz motorterében Szegeden, a Hont Ferenc utcában. Mire a megyeszékhely hivatásos tűzoltói a helyszínre értek, az ott tartózkodók eloltották a tüzet. Az egység hőkamerával átvizsgálja a járművet. A buszon senki nem tartózkodott.",
+      "location": "Szeged, Hont Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92717",
       "datetime": "2026.10.10. 11:06",
