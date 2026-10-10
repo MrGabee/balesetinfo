@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T09:03:38.554399+00:00",
-  "count": 3155,
+  "updated_at": "2026-10-10T09:06:58.300763+00:00",
+  "count": 3156,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92717",
+      "datetime": "2026.10.10. 11:06",
+      "title": "Motor és személykocsi karambolozott a 3-as főúton, Gyöngyösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92717",
+      "lead": "A 83-84-es kilométer között, a Szurdokpart utcai csomópont közelében történt a baleset.",
+      "body": "Összeütközött egy autó és egy motorkerékpár a 3-as főúton, Gyöngyös határában. A 83-84-es kilométer között, a Szurdokparti utcai csomópont közelében történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A helyszínre mentőt is riasztottak.",
+      "location": "Gyöngyös, 3",
+      "updates": []
+    },
     {
       "id": "92716",
       "datetime": "2026.10.10. 09:38",
