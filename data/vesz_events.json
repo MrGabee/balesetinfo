@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T11:09:54.144236+00:00",
-  "count": 3161,
+  "updated_at": "2026-10-10T11:13:19.036010+00:00",
+  "count": 3162,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92723",
+      "datetime": "2026.10.10. 13:12",
+      "title": "Frontális karambol Ispánk határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92723",
+      "lead": "Egy elektromos meghajtású és egy hagyományos jármű rohant egymásba.",
+      "body": "Szemből egymásba csapódott két autó Ispánk határában. A frontális karambolban érintett egyik jármű tisztán elektromos meghajtású. Az esethez szentgotthárdi hivatásos és őrizentpéteri önkéntes tűzoltók vonultak, a helyszínen van a Vas megyei katasztrófavédelmi műveleti szolgálat is. Mindkét kocsiban csak a sofőr utazott, egyiküket a tűzoltók emelték ki az autóból, emellett az egység áramtalanított. Az Ispánkra vezető utat teljes szélességében lezárták.",
+      "location": "Ispánk, 74174",
+      "updates": []
+    },
     {
       "id": "92722",
       "datetime": "2026.10.10. 12:51",
