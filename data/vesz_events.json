@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T15:25:31.439359+00:00",
-  "count": 3171,
+  "updated_at": "2026-10-10T15:29:09.177352+00:00",
+  "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92733",
+      "datetime": "2026.10.10. 17:27",
+      "title": "Baleset történt Tatabánya és Tarján között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92733",
+      "lead": "A 1119-es út 30-as kilométerénél felborult egy személykocsi.",
+      "body": "Nagy testű vadat akart kikerülni, ezért elrántotta a kormányt annak az autónak a vezetője, amelyik elhagyta az úttestet a 1119-es út Tatabánya és Tarján közötti szakaszán. A 30-as kilométernél történt balesetnél a jármű az út szélén, a tetejére borulva állt meg, némileg akadályozva a forgalmat. A tatabányai hivatásos tűzoltók végzik a műszaki mentést. Az állatnak nem esett baja.",
+      "location": "Tarján, 1119",
+      "updates": []
+    },
     {
       "id": "92732",
       "datetime": "2026.10.10. 16:51",
