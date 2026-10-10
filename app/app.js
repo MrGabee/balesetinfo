@@ -78,18 +78,21 @@ const ESZKOZ_CSOPORTOK = [
     "cim": "Kép-eszközök",
     "elemek": [
       {
+        "id": "eltakaro",
         "cim": "Kép-eltakaró",
         "leiras": "Arcok, rendszámok kitakarása",
         "ikon": "🙈",
         "url": "https://mrgabee.github.io/balesetinfo/eltakaro.html"
       },
       {
+        "id": "felturbozo",
         "cim": "Kép felturbózó",
         "leiras": "Kép élesítése, javítása",
         "ikon": "✨",
         "url": "https://mrgabee.github.io/balesetinfo/felturbozo.html"
       },
       {
+        "id": "vizjelezo",
         "cim": "Vízjelező",
         "leiras": "Vízjel a képekre",
         "ikon": "💧",
@@ -101,12 +104,14 @@ const ESZKOZ_CSOPORTOK = [
     "cim": "Térkép és kijelző",
     "elemek": [
       {
+        "id": "windy",
         "cim": "Wind-yy",
         "leiras": "Magyar webkamerák térképen",
         "ikon": "🗺️",
         "url": "https://mrgabee.github.io/mentoheli/windy/magyar_webkamerak.html"
       },
       {
+        "id": "kijelzo",
         "cim": "Nyilvántartás",
         "leiras": "BKK kijelző",
         "ikon": "🚏",
@@ -381,10 +386,10 @@ function csempeHtml(href, ikon, cim, leiras, kulso) {
 </a>`;
 }
 
-function eszkozCsoportokHtml() {
+function eszkozCsoportokHtml(jelszo) {
   return ESZKOZ_CSOPORTOK.map(cs => `
 <h2 class="csoport-cim">${escapeHtml(cs.cim)}</h2>
-<div class="csempek">${cs.elemek.map(e => csempeHtml(e.url, e.ikon, e.cim, e.leiras, true)).join('')}</div>`).join('');
+<div class="csempek">${cs.elemek.map(e => csempeHtml(oldalLink('eszkoz', jelszo) + '&id=' + e.id, e.ikon, e.cim, e.leiras, false)).join('')}</div>`).join('');
 }
 
 function renderBelepoOldal(hibasVolt, oldal) {
@@ -416,8 +421,33 @@ function renderFooldal(jelszo) {
 <div class="alcim">Válaszd ki, mit szeretnél csinálni.</div>
 <h2 class="csoport-cim">TV2 és elszámolás</h2>
 <div class="csempek">${fo}</div>
-${eszkozCsoportokHtml()}
+${eszkozCsoportokHtml(jelszo)}
 </div>
+</body></html>`;
+}
+
+function eszkozKeres(id) {
+  for (const cs of ESZKOZ_CSOPORTOK) {
+    const talalat = cs.elemek.find(e => e.id === id);
+    if (talalat) return talalat;
+  }
+  return null;
+}
+
+function renderEszkozOldal(id, jelszo) {
+  const e = eszkozKeres(id);
+  if (!e) return renderFooldal(jelszo);
+  return `${pageHead()}
+<style>
+  html, body { height: 100%; }
+  body { padding: 12px 14px 0; display: flex; flex-direction: column; }
+  .appnav { width: 100%; max-width: none; margin-bottom: 10px; }
+  .eszkoz-cim { font: 600 15px/1.2 var(--f-display); color: var(--muted); }
+  .eszkoz-keret { flex: 1; min-height: 0; width: 100%; border: 1px solid var(--border); border-bottom: 0; border-radius: 12px 12px 0 0; background: #fff; }
+</style>
+<body>
+${navSav('eszkoz', jelszo)}
+<iframe class="eszkoz-keret" src="${escapeHtml(e.url)}" title="${escapeHtml(e.cim)}" allow="clipboard-read; clipboard-write; fullscreen; geolocation"></iframe>
 </body></html>`;
 }
 
@@ -1662,6 +1692,9 @@ async function indit() {
         dashboardPdfGomb(d.honapNev, jelszo);
         break;
       }
+      case 'eszkoz':
+        mutat(renderEszkozOldal(q.get('id') || '', jelszo));
+        break;
       default:
         mutat(renderFooldal(jelszo));
     }
