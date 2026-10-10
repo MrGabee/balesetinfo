@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T16:18:05.730651+00:00",
-  "count": 3172,
+  "updated_at": "2026-10-10T16:21:34.423741+00:00",
+  "count": 3173,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92734",
+      "datetime": "2026.10.10. 18:18",
+      "title": "Árokba hajtott egy autó Pétfürdőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92734",
+      "lead": "A Cseri utcában balesetet szenvedett járműben ketten utaztak.",
+      "body": "Megcsúszott az úton és vízelvezető árokba hajtott egy személykocsi Pétfürdőn. A baleset a Cseri utcában történt, a helyi hivatásos tűzoltók vonultak az esethez. Az egység áramtalanította az oldalára dőlt autót. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Pétfürdő, Cseri utca",
+      "updates": []
+    },
     {
       "id": "92733",
       "datetime": "2026.10.10. 17:27",
