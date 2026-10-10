@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-10T11:23:29.357024+00:00",
-  "count": 3162,
+  "updated_at": "2026-10-10T11:26:58.135755+00:00",
+  "count": 3163,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92724",
+      "datetime": "2026.10.10. 13:24",
+      "title": "Kigyulladt egy autó az M1-es sztráda börcsi pihenőjében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92724",
+      "lead": "Az országhatár felé vezető oldalra győri, börcsi és abdai tűzoltók vonultak.",
+      "body": "Égett egy személykocsi motortere és műszerfala az M1-es autópálya országhatár felé vezető oldalán, a börcsi pihenőben. A helyszínre börcsi és abdai önkéntes, valamint győri hivatásos tűzoltók vonultak. Mire az egységek megérkeztek, az ott tartózkodók porral oltóval megfékezték a lángokat. A tűzoltók visszahűtötték a gépkocsit.",
+      "location": "Börcs, M1",
+      "updates": []
+    },
     {
       "id": "92723",
       "datetime": "2026.10.10. 13:12",
