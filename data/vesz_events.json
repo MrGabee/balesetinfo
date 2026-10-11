@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T19:40:11.114474+00:00",
-  "count": 3203,
+  "updated_at": "2026-10-11T19:43:51.940298+00:00",
+  "count": 3204,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92765",
+      "datetime": "2026.10.11. 21:41",
+      "title": "Melléképület égett Nyíregyházán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92765",
+      "lead": "A Tujafa utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy fa szerkezetű melléképület Nyíregyházán, a Tujafa utcában. Az épületben bútorok égtek. A nyíregyházi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nyíregyháza, Tujafa utca",
+      "updates": []
+    },
     {
       "id": "92764",
       "datetime": "2026.10.11. 18:26",
