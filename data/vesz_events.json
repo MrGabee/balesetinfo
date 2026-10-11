@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T06:20:23.033766+00:00",
-  "count": 3186,
+  "updated_at": "2026-10-11T06:23:54.388009+00:00",
+  "count": 3187,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92748",
+      "datetime": "2026.10.11. 08:22",
+      "title": "Árokba hajtott egy autó Földesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92748",
+      "lead": "avatkoznak",
+      "body": "A püspökladányi tűzoltók be.Baleset történt Földesen, az Északisor utcánál, ahol árokba hajtott egy személykocsi. Az autóban négyen utaztak. A püspökladányi hivatásos tűzoltók végzik a műszaki mentést, áramtalanítanak. A helyszínre mentő is érkezett.",
+      "location": "Földes, Északisor utca",
+      "updates": []
+    },
     {
       "id": "92747",
       "datetime": "2026.10.11. 06:47",
