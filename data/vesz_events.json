@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T19:53:25.127751+00:00",
-  "count": 3205,
+  "updated_at": "2026-10-11T19:57:17.601086+00:00",
+  "count": 3206,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92767",
+      "datetime": "2026.10.11. 21:55",
+      "title": "Autó égett Salgótarjánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92767",
+      "lead": "A Camping úton dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi Salgótarjánban, a Camping úton. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Salgótarján, Ybl Miklós út",
+      "updates": []
+    },
     {
       "id": "92766",
       "datetime": "2026.10.11. 21:49",
