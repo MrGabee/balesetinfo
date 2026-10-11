@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T07:22:35.738115+00:00",
-  "count": 3188,
+  "updated_at": "2026-10-11T07:25:58.839204+00:00",
+  "count": 3189,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92750",
+      "datetime": "2026.10.11. 09:24",
+      "title": "Oldalára borult egy autó az 1128-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92750",
+      "lead": "Agostyán és Tardos között egy sávon halad a forgalom.",
+      "body": "Megcsúszott az úttesten és oldalára borult egy személygépkocsi az 1128-as úton, Agostyán és Tardos között. Az autóban csak a sofőr utazott. A tatabányai hivatásos és a vértestolnai önkéntes tűzoltók műszaki mentést végeznek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Tata, Saustand utca",
+      "updates": []
+    },
     {
       "id": "92749",
       "datetime": "2026.10.11. 08:50",
