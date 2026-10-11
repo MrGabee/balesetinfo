@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T15:49:51.867747+00:00",
-  "count": 3201,
+  "updated_at": "2026-10-11T15:53:05.765619+00:00",
+  "count": 3202,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92763",
+      "datetime": "2026.10.11. 17:50",
+      "title": "Autó égett Isaszegen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92763",
+      "lead": "A Levendula utcában oltották el a lángokat a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi Isaszegen, a Levendula utcában. A gödöllői hivatásos és az isaszegi önkéntes tűzoltók három vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Isaszeg, Levendula utca",
+      "updates": []
+    },
     {
       "id": "92762",
       "datetime": "2026.10.11. 17:23",
