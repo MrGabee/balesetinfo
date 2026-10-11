@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T04:10:40.305284+00:00",
-  "count": 3183,
+  "updated_at": "2026-10-11T04:14:08.460399+00:00",
+  "count": 3184,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92745",
+      "datetime": "2026.10.11. 06:10",
+      "title": "Tűz ütött ki egy kecskeméti pincében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92745",
+      "lead": "A tűzoltókat a Katonatelep városrészbe, a Mályva utcába riasztották.",
+      "body": "Teljes terjedelmében lángolt a pince egy kecskeméti, Mályva utcai háznál. A város hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal fékezték meg a tüzet, bútorokat hordtak ki a helyiségből és ventilátort telepítettek. Az épületből eltávolítottak két sértetlen, háztartási méretű propánbutángáz-palackot, illetve két oxigénpalackot is, utóbbiakat folyamatosan hűtötték. Az egységek kivitték a pincéből a probléma forrását jelentő pálinkafőző készüléket is. A két lakóhoz mentőt riasztottak.",
+      "location": "Kecskemét, Mályva utca",
+      "updates": []
+    },
     {
       "id": "92744",
       "datetime": "2026.10.10. 23:50",
