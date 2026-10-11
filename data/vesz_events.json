@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T13:46:52.606103+00:00",
-  "count": 3196,
+  "updated_at": "2026-10-11T13:50:07.687589+00:00",
+  "count": 3197,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92758",
+      "datetime": "2026.10.11. 15:48",
+      "title": "Karambol Dad és Császár között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92758",
+      "lead": "Az érintett útszakaszon teljes szélességében lezárták az utat.",
+      "body": "Frontálisan ütközött két személygépkocsi Dad és Császár között, a 21-es kilométerszelvény közelében. Az oroszlányi önkormányzati és a szákszendi, illetve a kecskédi önkéntes tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Dad, Sport utca",
+      "updates": []
+    },
     {
       "id": "92757",
       "datetime": "2026.10.11. 15:17",
