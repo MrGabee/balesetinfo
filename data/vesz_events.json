@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-11T06:47:33.686124+00:00",
-  "count": 3187,
+  "updated_at": "2026-10-11T06:51:01.001419+00:00",
+  "count": 3188,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92749",
+      "datetime": "2026.10.11. 08:50",
+      "title": "Két autó ütközött Budapest XII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92749",
+      "lead": "A Csermely úton forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Budapest XII. kerületében, a Csermely úton. Az autókban csak a sofőrök utaztak. A fővárosi hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Csermely út",
+      "updates": []
+    },
     {
       "id": "92748",
       "datetime": "2026.10.11. 08:22",
       "title": "Árokba hajtott egy autó Földesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92748",
-      "lead": "avatkoznak",
-      "body": "A püspökladányi tűzoltók be.Baleset történt Földesen, az Északisor utcánál, ahol árokba hajtott egy személykocsi. Az autóban négyen utaztak. A püspökladányi hivatásos tűzoltók végzik a műszaki mentést, áramtalanítanak. A helyszínre mentő is érkezett.",
-      "location": "Földes, Északisor utca",
+      "lead": "A püspökladányi tűzoltók avatkoznak be.",
+      "body": "Baleset történt Földesen, az Északisor utcánál, ahol árokba hajtott egy személykocsi. Az autóban négyen utaztak. A püspökladányi hivatásos tűzoltók végzik a műszaki mentést, áramtalanítanak. A helyszínre mentő is érkezett.",
+      "location": "Földes, Sport utca",
       "updates": []
     },
     {
