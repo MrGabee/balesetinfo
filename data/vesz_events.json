@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T19:46:53.357571+00:00",
-  "count": 3204,
+  "updated_at": "2026-10-11T19:50:04.039293+00:00",
+  "count": 3205,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92766",
+      "datetime": "2026.10.11. 21:49",
+      "title": "Baleset az 1-es főúton, Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92766",
+      "lead": "A Pesti út kereszteződésénél egy sávon halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi az 1-es főúton, Győrben, a Pesti út kereszteződésénél. A győri hivatásos és a győrszentiváni önkéntes tűzoltók áramtalanították a járműveket és egy utast feszítővágó segítségével kimentettek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Győr, Pesti út",
+      "updates": []
+    },
     {
       "id": "92765",
       "datetime": "2026.10.11. 21:41",
