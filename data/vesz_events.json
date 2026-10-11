@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T16:24:15.379906+00:00",
-  "count": 3202,
+  "updated_at": "2026-10-11T16:27:04.602546+00:00",
+  "count": 3203,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92764",
+      "datetime": "2026.10.11. 18:26",
+      "title": "Baleset az 57-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92764",
+      "lead": "Babarc közelében forgalmi akadály van.",
+      "body": "Közlekedési táblának ütközött egy személygépkocsi az 57-es főúton, Babarc közelében, a 8-as kilométerszelvénynél. A mohácsi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Babarc, Külterület ipartelep",
+      "updates": []
+    },
     {
       "id": "92763",
       "datetime": "2026.10.11. 17:50",
