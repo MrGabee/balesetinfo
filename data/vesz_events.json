@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T10:27:24.197493+00:00",
-  "count": 3192,
+  "updated_at": "2026-10-11T10:31:04.530032+00:00",
+  "count": 3193,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92754",
+      "datetime": "2026.10.11. 12:30",
+      "title": "Kigyulladt egy autó Ercsin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92754",
+      "lead": "A Cukorgyári lakótelepen dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Ercsin, a Cukorgyári lakótelepen. A tűz a járműről nem terjedt át másra. Az érdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ercsi, Cukorgyári lakótelep",
+      "updates": []
+    },
     {
       "id": "92753",
       "datetime": "2026.10.11. 12:26",
