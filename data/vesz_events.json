@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T13:16:11.820466+00:00",
-  "count": 3195,
+  "updated_at": "2026-10-11T13:19:51.138226+00:00",
+  "count": 3196,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92757",
+      "datetime": "2026.10.11. 15:17",
+      "title": "Villanyoszlopnak ütközött egy autó Sárándon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92757",
+      "lead": "A Debreceni utcát teljes szélességében lezárták.",
+      "body": "Villanyoszlopnak ütközött és kitörte azt egy személygépkocsi Sárándon, a Debreceni utcában. Az autóban csak a sofőr utazott. A debreceni hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Sáránd, Debreceni utca",
+      "updates": []
+    },
     {
       "id": "92756",
       "datetime": "2026.10.11. 13:59",
