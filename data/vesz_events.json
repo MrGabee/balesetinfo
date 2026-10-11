@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T11:40:04.377260+00:00",
-  "count": 3193,
+  "updated_at": "2026-10-11T11:43:30.931654+00:00",
+  "count": 3194,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92755",
+      "datetime": "2026.10.11. 13:40",
+      "title": "Villanyoszlopnak ütközött egy autó Hangonyon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92755",
+      "lead": "A Rákóczi Ferenc úton dolgoznak a tűzoltók.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Hangonyon, a Rákóczi Ferenc úton. Az autóban csak a sofőr utazott, aki ki tudott szállni. Az ózdi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Hangony, Rákóczi Ferenc út",
+      "updates": []
+    },
     {
       "id": "92754",
       "datetime": "2026.10.11. 12:30",
