@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T04:14:08.460399+00:00",
-  "count": 3184,
+  "updated_at": "2026-10-11T04:17:19.645275+00:00",
+  "count": 3185,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92746",
+      "datetime": "2026.10.11. 06:16",
+      "title": "Baleset történt az 5-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92746",
+      "lead": "A babádi körforgalomnál félig az árokba csúszott egy furgon.",
+      "body": "Félig az árokba csúszott egy furgon az 5-ös főút 31-32-es kilométere között, a babádi körforgalomnál. A helyszínre a dabasi hivatásos tűzoltók vonultak. Az eltávolította a forgalmat akadályozó, terményt szállító járművet az útból.",
+      "location": "Ócsa, Nap utca",
+      "updates": []
+    },
     {
       "id": "92745",
       "datetime": "2026.10.11. 06:10",
