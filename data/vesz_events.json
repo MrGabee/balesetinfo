@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T14:47:09.387259+00:00",
-  "count": 3198,
+  "updated_at": "2026-10-11T14:50:23.725178+00:00",
+  "count": 3199,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92760",
+      "datetime": "2026.10.11. 16:49",
+      "title": "Ház sarkába hajtott egy autó Tapolcán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92760",
+      "lead": "A Kossuth Lajos utcában forgalmi akadály van.",
+      "body": "Ház sarkába hajtott egy személygépkocsi Tapolcán, a Kossuth Lajos utcában. Az autóban csak a sofőr utazott, aki ki tudott szállni. A helyi önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tapolca, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "92759",
       "datetime": "2026.10.11. 16:02",
