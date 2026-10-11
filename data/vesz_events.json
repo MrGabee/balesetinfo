@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-10-11T15:23:02.878501+00:00",
-  "count": 3200,
+  "updated_at": "2026-10-11T15:26:04.026520+00:00",
+  "count": 3201,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "92762",
+      "datetime": "2026.10.11. 17:23",
+      "title": "Baleset a 471-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92762",
+      "lead": "Nyírbogátnál teljes szélességében lezárták az utat.",
+      "body": "Villanyoszlopnak hajtott egy személygépkocsi a 471-es főúton, Nyírbogát térségében, a 44-es kilométerszelvény közelében.  A nyírbátori hivatásos tűzoltók feszítővágó segítségével egy utast kiszabadítottak és áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyírbogát, Hunyadi út",
+      "updates": []
+    },
+    {
       "id": "92761",
-      "datetime": "2026.10.11. 17:14",
+      "datetime": "2026.10.11. 17:14 -",
       "title": "Családi ház ég Szentendrén",
-      "category": "Tűzeset",
+      "category": "Családi ház ég Szentendrén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92761",
       "lead": "A Cseresznyés úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete ég. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók több vízsugárral oltják a lángokat.",
