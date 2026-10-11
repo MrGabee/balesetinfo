@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T11:56:11.195663+00:00",
-  "count": 3194,
+  "updated_at": "2026-10-11T11:59:38.479303+00:00",
+  "count": 3195,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92756",
+      "datetime": "2026.10.11. 13:59",
+      "title": "Baleset a 3-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92756",
+      "lead": "Bag és Gödöllő között félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 3-as főúton, Bag és Gödöllő között, a 39-es kilométerszelvénynél. Az aszódi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Bag, Csintovány",
+      "updates": []
+    },
     {
       "id": "92755",
       "datetime": "2026.10.11. 13:40",
