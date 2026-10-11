@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T14:00:15.996583+00:00",
-  "count": 3197,
+  "updated_at": "2026-10-11T14:03:08.947671+00:00",
+  "count": 3198,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92759",
+      "datetime": "2026.10.11. 16:02",
+      "title": "Baleset a 71-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92759",
+      "lead": "Badacsonytomajnál teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött két személygépkocsi a 71-es főúton, Badacsonytomaj térségében, a 74-es kilométerszelvénynél. Az ütközés következtében az egyik autó árokba sodródott. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Badacsonytomaj, Füredi út",
+      "updates": []
+    },
     {
       "id": "92758",
       "datetime": "2026.10.11. 15:48",
