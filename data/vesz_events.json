@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-11T08:49:17.964168+00:00",
-  "count": 3189,
+  "updated_at": "2026-10-11T08:52:56.725583+00:00",
+  "count": 3190,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92751",
+      "datetime": "2026.10.11. 10:50",
+      "title": "Fészer égett Székesfehérvárnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92751",
+      "lead": "A Horgász dűlőben oltották el a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy kisebb fészer Székesfehérvárnál, a Horgász dűlőben. A tűz egy lakókocsira is átterjedt. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a székesfehérvári hivatásos tűzoltók három vízsugárral eloltották a lángokat és egy gázpalackot is kihoztak az épületből. A rajok az utómunkálatokat végzik.",
+      "location": "Székesfehérvár, Horgász dűlő",
+      "updates": []
+    },
     {
       "id": "92750",
       "datetime": "2026.10.11. 09:24",
