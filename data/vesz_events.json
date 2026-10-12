@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T22:18:38.771977+00:00",
-  "count": 3235,
+  "updated_at": "2026-10-12T22:21:44.710893+00:00",
+  "count": 3236,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92797",
+      "datetime": "2026.10.13. 00:18",
+      "title": "Kigyulladt egy családi ház Bökönyben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92797",
+      "lead": "A Béke utcába vonultak ki a tűzoltók.",
+      "body": "Egy százötven négyzetméteres lakóház gyulladt ki Bökönyben, a Béke utcában. Az ingatlan két helyisége égett. A nyíradonyi és a hajdúböszörményi hivatásos. valamint a szakolyi önkormányzati tűzoltók három vízsugárral oltották el a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Bököny, Béke utca",
+      "updates": []
+    },
     {
       "id": "92796",
       "datetime": "2026.10.13. 00:00",
