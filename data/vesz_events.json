@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T16:34:38.857771+00:00",
-  "count": 3226,
+  "updated_at": "2026-10-12T16:38:02.597959+00:00",
+  "count": 3227,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92788",
+      "datetime": "2026.10.12. 18:35",
+      "title": "Ráfutásos baleset a 35-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92788",
+      "lead": "A tűzoltók áramtalanították az egyik járművet.",
+      "body": "Összeütközött két személygépkocsi Tiszaújvárosnál, a 35-ös főút 21-es és 22-es kilométere közötti szakaszán. A tiszaújvárosi hivatásos tűzoltókat riasztották a helyszínre. A raj áramtalanította az egyik járművet.",
+      "location": "Tiszaújváros, 35",
+      "updates": []
+    },
     {
       "id": "92787",
       "datetime": "2026.10.12. 17:22",
