@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T21:15:14.381143+00:00",
-  "count": 3232,
+  "updated_at": "2026-10-12T21:18:18.948568+00:00",
+  "count": 3233,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92794",
+      "datetime": "2026.10.12. 23:15",
+      "title": "Baleset történt az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92794",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Terelésnek ütközött egy személygépkocsi Bicskénél, az M1-es autópálya 31-es kilométerénél, a Budapest felé vezető oldalon. A bicskei önkormányzati tűzoltók végzik a műszaki mentést, amely során áramtalanítják a járművet. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Mány, M1",
+      "updates": []
+    },
     {
       "id": "92793",
       "datetime": "2026.10.12. 23:00",
