@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T10:10:36.919565+00:00",
-  "count": 3215,
+  "updated_at": "2026-10-12T10:14:33.901195+00:00",
+  "count": 3216,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92777",
+      "datetime": "2026.10.12. 12:12",
+      "title": "Hármas karambol a 41-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777",
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt Napkor közelében.",
+      "body": "Összeütközött három személygépkocsi a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A baktalórántházai hivatásos tűzoltókat riasztották a balesethez. A raj megszüntette a forgalmi akadályt.",
+      "location": "Napkor, 41",
+      "updates": []
+    },
     {
       "id": "92776",
       "datetime": "2026.10.12. 12:05",
@@ -42,9 +53,9 @@
       "title": "Utoléréses baleset Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92773",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kálvária sugárút egy szakaszán forgalomkorlátozásra kell számítani.",
+      "body": "Egymásnak ütközött két személyautó Szegeden, a Kálvária sugárúton, a Gősi Gábor sétány közelében. Utoléréses baleset történt, amelynél a város hivatásos tűzoltói végezték a műszaki mentést. A raj áramtalanította az egyik gépkocsit. Azt érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szeged, Kálvária sugárút",
       "updates": []
     },
     {
@@ -53,9 +64,9 @@
       "title": "Karambol történt Nagykanizsánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92772",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "body": "Két gépkocsi karambolozott Nagykanizsánál, a 61-es főúton, a Majális utca közelében, a körforgalomnál. A nagykanizsai hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Nagykanizsa, Boroskupa út",
       "updates": []
     },
     {
@@ -84,9 +95,9 @@
       "title": "Karambol a 77-es főúton, Kapolcsnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92770",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik járműből a tűzoltók mentettek ki egy embert.",
+      "body": "Frontálisan összeütközött két személyautó a 77-es főúton, Kapolcs határában, a 28. és a 29. kilométer között. A taliándörögdi önkéntes tűzoltók áramtalanították a járműveket, amelyek egyikébe beszorult egy ember. A helyszínre érkeztek az ajkai hivatásos tűzoltók is, és feszítővágóval kiszabadították, majd kiemelték és átadták őt a mentőknek. A műszaki mentés idejére teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Kapolcs, 77",
       "updates": []
     },
     {
@@ -95,9 +106,9 @@
       "title": "Két autó ütközött a 49-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92769",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Csengersimánál, a 49-es főút 55-ös kilométerénél. A csengeri önkormányzati tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Csengersima, 55",
       "updates": []
     },
     {
@@ -269,9 +280,9 @@
       "title": "Kigyulladt egy autó Ercsin",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92754",
-      "lead": "A Cukorgyári lakótelepen dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy személygépkocsi Ercsin, a Cukorgyári lakótelepen. A tűz a járműről nem terjedt át másra. Az érdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Ercsi, Cukorgyári lakótelep",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -401,9 +412,9 @@
       "title": "Villanyoszlopnak hajtott egy autó Pénzesgyőrön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92742",
-      "lead": "A Fő utcai balesethez a zirci tűzoltókat riasztották.",
-      "body": "Villanyoszlopnak csapódott és megrongálta azt egy személykocsi Pénzesgyőrön, a Fő utcán. A járműben hárman utaztak, mentő érkezett hozzájuk. A zirci önkormányzati tűzoltók végzik a műszaki mentést.",
-      "location": "Pénzesgyőr, Fő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -412,9 +423,9 @@
       "title": "Tűz ütött ki egy ludasi családi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92741",
-      "lead": "A lángok kis területen elérték a tetőszerkezetet is.",
-      "body": "Tűz keletkezett egy közművek nélküli, ludasi, József Attila úti családi ház egyik helyiségében. A lángok elérték a tetőszerkezetet is, amelyet kis területen megégettek, illetve kárt tettek a padláson tárolt anyagokban is. Az esethez a gyöngyösi hivatásos tűzoltó-parancsnokság két gépjárműfecskendőjét, illetve a hevesi vízszállítót riasztották. A tűzoltók egy vízsugárral oltják a tüzet. Az egységek átvizsgálták az épületet, de senkit nem találtak odabenn.",
-      "location": "Ludas, József Attila út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -434,9 +445,9 @@
       "title": "Baleset történt az M0-áson, Halászteleknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92739",
-      "lead": "A 15-16-os kilométer között szalagkorlátnak hajtott egy kisbusz.",
-      "body": "Két kisbusz haladt együtt az M0-ás autóúton, amikor az egyik szalagkorlátnak hajtott Halásztelek térségében. A 15-16-os kilométer között történt balesethez a fővárosi hivatásos tűzoltókat riasztották, az egység áramtalanított. A két járműben összesen heten utaztak, a helyszínre mentő is érkezett. A baleset miatt egy sávot lezártak.",
-      "location": "Halásztelek, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -445,9 +456,9 @@
       "title": "Szén-monoxid keletkezett egy pápai ingatlanban",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92738",
-      "lead": "A Kéttornyulaki utcába mentő is érkezett.",
-      "body": "A cserépkályha beüzemelése után megszólalt a szén-monoxid-érzékelő egy pápai, Kéttornyulaki utcai épületben. A háziak a jelzést követően kihívták a helyi hivatásos tűzoltókat. Az egység méréseket végzett, a műszer kimutatta a mérgező gáz megemelkedett koncentrációját. A három lakóhoz mentő is érkezett. Két embert átmenetileg rokonok fogadtak be.",
-      "location": "Pápa, Kéttornyulaki utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
