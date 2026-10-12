@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T09:36:21.549518+00:00",
-  "count": 3212,
+  "updated_at": "2026-10-12T09:39:58.856780+00:00",
+  "count": 3213,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92774",
+      "datetime": "2026.10.12. 11:39",
+      "title": "Baleset a XXI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92774",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Padkára hajtott egy személyautó Budapest XXI. kerületében, a Rakéta utcában. A baleset következtében egy villanyoszlop is kidőlt. A fővárosi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Budapest, Rakéta utca",
+      "updates": []
+    },
     {
       "id": "92773",
       "datetime": "2026.10.12. 11:03",
@@ -181,9 +192,9 @@
       "title": "Baleset a 71-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92759",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Badacsonytomajnál teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött két személygépkocsi a 71-es főúton, Badacsonytomaj térségében, a 74-es kilométerszelvénynél. Az ütközés következtében az egyik autó árokba sodródott. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Badacsonytomaj, Füredi út",
       "updates": []
     },
     {
@@ -236,9 +247,9 @@
       "title": "Kigyulladt egy autó Ercsin",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92754",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Cukorgyári lakótelepen dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Ercsin, a Cukorgyári lakótelepen. A tűz a járműről nem terjedt át másra. Az érdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ercsi, Cukorgyári lakótelep",
       "updates": []
     },
     {
@@ -247,9 +258,9 @@
       "title": "Árokba hajtott egy autó a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92753",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nyíregyháza és Nagycserkesz között félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személygépkocsi a 36-os főúton, Nyíregyháza és Nagycserkesz között, a 43-as kilométerszelvénynél. A nyíregyházi hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, Tiszavasvári út",
       "updates": []
     },
     {
@@ -258,9 +269,9 @@
       "title": "Fának hajtott egy autó Budapest XI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92752",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sasadi úton dolgoznak a tűzoltók.",
+      "body": "Fának hajtott egy személygépkocsi Budapest XI. kerületében, a Sasadi úton. A fővárosi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Sasadi út",
       "updates": []
     },
     {
@@ -324,9 +335,9 @@
       "title": "Baleset történt az 5-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92746",
-      "lead": "A babádi körforgalomnál félig az árokba csúszott egy furgon.",
-      "body": "Félig az árokba csúszott egy furgon az 5-ös főút 31-32-es kilométere között, a babádi körforgalomnál. A helyszínre a dabasi hivatásos tűzoltók vonultak. Az eltávolította a forgalmat akadályozó, terményt szállító járművet az útból.",
-      "location": "Ócsa, Nap utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -379,9 +390,9 @@
       "title": "Tűz ütött ki egy ludasi családi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92741",
-      "lead": "A lángok kis területen elérték a tetőszerkezetet is.",
-      "body": "Tűz keletkezett egy közművek nélküli, ludasi, József Attila úti családi ház egyik helyiségében. A lángok elérték a tetőszerkezetet is, amelyet kis területen megégettek, illetve kárt tettek a padláson tárolt anyagokban is. Az esethez a gyöngyösi hivatásos tűzoltó-parancsnokság két gépjárműfecskendőjét, illetve a hevesi vízszállítót riasztották. A tűzoltók egy vízsugárral oltják a tüzet. Az egységek átvizsgálták az épületet, de senkit nem találtak odabenn.",
-      "location": "Ludas, József Attila út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -390,9 +401,9 @@
       "title": "Szalagkorlátnak hajtott egy autó a 83-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92740",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 61-61-es kilométer között, Nagyszentpál térségében történt a baleset.",
+      "body": "Szalagkorlátnak hajtott egy személykocsi a 83-as főúton, Nagyszentpál térségében, a Pápa felé vezető oldalon. A 61-62-es kilométer között történt balesethez a győrszemerei önkéntes tűzoltók vonultak, áramtalanították a járművet. A történtek miatt a Pápa felé vezető oldalt lezárták, a forgalmat a tűzoltók terelik.",
+      "location": "Nagyszentpál, 83",
       "updates": []
     },
     {
@@ -401,9 +412,9 @@
       "title": "Baleset történt az M0-áson, Halászteleknél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92739",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 15-16-os kilométer között szalagkorlátnak hajtott egy kisbusz.",
+      "body": "Két kisbusz haladt együtt az M0-ás autóúton, amikor az egyik szalagkorlátnak hajtott Halásztelek térségében. A 15-16-os kilométer között történt balesethez a fővárosi hivatásos tűzoltókat riasztották, az egység áramtalanított. A két járműben összesen heten utaztak, a helyszínre mentő is érkezett. A baleset miatt egy sávot lezártak.",
+      "location": "Halásztelek, M0",
       "updates": []
     },
     {
@@ -412,9 +423,9 @@
       "title": "Szén-monoxid keletkezett egy pápai ingatlanban",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92738",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kéttornyulaki utcába mentő is érkezett.",
+      "body": "A cserépkályha beüzemelése után megszólalt a szén-monoxid-érzékelő egy pápai, Kéttornyulaki utcai épületben. A háziak a jelzést követően kihívták a helyi hivatásos tűzoltókat. Az egység méréseket végzett, a műszer kimutatta a mérgező gáz megemelkedett koncentrációját. A három lakóhoz mentő is érkezett. Két embert átmenetileg rokonok fogadtak be.",
+      "location": "Pápa, Kéttornyulaki utca",
       "updates": []
     },
     {
@@ -423,9 +434,9 @@
       "title": "Tűz keletkezett egy pálmonostorai pincében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92737",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy Kossuth Lajos utcai ingatlanban csaptak fel a lángok.",
+      "body": "Lomok gyulladtak ki egy nagyjából huszonöt négyzetméteres pincehelyiségben Pálmonostorán. A Kossuth Lajos utcai helyszínre a kiskunfélegyházi hivatásos tűzoltók vonultak. A rajok két vízsugárral körülhatárolták, megfékezték a lángokat.",
+      "location": "Pálmonostora, Kossuth Lajos utca",
       "updates": []
     },
     {
@@ -434,9 +445,9 @@
       "title": "Ráfutásos baleset történt a 6-os főút pécsi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92736",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 193-194-es kilométer között, a 66-os főúti csomópont közelében karamboloztak a járművek.",
+      "body": "Összeütközött két autó Pécsett, a 6-os főút városi szakaszán, a főváros felé vezető oldalon. A Zsolnay Vilmos utca (6) és a 66-os főút csomópontja közelében történt balesetben öt ember érintett, a helyszínre mentő is érkezett. A város hivatásos tűzoltói áramtalanítottak.",
+      "location": "Pécs, 6",
       "updates": []
     },
     {
@@ -445,9 +456,9 @@
       "title": "Felborult egy autó a 8139-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92735",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4-es kilométerhez a komáromi tűzoltókat riasztották.",
+      "body": "Baleset történt Tata közelében, a 8139-es úton. A 4-es kilométernél megcsúszott és felborult egy személykocsi. A komáromi hivatásos és önkéntes tűzoltók vonultak az esethez, áramtalanították a járművet. Az érintett szakaszon egy időre megállították a forgalmat.",
+      "location": "Tata, Diós puszta",
       "updates": []
     },
     {
