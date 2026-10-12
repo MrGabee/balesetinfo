@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T08:06:30.636171+00:00",
+  "updated_at": "2026-10-12T08:10:01.719790+00:00",
   "count": 3209,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -128,9 +128,9 @@
       "title": "Ház sarkába hajtott egy autó Tapolcán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92760",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth Lajos utcában forgalmi akadály van.",
+      "body": "Ház sarkába hajtott egy személygépkocsi Tapolcán, a Kossuth Lajos utcában. Az autóban csak a sofőr utazott, aki ki tudott szállni. A helyi önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tapolca, Kossuth Lajos utca",
       "updates": []
     },
     {
@@ -194,9 +194,9 @@
       "title": "Kigyulladt egy autó Ercsin",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92754",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Cukorgyári lakótelepen dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személygépkocsi Ercsin, a Cukorgyári lakótelepen. A tűz a járműről nem terjedt át másra. Az érdi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ercsi, Cukorgyári lakótelep",
       "updates": []
     },
     {
@@ -392,9 +392,9 @@
       "title": "Ráfutásos baleset történt a 6-os főút pécsi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92736",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 193-194-es kilométer között, a 66-os főúti csomópont közelében karamboloztak a járművek.",
+      "body": "Összeütközött két autó Pécsett, a 6-os főút városi szakaszán, a főváros felé vezető oldalon. A Zsolnay Vilmos utca (6) és a 66-os főút csomópontja közelében történt balesetben öt ember érintett, a helyszínre mentő is érkezett. A város hivatásos tűzoltói áramtalanítottak.",
+      "location": "Pécs, 6",
       "updates": []
     },
     {
