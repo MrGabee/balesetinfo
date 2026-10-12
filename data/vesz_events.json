@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T11:58:18.385614+00:00",
+  "updated_at": "2026-10-12T12:01:56.640870+00:00",
   "count": 3217,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -217,16 +217,7 @@
       "lead": "A Cseresznyés úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete ég. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók több vízsugárral oltják a lángokat.",
       "location": "Szentendre, Cseresznyés út",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Szentendrén",
-          "datetime": "2026.10.11. 17:25",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete égett. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Szentendre, Cseresznyés út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92761/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92761"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92760",
@@ -311,9 +302,9 @@
       "title": "Árokba hajtott egy autó a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92753",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nyíregyháza és Nagycserkesz között félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személygépkocsi a 36-os főúton, Nyíregyháza és Nagycserkesz között, a 43-as kilométerszelvénynél. A nyíregyházi hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, Tiszavasvári út",
       "updates": []
     },
     {
@@ -454,9 +445,9 @@
       "title": "Szalagkorlátnak hajtott egy autó a 83-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92740",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 61-61-es kilométer között, Nagyszentpál térségében történt a baleset.",
+      "body": "Szalagkorlátnak hajtott egy személykocsi a 83-as főúton, Nagyszentpál térségében, a Pápa felé vezető oldalon. A 61-62-es kilométer között történt balesethez a győrszemerei önkéntes tűzoltók vonultak, áramtalanították a járművet. A történtek miatt a Pápa felé vezető oldalt lezárták, a forgalmat a tűzoltók terelik.",
+      "location": "Nagyszentpál, 83",
       "updates": []
     },
     {
