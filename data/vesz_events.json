@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T14:36:57.882663+00:00",
-  "count": 3223,
+  "updated_at": "2026-10-12T14:41:15.870517+00:00",
+  "count": 3224,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92785",
+      "datetime": "2026.10.12. 16:40",
+      "title": "Fának hajtott egy autó a II. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92785",
+      "lead": "A Bimbó útra vonultak a tűzoltók.",
+      "body": "Fának ütközött egy személyautó a Budapest II. kerületében, a Bimbó úton, a Kapor utcánál. A járműben ketten utaztak, hozzájuk mentők érkeznek a helyszínre. A műszaki mentést végző fővárosi hivatásos tűzoltók a rendőrségi helyszínelés után áramtalanítják a gépkocsit.",
+      "location": "Budapest, Bimbó út",
+      "updates": []
+    },
     {
       "id": "92784",
       "datetime": "2026.10.12. 16:34",
@@ -86,10 +97,19 @@
       "title": "Hármas karambol a 41-es főúton",
       "category": "Hármas karambol a 41-es főúton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt Napkor közelében.",
+      "body": "Összeütközött három személygépkocsi a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A baktalórántházai hivatásos tűzoltókat riasztották a balesethez. A raj megszüntette a forgalmi akadályt.",
+      "location": "Napkor, 41",
+      "updates": [
+        {
+          "title": "Nem három, hanem két autó karambolozott a 41-es főúton",
+          "datetime": "2026.10.12. 13:20",
+          "category": "Közlekedési baleset",
+          "text": "Az első beszámolónktól eltérően nem három, hanem két személygépkocsi karambolozott a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A balesethez a baktalórántházai hivatásos tűzoltókat riasztották, akik megszüntették a forgalmi akadályt.",
+          "location": "Napkor, 41",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92777"
+        }
+      ]
     },
     {
       "id": "92776",
@@ -97,9 +117,9 @@
       "title": "Autó és kamion ütközött a XVIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92776",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeüközött egy kamion és egy személygépkocsi Budapest XVIII. kerületében, a Gyömrői úton, az Úz utca közelében. A karambol következtében a személyautó a járdára sodródott és egy lakóház falának is ütközött. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Gyömrői út",
       "updates": []
     },
     {
@@ -271,10 +291,19 @@
       "title": "Családi ház ég Szentendrén",
       "category": "Családi ház ég Szentendrén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92761",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Cseresznyés úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete ég. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók több vízsugárral oltják a lángokat.",
+      "location": "Szentendre, Cseresznyés út",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Szentendrén",
+          "datetime": "2026.10.11. 17:25",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete égett. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Szentendre, Cseresznyés út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92761/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92761"
+        }
+      ]
     },
     {
       "id": "92760",
@@ -293,9 +322,9 @@
       "title": "Baleset a 71-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92759",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Badacsonytomajnál teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött két személygépkocsi a 71-es főúton, Badacsonytomaj térségében, a 74-es kilométerszelvénynél. Az ütközés következtében az egyik autó árokba sodródott. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Badacsonytomaj, Füredi út",
       "updates": []
     },
     {
@@ -359,9 +388,9 @@
       "title": "Árokba hajtott egy autó a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92753",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nyíregyháza és Nagycserkesz között félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személygépkocsi a 36-os főúton, Nyíregyháza és Nagycserkesz között, a 43-as kilométerszelvénynél. A nyíregyházi hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, Tiszavasvári út",
       "updates": []
     },
     {
@@ -370,9 +399,9 @@
       "title": "Fának hajtott egy autó Budapest XI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92752",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sasadi úton dolgoznak a tűzoltók.",
+      "body": "Fának hajtott egy személygépkocsi Budapest XI. kerületében, a Sasadi úton. A fővárosi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Sasadi út",
       "updates": []
     },
     {
@@ -381,9 +410,9 @@
       "title": "Fészer égett Székesfehérvárnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92751",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Horgász dűlőben oltották el a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy kisebb fészer Székesfehérvárnál, a Horgász dűlőben. A tűz egy lakókocsira is átterjedt. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a székesfehérvári hivatásos tűzoltók három vízsugárral eloltották a lángokat és egy gázpalackot is kihoztak az épületből. A rajok az utómunkálatokat végzik.",
+      "location": "Székesfehérvár, Horgász dűlő",
       "updates": []
     },
     {
@@ -392,9 +421,9 @@
       "title": "Oldalára borult egy autó az 1128-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92750",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Agostyán és Tardos között egy sávon halad a forgalom.",
+      "body": "Megcsúszott az úttesten és oldalára borult egy személygépkocsi az 1128-as úton, Agostyán és Tardos között. Az autóban csak a sofőr utazott. A tatabányai hivatásos és a vértestolnai önkéntes tűzoltók műszaki mentést végeznek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Tata, Saustand utca",
       "updates": []
     },
     {
@@ -403,9 +432,9 @@
       "title": "Két autó ütközött Budapest XII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92749",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csermely úton forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Budapest XII. kerületében, a Csermely úton. Az autókban csak a sofőrök utaztak. A fővárosi hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Csermely út",
       "updates": []
     },
     {
@@ -414,9 +443,9 @@
       "title": "Árokba hajtott egy autó Földesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92748",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A püspökladányi tűzoltók avatkoznak be.",
+      "body": "Baleset történt Földesen, az Északisor utcánál, ahol árokba hajtott egy személykocsi. Az autóban négyen utaztak. A püspökladányi hivatásos tűzoltók végzik a műszaki mentést, áramtalanítanak. A helyszínre mentő is érkezett.",
+      "location": "Földes, Sport utca",
       "updates": []
     },
     {
@@ -425,9 +454,9 @@
       "title": "Kigyulladt egy szauna Budapesten",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92747",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A huszadik kerületben, a Nagyszeben utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt a szauna egy budapesti, huszadik kerületi lakóépületben. A Szebeni utcai, kétszintes ház első emeletén keletkezett a tűz. A tüzet egy ember még a fővárosi hivatásos tűzoltók megérkezése előtt megpróbálta eloltani, mentő érkezett hozzá. Az egységek két vízsugárral eloltották a lángokat.",
+      "location": "Budapest, Nagyszeben utca",
       "updates": []
     },
     {
@@ -436,9 +465,9 @@
       "title": "Baleset történt az 5-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92746",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A babádi körforgalomnál félig az árokba csúszott egy furgon.",
+      "body": "Félig az árokba csúszott egy furgon az 5-ös főút 31-32-es kilométere között, a babádi körforgalomnál. A helyszínre a dabasi hivatásos tűzoltók vonultak. Az eltávolította a forgalmat akadályozó, terményt szállító járművet az útból.",
+      "location": "Ócsa, Nap utca",
       "updates": []
     },
     {
