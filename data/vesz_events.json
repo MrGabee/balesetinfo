@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T16:38:02.597959+00:00",
-  "count": 3227,
+  "updated_at": "2026-10-12T16:41:23.457581+00:00",
+  "count": 3228,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92789",
+      "datetime": "2026.10.12. 18:40",
+      "title": "Tramtrain és autó ütközött Hódmezővásárhelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92789",
+      "lead": "Az Ady Endre úton történt a karambol.",
+      "body": "Összeütközött egy tramtrain és egy személyautó Hódmezővásárhelyen, az Ady Endre úton. A helyi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Hódmezővásárhely, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "92788",
       "datetime": "2026.10.12. 18:35",
