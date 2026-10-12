@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T14:44:40.766211+00:00",
-  "count": 3224,
+  "updated_at": "2026-10-12T14:48:33.861943+00:00",
+  "count": 3225,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92786",
+      "datetime": "2026.10.12. 16:44",
+      "title": "Baleset történt a XIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92786",
+      "lead": "A Lehet utcába riasztották a tűzoltókat.",
+      "body": "Egy személygépkocsi és egy rolleres karambolozott Budapest XIII. kerületében, a Lehet utcában, a Róbert Károly körút közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak. A baleset akadályozta a villamosforgalmat is.",
+      "location": "Budapest, Lehel utca",
+      "updates": []
+    },
     {
       "id": "92785",
       "datetime": "2026.10.12. 16:40",
