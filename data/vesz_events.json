@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T05:44:47.548738+00:00",
+  "updated_at": "2026-10-12T05:48:24.606501+00:00",
   "count": 3206,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,7 +78,16 @@
       "lead": "A Cseresznyés úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete ég. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók több vízsugárral oltják a lángokat.",
       "location": "Szentendre, Cseresznyés út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Szentendrén",
+          "datetime": "2026.10.11. 17:25",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete égett. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Szentendre, Cseresznyés út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92761/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92761"
+        }
+      ]
     },
     {
       "id": "92760",
