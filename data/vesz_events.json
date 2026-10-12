@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T05:58:45.407825+00:00",
-  "count": 3206,
+  "updated_at": "2026-10-12T06:02:42.596785+00:00",
+  "count": 3207,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92768",
+      "datetime": "2026.10.12. 08:02",
+      "title": "Árokba hajtott egy kamion Szerepnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92768",
+      "lead": "A 4211-es úton félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy kamion 4211-es úton, Szerepnél, a 14-es kilométerszelvénynél. A püspökladányi és karcagi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szerep, Dózsa telep",
+      "updates": []
+    },
     {
       "id": "92767",
       "datetime": "2026.10.11. 21:55",
@@ -64,9 +75,9 @@
       "title": "Baleset a 471-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92762",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nyírbogátnál teljes szélességében lezárták az utat.",
+      "body": "Villanyoszlopnak hajtott egy személygépkocsi a 471-es főúton, Nyírbogát térségében, a 44-es kilométerszelvény közelében.  A nyírbátori hivatásos tűzoltók feszítővágó segítségével egy utast kiszabadítottak és áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyírbogát, Hunyadi út",
       "updates": []
     },
     {
@@ -370,9 +381,9 @@
       "title": "Felborult egy autó a 8139-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92735",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4-es kilométerhez a komáromi tűzoltókat riasztották.",
+      "body": "Baleset történt Tata közelében, a 8139-es úton. A 4-es kilométernél megcsúszott és felborult egy személykocsi. A komáromi hivatásos és önkéntes tűzoltók vonultak az esethez, áramtalanították a járművet. Az érintett szakaszon egy időre megállították a forgalmat.",
+      "location": "Tata, Diós puszta",
       "updates": []
     },
     {
@@ -425,9 +436,9 @@
       "title": "Több hektár égett Nagyberény szélén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92730",
-      "lead": "Az Ady Endre–József Attila utca közötti területen siófoki tűzoltók dolgoznak.",
-      "body": "Tarló, vágástéri hulladék gyulladt ki Nagyberény szélén, az Ady Endre és a József Attila utca közötti területen, az udvarok végében. A tűz átterjedt egy erdősávra is. A siófoki hivatásos tűzoltók több vízsugárral előbb körülhatárolták, majd eloltották a lángokat, amelyek nagyjából négyhektárnyi területet égettek le. Az egységek munkáját civilek is segítették.",
-      "location": "Nagyberény, Ady Endre utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
