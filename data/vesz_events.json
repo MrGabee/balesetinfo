@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T17:05:37.117502+00:00",
-  "count": 3229,
+  "updated_at": "2026-10-12T17:09:19.457848+00:00",
+  "count": 3230,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92791",
+      "datetime": "2026.10.12. 19:06",
+      "title": "Baleset történt Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92791",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Koccanásos balesetet szenvedett három személygépkocsi Budapest XXI. kerületében, az Erdősor utcában. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták, valamint a közösségi közlekedésben is fennakadásokra kell számítani.",
+      "location": "Budapest, Erdősor utca",
+      "updates": []
+    },
     {
       "id": "92790",
       "datetime": "2026.10.12. 18:51",
