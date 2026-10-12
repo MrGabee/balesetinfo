@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T09:02:55.752306+00:00",
-  "count": 3211,
+  "updated_at": "2026-10-12T09:06:38.897093+00:00",
+  "count": 3212,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92773",
+      "datetime": "2026.10.12. 11:03",
+      "title": "Utoléréses baleset Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92773",
+      "lead": "A Kálvária sugárút egy szakaszán forgalomkorlátozásra kell számítani.",
+      "body": "Egymásnak ütközött két személyautó Szegeden, a Kálvária sugárúton, a Gősi Gábor sétány közelében. Utoléréses baleset történt, amelynél a város hivatásos tűzoltói végezték a műszaki mentést. A raj áramtalanította az egyik gépkocsit. Azt érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szeged, Kálvária sugárút",
+      "updates": []
+    },
     {
       "id": "92772",
       "datetime": "2026.10.12. 10:56",
