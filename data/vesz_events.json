@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T20:58:17.384090+00:00",
-  "count": 3231,
+  "updated_at": "2026-10-12T21:01:31.770624+00:00",
+  "count": 3232,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92793",
+      "datetime": "2026.10.12. 23:00",
+      "title": "Árokba borult egy autó Mátészalkán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92793",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom",
+      "body": "Tetejével az árokba borult egy személygépkocsi Mátészalkán, a Meggyesi úton, azaz a 471-es főúton, a Tóth Árpád utca közelében. A helyi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mátészalka, Meggyesi út",
+      "updates": []
+    },
     {
       "id": "92792",
       "datetime": "2026.10.12. 20:33 -",
