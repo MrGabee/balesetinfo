@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T21:32:45.294545+00:00",
-  "count": 3233,
+  "updated_at": "2026-10-12T21:36:50.351041+00:00",
+  "count": 3234,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92795",
+      "datetime": "2026.10.12. 23:32",
+      "title": "Biatorbágynál is baleset történt az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92795",
+      "lead": "A sztráda érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött egy személygépkocsi és egy furgon Biatorbágynál, az M1-es autópálya 20-as kilométerénél, a Győr felé vezető oldalán. A törökbálinti hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszát teljes szélességében lezárták.",
+      "location": "Biatorbágy, M1",
+      "updates": []
+    },
     {
       "id": "92794",
       "datetime": "2026.10.12. 23:15",
