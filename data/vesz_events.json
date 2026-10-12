@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T14:01:15.337191+00:00",
+  "updated_at": "2026-10-12T14:05:29.829296+00:00",
   "count": 3221,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Baleset történt a 67-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92775",
-      "lead": "Magyaregres közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Egy elé szaladó vad miatt szalagkorlátnak ütközött egy személyautó a 67-es főút Magyaregres és Menye közötti szakaszán, az 50. kilométernél. A kaposvári hivatásos tűzoltók áramtalanították a gépkocsit, amely mozgásképtelenné vált és a belső sávban áll. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Magyaregres, 67",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -139,10 +139,19 @@
       "title": "Ég egy ház Debrecen külterületén",
       "category": "Ég egy ház Debrecen külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Porzó utcában oltják a lángokat.",
+      "body": "Kigyulladt egy családi ház Debrecen külterületén, a Porzó utcában. Teljes terjedelmében égett a mintegy negyven négyzetméteres épület, amikor a debreceni hivatásos tűzoltók a helyszínre érkeztek. A raj két vízsugárral oltja a lángokat.",
+      "location": "Debrecen, Porzó utca",
+      "updates": [
+        {
+          "title": "Megfékezték a debreceni tűz lángjait",
+          "datetime": "2026.10.12. 10:50",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Debrecen külterületén, a Porzó utcában, ahol kigyulladt egy családi ház. Teljes terjedelmében égett a csaknem negyven négyzetméteres, téglafalú épület. A város hivatásos tűzoltói két vízsugárral és kéziszerszámokkal fékezték meg a lángokat, amelyek máshova nem terjedtek tovább.",
+          "location": "Debrecen, Porzó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92771"
+        }
+      ]
     },
     {
       "id": "92770",
@@ -368,9 +377,9 @@
       "title": "Fészer égett Székesfehérvárnál",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92751",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Horgász dűlőben oltották el a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy kisebb fészer Székesfehérvárnál, a Horgász dűlőben. A tűz egy lakókocsira is átterjedt. A Fejér vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a székesfehérvári hivatásos tűzoltók három vízsugárral eloltották a lángokat és egy gázpalackot is kihoztak az épületből. A rajok az utómunkálatokat végzik.",
+      "location": "Székesfehérvár, Horgász dűlő",
       "updates": []
     },
     {
@@ -379,9 +388,9 @@
       "title": "Oldalára borult egy autó az 1128-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92750",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Agostyán és Tardos között egy sávon halad a forgalom.",
+      "body": "Megcsúszott az úttesten és oldalára borult egy személygépkocsi az 1128-as úton, Agostyán és Tardos között. Az autóban csak a sofőr utazott. A tatabányai hivatásos és a vértestolnai önkéntes tűzoltók műszaki mentést végeznek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Tata, Saustand utca",
       "updates": []
     },
     {
@@ -390,9 +399,9 @@
       "title": "Két autó ütközött Budapest XII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92749",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csermely úton forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Budapest XII. kerületében, a Csermely úton. Az autókban csak a sofőrök utaztak. A fővárosi hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Csermely út",
       "updates": []
     },
     {
@@ -401,9 +410,9 @@
       "title": "Árokba hajtott egy autó Földesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92748",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A püspökladányi tűzoltók avatkoznak be.",
+      "body": "Baleset történt Földesen, az Északisor utcánál, ahol árokba hajtott egy személykocsi. Az autóban négyen utaztak. A püspökladányi hivatásos tűzoltók végzik a műszaki mentést, áramtalanítanak. A helyszínre mentő is érkezett.",
+      "location": "Földes, Sport utca",
       "updates": []
     },
     {
@@ -412,9 +421,9 @@
       "title": "Kigyulladt egy szauna Budapesten",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92747",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A huszadik kerületben, a Nagyszeben utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt a szauna egy budapesti, huszadik kerületi lakóépületben. A Szebeni utcai, kétszintes ház első emeletén keletkezett a tűz. A tüzet egy ember még a fővárosi hivatásos tűzoltók megérkezése előtt megpróbálta eloltani, mentő érkezett hozzá. Az egységek két vízsugárral eloltották a lángokat.",
+      "location": "Budapest, Nagyszeben utca",
       "updates": []
     },
     {
@@ -423,9 +432,9 @@
       "title": "Baleset történt az 5-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92746",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A babádi körforgalomnál félig az árokba csúszott egy furgon.",
+      "body": "Félig az árokba csúszott egy furgon az 5-ös főút 31-32-es kilométere között, a babádi körforgalomnál. A helyszínre a dabasi hivatásos tűzoltók vonultak. Az eltávolította a forgalmat akadályozó, terményt szállító járművet az útból.",
+      "location": "Ócsa, Nap utca",
       "updates": []
     },
     {
@@ -434,9 +443,9 @@
       "title": "Tűz ütött ki egy kecskeméti pincében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92745",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat a Katonatelep városrészbe, a Mályva utcába riasztották.",
+      "body": "Teljes terjedelmében lángolt a pince egy kecskeméti, Mályva utcai háznál. A város hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal fékezték meg a tüzet, bútorokat hordtak ki a helyiségből és ventilátort telepítettek. Az épületből eltávolítottak két sértetlen, háztartási méretű propánbutángáz-palackot, illetve két oxigénpalackot is, utóbbiakat folyamatosan hűtötték. Az egységek kivitték a pincéből a probléma forrását jelentő pálinkafőző készüléket is. A két lakóhoz mentőt riasztottak.",
+      "location": "Kecskemét, Mályva utca",
       "updates": []
     },
     {
@@ -445,9 +454,9 @@
       "title": "Baleset történt az M7-es autópályán, Budaörsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92744",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A főváros felé vezető oldalon, a 10-es kilométer környékén szalagkorlátnak hajtott egy autó.",
+      "body": "Szalagkorlátnak ütközött és a belső elválasztónál állt meg egy személykocsi az M7-es autópálya 10-es kilométerének környékén. A főváros felé vezető oldalon, Budaörs térségében történt balesethez a budaörsi önkéntes tűzoltók vonultak. A helyszínre mentő is érkezett. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Budaörs, M7",
       "updates": []
     },
     {
@@ -456,9 +465,9 @@
       "title": "Szalagkorlátnak ütközött egy személykocsi az M3-as sztrádán, Domonyvölgynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92743",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat a főváros felé vezető oldal 35-ös kilométeréhez riasztották.",
+      "body": "Szalagkorlátnak hajtott egy jármű az M3-as autópálya Budapest felé vezető oldalán, a 35-ös kilométernél. A Domonyvölgy térségében történt balesethez az aszódi hivatásos tűzoltók vonultak. Az autóban csak annak vezetője utazott. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Domony, M3",
       "updates": []
     },
     {
