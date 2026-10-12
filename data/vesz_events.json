@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T13:38:43.825127+00:00",
+  "updated_at": "2026-10-12T13:42:21.195795+00:00",
   "count": 3220,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -128,10 +128,19 @@
       "title": "Ég egy ház Debrecen külterületén",
       "category": "Ég egy ház Debrecen külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Porzó utcában oltják a lángokat.",
+      "body": "Kigyulladt egy családi ház Debrecen külterületén, a Porzó utcában. Teljes terjedelmében égett a mintegy negyven négyzetméteres épület, amikor a debreceni hivatásos tűzoltók a helyszínre érkeztek. A raj két vízsugárral oltja a lángokat.",
+      "location": "Debrecen, Porzó utca",
+      "updates": [
+        {
+          "title": "Megfékezték a debreceni tűz lángjait",
+          "datetime": "2026.10.12. 10:50",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Debrecen külterületén, a Porzó utcában, ahol kigyulladt egy családi ház. Teljes terjedelmében égett a csaknem negyven négyzetméteres, téglafalú épület. A város hivatásos tűzoltói két vízsugárral és kéziszerszámokkal fékezték meg a lángokat, amelyek máshova nem terjedtek tovább.",
+          "location": "Debrecen, Porzó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92771"
+        }
+      ]
     },
     {
       "id": "92770",
