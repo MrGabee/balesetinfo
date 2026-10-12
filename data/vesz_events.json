@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T11:04:00.818127+00:00",
-  "count": 3216,
+  "updated_at": "2026-10-12T11:07:31.463096+00:00",
+  "count": 3217,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92778",
+      "datetime": "2026.10.12. 13:05",
+      "title": "Összeütközött két autó Debrecen határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92778",
+      "lead": "A Vezér utcában forgalmi akadály van.",
+      "body": "Karambolozott két személyautó Debrecen határában, a Vezér utcában. A műszaki mentést végző hajdúböszörményi hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen ketten utaztak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Debrecen, Vezér utca",
+      "updates": []
+    },
     {
       "id": "92777",
       "datetime": "2026.10.12. 12:12",
