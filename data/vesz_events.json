@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T13:35:23.882583+00:00",
-  "count": 3219,
+  "updated_at": "2026-10-12T13:38:43.825127+00:00",
+  "count": 3220,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92781",
+      "datetime": "2026.10.12. 15:36",
+      "title": "Karambol történt az I. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92781",
+      "lead": "A Krisztina térre riasztották a tűzoltókat.",
+      "body": "Összeütközött egy kisbusz és egy autóbusz Budapest I. kerületében, a Krisztina téren, a Gellérthegy utcánál. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amely miatt két másik gépkocsi is karambolozott. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Krisztina tér",
+      "updates": []
+    },
     {
       "id": "92780",
       "datetime": "2026.10.12. 14:13",
@@ -117,19 +128,10 @@
       "title": "Ég egy ház Debrecen külterületén",
       "category": "Ég egy ház Debrecen külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771",
-      "lead": "A tűzoltók a Porzó utcában oltják a lángokat.",
-      "body": "Kigyulladt egy családi ház Debrecen külterületén, a Porzó utcában. Teljes terjedelmében égett a mintegy negyven négyzetméteres épület, amikor a debreceni hivatásos tűzoltók a helyszínre érkeztek. A raj két vízsugárral oltja a lángokat.",
-      "location": "Debrecen, Porzó utca",
-      "updates": [
-        {
-          "title": "Megfékezték a debreceni tűz lángjait",
-          "datetime": "2026.10.12. 10:50",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Debrecen külterületén, a Porzó utcában, ahol kigyulladt egy családi ház. Teljes terjedelmében égett a csaknem negyven négyzetméteres, téglafalú épület. A város hivatásos tűzoltói két vízsugárral és kéziszerszámokkal fékezték meg a lángokat, amelyek máshova nem terjedtek tovább.",
-          "location": "Debrecen, Porzó utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92771"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92770",
@@ -311,9 +313,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Hangonyon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92755",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi Ferenc úton dolgoznak a tűzoltók.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Hangonyon, a Rákóczi Ferenc úton. Az autóban csak a sofőr utazott, aki ki tudott szállni. Az ózdi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Hangony, Rákóczi Ferenc út",
       "updates": []
     },
     {
@@ -344,9 +346,9 @@
       "title": "Fának hajtott egy autó Budapest XI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92752",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sasadi úton dolgoznak a tűzoltók.",
+      "body": "Fának hajtott egy személygépkocsi Budapest XI. kerületében, a Sasadi úton. A fővárosi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Sasadi út",
       "updates": []
     },
     {
