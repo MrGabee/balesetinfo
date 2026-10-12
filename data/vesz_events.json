@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T09:59:19.169977+00:00",
+  "updated_at": "2026-10-12T10:02:58.585621+00:00",
   "count": 3214,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -175,7 +175,16 @@
       "lead": "A Cseresznyés úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete ég. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók több vízsugárral oltják a lángokat.",
       "location": "Szentendre, Cseresznyés út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Szentendrén",
+          "datetime": "2026.10.11. 17:25",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy családi ház Szentendrén, a Cseresznyés úton. Az épület belső terei és tetőszerkezete égett. A Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a szentendrei hivatásos, illetve a szentendrei önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Szentendre, Cseresznyés út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92761/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92761"
+        }
+      ]
     },
     {
       "id": "92760",
@@ -216,9 +225,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Sárándon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92757",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Debreceni utcát teljes szélességében lezárták.",
+      "body": "Villanyoszlopnak ütközött és kitörte azt egy személygépkocsi Sárándon, a Debreceni utcában. Az autóban csak a sofőr utazott. A debreceni hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Sáránd, Debreceni utca",
       "updates": []
     },
     {
@@ -238,9 +247,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Hangonyon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92755",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi Ferenc úton dolgoznak a tűzoltók.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Hangonyon, a Rákóczi Ferenc úton. Az autóban csak a sofőr utazott, aki ki tudott szállni. Az ózdi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Hangony, Rákóczi Ferenc út",
       "updates": []
     },
     {
