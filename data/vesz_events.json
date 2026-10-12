@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T21:58:05.498561+00:00",
-  "count": 3234,
+  "updated_at": "2026-10-12T22:01:40.058238+00:00",
+  "count": 3235,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92796",
+      "datetime": "2026.10.13. 00:00",
+      "title": "Tűz van a X. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796",
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
+      "location": "Budapest, Sírkert út",
+      "updates": []
+    },
     {
       "id": "92795",
       "datetime": "2026.10.12. 23:32",
