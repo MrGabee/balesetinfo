@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T12:19:56.669221+00:00",
+  "updated_at": "2026-10-12T12:23:52.895550+00:00",
   "count": 3219,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,10 +42,19 @@
       "title": "Hármas karambol a 41-es főúton",
       "category": "Hármas karambol a 41-es főúton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt Napkor közelében.",
+      "body": "Összeütközött három személygépkocsi a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A baktalórántházai hivatásos tűzoltókat riasztották a balesethez. A raj megszüntette a forgalmi akadályt.",
+      "location": "Napkor, 41",
+      "updates": [
+        {
+          "title": "Nem három, hanem két autó karambolozott a 41-es főúton",
+          "datetime": "2026.10.12. 13:20",
+          "category": "Közlekedési baleset",
+          "text": "Az első beszámolónktól eltérően nem három, hanem két személygépkocsi karambolozott a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A balesethez a baktalórántházai hivatásos tűzoltókat riasztották, akik megszüntették a forgalmi akadályt.",
+          "location": "Napkor, 41",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92777"
+        }
+      ]
     },
     {
       "id": "92776",
@@ -64,9 +73,9 @@
       "title": "Baleset történt a 67-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92775",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Magyaregres közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Egy elé szaladó vad miatt szalagkorlátnak ütközött egy személyautó a 67-es főút Magyaregres és Menye közötti szakaszán, az 50. kilométernél. A kaposvári hivatásos tűzoltók áramtalanították a gépkocsit, amely mozgásképtelenné vált és a belső sávban áll. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Magyaregres, 67",
       "updates": []
     },
     {
@@ -75,9 +84,9 @@
       "title": "Baleset a XXI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92774",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Padkára hajtott egy személyautó Budapest XXI. kerületében, a Rakéta utcában. A baleset következtében egy villanyoszlop is kidőlt. A fővárosi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Budapest, Rakéta utca",
       "updates": []
     },
     {
@@ -97,9 +106,9 @@
       "title": "Karambol történt Nagykanizsánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92772",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "body": "Két gépkocsi karambolozott Nagykanizsánál, a 61-es főúton, a Majális utca közelében, a körforgalomnál. A nagykanizsai hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Nagykanizsa, Boroskupa út",
       "updates": []
     },
     {
@@ -108,10 +117,19 @@
       "title": "Ég egy ház Debrecen külterületén",
       "category": "Ég egy ház Debrecen külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Porzó utcában oltják a lángokat.",
+      "body": "Kigyulladt egy családi ház Debrecen külterületén, a Porzó utcában. Teljes terjedelmében égett a mintegy negyven négyzetméteres épület, amikor a debreceni hivatásos tűzoltók a helyszínre érkeztek. A raj két vízsugárral oltja a lángokat.",
+      "location": "Debrecen, Porzó utca",
+      "updates": [
+        {
+          "title": "Megfékezték a debreceni tűz lángjait",
+          "datetime": "2026.10.12. 10:50",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Debrecen külterületén, a Porzó utcában, ahol kigyulladt egy családi ház. Teljes terjedelmében égett a csaknem negyven négyzetméteres, téglafalú épület. A város hivatásos tűzoltói két vízsugárral és kéziszerszámokkal fékezték meg a lángokat, amelyek máshova nem terjedtek tovább.",
+          "location": "Debrecen, Porzó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92771/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92771"
+        }
+      ]
     },
     {
       "id": "92770",
@@ -130,9 +148,9 @@
       "title": "Két autó ütközött a 49-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92769",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Csengersimánál, a 49-es főút 55-ös kilométerénél. A csengeri önkormányzati tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Csengersima, 55",
       "updates": []
     },
     {
