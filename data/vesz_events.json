@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T06:27:00.522825+00:00",
-  "count": 3207,
+  "updated_at": "2026-10-12T06:30:21.812845+00:00",
+  "count": 3208,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92769",
+      "datetime": "2026.10.12. 08:28",
+      "title": "Két autó ütközött a 49-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92769",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Csengersimánál, a 49-es főút 55-ös kilométerénél. A csengeri önkormányzati tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Csengersima, 55",
+      "updates": []
+    },
     {
       "id": "92768",
       "datetime": "2026.10.12. 08:02",
