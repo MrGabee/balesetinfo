@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-12T15:20:59.586583+00:00",
-  "count": 3225,
+  "updated_at": "2026-10-12T15:24:02.228871+00:00",
+  "count": 3226,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92787",
+      "datetime": "2026.10.12. 17:22",
+      "title": "Két autó ütközött Püspökladányban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92787",
+      "lead": "Az egyik jármű egy lakóház falának csapódott.",
+      "body": "Két személygépkocsi karambolozott Püspökladányban, a Bocskai utca, azaz a 42-es főút és a Dembinszky utca kereszteződésében. A baleset következtében az egyik jármű egy lakóház falának csapódott. A helyi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják az autókat. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Püspökladány, Bocskai utca",
+      "updates": []
+    },
     {
       "id": "92786",
       "datetime": "2026.10.12. 16:44",
