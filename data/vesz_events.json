@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T17:16:21.448048+00:00",
+  "updated_at": "2026-10-12T17:19:47.597191+00:00",
   "count": 3230,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "92790",
-      "datetime": "2026.10.12. 18:51",
+      "datetime": "2026.10.12. 18:51 -",
       "title": "Tűz keletkezett Sáska külterületén",
-      "category": "Tűzeset",
+      "category": "Tűz keletkezett Sáska külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790",
       "lead": "Száraz fű ég.",
       "body": "Tűz van Sáska külterületén. Nagy területen száraz fű ég. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók oltják a lángokat. Egy badacsonytomaji vízszállító jármű is segíti a munkálatokat.",
       "location": "Sáska, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Sáskánál",
+          "datetime": "2026.10.12. 19:18",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Sáska külterületén, ahol mintegy két hektáron száraz fű és fák égtek. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók fékezték meg a tüzet. Egy badacsonytomaji vízszállító jármű is segítette az oltást. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+          "location": "Sáska, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92790"
+        }
+      ]
     },
     {
       "id": "92789",
