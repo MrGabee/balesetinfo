@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T04:34:20.128722+00:00",
-  "count": 3237,
+  "updated_at": "2026-10-13T04:37:47.326972+00:00",
+  "count": 3238,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92799",
+      "datetime": "2026.10.13. 06:35",
+      "title": "Fának csapódott egy autó Székelynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92799",
+      "lead": "A 4104-es úton történt a baleset.",
+      "body": "Árokba, majd fának csapódott egy személygépkocsi Székelynél, a 4104-es út 1-es kilométerénél. A baktalórántházai hivatásos és a demecseri önkéntes tűzoltók áramtalanították a járművet. A társhatóságok is kiérkeztek az esethez.",
+      "location": "Székely, 4104",
+      "updates": []
+    },
     {
       "id": "92798",
       "datetime": "2026.10.13. 06:24",
