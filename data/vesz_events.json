@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T08:56:16.343275+00:00",
-  "count": 3245,
+  "updated_at": "2026-10-13T08:59:46.957355+00:00",
+  "count": 3246,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92807",
+      "datetime": "2026.10.13. 10:57",
+      "title": "Baleset történt Salgótarjánban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92807",
+      "lead": "Félpályán lezárták a 21-es főút érintett szakaszát.",
+      "body": "A menetiránnyal ellentétes forgalmi sáv szalagkorlátjának ütközött egy kamion Salgótarjánban, a 21-es főút belterületi szakaszán, a Pipishegy utca közelében. A város hivatásos tűzoltói vonultak ki a balesethez, amelyhez a mentőket is riasztották. A raj áramtalanítja a járművet. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Salgótarján, 21",
+      "updates": []
+    },
     {
       "id": "92806",
       "datetime": "2026.10.13. 10:36",
