@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T11:30:36.920492+00:00",
-  "count": 3252,
+  "updated_at": "2026-10-13T11:34:37.605388+00:00",
+  "count": 3253,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92814",
+      "datetime": "2026.10.13. 13:32",
+      "title": "Ráfutásos baleset történt Vásárosnaményban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92814",
+      "lead": "A Jókai Mór úton kell beavatkozniuk a tűzoltóknak.",
+      "body": "Egymásnak ütközött két személyautó Vásárosnaményban, a Jókai Mór úton, azaz a 41-es főút belterületi szakaszán. Utoléréses baleset történt, amelynél a város önkormányzati tűzoltói végzik a műszaki mentést. A raj áramtalanította az egyik járművet. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Vásárosnamény, Jókai Mór út",
+      "updates": []
+    },
     {
       "id": "92813",
       "datetime": "2026.10.13. 13:16",
@@ -470,9 +481,9 @@
       "title": "Autó és kamion ütközött a XVIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92776",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeüközött egy kamion és egy személygépkocsi Budapest XVIII. kerületében, a Gyömrői úton, az Úz utca közelében. A karambol következtében a személyautó a járdára sodródott és egy lakóház falának is ütközött. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Gyömrői út",
       "updates": []
     },
     {
