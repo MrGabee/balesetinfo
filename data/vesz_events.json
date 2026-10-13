@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T05:27:39.613020+00:00",
-  "count": 3239,
+  "updated_at": "2026-10-13T05:31:23.709398+00:00",
+  "count": 3240,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92801",
+      "datetime": "2026.10.13. 07:28",
+      "title": "Kisbusz és teherautó ütközött Pécsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92801",
+      "lead": "Az érintett útszakaszon két sávon, váltakozva halad a forgalom.",
+      "body": "Összeütközött egy teherautó és egy kisbusz Pécsnél, az 58-as főúton, az M60-as autópálya közelében. A műszaki mentési munkálatok elvégzéséhez a pécsi hivatásos tűzoltókat riasztották a helyszínre. Az egység áramtalanította a kisbuszt. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszon két sávon, váltakozva halad a forgalom.",
+      "location": "Pécs, 58",
+      "updates": []
+    },
     {
       "id": "92800",
       "datetime": "2026.10.13. 06:45",
