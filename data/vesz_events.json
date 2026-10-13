@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:44:53.801107+00:00",
+  "updated_at": "2026-10-13T12:48:40.460056+00:00",
   "count": 3255,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Árokba sodródott egy autó a 38-ason, Tarcalnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92809",
-      "lead": "A tűzoltók áramtalanítják a járművet.",
-      "body": "Lesodródott az úttestről, majd árokba csúszott egy gépkocsi a 38-as főút 5-ös kilométerszelvényénél, Tarcal és Tokaj között. A vezető a szerencsi hivatásos tűzoltók kiérkezése előtt saját erejéből ki tudott szállni a járműből. Az egység áramtalanítja a bajba került autót.",
-      "location": "Tarcal, 38",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,10 +97,19 @@
       "title": "Ég egy melléképület Zalalövőn",
       "category": "Ég egy melléképület Zalalövőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Bartók Béla utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy melléképület Zalalövőn, a Bartók Béla utcában. Teljes terjedelmében ég az építmény, amely egy lakóházhoz csatlakozik. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Zala vármegyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Zalalövő, Bartók Béla utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a zalalövői tűznél",
+          "datetime": "2026.10.13. 12:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zalalövőn, a Bartók Béla utcában, ahol kigyulladt és teljes terjedelmében égett egy lakóházhoz csatlakozó melléképület. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek a lakóépületre nem terjedtek át. A rajok megkezdték az utómunkálatokat.",
+          "location": "Zalalövő, Bartók Béla utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92808"
+        }
+      ]
     },
     {
       "id": "92807",
@@ -119,9 +128,9 @@
       "title": "Berobbant a gáz egy vajtai lakóházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92806",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral oltották el a detonáció közben keletkezett tüzet.",
+      "body": "Gázpalack cseréje közben berobbant a gáz egy lakóházban Vajtán, a Kossuth utcában. A robbanás következtében tűz keletkezett, amely összehordott ruhaneműket gyújtott meg. A sárbogárdi hivatásos tűzoltók egy vízsugárral oltották el a lángokat, majd megkezdték az utómunkálatokat. Az egység és a társhatóságok járművei mellett mentőhelikopter is érkezett a helyszínre.",
+      "location": "Vajta, Kossuth utca",
       "updates": []
     },
     {
@@ -463,9 +472,9 @@
       "title": "Összeütközött két autó Debrecen határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92778",
-      "lead": "A Vezér utcában forgalmi akadály van.",
-      "body": "Karambolozott két személyautó Debrecen határában, a Vezér utcában. A műszaki mentést végző hajdúböszörményi hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen ketten utaztak. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Debrecen, Vezér utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
