@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T17:39:00.632527+00:00",
-  "count": 3262,
+  "updated_at": "2026-10-13T17:42:42.115258+00:00",
+  "count": 3263,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92824",
+      "datetime": "2026.10.13. 19:42",
+      "title": "Villanyoszlopnak ütközött egy autó Érsekvadkerten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92824",
+      "lead": "A jármű kidöntötte az oszlopot, majd árokba hajtott.",
+      "body": "Villanyoszlopnak ütközött, majd árokba hajtott egy gépkocsi Érsekvadkerten, a Rákóczi út és a Mikszáth Kálmán út sarkán. A baleset következtében a jármű kidöntötte az oszlopot. A műszaki mentési munkálatokhoz a rétsági hivatásos és az érsekvadkerti önkéntes tűzoltók érkeztek ki, és a mentőket is a helyszínre kérték. A kidöntött oszlop miatt az áramszolgáltató szakembereit is értesítették.",
+      "location": "Érsekvadkert, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "92823",
       "datetime": "2026.10.13. 17:06",
