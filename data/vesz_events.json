@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:53:24.766683+00:00",
+  "updated_at": "2026-10-13T10:56:48.549007+00:00",
   "count": 3250,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "92808",
-      "datetime": "2026.10.13. 11:39",
+      "datetime": "2026.10.13. 11:39 -",
       "title": "Ég egy melléképület Zalalövőn",
-      "category": "Tűzeset",
+      "category": "Ég egy melléképület Zalalövőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808",
       "lead": "A Bartók Béla utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy melléképület Zalalövőn, a Bartók Béla utcában. Teljes terjedelmében ég az építmény, amely egy lakóházhoz csatlakozik. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Zala vármegyei katasztrófavédelmi műveleti szolgálat is.",
       "location": "Zalalövő, Bartók Béla utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a zalalövői tűznél",
+          "datetime": "2026.10.13. 12:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zalalövőn, a Bartók Béla utcában, ahol kigyulladt és teljes terjedelmében égett egy lakóházhoz csatlakozó melléképület. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek a lakóépületre nem terjedtek át. A rajok megkezdték az utómunkálatokat.",
+          "location": "Zalalövő, Bartók Béla utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92808"
+        }
+      ]
     },
     {
       "id": "92807",
@@ -117,9 +126,9 @@
       "title": "Lakás égett a XX. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92802",
-      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
-      "body": "Egy több lakásból álló ház egyik lakásában keletkezett tűz a XX. kerületi Bessenyei utcában. A fővárosi hivatásos tűzoltók kiérkezése előtt a négy lakó időben elhagyta az ingatlant. Az egységek két vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik. Az oltási munkálatok közben kihoztak az épületből egy gázpalackot. Az érintett lakás négy lakója, valamint a szomszédos ingatlan három lakója hozzátartozóknál kap elszállásolást.",
-      "location": "Budapest, Bessenyei utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
