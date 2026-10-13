@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T18:22:14.271513+00:00",
-  "count": 3263,
+  "updated_at": "2026-10-13T18:26:11.487182+00:00",
+  "count": 3264,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92825",
+      "datetime": "2026.10.13. 20:24",
+      "title": "Árokba hajtott egy motoros Girincsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92825",
+      "lead": "A jármű egy táblát is kidöntött a baleset következtében.",
+      "body": "Árokba hajtott egy motorkerékpáros Girincs térségében, a 3607-es út 18-as kilométerszelvényénél. A motoros a baleset következtében egy közlekedési táblát is kidöntött. A helyszínre a tiszaújvárosi hivatásos tűzoltók mellett a társhatóságok is kiérkeztek.",
+      "location": "Girincs, 3607",
+      "updates": []
+    },
     {
       "id": "92824",
       "datetime": "2026.10.13. 19:42",
