@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T11:11:57.887008+00:00",
-  "count": 3250,
+  "updated_at": "2026-10-13T11:15:47.206222+00:00",
+  "count": 3251,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92812",
+      "datetime": "2026.10.13. 13:14",
+      "title": "Árokba hajtott egy autó Kölesden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92812",
+      "lead": "A tűzoltók a Petőfi utcában áramtalanítják a járművet.",
+      "body": "Árokba sodródott és felborult egy személyautó Kölesden, a Petőfi utcában. A balesethez a szekszárdi hivatásos tűzoltókat riasztották. Az egységek áramtalanítják a gépkocsit.",
+      "location": "Kölesd, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92811",
       "datetime": "2026.10.13. 12:48",
@@ -115,9 +126,9 @@
       "title": "Árokba borult egy autó a 6232-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92803",
-      "lead": "Pusztahencse közelében van szükség tűzoltói beavatkozásra.",
-      "body": "Lesodródott és árokba, a tetejére borult egy személyautó a 6232-es út Pusztahencse és Paks közötti szakaszán, a 7. kilométer közelében. A paksi hivatásos tűzoltók áramtalanítják a járművet, amelyben ketten utaztak. A helyszínen vannak a mentők is.",
-      "location": "Pusztahencse, 6232",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
