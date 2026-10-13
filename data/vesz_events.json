@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T04:23:45.269812+00:00",
-  "count": 3236,
+  "updated_at": "2026-10-13T04:27:12.060380+00:00",
+  "count": 3237,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92798",
+      "datetime": "2026.10.13. 06:24",
+      "title": "Tűz volt Vajszlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92798",
+      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy vajszlói lakóházban, a Petőfi utcában. Az ingatlan egyik helyiségében szemét és ruhák égtek. A tűz a tetőszerkezetre nem terjedt át. A siklósi és a sellyei hivatásos tűzoltók két vízsugárral fojtották el a lángokat.",
+      "location": "Vajszló, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92797",
       "datetime": "2026.10.13. 00:18",
