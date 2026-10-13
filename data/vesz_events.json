@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T20:37:43.557496+00:00",
-  "count": 3266,
+  "updated_at": "2026-10-13T20:40:55.557601+00:00",
+  "count": 3267,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92828",
+      "datetime": "2026.10.13. 22:39",
+      "title": "Menet közben gyulladt ki egy autó Debrecenben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92828",
+      "lead": "A vezető időben el tudta hagyni a járművet.",
+      "body": "Menet közben gyulladt ki egy gépkocsi Debrecenben, a Monti Ezredes utcában. A járműben csak a vezetője utazott, aki időben ki tudott szállni. A debreceni hivatásos tűzoltók két vízsugárral oltották el a teljes egészében égő kocsi lángjait, jelenleg már az utómunkálatokat végzik.",
+      "location": "Debrecen, Monti Ezredes utca",
+      "updates": []
+    },
     {
       "id": "92827",
       "datetime": "2026.10.13. 21:51",
