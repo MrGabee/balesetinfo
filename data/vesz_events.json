@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T13:10:39.627307+00:00",
+  "updated_at": "2026-10-13T13:14:15.964179+00:00",
   "count": 3256,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -192,9 +192,9 @@
       "title": "Lakás égett a XX. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92802",
-      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
-      "body": "Egy több lakásból álló ház egyik lakásában keletkezett tűz a XX. kerületi Bessenyei utcában. A fővárosi hivatásos tűzoltók kiérkezése előtt a négy lakó időben elhagyta az ingatlant. Az egységek két vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik. Az oltási munkálatok közben kihoztak az épületből egy gázpalackot. Az érintett lakás négy lakója, valamint a szomszédos ingatlan három lakója hozzátartozóknál kap elszállásolást.",
-      "location": "Budapest, Bessenyei utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -247,9 +247,9 @@
       "title": "Kigyulladt egy családi ház Bökönyben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92797",
-      "lead": "A Béke utcába vonultak ki a tűzoltók.",
-      "body": "Egy százötven négyzetméteres lakóház gyulladt ki Bökönyben, a Béke utcában. Az ingatlan két helyisége égett. A nyíradonyi és a hajdúböszörményi hivatásos. valamint a szakolyi önkormányzati tűzoltók három vízsugárral oltották el a lángokat. Jelenleg az utómunkálatok zajlanak.",
-      "location": "Bököny, Béke utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -314,16 +314,7 @@
       "lead": "A Kolozsvári utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy családi ház Sáregresen, a Kolozsvári utcában. A mintegy százharminc négyzetméteres ingatlan tetőszerkezete teljes terjedelmében ég. A sárbogárdi hivatásos tűzoltók két vízsugárral oltják a lángokat.",
       "location": "Sáregres, Kolozsvári utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Sáregresen",
-          "datetime": "2026.10.12. 21:29",
-          "category": "Tűzeset",
-          "text": "Elfojtották a lángokat Sáregresen, a Kolozsvári utcában, ahol egy százharminc négyzetméteres lakóház tetőszerkezete teljes terjedelmében égett. A sárbogárdi hivatásos tűzoltók a munkálatok során öt gázpalackot is kihoztak az ingatlanból. A rajok öt vízsugárral fékezték meg a tüzet.",
-          "location": "Sáregres, Kolozsvári utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92792/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92792"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92791",
