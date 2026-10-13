@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T07:16:15.752200+00:00",
-  "count": 3242,
+  "updated_at": "2026-10-13T07:20:10.326921+00:00",
+  "count": 3243,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92804",
+      "datetime": "2026.10.13. 09:19",
+      "title": "Kigyulladt egy garázs Tuzséron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804",
+      "lead": "A tűzoltók a Hársfa utcában oltják a lángokat.",
+      "body": "Tűz keletkezett egy műhelyként használt garázsban, Tuzséron, a Hársfa utcában. Teljes terjedelmében ég a több mint hetven négyzetméteres, fa szerkezetű épület. A kisvárdai és a záhonyi hivatásos tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok kihoztak az ingatlanból egy motorkerékpárt és - a hozzá tartozó üzemanyaggal együtt - egy fűnyírót is.",
+      "location": "Tuzsér, Hársfa utca",
+      "updates": []
+    },
     {
       "id": "92803",
       "datetime": "2026.10.13. 08:43",
@@ -89,16 +100,7 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
       "location": "Budapest, Sírkert út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat a X. kerületben",
-          "datetime": "2026.10.13. 06:09",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
-          "location": "Budapest, Sírkert út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92795",
