@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T11:15:47.206222+00:00",
-  "count": 3251,
+  "updated_at": "2026-10-13T11:19:26.498183+00:00",
+  "count": 3252,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92813",
+      "datetime": "2026.10.13. 13:16",
+      "title": "Villanyoszlopnak ütközött egy autó Tatán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92813",
+      "lead": "Az oszlop kidőlt az ütközés következtében.",
+      "body": "Villanyoszlopnak ütközött egy gépkocsi Tatán, az Új út elején, a Bezerédi utca közelében. Az ütközés erejétől az oszlop az úttestre dőlt. A tatabányai hivatásos tűzoltók áramtalanítják a járművet. A balesethez a társhatóságok, valamint az áramszolgáltató szakemberei is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Tata, Új út",
+      "updates": []
+    },
     {
       "id": "92812",
       "datetime": "2026.10.13. 13:14",
@@ -126,9 +137,9 @@
       "title": "Árokba borult egy autó a 6232-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92803",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pusztahencse közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lesodródott és árokba, a tetejére borult egy személyautó a 6232-es út Pusztahencse és Paks közötti szakaszán, a 7. kilométer közelében. A paksi hivatásos tűzoltók áramtalanítják a járművet, amelyben ketten utaztak. A helyszínen vannak a mentők is.",
+      "location": "Pusztahencse, 6232",
       "updates": []
     },
     {
@@ -206,16 +217,7 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
       "location": "Budapest, Sírkert út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat a X. kerületben",
-          "datetime": "2026.10.13. 06:09",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
-          "location": "Budapest, Sírkert út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92795",
@@ -340,9 +342,9 @@
       "title": "Baleset történt a XIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92786",
-      "lead": "A Lehel utcába riasztották a tűzoltókat.",
-      "body": "Egy személygépkocsi és egy rolleres karambolozott Budapest XIII. kerületében, a Lehel utcában, a Róbert Károly körút közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak. A baleset akadályozta a villamosforgalmat is.",
-      "location": "Budapest, Lehel utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
