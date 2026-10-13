@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T13:38:58.317540+00:00",
-  "count": 3257,
+  "updated_at": "2026-10-13T13:42:11.772816+00:00",
+  "count": 3258,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92819",
+      "datetime": "2026.10.13. 15:41",
+      "title": "Karambol Újpalotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92819",
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt a Kolozsvár és a Széchenyi utca kereszteződésénél.",
+      "body": "Összeütközött egy motorkerékpár és egy személygépkocsi Budapest XV. kerületében, a Kolozsvár és a Széchenyi utca kereszteződésében. A fővárosi hivatásos és az újpesti önkéntes tűzoltók vonultak ki a balesethez, és megszüntették a forgalmi akadályt. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Kolozsvár utca",
+      "updates": []
+    },
     {
       "id": "92818",
       "datetime": "2026.10.13. 15:22",
@@ -31,9 +42,9 @@
       "title": "Kombájn gumihevedere égett Mezőhegyes és Végegyháza között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92816",
-      "lead": "A tűz a tarlóra is átterjedt.",
-      "body": "Egy kombájn gumihevedere égett Mezőhegyes és Végegyháza között, a 4434-es út melletti területen. A tűz a gép környezetében a tarlóra is átterjedt, és a lábon álló gabonát is veszélyeztette. A mezőkovácsházi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, jelenleg az utómunkálatokat végzik. A területre érkezett egy munkagép, amely körbetárcsázza az érintett részt.",
-      "location": "Mezőhegyes, Kamaráspuszta major",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -139,9 +150,9 @@
       "title": "Baleset történt Salgótarjánban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92807",
-      "lead": "Félpályán lezárták a 21-es főút érintett szakaszát.",
-      "body": "A menetiránnyal ellentétes forgalmi sáv szalagkorlátjának ütközött egy kamion Salgótarjánban, a 21-es főút belterületi szakaszán, a Pipishegy utca közelében. A város hivatásos tűzoltói vonultak ki a balesethez, amelyhez a mentőket is riasztották. A raj áramtalanítja a járművet. Az érintett útszakaszt félpályán lezárták.",
-      "location": "Salgótarján, 21",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -247,9 +258,9 @@
       "title": "Tűz volt Vajszlón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92798",
-      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy vajszlói lakóházban, a Petőfi utcában. Az ingatlan egyik helyiségében szemét és ruhák égtek. A tűz a tetőszerkezetre nem terjedt át. A siklósi és a sellyei hivatásos tűzoltók két vízsugárral fojtották el a lángokat.",
-      "location": "Vajszló, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -289,9 +300,9 @@
       "title": "Biatorbágynál is baleset történt az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92795",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A sztráda érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött egy személygépkocsi és egy furgon Biatorbágynál, az M1-es autópálya 20-as kilométerénél, a Győr felé vezető oldalán. A törökbálinti hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszát teljes szélességében lezárták.",
+      "location": "Biatorbágy, M1",
       "updates": []
     },
     {
@@ -373,9 +384,9 @@
       "title": "Tramtrain és autó ütközött Hódmezővásárhelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92789",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre úton történt a karambol.",
+      "body": "Összeütközött egy tramtrain és egy személyautó Hódmezővásárhelyen, az Ady Endre úton. A helyi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Hódmezővásárhely, Ady Endre út",
       "updates": []
     },
     {
@@ -395,9 +406,9 @@
       "title": "Két autó ütközött Püspökladányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92787",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik jármű egy lakóház falának csapódott.",
+      "body": "Két személygépkocsi karambolozott Püspökladányban, a Bocskai utca, azaz a 42-es főút és a Dembinszky utca kereszteződésében. A baleset következtében az egyik jármű egy lakóház falának csapódott. A helyi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják az autókat. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Püspökladány, Bocskai utca",
       "updates": []
     },
     {
