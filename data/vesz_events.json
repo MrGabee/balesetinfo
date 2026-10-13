@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T08:35:51.167048+00:00",
-  "count": 3244,
+  "updated_at": "2026-10-13T08:39:21.339297+00:00",
+  "count": 3245,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92806",
+      "datetime": "2026.10.13. 10:36",
+      "title": "Berobbant a gáz egy vajtai lakóházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92806",
+      "lead": "A tűzoltók egy vízsugárral oltották el a detonáció közben keletkezett tüzet.",
+      "body": "Gázpalack cseréje közben berobbant a gáz egy lakóházban Vajtán, a Kossuth utcában. A robbanás következtében tűz keletkezett, amely összehordott ruhaneműket gyújtott meg. A sárbogárdi hivatásos tűzoltók egy vízsugárral oltották el a lángokat, majd megkezdték az utómunkálatokat. Az egység és a társhatóságok járművei mellett mentőhelikopter is érkezett a helyszínre.",
+      "location": "Vajta, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "92805",
       "datetime": "2026.10.13. 10:00",
