@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-13T12:37:15.509048+00:00",
-  "count": 3254,
+  "updated_at": "2026-10-13T12:41:12.647374+00:00",
+  "count": 3255,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92816",
+      "datetime": "2026.10.13. 14:38",
+      "title": "Kombájn gumihevedere égett Mezőhegyes és Végegyháza között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92816",
+      "lead": "A tűz a tarlóra is átterjedt.",
+      "body": "Egy kombájn gumihevedere égett Mezőhegyes és Végegyháza között, a 4434-es út melletti területen. A tűz a gép környezetében a tarlóra is átterjedt, és a lábon álló gabonát is veszélyeztette. A mezőkovácsházi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, jelenleg az utómunkálatokat végzik. A területre érkezett egy munkagép, amely körbetárcsázza az érintett részt.",
+      "location": "Mezőhegyes, Kamaráspuszta major",
+      "updates": []
+    },
     {
       "id": "92815",
       "datetime": "2026.10.13. 13:56",
       "title": "Motorossal karambolozott egy autó Solymáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92815",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett útszakaszt a Vasút utcai körforgalomnál.",
+      "body": "Motorkerékpárossal ütközött össze egy gépkocsi Solymáron, a Vasút utca és a Valkó út körforgalmánál. A solymári önkéntes tűzoltók áramtalanították a járműveket, valamint a társhatóságokat várják a helyszínre. A baleset miatt félpályán lezárták az érintett útszakaszt, ezért a közösségi közlekedési társaságok értesítését is kérték.",
+      "location": "Solymár, Vasút utca",
       "updates": []
     },
     {
