@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T07:57:33.968802+00:00",
-  "count": 3243,
+  "updated_at": "2026-10-13T08:01:02.678901+00:00",
+  "count": 3244,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92805",
+      "datetime": "2026.10.13. 10:00",
+      "title": "Összeütközött két autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92805",
+      "lead": "Félpályán lezárták a Diószegi út érintett szakaszát",
+      "body": "Két gépkocsi karambolozott Debrecenben, a Diószegi úton, a Lahner utcai kereszteződésnél. A járművekben csak a vezetők utaztak. A debreceni hivatásos tűzoltók mellett a társhatóság is kiérkezett a helyszínre, ahol félpályán lezárták az érintett útszakaszt.",
+      "location": "Debrecen, Diószegi út",
+      "updates": []
+    },
     {
       "id": "92804",
       "datetime": "2026.10.13. 09:19",
