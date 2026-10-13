@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T06:27:54.644850+00:00",
-  "count": 3240,
+  "updated_at": "2026-10-13T06:31:33.519937+00:00",
+  "count": 3241,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92802",
+      "datetime": "2026.10.13. 08:31",
+      "title": "Lakás égett a XX. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92802",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy több lakásból álló ház egyik lakásában keletkezett tűz a XX. kerületi Bessenyei utcában. A fővárosi hivatásos tűzoltók kiérkezése előtt a négy lakó időben elhagyta az ingatlant. Az egységek két vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik. Az oltási munkálatok közben kihoztak az épületből egy gázpalackot. Az érintett lakás négy lakója, valamint a szomszédos ingatlan három lakója hozzátartozóknál kap elszállásolást.",
+      "location": "Budapest, Bessenyei utca",
+      "updates": []
+    },
     {
       "id": "92801",
       "datetime": "2026.10.13. 07:28",
