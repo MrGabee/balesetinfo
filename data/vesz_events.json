@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T12:52:23.797167+00:00",
-  "count": 3255,
+  "updated_at": "2026-10-13T12:55:50.990495+00:00",
+  "count": 3256,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92817",
+      "datetime": "2026.10.13. 14:53",
+      "title": "Égett egy melléképület Poroszlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92817",
+      "lead": "A tűzoltók megfékezték a lángokat a Szabadság úton.",
+      "body": "Kigyulladt egy melléképület Poroszlón, a Szabadság út és a Feszty Árpád utca közötti területen. Teljes terjedelmében égett a mintegy ötven négyzetméteres építmény. A tiszafüredi hivatásos tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat.",
+      "location": "Poroszló, Szabadság út",
+      "updates": []
+    },
     {
       "id": "92816",
       "datetime": "2026.10.13. 14:38",
@@ -461,9 +472,9 @@
       "title": "Baleset történt Bánkon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92779",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Villanyoszlopnak és kerítésnek ütközött egy személyautó Bánkon, a Petőfi úton. A rétsági hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínre érkeztek.",
-      "location": "Bánk, Petőfi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
