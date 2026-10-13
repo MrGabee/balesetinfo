@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:25:35.698129+00:00",
+  "updated_at": "2026-10-13T10:29:14.707755+00:00",
   "count": 3248,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -234,9 +234,9 @@
       "title": "Baleset történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92791",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Koccanásos balesetet szenvedett három személygépkocsi Budapest XXI. kerületében, az Erdősor utcában. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták, valamint a közösségi közlekedésben is fennakadásokra kell számítani.",
-      "location": "Budapest, Erdősor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -245,19 +245,10 @@
       "title": "Tűz keletkezett Sáska külterületén",
       "category": "Tűz keletkezett Sáska külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790",
-      "lead": "Száraz fű ég.",
-      "body": "Tűz van Sáska külterületén. Nagy területen száraz fű ég. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók oltják a lángokat. Egy badacsonytomaji vízszállító jármű is segíti a munkálatokat.",
-      "location": "Sáska, külterület",
-      "updates": [
-        {
-          "title": "Utómunkálatok zajlanak Sáskánál",
-          "datetime": "2026.10.12. 19:18",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Sáska külterületén, ahol mintegy két hektáron száraz fű és fák égtek. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók fékezték meg a tüzet. Egy badacsonytomaji vízszállító jármű is segítette az oltást. Jelenleg az utómunkálatok zajlanak a helyszínen.",
-          "location": "Sáska, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92790"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92789",
@@ -320,9 +311,9 @@
       "title": "Árokba borult egy autó a 441-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92784",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Nagykőrös közelében áramtalanították a járművet.",
+      "body": "Árokba csapódott egy személyautó a 441-es főúton, Nagykőrös közelében, a 21. és a 22. kilométer között. A tetejére borult a jármű, amelyben egy ember utazott, ő ki tudott szállni. A nagykőrösi önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Nagykőrös, 441",
       "updates": []
     },
     {
@@ -353,9 +344,9 @@
       "title": "Karambol történt az I. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92781",
-      "lead": "A Krisztina térre riasztották a tűzoltókat.",
-      "body": "Összeütközött egy kisbusz és egy autóbusz Budapest I. kerületében, a Krisztina téren, a Gellérthegy utcánál. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amely miatt két másik gépkocsi is karambolozott. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
-      "location": "Budapest, Krisztina tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -492,9 +483,9 @@
       "title": "Karambol a 77-es főúton, Kapolcsnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92770",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik járműből a tűzoltók mentettek ki egy embert.",
+      "body": "Frontálisan összeütközött két személyautó a 77-es főúton, Kapolcs határában, a 28. és a 29. kilométer között. A taliándörögdi önkéntes tűzoltók áramtalanították a járműveket, amelyek egyikébe beszorult egy ember. A helyszínre érkeztek az ajkai hivatásos tűzoltók is, és feszítővágóval kiszabadították, majd kiemelték és átadták őt a mentőknek. A műszaki mentés idejére teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Kapolcs, 77",
       "updates": []
     },
     {
