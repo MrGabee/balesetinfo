@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T18:26:11.487182+00:00",
-  "count": 3264,
+  "updated_at": "2026-10-13T18:29:32.322391+00:00",
+  "count": 3265,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92826",
+      "datetime": "2026.10.13. 20:29",
+      "title": "Oldalára borult egy kamion Sásdon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92826",
+      "lead": "A tűzoltók segítettek a sofőrnek kiszállni a járműből.",
+      "body": "Defekt miatt kicsúszott a kanyarban, majd oldalára borult egy kamion Sásdon, a Szent Imre út és a Rákóczi Ferenc út találkozásánál. A járműben csak a vezetője utazott, aki a sásdi hivatásos tűzoltók segítségével tudta elhagyni a kamiont. A balesethez a társhatóság is kiérkezett.",
+      "location": "Sásd, Szent Imre út",
+      "updates": []
+    },
     {
       "id": "92825",
       "datetime": "2026.10.13. 20:24",
