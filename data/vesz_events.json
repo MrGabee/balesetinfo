@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T10:18:37.754852+00:00",
-  "count": 3247,
+  "updated_at": "2026-10-13T10:21:58.104586+00:00",
+  "count": 3248,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92809",
+      "datetime": "2026.10.13. 12:19",
+      "title": "Árokba sodródott egy autó a 38-ason, Tarcalnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92809",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Lesodródott az úttestről, majd árokba csúszott egy gépkocsi a 38-as főút 5-ös kilométerszelvényénél, Tarcal és Tokaj között. A vezető a szerencsi hivatásos tűzoltók kiérkezése előtt saját erejéből ki tudott szállni a járműből. Az egység áramtalanítja a bajba került autót.",
+      "location": "Tarcal, 38",
+      "updates": []
+    },
     {
       "id": "92808",
       "datetime": "2026.10.13. 11:39",
