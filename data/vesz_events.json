@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T13:50:03.293787+00:00",
-  "count": 3258,
+  "updated_at": "2026-10-13T13:53:26.660364+00:00",
+  "count": 3259,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92820",
+      "datetime": "2026.10.13. 15:52",
+      "title": "Autó égett Nagyvarsányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92820",
+      "lead": "A Rákóczi Ferenc utcában csaptak fel a lángok, amelyeket elfojtottak a tűzoltók.",
+      "body": "Kigyulladt egy kisteherautó Nagyvarsányban, a Rákóczi Ferenc utcában, a Kis köz közelében. Teljes terjedelmében égett a rakomány nélküli jármű vezetőfülkéje. A vásárosnaményi önkormányzati tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A beavatkozás idejére teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Nagyvarsány, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "92819",
       "datetime": "2026.10.13. 15:41",
