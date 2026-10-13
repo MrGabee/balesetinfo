@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T06:41:48.949346+00:00",
-  "count": 3241,
+  "updated_at": "2026-10-13T06:45:08.929297+00:00",
+  "count": 3242,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92803",
+      "datetime": "2026.10.13. 08:43",
+      "title": "Árokba borult egy autó a 6232-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92803",
+      "lead": "Pusztahencse közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lesodródott és árokba, a tetejére borult egy személyautó a 6232-es út Pusztahencse és Paks közötti szakaszán, a 7. kilométer közelében. A paksi hivatásos tűzoltók áramtalanítják a járművet, amelyben ketten utaztak. A helyszínen vannak a mentők is.",
+      "location": "Pusztahencse, 6232",
+      "updates": []
+    },
     {
       "id": "92802",
       "datetime": "2026.10.13. 08:31",
