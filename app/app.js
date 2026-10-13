@@ -45,9 +45,17 @@ const DASH_CONFIG = {
 };
 const OLDALAK = [
   {
+    "kulcs": "hirado",
+    "rovid": "Híradó",
+    "cim": "Híradó beküldő",
+    "leiras": "Anyag beküldése a TV2 híradónak",
+    "ikon": "📺",
+    "url": "https://baleset-info.hu/tv2/tv2_riport_kuldes.php"
+  },
+  {
     "kulcs": "riport",
     "rovid": "Riport",
-    "cim": "Riport beküldő",
+    "cim": "VÉSZ riport beküldő",
     "leiras": "VÉSZ esemény küldése a TV2 szerkesztőinek",
     "ikon": "📣"
   },
@@ -413,7 +421,7 @@ ${hibaSzoveg}
 }
 
 function renderFooldal(jelszo) {
-  const fo = OLDALAK.map(o => csempeHtml(oldalLink(o.kulcs, jelszo), o.ikon, o.cim, o.leiras, false)).join('');
+  const fo = OLDALAK.map(o => csempeHtml(o.url || oldalLink(o.kulcs, jelszo), o.ikon, o.cim, o.leiras, false)).join('');
   return `${pageHead()}
 <body>
 <div class="wrap">
