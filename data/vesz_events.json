@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T04:44:41.474684+00:00",
-  "count": 3238,
+  "updated_at": "2026-10-13T04:48:16.594811+00:00",
+  "count": 3239,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92800",
+      "datetime": "2026.10.13. 06:45",
+      "title": "Szarvassal ütközött egy autó a 22-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92800",
+      "lead": "Szécsénynél történt a baleset.",
+      "body": "Szarvassal ütközött egy személyautó Szécsénynél, a 22-es főút 44-es kilométerénél. A szécsényi hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította a járművet.",
+      "location": "Szécsény, 22",
+      "updates": []
+    },
     {
       "id": "92799",
       "datetime": "2026.10.13. 06:35",
