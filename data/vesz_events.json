@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T08:04:24.144923+00:00",
+  "updated_at": "2026-10-13T08:07:36.077397+00:00",
   "count": 3244,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -111,16 +111,7 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
       "location": "Budapest, Sírkert út",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat a X. kerületben",
-          "datetime": "2026.10.13. 06:09",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
-          "location": "Budapest, Sírkert út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92795",
@@ -267,9 +258,9 @@
       "title": "Árokba borult egy autó a 441-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92784",
-      "lead": "A tűzoltók Nagykőrös közelében áramtalanították a járművet.",
-      "body": "Árokba csapódott egy személyautó a 441-es főúton, Nagykőrös közelében, a 21. és a 22. kilométer között. A tetejére borult a jármű, amelyben egy ember utazott, ő ki tudott szállni. A nagykőrösi önkormányzati tűzoltók áramtalanították a gépkocsit.",
-      "location": "Nagykőrös, 441",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -386,9 +377,9 @@
       "title": "Baleset a XXI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92774",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Padkára hajtott egy személyautó Budapest XXI. kerületében, a Rakéta utcában. A baleset következtében egy villanyoszlop is kidőlt. A fővárosi hivatásos tűzoltók áramtalanították a járművet.",
-      "location": "Budapest, Rakéta utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
