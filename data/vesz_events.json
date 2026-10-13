@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T08:22:09.791112+00:00",
+  "updated_at": "2026-10-13T08:25:48.673231+00:00",
   "count": 3244,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -84,9 +84,9 @@
       "title": "Fának csapódott egy autó Székelynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92799",
-      "lead": "A 4104-es úton történt a baleset.",
-      "body": "Árokba, majd fának csapódott egy személygépkocsi Székelynél, a 4104-es út 1-es kilométerénél. A baktalórántházai hivatásos és a demecseri önkéntes tűzoltók áramtalanították a járművet. A társhatóságok is kiérkeztek az esethez.",
-      "location": "Székely, 4104",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -120,7 +120,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
       "location": "Budapest, Sírkert út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat a X. kerületben",
+          "datetime": "2026.10.13. 06:09",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
+          "location": "Budapest, Sírkert út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
+        }
+      ]
     },
     {
       "id": "92795",
@@ -267,9 +276,9 @@
       "title": "Árokba borult egy autó a 441-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92784",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Nagykőrös közelében áramtalanították a járművet.",
+      "body": "Árokba csapódott egy személyautó a 441-es főúton, Nagykőrös közelében, a 21. és a 22. kilométer között. A tetejére borult a jármű, amelyben egy ember utazott, ő ki tudott szállni. A nagykőrösi önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Nagykőrös, 441",
       "updates": []
     },
     {
