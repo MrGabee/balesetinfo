@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T06:09:52.696663+00:00",
+  "updated_at": "2026-10-13T06:13:51.304388+00:00",
   "count": 3240,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -137,9 +137,9 @@
       "title": "Baleset történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92791",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Koccanásos balesetet szenvedett három személygépkocsi Budapest XXI. kerületében, az Erdősor utcában. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták, valamint a közösségi közlekedésben is fennakadásokra kell számítani.",
+      "location": "Budapest, Erdősor utca",
       "updates": []
     },
     {
@@ -148,10 +148,19 @@
       "title": "Tűz keletkezett Sáska külterületén",
       "category": "Tűz keletkezett Sáska külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Száraz fű ég.",
+      "body": "Tűz van Sáska külterületén. Nagy területen száraz fű ég. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók oltják a lángokat. Egy badacsonytomaji vízszállító jármű is segíti a munkálatokat.",
+      "location": "Sáska, külterület",
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Sáskánál",
+          "datetime": "2026.10.12. 19:18",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Sáska külterületén, ahol mintegy két hektáron száraz fű és fák égtek. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók fékezték meg a tüzet. Egy badacsonytomaji vízszállító jármű is segítette az oltást. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+          "location": "Sáska, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92790"
+        }
+      ]
     },
     {
       "id": "92789",
@@ -159,9 +168,9 @@
       "title": "Tramtrain és autó ütközött Hódmezővásárhelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92789",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre úton történt a karambol.",
+      "body": "Összeütközött egy tramtrain és egy személyautó Hódmezővásárhelyen, az Ady Endre úton. A helyi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Hódmezővásárhely, Ady Endre út",
       "updates": []
     },
     {
@@ -181,9 +190,9 @@
       "title": "Két autó ütközött Püspökladányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92787",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik jármű egy lakóház falának csapódott.",
+      "body": "Két személygépkocsi karambolozott Püspökladányban, a Bocskai utca, azaz a 42-es főút és a Dembinszky utca kereszteződésében. A baleset következtében az egyik jármű egy lakóház falának csapódott. A helyi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják az autókat. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Püspökladány, Bocskai utca",
       "updates": []
     },
     {
@@ -192,9 +201,9 @@
       "title": "Baleset történt a XIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92786",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Lehel utcába riasztották a tűzoltókat.",
+      "body": "Egy személygépkocsi és egy rolleres karambolozott Budapest XIII. kerületében, a Lehel utcában, a Róbert Károly körút közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak. A baleset akadályozta a villamosforgalmat is.",
+      "location": "Budapest, Lehel utca",
       "updates": []
     },
     {
@@ -225,9 +234,9 @@
       "title": "Villamossal ütközött egy autó a II. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92783",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset akadályozza a közlekedést a Bécsi úton.",
+      "body": "Villamos és személyautó karambolozott Budapest II kerületében. A Bécsi úton, a Cserfa utca közelében történt a baleset, amelyhez a fővárosi hivatásos tűzoltókat riasztották. A karambol akadályozza a közlekedést az érintett útszakaszon.",
+      "location": "Budapest, Bécsi út",
       "updates": []
     },
     {
@@ -333,9 +342,9 @@
       "title": "Baleset a XXI. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92774",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Padkára hajtott egy személyautó Budapest XXI. kerületében, a Rakéta utcában. A baleset következtében egy villanyoszlop is kidőlt. A fővárosi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Budapest, Rakéta utca",
       "updates": []
     },
     {
