@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T13:35:20.332413+00:00",
+  "updated_at": "2026-10-13T13:38:58.317540+00:00",
   "count": 3257,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Motorossal karambolozott egy autó Solymáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92815",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett útszakaszt a Vasút utcai körforgalomnál.",
+      "body": "Motorkerékpárossal ütközött össze egy gépkocsi Solymáron, a Vasút utca és a Valkó út körforgalmánál. A solymári önkéntes tűzoltók áramtalanították a járműveket, valamint a társhatóságokat várják a helyszínre. A baleset miatt félpályán lezárták az érintett útszakaszt, ezért a közösségi közlekedési társaságok értesítését is kérték.",
+      "location": "Solymár, Vasút utca",
       "updates": []
     },
     {
@@ -64,9 +64,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Tatán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92813",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az oszlop kidőlt az ütközés következtében.",
+      "body": "Villanyoszlopnak ütközött egy gépkocsi Tatán, az Új út elején, a Bezerédi utca közelében. Az ütközés erejétől az oszlop az úttestre dőlt. A tatabányai hivatásos tűzoltók áramtalanítják a járművet. A balesethez a társhatóságok, valamint az áramszolgáltató szakemberei is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Tata, Új út",
       "updates": []
     },
     {
@@ -86,9 +86,9 @@
       "title": "Baleset történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92811",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadályra kell számítani az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi a XXI. kerületben, a II. Rákóczi Ferenc út és az Erdősor utca kereszteződésénél. A balesetben egy gyalogos is érintetté vált. A fővárosi hivatásos tűzoltók és a mentők érkeztek a helyszínre, az egység áramtalanította a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani, a korlátozás a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Erdősor utca",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Lakástűz a XVI. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92810",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eloltották a lángokat a Margit utcában.",
+      "body": "Tűz keletkezett egy társasház egyik harmadik emeleti lakásban, Budapest XVI. kerületében, a Margit utcában. Egy helyiség égett. A fővárosi hivatásos tűzoltók az épületen kívülről és belül is beavatkoztak egy-egy vízsugárral, és megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A rajok kiszellőztetik a lépcsőházat, amely megtelt füsttel.",
+      "location": "Budapest, Margit utca",
       "updates": []
     },
     {
@@ -119,10 +119,19 @@
       "title": "Ég egy melléképület Zalalövőn",
       "category": "Ég egy melléképület Zalalövőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Bartók Béla utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy melléképület Zalalövőn, a Bartók Béla utcában. Teljes terjedelmében ég az építmény, amely egy lakóházhoz csatlakozik. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Zala vármegyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Zalalövő, Bartók Béla utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a zalalövői tűznél",
+          "datetime": "2026.10.13. 12:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zalalövőn, a Bartók Béla utcában, ahol kigyulladt és teljes terjedelmében égett egy lakóházhoz csatlakozó melléképület. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek a lakóépületre nem terjedtek át. A rajok megkezdték az utómunkálatokat.",
+          "location": "Zalalövő, Bartók Béla utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92808"
+        }
+      ]
     },
     {
       "id": "92807",
@@ -141,9 +150,9 @@
       "title": "Berobbant a gáz egy vajtai lakóházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92806",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral oltották el a detonáció közben keletkezett tüzet.",
+      "body": "Gázpalack cseréje közben berobbant a gáz egy lakóházban Vajtán, a Kossuth utcában. A robbanás következtében tűz keletkezett, amely összehordott ruhaneműket gyújtott meg. A sárbogárdi hivatásos tűzoltók egy vízsugárral oltották el a lángokat, majd megkezdték az utómunkálatokat. Az egység és a társhatóságok járművei mellett mentőhelikopter is érkezett a helyszínre.",
+      "location": "Vajta, Kossuth utca",
       "updates": []
     },
     {
@@ -163,10 +172,19 @@
       "title": "Kigyulladt egy garázs Tuzséron",
       "category": "Kigyulladt egy garázs Tuzséron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Hársfa utcában oltják a lángokat.",
+      "body": "Tűz keletkezett egy műhelyként használt garázsban, Tuzséron, a Hársfa utcában. Teljes terjedelmében ég a több mint hetven négyzetméteres, fa szerkezetű épület. A kisvárdai és a záhonyi hivatásos tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok kihoztak az ingatlanból egy motorkerékpárt és - a hozzá tartozó üzemanyaggal együtt - egy fűnyírót is.",
+      "location": "Tuzsér, Hársfa utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Tuzséron",
+          "datetime": "2026.10.13. 10:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Tuzséron, a Hársfa utcában keletkezett. Egy műhelyként használt, több mint hetven négyzetméteres, fa szerkezetű garázs gyulladt ki és égett teljes terjedelmében. A lángokat a kisvárdai és a záhonyi hivatásos tűzoltók fékezték meg. A beavatkozást egy ideig a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányította. A rajok több gépet, berendezést kihoztak az ingatlanból, megbontották a tetőszerkezetet, és megkezdték az utómunkálatokat.",
+          "location": "Tuzsér, Hársfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92804"
+        }
+      ]
     },
     {
       "id": "92803",
@@ -271,9 +289,9 @@
       "title": "Biatorbágynál is baleset történt az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92795",
-      "lead": "A sztráda érintett szakaszát teljes szélességében lezárták.",
-      "body": "Összeütközött egy személygépkocsi és egy furgon Biatorbágynál, az M1-es autópálya 20-as kilométerénél, a Győr felé vezető oldalán. A törökbálinti hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszát teljes szélességében lezárták.",
-      "location": "Biatorbágy, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -355,9 +373,9 @@
       "title": "Tramtrain és autó ütközött Hódmezővásárhelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92789",
-      "lead": "Az Ady Endre úton történt a karambol.",
-      "body": "Összeütközött egy tramtrain és egy személyautó Hódmezővásárhelyen, az Ady Endre úton. A helyi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Hódmezővásárhely, Ady Endre út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -377,9 +395,9 @@
       "title": "Két autó ütközött Püspökladányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92787",
-      "lead": "Az egyik jármű egy lakóház falának csapódott.",
-      "body": "Két személygépkocsi karambolozott Püspökladányban, a Bocskai utca, azaz a 42-es főút és a Dembinszky utca kereszteződésében. A baleset következtében az egyik jármű egy lakóház falának csapódott. A helyi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják az autókat. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Püspökladány, Bocskai utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -443,9 +461,9 @@
       "title": "Karambol történt az I. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92781",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Krisztina térre riasztották a tűzoltókat.",
+      "body": "Összeütközött egy kisbusz és egy autóbusz Budapest I. kerületében, a Krisztina téren, a Gellérthegy utcánál. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amely miatt két másik gépkocsi is karambolozott. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Krisztina tér",
       "updates": []
     },
     {
@@ -465,9 +483,9 @@
       "title": "Baleset történt Bánkon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92779",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Villanyoszlopnak és kerítésnek ütközött egy személyautó Bánkon, a Petőfi úton. A rétsági hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínre érkeztek.",
-      "location": "Bánk, Petőfi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
