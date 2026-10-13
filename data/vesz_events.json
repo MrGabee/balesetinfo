@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T14:32:14.874063+00:00",
-  "count": 3260,
+  "updated_at": "2026-10-13T14:35:49.563447+00:00",
+  "count": 3261,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92822",
+      "datetime": "2026.10.13. 16:35",
+      "title": "Kigyulladt egy autó a XVIII. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92822",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt, majd teljesen kiégett egy gépkocsi a XVIII. kerületi Paula utcában, a Kisfaludy utca közelében. A négy utas időben el tudta hagyni a járművet. A Foka ÖTE önkéntes tűzoltói egy vízsugárral rövid időn belül eloltották a lángokat, megkezdték az utómunkálatokat. A helyszínre elindult egy fővárosi hivatásos egység is.",
+      "location": "Budapest, Paula utca",
+      "updates": []
+    },
     {
       "id": "92821",
       "datetime": "2026.10.13. 16:01 -",
