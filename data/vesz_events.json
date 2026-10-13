@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T11:19:26.498183+00:00",
+  "updated_at": "2026-10-13T11:23:24.301455+00:00",
   "count": 3252,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -217,7 +217,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
       "location": "Budapest, Sírkert út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat a X. kerületben",
+          "datetime": "2026.10.13. 06:09",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
+          "location": "Budapest, Sírkert út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
+        }
+      ]
     },
     {
       "id": "92795",
@@ -342,9 +351,9 @@
       "title": "Baleset történt a XIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92786",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Lehel utcába riasztották a tűzoltókat.",
+      "body": "Egy személygépkocsi és egy rolleres karambolozott Budapest XIII. kerületében, a Lehel utcában, a Róbert Károly körút közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak. A baleset akadályozta a villamosforgalmat is.",
+      "location": "Budapest, Lehel utca",
       "updates": []
     },
     {
