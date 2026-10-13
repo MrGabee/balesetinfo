@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T13:42:11.772816+00:00",
+  "updated_at": "2026-10-13T13:46:02.272905+00:00",
   "count": 3258,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Kombájn gumihevedere égett Mezőhegyes és Végegyháza között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92816",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz a tarlóra is átterjedt.",
+      "body": "Egy kombájn gumihevedere égett Mezőhegyes és Végegyháza között, a 4434-es út melletti területen. A tűz a gép környezetében a tarlóra is átterjedt, és a lábon álló gabonát is veszélyeztette. A mezőkovácsházi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, jelenleg az utómunkálatokat végzik. A területre érkezett egy munkagép, amely körbetárcsázza az érintett részt.",
+      "location": "Mezőhegyes, Kamaráspuszta major",
       "updates": []
     },
     {
@@ -150,9 +150,9 @@
       "title": "Baleset történt Salgótarjánban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92807",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták a 21-es főút érintett szakaszát.",
+      "body": "A menetiránnyal ellentétes forgalmi sáv szalagkorlátjának ütközött egy kamion Salgótarjánban, a 21-es főút belterületi szakaszán, a Pipishegy utca közelében. A város hivatásos tűzoltói vonultak ki a balesethez, amelyhez a mentőket is riasztották. A raj áramtalanítja a járművet. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Salgótarján, 21",
       "updates": []
     },
     {
@@ -258,9 +258,9 @@
       "title": "Tűz volt Vajszlón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92798",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy vajszlói lakóházban, a Petőfi utcában. Az ingatlan egyik helyiségében szemét és ruhák égtek. A tűz a tetőszerkezetre nem terjedt át. A siklósi és a sellyei hivatásos tűzoltók két vízsugárral fojtották el a lángokat.",
+      "location": "Vajszló, Petőfi utca",
       "updates": []
     },
     {
@@ -333,19 +333,10 @@
       "title": "Lakóház ég Sáregresen",
       "category": "Lakóház ég Sáregresen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92792",
-      "lead": "A Kolozsvári utcába riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy családi ház Sáregresen, a Kolozsvári utcában. A mintegy százharminc négyzetméteres ingatlan tetőszerkezete teljes terjedelmében ég. A sárbogárdi hivatásos tűzoltók két vízsugárral oltják a lángokat.",
-      "location": "Sáregres, Kolozsvári utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Sáregresen",
-          "datetime": "2026.10.12. 21:29",
-          "category": "Tűzeset",
-          "text": "Elfojtották a lángokat Sáregresen, a Kolozsvári utcában, ahol egy százharminc négyzetméteres lakóház tetőszerkezete teljes terjedelmében égett. A sárbogárdi hivatásos tűzoltók a munkálatok során öt gázpalackot is kihoztak az ingatlanból. A rajok öt vízsugárral fékezték meg a tüzet.",
-          "location": "Sáregres, Kolozsvári utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92792/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92792"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92791",
