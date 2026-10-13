@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T13:21:26.727929+00:00",
-  "count": 3256,
+  "updated_at": "2026-10-13T13:25:15.735782+00:00",
+  "count": 3257,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92818",
+      "datetime": "2026.10.13. 15:22",
+      "title": "Embert gázolt a vonat Kismaroson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92818",
+      "lead": "A vasútállomásnál dolgoznak a tűzoltók.",
+      "body": "Elgázolt egy embert a vonat Kismaroson, az Ady Endre úton, a vasútállomásnál. A váci hivatásos és a nagymarosi önkéntes tűzoltók vonultak ki a balesethez. A rajok kiemelték a személyt a szerelvény alól, és átadták a mentőknek.",
+      "location": "Kismaros, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "92817",
       "datetime": "2026.10.13. 14:53",
@@ -261,7 +272,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
       "location": "Budapest, Sírkert út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat a X. kerületben",
+          "datetime": "2026.10.13. 06:09",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
+          "location": "Budapest, Sírkert út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
+        }
+      ]
     },
     {
       "id": "92795",
@@ -419,9 +439,9 @@
       "title": "Villamossal ütközött egy autó a II. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92783",
-      "lead": "A baleset akadályozza a közlekedést a Bécsi úton.",
-      "body": "Villamos és személyautó karambolozott Budapest II kerületében. A Bécsi úton, a Cserfa utca közelében történt a baleset, amelyhez a fővárosi hivatásos tűzoltókat riasztották. A karambol akadályozza a közlekedést az érintett útszakaszon.",
-      "location": "Budapest, Bécsi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
