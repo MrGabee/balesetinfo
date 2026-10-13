@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-13T10:46:51.043986+00:00",
-  "count": 3249,
+  "updated_at": "2026-10-13T10:50:23.311735+00:00",
+  "count": 3250,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92811",
+      "datetime": "2026.10.13. 12:48",
+      "title": "Baleset történt Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92811",
+      "lead": "Forgalmi akadályra kell számítani az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi a XXI. kerületben, a II. Rákóczi Ferenc út és az Erdősor utca kereszteződésénél. A balesetben egy gyalogos is érintetté vált. A fővárosi hivatásos tűzoltók és a mentők érkeztek a helyszínre, az egység áramtalanította a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani, a korlátozás a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Erdősor utca",
+      "updates": []
+    },
     {
       "id": "92810",
       "datetime": "2026.10.13. 12:45",
@@ -75,10 +86,19 @@
       "title": "Kigyulladt egy garázs Tuzséron",
       "category": "Kigyulladt egy garázs Tuzséron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Hársfa utcában oltják a lángokat.",
+      "body": "Tűz keletkezett egy műhelyként használt garázsban, Tuzséron, a Hársfa utcában. Teljes terjedelmében ég a több mint hetven négyzetméteres, fa szerkezetű épület. A kisvárdai és a záhonyi hivatásos tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok kihoztak az ingatlanból egy motorkerékpárt és - a hozzá tartozó üzemanyaggal együtt - egy fűnyírót is.",
+      "location": "Tuzsér, Hársfa utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Tuzséron",
+          "datetime": "2026.10.13. 10:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Tuzséron, a Hársfa utcában keletkezett. Egy műhelyként használt, több mint hetven négyzetméteres, fa szerkezetű garázs gyulladt ki és égett teljes terjedelmében. A lángokat a kisvárdai és a záhonyi hivatásos tűzoltók fékezték meg. A beavatkozást egy ideig a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányította. A rajok több gépet, berendezést kihoztak az ingatlanból, megbontották a tetőszerkezetet, és megkezdték az utómunkálatokat.",
+          "location": "Tuzsér, Hársfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92804"
+        }
+      ]
     },
     {
       "id": "92803",
@@ -130,9 +150,9 @@
       "title": "Fának csapódott egy autó Székelynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92799",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4104-es úton történt a baleset.",
+      "body": "Árokba, majd fának csapódott egy személygépkocsi Székelynél, a 4104-es út 1-es kilométerénél. A baktalórántházai hivatásos és a demecseri önkéntes tűzoltók áramtalanították a járművet. A társhatóságok is kiérkeztek az esethez.",
+      "location": "Székely, 4104",
       "updates": []
     },
     {
