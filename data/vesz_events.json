@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T15:49:15.646742+00:00",
-  "count": 3283,
+  "updated_at": "2026-10-14T15:52:46.572853+00:00",
+  "count": 3284,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92845",
+      "datetime": "2026.10.14. 17:49",
+      "title": "Villanyoszlopnak hajtott egy autó Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92845",
+      "lead": "A Nagyvárad utcát lezárták.",
+      "body": "Villanyoszlopnak hajtott egy személyautó Nyíregyházán, a Nagyvárad utcában. A műszaki mentést a város hivatásos tűzoltói végzik. A helyszínre az áramszolgáltató szakemberei is megérkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, Nagyvárad utca",
+      "updates": []
+    },
     {
       "id": "92844",
       "datetime": "2026.10.14. 17:27",
