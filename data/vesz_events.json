@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T17:31:52.127734+00:00",
-  "count": 3287,
+  "updated_at": "2026-10-14T17:35:15.653245+00:00",
+  "count": 3288,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92849",
+      "datetime": "2026.10.14. 19:32",
+      "title": "Karambolozott két autó Békéscsaba és Gyula között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92849",
+      "lead": "A 44-es főút felüljáróján történt a baleset.",
+      "body": "Két személyautó karambolozott Békéscsaba és Gyula között, a 44-es főút felüljáróján, a 132-es kilométerszelvénynél. A balesethez a gyulai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
+      "location": "Gyula, 44",
+      "updates": []
+    },
     {
       "id": "92848",
       "datetime": "2026.10.14. 19:28",
