@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T05:34:51.509081+00:00",
-  "count": 3272,
+  "updated_at": "2026-10-14T05:38:38.836537+00:00",
+  "count": 3273,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92834",
+      "datetime": "2026.10.14. 07:36",
+      "title": "Összeütközött két autó Szigetszentmiklóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92834",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két gépkocsi Szigetszentmiklóson, a Leshegy utca és az 5103-as út kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítanak. A balesethez a mentők is kiérkeztek.",
+      "location": "Szigetszentmiklós, Leshegy utca",
+      "updates": []
+    },
     {
       "id": "92833",
       "datetime": "2026.10.14. 07:29",
