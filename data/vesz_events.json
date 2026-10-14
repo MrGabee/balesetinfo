@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T16:07:46.450477+00:00",
-  "count": 3285,
+  "updated_at": "2026-10-14T16:11:21.243503+00:00",
+  "count": 3286,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92847",
+      "datetime": "2026.10.14. 18:09",
+      "title": "Szeméttároló füstölt egy debreceni társasházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92847",
+      "lead": "A Csapó utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Szeméttároló füstölt egy debreceni társasház földszintjén, a Csapó utcában. A város hivatásos tűzoltói eltávolították az épületből a füstölgő anyagokat, valamint átszellőztetik a lépcsőházat. Az épületben negyven embert elzárkózásra szólítottak fel, a munkálatok idejére.",
+      "location": "Debrecen, Csapó utca",
+      "updates": []
+    },
     {
       "id": "92846",
       "datetime": "2026.10.14. 18:02",
