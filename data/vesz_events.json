@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:40:22.061587+00:00",
+  "updated_at": "2026-10-14T08:44:35.426497+00:00",
   "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,10 +9,19 @@
       "title": "Tetőszerkezet ég Zsámbékon",
       "category": "Tetőszerkezet ég Zsámbékon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Mányi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
+      "location": "Zsámbék, Mányi út",
+      "updates": [
+        {
+          "title": "Már nem lángol a tűz Zsámbékon",
+          "datetime": "2026.10.14. 08:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
+          "location": "Zsámbék, Mányi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
+        }
+      ]
     },
     {
       "id": "92835",
@@ -20,9 +29,9 @@
       "title": "Teljes terjedelmében égett egy autó Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92835",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pécsi utcában forgalomkorlátozásra kell számítani.",
+      "body": "Teljes terjedelmében égett egy személyautó Kaposváron, a Pécsi utcában, a Zöldfa utca közelében. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposvár, Pécsi utca",
       "updates": []
     },
     {
@@ -53,9 +62,9 @@
       "title": "Vadat gázolt egy autó a 82-esen, Zirc és Olaszfalu között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92832",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Vadat gázolt el egy autó a 82-es főút 18-as kilométerszelvényénél, Zirc és Olaszfalu között. A járműben csak a vezetője utazott. A zirci önkormányzati tűzoltók a helyszínelést követően megszüntetik a forgalmi akadályt.",
+      "location": "Zirc, 82",
       "updates": []
     },
     {
@@ -75,21 +84,30 @@
       "title": "Hármas karambol történt Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92830",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett kereszteződést.",
+      "body": "Három gépkocsi ütközött össze Debrecenben, a Füredi út és az Egyetem sugárút kereszteződésében. A járművekben összesen nyolcan utaztak, mindannyian saját erejükből ki tudtak szállni. A debreceni hivatásos tűzoltók és a társhatóságok is a balesethez érkeztek, félpályás útlezárás mellett kezdték meg a helyszíni munkálatokat.",
+      "location": "Debrecen, Füredi út",
       "updates": []
     },
     {
       "id": "92829",
       "datetime": "2026.10.13. 22:45 -",
-      "title": "1 db frissítés",
+      "title": "Üvegház és garázs ég Kaposmérőn",
       "category": "Üvegház és garázs ég Kaposmérőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Egy harminc négyzetméteres üvegház ég teljes egészében Kaposmérőn, a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. A kaposvári hivatásos tűzoltók érkeztek a helyszínre, két vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
+      "location": "Kaposmérő, Dózsa György utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kaposmérőn",
+          "datetime": "2026.10.13. 23:19",
+          "category": "Tűzeset",
+          "text": "A kaposvári hivatásos tűzoltók megfékezték a lángokat Kaposmérőn, ahol egy harminc négyzetméteres üvegház égett teljes egészében a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. Az üvegházban kerti tárgyakat, míg a garázsban autóalkatrészeket és fáradt olajat tároltak. Az egységek három vízsugárral és kéziszerszámokkal dolgoztak a lángok elfojtásán, megkezdték a garázsban tárolt szekrények kipakolását.",
+          "location": "Kaposmérő, Dózsa György utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92829"
+        }
+      ]
     },
     {
       "id": "92828",
@@ -97,9 +115,9 @@
       "title": "Menet közben gyulladt ki egy autó Debrecenben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92828",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A vezető időben el tudta hagyni a járművet.",
+      "body": "Menet közben gyulladt ki egy gépkocsi Debrecenben, a Monti Ezredes utcában. A járműben csak a vezetője utazott, aki időben ki tudott szállni. A debreceni hivatásos tűzoltók két vízsugárral oltották el a teljes egészében égő kocsi lángjait, jelenleg már az utómunkálatokat végzik.",
+      "location": "Debrecen, Monti Ezredes utca",
       "updates": []
     },
     {
@@ -108,9 +126,9 @@
       "title": "Baleset történt az M4-esen, Monornál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92827",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták az érintett útszakaszt a Szolnok felé vezető irányban.",
+      "body": "Egy utánfutós gépkocsi karambolozott egy másik járművel az M4-es autóút 37-es kilométerszelvényénél, Monor térségében, a Szolnok felé vezető irányban. Összesen öten utaztak a kocsikban, amelyeket a monori hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Monor, M4",
       "updates": []
     },
     {
@@ -119,9 +137,9 @@
       "title": "Oldalára borult egy kamion Sásdon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92826",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek a sofőrnek kiszállni a járműből.",
+      "body": "Defekt miatt kicsúszott a kanyarban, majd oldalára borult egy kamion Sásdon, a Szent Imre út és a Rákóczi Ferenc út találkozásánál. A járműben csak a vezetője utazott, aki a sásdi hivatásos tűzoltók segítségével tudta elhagyni a kamiont. A balesethez a társhatóság is kiérkezett.",
+      "location": "Sásd, Szent Imre út",
       "updates": []
     },
     {
@@ -141,9 +159,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Érsekvadkerten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92824",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű kidöntötte az oszlopot, majd árokba hajtott.",
+      "body": "Villanyoszlopnak ütközött, majd árokba hajtott egy gépkocsi Érsekvadkerten, a Rákóczi út és a Mikszáth Kálmán út sarkán. A baleset következtében a jármű kidöntötte az oszlopot. A műszaki mentési munkálatokhoz a rétsági hivatásos és az érsekvadkerti önkéntes tűzoltók érkeztek ki, és a mentőket is a helyszínre kérték. A kidöntött oszlop miatt az áramszolgáltató szakembereit is értesítették.",
+      "location": "Érsekvadkert, Rákóczi út",
       "updates": []
     },
     {
@@ -152,9 +170,9 @@
       "title": "Szarvast gázolt egy autó Zámoly térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92823",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán forgalmi akadály alakult ki a 8126-os út érintett szakaszán.",
+      "body": "Szarvast gázolt el egy gépkocsi a 8126-os út 12-es kilométerszelvényénél, Zámoly térségében. Az ütközés következtében az állat az árokba került, a jármű az úttesten maradt. A székesfehérvári hivatásos tűzoltók érkeztek a helyszínre, megszüntették a forgalmi akadályt, illetve eltávolítják az úttestre került szennyeződést.",
+      "location": "Zámoly, 8126",
       "updates": []
     },
     {
@@ -163,9 +181,9 @@
       "title": "Kigyulladt egy autó a XVIII. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92822",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt, majd teljesen kiégett egy gépkocsi a XVIII. kerületi Paula utcában, a Kisfaludy utca közelében. A négy utas időben el tudta hagyni a járművet. A Foka ÖTE önkéntes tűzoltói egy vízsugárral rövid időn belül eloltották a lángokat, megkezdték az utómunkálatokat. A helyszínre elindult egy fővárosi hivatásos egység is.",
+      "location": "Budapest, Paula utca",
       "updates": []
     },
     {
@@ -174,10 +192,19 @@
       "title": "Egy üzemcsarnok tetőszigetelése ég Győrben",
       "category": "Egy üzemcsarnok tetőszigetelése ég Győrben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92821",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók porral oltókkal oltják a lángokat.",
+      "body": "Egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg egy üzem csarnoképületében, a győri Hűtőház utcában. A tűz átterjedt az épület tetőszigetelésére. A győri hivatásos tűzoltók a kifolyt olajat habtakarással lefedték, míg a tetőszigetelés tüzének megfékezésén porral oltókkal dolgoznak. Az egységek a munkálatok közben megbontják az épület tetőszerkezetét.",
+      "location": "Győr, Hűtőház utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a győri üzemcsarnok tetőszigetelésének tüzét",
+          "datetime": "2026.10.13. 16:27",
+          "category": "Tűzeset",
+          "text": "A győri hivatásos tűzoltók megfékezték a tüzet városukban, ahol egy üzem csarnoképületének tetőszerkezetén a kémény melletti szigetelés égett, valamint a szendvicspanel hőszigetelés füstölt a Hűtőház utcában. Korábban egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg az épületben, innen terjedt át a tűz a tetőszigetelésre. Az egységek a kifolyt olajat habtakarással lefedték, majd felfogó edénybe gyűjtötték. Az oltási munkálatokat porral oltókkal kezdték, majd két habosított vízsugárral folytatták. Az üzem kilencvenöt dolgozója a tűzoltók kiérkezése előtt elhagyta az épületet.",
+          "location": "Győr, Hűtőház utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92821/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92821"
+        }
+      ]
     },
     {
       "id": "92820",
@@ -196,9 +223,9 @@
       "title": "Karambol Újpalotán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92819",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt a Kolozsvár és a Széchenyi utca kereszteződésénél.",
+      "body": "Összeütközött egy motorkerékpár és egy személygépkocsi Budapest XV. kerületében, a Kolozsvár és a Széchenyi utca kereszteződésében. A fővárosi hivatásos és az újpesti önkéntes tűzoltók vonultak ki a balesethez, és megszüntették a forgalmi akadályt. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Kolozsvár utca",
       "updates": []
     },
     {
@@ -320,16 +347,7 @@
       "lead": "A Bartók Béla utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy melléképület Zalalövőn, a Bartók Béla utcában. Teljes terjedelmében ég az építmény, amely egy lakóházhoz csatlakozik. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Zala vármegyei katasztrófavédelmi műveleti szolgálat is.",
       "location": "Zalalövő, Bartók Béla utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik a zalalövői tűznél",
-          "datetime": "2026.10.13. 12:54",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Zalalövőn, a Bartók Béla utcában, ahol kigyulladt és teljes terjedelmében égett egy lakóházhoz csatlakozó melléképület. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek a lakóépületre nem terjedtek át. A rajok megkezdték az utómunkálatokat.",
-          "location": "Zalalövő, Bartók Béla utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92808"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92807",
