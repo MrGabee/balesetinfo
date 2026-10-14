@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T19:31:38.220936+00:00",
-  "count": 3288,
+  "updated_at": "2026-10-14T19:35:09.222769+00:00",
+  "count": 3289,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92850",
+      "datetime": "2026.10.14. 21:32",
+      "title": "Fának hajtott egy autó Budapest XIX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92850",
+      "lead": "A Hoffherr Albert utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Fának hajtott egy személyautó Budapest XIX. kerületében, a Hoffherr Albert utcában, a Puskás Ferenc utca közelében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Hofherr Albert utca",
+      "updates": []
+    },
     {
       "id": "92849",
       "datetime": "2026.10.14. 19:32",
