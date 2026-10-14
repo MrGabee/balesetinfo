@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T15:21:20.386850+00:00",
+  "updated_at": "2026-10-14T15:25:09.446806+00:00",
   "count": 3282,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -117,9 +117,9 @@
       "title": "Összeütközött két autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92834",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Összeütközött két gépkocsi Szigetszentmiklóson, a Leshegy utca és az 5103-as út kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítanak. A balesethez a mentők is kiérkeztek.",
-      "location": "Szigetszentmiklós, Leshegy utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -175,7 +175,16 @@
       "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
       "body": "Egy harminc négyzetméteres üvegház ég teljes egészében Kaposmérőn, a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. A kaposvári hivatásos tűzoltók érkeztek a helyszínre, két vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
       "location": "Kaposmérő, Dózsa György utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kaposmérőn",
+          "datetime": "2026.10.13. 23:19",
+          "category": "Tűzeset",
+          "text": "A kaposvári hivatásos tűzoltók megfékezték a lángokat Kaposmérőn, ahol egy harminc négyzetméteres üvegház égett teljes egészében a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. Az üvegházban kerti tárgyakat, míg a garázsban autóalkatrészeket és fáradt olajat tároltak. Az egységek három vízsugárral és kéziszerszámokkal dolgoztak a lángok elfojtásán, megkezdték a garázsban tárolt szekrények kipakolását.",
+          "location": "Kaposmérő, Dózsa György utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92829"
+        }
+      ]
     },
     {
       "id": "92828",
@@ -280,9 +289,9 @@
       "title": "Autó égett Nagyvarsányban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92820",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi Ferenc utcában csaptak fel a lángok, amelyeket elfojtottak a tűzoltók.",
+      "body": "Kigyulladt egy kisteherautó Nagyvarsányban, a Rákóczi Ferenc utcában, a Kis köz közelében. Teljes terjedelmében égett a rakomány nélküli jármű vezetőfülkéje. A vásárosnaményi önkormányzati tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A beavatkozás idejére teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Nagyvarsány, Rákóczi Ferenc utca",
       "updates": []
     },
     {
