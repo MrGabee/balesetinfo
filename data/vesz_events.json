@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T15:25:09.446806+00:00",
-  "count": 3282,
+  "updated_at": "2026-10-14T15:28:58.973334+00:00",
+  "count": 3283,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92844",
+      "datetime": "2026.10.14. 17:27",
+      "title": "Tűz ütött ki Érden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92844",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92843",
       "datetime": "2026.10.14. 15:15",
@@ -117,9 +128,9 @@
       "title": "Összeütközött két autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92834",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két gépkocsi Szigetszentmiklóson, a Leshegy utca és az 5103-as út kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítanak. A balesethez a mentők is kiérkeztek.",
+      "location": "Szigetszentmiklós, Leshegy utca",
       "updates": []
     },
     {
