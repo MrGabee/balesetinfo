@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T13:12:29.758145+00:00",
-  "count": 3281,
+  "updated_at": "2026-10-14T13:16:28.184257+00:00",
+  "count": 3282,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92843",
+      "datetime": "2026.10.14. 15:15",
+      "title": "Összeütközött két autó a 47-es főúton, Derecskénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92843",
+      "lead": "Az egyik járműből a tűzoltók mentettek ki egy embert.",
+      "body": "Karambolozott két személyautó Derecske határában, a 47-es főút Sáránd felé vezető szakaszán. Mindkét jármű az árokba csapódott. Az egyikbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző berettyóújfalui hivatásos tűzoltók. A raj áramtalanította a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Derecske, Vasút utca",
+      "updates": []
+    },
     {
       "id": "92842",
       "datetime": "2026.10.14. 14:22",
@@ -75,19 +86,10 @@
       "title": "Tetőszerkezet ég Zsámbékon",
       "category": "Tetőszerkezet ég Zsámbékon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836",
-      "lead": "A Mányi úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
-      "location": "Zsámbék, Mányi út",
-      "updates": [
-        {
-          "title": "Már nem lángol a tűz Zsámbékon",
-          "datetime": "2026.10.14. 08:54",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
-          "location": "Zsámbék, Mányi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92835",
@@ -203,9 +205,9 @@
       "title": "Oldalára borult egy kamion Sásdon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92826",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek a sofőrnek kiszállni a járműből.",
+      "body": "Defekt miatt kicsúszott a kanyarban, majd oldalára borult egy kamion Sásdon, a Szent Imre út és a Rákóczi Ferenc út találkozásánál. A járműben csak a vezetője utazott, aki a sásdi hivatásos tűzoltók segítségével tudta elhagyni a kamiont. A balesethez a társhatóság is kiérkezett.",
+      "location": "Sásd, Szent Imre út",
       "updates": []
     },
     {
@@ -322,9 +324,9 @@
       "title": "Kombájn gumihevedere égett Mezőhegyes és Végegyháza között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92816",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz a tarlóra is átterjedt.",
+      "body": "Egy kombájn gumihevedere égett Mezőhegyes és Végegyháza között, a 4434-es út melletti területen. A tűz a gép környezetében a tarlóra is átterjedt, és a lábon álló gabonát is veszélyeztette. A mezőkovácsházi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, jelenleg az utómunkálatokat végzik. A területre érkezett egy munkagép, amely körbetárcsázza az érintett részt.",
+      "location": "Mezőhegyes, Kamaráspuszta major",
       "updates": []
     },
     {
