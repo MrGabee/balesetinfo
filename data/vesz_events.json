@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T06:55:45.792857+00:00",
+  "updated_at": "2026-10-14T06:59:31.020908+00:00",
   "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -73,9 +73,9 @@
       "title": "Elgázolt egy embert a vonat Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92831",
-      "lead": "A tűzoltók az utasok biztonságos átszállásában segítettek.",
-      "body": "Elgázolt egy embert egy személyvonat Debrecenben, a Vértesi úti vasúti átjárótól hétszáz méterre. A szerelvény mintegy ötven utasáért mentesítő járat érkezett. A debreceni hivatásos tűzoltók a biztonságos átszállásban nyújtottak segítséget az utasoknak, akik így tovább folytathatták útjukat. Az érintett vasúti szakaszon egy pályán halad a forgalom a baleset miatt.",
-      "location": "Debrecen, István út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -148,9 +148,9 @@
       "title": "Árokba hajtott egy motoros Girincsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92825",
-      "lead": "A jármű egy táblát is kidöntött a baleset következtében.",
-      "body": "Árokba hajtott egy motorkerékpáros Girincs térségében, a 3607-es út 18-as kilométerszelvényénél. A motoros a baleset következtében egy közlekedési táblát is kidöntött. A helyszínre a tiszaújvárosi hivatásos tűzoltók mellett a társhatóságok is kiérkeztek.",
-      "location": "Girincs, 3607",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -195,7 +195,16 @@
       "lead": "A tűzoltók porral oltókkal oltják a lángokat.",
       "body": "Egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg egy üzem csarnoképületében, a győri Hűtőház utcában. A tűz átterjedt az épület tetőszigetelésére. A győri hivatásos tűzoltók a kifolyt olajat habtakarással lefedték, míg a tetőszigetelés tüzének megfékezésén porral oltókkal dolgoznak. Az egységek a munkálatok közben megbontják az épület tetőszerkezetét.",
       "location": "Győr, Hűtőház utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a győri üzemcsarnok tetőszigetelésének tüzét",
+          "datetime": "2026.10.13. 16:27",
+          "category": "Tűzeset",
+          "text": "A győri hivatásos tűzoltók megfékezték a tüzet városukban, ahol egy üzem csarnoképületének tetőszerkezetén a kémény melletti szigetelés égett, valamint a szendvicspanel hőszigetelés füstölt a Hűtőház utcában. Korábban egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg az épületben, innen terjedt át a tűz a tetőszigetelésre. Az egységek a kifolyt olajat habtakarással lefedték, majd felfogó edénybe gyűjtötték. Az oltási munkálatokat porral oltókkal kezdték, majd két habosított vízsugárral folytatták. Az üzem kilencvenöt dolgozója a tűzoltók kiérkezése előtt elhagyta az épületet.",
+          "location": "Győr, Hűtőház utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92821/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92821"
+        }
+      ]
     },
     {
       "id": "92820",
@@ -203,9 +212,9 @@
       "title": "Autó égett Nagyvarsányban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92820",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi Ferenc utcában csaptak fel a lángok, amelyeket elfojtottak a tűzoltók.",
+      "body": "Kigyulladt egy kisteherautó Nagyvarsányban, a Rákóczi Ferenc utcában, a Kis köz közelében. Teljes terjedelmében égett a rakomány nélküli jármű vezetőfülkéje. A vásárosnaményi önkormányzati tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A beavatkozás idejére teljes szélességében lezárták az érintett útszakaszt.",
+      "location": "Nagyvarsány, Rákóczi Ferenc utca",
       "updates": []
     },
     {
@@ -258,9 +267,9 @@
       "title": "Motorossal karambolozott egy autó Solymáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92815",
-      "lead": "Félpályán lezárták az érintett útszakaszt a Vasút utcai körforgalomnál.",
-      "body": "Motorkerékpárossal ütközött össze egy gépkocsi Solymáron, a Vasút utca és a Valkó út körforgalmánál. A solymári önkéntes tűzoltók áramtalanították a járműveket, valamint a társhatóságokat várják a helyszínre. A baleset miatt félpályán lezárták az érintett útszakaszt, ezért a közösségi közlekedési társaságok értesítését is kérték.",
-      "location": "Solymár, Vasút utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -269,9 +278,9 @@
       "title": "Ráfutásos baleset történt Vásárosnaményban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92814",
-      "lead": "A Jókai Mór úton kell beavatkozniuk a tűzoltóknak.",
-      "body": "Egymásnak ütközött két személyautó Vásárosnaményban, a Jókai Mór úton, azaz a 41-es főút belterületi szakaszán. Utoléréses baleset történt, amelynél a város önkormányzati tűzoltói végzik a műszaki mentést. A raj áramtalanította az egyik járművet. Az érintett útszakaszt félpályán lezárták.",
-      "location": "Vásárosnamény, Jókai Mór út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -419,9 +428,9 @@
       "title": "Lakás égett a XX. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92802",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy több lakásból álló ház egyik lakásában keletkezett tűz a XX. kerületi Bessenyei utcában. A fővárosi hivatásos tűzoltók kiérkezése előtt a négy lakó időben elhagyta az ingatlant. Az egységek két vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik. Az oltási munkálatok közben kihoztak az épületből egy gázpalackot. Az érintett lakás négy lakója, valamint a szomszédos ingatlan három lakója hozzátartozóknál kap elszállásolást.",
+      "location": "Budapest, Bessenyei utca",
       "updates": []
     },
     {
