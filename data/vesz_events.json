@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T05:52:28.913090+00:00",
-  "count": 3273,
+  "updated_at": "2026-10-14T05:56:18.242486+00:00",
+  "count": 3274,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92835",
+      "datetime": "2026.10.14. 07:53",
+      "title": "Teljes terjedelmében égett egy autó Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92835",
+      "lead": "A Pécsi utcában forgalomkorlátozásra kell számítani.",
+      "body": "Teljes terjedelmében égett egy személyautó Kaposváron, a Pécsi utcában, a Zöldfa utca közelében. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposvár, Pécsi utca",
+      "updates": []
+    },
     {
       "id": "92834",
       "datetime": "2026.10.14. 07:36",
