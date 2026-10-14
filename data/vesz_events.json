@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T04:17:57.160996+00:00",
-  "count": 3270,
+  "updated_at": "2026-10-14T04:21:13.360378+00:00",
+  "count": 3271,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92832",
+      "datetime": "2026.10.14. 06:20",
+      "title": "Vadat gázolt egy autó a 82-esen, Zirc és Olaszfalu között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92832",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Vadat gázolt el egy autó a 82-es főút 18-as kilométerszelvényénél, Zirc és Olaszfalu között. A járműben csak a vezetője utazott. A zirci önkormányzati tűzoltók a helyszínelést követően megszüntetik a forgalmi akadályt.",
+      "location": "Zirc, 82",
+      "updates": []
+    },
     {
       "id": "92831",
       "datetime": "2026.10.14. 06:16",
