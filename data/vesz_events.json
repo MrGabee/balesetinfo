@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-14T06:10:28.629176+00:00",
-  "count": 3274,
+  "updated_at": "2026-10-14T06:13:51.620713+00:00",
+  "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92836",
+      "datetime": "2026.10.14. 08:10",
+      "title": "Tetőszerkezet ég Zsámbékon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836",
+      "lead": "A Mányi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
+      "location": "Zsámbék, Mányi út",
+      "updates": []
+    },
     {
       "id": "92835",
       "datetime": "2026.10.14. 07:53",
       "title": "Teljes terjedelmében égett egy autó Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92835",
-      "lead": "A Pécsi utcában forgalomkorlátozásra kell számítani.",
-      "body": "Teljes terjedelmében égett egy személyautó Kaposváron, a Pécsi utcában, a Zöldfa utca közelében. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kaposvár, Pécsi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -236,9 +247,9 @@
       "title": "Kombájn gumihevedere égett Mezőhegyes és Végegyháza között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92816",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűz a tarlóra is átterjedt.",
+      "body": "Egy kombájn gumihevedere égett Mezőhegyes és Végegyháza között, a 4434-es út melletti területen. A tűz a gép környezetében a tarlóra is átterjedt, és a lábon álló gabonát is veszélyeztette. A mezőkovácsházi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, jelenleg az utómunkálatokat végzik. A területre érkezett egy munkagép, amely körbetárcsázza az érintett részt.",
+      "location": "Mezőhegyes, Kamaráspuszta major",
       "updates": []
     },
     {
