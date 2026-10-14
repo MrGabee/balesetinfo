@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T11:59:53.265391+00:00",
-  "count": 3279,
+  "updated_at": "2026-10-14T12:03:24.653824+00:00",
+  "count": 3280,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92841",
+      "datetime": "2026.10.14. 14:00",
+      "title": "Autótűz Pécsen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92841",
+      "lead": "A Vadász utcában csaptak fel a lángok.",
+      "body": "Lángra kapott egy személyautó Pécsen, a Vadász utcában, az Engel János József utca közelében. Teljes terjedelmében égett a jármű. A város hivatásos tűzoltói eloltották a tüzet, és megkezdték az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Pécs, Vadász utca",
+      "updates": []
+    },
     {
       "id": "92840",
       "datetime": "2026.10.14. 13:37",
@@ -56,7 +67,16 @@
       "lead": "A Mányi úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
       "location": "Zsámbék, Mányi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol a tűz Zsámbékon",
+          "datetime": "2026.10.14. 08:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
+          "location": "Zsámbék, Mányi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
+        }
+      ]
     },
     {
       "id": "92835",
@@ -97,9 +117,9 @@
       "title": "Vadat gázolt egy autó a 82-esen, Zirc és Olaszfalu között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92832",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt.",
+      "body": "Vadat gázolt el egy autó a 82-es főút 18-as kilométerszelvényénél, Zirc és Olaszfalu között. A járműben csak a vezetője utazott. A zirci önkormányzati tűzoltók a helyszínelést követően megszüntetik a forgalmi akadályt.",
+      "location": "Zirc, 82",
       "updates": []
     },
     {
@@ -205,9 +225,9 @@
       "title": "Szarvast gázolt egy autó Zámoly térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92823",
-      "lead": "Félpályán forgalmi akadály alakult ki a 8126-os út érintett szakaszán.",
-      "body": "Szarvast gázolt el egy gépkocsi a 8126-os út 12-es kilométerszelvényénél, Zámoly térségében. Az ütközés következtében az állat az árokba került, a jármű az úttesten maradt. A székesfehérvári hivatásos tűzoltók érkeztek a helyszínre, megszüntették a forgalmi akadályt, illetve eltávolítják az úttestre került szennyeződést.",
-      "location": "Zámoly, 8126",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
