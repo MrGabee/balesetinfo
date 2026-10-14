@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T08:52:06.808444+00:00",
-  "count": 3275,
+  "updated_at": "2026-10-14T08:56:02.378056+00:00",
+  "count": 3276,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92837",
+      "datetime": "2026.10.14. 10:53",
+      "title": "Karambol Kecskeméten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92837",
+      "lead": "A Március 15. utca és a Tömörkény István utca kereszteződésében félpályán halad a forgalom.",
+      "body": "Kisteherautó és egy személygépkocsi ütközött össze Kecskeméten, a Március 15. utca és a Tömörkény István utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították az egyik járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, Március 15. utca",
+      "updates": []
+    },
     {
       "id": "92836",
       "datetime": "2026.10.14. 08:10 -",
@@ -40,9 +51,9 @@
       "title": "Összeütközött két autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92834",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Összeütközött két gépkocsi Szigetszentmiklóson, a Leshegy utca és az 5103-as út kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítanak. A balesethez a mentők is kiérkeztek.",
-      "location": "Szigetszentmiklós, Leshegy utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -115,9 +126,9 @@
       "title": "Menet közben gyulladt ki egy autó Debrecenben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92828",
-      "lead": "A vezető időben el tudta hagyni a járművet.",
-      "body": "Menet közben gyulladt ki egy gépkocsi Debrecenben, a Monti Ezredes utcában. A járműben csak a vezetője utazott, aki időben ki tudott szállni. A debreceni hivatásos tűzoltók két vízsugárral oltották el a teljes egészében égő kocsi lángjait, jelenleg már az utómunkálatokat végzik.",
-      "location": "Debrecen, Monti Ezredes utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -386,9 +397,9 @@
       "title": "Összeütközött két autó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92805",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták a Diószegi út érintett szakaszát",
+      "body": "Két gépkocsi karambolozott Debrecenben, a Diószegi úton, a Lahner utcai kereszteződésnél. A járművekben csak a vezetők utaztak. A debreceni hivatásos tűzoltók mellett a társhatóság is kiérkezett a helyszínre, ahol félpályán lezárták az érintett útszakaszt.",
+      "location": "Debrecen, Diószegi út",
       "updates": []
     },
     {
