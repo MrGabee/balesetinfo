@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T07:25:04.534258+00:00",
+  "updated_at": "2026-10-14T07:28:31.437567+00:00",
   "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -40,9 +40,9 @@
       "title": "Összeütközött két autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92834",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két gépkocsi Szigetszentmiklóson, a Leshegy utca és az 5103-as út kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítanak. A balesethez a mentők is kiérkeztek.",
+      "location": "Szigetszentmiklós, Leshegy utca",
       "updates": []
     },
     {
@@ -400,16 +400,7 @@
       "lead": "A tűzoltók a Hársfa utcában oltják a lángokat.",
       "body": "Tűz keletkezett egy műhelyként használt garázsban, Tuzséron, a Hársfa utcában. Teljes terjedelmében ég a több mint hetven négyzetméteres, fa szerkezetű épület. A kisvárdai és a záhonyi hivatásos tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok kihoztak az ingatlanból egy motorkerékpárt és - a hozzá tartozó üzemanyaggal együtt - egy fűnyírót is.",
       "location": "Tuzsér, Hársfa utca",
-      "updates": [
-        {
-          "title": "Eloltották a tüzet Tuzséron",
-          "datetime": "2026.10.13. 10:17",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Tuzséron, a Hársfa utcában keletkezett. Egy műhelyként használt, több mint hetven négyzetméteres, fa szerkezetű garázs gyulladt ki és égett teljes terjedelmében. A lángokat a kisvárdai és a záhonyi hivatásos tűzoltók fékezték meg. A beavatkozást egy ideig a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányította. A rajok több gépet, berendezést kihoztak az ingatlanból, megbontották a tetőszerkezetet, és megkezdték az utómunkálatokat.",
-          "location": "Tuzsér, Hársfa utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92804"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92803",
