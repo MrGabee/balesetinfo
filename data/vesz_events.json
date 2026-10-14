@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:42:19.091527+00:00",
+  "updated_at": "2026-10-14T12:46:05.843155+00:00",
   "count": 3281,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Teljes terjedelmében égett egy autó Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92835",
-      "lead": "A Pécsi utcában forgalomkorlátozásra kell számítani.",
-      "body": "Teljes terjedelmében égett egy személyautó Kaposváron, a Pécsi utcában, a Zöldfa utca közelében. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kaposvár, Pécsi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -161,10 +161,19 @@
       "title": "Üvegház és garázs ég Kaposmérőn",
       "category": "Üvegház és garázs ég Kaposmérőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Egy harminc négyzetméteres üvegház ég teljes egészében Kaposmérőn, a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. A kaposvári hivatásos tűzoltók érkeztek a helyszínre, két vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
+      "location": "Kaposmérő, Dózsa György utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kaposmérőn",
+          "datetime": "2026.10.13. 23:19",
+          "category": "Tűzeset",
+          "text": "A kaposvári hivatásos tűzoltók megfékezték a lángokat Kaposmérőn, ahol egy harminc négyzetméteres üvegház égett teljes egészében a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. Az üvegházban kerti tárgyakat, míg a garázsban autóalkatrészeket és fáradt olajat tároltak. Az egységek három vízsugárral és kéziszerszámokkal dolgoztak a lángok elfojtásán, megkezdték a garázsban tárolt szekrények kipakolását.",
+          "location": "Kaposmérő, Dózsa György utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92829"
+        }
+      ]
     },
     {
       "id": "92828",
