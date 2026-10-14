@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T21:34:52.374729+00:00",
-  "count": 3290,
+  "updated_at": "2026-10-14T21:38:21.296137+00:00",
+  "count": 3291,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92852",
+      "datetime": "2026.10.14. 23:35",
+      "title": "Tűz volt Csanyteleken",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92852",
+      "lead": "A Petőfi utcában oltották el a lángokat.",
+      "body": "Lakóházzal egybeépített melléképület égett Csanyteleken, a Petőfi utcában. A tűz a főépület tetőszerkezetére is átterjedt. A lángokat a kisteleki és csongárdi hivatásos, valamint a csanyteleki önkéntes tűzoltók oltották el.",
+      "location": "Csanytelek, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92851",
       "datetime": "2026.10.14. 22:05",
