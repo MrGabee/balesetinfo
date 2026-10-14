@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T13:08:51.603687+00:00",
+  "updated_at": "2026-10-14T13:12:29.758145+00:00",
   "count": 3281,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -203,9 +203,9 @@
       "title": "Oldalára borult egy kamion Sásdon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92826",
-      "lead": "A tűzoltók segítettek a sofőrnek kiszállni a járműből.",
-      "body": "Defekt miatt kicsúszott a kanyarban, majd oldalára borult egy kamion Sásdon, a Szent Imre út és a Rákóczi Ferenc út találkozásánál. A járműben csak a vezetője utazott, aki a sásdi hivatásos tűzoltók segítségével tudta elhagyni a kamiont. A balesethez a társhatóság is kiérkezett.",
-      "location": "Sásd, Szent Imre út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -322,9 +322,9 @@
       "title": "Kombájn gumihevedere égett Mezőhegyes és Végegyháza között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92816",
-      "lead": "A tűz a tarlóra is átterjedt.",
-      "body": "Egy kombájn gumihevedere égett Mezőhegyes és Végegyháza között, a 4434-es út melletti területen. A tűz a gép környezetében a tarlóra is átterjedt, és a lábon álló gabonát is veszélyeztette. A mezőkovácsházi hivatásos tűzoltók egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, jelenleg az utómunkálatokat végzik. A területre érkezett egy munkagép, amely körbetárcsázza az érintett részt.",
-      "location": "Mezőhegyes, Kamaráspuszta major",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -463,10 +463,19 @@
       "title": "Kigyulladt egy garázs Tuzséron",
       "category": "Kigyulladt egy garázs Tuzséron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Hársfa utcában oltják a lángokat.",
+      "body": "Tűz keletkezett egy műhelyként használt garázsban, Tuzséron, a Hársfa utcában. Teljes terjedelmében ég a több mint hetven négyzetméteres, fa szerkezetű épület. A kisvárdai és a záhonyi hivatásos tűzoltók a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok kihoztak az ingatlanból egy motorkerékpárt és - a hozzá tartozó üzemanyaggal együtt - egy fűnyírót is.",
+      "location": "Tuzsér, Hársfa utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Tuzséron",
+          "datetime": "2026.10.13. 10:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Tuzséron, a Hársfa utcában keletkezett. Egy műhelyként használt, több mint hetven négyzetméteres, fa szerkezetű garázs gyulladt ki és égett teljes terjedelmében. A lángokat a kisvárdai és a záhonyi hivatásos tűzoltók fékezték meg. A beavatkozást egy ideig a Szabolcs-Szatmár-Bereg vármegyei katasztrófavédelmi műveleti szolgálat irányította. A rajok több gépet, berendezést kihoztak az ingatlanból, megbontották a tetőszerkezetet, és megkezdték az utómunkálatokat.",
+          "location": "Tuzsér, Hársfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92804/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92804"
+        }
+      ]
     },
     {
       "id": "92803",
