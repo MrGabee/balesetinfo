@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T20:02:21.879837+00:00",
-  "count": 3289,
+  "updated_at": "2026-10-14T20:06:11.719836+00:00",
+  "count": 3290,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92851",
+      "datetime": "2026.10.14. 22:05",
+      "title": "Autó égett a 47-es főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92851",
+      "lead": "Szeged és Algyő között lezárták az utat.",
+      "body": "Kigyulladt egy személyautó a 47-es főút Szeged és Algyő közötti szakaszán, a 216-os kilométerszelvénye közelében. A lángokat a szegedi hivatásos tűzoltók oltották el, két vízsugárral. A főút Algyő felé vezető oldalát lezárták a beavatkozás idejére.",
+      "location": "Algyő, 47",
+      "updates": []
+    },
     {
       "id": "92850",
       "datetime": "2026.10.14. 21:32",
