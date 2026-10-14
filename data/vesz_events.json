@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T05:28:05.624633+00:00",
-  "count": 3271,
+  "updated_at": "2026-10-14T05:31:27.530772+00:00",
+  "count": 3272,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92833",
+      "datetime": "2026.10.14. 07:29",
+      "title": "Hármas karambol történt az M5-ösön, Kecskemétnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92833",
+      "lead": "Az egyik jármű árokba borult az ütközés következtében.",
+      "body": "Két személyautó és egy furgon ütközött össze az M5-ös autópálya 96-os kilométerszelvényénél, Kecskemét térségében, a Kiskunfélegyháza felé vezető irányban. Az ütközés erejétől a furgon az árokba borult, a két személyautó a belső sávban okoz forgalmi akadályt. A kecskeméti hivatásos tűzoltók és a társhatóságok megkezdték a munkálatokat a helyszínen.",
+      "location": "Kecskemét, M5",
+      "updates": []
+    },
     {
       "id": "92832",
       "datetime": "2026.10.14. 06:20",
