@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T04:14:28.220997+00:00",
-  "count": 3269,
+  "updated_at": "2026-10-14T04:17:57.160996+00:00",
+  "count": 3270,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92831",
+      "datetime": "2026.10.14. 06:16",
+      "title": "Elgázolt egy embert a vonat Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92831",
+      "lead": "A tűzoltók az utasok biztonságos átszállásában segítettek.",
+      "body": "Elgázolt egy embert egy személyvonat Debrecenben, a Vértesi úti vasúti átjárótól hétszáz méterre. A szerelvény mintegy ötven utasáért mentesítő járat érkezett. A debreceni hivatásos tűzoltók a biztonságos átszállásban nyújtottak segítséget az utasoknak, akik így tovább folytathatták útjukat. Az érintett vasúti szakaszon egy pályán halad a forgalom a baleset miatt.",
+      "location": "Debrecen, István út",
+      "updates": []
+    },
     {
       "id": "92830",
       "datetime": "2026.10.13. 23:31",
