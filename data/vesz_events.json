@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T13:56:48.977745+00:00",
+  "updated_at": "2026-10-14T14:00:38.663448+00:00",
   "count": 3282,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -89,7 +89,16 @@
       "lead": "A Mányi úton dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
       "location": "Zsámbék, Mányi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol a tűz Zsámbékon",
+          "datetime": "2026.10.14. 08:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
+          "location": "Zsámbék, Mányi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
+        }
+      ]
     },
     {
       "id": "92835",
@@ -260,10 +269,19 @@
       "title": "Egy üzemcsarnok tetőszigetelése ég Győrben",
       "category": "Egy üzemcsarnok tetőszigetelése ég Győrben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92821",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók porral oltókkal oltják a lángokat.",
+      "body": "Egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg egy üzem csarnoképületében, a győri Hűtőház utcában. A tűz átterjedt az épület tetőszigetelésére. A győri hivatásos tűzoltók a kifolyt olajat habtakarással lefedték, míg a tetőszigetelés tüzének megfékezésén porral oltókkal dolgoznak. Az egységek a munkálatok közben megbontják az épület tetőszerkezetét.",
+      "location": "Győr, Hűtőház utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a győri üzemcsarnok tetőszigetelésének tüzét",
+          "datetime": "2026.10.13. 16:27",
+          "category": "Tűzeset",
+          "text": "A győri hivatásos tűzoltók megfékezték a tüzet városukban, ahol egy üzem csarnoképületének tetőszerkezetén a kémény melletti szigetelés égett, valamint a szendvicspanel hőszigetelés füstölt a Hűtőház utcában. Korábban egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg az épületben, innen terjedt át a tűz a tetőszigetelésre. Az egységek a kifolyt olajat habtakarással lefedték, majd felfogó edénybe gyűjtötték. Az oltási munkálatokat porral oltókkal kezdték, majd két habosított vízsugárral folytatták. Az üzem kilencvenöt dolgozója a tűzoltók kiérkezése előtt elhagyta az épületet.",
+          "location": "Győr, Hűtőház utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92821/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92821"
+        }
+      ]
     },
     {
       "id": "92820",
@@ -304,9 +322,9 @@
       "title": "Égett egy melléképület Poroszlón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92817",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megfékezték a lángokat a Szabadság úton.",
+      "body": "Kigyulladt egy melléképület Poroszlón, a Szabadság út és a Feszty Árpád utca közötti területen. Teljes terjedelmében égett a mintegy ötven négyzetméteres építmény. A tiszafüredi hivatásos tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat.",
+      "location": "Poroszló, Szabadság út",
       "updates": []
     },
     {
