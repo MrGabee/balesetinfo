@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T12:21:18.940953+00:00",
-  "count": 3280,
+  "updated_at": "2026-10-14T12:24:53.166862+00:00",
+  "count": 3281,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92842",
+      "datetime": "2026.10.14. 14:22",
+      "title": "Hármas karambol Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92842",
+      "lead": "A Kosbor és a Mérleg utca kereszteződésénél dolgoznak a tűzoltók.",
+      "body": "Összeütközött három személyautó Nyíregyházán, a Kosbor és a Mérleg utca kereszteződésénél. A város hivatásos tűzoltói végzik a műszaki mentést a balesetnél, amely akadályozza a forgalmat. A raj áramtalanított két gépkocsit, a harmadiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, Mérleg utca",
+      "updates": []
+    },
     {
       "id": "92841",
       "datetime": "2026.10.14. 14:00",
