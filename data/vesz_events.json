@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-14T11:33:50.574062+00:00",
-  "count": 3278,
+  "updated_at": "2026-10-14T11:37:39.160903+00:00",
+  "count": 3279,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92840",
+      "datetime": "2026.10.14. 13:37",
+      "title": "Égett egy autó Mezőkovácsházán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92840",
+      "lead": "A tűzoltók a Szabadság utcában fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személyautó Mezőkovácsházán, a Szabadság utcában. A város hivatásos tűzoltói áramtalanították a gépkocsit, két vízsugárral eloltották a lángokat, és megkezdték az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Mezőkovácsháza, Szabadság utca",
+      "updates": []
+    },
     {
       "id": "92839",
       "datetime": "2026.10.14. 13:22",
