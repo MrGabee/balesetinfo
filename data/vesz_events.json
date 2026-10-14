@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:48:42.037131+00:00",
+  "updated_at": "2026-10-14T08:52:06.808444+00:00",
   "count": 3275,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -344,10 +344,19 @@
       "title": "Ég egy melléképület Zalalövőn",
       "category": "Ég egy melléképület Zalalövőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Bartók Béla utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy melléképület Zalalövőn, a Bartók Béla utcában. Teljes terjedelmében ég az építmény, amely egy lakóházhoz csatlakozik. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Zala vármegyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Zalalövő, Bartók Béla utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik a zalalövői tűznél",
+          "datetime": "2026.10.13. 12:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zalalövőn, a Bartók Béla utcában, ahol kigyulladt és teljes terjedelmében égett egy lakóházhoz csatlakozó melléképület. A zalaegerszegi és a körmendi hivatásos, valamint a helyi önkéntes tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat, amelyek a lakóépületre nem terjedtek át. A rajok megkezdték az utómunkálatokat.",
+          "location": "Zalalövő, Bartók Béla utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92808/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92808"
+        }
+      ]
     },
     {
       "id": "92807",
@@ -377,9 +386,9 @@
       "title": "Összeütközött két autó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92805",
-      "lead": "Félpályán lezárták a Diószegi út érintett szakaszát",
-      "body": "Két gépkocsi karambolozott Debrecenben, a Diószegi úton, a Lahner utcai kereszteződésnél. A járművekben csak a vezetők utaztak. A debreceni hivatásos tűzoltók mellett a társhatóság is kiérkezett a helyszínre, ahol félpályán lezárták az érintett útszakaszt.",
-      "location": "Debrecen, Diószegi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
