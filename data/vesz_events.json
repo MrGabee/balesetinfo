@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T06:58:23.734027+00:00",
-  "count": 3295,
+  "updated_at": "2026-10-15T07:01:16.034865+00:00",
+  "count": 3296,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92857",
+      "datetime": "2026.10.15. 09:01",
+      "title": "Autótűz az M5-ösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92857",
+      "lead": "Kecskemét közelében volt szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy személygépkocsi az M5-ös autópálya Budapest felé vezető oldalán, Kecskemét közelében, a 82. és a 83. kilométer között. A jármű tulajdonosa megkezdte a tűz oltását, amelyet a kecskeméti hivatásos tűzoltók fejeztek be. A raj utómunkálatokat végez. A gépkocsi nem akadályozza a sztráda forgalmát.",
+      "location": "Kecskemét, M5",
+      "updates": []
+    },
     {
       "id": "92856",
       "datetime": "2026.10.15. 08:35",
