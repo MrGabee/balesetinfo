@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T13:19:02.326045+00:00",
-  "count": 3302,
+  "updated_at": "2026-10-15T13:22:42.999590+00:00",
+  "count": 3303,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92864",
+      "datetime": "2026.10.15. 15:22",
+      "title": "Karambol a 85-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92864",
+      "lead": "Fertőendréd határában forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Fertőendréd határában, a 85-ös főút és az Ipar út elágazásánál. Összesen öten utaztak a járművekben, amelyeket áramtalanítanak a kapuvári hivatásos tűzoltók. Az egyik gépkocsi részben, a másik teljes egészében a 85-ös főúton van, így ott váltakozó irányban, egy sávon halad a forgalom.",
+      "location": "Fertőendréd, 85",
+      "updates": []
+    },
     {
       "id": "92863",
       "datetime": "2026.10.15. 13:31",
