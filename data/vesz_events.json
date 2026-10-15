@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T12:33:12.405382+00:00",
+  "updated_at": "2026-10-15T12:36:46.826311+00:00",
   "count": 3302,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Összeütközött három gépkocsi Vácon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92862",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szent László útra riasztották a tűzoltókat, akik egy embert kimentettek az egyik járműből.",
+      "body": "Karambolozott három gépkocsi Vácon, a Szent László út, azaz a 2-es főút és a Gödöllői út kereszteződésében. Az egyik járműbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző váci hivatásos tűzoltók. A baleset helyszínén forgalmi akadály van.",
+      "location": "Vác, Szent László út, Gödöllői út",
       "updates": []
     },
     {
@@ -161,9 +161,9 @@
       "title": "Fának hajtott egy autó Budapest XIX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92850",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hoffherr Albert utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Fának hajtott egy személyautó Budapest XIX. kerületében, a Hoffherr Albert utcában, a Puskás Ferenc utca közelében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Hofherr Albert utca",
       "updates": []
     },
     {
@@ -346,9 +346,9 @@
       "title": "Összeütközött két autó Szigetszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92834",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két gépkocsi Szigetszentmiklóson, a Leshegy utca és az 5103-as út kereszteződésénél. Csak a vezetők utaztak a járművekben, amelyeket a város hivatásos tűzoltói áramtalanítanak. A balesethez a mentők is kiérkeztek.",
+      "location": "Szigetszentmiklós, Leshegy utca",
       "updates": []
     },
     {
@@ -401,10 +401,19 @@
       "title": "Üvegház és garázs ég Kaposmérőn",
       "category": "Üvegház és garázs ég Kaposmérőn",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Egy harminc négyzetméteres üvegház ég teljes egészében Kaposmérőn, a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. A kaposvári hivatásos tűzoltók érkeztek a helyszínre, két vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
+      "location": "Kaposmérő, Dózsa György utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kaposmérőn",
+          "datetime": "2026.10.13. 23:19",
+          "category": "Tűzeset",
+          "text": "A kaposvári hivatásos tűzoltók megfékezték a lángokat Kaposmérőn, ahol egy harminc négyzetméteres üvegház égett teljes egészében a Dózsa György utcában. A tűz átterjedt a szomszéd telken álló húsz négyzetméteres garázsra. Az üvegházban kerti tárgyakat, míg a garázsban autóalkatrészeket és fáradt olajat tároltak. Az egységek három vízsugárral és kéziszerszámokkal dolgoztak a lángok elfojtásán, megkezdték a garázsban tárolt szekrények kipakolását.",
+          "location": "Kaposmérő, Dózsa György utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92829/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92829"
+        }
+      ]
     },
     {
       "id": "92828",
@@ -412,9 +421,9 @@
       "title": "Menet közben gyulladt ki egy autó Debrecenben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92828",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A vezető időben el tudta hagyni a járművet.",
+      "body": "Menet közben gyulladt ki egy gépkocsi Debrecenben, a Monti Ezredes utcában. A járműben csak a vezetője utazott, aki időben ki tudott szállni. A debreceni hivatásos tűzoltók két vízsugárral oltották el a teljes egészében égő kocsi lángjait, jelenleg már az utómunkálatokat végzik.",
+      "location": "Debrecen, Monti Ezredes utca",
       "updates": []
     },
     {
@@ -423,9 +432,9 @@
       "title": "Baleset történt az M4-esen, Monornál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92827",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták az érintett útszakaszt a Szolnok felé vezető irányban.",
+      "body": "Egy utánfutós gépkocsi karambolozott egy másik járművel az M4-es autóút 37-es kilométerszelvényénél, Monor térségében, a Szolnok felé vezető irányban. Összesen öten utaztak a kocsikban, amelyeket a monori hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Monor, M4",
       "updates": []
     },
     {
@@ -434,9 +443,9 @@
       "title": "Oldalára borult egy kamion Sásdon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92826",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek a sofőrnek kiszállni a járműből.",
+      "body": "Defekt miatt kicsúszott a kanyarban, majd oldalára borult egy kamion Sásdon, a Szent Imre út és a Rákóczi Ferenc út találkozásánál. A járműben csak a vezetője utazott, aki a sásdi hivatásos tűzoltók segítségével tudta elhagyni a kamiont. A balesethez a társhatóság is kiérkezett.",
+      "location": "Sásd, Szent Imre út",
       "updates": []
     },
     {
@@ -445,9 +454,9 @@
       "title": "Árokba hajtott egy motoros Girincsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92825",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű egy táblát is kidöntött a baleset következtében.",
+      "body": "Árokba hajtott egy motorkerékpáros Girincs térségében, a 3607-es út 18-as kilométerszelvényénél. A motoros a baleset következtében egy közlekedési táblát is kidöntött. A helyszínre a tiszaújvárosi hivatásos tűzoltók mellett a társhatóságok is kiérkeztek.",
+      "location": "Girincs, 3607",
       "updates": []
     },
     {
@@ -456,9 +465,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Érsekvadkerten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92824",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű kidöntötte az oszlopot, majd árokba hajtott.",
+      "body": "Villanyoszlopnak ütközött, majd árokba hajtott egy gépkocsi Érsekvadkerten, a Rákóczi út és a Mikszáth Kálmán út sarkán. A baleset következtében a jármű kidöntötte az oszlopot. A műszaki mentési munkálatokhoz a rétsági hivatásos és az érsekvadkerti önkéntes tűzoltók érkeztek ki, és a mentőket is a helyszínre kérték. A kidöntött oszlop miatt az áramszolgáltató szakembereit is értesítették.",
+      "location": "Érsekvadkert, Rákóczi út",
       "updates": []
     },
     {
