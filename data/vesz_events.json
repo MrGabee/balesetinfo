@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T04:24:26.837096+00:00",
-  "count": 3291,
+  "updated_at": "2026-10-15T04:27:41.763657+00:00",
+  "count": 3292,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92853",
+      "datetime": "2026.10.15. 06:25",
+      "title": "Családi ház égett Békéscsabán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92853",
+      "lead": "A Nagy Sándor utcában csaptak fel a lángok.",
+      "body": "Teljes terjedelmében égett egy lakóépület és egy melléképület Békéscsabán, a Nagy Sándor utcában. A békéscsabai és gyulai hivatásos tűzoltók két gázpalackot hoztak ki az ingatlanból, majd öt vízsugárral eloltották a lángokat. A tűz oltását a Békés megyei katasztrófavédelmi műveleti szolgálat irányította. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
+      "location": "Békéscsaba, Nagy Sándor utca",
+      "updates": []
+    },
     {
       "id": "92852",
       "datetime": "2026.10.14. 23:35",
