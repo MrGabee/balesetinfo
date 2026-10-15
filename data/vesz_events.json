@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T11:00:56.256662+00:00",
-  "count": 3299,
+  "updated_at": "2026-10-15T11:05:08.934296+00:00",
+  "count": 3300,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92861",
+      "datetime": "2026.10.15. 13:02",
+      "title": "Melléképület ég Simontornyán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861",
+      "lead": "A tűzoltók a Gyár utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében ég és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral oltják a lángokat.",
+      "location": "Simontornya, Gyár utca",
+      "updates": []
+    },
     {
       "id": "92860",
       "datetime": "2026.10.15. 12:21",
@@ -31,9 +42,9 @@
       "title": "Robbanás volt egy kecskeméti épületben",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92858",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Epreskert utcában dolgoznak a tűzoltók, akik egy embert kihoztak az ingatlanból.",
+      "body": "Robbanás történt egy melléképületben, Kecskeméten, az Epreskert utcában. A valamivel több, mint tíz négyzetméteres ingatlan födémje beszakadt. A kecskeméti hivatásos tűzoltók vonultak ki a balesethez, és a Bács-Kiskun megyei katasztrófavédelmi műveleti szolgálat irányítása mellett egy embert speciális hordágyon kihoztak az épületből, majd átadták őt a mentőknek.",
+      "location": "Kecskemét, Epreskert utca",
       "updates": []
     },
     {
@@ -53,9 +64,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M4-en",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92856",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Cegléd térségében forgalmi akadály van.",
+      "body": "Szalagkorlátnak hajtott egy személygépkocsi az M4-es autóúton, Abony felé, Cegléd térségében, a 79-es kilométerszelvénynél. Az autóban csak a sofőr utazott. A ceglédi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Cegléd, Bába Molnár dűlő",
       "updates": []
     },
     {
@@ -64,9 +75,9 @@
       "title": "Baleset az M0-án",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92855",
-      "lead": "Gyált térségében forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi az M0-ás autóúton, az M3 felé vezető oldalon, Gyál térségében, a 32-es kilométerszelvénynél. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Gyál, Kőrösi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -75,9 +86,9 @@
       "title": "Összeütközött két autó Zalaegerszeg közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92854",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 74-es főúton van szükség műszaki mentésre.",
+      "body": "Összeütközött két személyautó a 74-es főúton, Zalaegerszeg közelében, a 46-os kilométerszelvénynél. A balesethez a zalaegerszegi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Zalaegerszeg, 74",
       "updates": []
     },
     {
@@ -119,9 +130,9 @@
       "title": "Fának hajtott egy autó Budapest XIX. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92850",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hoffherr Albert utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Fának hajtott egy személyautó Budapest XIX. kerületében, a Hoffherr Albert utcában, a Puskás Ferenc utca közelében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Hofherr Albert utca",
       "updates": []
     },
     {
@@ -141,9 +152,9 @@
       "title": "Embert gázolt a vonat Nagykanizsa közelében",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92848",
-      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
-      "body": "Embert gázolt a vonat Nagykanizsánál, a nagyrécsei vasútállomás közelében. A vonaton nyolcvan ember utazott. A nagykanizsai hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő járat megérkezik a helyszínre. Az érintett vonalon teljes vágányzár van.",
-      "location": "Nagykanizsa, Nagyrécsei vasútállomás",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -174,9 +185,9 @@
       "title": "Villanyoszlopnak hajtott egy autó Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92845",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagyvárad utcát lezárták.",
+      "body": "Villanyoszlopnak hajtott egy személyautó Nyíregyházán, a Nagyvárad utcában. A műszaki mentést a város hivatásos tűzoltói végzik. A helyszínre az áramszolgáltató szakemberei is megérkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, Nagyvárad utca",
       "updates": []
     },
     {
@@ -207,9 +218,9 @@
       "title": "Hármas karambol Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92842",
-      "lead": "A Kosbor és a Mérleg utca kereszteződésénél dolgoznak a tűzoltók.",
-      "body": "Összeütközött három személyautó Nyíregyházán, a Kosbor és a Mérleg utca kereszteződésénél. A város hivatásos tűzoltói végzik a műszaki mentést a balesetnél, amely akadályozza a forgalmat. A raj áramtalanított két gépkocsit, a harmadiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Nyíregyháza, Mérleg utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -229,9 +240,9 @@
       "title": "Égett egy autó Mezőkovácsházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92840",
-      "lead": "A tűzoltók a Szabadság utcában fékezték meg a lángokat.",
-      "body": "Kigyulladt egy személyautó Mezőkovácsházán, a Szabadság utcában. A város hivatásos tűzoltói áramtalanították a gépkocsit, két vízsugárral eloltották a lángokat, és megkezdték az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt.",
-      "location": "Mezőkovácsháza, Szabadság utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -251,9 +262,9 @@
       "title": "Egymásnak ütközött két autó Hajdúszoboszlón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92838",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Attila utca és az Árpád utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személyautó Hajdúszoboszlón, az Attila utca és az Árpád utca kereszteződésében. A helyi hivatásos tűzoltók áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
+      "location": "Hajdúszoboszló, Attila utca",
       "updates": []
     },
     {
@@ -270,13 +281,22 @@
     {
       "id": "92836",
       "datetime": "2026.10.14. 08:10 -",
-      "title": "1 db frissítés",
+      "title": "Tetőszerkezet ég Zsámbékon",
       "category": "Tetőszerkezet ég Zsámbékon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Mányi úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
+      "location": "Zsámbék, Mányi út",
+      "updates": [
+        {
+          "title": "Már nem lángol a tűz Zsámbékon",
+          "datetime": "2026.10.14. 08:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
+          "location": "Zsámbék, Mányi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
+        }
+      ]
     },
     {
       "id": "92835",
@@ -306,9 +326,9 @@
       "title": "Hármas karambol történt az M5-ösön, Kecskemétnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92833",
-      "lead": "Az egyik jármű árokba borult az ütközés következtében.",
-      "body": "Két személyautó és egy furgon ütközött össze az M5-ös autópálya 96-os kilométerszelvényénél, Kecskemét térségében, a Kiskunfélegyháza felé vezető irányban. Az ütközés erejétől a furgon az árokba borult, a két személyautó a belső sávban okoz forgalmi akadályt. A kecskeméti hivatásos tűzoltók és a társhatóságok megkezdték a munkálatokat a helyszínen.",
-      "location": "Kecskemét, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -372,9 +392,9 @@
       "title": "Baleset történt az M4-esen, Monornál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92827",
-      "lead": "Lezárták az érintett útszakaszt a Szolnok felé vezető irányban.",
-      "body": "Egy utánfutós gépkocsi karambolozott egy másik járművel az M4-es autóút 37-es kilométerszelvényénél, Monor térségében, a Szolnok felé vezető irányban. Összesen öten utaztak a kocsikban, amelyeket a monori hivatásos tűzoltók áramtalanítottak. A balesethez a társhatóságok is kiérkeztek, teljes útlezárás mellett végzik a munkálatokat.",
-      "location": "Monor, M4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
