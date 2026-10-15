@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T18:26:17.336880+00:00",
-  "count": 3309,
+  "updated_at": "2026-10-15T18:29:21.755162+00:00",
+  "count": 3310,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92871",
+      "datetime": "2026.10.15. 20:27",
+      "title": "Parkoló autónak ütközött egy jármű Budapest XV. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92871",
+      "lead": "A Rákosmező utcában forgalmi akadályra kell számítani.",
+      "body": "Parkoló gépjárműnek ütközött egy személygépkocsi Budapest XV. kerületében, a Rákosmező utcában. A fővárosi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Rákosmező utca",
+      "updates": []
+    },
     {
       "id": "92870",
       "datetime": "2026.10.15. 19:56",
