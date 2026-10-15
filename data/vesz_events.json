@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T17:34:30.581923+00:00",
-  "count": 3307,
+  "updated_at": "2026-10-15T17:38:00.495356+00:00",
+  "count": 3308,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92869",
+      "datetime": "2026.10.15. 19:35",
+      "title": "Baleset történt Kecskeméten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92869",
+      "lead": "A Csongrádi utat teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kecskeméten, a Csongrádi úton. A kecskeméti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kecskemét, Csongrádi út",
+      "updates": []
+    },
     {
       "id": "92868",
       "datetime": "2026.10.15. 18:45",
