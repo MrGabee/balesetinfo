@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T10:18:29.390609+00:00",
-  "count": 3298,
+  "updated_at": "2026-10-15T10:22:11.657619+00:00",
+  "count": 3299,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92860",
+      "datetime": "2026.10.15. 12:21",
+      "title": "Oldalára borult egy autó Őrbottyánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92860",
+      "lead": "A 2403-as úton félpályán halad a forgalom.",
+      "body": "Oldalára borult egy személygépkocsi a 2403-as úton, Őrbottyán térségében, a 3-as kilométerszelvénynél. A gödöllői hivatásos és a veresegyházi önkéntes tűzoltók műszaki mentést végeznek. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszon félpályán halad  a forgalom.",
+      "location": "Őrbottyán, Csomádi út",
+      "updates": []
+    },
     {
       "id": "92859",
       "datetime": "2026.10.15. 11:54",
@@ -75,9 +86,9 @@
       "title": "Családi ház égett Békéscsabán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92853",
-      "lead": "A Nagy Sándor utcában csaptak fel a lángok.",
-      "body": "Teljes terjedelmében égett egy lakóépület és egy melléképület Békéscsabán, a Nagy Sándor utcában. A békéscsabai és gyulai hivatásos tűzoltók két gázpalackot hoztak ki az ingatlanból, majd öt vízsugárral eloltották a lángokat. A tűz oltását a Békés megyei katasztrófavédelmi műveleti szolgálat irányította. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
-      "location": "Békéscsaba, Nagy Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -86,9 +97,9 @@
       "title": "Tűz volt Csanyteleken",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92852",
-      "lead": "A Petőfi utcában oltották el a lángokat.",
-      "body": "Lakóházzal egybeépített melléképület égett Csanyteleken, a Petőfi utcában. A tűz a főépület tetőszerkezetére is átterjedt. A lángokat a kisteleki és csongárdi hivatásos, valamint a csanyteleki önkéntes tűzoltók oltották el.",
-      "location": "Csanytelek, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,9 +174,9 @@
       "title": "Villanyoszlopnak hajtott egy autó Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92845",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagyvárad utcát lezárták.",
+      "body": "Villanyoszlopnak hajtott egy személyautó Nyíregyházán, a Nagyvárad utcában. A műszaki mentést a város hivatásos tűzoltói végzik. A helyszínre az áramszolgáltató szakemberei is megérkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyíregyháza, Nagyvárad utca",
       "updates": []
     },
     {
@@ -251,9 +262,9 @@
       "title": "Karambol Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92837",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Március 15. utca és a Tömörkény István utca kereszteződésében félpályán halad a forgalom.",
+      "body": "Kisteherautó és egy személygépkocsi ütközött össze Kecskeméten, a Március 15. utca és a Tömörkény István utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították az egyik járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, Március 15. utca",
       "updates": []
     },
     {
