@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T09:53:50.070787+00:00",
-  "count": 3297,
+  "updated_at": "2026-10-15T09:57:42.666464+00:00",
+  "count": 3298,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92859",
+      "datetime": "2026.10.15. 11:54",
+      "title": "Családi ház égett Ózdon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92859",
+      "lead": "A Bánszállás telepen dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Ózdon, a Bánszállás telepen. Az ózdi hivatásos tűzoltók két gázpalackot kihoztak az épületből és két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ózd, Bánszállás telep",
+      "updates": []
+    },
     {
       "id": "92858",
       "datetime": "2026.10.15. 11:25",
@@ -163,9 +174,9 @@
       "title": "Tűz ütött ki Érden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92844",
-      "lead": "A Szendrői utcába vonultak a tűzoltók.",
-      "body": "Tűz volt egy érdi ikerlakásban, a Szendrői utcában. Az ingatlanban egy helyiség égett. A lángokat a város hivatásos tűzoltói oltották el.",
-      "location": "Érd, Szendrői utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
