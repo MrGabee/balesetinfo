@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T16:44:16.842558+00:00",
-  "count": 3306,
+  "updated_at": "2026-10-15T16:47:18.933733+00:00",
+  "count": 3307,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92868",
+      "datetime": "2026.10.15. 18:45",
+      "title": "Karambol a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92868",
+      "lead": "Nyírtura térségében félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi a 4-es főúton, Nyírtura térségében, a 287-es kilométerszelvénynél. Az autókban összesen hárman utaztak. Két embert a nyíregyházi hivatásos tűzoltók feszítővágó segítségével kiemeltek. A raj egy járművet áramtalanított. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyírtura, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "92867",
       "datetime": "2026.10.15. 18:26",
