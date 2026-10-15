@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:37:55.164895+00:00",
+  "updated_at": "2026-10-15T11:41:38.798335+00:00",
   "count": 3302,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "92861",
-      "datetime": "2026.10.15. 13:02",
+      "datetime": "2026.10.15. 13:02 -",
       "title": "Melléképület ég Simontornyán",
-      "category": "Tűzeset",
+      "category": "Melléképület ég Simontornyán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861",
       "lead": "A tűzoltók a Gyár utcában oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében ég és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral oltják a lángokat.",
       "location": "Simontornya, Gyár utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Simontornyán",
+          "datetime": "2026.10.15. 13:37",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében égett és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Simontornya, Gyár utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92861"
+        }
+      ]
     },
     {
       "id": "92860",
@@ -196,9 +205,9 @@
       "title": "Tetőtűz Szankon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92846",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Félegyházi úton csaptak fel a lángok.",
+      "body": "Lakóházzal egybeépített melléképület tetőszerkezete égett Szankon, a Félegyházi úton. A kiskunhalasi és kiskunmajsai hivatásos, valamint a kiskunmajsai önkéntes tűzoltók három vízsugárral oltották el a lángokat. A helyszínre az áramszolgáltató szakemberei is megérkeztek.",
+      "location": "Szank, Félegyházi út",
       "updates": []
     },
     {
@@ -348,9 +357,9 @@
       "title": "Hármas karambol történt az M5-ösön, Kecskemétnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92833",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az egyik jármű árokba borult az ütközés következtében.",
+      "body": "Két személyautó és egy furgon ütközött össze az M5-ös autópálya 96-os kilométerszelvényénél, Kecskemét térségében, a Kiskunfélegyháza felé vezető irányban. Az ütközés erejétől a furgon az árokba borult, a két személyautó a belső sávban okoz forgalmi akadályt. A kecskeméti hivatásos tűzoltók és a társhatóságok megkezdték a munkálatokat a helyszínen.",
+      "location": "Kecskemét, M5",
       "updates": []
     },
     {
