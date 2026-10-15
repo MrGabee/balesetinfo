@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T06:30:15.414847+00:00",
-  "count": 3293,
+  "updated_at": "2026-10-15T06:33:46.581129+00:00",
+  "count": 3294,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92855",
+      "datetime": "2026.10.15. 08:31",
+      "title": "Baleset az M0-án",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92855",
+      "lead": "Gyált térségében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi az M0-ás autóúton, az M3 felé vezető oldalon, Gyál térségében, a 32-es kilométerszelvénynél. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Gyál, Kőrösi út",
+      "updates": []
+    },
     {
       "id": "92854",
       "datetime": "2026.10.15. 07:21",
