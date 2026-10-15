@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T08:41:51.353585+00:00",
+  "updated_at": "2026-10-15T08:45:26.513834+00:00",
   "count": 3296,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -426,16 +426,7 @@
       "lead": "A tűzoltók porral oltókkal oltják a lángokat.",
       "body": "Egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg egy üzem csarnoképületében, a győri Hűtőház utcában. A tűz átterjedt az épület tetőszigetelésére. A győri hivatásos tűzoltók a kifolyt olajat habtakarással lefedték, míg a tetőszigetelés tüzének megfékezésén porral oltókkal dolgoznak. Az egységek a munkálatok közben megbontják az épület tetőszerkezetét.",
       "location": "Győr, Hűtőház utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tűzoltók a győri üzemcsarnok tetőszigetelésének tüzét",
-          "datetime": "2026.10.13. 16:27",
-          "category": "Tűzeset",
-          "text": "A győri hivatásos tűzoltók megfékezték a tüzet városukban, ahol egy üzem csarnoképületének tetőszerkezetén a kémény melletti szigetelés égett, valamint a szendvicspanel hőszigetelés füstölt a Hűtőház utcában. Korábban egy gépből kifolyt, majd húsz négyzetméteren szétterült olaj gyulladt meg az épületben, innen terjedt át a tűz a tetőszigetelésre. Az egységek a kifolyt olajat habtakarással lefedték, majd felfogó edénybe gyűjtötték. Az oltási munkálatokat porral oltókkal kezdték, majd két habosított vízsugárral folytatták. Az üzem kilencvenöt dolgozója a tűzoltók kiérkezése előtt elhagyta az épületet.",
-          "location": "Győr, Hűtőház utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92821/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92821"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92820",
