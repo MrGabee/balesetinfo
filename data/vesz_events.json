@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T15:28:39.226337+00:00",
-  "count": 3303,
+  "updated_at": "2026-10-15T15:31:43.205409+00:00",
+  "count": 3304,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92865",
+      "datetime": "2026.10.15. 17:30",
+      "title": "Összeütközött két autó a 61-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92865",
+      "lead": "Taszáron félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi a 61-es főúton, Taszáron, a Toldi Miklós utca kereszteződésében. A baleset következtében az egyik autó árokba sodródott.  A kaposvári hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Taszár, Toldi Miklós utca",
+      "updates": []
+    },
     {
       "id": "92864",
       "datetime": "2026.10.15. 15:22",
