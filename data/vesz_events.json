@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T11:31:11.216143+00:00",
-  "count": 3301,
+  "updated_at": "2026-10-15T11:34:25.472234+00:00",
+  "count": 3302,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92863",
+      "datetime": "2026.10.15. 13:31",
+      "title": "Embert gázolt a vonat Mélykúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92863",
+      "lead": "A tűzoltók segítettek az utasok biztonságos leszállásában.",
+      "body": "Embert gázolt el egy személyvonat Mélykúton. A szerelvényen összesen huszonkét ember utazott. A jánoshalmai önkormányzati és a mélykúti önkéntes tűzoltók segítettek az utasok biztonságos leszállásában és átszállították őket a mentesítő járatra. A helyszínre mentő is érkezett.",
+      "location": "Mélykút, Arany János utca",
+      "updates": []
+    },
     {
       "id": "92862",
       "datetime": "2026.10.15. 13:10",
@@ -31,9 +42,9 @@
       "title": "Oldalára borult egy autó Őrbottyánnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92860",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 2403-as úton félpályán halad a forgalom.",
+      "body": "Oldalára borult egy személygépkocsi a 2403-as úton, Őrbottyán térségében, a 3-as kilométerszelvénynél. A gödöllői hivatásos és a veresegyházi önkéntes tűzoltók műszaki mentést végeznek. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszon félpályán halad  a forgalom.",
+      "location": "Őrbottyán, Csomádi út",
       "updates": []
     },
     {
@@ -75,9 +86,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M4-en",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92856",
-      "lead": "Cegléd térségében forgalmi akadály van.",
-      "body": "Szalagkorlátnak hajtott egy személygépkocsi az M4-es autóúton, Abony felé, Cegléd térségében, a 79-es kilométerszelvénynél. Az autóban csak a sofőr utazott. A ceglédi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Cegléd, Bába Molnár dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
