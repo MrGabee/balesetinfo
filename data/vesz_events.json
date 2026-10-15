@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:57:42.666464+00:00",
+  "updated_at": "2026-10-15T10:01:04.379876+00:00",
   "count": 3298,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Családi ház égett Békéscsabán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92853",
-      "lead": "A Nagy Sándor utcában csaptak fel a lángok.",
-      "body": "Teljes terjedelmében égett egy lakóépület és egy melléképület Békéscsabán, a Nagy Sándor utcában. A békéscsabai és gyulai hivatásos tűzoltók két gázpalackot hoztak ki az ingatlanból, majd öt vízsugárral eloltották a lángokat. A tűz oltását a Békés megyei katasztrófavédelmi műveleti szolgálat irányította. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
-      "location": "Békéscsaba, Nagy Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -174,9 +174,9 @@
       "title": "Tűz ütött ki Érden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92844",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szendrői utcába vonultak a tűzoltók.",
+      "body": "Tűz volt egy érdi ikerlakásban, a Szendrői utcában. Az ingatlanban egy helyiség égett. A lángokat a város hivatásos tűzoltói oltották el.",
+      "location": "Érd, Szendrői utca",
       "updates": []
     },
     {
@@ -262,19 +262,10 @@
       "title": "Tetőszerkezet ég Zsámbékon",
       "category": "Tetőszerkezet ég Zsámbékon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836",
-      "lead": "A Mányi úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
-      "location": "Zsámbék, Mányi út",
-      "updates": [
-        {
-          "title": "Már nem lángol a tűz Zsámbékon",
-          "datetime": "2026.10.14. 08:54",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
-          "location": "Zsámbék, Mányi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92835",
