@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-15T06:33:46.581129+00:00",
-  "count": 3294,
+  "updated_at": "2026-10-15T06:37:22.784221+00:00",
+  "count": 3295,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92856",
+      "datetime": "2026.10.15. 08:35",
+      "title": "Szalagkorlátnak hajtott egy autó az M4-en",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92856",
+      "lead": "Cegléd térségében forgalmi akadály van.",
+      "body": "Szalagkorlátnak hajtott egy személygépkocsi az M4-es autóúton, Abony felé, Cegléd térségében, a 79-es kilométerszelvénynél. Az autóban csak a sofőr utazott. A ceglédi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Cegléd, Bába Molnár dűlő",
+      "updates": []
+    },
     {
       "id": "92855",
       "datetime": "2026.10.15. 08:31",
