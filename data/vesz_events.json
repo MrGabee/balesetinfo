@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:28:24.249753+00:00",
+  "updated_at": "2026-10-16T07:31:34.650431+00:00",
   "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -144,7 +144,16 @@
       "lead": "A tűzoltók a Gyár utcában oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében ég és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral oltják a lángokat.",
       "location": "Simontornya, Gyár utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Simontornyán",
+          "datetime": "2026.10.15. 13:37",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében égett és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Simontornya, Gyár utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92861"
+        }
+      ]
     },
     {
       "id": "92860",
