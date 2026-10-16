@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:36:01.785543+00:00",
+  "updated_at": "2026-10-16T10:39:32.797760+00:00",
   "count": 3314,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -163,19 +163,10 @@
       "title": "Melléképület ég Simontornyán",
       "category": "Melléképület ég Simontornyán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861",
-      "lead": "A tűzoltók a Gyár utcában oltják a lángokat.",
-      "body": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében ég és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral oltják a lángokat.",
-      "location": "Simontornya, Gyár utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Simontornyán",
-          "datetime": "2026.10.15. 13:37",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében égett és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Simontornya, Gyár utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92861"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92860",
@@ -260,9 +251,9 @@
       "title": "Családi ház égett Békéscsabán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92853",
-      "lead": "A Nagy Sándor utcában csaptak fel a lángok.",
-      "body": "Teljes terjedelmében égett egy lakóépület és egy melléképület Békéscsabán, a Nagy Sándor utcában. A békéscsabai és gyulai hivatásos tűzoltók két gázpalackot hoztak ki az ingatlanból, majd öt vízsugárral eloltották a lángokat. A tűz oltását a Békés megyei katasztrófavédelmi műveleti szolgálat irányította. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
-      "location": "Békéscsaba, Nagy Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -326,9 +317,9 @@
       "title": "Szeméttároló füstölt egy debreceni társasházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92847",
-      "lead": "A Csapó utcában van szükség tűzoltói beavatkozásra.",
-      "body": "Szeméttároló füstölt egy debreceni társasház földszintjén, a Csapó utcában. A város hivatásos tűzoltói eltávolították az épületből a füstölgő anyagokat, valamint átszellőztetik a lépcsőházat. Az épületben negyven embert elzárkózásra szólítottak fel, a munkálatok idejére.",
-      "location": "Debrecen, Csapó utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -370,9 +361,9 @@
       "title": "Összeütközött két autó a 47-es főúton, Derecskénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92843",
-      "lead": "Az egyik járműből a tűzoltók mentettek ki egy embert.",
-      "body": "Karambolozott két személyautó Derecske határában, a 47-es főút Sáránd felé vezető szakaszán. Mindkét jármű az árokba csapódott. Az egyikbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző berettyóújfalui hivatásos tűzoltók. A raj áramtalanította a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Derecske, Vasút utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -1657,9 +1648,9 @@
       "title": "Felborult egy autó a 8139-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92735",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4-es kilométerhez a komáromi tűzoltókat riasztották.",
+      "body": "Baleset történt Tata közelében, a 8139-es úton. A 4-es kilométernél megcsúszott és felborult egy személykocsi. A komáromi hivatásos és önkéntes tűzoltók vonultak az esethez, áramtalanították a járművet. Az érintett szakaszon egy időre megállították a forgalmat.",
+      "location": "Tata, Diós puszta",
       "updates": []
     },
     {
