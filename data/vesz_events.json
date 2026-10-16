@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T15:15:30.985735+00:00",
-  "count": 3327,
+  "updated_at": "2026-10-16T15:18:13.098637+00:00",
+  "count": 3328,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92889",
+      "datetime": "2026.10.16. 17:17",
+      "title": "Négyes karambol az M0-son, Vecsésnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92889",
+      "lead": "Egy sávon forgalmi akadály alakult ki az M5-ös felé vezető irányban.",
+      "body": "Három személyautó és egy kisbusz ütközött össze az M0-s autóút 39-es kilométerszelvényénél, Vecsés térségében, az M5-ös autópálya felé vezető oldalon. A fővárosi hivatásos tűzoltók és a mentők megkezdték a munkálatokat a balesetnél. Az érintett útszakaszon egy sávon forgalmi akadály alakult ki.",
+      "location": "Vecsés, M0",
+      "updates": []
+    },
     {
       "id": "92888",
       "datetime": "2026.10.16. 17:02",
