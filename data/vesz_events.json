@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:51:42.024059+00:00",
+  "updated_at": "2026-10-16T09:54:56.574634+00:00",
   "count": 3314,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Felborult egy autó a 4911-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92873",
-      "lead": "Máriapócs és Kállósemjén között forgalmi akadályra kell számítani.",
-      "body": "Felborult egy személygépkocsi a 4911-es úton, Máriapócs és Kállósemjén között, a 25-ös kilométerszelvénynél. A nyírbátori és a baktalórántházai hivatásos tűzoltók egy utast feszítővágó segítségével kiemeltek. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Kisléta, Pócsi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +97,9 @@
       "title": "Baleset a 41-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92867",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pusztadoboson félpályán halad a forgalom.",
+      "body": "Összeütközött két gépjármű a 41-es főúton, Pusztadoboson, a Rákóczi utca kereszteződésénél. A vásárosnaményi önkormányzati tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pusztadobos, Rákóczi utca",
       "updates": []
     },
     {
@@ -141,9 +141,9 @@
       "title": "Embert gázolt a vonat Mélykúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92863",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítettek az utasok biztonságos leszállásában.",
+      "body": "Embert gázolt el egy személyvonat Mélykúton. A szerelvényen összesen huszonkét ember utazott. A jánoshalmai önkormányzati és a mélykúti önkéntes tűzoltók segítettek az utasok biztonságos leszállásában és átszállították őket a mentesítő járatra. A helyszínre mentő is érkezett.",
+      "location": "Mélykút, Arany János utca",
       "updates": []
     },
     {
@@ -1525,9 +1525,9 @@
       "title": "Kigyulladt egy szauna Budapesten",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92747",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A huszadik kerületben, a Nagyszeben utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt a szauna egy budapesti, huszadik kerületi lakóépületben. A Szebeni utcai, kétszintes ház első emeletén keletkezett a tűz. A tüzet egy ember még a fővárosi hivatásos tűzoltók megérkezése előtt megpróbálta eloltani, mentő érkezett hozzá. Az egységek két vízsugárral eloltották a lángokat.",
+      "location": "Budapest, Nagyszeben utca",
       "updates": []
     },
     {
