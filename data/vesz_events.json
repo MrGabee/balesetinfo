@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T08:20:13.839249+00:00",
+  "updated_at": "2026-10-16T08:23:24.939442+00:00",
   "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -249,9 +249,9 @@
       "title": "Tűz volt Csanyteleken",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92852",
-      "lead": "A Petőfi utcában oltották el a lángokat.",
-      "body": "Lakóházzal egybeépített melléképület égett Csanyteleken, a Petőfi utcában. A tűz a főépület tetőszerkezetére is átterjedt. A lángokat a kisteleki és csongárdi hivatásos, valamint a csanyteleki önkéntes tűzoltók oltották el.",
-      "location": "Csanytelek, Petőfi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -899,21 +899,30 @@
       "title": "Kigyulladt egy családi ház Bökönyben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92797",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Béke utcába vonultak ki a tűzoltók.",
+      "body": "Egy százötven négyzetméteres lakóház gyulladt ki Bökönyben, a Béke utcában. Az ingatlan két helyisége égett. A nyíradonyi és a hajdúböszörményi hivatásos. valamint a szakolyi önkormányzati tűzoltók három vízsugárral oltották el a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Bököny, Béke utca",
       "updates": []
     },
     {
       "id": "92796",
       "datetime": "2026.10.13. 00:00 -",
-      "title": "1 db frissítés",
+      "title": "Tűz van a X. kerületben",
       "category": "Tűz van a X. kerületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók két vízsugárral oltják a lángokat.",
+      "body": "Műanyag hulladék ég Budapest X. kerületében, a Sírkerti úton. A fővárosi hivatásos tűzoltók két vízsugárral oltják a lángokat a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett. A munkálatokat egy munkagép is segíti.",
+      "location": "Budapest, Sírkert út",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat a X. kerületben",
+          "datetime": "2026.10.13. 06:09",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Budapest X. kerületében, a Sírkerti úton, ahol műanyag hulladék égett. A fővárosi hivatásos és a fóti önkéntes tűzoltók a fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett több vízsugárral fékezték meg a tüzet. A helyszínen két fővárosi vízszállító jármű és egy munkagép is dolgozott.",
+          "location": "Budapest, Sírkert út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92796/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92796"
+        }
+      ]
     },
     {
       "id": "92795",
@@ -921,9 +930,9 @@
       "title": "Biatorbágynál is baleset történt az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92795",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A sztráda érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött egy személygépkocsi és egy furgon Biatorbágynál, az M1-es autópálya 20-as kilométerénél, a Győr felé vezető oldalán. A törökbálinti hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszát teljes szélességében lezárták.",
+      "location": "Biatorbágy, M1",
       "updates": []
     },
     {
