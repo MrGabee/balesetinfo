@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T11:15:07.314112+00:00",
-  "count": 3314,
+  "updated_at": "2026-10-16T11:18:58.542658+00:00",
+  "count": 3315,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92876",
+      "datetime": "2026.10.16. 13:15",
+      "title": "Kigyulladt a kazán egy jászberényi lakóház melléképületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92876",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt a kazán, valamint a környezetében tárolt holmik egy lakóház ötven négyzetméteres melléképületében, a jászberényi Hunyadi János utcában. A város hivatásos tűzoltói két vízsugárral oltották el a két négyzetméteren keletkezett lángokat. A munkálatok közben megbontották a lemeztetőt, az utómunkálatok alatt pedig átvizsgálják a padlást.",
+      "location": "Jászberény, Hunyadi János utca",
+      "updates": []
+    },
     {
       "id": "92875",
       "datetime": "2026.10.16. 11:11",
@@ -216,9 +227,9 @@
       "title": "Autótűz az M5-ösön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92857",
-      "lead": "Kecskemét közelében volt szükség tűzoltói beavatkozásra.",
-      "body": "Kigyulladt egy személygépkocsi az M5-ös autópálya Budapest felé vezető oldalán, Kecskemét közelében, a 82. és a 83. kilométer között. A jármű tulajdonosa megkezdte a tűz oltását, amelyet a kecskeméti hivatásos tűzoltók fejeztek be. A raj utómunkálatokat végez. A gépkocsi nem akadályozza a sztráda forgalmát.",
-      "location": "Kecskemét, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -304,9 +315,9 @@
       "title": "Karambolozott két autó Békéscsaba és Gyula között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92849",
-      "lead": "A 44-es főút felüljáróján történt a baleset.",
-      "body": "Két személyautó karambolozott Békéscsaba és Gyula között, a 44-es főút felüljáróján, a 132-es kilométerszelvénynél. A balesethez a gyulai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
-      "location": "Gyula, 44",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -1864,9 +1875,9 @@
       "title": "Motor és személykocsi karambolozott a 3-as főúton, Gyöngyösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92717",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 83-84-es kilométer között, a Szurdokpart utcai csomópont közelében történt a baleset.",
+      "body": "Összeütközött egy autó és egy motorkerékpár a 3-as főúton, Gyöngyös határában. A 83-84-es kilométer között, a Szurdokparti utcai csomópont közelében történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A helyszínre mentőt is riasztottak.",
+      "location": "Gyöngyös, 3",
       "updates": []
     },
     {
