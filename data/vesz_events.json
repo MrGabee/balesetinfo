@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T20:12:19.784001+00:00",
-  "count": 3336,
+  "updated_at": "2026-10-16T20:15:50.048444+00:00",
+  "count": 3337,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92898",
+      "datetime": "2026.10.16. 22:13",
+      "title": "Több jármű ütközött össze Szigetszentmiklóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92898",
+      "lead": "Az egyik autó árokba borult a karambol következtében.",
+      "body": "Két személyautó és egy motorkerékpáros érintett abban a balesetben, amely Szigetszentmiklóson történt, az Elkerülő út Hermina úthoz közeli szakaszán. Az ütközés következtében az egyik autó az árokba került. A szigetszentmiklósi hivatásos tűzoltók teljes útlezárás mellett végzik a műszaki mentési munkálatokat.",
+      "location": "Szigetszentmiklós, Elkerülő út",
+      "updates": []
+    },
     {
       "id": "92897",
       "datetime": "2026.10.16. 22:07",
