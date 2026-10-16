@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T14:31:59.847277+00:00",
-  "count": 3324,
+  "updated_at": "2026-10-16T14:35:33.056032+00:00",
+  "count": 3325,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92886",
+      "datetime": "2026.10.16. 16:32",
+      "title": "Motorossal ütközött össze egy személyautó Sopronban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92886",
+      "lead": "Irányítás mellett halad a forgalom a baleset miatt.",
+      "body": "Egy motorkerékpáros és egy személyautó ütközött össze Sopronban, a Bánfalvi út és a Besenyő utca találkozásánál. A város hivatásos tűzoltói megkezdték a helyszíni munkálatokat. A baleset miatt irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Sopron, Besenyő utca",
+      "updates": []
+    },
     {
       "id": "92885",
       "datetime": "2026.10.16. 16:28",
@@ -196,9 +207,9 @@
       "title": "Karambol a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92868",
-      "lead": "Nyírtura térségében félpályán halad a forgalom.",
-      "body": "Egymásnak ütközött két személygépkocsi a 4-es főúton, Nyírtura térségében, a 287-es kilométerszelvénynél. Az autókban összesen hárman utaztak. Két embert a nyíregyházi hivatásos tűzoltók feszítővágó segítségével kiemeltek. A raj egy járművet áramtalanított. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Nyírtura, Rákóczi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
