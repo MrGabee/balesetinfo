@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T12:18:52.210322+00:00",
-  "count": 3316,
+  "updated_at": "2026-10-16T12:22:32.750775+00:00",
+  "count": 3317,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92878",
+      "datetime": "2026.10.16. 14:19",
+      "title": "Szalagkorlátnak ütközött egy autó az M7-esen, Sávolynál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92878",
+      "lead": "A jármű a belső sávban okoz forgalmi akadályt a Nagykanizsa felé vezető oldalon.",
+      "body": "Szalagkorlátnak ütközött egy gépkocsi az M7-es autópálya 178-as kilométerszelvényénél, Sávoly térségében, a Nagykanizsa felé vezető irányban. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A marcali hivatásos tűzoltók áramtalanítják a belső sávban álló autót. A forgalom a leállósávban, irányítás mellett halad az érintett pályaszakaszon a baleset miatt.",
+      "location": "Sávoly, M7",
+      "updates": []
+    },
     {
       "id": "92877",
       "datetime": "2026.10.16. 13:41",
