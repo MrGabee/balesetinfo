@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T08:27:08.162095+00:00",
+  "updated_at": "2026-10-16T08:30:29.164121+00:00",
   "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -960,13 +960,22 @@
     {
       "id": "92792",
       "datetime": "2026.10.12. 20:33 -",
-      "title": "1 db frissítés",
+      "title": "Lakóház ég Sáregresen",
       "category": "Lakóház ég Sáregresen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92792",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Kolozsvári utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház Sáregresen, a Kolozsvári utcában. A mintegy százharminc négyzetméteres ingatlan tetőszerkezete teljes terjedelmében ég. A sárbogárdi hivatásos tűzoltók két vízsugárral oltják a lángokat.",
+      "location": "Sáregres, Kolozsvári utca",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Sáregresen",
+          "datetime": "2026.10.12. 21:29",
+          "category": "Tűzeset",
+          "text": "Elfojtották a lángokat Sáregresen, a Kolozsvári utcában, ahol egy százharminc négyzetméteres lakóház tetőszerkezete teljes terjedelmében égett. A sárbogárdi hivatásos tűzoltók a munkálatok során öt gázpalackot is kihoztak az ingatlanból. A rajok öt vízsugárral fékezték meg a tüzet.",
+          "location": "Sáregres, Kolozsvári utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92792/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92792"
+        }
+      ]
     },
     {
       "id": "92791",
@@ -974,21 +983,30 @@
       "title": "Baleset történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92791",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Koccanásos balesetet szenvedett három személygépkocsi Budapest XXI. kerületében, az Erdősor utcában. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták, valamint a közösségi közlekedésben is fennakadásokra kell számítani.",
+      "location": "Budapest, Erdősor utca",
       "updates": []
     },
     {
       "id": "92790",
       "datetime": "2026.10.12. 18:51 -",
-      "title": "1 db frissítés",
+      "title": "Tűz keletkezett Sáska külterületén",
       "category": "Tűz keletkezett Sáska külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Száraz fű ég.",
+      "body": "Tűz van Sáska külterületén. Nagy területen száraz fű ég. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók oltják a lángokat. Egy badacsonytomaji vízszállító jármű is segíti a munkálatokat.",
+      "location": "Sáska, külterület",
+      "updates": [
+        {
+          "title": "Utómunkálatok zajlanak Sáskánál",
+          "datetime": "2026.10.12. 19:18",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Sáska külterületén, ahol mintegy két hektáron száraz fű és fák égtek. A badacsonytomaji hivatásos, a tapolcai önkormányzati, valamint a zalahalápi és a sáskai önkéntes tűzoltók fékezték meg a tüzet. Egy badacsonytomaji vízszállító jármű is segítette az oltást. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+          "location": "Sáska, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92790/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92790"
+        }
+      ]
     },
     {
       "id": "92789",
