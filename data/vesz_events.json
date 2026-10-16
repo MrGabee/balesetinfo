@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T12:29:15.962370+00:00",
-  "count": 3317,
+  "updated_at": "2026-10-16T12:32:38.400920+00:00",
+  "count": 3318,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92879",
+      "datetime": "2026.10.16. 14:32",
+      "title": "Négy autó ütközött össze az 5-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92879",
+      "lead": "Kiskunfélegyháza közelében forgalmi akadály van.",
+      "body": "Karambolozott négy személyautó az 5-ös főúton, Kiskunfélegyháza közelében, a 116. és a 117. kilométer között. Az egyik jármű az árokba csapódott. A műszaki mentést végző kiskunfélegyházi hivatásos tűzoltók áramtalanítják a gépkocsikat, amelyekben összesen nyolcan utaztak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kiskunfélegyháza, 5",
+      "updates": []
+    },
     {
       "id": "92878",
       "datetime": "2026.10.16. 14:19",
