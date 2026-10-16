@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T04:09:06.441931+00:00",
-  "count": 3310,
+  "updated_at": "2026-10-16T04:12:34.171337+00:00",
+  "count": 3311,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92872",
+      "datetime": "2026.10.16. 06:09",
+      "title": "Ágy égett egy családi házban Kisújszálláson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92872",
+      "lead": "A Híd utcában dolgoznak a tűzoltók.",
+      "body": "Kigyullad egy családi ház egyik helyisége Kisújszálláson, a Híd utcában. Az épületben egy ágy égett. A helyi önkormányzati tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat kezdi meg.",
+      "location": "Kisújszállás, Híd utca",
+      "updates": []
+    },
     {
       "id": "92871",
       "datetime": "2026.10.15. 20:27",
