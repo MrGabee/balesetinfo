@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T09:07:53.512391+00:00",
-  "count": 3313,
+  "updated_at": "2026-10-16T09:11:34.380637+00:00",
+  "count": 3314,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92875",
+      "datetime": "2026.10.16. 11:11",
+      "title": "Teherautóval karambolozott egy személyautó Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92875",
+      "lead": "A kisebb jármű kerítésnek hajtott az ütközés után.",
+      "body": "Egy teherautó és egy személyautó ütközött össze Érden, a Zrínyi Miklós utca, a Kende utca és a Damjanich János utca kereszteződésénél. Az ütközés erejétől a személyautó egy lakóház kerítésének hajtott. Az érdi hivatásos tűzoltók érkeztek a műszaki mentési munkálatokhoz, és a mentőket is a balesethez várják.",
+      "location": "Érd, Zrínyi Miklós utca",
+      "updates": []
+    },
     {
       "id": "92874",
       "datetime": "2026.10.16. 10:59",
@@ -53,9 +64,9 @@
       "title": "Árokba hajtott egy autó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92870",
-      "lead": "A Mandolás utcában forgalmi akadály van.",
-      "body": "Árokba hajtott és felborult egy személygépkocsi Debrecenben, a Mandolás utcában. Az autóban hárman utaztak. A debreceni hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Debrecen, Kanális utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -1371,9 +1382,9 @@
       "title": "Ház sarkába hajtott egy autó Tapolcán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92760",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth Lajos utcában forgalmi akadály van.",
+      "body": "Ház sarkába hajtott egy személygépkocsi Tapolcán, a Kossuth Lajos utcában. Az autóban csak a sofőr utazott, aki ki tudott szállni. A helyi önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tapolca, Kossuth Lajos utca",
       "updates": []
     },
     {
