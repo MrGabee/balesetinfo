@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T14:20:53.270059+00:00",
-  "count": 3322,
+  "updated_at": "2026-10-16T14:24:23.598182+00:00",
+  "count": 3323,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92884",
+      "datetime": "2026.10.16. 16:22",
+      "title": "Összeütközött két autó Ráckevén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92884",
+      "lead": "A járművek áramtalanítására volt szükség.",
+      "body": "Két gépkocsi ütközött össze Ráckevén, a Lacházi úton, az áruház bejáratánál. A dömsödi önkéntes tűzoltók áramtalanították a karambolos járműveket. A balesethez a szigetszentmiklósi hivatásos tűzoltók és a társhatóságok is kiérkeztek.",
+      "location": "Ráckeve, Lacházi út",
+      "updates": []
+    },
     {
       "id": "92883",
       "datetime": "2026.10.16. 15:51",
@@ -163,9 +174,9 @@
       "title": "Baleset történt Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92869",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csongrádi utat teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Kecskeméten, a Csongrádi úton. A kecskeméti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kecskemét, Csongrádi út",
       "updates": []
     },
     {
@@ -240,9 +251,9 @@
       "title": "Összeütközött három gépkocsi Vácon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92862",
-      "lead": "A Szent László útra riasztották a tűzoltókat, akik egy embert kimentettek az egyik járműből.",
-      "body": "Karambolozott három gépkocsi Vácon, a Szent László út, azaz a 2-es főút és a Gödöllői út kereszteződésében. Az egyik járműbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző váci hivatásos tűzoltók. A baleset helyszínén forgalmi akadály van.",
-      "location": "Vác, Szent László út, Gödöllői út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
