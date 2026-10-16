@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T22:39:48.592158+00:00",
-  "count": 3337,
+  "updated_at": "2026-10-16T22:43:13.661436+00:00",
+  "count": 3338,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92899",
+      "datetime": "2026.10.17. 00:40",
+      "title": "Munkagépnek csapódott egy autó az M3-ason, Hatvannál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92899",
+      "lead": "A tűzoltók feszítővágóval szabadítják ki az autó vezetőjét.",
+      "body": "Álló munkagépnek csapódott egy személyautó az M3-as autópálya 55-ös kilométerszelvényénél, Hatvan térségében, a Budapest felé vezető irányban. Az autó vezetője beszorult, a hatvani hivatásos tűzoltók feszítővágóval kezdték meg kiszabadítását. A műszaki mentés idejére az érintett pályaszakaszon egy sávot, valamint a 21-es főút lehajtóját lezárták.",
+      "location": "Hatvan, M3",
+      "updates": []
+    },
     {
       "id": "92898",
       "datetime": "2026.10.16. 22:13",
