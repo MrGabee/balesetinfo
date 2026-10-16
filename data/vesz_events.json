@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T16:09:35.301301+00:00",
-  "count": 3329,
+  "updated_at": "2026-10-16T16:13:28.998505+00:00",
+  "count": 3330,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92891",
+      "datetime": "2026.10.16. 18:12",
+      "title": "Terepjáróval ütközött össze egy személyautó Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92891",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Egy terepjáró és egy személyautó ütközött össze Érden, a Vadlúd utca végén, a körforgalomnál. A járművekben összesen hárman utaztak. Az érdi hivatásos tűzoltók érkeztek a balesethez, áramtalanították az egyik autót.",
+      "location": "Érd, Vadlúd utca",
+      "updates": []
+    },
     {
       "id": "92890",
       "datetime": "2026.10.16. 18:07",
