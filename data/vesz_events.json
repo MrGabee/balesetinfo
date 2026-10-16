@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T08:44:03.509953+00:00",
+  "updated_at": "2026-10-16T08:47:29.746770+00:00",
   "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Baleset a 41-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92867",
-      "lead": "Pusztadoboson félpályán halad a forgalom.",
-      "body": "Összeütközött két gépjármű a 41-es főúton, Pusztadoboson, a Rákóczi utca kereszteződésénél. A vásárosnaményi önkormányzati tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pusztadobos, Rákóczi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -1135,21 +1135,30 @@
       "title": "Összeütközött két autó Debrecen határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92778",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Vezér utcában forgalmi akadály van.",
+      "body": "Karambolozott két személyautó Debrecen határában, a Vezér utcában. A műszaki mentést végző hajdúböszörményi hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen ketten utaztak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Debrecen, Vezér utca",
       "updates": []
     },
     {
       "id": "92777",
       "datetime": "2026.10.12. 12:12 -",
-      "title": "1 db frissítés",
+      "title": "Hármas karambol a 41-es főúton",
       "category": "Hármas karambol a 41-es főúton",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók megszüntették a forgalmi akadályt Napkor közelében.",
+      "body": "Összeütközött három személygépkocsi a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A baktalórántházai hivatásos tűzoltókat riasztották a balesethez. A raj megszüntette a forgalmi akadályt.",
+      "location": "Napkor, 41",
+      "updates": [
+        {
+          "title": "Nem három, hanem két autó karambolozott a 41-es főúton",
+          "datetime": "2026.10.12. 13:20",
+          "category": "Közlekedési baleset",
+          "text": "Az első beszámolónktól eltérően nem három, hanem két személygépkocsi karambolozott a 41-es főúton, Napkor közelében, a 12. és a 13. kilométer között. A balesethez a baktalórántházai hivatásos tűzoltókat riasztották, akik megszüntették a forgalmi akadályt.",
+          "location": "Napkor, 41",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92777/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92777"
+        }
+      ]
     },
     {
       "id": "92776",
@@ -1157,9 +1166,9 @@
       "title": "Autó és kamion ütközött a XVIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92776",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeüközött egy kamion és egy személygépkocsi Budapest XVIII. kerületében, a Gyömrői úton, az Úz utca közelében. A karambol következtében a személyautó a járdára sodródott és egy lakóház falának is ütközött. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Gyömrői út",
       "updates": []
     },
     {
