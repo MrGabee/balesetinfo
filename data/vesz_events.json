@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:07:56.190238+00:00",
+  "updated_at": "2026-10-16T11:11:39.470935+00:00",
   "count": 3314,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -315,9 +315,9 @@
       "title": "Embert gázolt a vonat Nagykanizsa közelében",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92848",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a biztonságos átszállásban segítenek.",
+      "body": "Embert gázolt a vonat Nagykanizsánál, a nagyrécsei vasútállomás közelében. A vonaton nyolcvan ember utazott. A nagykanizsai hivatásos tűzoltók segíteni fognak a biztonságos átszállásban a szerelvény utasainak, amint a mentesítő járat megérkezik a helyszínre. Az érintett vonalon teljes vágányzár van.",
+      "location": "Nagykanizsa, Nagyrécsei vasútállomás",
       "updates": []
     },
     {
@@ -1808,13 +1808,22 @@
     {
       "id": "92721",
       "datetime": "2026.10.10. 12:38 -",
-      "title": "1 db frissítés",
+      "title": "Összeütközött két autó Miske és Hajós között",
       "category": "Összeütközött két autó Miske és Hajós között",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92721",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A kalocsai és paksi tűzoltókat az 5312-es út 10-es kilométeréhez riasztották.",
+      "body": "Baleset történt az 5312-es úton, Miske és Hajós között, előbbi település közelében, ahol két személykocsi hajtott egymásba. Az egyik járműben négyen ültek, a másiknak három utasa volt, egyikük beszorult az autóba. A helyszínre kalocsai és paksi hivatásos tűzoltókat, valamint a társhatóságokat riasztották. A kalocsai tűzoltók  feszítővágóval szabadítják ki az utast a kocsiból, illetve áramtalanítanak. A baleset miatt az érintett szakaszt teljes szélességében lezárták.",
+      "location": "Miske, 5312",
+      "updates": [
+        {
+          "title": "Mentőhelikopter is érkezett a Miske és Hajós között történt balesethez",
+          "datetime": "2026.10.10. 12:58",
+          "category": "Közlekedési baleset",
+          "text": "A kalocsai és paksi tűzoltókat riasztották az 5312-es út 10-es kilométeréhez, ahol egymásba hajtott két személykocsi. Az egyik járműből egy embert a tűzoltók szabadítottak ki. A balesethez több mentőautó és mentőhelikopter is érkezett.",
+          "location": "Miske, 5312",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92721/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92721"
+        }
+      ]
     },
     {
       "id": "92720",
@@ -1822,9 +1831,9 @@
       "title": "Baleset történt Szamosszeg és Szamoskér között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92720",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4120-as út 11-es kilométerénél árokba csapódott egy személykocsi.",
+      "body": "Megpördült az úton, azután árokba csapódott egy autó a 4120-as út Szamosszeg és Szamoskér közötti szakaszán. A mátészalkai hivatásos tűzoltók áramtalanítottak, a jármű sofőrjéhez mentő érkezett. Az utat az érintett szakaszon egy időre teljes szélességében lezárták.",
+      "location": "Szamosszeg, 4120",
       "updates": []
     },
     {
