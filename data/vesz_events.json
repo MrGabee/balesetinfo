@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T18:17:29.025684+00:00",
-  "count": 3333,
+  "updated_at": "2026-10-16T18:20:46.580577+00:00",
+  "count": 3334,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92895",
+      "datetime": "2026.10.16. 20:19",
+      "title": "Autó égett a 42-esen, Püspökladánynál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92895",
+      "lead": "A tűzoltók két vízsugárral fékezték meg a lángokat.",
+      "body": "Teljesen kiégett egy gépkocsi a 42-es főút 7-es kilométerszelvényénél, Püspökladány térségében. A püspökladányi hivatásos tűzoltók két vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A beavatkozás idejére félpályán halad a forgalom.",
+      "location": "Püspökladány, 42",
+      "updates": []
+    },
     {
       "id": "92894",
       "datetime": "2026.10.16. 19:52",
