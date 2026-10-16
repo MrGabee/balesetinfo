@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T13:49:08.502027+00:00",
-  "count": 3321,
+  "updated_at": "2026-10-16T13:52:40.238499+00:00",
+  "count": 3322,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92883",
+      "datetime": "2026.10.16. 15:51",
+      "title": "Több jármű karambolozott a 35-ösön, Debrecennél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92883",
+      "lead": "Lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Öt gépkocsi ütközött össze a 35-ös főút 76-os kilométerszelvényénél, Debrecen térségében. Összesen tízen utaztak a járművekben, amelyeket a debreceni hivatásos tűzoltók áramtalanítanak. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Debrecen, 35",
+      "updates": []
+    },
     {
       "id": "92882",
       "datetime": "2026.10.16. 15:33",
