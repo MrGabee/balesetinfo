@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T14:24:23.598182+00:00",
-  "count": 3323,
+  "updated_at": "2026-10-16T14:28:17.212967+00:00",
+  "count": 3324,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92885",
+      "datetime": "2026.10.16. 16:28",
+      "title": "Autó füstölt a Petőfi hídon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92885",
+      "lead": "A tűzoltók visszahűtik a jármű motorterét.",
+      "body": "Egy gépkocsi motortere füstölt Budapesten, a Petőfi híd pesti hídfőjénél, a felhajtón. A fővárosi hivatásos tűzoltók kiérkezése előtt a helyszínen tartózkodók egy porral oltóval megszüntették a bajt, az egység jelenleg egy vízsugárral visszahűti a motorteret. Az eset miatt forgalmi akadály alakult ki az érintett útszakaszon.",
+      "location": "Budapest, Petőfi híd",
+      "updates": []
+    },
     {
       "id": "92884",
       "datetime": "2026.10.16. 16:22",
@@ -31,9 +42,9 @@
       "title": "Árokba hajtott egy autó Pécsen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92882",
-      "lead": "A jármű ezt követően visszatért az útra.",
-      "body": "Árokba hajtott, majd visszatért az úttestre egy gépkocsi Pécsen, az 58-as főút II János Pál úti szakaszán, az 5-ös és 6-os kilométerszelvények között. A pécsi hivatásos tűzoltók áramtalanították a két forgalmi sávot elfoglaló járművet. A balesethez a mentők is kiérkeztek.",
-      "location": "Pécs, II. János Pál út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -251,9 +262,9 @@
       "title": "Összeütközött három gépkocsi Vácon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92862",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szent László útra riasztották a tűzoltókat, akik egy embert kimentettek az egyik járműből.",
+      "body": "Karambolozott három gépkocsi Vácon, a Szent László út, azaz a 2-es főút és a Gödöllői út kereszteződésében. Az egyik járműbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző váci hivatásos tűzoltók. A baleset helyszínén forgalmi akadály van.",
+      "location": "Vác, Szent László út, Gödöllői út",
       "updates": []
     },
     {
