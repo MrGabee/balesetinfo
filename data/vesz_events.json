@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T17:37:24.557614+00:00",
-  "count": 3331,
+  "updated_at": "2026-10-16T17:40:52.213222+00:00",
+  "count": 3332,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92893",
+      "datetime": "2026.10.16. 19:39",
+      "title": "Baleset történt a VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92893",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi ütközött össze a VIII. kerületben, a Rákóczi út és a Márkus Emília utca sarkán. A fővárosi hivatásos tűzoltók mindkét járművet áramtalanították. Az egység a társhatóságokat is a balesethez kérte.",
+      "location": "Budapest, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "92892",
       "datetime": "2026.10.16. 18:32",
