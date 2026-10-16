@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T20:05:40.365066+00:00",
-  "count": 3335,
+  "updated_at": "2026-10-16T20:09:08.167277+00:00",
+  "count": 3336,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92897",
+      "datetime": "2026.10.16. 22:07",
+      "title": "Családi ház ég Pilis településen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92897",
+      "lead": "A tűzoltók hat vízsugárral oltják a lángokat.",
+      "body": "Egy száz négyzetméteres családi ház ég teljes egészében Pilis településen, a Homoki szőlő I. dűlőn. A monori hivatásos és a nyáregyházai önkéntes tűzoltók hat vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. A munkálatokat Ceglédről egy vízszállító is segíti.",
+      "location": "Pilis, Homoki szőlő I. dűlő",
+      "updates": []
+    },
     {
       "id": "92896",
       "datetime": "2026.10.16. 22:01",
