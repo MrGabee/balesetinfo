@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T11:39:04.574910+00:00",
-  "count": 3315,
+  "updated_at": "2026-10-16T11:42:00.011242+00:00",
+  "count": 3316,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92877",
+      "datetime": "2026.10.16. 13:41",
+      "title": "Karambol Tatán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92877",
+      "lead": "A Székely Bertalan utcában végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó Tatán, a Székely Bertalan utcában, a Baji út közelében. A tatabányai hivatásos és a kocsi önkéntes tűzoltók végzik a műszaki mentést a balesetnél. A rajok áramtalanítják a járműveket, amelyekben összesen négyen utaztak.",
+      "location": "Tata, Székely Bertalan utca",
+      "updates": []
+    },
     {
       "id": "92876",
       "datetime": "2026.10.16. 13:15",
