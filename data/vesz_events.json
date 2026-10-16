@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T16:30:18.806252+00:00",
-  "count": 3330,
+  "updated_at": "2026-10-16T16:33:52.405097+00:00",
+  "count": 3331,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92892",
+      "datetime": "2026.10.16. 18:32",
+      "title": "Összeütközött két autó Ercsiben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92892",
+      "lead": "Az egyik jármű árokba borult a karambol után.",
+      "body": "Két gépkocsi karambolozott Ercsiben, a Bakos parknál. Az ütközés következtében az egyik jármű az árokba borult. Az érdi hivatásos és a százhalombattai létesítményi tűzoltók érkeztek a balesethez, áramtalanítják a kocsikat. Az egységek mellett a társhatóságok is a helyszínen dolgoznak.",
+      "location": "Ercsi, Bakos park",
+      "updates": []
+    },
     {
       "id": "92891",
       "datetime": "2026.10.16. 18:12",
@@ -86,9 +97,9 @@
       "title": "Összeütközött két autó Ráckevén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92884",
-      "lead": "A járművek áramtalanítására volt szükség.",
-      "body": "Két gépkocsi ütközött össze Ráckevén, a Lacházi úton, az áruház bejáratánál. A dömsödi önkéntes tűzoltók áramtalanították a karambolos járműveket. A balesethez a szigetszentmiklósi hivatásos tűzoltók és a társhatóságok is kiérkeztek.",
-      "location": "Ráckeve, Lacházi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -306,9 +317,9 @@
       "title": "Karambol a 85-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92864",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Fertőendréd határában forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Fertőendréd határában, a 85-ös főút és az Ipar út elágazásánál. Összesen öten utaztak a járművekben, amelyeket áramtalanítanak a kapuvári hivatásos tűzoltók. Az egyik gépkocsi részben, a másik teljes egészében a 85-ös főúton van, így ott váltakozó irányban, egy sávon halad a forgalom.",
+      "location": "Fertőendréd, 85",
       "updates": []
     },
     {
@@ -381,9 +392,9 @@
       "title": "Robbanás volt egy kecskeméti épületben",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92858",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Epreskert utcában dolgoznak a tűzoltók, akik egy embert kihoztak az ingatlanból.",
+      "body": "Robbanás történt egy melléképületben, Kecskeméten, az Epreskert utcában. A valamivel több, mint tíz négyzetméteres ingatlan födémje beszakadt. A kecskeméti hivatásos tűzoltók vonultak ki a balesethez, és a Bács-Kiskun megyei katasztrófavédelmi műveleti szolgálat irányítása mellett egy embert speciális hordágyon kihoztak az épületből, majd átadták őt a mentőknek.",
+      "location": "Kecskemét, Epreskert utca",
       "updates": []
     },
     {
