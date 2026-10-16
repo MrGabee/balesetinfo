@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T08:57:24.111288+00:00",
-  "count": 3312,
+  "updated_at": "2026-10-16T09:00:47.329543+00:00",
+  "count": 3313,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92874",
+      "datetime": "2026.10.16. 10:59",
+      "title": "Traktor égett a 7-es főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92874",
+      "lead": "Érd és Tárnok határán kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Kigyulladt egy fűnyíró traktor a 7-es főúton, Érd és Tárnok határán, a 24. kilométernél. Az érdi hivatásos tűzoltók gyorsan eloltották a lángokat, és megkezdték az utómunkálatokat. A beavatkozás ideje alatt az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Tárnok, 7",
+      "updates": []
+    },
     {
       "id": "92873",
       "datetime": "2026.10.16. 07:02",
@@ -1285,9 +1296,9 @@
       "title": "Baleset az 1-es főúton, Győrben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92766",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pesti út kereszteződésénél egy sávon halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi az 1-es főúton, Győrben, a Pesti út kereszteződésénél. A győri hivatásos és a győrszentiváni önkéntes tűzoltók áramtalanították a járműveket és egy utast feszítővágó segítségével kimentettek. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Győr, Pesti út",
       "updates": []
     },
     {
@@ -1296,9 +1307,9 @@
       "title": "Melléképület égett Nyíregyházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92765",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Tujafa utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy fa szerkezetű melléképület Nyíregyházán, a Tujafa utcában. Az épületben bútorok égtek. A nyíregyházi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Nyíregyháza, Tujafa utca",
       "updates": []
     },
     {
