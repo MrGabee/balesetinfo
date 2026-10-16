@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T14:35:33.056032+00:00",
-  "count": 3325,
+  "updated_at": "2026-10-16T14:38:54.575042+00:00",
+  "count": 3326,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92887",
+      "datetime": "2026.10.16. 16:37",
+      "title": "Két autó karambolozott Jászberényben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92887",
+      "lead": "Az egyik jármű az árokba került, a másik az úttesten maradt.",
+      "body": "Két gépkocsi karambolozott Jászberényben, a Jákóhalmai úton, a Szélmalom utca közelében. Az ütközés következtében az egyik jármű az árokba hajtott, a másik az úttesten állt meg.  A jászberényi hivatásos tűzoltók mindkét autót áramtalanították. Az egység mellett a társhatóságok is a helyszínen dolgoznak, félpályás útlezárás mellett.",
+      "location": "Jászberény, Jákóhalmai út",
+      "updates": []
+    },
     {
       "id": "92886",
       "datetime": "2026.10.16. 16:32",
@@ -207,9 +218,9 @@
       "title": "Karambol a 4-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92868",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nyírtura térségében félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött két személygépkocsi a 4-es főúton, Nyírtura térségében, a 287-es kilométerszelvénynél. Az autókban összesen hárman utaztak. Két embert a nyíregyházi hivatásos tűzoltók feszítővágó segítségével kiemeltek. A raj egy járművet áramtalanított. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyírtura, Rákóczi utca",
       "updates": []
     },
     {
