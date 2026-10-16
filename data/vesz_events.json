@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T17:50:52.410665+00:00",
-  "count": 3332,
+  "updated_at": "2026-10-16T17:54:13.167831+00:00",
+  "count": 3333,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92894",
+      "datetime": "2026.10.16. 19:52",
+      "title": "Szarvast gázolt egy autó a 23-ason, Bátonyterenyénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92894",
+      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Szarvast gázolt el egy gépkocsi a 23-as főút 2-es kilométerszelvénye közelében, Bátonyterenye térségében. Hárman utaztak a járműben, amelyet a bátonyterenyei hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Bátonyterenye, 23",
+      "updates": []
+    },
     {
       "id": "92893",
       "datetime": "2026.10.16. 19:39",
