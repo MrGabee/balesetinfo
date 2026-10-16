@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T06:54:46.991422+00:00",
+  "updated_at": "2026-10-16T06:58:11.576814+00:00",
   "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -403,9 +403,9 @@
       "title": "Egymásnak ütközött két autó Hajdúszoboszlón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92838",
-      "lead": "Az Attila utca és az Árpád utca kereszteződésében történt a baleset.",
-      "body": "Összeütközött két személyautó Hajdúszoboszlón, az Attila utca és az Árpád utca kereszteződésében. A helyi hivatásos tűzoltók áramtalanították a gépkocsikat. A helyszínre mentő is érkezett.",
-      "location": "Hajdúszoboszló, Attila utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -414,9 +414,9 @@
       "title": "Karambol Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92837",
-      "lead": "A Március 15. utca és a Tömörkény István utca kereszteződésében félpályán halad a forgalom.",
-      "body": "Kisteherautó és egy személygépkocsi ütközött össze Kecskeméten, a Március 15. utca és a Tömörkény István utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították az egyik járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kecskemét, Március 15. utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -425,19 +425,10 @@
       "title": "Tetőszerkezet ég Zsámbékon",
       "category": "Tetőszerkezet ég Zsámbékon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836",
-      "lead": "A Mányi úton dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy épület tetőszerkezete Zsámbékon, a Mányi úton. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral oltják a lángokat. A beavatkozás idejére félpályán halad a forgalom.",
-      "location": "Zsámbék, Mányi út",
-      "updates": [
-        {
-          "title": "Már nem lángol a tűz Zsámbékon",
-          "datetime": "2026.10.14. 08:54",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Zsámbékon, a Mányi úton, ahol kigyulladt egy épület tetőszerkezete. A bajnai hivatásos és a bicskei önkormányzati tűzoltók három vízsugárral fékezték meg a lángokat, és megbontják az ingatlan tetőszerkezetét. A beavatkozás idejére félpályán lezárták az érintett útszakaszt.",
-          "location": "Zsámbék, Mányi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92836/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92836"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92835",
