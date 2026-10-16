@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T04:58:42.505855+00:00",
-  "count": 3311,
+  "updated_at": "2026-10-16T05:02:23.439740+00:00",
+  "count": 3312,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92873",
+      "datetime": "2026.10.16. 07:02",
+      "title": "Felborult egy autó a 4911-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92873",
+      "lead": "Máriapócs és Kállósemjén között forgalmi akadályra kell számítani.",
+      "body": "Felborult egy személygépkocsi a 4911-es úton, Máriapócs és Kállósemjén között, a 25-ös kilométerszelvénynél. A nyírbátori és a baktalórántházai hivatásos tűzoltók egy utast feszítővágó segítségével kiemeltek. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Kisléta, Pócsi utca",
+      "updates": []
+    },
     {
       "id": "92872",
       "datetime": "2026.10.16. 06:09",
