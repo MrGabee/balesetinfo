@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T13:07:44.650224+00:00",
-  "count": 3319,
+  "updated_at": "2026-10-16T13:11:30.050740+00:00",
+  "count": 3320,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92881",
+      "datetime": "2026.10.16. 15:11",
+      "title": "Baleset történt a 31-esen, Gyömrő mellett",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92881",
+      "lead": "Az egyik autó az árokba borult a karambol következtében.",
+      "body": "Összeütközött két gépkocsi a 31-es főút 32-es kilométerszelvényénél, a Gyömrő melletti szakaszon. Az ütközés erejétől az egyik jármű az árokba hajtott, a másik az úttesten maradt. A gyömrői önkéntes tűzoltókat követően a monori hivatásos tűzoltók is kiérkeztek a műszaki mentési munkálatokhoz.",
+      "location": "Gyömrő, 31",
+      "updates": []
+    },
     {
       "id": "92880",
       "datetime": "2026.10.16. 15:05",
