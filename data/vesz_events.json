@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T13:04:30.423615+00:00",
-  "count": 3318,
+  "updated_at": "2026-10-16T13:07:44.650224+00:00",
+  "count": 3319,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92880",
+      "datetime": "2026.10.16. 15:05",
+      "title": "Fának ütközött egy autó Debrecen és Létavértes között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92880",
+      "lead": "A jármű utasa beszorult, a tűzoltók szabadították ki.",
+      "body": "Lesodródott az úttestről, majd fának ütközött egy gépkocsi Debrecen és Létavértes között, a 4814-es út 12-es kilométerszelvényénél. A járműben ketten utaztak, a vezető ki tudott szállni, utasa azonban beszorult. A debreceni hivatásos tűzoltók feszítővágó segítségével szabadították ki az utast az autóból, amelyet áramtalanítottak is. A balesethez a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Debrecen, 4814",
+      "updates": []
+    },
     {
       "id": "92879",
       "datetime": "2026.10.16. 14:32",
