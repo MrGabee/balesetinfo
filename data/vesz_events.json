@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:39:32.797760+00:00",
+  "updated_at": "2026-10-16T10:43:04.568553+00:00",
   "count": 3314,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -163,10 +163,19 @@
       "title": "Melléképület ég Simontornyán",
       "category": "Melléképület ég Simontornyán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Gyár utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében ég és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral oltják a lángokat.",
+      "location": "Simontornya, Gyár utca",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Simontornyán",
+          "datetime": "2026.10.15. 13:37",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy melléképület Simontornyán, a Gyár utcában. Teljes terjedelmében égett és részben összeroskadt a mintegy hetven négyzetméter alapterületű ingatlan. A sárbogárdi hivatásos és a simontornyai önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Simontornya, Gyár utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92861/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92861"
+        }
+      ]
     },
     {
       "id": "92860",
@@ -251,9 +260,9 @@
       "title": "Családi ház égett Békéscsabán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92853",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagy Sándor utcában csaptak fel a lángok.",
+      "body": "Teljes terjedelmében égett egy lakóépület és egy melléképület Békéscsabán, a Nagy Sándor utcában. A békéscsabai és gyulai hivatásos tűzoltók két gázpalackot hoztak ki az ingatlanból, majd öt vízsugárral eloltották a lángokat. A tűz oltását a Békés megyei katasztrófavédelmi műveleti szolgálat irányította. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
+      "location": "Békéscsaba, Nagy Sándor utca",
       "updates": []
     },
     {
@@ -317,9 +326,9 @@
       "title": "Szeméttároló füstölt egy debreceni társasházban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92847",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csapó utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Szeméttároló füstölt egy debreceni társasház földszintjén, a Csapó utcában. A város hivatásos tűzoltói eltávolították az épületből a füstölgő anyagokat, valamint átszellőztetik a lépcsőházat. Az épületben negyven embert elzárkózásra szólítottak fel, a munkálatok idejére.",
+      "location": "Debrecen, Csapó utca",
       "updates": []
     },
     {
@@ -427,9 +436,9 @@
       "title": "Karambol Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92837",
-      "lead": "A Március 15. utca és a Tömörkény István utca kereszteződésében félpályán halad a forgalom.",
-      "body": "Kisteherautó és egy személygépkocsi ütközött össze Kecskeméten, a Március 15. utca és a Tömörkény István utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították az egyik járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kecskemét, Március 15. utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -1659,9 +1668,9 @@
       "title": "Árokba hajtott egy autó Pétfürdőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92734",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Cseri utcában balesetet szenvedett járműben ketten utaztak.",
+      "body": "Megcsúszott az úton és vízelvezető árokba hajtott egy személykocsi Pétfürdőn. A baleset a Cseri utcában történt, a helyi hivatásos tűzoltók vonultak az esethez. Az egység áramtalanította az oldalára dőlt autót. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Pétfürdő, Cseri utca",
       "updates": []
     },
     {
