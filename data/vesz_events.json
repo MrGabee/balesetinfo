@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-16T15:01:42.237696+00:00",
-  "count": 3326,
+  "updated_at": "2026-10-16T15:05:10.945625+00:00",
+  "count": 3327,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92888",
+      "datetime": "2026.10.16. 17:02",
+      "title": "Baleset történt a XI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92888",
+      "lead": "Forgalmi akadály van az érintett kereszteződésben.",
+      "body": "Összeütközött két gépkocsi a XI. kerületben, a Bartók Béla út és a Bocskai út kereszteződésében. A fővárosi hivatásos tűzoltók már a helyszínen dolgoznak, a társhatóságokat várják. A baleset miatt forgalmi akadályra kell számítani az érintett kereszteződésben.",
+      "location": "Budapest, Bocskai út",
+      "updates": []
+    },
     {
       "id": "92887",
       "datetime": "2026.10.16. 16:37",
