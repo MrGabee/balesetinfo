@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T19:34:25.678192+00:00",
-  "count": 3356,
+  "updated_at": "2026-10-17T19:37:47.397182+00:00",
+  "count": 3357,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92918",
+      "datetime": "2026.10.17. 21:37",
+      "title": "Családi ház ég Győrben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92918",
+      "lead": "A Brigád utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakóház Győrben, a Brigád utcában. Az ingatlan tetőszerkezete teljes terjedelmében ég. A helyi hivatásos tűzoltók már körülhatárolták a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett.",
+      "location": "Győr, Brigád utca",
+      "updates": []
+    },
     {
       "id": "92917",
       "datetime": "2026.10.17. 21:28",
