@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T14:13:31.404713+00:00",
-  "count": 3347,
+  "updated_at": "2026-10-17T14:16:56.942516+00:00",
+  "count": 3348,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92909",
+      "datetime": "2026.10.17. 16:14",
+      "title": "Autótűz Páhinál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92909",
+      "lead": "A tűzoltók két vízsugárral eloltották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi a Páhinál, az 5301-es út 27-es kilométerénél. A tűz mintegy ötven négyzetméteren a jármű környezetében lévő aljnövényzetet is érintette. A kiskőrösi hivatásos tűzoltók két vízsugárral eloltották a lángokat. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Páhi, 5301",
+      "updates": []
+    },
     {
       "id": "92908",
       "datetime": "2026.10.17. 15:54",
