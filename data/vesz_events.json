@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T21:39:57.270361+00:00",
-  "count": 3358,
+  "updated_at": "2026-10-17T21:43:18.825211+00:00",
+  "count": 3359,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92920",
+      "datetime": "2026.10.17. 23:40",
+      "title": "Összeütközött két autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92920",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Két személygépkocsi karambolozott Debrecenben, a Kossuth utcában, a Sas utca közelében. A balesethez a helyi hivatásos tűzoltók vonultak ki. Az egység áramtalanítja a járműveket.",
+      "location": "Debrecen, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "92919",
       "datetime": "2026.10.17. 21:47 -",
