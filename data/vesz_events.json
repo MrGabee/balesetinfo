@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T15:55:55.428678+00:00",
-  "count": 3350,
+  "updated_at": "2026-10-17T15:59:08.153269+00:00",
+  "count": 3351,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92912",
+      "datetime": "2026.10.17. 17:58",
+      "title": "Autó égett Tiszafüreden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92912",
+      "lead": "A Debreceni úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy személyautó Tiszafüreden, a Debreceni úton. A helyi hivatásos tűzoltókat riasztották a helyszínre. A raj egy vízsugárral körülhatárolta, majd eloltotta a lángokat. Utómunkálatok zajlanak.",
+      "location": "Tiszafüred, Debreceni út",
+      "updates": []
+    },
     {
       "id": "92911",
       "datetime": "2026.10.17. 17:21",
