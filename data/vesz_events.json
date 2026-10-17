@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T12:52:42.978710+00:00",
-  "count": 3344,
+  "updated_at": "2026-10-17T12:56:04.122132+00:00",
+  "count": 3345,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92906",
+      "datetime": "2026.10.17. 14:53",
+      "title": "Tűz keletkezett Bátonyterenyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92906",
+      "lead": "A Fő úton csaptak fel a lángok.",
+      "body": "Kigyulladt egy kerti pavilon Bátonyterenyén, a Fő úton. A pavilon teljes terjedelmében égett. A helyi és a salgótarjáni hivatásos tűzoltók két vízsugárral oltották el a lángokat. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Bátonyterenye, Fő út",
+      "updates": []
+    },
     {
       "id": "92905",
       "datetime": "2026.10.17. 14:00",
