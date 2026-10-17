@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T08:35:01.036296+00:00",
+  "updated_at": "2026-10-17T08:38:23.583845+00:00",
   "count": 3342,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A Bajcsy-Zsilinszky útra riasztották a tűzoltókat.",
       "body": "Kigyulladt egy családi ház Inárcson, a Bajcsy-Zsilinszky úton. A nyolcvan négyzetméteres ingatlan egyik helyisége teljes terjedelmében ég. A tűz a födémszerkezetre is átterjedt. A dabasi hivatásos tűzoltók négy vízsugárral oltják a lángokat.",
       "location": "Inárcs, Bajcsy-Zsilinszky út",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók az utómunkálatokat végzik Inárcson",
+          "datetime": "2026.10.17. 10:34",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Inárcson, a Bajcsy-Zsilinszky úton, ahol egy nyolcvan négyzetméter alapterületű lakóház egyik helyisége teljes terjedelmében égett. A lángok a födémszerkezetre is átterjedtek. A dabasi hivatásos tűzoltók négy vízsugárral fékezték meg a tüzet. A rajok jelenleg az utómunkálatokat végzik.",
+          "location": "Inárcs, Bajcsy-Zsilinszky út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92902/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92902"
+        }
+      ]
     },
     {
       "id": "92901",
