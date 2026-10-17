@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T08:07:59.009300+00:00",
-  "count": 3341,
+  "updated_at": "2026-10-17T08:11:08.923327+00:00",
+  "count": 3342,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92903",
+      "datetime": "2026.10.17. 10:10",
+      "title": "Oszlopnak ütközött egy autó a IX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92903",
+      "lead": "Forgalmi akadály van.",
+      "body": "Oszlopnak ütközött egy személygépkocsi Budapest IX. kerületében, a Kvassay Jenő úton, a Soroksári út közelében. A fővárosi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Kvassay Jenő út",
+      "updates": []
+    },
     {
       "id": "92902",
       "datetime": "2026.10.17. 10:00",
