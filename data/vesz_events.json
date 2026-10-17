@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T05:30:40.736373+00:00",
-  "count": 3338,
+  "updated_at": "2026-10-17T05:34:10.831596+00:00",
+  "count": 3339,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92900",
+      "datetime": "2026.10.17. 07:32",
+      "title": "Kigyulladt egy garázs Mosonmagyaróváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92900",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt egy garázs egy garázssoron Mosonmagyaróváron, a Bartók Béla utcában. A helyiségben segédmotort, kerékpárt, szekrényeket, valamint egyéb háztartási eszközöket tároltak. A mosonmagyaróvári hivatásos tűzoltók egy vízsugárral oltották el a lángokat.",
+      "location": "Mosonmagyaróvár, Bartók Béla utca",
+      "updates": []
+    },
     {
       "id": "92899",
       "datetime": "2026.10.17. 00:40",
