@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T15:19:24.304186+00:00",
-  "count": 3349,
+  "updated_at": "2026-10-17T15:22:37.594465+00:00",
+  "count": 3350,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92911",
+      "datetime": "2026.10.17. 17:21",
+      "title": "Árokba hajtott egy jármű Gomba külterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92911",
+      "lead": "A 3112-es út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Árokba hajtott egy utánfutót vontató terepjáró Gomba külterületén, a 3112-es út 6-os és 7-es kilométere közötti szakaszán. A monori hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gomba, 3112",
+      "updates": []
+    },
     {
       "id": "92910",
       "datetime": "2026.10.17. 16:36",
