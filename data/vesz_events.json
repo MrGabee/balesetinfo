@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T14:33:05.078687+00:00",
-  "count": 3348,
+  "updated_at": "2026-10-17T14:36:32.648648+00:00",
+  "count": 3349,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92910",
+      "datetime": "2026.10.17. 16:36",
+      "title": "Baleset történt Nyúlon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92910",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Parkoló járműnek csapódott egy személygépkocsi Nyúlon, a Táncsics Mihály utcában, a Tagut utca közelében. A pannonhalmai hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyúl, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "92909",
       "datetime": "2026.10.17. 16:14",
