@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:46:46.596841+00:00",
+  "updated_at": "2026-10-17T20:49:57.169025+00:00",
   "count": 3358,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A Brigád utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy lakóház Győrben, a Brigád utcában. Az ingatlan tetőszerkezete teljes terjedelmében ég. A helyi hivatásos tűzoltók már körülhatárolták a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett.",
       "location": "Győr, Brigád utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Győrben",
+          "datetime": "2026.10.17. 22:43",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Győrben, a Brigád utcában, ahol egy nyolcvan négyzetméteres családi ház tetőszerkezete teljes terjedelmében égett. A győri és a lébényi hivatásos tűzoltók a négy vízsugárral fékezték meg a tüzet. A munkálatokat egy győri vízszállító jármű is segíti. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek. A helyszínre az áramszolgáltató szolgáltató szakemberei is kiérkeztek, akik kiszakaszolták az érintett utcát. A rajok jelenleg az utómunkálatokat végzik.",
+          "location": "Győr, Brigád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92918/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92918"
+        }
+      ]
     },
     {
       "id": "92917",
