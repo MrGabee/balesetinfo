@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T22:17:48.749041+00:00",
-  "count": 3359,
+  "updated_at": "2026-10-17T22:20:58.986629+00:00",
+  "count": 3360,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92921",
+      "datetime": "2026.10.18. 00:20",
+      "title": "Karambol történt a IX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
+      "location": "Budapest, Boráros tér",
+      "updates": []
+    },
     {
       "id": "92920",
       "datetime": "2026.10.17. 23:40",
