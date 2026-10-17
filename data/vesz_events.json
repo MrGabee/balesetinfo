@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T13:53:17.444325+00:00",
-  "count": 3346,
+  "updated_at": "2026-10-17T13:56:41.878098+00:00",
+  "count": 3347,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92908",
+      "datetime": "2026.10.17. 15:54",
+      "title": "Kamion és autó karambolozott az M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92908",
+      "lead": "A sztráda érintett szakaszán irányítás mellett halad a forgalom.",
+      "body": "Összeütközött egy személyautó és egy kamion Sávolynál, az M7-es autópálya 183-as kilométerénél, a Letenye felé vezető oldalon. A baleset következtében a személygépkocsiba egy embert beszorult, őt a keszthelyi és a marcali hivatásos tűzoltók feszítővágó segítségével kiszabadították. A társhatóságok is a helyszínen dolgoznak. A sztráda érintett szakaszán irányítás mellett halad a forgalom.",
+      "location": "Sávoly, M7",
+      "updates": []
+    },
     {
       "id": "92907",
       "datetime": "2026.10.17. 15:05",
