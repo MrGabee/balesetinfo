@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T19:46:37.312559+00:00",
-  "count": 3357,
+  "updated_at": "2026-10-17T19:49:47.581751+00:00",
+  "count": 3358,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92919",
+      "datetime": "2026.10.17. 21:47",
+      "title": "Épület ég Tiszakécske külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919",
+      "lead": "A Sárhalom dűlőbe vonultak ki a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy épület Tiszakécske külterületén, a Sárhalom dűlőben. A tiszakécskei önkormányzati tűzoltók dolgoznak a helyszínen. A raj két vízsugárral oltja a lángokat.",
+      "location": "Tiszakécske, Sárhalom dűlő",
+      "updates": []
+    },
     {
       "id": "92918",
       "datetime": "2026.10.17. 21:37",
