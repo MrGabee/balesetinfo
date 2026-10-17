@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T19:21:40.044468+00:00",
-  "count": 3354,
+  "updated_at": "2026-10-17T19:24:58.311444+00:00",
+  "count": 3355,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92916",
+      "datetime": "2026.10.17. 21:22",
+      "title": "Motorossal ütközött össze egy személyautó a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92916",
+      "lead": "Az Üllői úton történt a baleset.",
+      "body": "Egy motorkerékpáros és egy személyautó karambolozott Budapest XVIII. kerületében, az Üllői úton, a Losonc utca közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
     {
       "id": "92915",
       "datetime": "2026.10.17. 20:49",
