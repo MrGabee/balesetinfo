@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T13:02:43.474053+00:00",
-  "count": 3345,
+  "updated_at": "2026-10-17T13:06:24.426432+00:00",
+  "count": 3346,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92907",
+      "datetime": "2026.10.17. 15:05",
+      "title": "Árokba borult egy autó 3823-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92907",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Letért az úttestről és az árokba borult egy személygépkocsi Kemecsénél, a 3823-as út 31-es kilométerénél. A nyíregyházi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Kemecse, 3823",
+      "updates": []
+    },
     {
       "id": "92906",
       "datetime": "2026.10.17. 14:53",
