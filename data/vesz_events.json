@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-17T16:02:41.207466+00:00",
-  "count": 3351,
+  "updated_at": "2026-10-17T16:06:00.703736+00:00",
+  "count": 3352,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92913",
+      "datetime": "2026.10.17. 18:04",
+      "title": "Több jármű karambolozott az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92913",
+      "lead": "A főváros felé vezető szakaszon, Herceghalomnál történt a baleset.",
+      "body": "Összeütközött öt személygépkocsi Herceghalomnál, az M1-es autópálya 27-es kilométerénél, a Budapest felé vezető oldalon. Az utoléréses balesetnél a törökbálinti hivatásos tűzoltók két járművet áramtalanítottak. A társhatóság is a helyszínen dolgozik. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Herceghalom, M1",
+      "updates": []
+    },
     {
       "id": "92912",
       "datetime": "2026.10.17. 17:58",
