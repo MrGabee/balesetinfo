@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T10:46:58.408925+00:00",
-  "count": 3366,
+  "updated_at": "2026-10-18T10:50:06.320495+00:00",
+  "count": 3367,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92928",
+      "datetime": "2026.10.18. 12:47",
+      "title": "Ég egy autó Gyálon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92928",
+      "lead": "A gépkocsi belecsúszott a Gyáli-patak kiszáradt medrébe is.",
+      "body": "Menet közben kigyulladt egy személykocsi Gyálon, a Rádióleadó utca utáni területen. Az autóban ketten ültek, ki tudtak szállni a járműből, amely ezután belecsúszott a Gyáli-patak medrébe. A teljes terjedelmében égő autó lángjai átterjedtek a környező aljnövényzetre is. Az oltást a gyáli önkéntes tűzoltók kezdték meg, néhány perccel később a munkába bekapcsolódtak a fővárosi hivatásos tűzoltók is. Az egységek vízsugarakkal oltják a jármű, illetve a növényzet tüzét.",
+      "location": "Gyál, Rádióleadó utca",
+      "updates": []
+    },
     {
       "id": "92927",
       "datetime": "2026.10.18. 11:04 -",
