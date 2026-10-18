@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T05:04:02.859184+00:00",
-  "count": 3362,
+  "updated_at": "2026-10-18T05:07:28.380750+00:00",
+  "count": 3363,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92924",
+      "datetime": "2026.10.18. 07:04",
+      "title": "Konyhatűz Sopronban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92924",
+      "lead": "A IV. László király utcában dolgoznak a tűzoltók.",
+      "body": "Tűz volt egy soproni társasházi lakásban, a IV. László király utcában. A lakás konyhájában a konyhabútor és az ajtókeret égett. Az ingatlan füsttel telítődött. A helyi hivatásos tűzoltók eloltották a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is az esetnél dolgozik.",
+      "location": "Sopron, IV. László király utca",
+      "updates": []
+    },
     {
       "id": "92923",
       "datetime": "2026.10.18. 06:57",
