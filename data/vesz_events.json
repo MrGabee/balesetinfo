@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:51:53.260195+00:00",
+  "updated_at": "2026-10-18T16:55:38.627341+00:00",
   "count": 3378,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -192,9 +192,9 @@
       "title": "Konyhatűz Sopronban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92924",
-      "lead": "A IV. László király utcában dolgoznak a tűzoltók.",
-      "body": "Tűz volt egy soproni társasházi lakásban, a IV. László király utcában. A lakás konyhájában a konyhabútor és az ajtókeret égett. Az ingatlan füsttel telítődött. A helyi hivatásos tűzoltók eloltották a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is az esetnél dolgozik.",
-      "location": "Sopron, IV. László király utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -217,16 +217,7 @@
       "lead": "A Petőfi utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Szabadszentkirály, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Szabadszentkirályon",
-          "datetime": "2026.10.18. 07:33",
-          "category": "Tűzeset",
-          "text": "A tűzoltók az utómunkálatokat végzik Szabadszentkirályon, a Petőfi utcában, ahol egy nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy nyolcvan százaléka égett. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók a munkálatokat során két gázpalackot is kihoztak, az egyik palack még az ingatlanban felrobbant. A rajok öt vízsugárral oltották el a lángokat a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
-          "location": "Szabadszentkirály, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92922"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92921",
