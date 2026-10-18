@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T15:58:40.771616+00:00",
-  "count": 3375,
+  "updated_at": "2026-10-18T16:02:28.549705+00:00",
+  "count": 3376,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92937",
+      "datetime": "2026.10.18. 17:59",
+      "title": "Súlyos baleset történt az M3-as sztrádán, Hort térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92937",
+      "lead": "A 63-as kilométernél fának rohant egy autó.",
+      "body": "Elhagyta az úttestet és fának rohant egy személykocsi az M3-as autópálya Miskolc felé vezető oldalán, a 63-as kilométernél. A jármű egyedül utazó sofőrjét civilek emelték ki az autóból, a gépkocsivezetőhöz mentő is érkezett. A hatvani hivatásos tűzoltók áramtalanították a járművet, illetve hígították az akkumulátorból kifolyt kénsavat.",
+      "location": "Hort, M3",
+      "updates": []
+    },
     {
       "id": "92936",
       "datetime": "2026.10.18. 17:42",
