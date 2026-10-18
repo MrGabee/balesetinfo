@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T12:27:50.484090+00:00",
-  "count": 3369,
+  "updated_at": "2026-10-18T12:31:31.455407+00:00",
+  "count": 3370,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92931",
+      "datetime": "2026.10.18. 14:29",
+      "title": "Baleset történt a 25-ös főút ózdi szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92931",
+      "lead": "A 72-73-as kilométer között, a Móricz Zsigmond utcai kereszteződés közelében karambolozott két autó.",
+      "body": "Összeütközött két személykocsi Ózdon, a 25-ös főút városi szakaszán. A 72-73-as kilométer között történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A járművekben összesen négyen utaztak, hozzájuk mentő érkezett.",
+      "location": "Ózd, 25",
+      "updates": []
+    },
     {
       "id": "92930",
       "datetime": "2026.10.18. 13:25",
@@ -126,9 +137,9 @@
       "title": "Karambol történt a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
+      "location": "Budapest, Boráros tér",
       "updates": []
     },
     {
@@ -137,9 +148,9 @@
       "title": "Összeütközött két autó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92920",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Két személygépkocsi karambolozott Debrecenben, a Kossuth utcában, a Sas utca közelében. A balesethez a helyi hivatásos tűzoltók vonultak ki. Az egység áramtalanítja a járműveket.",
+      "location": "Debrecen, Kossuth utca",
       "updates": []
     },
     {
@@ -148,10 +159,19 @@
       "title": "Épület ég Tiszakécske külterületén",
       "category": "Épület ég Tiszakécske külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Sárhalom dűlőbe vonultak ki a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy épület Tiszakécske külterületén, a Sárhalom dűlőben. A tiszakécskei önkormányzati tűzoltók dolgoznak a helyszínen. A raj két vízsugárral oltja a lángokat.",
+      "location": "Tiszakécske, Sárhalom dűlő",
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók Tiszakécskénél",
+          "datetime": "2026.10.17. 22:54",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Tiszakécske külterületén, a Sárhalom dűlőben, ahogy egy épület gyulladt ki. A százötven négyzetméteres ház több helyisége is teljes terjedelmében égett. A kecskeméti hivatásos és a tiszakécskei önkormányzati tűzoltók négy vízsugárral oltották el a lángokat.",
+          "location": "Tiszakécske, Sárhalom dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92919"
+        }
+      ]
     },
     {
       "id": "92918",
@@ -223,9 +243,9 @@
       "title": "Több jármű karambolozott az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92913",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A főváros felé vezető szakaszon, Herceghalomnál történt a baleset.",
+      "body": "Összeütközött öt személygépkocsi Herceghalomnál, az M1-es autópálya 27-es kilométerénél, a Budapest felé vezető oldalon. Az utoléréses balesetnél a törökbálinti hivatásos tűzoltók két járművet áramtalanítottak. A társhatóság is a helyszínen dolgozik. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Herceghalom, M1",
       "updates": []
     },
     {
