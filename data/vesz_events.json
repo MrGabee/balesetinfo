@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:59:11.467500+00:00",
+  "updated_at": "2026-10-18T18:02:53.499706+00:00",
   "count": 3380,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -225,9 +225,9 @@
       "title": "Pincetűz Oltárc külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92923",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók jelenleg az utómunkálatokat végzik a helyszínen.",
+      "body": "Tűz keletkezett Oltárc külterületén, ahol egy huszonnégy négyzetméteres pince égett. A letenyei, a kanizsai hivatásos és a bázakerettyei önkéntes tűzoltók két vízsugárral oltották el a lángokat. Utómunkálatokat végeznek.",
+      "location": "Oltác, külterület",
       "updates": []
     },
     {
@@ -236,10 +236,19 @@
       "title": "Lakóház ég Szabadszentkirályon",
       "category": "Lakóház ég Szabadszentkirályon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Petőfi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
+      "location": "Szabadszentkirály, Petőfi Sándor utca",
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Szabadszentkirályon",
+          "datetime": "2026.10.18. 07:33",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Szabadszentkirályon, a Petőfi utcában, ahol egy nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy nyolcvan százaléka égett. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók a munkálatokat során két gázpalackot is kihoztak, az egyik palack még az ingatlanban felrobbant. A rajok öt vízsugárral oltották el a lángokat a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
+          "location": "Szabadszentkirály, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92922"
+        }
+      ]
     },
     {
       "id": "92921",
@@ -247,9 +256,9 @@
       "title": "Karambol történt a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
+      "location": "Budapest, Boráros tér",
       "updates": []
     },
     {
