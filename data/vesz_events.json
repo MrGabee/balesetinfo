@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:55:38.627341+00:00",
+  "updated_at": "2026-10-18T16:59:16.426768+00:00",
   "count": 3378,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -128,9 +128,9 @@
       "title": "Felborult egy autó Izsák és Páhi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92929",
-      "lead": "A kiskőrösi tűzoltókat az 5301-es út 25-ös kilométeréhez riasztották.",
-      "body": "Árokba hajtott és ott a tetejére borulva állt meg egy személykocsi az 5301-es út Páhi és Izsák közötti szakaszán, a 25-ös kilométernél. A járműben hárman utaztak, a helyszínre mentő is érkezett. A kiskőrösi hivatásos tűzoltók áramtalanították az autót. Az út érintett szakaszán félpályán lehet közlekedni.",
-      "location": "Orgovány, 5301",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -139,9 +139,9 @@
       "title": "Ég egy autó Gyálon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92928",
-      "lead": "A gépkocsi belecsúszott a Gyáli-patak kiszáradt medrébe is.",
-      "body": "Menet közben kigyulladt egy személykocsi Gyálon, a Rádióleadó utca utáni területen. Az autóban ketten ültek, ki tudtak szállni a járműből, amely ezután belecsúszott a Gyáli-patak medrébe. A teljes terjedelmében égő autó lángjai átterjedtek a környező aljnövényzetre is. Az oltást a gyáli önkéntes tűzoltók kezdték meg, néhány perccel később a munkába bekapcsolódtak a fővárosi hivatásos tűzoltók is. Az egységek vízsugarakkal oltják a jármű, illetve a növényzet tüzét.",
-      "location": "Gyál, Rádióleadó utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -217,7 +217,16 @@
       "lead": "A Petőfi utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Szabadszentkirály, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Szabadszentkirályon",
+          "datetime": "2026.10.18. 07:33",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Szabadszentkirályon, a Petőfi utcában, ahol egy nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy nyolcvan százaléka égett. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók a munkálatokat során két gázpalackot is kihoztak, az egyik palack még az ingatlanban felrobbant. A rajok öt vízsugárral oltották el a lángokat a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
+          "location": "Szabadszentkirály, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92922"
+        }
+      ]
     },
     {
       "id": "92921",
