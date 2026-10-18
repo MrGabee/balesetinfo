@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T13:19:05.328099+00:00",
-  "count": 3370,
+  "updated_at": "2026-10-18T13:22:32.691117+00:00",
+  "count": 3371,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92932",
+      "datetime": "2026.10.18. 15:19",
+      "title": "Árokba borult egy autó a 6-os főút tolnai szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92932",
+      "lead": "A 132-es kilométerhez vonultak a város tűzoltói.",
+      "body": "Négyen utaztak abban a személykocsiban, amelyik balesetet szenvedett a 6-os főút tolnai szakaszán. A 132-es kilométernél történt a baleset, a város önkormányzati tűzoltói áramtalanítottak. Az utasokhoz mentőautók érkeztek. A főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Tolna, 6",
+      "updates": []
+    },
     {
       "id": "92931",
       "datetime": "2026.10.18. 14:29",
