@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T16:09:27.674719+00:00",
-  "count": 3376,
+  "updated_at": "2026-10-18T16:12:55.001217+00:00",
+  "count": 3377,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92938",
+      "datetime": "2026.10.18. 18:10",
+      "title": "Égett egy épület Miskolc-Lyukóvölgyben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92938",
+      "lead": "A Nagy Kerekhegy-dűlőbe miskolci és diósgyőri tűzoltók vonultak.",
+      "body": "Tűz ütött ki egy kisebb épületben Miskolc-Lyukóvölgyben, a Nagy Kerekhegy-dűlőben. Az esethez miskolci és diósgyőri hivatásos tűzoltók vonultak. Az egységek vízsugárral és kéziszerszámokkal oltották el a lángokat.",
+      "location": "Miskolc, Nagy Kerekhegy dűlő",
+      "updates": []
+    },
     {
       "id": "92937",
       "datetime": "2026.10.18. 17:59",
