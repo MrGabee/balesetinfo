@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T14:52:46.623159+00:00",
-  "count": 3373,
+  "updated_at": "2026-10-18T14:55:53.128718+00:00",
+  "count": 3374,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92935",
+      "datetime": "2026.10.18. 16:54",
+      "title": "Kigyulladt egy autó Bakonyjákón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92935",
+      "lead": "A Petőfi Sándor utcába pápai tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi Bakonyjákón, a Petőfi Sándor utcában. A lángok átterjedtek a környező bokros részre is. A pápai hivatásos tűzoltók oltották el a tüzet, már az utómunkálatoknál tartanak.",
+      "location": "Bakonyjákó, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "92934",
       "datetime": "2026.10.18. 16:33",
