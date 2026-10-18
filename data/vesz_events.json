@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T11:24:39.029317+00:00",
-  "count": 3368,
+  "updated_at": "2026-10-18T11:27:53.232156+00:00",
+  "count": 3369,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92930",
+      "datetime": "2026.10.18. 13:25",
+      "title": "Karambol történt Budapest huszadik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92930",
+      "lead": "A Knézits és a Pöltenberg utca kereszteződéséhez vonultak a tűzoltók.",
+      "body": "Egymásba hajtott két autó Budapesten, a huszadik kerületi Knézits és Pöltenberg utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanítottak. A járművek utasaihoz mentő érkezett, egy embert a tűzoltók feszítővágó segítségével szabadítottak ki az összetört gépkocsiból.",
+      "location": "Budapest, Knézits utca",
+      "updates": []
+    },
     {
       "id": "92929",
       "datetime": "2026.10.18. 13:12",
