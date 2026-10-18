@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T04:53:41.888610+00:00",
-  "count": 3361,
+  "updated_at": "2026-10-18T04:57:26.360967+00:00",
+  "count": 3362,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92923",
+      "datetime": "2026.10.18. 06:57",
+      "title": "Pincetűz Oltárc külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92923",
+      "lead": "A tűzoltók jelenleg az utómunkálatokat végzik a helyszínen.",
+      "body": "Tűz keletkezett Oltárc külterületén, ahol egy huszonnégy négyzetméteres pince égett. A letenyei, a kanizsai hivatásos és a bázakerettyei önkéntes tűzoltók két vízsugárral oltották el a lángokat. Utómunkálatokat végeznek.",
+      "location": "Oltác, külterület",
+      "updates": []
+    },
     {
       "id": "92922",
       "datetime": "2026.10.18. 06:25",
