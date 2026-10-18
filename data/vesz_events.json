@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T22:00:50.072972+00:00",
-  "count": 3383,
+  "updated_at": "2026-10-18T22:04:11.506419+00:00",
+  "count": 3384,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92945",
+      "datetime": "2026.10.19. 00:01",
+      "title": "Baleset történt a 8-as főúton, Várpalotánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92945",
+      "lead": "A 26-os kilométernél szalagkorlátnak hajtott egy autó.",
+      "body": "Egy vad ugrott elé, manőverezés közben pedig megcsúszott az úton és szalagkorlátnak ütközött egy személykocsi a 8-as főút 26-os kilométerénél. A Várpalota mellett történt balesethez a pétfürdői hivatásos tűzoltók vonultak, áramtalanítottak. A főút érintett szakaszán fennakadásra kell számítani.",
+      "location": "Várpalota, 8",
+      "updates": []
+    },
     {
       "id": "92944",
       "datetime": "2026.10.18. 21:59",
