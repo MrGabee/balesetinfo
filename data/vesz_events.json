@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T04:22:48.751525+00:00",
-  "count": 3360,
+  "updated_at": "2026-10-18T04:26:22.520512+00:00",
+  "count": 3361,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92922",
+      "datetime": "2026.10.18. 06:25",
+      "title": "Lakóház ég Szabadszentkirályon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922",
+      "lead": "A Petőfi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
+      "location": "Szabadszentkirály, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "92921",
       "datetime": "2026.10.18. 00:20",
