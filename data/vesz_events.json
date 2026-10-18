@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T09:01:46.467390+00:00",
-  "count": 3365,
+  "updated_at": "2026-10-18T09:05:10.411812+00:00",
+  "count": 3366,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92927",
+      "datetime": "2026.10.18. 11:04",
+      "title": "Kazánházban keletkezett tűz Békéscsabán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927",
+      "lead": "A tűzoltókat a Legelő utcába riasztották.",
+      "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
+      "location": "Békéscsaba, Legelő utca",
+      "updates": []
+    },
     {
       "id": "92926",
       "datetime": "2026.10.18. 10:22",
