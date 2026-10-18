@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:24:12.623866+00:00",
+  "updated_at": "2026-10-18T12:27:50.484090+00:00",
   "count": 3369,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -126,9 +126,9 @@
       "title": "Karambol történt a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
-      "lead": "Forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
-      "location": "Budapest, Boráros tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -137,9 +137,9 @@
       "title": "Összeütközött két autó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92920",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Két személygépkocsi karambolozott Debrecenben, a Kossuth utcában, a Sas utca közelében. A balesethez a helyi hivatásos tűzoltók vonultak ki. Az egység áramtalanítja a járműveket.",
-      "location": "Debrecen, Kossuth utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -148,19 +148,10 @@
       "title": "Épület ég Tiszakécske külterületén",
       "category": "Épület ég Tiszakécske külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919",
-      "lead": "A Sárhalom dűlőbe vonultak ki a tűzoltók.",
-      "body": "Kigyulladt és teljes terjedelmében ég egy épület Tiszakécske külterületén, a Sárhalom dűlőben. A tiszakécskei önkormányzati tűzoltók dolgoznak a helyszínen. A raj két vízsugárral oltja a lángokat.",
-      "location": "Tiszakécske, Sárhalom dűlő",
-      "updates": [
-        {
-          "title": "Utómunkálatokat végeznek a tűzoltók Tiszakécskénél",
-          "datetime": "2026.10.17. 22:54",
-          "category": "Tűzeset",
-          "text": "Utómunkálatokat végeznek a tűzoltók Tiszakécske külterületén, a Sárhalom dűlőben, ahogy egy épület gyulladt ki. A százötven négyzetméteres ház több helyisége is teljes terjedelmében égett. A kecskeméti hivatásos és a tiszakécskei önkormányzati tűzoltók négy vízsugárral oltották el a lángokat.",
-          "location": "Tiszakécske, Sárhalom dűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92919"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92918",
@@ -232,9 +223,9 @@
       "title": "Több jármű karambolozott az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92913",
-      "lead": "A főváros felé vezető szakaszon, Herceghalomnál történt a baleset.",
-      "body": "Összeütközött öt személygépkocsi Herceghalomnál, az M1-es autópálya 27-es kilométerénél, a Budapest felé vezető oldalon. Az utoléréses balesetnél a törökbálinti hivatásos tűzoltók két járművet áramtalanítottak. A társhatóság is a helyszínen dolgozik. A sztráda érintett szakaszán forgalmi akadály van.",
-      "location": "Herceghalom, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -356,7 +347,16 @@
       "lead": "A Bajcsy-Zsilinszky útra riasztották a tűzoltókat.",
       "body": "Kigyulladt egy családi ház Inárcson, a Bajcsy-Zsilinszky úton. A nyolcvan négyzetméteres ingatlan egyik helyisége teljes terjedelmében ég. A tűz a födémszerkezetre is átterjedt. A dabasi hivatásos tűzoltók négy vízsugárral oltják a lángokat.",
       "location": "Inárcs, Bajcsy-Zsilinszky út",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók az utómunkálatokat végzik Inárcson",
+          "datetime": "2026.10.17. 10:34",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Inárcson, a Bajcsy-Zsilinszky úton, ahol egy nyolcvan négyzetméter alapterületű lakóház egyik helyisége teljes terjedelmében égett. A lángok a födémszerkezetre is átterjedtek. A dabasi hivatásos tűzoltók négy vízsugárral fékezték meg a tüzet. A rajok jelenleg az utómunkálatokat végzik.",
+          "location": "Inárcs, Bajcsy-Zsilinszky út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92902/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92902"
+        }
+      ]
     },
     {
       "id": "92901",
@@ -450,9 +450,9 @@
       "title": "Szarvast gázolt egy autó a 23-ason, Bátonyterenyénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92894",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Szarvast gázolt el egy gépkocsi a 23-as főút 2-es kilométerszelvénye közelében, Bátonyterenye térségében. Hárman utaztak a járműben, amelyet a bátonyterenyei hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Bátonyterenye, 23",
       "updates": []
     },
     {
