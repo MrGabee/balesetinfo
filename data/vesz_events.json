@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:44:35.248556+00:00",
+  "updated_at": "2026-10-18T09:48:07.950805+00:00",
   "count": 3366,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -51,9 +51,9 @@
       "title": "Konyhatűz Sopronban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92924",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A IV. László király utcában dolgoznak a tűzoltók.",
+      "body": "Tűz volt egy soproni társasházi lakásban, a IV. László király utcában. A lakás konyhájában a konyhabútor és az ajtókeret égett. Az ingatlan füsttel telítődött. A helyi hivatásos tűzoltók eloltották a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is az esetnél dolgozik.",
+      "location": "Sopron, IV. László király utca",
       "updates": []
     },
     {
@@ -115,10 +115,19 @@
       "title": "Épület ég Tiszakécske külterületén",
       "category": "Épület ég Tiszakécske külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Sárhalom dűlőbe vonultak ki a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy épület Tiszakécske külterületén, a Sárhalom dűlőben. A tiszakécskei önkormányzati tűzoltók dolgoznak a helyszínen. A raj két vízsugárral oltja a lángokat.",
+      "location": "Tiszakécske, Sárhalom dűlő",
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók Tiszakécskénél",
+          "datetime": "2026.10.17. 22:54",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Tiszakécske külterületén, a Sárhalom dűlőben, ahogy egy épület gyulladt ki. A százötven négyzetméteres ház több helyisége is teljes terjedelmében égett. A kecskeméti hivatásos és a tiszakécskei önkormányzati tűzoltók négy vízsugárral oltották el a lángokat.",
+          "location": "Tiszakécske, Sárhalom dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92919"
+        }
+      ]
     },
     {
       "id": "92918",
@@ -223,9 +232,9 @@
       "title": "Baleset történt Nyúlon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92910",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Parkoló járműnek csapódott egy személygépkocsi Nyúlon, a Táncsics Mihály utcában, a Tagut utca közelében. A pannonhalmai hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is az esetnél dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyúl, Táncsics Mihály utca",
       "updates": []
     },
     {
