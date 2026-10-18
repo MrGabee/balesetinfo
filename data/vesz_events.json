@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T06:21:06.557745+00:00",
-  "count": 3363,
+  "updated_at": "2026-10-18T06:24:32.785362+00:00",
+  "count": 3364,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92925",
+      "datetime": "2026.10.18. 08:21",
+      "title": "Baleset történt a 481-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92925",
+      "lead": "A 3-as kilométernél egy autó korlátnak ütközött.",
+      "body": "Lesodródott az útról és korlátnak ütközött egy személykocsi a 481-es úton, a 3-as kilométernél, a burkolatra üzemanyag került. A jármű egyedül utazó sofőrje ki tudott szállni az autóból, mentőt riasztottak hozzá. A debreceni hivatásos tűzoltók végzik a műszaki mentést, egyebek mellett megszüntették a gázolaj folyását.",
+      "location": "Debrecen, 481",
+      "updates": []
+    },
     {
       "id": "92924",
       "datetime": "2026.10.18. 07:04",
