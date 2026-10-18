@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T08:21:44.710753+00:00",
-  "count": 3364,
+  "updated_at": "2026-10-18T08:24:57.271251+00:00",
+  "count": 3365,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92926",
+      "datetime": "2026.10.18. 10:22",
+      "title": "Kigyulladt egy melléképület Battonyán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92926",
+      "lead": "A Puskin utcába több település tűzoltóit riasztották.",
+      "body": "Tűz ütött ki egy battonyai melléképületben. A nagyjából ötven négyzetméteres épület tüzéhez a helyi önkéntes tűzoltók érkeztek ki elsőként, pár percen belül ott voltak a mezőkovácsházi hivatásos egységek is, a helyszínre orosházi hivatásos tűzoltókat, illetve a Békés megyei katasztrófavédelmi műveleti szolgálatot is várják. A rajok azonnal megkezdték a terménytárolóra és állatokra is veszélyt jelentő lángok oltását, a tüzet négy vízsugárral körülhatárolták.",
+      "location": "Battonya, Puskin utca",
+      "updates": []
+    },
     {
       "id": "92925",
       "datetime": "2026.10.18. 08:21",
