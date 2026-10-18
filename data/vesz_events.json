@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T17:06:47.262943+00:00",
-  "count": 3378,
+  "updated_at": "2026-10-18T17:10:26.034304+00:00",
+  "count": 3379,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92940",
+      "datetime": "2026.10.18. 19:09",
+      "title": "Teljes terjedelmében égett egy gépkocsi Karád és Andocs között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92940",
+      "lead": "A tűzoltók a 6514-es út 3-4-es kilométere között dolgoztak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy autó a 6514-es út Andocs és Karád közötti szakaszán. A jármű oltását a karádi önkéntes tűzoltók kezdték el, hozzájuk csatlakoztak a balatonboglári önkormányzati tűzoltók. Az egységek eloltották a lángokat, visszahűtötték és hőkamerával átvizsgálták az út közepén veszteglő gépkocsit. Végül letolták az útról az autót.",
+      "location": "Andocs, 6514",
+      "updates": []
+    },
     {
       "id": "92939",
       "datetime": "2026.10.18. 18:20",
