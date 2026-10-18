@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T14:29:27.050530+00:00",
-  "count": 3372,
+  "updated_at": "2026-10-18T14:33:18.455629+00:00",
+  "count": 3373,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92934",
+      "datetime": "2026.10.18. 16:33",
+      "title": "Nagy területen égett a tarló Diósviszló külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92934",
+      "lead": "A siklósi hivatásos tűzoltók avatkoztak be.",
+      "body": "Többhektáros terület gyulladt meg Diósviszló külterületén. A körbetárcsázott területen égő tűz nem jelentett veszélyt semmire. A siklósi hivatásos tűzoltók vízsugárral, kéziszerszámokkal körülhatárolták, majd eloltották a tüzet. Az egység már az utómunkálatokat végzi.",
+      "location": "Diósviszló, külterület",
+      "updates": []
+    },
     {
       "id": "92933",
       "datetime": "2026.10.18. 16:07",
