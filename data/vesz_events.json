@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T19:03:49.757764+00:00",
-  "count": 3381,
+  "updated_at": "2026-10-18T19:06:56.320980+00:00",
+  "count": 3382,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92943",
+      "datetime": "2026.10.18. 21:06",
+      "title": "Baleset történt Rákoscsabán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92943",
+      "lead": "A Pesti úton, Budapest határánál árokba hajtott egy autó.",
+      "body": "A sofőr elrántotta a kormányt, emiatt árokba csapódott egy személykocsi Budapest tizenhetedik kerületében, a Pesti út végén, a városhatárhoz közel. A jármű vezetőjéhez mentőt riasztottak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, Pesti út",
+      "updates": []
+    },
     {
       "id": "92942",
       "datetime": "2026.10.18. 21:00",
