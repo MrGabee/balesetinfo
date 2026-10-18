@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T11:10:35.885837+00:00",
-  "count": 3367,
+  "updated_at": "2026-10-18T11:14:34.086117+00:00",
+  "count": 3368,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92929",
+      "datetime": "2026.10.18. 13:12",
+      "title": "Felborult egy autó Izsák és Páhi között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92929",
+      "lead": "A kiskőrösi tűzoltókat az 5301-es út 25-ös kilométeréhez riasztották.",
+      "body": "Árokba hajtott és ott a tetejére borulva állt meg egy személykocsi az 5301-es út Páhi és Izsák közötti szakaszán, a 25-ös kilométernél. A járműben hárman utaztak, a helyszínre mentő is érkezett. A kiskőrösi hivatásos tűzoltók áramtalanították az autót. Az út érintett szakaszán félpályán lehet közlekedni.",
+      "location": "Orgovány, 5301",
+      "updates": []
+    },
     {
       "id": "92928",
       "datetime": "2026.10.18. 12:47",
