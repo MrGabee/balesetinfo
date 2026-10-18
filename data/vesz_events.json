@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T15:41:00.166102+00:00",
-  "count": 3374,
+  "updated_at": "2026-10-18T15:43:50.709435+00:00",
+  "count": 3375,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92936",
+      "datetime": "2026.10.18. 17:42",
+      "title": "Tűz ütött ki egy kecskemét-kadafalvai házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936",
+      "lead": "A Mogyoró utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz keletkezett egy kecskemét-kadafalvai házban. A Mogyoró utcai épület egyik helyiségében csaptak fel a lángok, a szoba, illetve a berendezés tárgyak égtek. A megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a lángokat, vizsgálják a tetőt.",
+      "location": "Kecskemét, Mogyoró utca",
+      "updates": []
+    },
     {
       "id": "92935",
       "datetime": "2026.10.18. 16:54",
