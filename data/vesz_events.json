@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:20:57.276374+00:00",
+  "updated_at": "2026-10-18T12:24:12.623866+00:00",
   "count": 3369,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -356,16 +356,7 @@
       "lead": "A Bajcsy-Zsilinszky útra riasztották a tűzoltókat.",
       "body": "Kigyulladt egy családi ház Inárcson, a Bajcsy-Zsilinszky úton. A nyolcvan négyzetméteres ingatlan egyik helyisége teljes terjedelmében ég. A tűz a födémszerkezetre is átterjedt. A dabasi hivatásos tűzoltók négy vízsugárral oltják a lángokat.",
       "location": "Inárcs, Bajcsy-Zsilinszky út",
-      "updates": [
-        {
-          "title": "A tűzoltók az utómunkálatokat végzik Inárcson",
-          "datetime": "2026.10.17. 10:34",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Inárcson, a Bajcsy-Zsilinszky úton, ahol egy nyolcvan négyzetméter alapterületű lakóház egyik helyisége teljes terjedelmében égett. A lángok a födémszerkezetre is átterjedtek. A dabasi hivatásos tűzoltók négy vízsugárral fékezték meg a tüzet. A rajok jelenleg az utómunkálatokat végzik.",
-          "location": "Inárcs, Bajcsy-Zsilinszky út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92902/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92902"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92901",
@@ -459,9 +450,9 @@
       "title": "Szarvast gázolt egy autó a 23-ason, Bátonyterenyénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92894",
-      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
-      "body": "Szarvast gázolt el egy gépkocsi a 23-as főút 2-es kilométerszelvénye közelében, Bátonyterenye térségében. Hárman utaztak a járműben, amelyet a bátonyterenyei hivatásos tűzoltók áramtalanítottak. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
-      "location": "Bátonyterenye, 23",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
