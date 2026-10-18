@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T18:57:06.740587+00:00",
-  "count": 3380,
+  "updated_at": "2026-10-18T19:00:31.517205+00:00",
+  "count": 3381,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92942",
+      "datetime": "2026.10.18. 21:00",
+      "title": "Teljes terjedelmében ég egy épület Lentiben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942",
+      "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
+      "location": "Lenti, Arany János út",
+      "updates": []
+    },
     {
       "id": "92941",
       "datetime": "2026.10.18. 19:15",
