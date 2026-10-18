@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-18T16:20:15.992859+00:00",
-  "count": 3377,
+  "updated_at": "2026-10-18T16:23:56.304378+00:00",
+  "count": 3378,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92939",
+      "datetime": "2026.10.18. 18:20",
+      "title": "Összeütközött két személykocsi Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92939",
+      "lead": "A baleset a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél történt.",
+      "body": "Egymásba hajtott két autó Budapest huszonegyedik kerületében, a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az utasok el tudták hagyni a járműveket.",
+      "location": "Budapest, Árpád utca",
+      "updates": []
+    },
     {
       "id": "92938",
       "datetime": "2026.10.18. 18:10",
