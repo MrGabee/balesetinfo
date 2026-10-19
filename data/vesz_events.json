@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:52:39.202995+00:00",
+  "updated_at": "2026-10-19T07:56:39.684308+00:00",
   "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -203,9 +203,9 @@
       "title": "Összeütközött két autó az 56-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92933",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset a 10-11-es kilométer között, Decs térségében történt.",
+      "body": "Egymásba hajtott két személykocsi az 56-os főút Szekszárd és Várdomb közötti szakaszán, Decs térségében. Az egyik jármű árokba is hajtott, a másik az úttesten állt meg. A 10-11-es kilométer között történt balesethez a szekszárdi hivatásos tűzoltókat riasztották, akik áramtalanították az egyik autót. A két gépkocsiban összesen négyen utaztak, a helyszínre mentő is érkezett.",
+      "location": "Decs, 56",
       "updates": []
     },
     {
@@ -272,7 +272,16 @@
       "lead": "A tűzoltókat a Legelő utcába riasztották.",
       "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
       "location": "Békéscsaba, Legelő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Békéscsabán",
+          "datetime": "2026.10.18. 11:26",
+          "category": "Tűzeset",
+          "text": "A Legelő utcában kigyulladt egy családi ház kazánháza, a város hivatásos tűzoltói oltották el a lángokat. Az egységek a családi házból kivittek három gázpalackokat, ezeket nem érte hő. A tűzoltók már az utómunkálatoknál tartanak.  A helyszínre mentő is érkezett.",
+          "location": "Békéscsaba, Legelő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92927"
+        }
+      ]
     },
     {
       "id": "92926",
@@ -439,9 +448,9 @@
       "title": "Vadat gázolt egy autó a 710-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92914",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Vadat gázolt el egy személygépkocsi Csajágnál, a 710-es főút 5-ös kilométerénél. A balatonfűzfői hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Csajág, 710",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
