@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T10:23:45.097893+00:00",
-  "count": 3393,
+  "updated_at": "2026-10-19T10:27:10.191536+00:00",
+  "count": 3394,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92955",
+      "datetime": "2026.10.19. 12:26",
+      "title": "Tűz volt egy élelmiszerboltban Budapest VI. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92955",
+      "lead": "Az Aradi utcába riasztották a tűzoltókat.",
+      "body": "Tűz volt egy élelmiszerboltban Budapest VI. kerületében, az Aradi utcában. A fővárosi hivatásos tűzoltók légzésvédelem mellett behatoltak az üzletbe, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Budapest, Aradi utca",
+      "updates": []
+    },
     {
       "id": "92954",
       "datetime": "2026.10.19. 12:00",
