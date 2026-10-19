@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T16:13:36.683560+00:00",
-  "count": 3400,
+  "updated_at": "2026-10-19T16:16:49.497775+00:00",
+  "count": 3401,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92962",
+      "datetime": "2026.10.19. 18:16",
+      "title": "Garázs ég Ócsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92962",
+      "lead": "A Rákóczi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy garázs Ócsán, a Rákóczi utcában. A dabasi hivatásos, valamint az ócsai önkéntes tűzoltók két vízsugárral dolgoznak a tűz eloltásán. A lángok két dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa.",
+      "location": "Ócsa, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "92961",
       "datetime": "2026.10.19. 17:41",
