@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T09:51:32.765511+00:00",
-  "count": 3391,
+  "updated_at": "2026-10-19T09:55:13.825155+00:00",
+  "count": 3392,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92953",
+      "datetime": "2026.10.19. 11:52",
+      "title": "Egymásnak ütközött két autó Budapest VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92953",
+      "lead": "A Kerepesi úton van szükség műszaki mentésre.",
+      "body": "Két személyautó karambolozott Budapest VIII. kerületben, a Kerepesi úton. A baleset a Fiumei út és a Hungária körút közötti szakaszon történt. A balesetben egy közlekedési tábla is megsérült. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Kerepesi út",
+      "updates": []
+    },
     {
       "id": "92952",
       "datetime": "2026.10.19. 10:47",
@@ -322,9 +333,9 @@
       "title": "Kigyulladt egy melléképület Battonyán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92926",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Puskin utcába több település tűzoltóit riasztották.",
+      "body": "Tűz ütött ki egy battonyai melléképületben. A nagyjából ötven négyzetméteres épület tüzéhez a helyi önkéntes tűzoltók érkeztek ki elsőként, pár percen belül ott voltak a mezőkovácsházi hivatásos egységek is, a helyszínre orosházi hivatásos tűzoltókat, illetve a Békés megyei katasztrófavédelmi műveleti szolgálatot is várják. A rajok azonnal megkezdték a terménytárolóra és állatokra is veszélyt jelentő lángok oltását, a tüzet négy vízsugárral körülhatárolták.",
+      "location": "Battonya, Puskin utca",
       "updates": []
     },
     {
