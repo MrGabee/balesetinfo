@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:39:14.095063+00:00",
+  "updated_at": "2026-10-19T13:43:19.641758+00:00",
   "count": 3397,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -194,10 +194,19 @@
       "title": "Teljes terjedelmében ég egy épület Lentiben",
       "category": "Teljes terjedelmében ég egy épület Lentiben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
+      "location": "Lenti, Arany János út",
+      "updates": [
+        {
+          "title": "Megkezdődtek az utómunkálatok Lentiben",
+          "datetime": "2026.10.18. 23:27",
+          "category": "Tűzeset",
+          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
+          "location": "Lenti, Arany János út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
+        }
+      ]
     },
     {
       "id": "92941",
@@ -346,9 +355,9 @@
       "title": "Felborult egy autó Izsák és Páhi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92929",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A kiskőrösi tűzoltókat az 5301-es út 25-ös kilométeréhez riasztották.",
+      "body": "Árokba hajtott és ott a tetejére borulva állt meg egy személykocsi az 5301-es út Páhi és Izsák közötti szakaszán, a 25-ös kilométernél. A járműben hárman utaztak, a helyszínre mentő is érkezett. A kiskőrösi hivatásos tűzoltók áramtalanították az autót. Az út érintett szakaszán félpályán lehet közlekedni.",
+      "location": "Orgovány, 5301",
       "updates": []
     },
     {
