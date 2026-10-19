@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:16:50.496881+00:00",
+  "updated_at": "2026-10-19T17:20:17.188001+00:00",
   "count": 3405,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -49,14 +49,23 @@
     },
     {
       "id": "92962",
-      "datetime": "2026.10.19. 18:16",
+      "datetime": "2026.10.19. 18:16 -",
       "title": "Garázs ég Ócsán",
-      "category": "Tűzeset",
+      "category": "Garázs ég Ócsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92962",
       "lead": "A Rákóczi utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy garázs Ócsán, a Rákóczi utcában. A dabasi hivatásos, valamint az ócsai önkéntes tűzoltók két vízsugárral dolgoznak a tűz eloltásán. A lángok két dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa.",
       "location": "Ócsa, Rákóczi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Ócsán",
+          "datetime": "2026.10.19. 19:19",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Ócsán, ahol egy garázs égett a Rákóczi utcában. A tűz két dissou palackot is érintett, amit egy mesterlövész ártalmatlanított. A lángokat a dabasi hivatásos, valamint az ócsai önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el. A rajok munkáját egy fővárosi vízszállító is segítette.",
+          "location": "Ócsa, Rákóczi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92962/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92962"
+        }
+      ]
     },
     {
       "id": "92961",
