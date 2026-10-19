@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T08:47:27.672107+00:00",
-  "count": 3390,
+  "updated_at": "2026-10-19T08:51:24.947859+00:00",
+  "count": 3391,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92952",
+      "datetime": "2026.10.19. 10:47",
+      "title": "Vonat és autó karambolozott Ikrényben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92952",
+      "lead": "A tűzoltók áramtalanították a gépkocsit.",
+      "body": "Összeütközött egy személyautó és egy vonat Ikrényben, a Vasútsor utcai vasúti átjáróban. A gépkocsiban hárman utaztak, mindannyian ki tudtak szállni. A műszaki mentést végző győri hivatásos tűzoltók áramtalanították a járművet. Mentő is érkezett a baleset helyszínére, ahol egy sávon halad a közúti forgalom.",
+      "location": "Ikrény, Vasútsor utca",
+      "updates": []
+    },
     {
       "id": "92951",
       "datetime": "2026.10.19. 10:33",
@@ -247,9 +258,9 @@
       "title": "Baleset történt a 25-ös főút ózdi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92931",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 72-73-as kilométer között, a Móricz Zsigmond utcai kereszteződés közelében karambolozott két autó.",
+      "body": "Összeütközött két személykocsi Ózdon, a 25-ös főút városi szakaszán. A 72-73-as kilométer között történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A járművekben összesen négyen utaztak, hozzájuk mentő érkezett.",
+      "location": "Ózd, 25",
       "updates": []
     },
     {
