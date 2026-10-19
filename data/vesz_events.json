@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T11:20:00.835558+00:00",
+  "updated_at": "2026-10-19T11:23:45.569969+00:00",
   "count": 3394,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Karambol a VII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92948",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dembinszky utcába riasztották a tűzoltókat.",
+      "body": "Összeütközött két személyautó Budapest VII. kerületében, a Dembinszky utcában, A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, Dembinszky utca",
       "updates": []
     },
     {
@@ -347,7 +347,16 @@
       "lead": "A tűzoltókat a Legelő utcába riasztották.",
       "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
       "location": "Békéscsaba, Legelő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Békéscsabán",
+          "datetime": "2026.10.18. 11:26",
+          "category": "Tűzeset",
+          "text": "A Legelő utcában kigyulladt egy családi ház kazánháza, a város hivatásos tűzoltói oltották el a lángokat. Az egységek a családi házból kivittek három gázpalackokat, ezeket nem érte hő. A tűzoltók már az utómunkálatoknál tartanak.  A helyszínre mentő is érkezett.",
+          "location": "Békéscsaba, Legelő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92927"
+        }
+      ]
     },
     {
       "id": "92926",
