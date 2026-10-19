@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T17:31:30.795865+00:00",
-  "count": 3405,
+  "updated_at": "2026-10-19T17:34:47.169705+00:00",
+  "count": 3406,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92967",
+      "datetime": "2026.10.19. 19:34",
+      "title": "Kisbusz és személyautó karambolozott Pilisvörösváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92967",
+      "lead": "A Budai utat lezárták.",
+      "body": "Kisbusz és személyautó ütközött össze Pilisvörösváron, a Budai úton. A Bányató és a Bartók Béla utca közötti balesethez a fővárosi hivatásos, valamint a pilisszentiváni önkéntes tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Pilisvörösvár, Budai út",
+      "updates": []
+    },
     {
       "id": "92966",
       "datetime": "2026.10.19. 19:16",
