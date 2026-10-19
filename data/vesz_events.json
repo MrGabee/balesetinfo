@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:54:08.746447+00:00",
+  "updated_at": "2026-10-19T13:57:36.101740+00:00",
   "count": 3398,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,14 +38,23 @@
     },
     {
       "id": "92956",
-      "datetime": "2026.10.19. 14:25",
+      "datetime": "2026.10.19. 14:25 -",
       "title": "Ég egy melléképület Szegeden",
-      "category": "Tűzeset",
+      "category": "Ég egy melléképület Szegeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92956",
       "lead": "A Hattyas utcában dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy melléképület Szegeden, a Hattyas utcában. Egy közeli tárolóra is átterjedtek a lángok, amelyeket három vízsugárral oltanak a város hivatásos tűzoltói. A rajok egy gázpalackot is kihoztak az ingatlanból.",
       "location": "Szeged, Hattyas utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Szegeden",
+          "datetime": "2026.10.19. 15:56",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a lángok továbbterjedését, majd eloltották a tüzet Szegeden, a Hattyas utcában, ahol kigyulladt egy melléképület. A mintegy kétszáz négyzetméteres ingatlan tetőszerkezete égett, és a mellette lévő fa-, valamint gabonatárolóra is átterjedt, a szomszéd lakóházat azonban nem érintette a tűz. A város hivatásos tűzoltói öt vízsugárral fékezték meg a lángokat. A rajok kihordják az építményből az ott tárolt anyagokat, tárgyakat, és utómunkálatokat végeznek. A beavatkozás idejére lezárták az utcát az égő ingatlan előtt.",
+          "location": "Szeged, Hattyas utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92956/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92956"
+        }
+      ]
     },
     {
       "id": "92955",
