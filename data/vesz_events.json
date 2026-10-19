@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T04:44:20.905457+00:00",
-  "count": 3385,
+  "updated_at": "2026-10-19T04:47:27.879647+00:00",
+  "count": 3386,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92947",
+      "datetime": "2026.10.19. 06:46",
+      "title": "Utoléréses baleset történt az M4-esen, Üllőnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92947",
+      "lead": "A főváros felé vezető oldal 28-29-es kilométere között hat autó karambolozott.",
+      "body": "Utoléréses balesetet szenvedett hat személykocsi az M4-es autóúton, Üllő térségében. A járművek a 28-29-es kilométer között, a Budapest felé vezető oldalon hajtottak egymásba. A monori hivatásos tűzoltók áramtalanítottak. A gépkocsik akadályozzák a forgalmat, torlódásra kell számítani.",
+      "location": "Üllő, M4",
+      "updates": []
+    },
     {
       "id": "92946",
       "datetime": "2026.10.19. 06:15",
