@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:15:01.631270+00:00",
+  "updated_at": "2026-10-19T08:18:43.371918+00:00",
   "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Baleset történt Rákoscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92943",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pesti úton, Budapest határánál árokba hajtott egy autó.",
+      "body": "A sofőr elrántotta a kormányt, emiatt árokba csapódott egy személykocsi Budapest tizenhetedik kerületében, a Pesti út végén, a városhatárhoz közel. A jármű vezetőjéhez mentőt riasztottak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, Pesti út",
       "updates": []
     },
     {
@@ -89,16 +89,7 @@
       "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
       "location": "Lenti, Arany János út",
-      "updates": [
-        {
-          "title": "Megkezdődtek az utómunkálatok Lentiben",
-          "datetime": "2026.10.18. 23:27",
-          "category": "Tűzeset",
-          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
-          "location": "Lenti, Arany János út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92941",
@@ -128,9 +119,9 @@
       "title": "Összeütközött két személykocsi Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92939",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél történt.",
+      "body": "Egymásba hajtott két autó Budapest huszonegyedik kerületében, a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az utasok el tudták hagyni a járműveket.",
+      "location": "Budapest, Árpád utca",
       "updates": []
     },
     {
@@ -225,9 +216,9 @@
       "title": "Baleset történt a 25-ös főút ózdi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92931",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 72-73-as kilométer között, a Móricz Zsigmond utcai kereszteződés közelében karambolozott két autó.",
+      "body": "Összeütközött két személykocsi Ózdon, a 25-ös főút városi szakaszán. A 72-73-as kilométer között történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A járművekben összesen négyen utaztak, hozzájuk mentő érkezett.",
+      "location": "Ózd, 25",
       "updates": []
     },
     {
@@ -472,9 +463,9 @@
       "title": "Árokba hajtott egy jármű Gomba külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92911",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 3112-es út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Árokba hajtott egy utánfutót vontató terepjáró Gomba külterületén, a 3112-es út 6-os és 7-es kilométere közötti szakaszán. A monori hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gomba, 3112",
       "updates": []
     },
     {
