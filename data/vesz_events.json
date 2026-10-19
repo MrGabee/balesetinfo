@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-19T13:23:57.214317+00:00",
-  "count": 3396,
+  "updated_at": "2026-10-19T13:27:29.516925+00:00",
+  "count": 3397,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92958",
+      "datetime": "2026.10.19. 15:24",
+      "title": "Utoléréses baleset az M7-esen, Nagykanizsánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92958",
+      "lead": "A Letenye felé vezető oldalon dolgoznak a tűzoltók.",
+      "body": "Kamion és személyautó ütközött össze az M7-es autópálya Letenye felé vezető oldalán, Nagykanizsa közelében, a 212-es és 213-as kilométerszelvény között. Az utoléréses balesethez a nagykanizsai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Nagykanizsa, M7",
+      "updates": []
+    },
     {
       "id": "92957",
       "datetime": "2026.10.19. 14:57",
       "title": "Baleset történt Vácon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92957",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kosdi úton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Vácon, a Kosdi úton, a Lehár Ferenc utca közelében. A váci hivatásos tűzoltók áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Vác, Deák Ferenc utca",
       "updates": []
     },
     {
