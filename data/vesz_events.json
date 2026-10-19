@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:11:00.129916+00:00",
+  "updated_at": "2026-10-19T08:15:01.631270+00:00",
   "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Baleset történt Rákoscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92943",
-      "lead": "A Pesti úton, Budapest határánál árokba hajtott egy autó.",
-      "body": "A sofőr elrántotta a kormányt, emiatt árokba csapódott egy személykocsi Budapest tizenhetedik kerületében, a Pesti út végén, a városhatárhoz közel. A jármű vezetőjéhez mentőt riasztottak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
-      "location": "Budapest, Pesti út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -128,9 +128,9 @@
       "title": "Összeütközött két személykocsi Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92939",
-      "lead": "A baleset a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél történt.",
-      "body": "Egymásba hajtott két autó Budapest huszonegyedik kerületében, a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az utasok el tudták hagyni a járműveket.",
-      "location": "Budapest, Árpád utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -225,9 +225,9 @@
       "title": "Baleset történt a 25-ös főút ózdi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92931",
-      "lead": "A 72-73-as kilométer között, a Móricz Zsigmond utcai kereszteződés közelében karambolozott két autó.",
-      "body": "Összeütközött két személykocsi Ózdon, a 25-ös főút városi szakaszán. A 72-73-as kilométer között történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A járművekben összesen négyen utaztak, hozzájuk mentő érkezett.",
-      "location": "Ózd, 25",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -269,19 +269,10 @@
       "title": "Kazánházban keletkezett tűz Békéscsabán",
       "category": "Kazánházban keletkezett tűz Békéscsabán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927",
-      "lead": "A tűzoltókat a Legelő utcába riasztották.",
-      "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
-      "location": "Békéscsaba, Legelő utca",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Békéscsabán",
-          "datetime": "2026.10.18. 11:26",
-          "category": "Tűzeset",
-          "text": "A Legelő utcában kigyulladt egy családi ház kazánháza, a város hivatásos tűzoltói oltották el a lángokat. Az egységek a családi házból kivittek három gázpalackokat, ezeket nem érte hő. A tűzoltók már az utómunkálatoknál tartanak.  A helyszínre mentő is érkezett.",
-          "location": "Békéscsaba, Legelő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92927"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92926",
@@ -481,9 +472,9 @@
       "title": "Árokba hajtott egy jármű Gomba külterületén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92911",
-      "lead": "A 3112-es út érintett szakaszát teljes szélességében lezárták.",
-      "body": "Árokba hajtott egy utánfutót vontató terepjáró Gomba külterületén, a 3112-es út 6-os és 7-es kilométere közötti szakaszán. A monori hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Gomba, 3112",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
