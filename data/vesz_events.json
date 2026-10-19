@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T11:12:51.540442+00:00",
+  "updated_at": "2026-10-19T11:16:22.820181+00:00",
   "count": 3394,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -164,16 +164,7 @@
       "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
       "location": "Lenti, Arany János út",
-      "updates": [
-        {
-          "title": "Megkezdődtek az utómunkálatok Lentiben",
-          "datetime": "2026.10.18. 23:27",
-          "category": "Tűzeset",
-          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
-          "location": "Lenti, Arany János út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92941",
@@ -192,9 +183,9 @@
       "title": "Teljes terjedelmében égett egy gépkocsi Karád és Andocs között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92940",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a 6514-es út 3-4-es kilométere között dolgoztak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy autó a 6514-es út Andocs és Karád közötti szakaszán. A jármű oltását a karádi önkéntes tűzoltók kezdték el, hozzájuk csatlakoztak a balatonboglári önkormányzati tűzoltók. Az egységek eloltották a lángokat, visszahűtötték és hőkamerával átvizsgálták az út közepén veszteglő gépkocsit. Végül letolták az útról az autót.",
+      "location": "Andocs, 6514",
       "updates": []
     },
     {
@@ -344,19 +335,10 @@
       "title": "Kazánházban keletkezett tűz Békéscsabán",
       "category": "Kazánházban keletkezett tűz Békéscsabán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927",
-      "lead": "A tűzoltókat a Legelő utcába riasztották.",
-      "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
-      "location": "Békéscsaba, Legelő utca",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Békéscsabán",
-          "datetime": "2026.10.18. 11:26",
-          "category": "Tűzeset",
-          "text": "A Legelő utcában kigyulladt egy családi ház kazánháza, a város hivatásos tűzoltói oltották el a lángokat. Az egységek a családi házból kivittek három gázpalackokat, ezeket nem érte hő. A tűzoltók már az utómunkálatoknál tartanak.  A helyszínre mentő is érkezett.",
-          "location": "Békéscsaba, Legelő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92927"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92926",
@@ -411,7 +393,16 @@
       "lead": "A Petőfi utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Szabadszentkirály, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Szabadszentkirályon",
+          "datetime": "2026.10.18. 07:33",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Szabadszentkirályon, a Petőfi utcában, ahol egy nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy nyolcvan százaléka égett. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók a munkálatokat során két gázpalackot is kihoztak, az egyik palack még az ingatlanban felrobbant. A rajok öt vízsugárral oltották el a lángokat a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
+          "location": "Szabadszentkirály, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92922"
+        }
+      ]
     },
     {
       "id": "92921",
@@ -419,9 +410,9 @@
       "title": "Karambol történt a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
-      "lead": "Forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
-      "location": "Budapest, Boráros tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -481,9 +472,9 @@
       "title": "Két autó karambolozott Sopronban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92917",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Összeütközött két gépkocsi Sopronban, a Lackner Kristóf utcába. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Sopron, Lackner Kristóf utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
