@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T17:13:04.363395+00:00",
-  "count": 3404,
+  "updated_at": "2026-10-19T17:16:50.496881+00:00",
+  "count": 3405,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92966",
+      "datetime": "2026.10.19. 19:16",
+      "title": "Mezőgazdasági vontató és egy autó ütközött Földeák és Hódmezővásárhely között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92966",
+      "lead": "A 4415-ös utat lezárták.",
+      "body": "Mezőgazdasági vontató és személyautó ütközött össze Földeák és Hódmezővásárhely között, a 4415-ös út 15-ös kilométerszelvényénél. A balesethez a makói hivatásos és a földeáki önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Földeák, 4415",
+      "updates": []
+    },
     {
       "id": "92965",
       "datetime": "2026.10.19. 18:31",
