@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T16:20:56.611207+00:00",
-  "count": 3401,
+  "updated_at": "2026-10-19T16:24:17.010414+00:00",
+  "count": 3402,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92963",
+      "datetime": "2026.10.19. 18:22",
+      "title": "Ráfutásos baleset az M1-esen, Mosonszentmiklósnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92963",
+      "lead": "A Budapest felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Két személyautó ütközött össze az M1-es autópálya Budapest felé vezető oldalán, Mosonszentmiklós közelében, a 140-es kilométerszelvénynél. A ráfutásos balesethez a lébényi hivatásos tűzoltókat riasztották, akik áramtalanították az egyik gépkocsit. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Mosonszentmiklós, M1",
+      "updates": []
+    },
     {
       "id": "92962",
       "datetime": "2026.10.19. 18:16",
