@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T12:25:24.039413+00:00",
-  "count": 3394,
+  "updated_at": "2026-10-19T12:29:03.215793+00:00",
+  "count": 3395,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92956",
+      "datetime": "2026.10.19. 14:25",
+      "title": "Ég egy melléképület Szegeden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92956",
+      "lead": "A Hattyas utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Szegeden, a Hattyas utcában. Egy közeli tárolóra is átterjedtek a lángok, amelyeket három vízsugárral oltanak a város hivatásos tűzoltói. A rajok egy gázpalackot is kihoztak az ingatlanból.",
+      "location": "Szeged, Hattyas utca",
+      "updates": []
+    },
     {
       "id": "92955",
       "datetime": "2026.10.19. 12:26",
@@ -20,19 +31,10 @@
       "title": "Korlátnak hajtott egy kisbusz az M0-son, Gyálnál",
       "category": "Korlátnak hajtott egy kisbusz az M0-son, Gyálnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92954",
-      "lead": "Egy embert a tűzoltók szabadítanak ki a járműből.",
-      "body": "Szalagkorlátnak ütközött egy kisbusz az M0-s autóútnak az M1-es sztráda felé vezető oldalán, Gyál közelében, a 29. és a 30. kilométer között. A járműbe beszorult egy ember. Őt feszítőhengerrel kiszabadítják a műszaki mentést végző fővárosi hivatásos tűzoltók. A mentők is kiérkeztek a balesethez, amelynek helyszínén forgalomkorlátozásra kell számítani.",
-      "location": "Gyál, M0",
-      "updates": [
-        {
-          "title": "Kimentették az M0-son járműbe szorult embert",
-          "datetime": "2026.10.19. 12:27",
-          "category": "Közlekedési baleset",
-          "text": "Kiszabadították és átadták a mentőknek azt az embert, aki beszorult egy furgonba, miután az balesetet szenvedett az M0-s autóútnak az M1-es sztráda felé vezető oldalán, Gyál közelében, a 29. és a 30. kilométer között. A jármű az első információtól eltérően nem szalagkorlátnak, hanem hátulról egy kamionnak ütközött. A fővárosi hivatásos tűzoltók feszítőhengert is használtak a beavatkozás során. Mentőhelikopter is érkezett a baleset helyszínre, ahol teljes szélességében lezárták az M0-s érintett oldalát.",
-          "location": "Gyál, M0",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92954/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92954"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92953",
@@ -150,9 +152,9 @@
       "title": "Baleset történt Rákoscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92943",
-      "lead": "A Pesti úton, Budapest határánál árokba hajtott egy autó.",
-      "body": "A sofőr elrántotta a kormányt, emiatt árokba csapódott egy személykocsi Budapest tizenhetedik kerületében, a Pesti út végén, a városhatárhoz közel. A jármű vezetőjéhez mentőt riasztottak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
-      "location": "Budapest, Pesti út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -164,16 +166,7 @@
       "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
       "location": "Lenti, Arany János út",
-      "updates": [
-        {
-          "title": "Megkezdődtek az utómunkálatok Lentiben",
-          "datetime": "2026.10.18. 23:27",
-          "category": "Tűzeset",
-          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
-          "location": "Lenti, Arany János út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92941",
@@ -256,9 +249,9 @@
       "title": "Kigyulladt egy autó Bakonyjákón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92935",
-      "lead": "A Petőfi Sándor utcába pápai tűzoltókat riasztottak.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi Bakonyjákón, a Petőfi Sándor utcában. A lángok átterjedtek a környező bokros részre is. A pápai hivatásos tűzoltók oltották el a tüzet, már az utómunkálatoknál tartanak.",
-      "location": "Bakonyjákó, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -397,9 +390,9 @@
       "title": "Pincetűz Oltárc külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92923",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók jelenleg az utómunkálatokat végzik a helyszínen.",
+      "body": "Tűz keletkezett Oltárc külterületén, ahol egy huszonnégy négyzetméteres pince égett. A letenyei, a kanizsai hivatásos és a bázakerettyei önkéntes tűzoltók két vízsugárral oltották el a lángokat. Utómunkálatokat végeznek.",
+      "location": "Oltác, külterület",
       "updates": []
     },
     {
