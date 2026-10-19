@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:34:53.919821+00:00",
+  "updated_at": "2026-10-19T07:38:08.833575+00:00",
   "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -139,9 +139,9 @@
       "title": "Égett egy épület Miskolc-Lyukóvölgyben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92938",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagy Kerekhegy-dűlőbe miskolci és diósgyőri tűzoltók vonultak.",
+      "body": "Tűz ütött ki egy kisebb épületben Miskolc-Lyukóvölgyben, a Nagy Kerekhegy-dűlőben. Az esethez miskolci és diósgyőri hivatásos tűzoltók vonultak. Az egységek vízsugárral és kéziszerszámokkal oltották el a lángokat.",
+      "location": "Miskolc, Nagy Kerekhegy dűlő",
       "updates": []
     },
     {
@@ -448,9 +448,9 @@
       "title": "Vadat gázolt egy autó a 710-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92914",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Vadat gázolt el egy személygépkocsi Csajágnál, a 710-es főút 5-ös kilométerénél. A balatonfűzfői hivatásos tűzoltók áramtalanítják a járművet. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Csajág, 710",
       "updates": []
     },
     {
@@ -459,9 +459,9 @@
       "title": "Több jármű karambolozott az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92913",
-      "lead": "A főváros felé vezető szakaszon, Herceghalomnál történt a baleset.",
-      "body": "Összeütközött öt személygépkocsi Herceghalomnál, az M1-es autópálya 27-es kilométerénél, a Budapest felé vezető oldalon. Az utoléréses balesetnél a törökbálinti hivatásos tűzoltók két járművet áramtalanítottak. A társhatóság is a helyszínen dolgozik. A sztráda érintett szakaszán forgalmi akadály van.",
-      "location": "Herceghalom, M1",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
