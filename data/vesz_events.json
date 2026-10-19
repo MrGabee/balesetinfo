@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:09:32.287962+00:00",
+  "updated_at": "2026-10-19T10:13:38.950123+00:00",
   "count": 3393,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -280,9 +280,9 @@
       "title": "Baleset történt a 25-ös főút ózdi szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92931",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 72-73-as kilométer között, a Móricz Zsigmond utcai kereszteződés közelében karambolozott két autó.",
+      "body": "Összeütközött két személykocsi Ózdon, a 25-ös főút városi szakaszán. A 72-73-as kilométer között történt balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A járművekben összesen négyen utaztak, hozzájuk mentő érkezett.",
+      "location": "Ózd, 25",
       "updates": []
     },
     {
@@ -450,19 +450,10 @@
       "title": "Családi ház ég Győrben",
       "category": "Családi ház ég Győrben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92918",
-      "lead": "A Brigád utcába riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy lakóház Győrben, a Brigád utcában. Az ingatlan tetőszerkezete teljes terjedelmében ég. A helyi hivatásos tűzoltók már körülhatárolták a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett.",
-      "location": "Győr, Brigád utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Győrben",
-          "datetime": "2026.10.17. 22:43",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Győrben, a Brigád utcában, ahol egy nyolcvan négyzetméteres családi ház tetőszerkezete teljes terjedelmében égett. A győri és a lébényi hivatásos tűzoltók a négy vízsugárral fékezték meg a tüzet. A munkálatokat egy győri vízszállító jármű is segíti. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek. A helyszínre az áramszolgáltató szolgáltató szakemberei is kiérkeztek, akik kiszakaszolták az érintett utcát. A rajok jelenleg az utómunkálatokat végzik.",
-          "location": "Győr, Brigád utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92918/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92918"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92917",
@@ -470,9 +461,9 @@
       "title": "Két autó karambolozott Sopronban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92917",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Összeütközött két gépkocsi Sopronban, a Lackner Kristóf utcába. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Sopron, Lackner Kristóf utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
