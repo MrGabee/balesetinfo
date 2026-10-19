@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:19:35.879534+00:00",
+  "updated_at": "2026-10-19T09:23:01.424039+00:00",
   "count": 3391,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -122,7 +122,16 @@
       "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
       "location": "Lenti, Arany János út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megkezdődtek az utómunkálatok Lentiben",
+          "datetime": "2026.10.18. 23:27",
+          "category": "Tűzeset",
+          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
+          "location": "Lenti, Arany János út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
+        }
+      ]
     },
     {
       "id": "92941",
@@ -185,10 +194,19 @@
       "title": "Tűz ütött ki egy kecskemét-kadafalvai házban",
       "category": "Tűz ütött ki egy kecskemét-kadafalvai házban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Mogyoró utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz keletkezett egy kecskemét-kadafalvai házban. A Mogyoró utcai épület egyik helyiségében csaptak fel a lángok, a szoba, illetve a berendezés tárgyak égtek. A megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a lángokat, vizsgálják a tetőt.",
+      "location": "Kecskemét, Mogyoró utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Kecskemét-Kadafalván",
+          "datetime": "2026.10.18. 18:02",
+          "category": "Tűzeset",
+          "text": "A Mogyoró utcában egy nagyjából száz négyzetméteres családi ház egyik szobája égett ki, a ház többi része kormos lett. A kecskeméti hivatásos tűzoltók vízsugarakkal oltották el a lángokat, illetve légzésvédelem mellett felmentek a padlásra, de sem a padlástérre, sem a födémre nem terjedt át a tűz. Az egységek már az utómunkálatokat végzik. A ház lakhatatlanná vált.",
+          "location": "Kecskemét, Mogyoró utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92936"
+        }
+      ]
     },
     {
       "id": "92935",
@@ -207,9 +225,9 @@
       "title": "Nagy területen égett a tarló Diósviszló külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92934",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A siklósi hivatásos tűzoltók avatkoztak be.",
+      "body": "Többhektáros terület gyulladt meg Diósviszló külterületén. A körbetárcsázott területen égő tűz nem jelentett veszélyt semmire. A siklósi hivatásos tűzoltók vízsugárral, kéziszerszámokkal körülhatárolták, majd eloltották a tüzet. Az egység már az utómunkálatokat végzi.",
+      "location": "Diósviszló, külterület",
       "updates": []
     },
     {
