@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T05:28:34.751977+00:00",
+  "updated_at": "2026-10-19T05:32:44.953299+00:00",
   "count": 3386,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -314,7 +314,16 @@
       "lead": "A Petőfi utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Szabadszentkirály, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Szabadszentkirályon",
+          "datetime": "2026.10.18. 07:33",
+          "category": "Tűzeset",
+          "text": "A tűzoltók az utómunkálatokat végzik Szabadszentkirályon, a Petőfi utcában, ahol egy nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy nyolcvan százaléka égett. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók a munkálatokat során két gázpalackot is kihoztak, az egyik palack még az ingatlanban felrobbant. A rajok öt vízsugárral oltották el a lángokat a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
+          "location": "Szabadszentkirály, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92922"
+        }
+      ]
     },
     {
       "id": "92921",
@@ -322,9 +331,9 @@
       "title": "Karambol történt a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
+      "location": "Budapest, Boráros tér",
       "updates": []
     },
     {
@@ -344,10 +353,19 @@
       "title": "Épület ég Tiszakécske külterületén",
       "category": "Épület ég Tiszakécske külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Sárhalom dűlőbe vonultak ki a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy épület Tiszakécske külterületén, a Sárhalom dűlőben. A tiszakécskei önkormányzati tűzoltók dolgoznak a helyszínen. A raj két vízsugárral oltja a lángokat.",
+      "location": "Tiszakécske, Sárhalom dűlő",
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók Tiszakécskénél",
+          "datetime": "2026.10.17. 22:54",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Tiszakécske külterületén, a Sárhalom dűlőben, ahogy egy épület gyulladt ki. A százötven négyzetméteres ház több helyisége is teljes terjedelmében égett. A kecskeméti hivatásos és a tiszakécskei önkormányzati tűzoltók négy vízsugárral oltották el a lángokat.",
+          "location": "Tiszakécske, Sárhalom dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92919/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92919"
+        }
+      ]
     },
     {
       "id": "92918",
@@ -355,10 +373,19 @@
       "title": "Családi ház ég Győrben",
       "category": "Családi ház ég Győrben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92918",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Brigád utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakóház Győrben, a Brigád utcában. Az ingatlan tetőszerkezete teljes terjedelmében ég. A helyi hivatásos tűzoltók már körülhatárolták a lángokat. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett.",
+      "location": "Győr, Brigád utca",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Győrben",
+          "datetime": "2026.10.17. 22:43",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Győrben, a Brigád utcában, ahol egy nyolcvan négyzetméteres családi ház tetőszerkezete teljes terjedelmében égett. A győri és a lébényi hivatásos tűzoltók a négy vízsugárral fékezték meg a tüzet. A munkálatokat egy győri vízszállító jármű is segíti. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak az egységek. A helyszínre az áramszolgáltató szolgáltató szakemberei is kiérkeztek, akik kiszakaszolták az érintett utcát. A rajok jelenleg az utómunkálatokat végzik.",
+          "location": "Győr, Brigád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92918/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92918"
+        }
+      ]
     },
     {
       "id": "92917",
@@ -377,9 +404,9 @@
       "title": "Motorossal ütközött össze egy személyautó a XVIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92916",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Üllői úton történt a baleset.",
+      "body": "Egy motorkerékpáros és egy személyautó karambolozott Budapest XVIII. kerületében, az Üllői úton, a Losonc utca közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Budapest, Üllői út",
       "updates": []
     },
     {
