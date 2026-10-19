@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T16:31:11.817994+00:00",
-  "count": 3403,
+  "updated_at": "2026-10-19T16:34:46.455754+00:00",
+  "count": 3404,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92965",
+      "datetime": "2026.10.19. 18:31",
+      "title": "Tűz volt Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92965",
+      "lead": "A Régiposta utcában oltották el a lángokat.",
+      "body": "Kisebb tűz ütött ki egy miskolci fitneszközpont szaunájában, a Régiposta utcában. A miskolci hivatásos tűzoltók a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett eloltották a lángokat. A rajok kiszellőztetik a füsttel telítődött épületet.",
+      "location": "Miskolc, Régiposta utca",
+      "updates": []
+    },
     {
       "id": "92964",
       "datetime": "2026.10.19. 18:26",
