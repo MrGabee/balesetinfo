@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T16:24:17.010414+00:00",
-  "count": 3402,
+  "updated_at": "2026-10-19T16:27:51.847589+00:00",
+  "count": 3403,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92964",
+      "datetime": "2026.10.19. 18:26",
+      "title": "Két autó ütközött Zámoly és Székesfehérvár között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92964",
+      "lead": "A 8123-as úton forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Zámoly és Székesfehérvár között, a 8123-as út 10-es kilométerszelvényénél. A baleset következtében az egyik gépkocsi az árokba sodródott. A székesfehérvári hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Zámoly, Borbála-puszta",
+      "updates": []
+    },
     {
       "id": "92963",
       "datetime": "2026.10.19. 18:22",
