@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:18:43.371918+00:00",
+  "updated_at": "2026-10-19T08:22:26.168958+00:00",
   "count": 3388,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -89,7 +89,16 @@
       "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
       "location": "Lenti, Arany János út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megkezdődtek az utómunkálatok Lentiben",
+          "datetime": "2026.10.18. 23:27",
+          "category": "Tűzeset",
+          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
+          "location": "Lenti, Arany János út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
+        }
+      ]
     },
     {
       "id": "92941",
@@ -249,9 +258,9 @@
       "title": "Ég egy autó Gyálon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92928",
-      "lead": "A gépkocsi belecsúszott a Gyáli-patak kiszáradt medrébe is.",
-      "body": "Menet közben kigyulladt egy személykocsi Gyálon, a Rádióleadó utca utáni területen. Az autóban ketten ültek, ki tudtak szállni a járműből, amely ezután belecsúszott a Gyáli-patak medrébe. A teljes terjedelmében égő autó lángjai átterjedtek a környező aljnövényzetre is. Az oltást a gyáli önkéntes tűzoltók kezdték meg, néhány perccel később a munkába bekapcsolódtak a fővárosi hivatásos tűzoltók is. Az egységek vízsugarakkal oltják a jármű, illetve a növényzet tüzét.",
-      "location": "Gyál, Rádióleadó utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -260,10 +269,19 @@
       "title": "Kazánházban keletkezett tűz Békéscsabán",
       "category": "Kazánházban keletkezett tűz Békéscsabán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltókat a Legelő utcába riasztották.",
+      "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
+      "location": "Békéscsaba, Legelő utca",
+      "updates": [
+        {
+          "title": "Az utómunkálatok zajlanak Békéscsabán",
+          "datetime": "2026.10.18. 11:26",
+          "category": "Tűzeset",
+          "text": "A Legelő utcában kigyulladt egy családi ház kazánháza, a város hivatásos tűzoltói oltották el a lángokat. Az egységek a családi házból kivittek három gázpalackokat, ezeket nem érte hő. A tűzoltók már az utómunkálatoknál tartanak.  A helyszínre mentő is érkezett.",
+          "location": "Békéscsaba, Legelő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92927"
+        }
+      ]
     },
     {
       "id": "92926",
@@ -271,9 +289,9 @@
       "title": "Kigyulladt egy melléképület Battonyán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92926",
-      "lead": "A Puskin utcába több település tűzoltóit riasztották.",
-      "body": "Tűz ütött ki egy battonyai melléképületben. A nagyjából ötven négyzetméteres épület tüzéhez a helyi önkéntes tűzoltók érkeztek ki elsőként, pár percen belül ott voltak a mezőkovácsházi hivatásos egységek is, a helyszínre orosházi hivatásos tűzoltókat, illetve a Békés megyei katasztrófavédelmi műveleti szolgálatot is várják. A rajok azonnal megkezdték a terménytárolóra és állatokra is veszélyt jelentő lángok oltását, a tüzet négy vízsugárral körülhatárolták.",
-      "location": "Battonya, Puskin utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -335,9 +353,9 @@
       "title": "Karambol történt a IX. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92921",
-      "lead": "Forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Budapest IX. kerületében, a Boráros térnél. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A mentőszolgálat is az esethez érkezett. Forgalmi akadály van.",
-      "location": "Budapest, Boráros tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
