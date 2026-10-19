@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T09:59:02.872383+00:00",
-  "count": 3392,
+  "updated_at": "2026-10-19T10:02:49.859093+00:00",
+  "count": 3393,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92954",
+      "datetime": "2026.10.19. 12:00",
+      "title": "Korlátnak hajtott egy kisbusz az M0-son, Gyálnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92954",
+      "lead": "Egy embert a tűzoltók szabadítanak ki a járműből.",
+      "body": "Szalagkorlátnak ütközött egy kisbusz az M0-s autóútnak az M1-es sztráda felé vezető oldalán, Gyál közelében, a 29. és a 30. kilométer között. A járműbe beszorult egy ember. Őt feszítőhengerrel kiszabadítják a műszaki mentést végző fővárosi hivatásos tűzoltók. A mentők is kiérkeztek a balesethez, amelynek helyszínén forgalomkorlátozásra kell számítani.",
+      "location": "Gyál, M0",
+      "updates": []
+    },
     {
       "id": "92953",
       "datetime": "2026.10.19. 11:52",
