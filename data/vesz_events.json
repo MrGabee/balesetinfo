@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T14:17:14.579064+00:00",
-  "count": 3398,
+  "updated_at": "2026-10-19T14:21:01.732514+00:00",
+  "count": 3399,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92960",
+      "datetime": "2026.10.19. 16:20",
+      "title": "Tűz volt egy érdi melléképületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92960",
+      "lead": "A tűzoltók eloltották a lángokat a Külső Római úton.",
+      "body": "Tűz keletkezett egy melléképületben, Érden, a Külső Római úton. A műhelyként használt ingatlanban lévő kazánházban égett egy farakás mintegy négy-öt négyzetméteren. A város hivatásos tűzoltói eloltották a tüzet, amely máshova nem terjedt tovább. A rajok kiszellőztetik az épületet és utómunkálatokat végeznek.",
+      "location": "Érd, Külső Római út",
+      "updates": []
+    },
     {
       "id": "92959",
       "datetime": "2026.10.19. 15:43",
