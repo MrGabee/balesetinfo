@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-19T07:16:16.372142+00:00",
-  "count": 3386,
+  "updated_at": "2026-10-19T07:20:12.066446+00:00",
+  "count": 3387,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92948",
+      "datetime": "2026.10.19. 09:17",
+      "title": "Karambol a VII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92948",
+      "lead": "A Dembinszky utcába riasztották a tűzoltókat.",
+      "body": "Összeütközött két személyautó Budapest VII. kerületében, a Dembinszky utcában, A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, Dembinszky utca",
+      "updates": []
+    },
     {
       "id": "92947",
       "datetime": "2026.10.19. 06:46",
@@ -106,9 +117,9 @@
       "title": "Összeütközött két személykocsi Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92939",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A baleset a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél történt.",
+      "body": "Egymásba hajtott két autó Budapest huszonegyedik kerületében, a Bajcsy-Zsilinszky út és az Árpád utca kereszteződésénél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az utasok el tudták hagyni a járműveket.",
+      "location": "Budapest, Árpád utca",
       "updates": []
     },
     {
