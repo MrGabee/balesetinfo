@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:50:46.687979+00:00",
+  "updated_at": "2026-10-19T12:54:39.003551+00:00",
   "count": 3395,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -106,9 +106,9 @@
       "title": "Karambol a VII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92948",
-      "lead": "A Dembinszky utcába riasztották a tűzoltókat.",
-      "body": "Összeütközött két személyautó Budapest VII. kerületében, a Dembinszky utcában, A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Budapest, Dembinszky utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -250,16 +250,7 @@
       "lead": "A Mogyoró utcában van szükség tűzoltói beavatkozásra.",
       "body": "Tűz keletkezett egy kecskemét-kadafalvai házban. A Mogyoró utcai épület egyik helyiségében csaptak fel a lángok, a szoba, illetve a berendezés tárgyak égtek. A megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a lángokat, vizsgálják a tetőt.",
       "location": "Kecskemét, Mogyoró utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Kecskemét-Kadafalván",
-          "datetime": "2026.10.18. 18:02",
-          "category": "Tűzeset",
-          "text": "A Mogyoró utcában egy nagyjából száz négyzetméteres családi ház egyik szobája égett ki, a ház többi része kormos lett. A kecskeméti hivatásos tűzoltók vízsugarakkal oltották el a lángokat, illetve légzésvédelem mellett felmentek a padlásra, de sem a padlástérre, sem a födémre nem terjedt át a tűz. Az egységek már az utómunkálatokat végzik. A ház lakhatatlanná vált.",
-          "location": "Kecskemét, Mogyoró utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92936"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92935",
@@ -355,19 +346,10 @@
       "title": "Kazánházban keletkezett tűz Békéscsabán",
       "category": "Kazánházban keletkezett tűz Békéscsabán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927",
-      "lead": "A tűzoltókat a Legelő utcába riasztották.",
-      "body": "Tűz ütött ki egy családi ház kazánházában Békéscsabán, a Legelő utcában. Az esethez a város hivatásos tűzoltóságának két gépjárműfecskendője és a vízszállító vonult. A rajok két vízsugárral megfékezték a lángokat, a tűzoltók átszellőztetik az ingatlant.",
-      "location": "Békéscsaba, Legelő utca",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Békéscsabán",
-          "datetime": "2026.10.18. 11:26",
-          "category": "Tűzeset",
-          "text": "A Legelő utcában kigyulladt egy családi ház kazánháza, a város hivatásos tűzoltói oltották el a lángokat. Az egységek a családi házból kivittek három gázpalackokat, ezeket nem érte hő. A tűzoltók már az utómunkálatoknál tartanak.  A helyszínre mentő is érkezett.",
-          "location": "Békéscsaba, Legelő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92927/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92927"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92926",
@@ -419,19 +401,10 @@
       "title": "Lakóház ég Szabadszentkirályon",
       "category": "Lakóház ég Szabadszentkirályon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922",
-      "lead": "A Petőfi utcában csaptak fel a lángok.",
-      "body": "Kigyulladt egy családi ház Szabadszentkirályon, a Petőfi utcában. A nyolcvan négyzetméter alapterületű ingatlan tetőszerkezete ég. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók öt vízsugárral oltják a lángokat. A Baranya megyei katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
-      "location": "Szabadszentkirály, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Az utómunkálatok zajlanak Szabadszentkirályon",
-          "datetime": "2026.10.18. 07:33",
-          "category": "Tűzeset",
-          "text": "A tűzoltók az utómunkálatokat végzik Szabadszentkirályon, a Petőfi utcában, ahol egy nyolcvan négyzetméteres lakóház tetőszerkezetének mintegy nyolcvan százaléka égett. A pécsi, a szigetvári hivatásos és a helyi önkéntes tűzoltók a munkálatokat során két gázpalackot is kihoztak, az egyik palack még az ingatlanban felrobbant. A rajok öt vízsugárral oltották el a lángokat a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett.",
-          "location": "Szabadszentkirály, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92922/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92922"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92921",
