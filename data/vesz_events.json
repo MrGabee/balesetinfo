@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:18:52.605592+00:00",
+  "updated_at": "2026-10-20T13:22:32.887809+00:00",
   "count": 3421,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Móricz Zsigmond utcánál keletkezett tűz.",
       "body": "Kigyulladt a száraz fű és több körbála Tiszadob határában, a Móricz Zsigmond utcánál. Mintegy kétszáz bála ég, és a tűz lakóházakat, valamint egy istállót is veszélyeztet. A tiszaújvárosi hivatásos és a tiszavasvári önkormányzati tűzoltók oltják a lángokat. A munkálatokat erőgép is segíti.",
       "location": "Tiszadob, Móricz Zsigmond utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Leégetik a Tiszadobnál meggyulladt bálákat",
+          "datetime": "2026.10.20. 15:17",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a tűz továbbterjedését Tiszadob határában, a Móricz Zsigmond utcánál, ahol kigyulladt a száraz fű és több körbála. A lángok lakóházakat, valamint egy istállót is veszélyeztettek. A mintegy kétszáz bálából egy traktor elhordta az épeket, a többit pedig ellenőrzött körülmények között leégetik a tiszaújvárosi hivatásos és a tiszavasvári önkormányzati tűzoltók.",
+          "location": "Tiszadob, Móricz Zsigmond utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92982/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92982"
+        }
+      ]
     },
     {
       "id": "92981",
