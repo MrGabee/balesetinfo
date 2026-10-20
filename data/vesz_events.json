@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T04:29:15.987555+00:00",
-  "count": 3407,
+  "updated_at": "2026-10-20T04:32:39.043301+00:00",
+  "count": 3408,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92969",
+      "datetime": "2026.10.20. 06:31",
+      "title": "Kamion ég az M3-ason, Bagnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92969",
+      "lead": "A Budapest felé vezető oldalt lezárták.",
+      "body": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométerszelvénynél. Az aszódi és gödöllői hivatásos tűzoltók leválasztották a vontatmányt, jelenleg két vízsugárral oltják a lángokat. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Bag, M3",
+      "updates": []
+    },
     {
       "id": "92968",
       "datetime": "2026.10.19. 21:45",
