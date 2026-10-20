@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-20T10:46:56.852536+00:00",
-  "count": 3414,
+  "updated_at": "2026-10-20T10:50:16.067448+00:00",
+  "count": 3416,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92977",
+      "datetime": "2026.10.20. 12:49",
+      "title": "Baleset történt a 610-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92977",
+      "lead": "Kaposmérő térségében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 610-es főúton, Kaposmérő térségében, a Hunyadi utca közelében. A kaposvári hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kaposmérő, Rákóczi utca",
+      "updates": []
+    },
+    {
+      "id": "92976",
+      "datetime": "2026.10.20. 12:48",
+      "title": "Baleset történt a 8511-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92976",
+      "lead": "Vonat és autó ütközött össze egy vasúti átjáróban.",
+      "body": "A vágányok melletti betongyámnak, sorompónak és egy arra haladó vonat utolsó kocsijának ütközött egy személyautó Kóny és Csorna között, a 8511-es út egyik vasúti átjárójában. A gépkocsiban egy ember utazott, aki ki tudott szállni. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a csornai hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amely miatt leállították a vonatforgalmat.",
+      "location": "Kóny, 8511",
+      "updates": []
+    },
     {
       "id": "92975",
       "datetime": "2026.10.20. 12:36",
@@ -106,9 +128,9 @@
       "title": "Kisbusz és személyautó karambolozott Pilisvörösváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92967",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budai utat lezárták.",
+      "body": "Kisbusz és személyautó ütközött össze Pilisvörösváron, a Budai úton. A Bányató és a Bartók Béla utca közötti balesethez a fővárosi hivatásos, valamint a pilisszentiváni önkéntes tűzoltókat riasztották, akik áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Pilisvörösvár, Budai út",
       "updates": []
     },
     {
