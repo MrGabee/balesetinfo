@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T13:14:58.494024+00:00",
+  "updated_at": "2026-10-20T13:18:52.605592+00:00",
   "count": 3421,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "92982",
-      "datetime": "2026.10.20. 14:41",
+      "datetime": "2026.10.20. 14:41 -",
       "title": "Körbálák égnek Tiszadobon",
-      "category": "Tűzeset",
+      "category": "Körbálák égnek Tiszadobon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92982",
       "lead": "A Móricz Zsigmond utcánál keletkezett tűz.",
       "body": "Kigyulladt a száraz fű és több körbála Tiszadob határában, a Móricz Zsigmond utcánál. Mintegy kétszáz bála ég, és a tűz lakóházakat, valamint egy istállót is veszélyeztet. A tiszaújvárosi hivatásos és a tiszavasvári önkormányzati tűzoltók oltják a lángokat. A munkálatokat erőgép is segíti.",
@@ -408,9 +408,9 @@
       "title": "Baleset történt az 51-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92949",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Dömsöd közelében nagy a torlódás.",
+      "body": "Karambolozott egy kamion és egy személyautó az 51-es főúton, Dömsöd közelében, a 46. és a 47. kilométer között. A műszaki mentést végző ráckevei önkormányzati és dömsödi önkéntes tűzoltók áramtalanítottak a személygépkocsit. A kamionnál nem volt szükség ilyen beavatkozásra. Az érintett útszakaszt lezárták, nagy a torlódás.",
+      "location": "Dömsöd, 51",
       "updates": []
     },
     {
