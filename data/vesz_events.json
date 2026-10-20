@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T12:34:18.665471+00:00",
-  "count": 3419,
+  "updated_at": "2026-10-20T12:38:32.006471+00:00",
+  "count": 3420,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92981",
+      "datetime": "2026.10.20. 14:36",
+      "title": "Két autó és egy teherautó ütközött az M35-ön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92981",
+      "lead": "Debrecennél egy sávon halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi és egy teherautó az M35-ös autópályán, az M3-as felé haladó irányba, Debrecennél, a 35-ös kilométerszelvénynél. A járművekben csak a sofőrök utaztak. A debreceni hivatásos tűzoltók műszaki mentést végeznek. Az érintett pályaszakaszon egy sávon halad a forgalom.",
+      "location": "Debrecen, Ágnes tanya",
+      "updates": []
+    },
     {
       "id": "92980",
       "datetime": "2026.10.20. 14:18",
@@ -236,9 +247,9 @@
       "title": "Karambol Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92961",
-      "lead": "A Budai úton forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személyautó Székesfehérváron, a Budai úton, a Topolyai utca közelében. A város hivatásos tűzoltói áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Székesfehérvár, Budai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -258,9 +269,9 @@
       "title": "Összeütközött két autó az 5201-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92959",
-      "lead": "Dunaharaszti közelében akadályozza a forgalmat a baleset.",
-      "body": "Karambolozott két személygépkocsi az 5201-es úton, Dunaharaszti közelében, a 4. kilométernél. Az egyik jármű az árokba, egy fának csapódott, a másik keresztben áll az úttesten. A dunaharaszti önkéntes tűzoltók áramtalanították a gépkocsikat. A helyszínre érkeztek a szigetszentmiklósi hivatásos tűzoltók is. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Dunaharaszti, 5201",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -342,9 +353,9 @@
       "title": "Egymásnak ütközött két autó Budapest VIII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92953",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kerepesi úton van szükség műszaki mentésre.",
+      "body": "Két személyautó karambolozott Budapest VIII. kerületben, a Kerepesi úton. A baleset a Fiumei út és a Hungária körút közötti szakaszon történt. A balesetben egy közlekedési tábla is megsérült. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Kerepesi út",
       "updates": []
     },
     {
