@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T11:33:09.464838+00:00",
-  "count": 3417,
+  "updated_at": "2026-10-20T11:36:31.193943+00:00",
+  "count": 3418,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92979",
+      "datetime": "2026.10.20. 13:35",
+      "title": "Pince égett Sárospatakon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92979",
+      "lead": "Az árok utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy elhagyatott családi ház pincéje Sárospatakon, az Árok utcában. Az épületben összehordott szemét égett. A sátoraljaújhelyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Sárospatak, Árok utca",
+      "updates": []
+    },
     {
       "id": "92978",
       "datetime": "2026.10.20. 12:58",
@@ -214,9 +225,9 @@
       "title": "Karambol Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92961",
-      "lead": "A Budai úton forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személyautó Székesfehérváron, a Budai úton, a Topolyai utca közelében. A város hivatásos tűzoltói áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Székesfehérvár, Budai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
