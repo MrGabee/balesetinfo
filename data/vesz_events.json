@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T06:35:42.707556+00:00",
-  "count": 3409,
+  "updated_at": "2026-10-20T06:38:57.350678+00:00",
+  "count": 3410,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92971",
+      "datetime": "2026.10.20. 08:36",
+      "title": "Karambol Szentendrén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92971",
+      "lead": "A Sztaravodai útra vonultak a tűzoltók.",
+      "body": "Összeütközött két személyautó Szentendrén, a Sztaravodai úton, a Tuja utca közelében. A város hivatásos tűzoltói végzik a műszaki mentést a balesetnél, amely egy sávon akadályozza a forgalmat. A helyszínen vannak a mentők is.",
+      "location": "Szentendre, Sztaravodai út",
+      "updates": []
+    },
     {
       "id": "92970",
       "datetime": "2026.10.20. 08:14",
