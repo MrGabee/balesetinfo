@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T06:13:26.735276+00:00",
-  "count": 3408,
+  "updated_at": "2026-10-20T06:17:03.030360+00:00",
+  "count": 3409,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92970",
+      "datetime": "2026.10.20. 08:14",
+      "title": "Melléképület égett Érden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92970",
+      "lead": "A Bányász utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Érden, a Bányász utcában. Az érdi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Érd, Bányász utca",
+      "updates": []
+    },
     {
       "id": "92969",
       "datetime": "2026.10.20. 06:31 -",
