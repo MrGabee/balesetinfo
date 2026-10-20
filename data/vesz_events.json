@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T14:49:28.509347+00:00",
-  "count": 3422,
+  "updated_at": "2026-10-20T14:52:57.295490+00:00",
+  "count": 3423,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92984",
+      "datetime": "2026.10.20. 16:52",
+      "title": "Karambol a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92984",
+      "lead": "Székesfehérváron teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a 8-as főúton, Székesfehérvárnál, az 1-es kilométerszelvény közelében. Az autókban összesen négyen utaztak. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Székesfehérvár, Szlovák utca",
+      "updates": []
+    },
     {
       "id": "92983",
       "datetime": "2026.10.20. 16:48",
