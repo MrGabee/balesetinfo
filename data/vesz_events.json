@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T20:51:20.840089+00:00",
-  "count": 3429,
+  "updated_at": "2026-10-20T20:54:55.124936+00:00",
+  "count": 3430,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92991",
+      "datetime": "2026.10.20. 22:52",
+      "title": "Karambol Budapest VIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92991",
+      "lead": "A Hungária körúton forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest VIII. kerületében, a Hungária körúton. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Hungária körút",
+      "updates": []
+    },
     {
       "id": "92990",
       "datetime": "2026.10.20. 19:31 -",
