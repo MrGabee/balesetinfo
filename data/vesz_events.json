@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T15:49:25.209167+00:00",
-  "count": 3425,
+  "updated_at": "2026-10-20T15:52:46.441590+00:00",
+  "count": 3426,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92987",
+      "datetime": "2026.10.20. 17:51",
+      "title": "Két autó ütközött össze a 33-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92987",
+      "lead": "Debrecenben az érintett útszakaszon forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi a 33-as főúton, Debrecen térségében, a 104-es kilométerszelvénynél. Az autókban összesen hárman utaztak. A helyi hivatásos tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Debrecen, Balmazújvárosi út",
+      "updates": []
+    },
     {
       "id": "92986",
       "datetime": "2026.10.20. 17:31",
