@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T16:27:56.540479+00:00",
-  "count": 3426,
+  "updated_at": "2026-10-20T16:31:55.885552+00:00",
+  "count": 3427,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92988",
+      "datetime": "2026.10.20. 18:28",
+      "title": "Baleset történt Gödöllőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92988",
+      "lead": "A Grassalkovich Antal utca és az Arany János út kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Gödöllőn, a Grassalkovich Antal utca és az Arany János út kereszteződésében. Az autókban csak a sofőrök utaztak. A gödöllői hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Gödöllő, Grassalkovich Antal utca",
+      "updates": []
+    },
     {
       "id": "92987",
       "datetime": "2026.10.20. 17:51",
