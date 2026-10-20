@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T09:20:59.319291+00:00",
-  "count": 3411,
+  "updated_at": "2026-10-20T09:24:41.108287+00:00",
+  "count": 3412,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92973",
+      "datetime": "2026.10.20. 11:24",
+      "title": "Baleset történt Szigetszentmiklóson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92973",
+      "lead": "A Petőfi utca és Hunyadi utca kereszteződésében forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személygépkocsi Szigetszentmiklóson, a Petőfi utca és Hunyadi utca kereszteződésében. Az autókban összesen öten utaztak. A helyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szigetszentmiklós, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "92972",
       "datetime": "2026.10.20. 11:16",
