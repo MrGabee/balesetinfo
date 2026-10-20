@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:29:14.218753+00:00",
+  "updated_at": "2026-10-20T13:33:24.302215+00:00",
   "count": 3421,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -95,9 +95,9 @@
       "title": "Karambol Budapest XVI. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92975",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csömöri út és Batthyány utca kereszteződésében forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi Budapest XVI. kerületében, a Csömöri út és Batthyány utca kereszteződésében. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Csömöri út",
       "updates": []
     },
     {
@@ -181,9 +181,9 @@
       "title": "Pincetűz Szombathelyen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92968",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Falukert utcában égett egy pince.",
+      "body": "Tűz volt egy családi ház pincéjében Szombathelyen, a Falukert utcában. A helyi hivatásos és önkéntes tűzoltók a Vas vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett lehatoltak, majd eloltották a lángokat. A helyiségben több gázpalack is volt, amiket nagy hőhatás ért, ebből egy felrobbant.",
+      "location": "Szombathely, Falukert utca",
       "updates": []
     },
     {
@@ -342,9 +342,9 @@
       "title": "Tűz volt egy élelmiszerboltban Budapest VI. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92955",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Aradi utcába riasztották a tűzoltókat.",
+      "body": "Tűz volt egy élelmiszerboltban Budapest VI. kerületében, az Aradi utcában. A fővárosi hivatásos tűzoltók légzésvédelem mellett behatoltak az üzletbe, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Budapest, Aradi utca",
       "updates": []
     },
     {
