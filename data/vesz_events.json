@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T10:56:59.945177+00:00",
-  "count": 3416,
+  "updated_at": "2026-10-20T11:00:28.511268+00:00",
+  "count": 3417,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92978",
+      "datetime": "2026.10.20. 12:58",
+      "title": "Kamion vontatója égett a 62-es főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92978",
+      "lead": "A tűzoltók Rácalmás közelében fékezték meg a lángokat.",
+      "body": "Kigyulladt egy kamion vontató része Rácalmás közelében, a 62-es főút 7. kilométerénél. Teljes terjedelmében égett a jármű, amikor a dunaújvárosi hivatásos tűzoltók a helyszínre érkeztek. A rajok három vízsugárral eloltották a tüzet, és megkezdték az utómunkálatokat. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Rácalmás, 62",
+      "updates": []
+    },
     {
       "id": "92977",
       "datetime": "2026.10.20. 12:49",
@@ -375,9 +386,9 @@
       "title": "Utoléréses baleset történt az M4-esen, Üllőnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92947",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A főváros felé vezető oldal 28-29-es kilométere között hat autó karambolozott.",
+      "body": "Utoléréses balesetet szenvedett hat személykocsi az M4-es autóúton, Üllő térségében. A járművek a 28-29-es kilométer között, a Budapest felé vezető oldalon hajtottak egymásba. A monori hivatásos tűzoltók áramtalanítottak. A gépkocsik akadályozzák a forgalmat, torlódásra kell számítani.",
+      "location": "Üllő, M4",
       "updates": []
     },
     {
