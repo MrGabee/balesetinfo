@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:56:01.727765+00:00",
+  "updated_at": "2026-10-20T08:59:40.364742+00:00",
   "count": 3410,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Melléképület égett Érden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92970",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bányász utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Érden, a Bányász utcában. Az érdi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Érd, Bányász utca",
       "updates": []
     },
     {
@@ -73,9 +73,9 @@
       "title": "Mezőgazdasági vontató és egy autó ütközött Földeák és Hódmezővásárhely között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92966",
-      "lead": "A 4415-ös utat lezárták.",
-      "body": "Mezőgazdasági vontató és személyautó ütközött össze Földeák és Hódmezővásárhely között, a 4415-ös út 15-ös kilométerszelvényénél. A balesethez a makói hivatásos és a földeáki önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Földeák, 4415",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -84,9 +84,9 @@
       "title": "Tűz volt Miskolcon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92965",
-      "lead": "A Régiposta utcában oltották el a lángokat.",
-      "body": "Kisebb tűz ütött ki egy miskolci fitneszközpont szaunájában, a Régiposta utcában. A miskolci hivatásos tűzoltók a Borsod-Abaúj-Zemplén vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett eloltották a lángokat. A rajok kiszellőztetik a füsttel telítődött épületet, amit ötven fő hagyott el a munkálatok idejére.",
-      "location": "Miskolc, Régiposta utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -117,10 +117,19 @@
       "title": "Garázs ég Ócsán",
       "category": "Garázs ég Ócsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92962",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Rákóczi utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy garázs Ócsán, a Rákóczi utcában. A dabasi hivatásos, valamint az ócsai önkéntes tűzoltók két vízsugárral dolgoznak a tűz eloltásán. A lángok két dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa.",
+      "location": "Ócsa, Rákóczi utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Ócsán",
+          "datetime": "2026.10.19. 19:19",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Ócsán, ahol egy garázs égett a Rákóczi utcában. A tűz két dissou palackot is érintett, amit egy mesterlövész ártalmatlanított. A lángokat a dabasi hivatásos, valamint az ócsai önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el. A rajok munkáját egy fővárosi vízszállító is segítette.",
+          "location": "Ócsa, Rákóczi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92962/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92962"
+        }
+      ]
     },
     {
       "id": "92961",
@@ -183,19 +192,10 @@
       "title": "Ég egy melléképület Szegeden",
       "category": "Ég egy melléképület Szegeden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92956",
-      "lead": "A Hattyas utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy melléképület Szegeden, a Hattyas utcában. Egy közeli tárolóra is átterjedtek a lángok, amelyeket három vízsugárral oltanak a város hivatásos tűzoltói. A rajok egy gázpalackot is kihoztak az ingatlanból.",
-      "location": "Szeged, Hattyas utca",
-      "updates": [
-        {
-          "title": "Eloltották a tüzet Szegeden",
-          "datetime": "2026.10.19. 15:56",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a lángok továbbterjedését, majd eloltották a tüzet Szegeden, a Hattyas utcában, ahol kigyulladt egy melléképület. A mintegy kétszáz négyzetméteres ingatlan tetőszerkezete égett, és a mellette lévő fa-, valamint gabonatárolóra is átterjedt, a szomszéd lakóházat azonban nem érintette a tűz. A város hivatásos tűzoltói öt vízsugárral fékezték meg a lángokat. A rajok kihordják az építményből az ott tárolt anyagokat, tárgyakat, és utómunkálatokat végeznek. A beavatkozás idejére lezárták az utcát az égő ingatlan előtt.",
-          "location": "Szeged, Hattyas utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92956/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92956"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92955",
