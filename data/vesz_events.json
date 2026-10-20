@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T10:36:08.340300+00:00",
-  "count": 3413,
+  "updated_at": "2026-10-20T10:39:49.273699+00:00",
+  "count": 3414,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92975",
+      "datetime": "2026.10.20. 12:36",
+      "title": "Karambol Budapest XVI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92975",
+      "lead": "A Csömöri út és Batthyány utca kereszteződésében forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi Budapest XVI. kerületében, a Csömöri út és Batthyány utca kereszteződésében. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Csömöri út",
+      "updates": []
+    },
     {
       "id": "92974",
       "datetime": "2026.10.20. 11:46",
