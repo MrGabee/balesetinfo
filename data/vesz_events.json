@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T17:29:03.104134+00:00",
-  "count": 3428,
+  "updated_at": "2026-10-20T17:32:52.438281+00:00",
+  "count": 3429,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92990",
+      "datetime": "2026.10.20. 19:31",
+      "title": "Ház ég Dabason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990",
+      "lead": "A Bajcsy-Zsilinszky utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház tetőszerkezete Dabason, a Bajcsy-Zsilinszky utcában. A dabasi hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. A helyszínre tartanak további egységek is.",
+      "location": "Dabas, Bajcsy-Zsilinszky utca",
+      "updates": []
+    },
     {
       "id": "92989",
       "datetime": "2026.10.20. 18:52",
