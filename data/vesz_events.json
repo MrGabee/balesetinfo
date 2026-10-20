@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T07:15:03.291757+00:00",
+  "updated_at": "2026-10-20T07:18:23.872387+00:00",
   "count": 3410,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -212,9 +212,9 @@
       "title": "Tűz volt egy élelmiszerboltban Budapest VI. kerületében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92955",
-      "lead": "Az Aradi utcába riasztották a tűzoltókat.",
-      "body": "Tűz volt egy élelmiszerboltban Budapest VI. kerületében, az Aradi utcában. A fővárosi hivatásos tűzoltók légzésvédelem mellett behatoltak az üzletbe, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
-      "location": "Budapest, Aradi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -439,19 +439,10 @@
       "title": "Tűz ütött ki egy kecskemét-kadafalvai házban",
       "category": "Tűz ütött ki egy kecskemét-kadafalvai házban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936",
-      "lead": "A Mogyoró utcában van szükség tűzoltói beavatkozásra.",
-      "body": "Tűz keletkezett egy kecskemét-kadafalvai házban. A Mogyoró utcai épület egyik helyiségében csaptak fel a lángok, a szoba, illetve a berendezés tárgyak égtek. A megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a lángokat, vizsgálják a tetőt.",
-      "location": "Kecskemét, Mogyoró utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Kecskemét-Kadafalván",
-          "datetime": "2026.10.18. 18:02",
-          "category": "Tűzeset",
-          "text": "A Mogyoró utcában egy nagyjából száz négyzetméteres családi ház egyik szobája égett ki, a ház többi része kormos lett. A kecskeméti hivatásos tűzoltók vízsugarakkal oltották el a lángokat, illetve légzésvédelem mellett felmentek a padlásra, de sem a padlástérre, sem a födémre nem terjedt át a tűz. Az egységek már az utómunkálatokat végzik. A ház lakhatatlanná vált.",
-          "location": "Kecskemét, Mogyoró utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92936"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92935",
