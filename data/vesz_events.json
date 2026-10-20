@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T16:52:19.804192+00:00",
-  "count": 3427,
+  "updated_at": "2026-10-20T16:55:46.782598+00:00",
+  "count": 3428,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92989",
+      "datetime": "2026.10.20. 18:52",
+      "title": "Két autó ütközött Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92989",
+      "lead": "Az Árpád utcában forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi Kaposváron, a 610-es főút belterületi szakaszán, azaz az Árpád utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kaposvár, Árpád utca",
+      "updates": []
+    },
     {
       "id": "92988",
       "datetime": "2026.10.20. 18:28",
