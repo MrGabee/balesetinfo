@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T09:34:39.146943+00:00",
+  "updated_at": "2026-10-20T09:38:04.728422+00:00",
   "count": 3412,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -170,9 +170,9 @@
       "title": "Tűz volt egy érdi melléképületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92960",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók eloltották a lángokat a Külső Római úton.",
+      "body": "Tűz keletkezett egy melléképületben, Érden, a Külső Római úton. A műhelyként használt ingatlanban lévő kazánházban égett egy farakás mintegy négy-öt négyzetméteren. A város hivatásos tűzoltói eloltották a tüzet, amely máshova nem terjedt tovább. A rajok kiszellőztetik az épületet és utómunkálatokat végeznek.",
+      "location": "Érd, Külső Római út",
       "updates": []
     },
     {
@@ -287,9 +287,9 @@
       "title": "Összeütközött két autó Budapest XVIII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92951",
-      "lead": "A Csévéző utca és a Gyömrői út kereszteződésében forgalmi akadályra kell számítani.",
-      "body": "Két személyautó ütközött össze Budapest XVIII. kerületében, a Csévéző utca és a Gyömrői út kereszteződésében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Budapest, Csévéző utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -298,9 +298,9 @@
       "title": "Melléképület égett Kiskőrösnél",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92950",
-      "lead": "A tűzoltók az Izsáki út közelében fékezték meg a lángokat.",
-      "body": "Kigyulladt egy ólként használt, ám üres melléképület Kiskőrös külterületén, az Izsáki út közelében, egy tanyán. Tejes terjedelmében égett a mintegy húsz négyzetméteres, félig nyitott építmény. A kiskőrösi hivatásos és önkéntes tűzoltók három vízsugárral és kéziszerszámokkal megakadályozták a tűz továbbterjedését, majd eloltották a lángokat.",
-      "location": "Kiskőrös, Öregszőlő tanya",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -320,9 +320,9 @@
       "title": "Karambol a VII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92948",
-      "lead": "A Dembinszky utcába riasztották a tűzoltókat.",
-      "body": "Összeütközött két személyautó Budapest VII. kerületében, a Dembinszky utcában, A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Budapest, Dembinszky utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -353,9 +353,9 @@
       "title": "Baleset történt a 8-as főúton, Várpalotánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92945",
-      "lead": "A 26-os kilométernél szalagkorlátnak hajtott egy autó.",
-      "body": "Egy vad ugrott elé, manőverezés közben pedig megcsúszott az úton és szalagkorlátnak ütközött egy személykocsi a 8-as főút 26-os kilométerénél. A Várpalota mellett történt balesethez a pétfürdői hivatásos tűzoltók vonultak, áramtalanítottak. A főút érintett szakaszán fennakadásra kell számítani.",
-      "location": "Várpalota, 8",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -375,9 +375,9 @@
       "title": "Baleset történt Rákoscsabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92943",
-      "lead": "A Pesti úton, Budapest határánál árokba hajtott egy autó.",
-      "body": "A sofőr elrántotta a kormányt, emiatt árokba csapódott egy személykocsi Budapest tizenhetedik kerületében, a Pesti út végén, a városhatárhoz közel. A jármű vezetőjéhez mentőt riasztottak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
-      "location": "Budapest, Pesti út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -386,19 +386,10 @@
       "title": "Teljes terjedelmében ég egy épület Lentiben",
       "category": "Teljes terjedelmében ég egy épület Lentiben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942",
-      "lead": "Az Arany János útra helyi és letenyei tűzoltókat riasztottak.",
-      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából száz négyzetméteres családi ház Lentiben, az Arany János úton. A házzal egybe van építve egy melléképület, amelyben több kisgépet, illetve gázpalackokat tároltak. Az egyik palack fel is hasadt. Az esethez a helyi katasztrófavédelmi őrs egységei érkeztek ki elsőként, a tűzoltók több vízsugárral elkezdték oltani a lángokat, illetve több járművet is eltávolítottak az égő épület közeléből. A helyszínre tartanak a letenyei hivatásos tűzoltók is.",
-      "location": "Lenti, Arany János út",
-      "updates": [
-        {
-          "title": "Megkezdődtek az utómunkálatok Lentiben",
-          "datetime": "2026.10.18. 23:27",
-          "category": "Tűzeset",
-          "text": "Az Arany János úton keletkezett tűz egy épületben. A korábbi információkkal ellentétben nem a családi ház égett teljes terjedelmében, a lángok a melléképületből indultak, és csak kis területen érintették a főépületet, viszont a lakóház megtelt füsttel. A lenti és letenyei hivatásos tűzoltók a melléképületből berendezési tárgyakat és gázpalackot vittek a szabadba. Az egységek már hőkamerával vizsgálják át az épületeket, illetve megkezdik az utómunkálatokat. A házban hárman laknak, ők a szomszédban töltik az éjszakát.",
-          "location": "Lenti, Arany János út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92942/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92942"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92941",
@@ -417,9 +408,9 @@
       "title": "Teljes terjedelmében égett egy gépkocsi Karád és Andocs között",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92940",
-      "lead": "A tűzoltók a 6514-es út 3-4-es kilométere között dolgoztak.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy autó a 6514-es út Andocs és Karád közötti szakaszán. A jármű oltását a karádi önkéntes tűzoltók kezdték el, hozzájuk csatlakoztak a balatonboglári önkormányzati tűzoltók. Az egységek eloltották a lángokat, visszahűtötték és hőkamerával átvizsgálták az út közepén veszteglő gépkocsit. Végül letolták az útról az autót.",
-      "location": "Andocs, 6514",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -439,9 +430,9 @@
       "title": "Égett egy épület Miskolc-Lyukóvölgyben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92938",
-      "lead": "A Nagy Kerekhegy-dűlőbe miskolci és diósgyőri tűzoltók vonultak.",
-      "body": "Tűz ütött ki egy kisebb épületben Miskolc-Lyukóvölgyben, a Nagy Kerekhegy-dűlőben. Az esethez miskolci és diósgyőri hivatásos tűzoltók vonultak. Az egységek vízsugárral és kéziszerszámokkal oltották el a lángokat.",
-      "location": "Miskolc, Nagy Kerekhegy dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -450,9 +441,9 @@
       "title": "Súlyos baleset történt az M3-as sztrádán, Hort térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92937",
-      "lead": "A 63-as kilométernél fának rohant egy autó.",
-      "body": "Elhagyta az úttestet és fának rohant egy személykocsi az M3-as autópálya Miskolc felé vezető oldalán, a 63-as kilométernél. A jármű egyedül utazó sofőrjét civilek emelték ki az autóból, a gépkocsivezetőhöz mentő is érkezett. A hatvani hivatásos tűzoltók áramtalanították a járművet, illetve hígították az akkumulátorból kifolyt kénsavat.",
-      "location": "Hort, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -461,19 +452,10 @@
       "title": "Tűz ütött ki egy kecskemét-kadafalvai házban",
       "category": "Tűz ütött ki egy kecskemét-kadafalvai házban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936",
-      "lead": "A Mogyoró utcában van szükség tűzoltói beavatkozásra.",
-      "body": "Tűz keletkezett egy kecskemét-kadafalvai házban. A Mogyoró utcai épület egyik helyiségében csaptak fel a lángok, a szoba, illetve a berendezés tárgyak égtek. A megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel és a vízszállítóval vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a lángokat, vizsgálják a tetőt.",
-      "location": "Kecskemét, Mogyoró utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Kecskemét-Kadafalván",
-          "datetime": "2026.10.18. 18:02",
-          "category": "Tűzeset",
-          "text": "A Mogyoró utcában egy nagyjából száz négyzetméteres családi ház egyik szobája égett ki, a ház többi része kormos lett. A kecskeméti hivatásos tűzoltók vízsugarakkal oltották el a lángokat, illetve légzésvédelem mellett felmentek a padlásra, de sem a padlástérre, sem a födémre nem terjedt át a tűz. Az egységek már az utómunkálatokat végzik. A ház lakhatatlanná vált.",
-          "location": "Kecskemét, Mogyoró utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92936/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92936"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92935",
@@ -481,9 +463,9 @@
       "title": "Kigyulladt egy autó Bakonyjákón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92935",
-      "lead": "A Petőfi Sándor utcába pápai tűzoltókat riasztottak.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi Bakonyjákón, a Petőfi Sándor utcában. A lángok átterjedtek a környező bokros részre is. A pápai hivatásos tűzoltók oltották el a tüzet, már az utómunkálatoknál tartanak.",
-      "location": "Bakonyjákó, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -492,9 +474,9 @@
       "title": "Nagy területen égett a tarló Diósviszló külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92934",
-      "lead": "A siklósi hivatásos tűzoltók avatkoztak be.",
-      "body": "Többhektáros terület gyulladt meg Diósviszló külterületén. A körbetárcsázott területen égő tűz nem jelentett veszélyt semmire. A siklósi hivatásos tűzoltók vízsugárral, kéziszerszámokkal körülhatárolták, majd eloltották a tüzet. Az egység már az utómunkálatokat végzi.",
-      "location": "Diósviszló, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
