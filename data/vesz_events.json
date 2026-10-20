@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T12:38:32.006471+00:00",
-  "count": 3420,
+  "updated_at": "2026-10-20T12:42:42.111052+00:00",
+  "count": 3421,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92982",
+      "datetime": "2026.10.20. 14:41",
+      "title": "Körbálák égnek Tiszadobon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92982",
+      "lead": "A Móricz Zsigmond utcánál keletkezett tűz.",
+      "body": "Kigyulladt a száraz fű és több körbála Tiszadob határában, a Móricz Zsigmond utcánál. Mintegy kétszáz bála ég, és a tűz lakóházakat, valamint egy istállót is veszélyeztet. A tiszaújvárosi hivatásos és a tiszavasvári önkormányzati tűzoltók oltják a lángokat. A munkálatokat erőgép is segíti.",
+      "location": "Tiszadob, Móricz Zsigmond utca",
+      "updates": []
+    },
     {
       "id": "92981",
       "datetime": "2026.10.20. 14:36",
@@ -247,9 +258,9 @@
       "title": "Karambol Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92961",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budai úton forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Székesfehérváron, a Budai úton, a Topolyai utca közelében. A város hivatásos tűzoltói áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Székesfehérvár, Budai út",
       "updates": []
     },
     {
@@ -269,9 +280,9 @@
       "title": "Összeütközött két autó az 5201-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92959",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Dunaharaszti közelében akadályozza a forgalmat a baleset.",
+      "body": "Karambolozott két személygépkocsi az 5201-es úton, Dunaharaszti közelében, a 4. kilométernél. Az egyik jármű az árokba, egy fának csapódott, a másik keresztben áll az úttesten. A dunaharaszti önkéntes tűzoltók áramtalanították a gépkocsikat. A helyszínre érkeztek a szigetszentmiklósi hivatásos tűzoltók is. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Dunaharaszti, 5201",
       "updates": []
     },
     {
