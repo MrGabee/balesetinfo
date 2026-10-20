@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-20T14:45:53.520138+00:00",
-  "count": 3421,
+  "updated_at": "2026-10-20T14:49:28.509347+00:00",
+  "count": 3422,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92983",
+      "datetime": "2026.10.20. 16:48",
+      "title": "Karambolozott két autó Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92983",
+      "lead": "A Füredi utcában akadályozza a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó Kaposváron, a Füredi utcában, azaz a 67-es főúton, a 43. kilométernél. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben egy-egy ember utazott. A baleset helyszínén sok törmelék került az útburkolatra, forgalmi akadályra kell számítani.",
+      "location": "Kaposvár, Füredi utca",
+      "updates": []
+    },
     {
       "id": "92982",
       "datetime": "2026.10.20. 14:41 -",
