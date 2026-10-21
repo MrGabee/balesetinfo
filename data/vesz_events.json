@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:26:05.792913+00:00",
+  "updated_at": "2026-10-21T10:29:55.952645+00:00",
   "count": 3439,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Vonattal karambolozott egy autó Nyergesújfaluban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92999",
-      "lead": "A 10-es főút közelében, a Toray utcai vasúti átjáróban történt a baleset.",
-      "body": "Motorvonattal ütközött össze egy személyautó Nyergesújfaluban, a 10-es főút közelében, a Toray utcai vasúti átjáróban. A járműben egy ember utazott, aki ki tudott szállni. A szerelvény kisiklott, a nyergesújfalui hivatásos tűzoltók nyolc embert kimentettek belőle, áramtalanították a gépkocsit, és felitatják a vonatból kifolyt üzemanyagot. A helyszínre érkeztek a bajnai hivatásos és a nyergesújfalui önkéntes tűzoltók, valamint a mentők is. A műszaki mentést a Komárom-Esztergom megyei katasztrófavédelmi műveleti szolgálat irányítja.",
-      "location": "Nyergesújfalu, Toray utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -291,9 +291,9 @@
       "title": "Baleset történt a 8511-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92976",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Vonat és autó ütközött össze egy vasúti átjáróban.",
+      "body": "A vágányok melletti betongyámnak, sorompónak és egy arra haladó vonat utolsó kocsijának ütközött egy személyautó Kóny és Csorna között, a 8511-es út egyik vasúti átjárójában. A gépkocsiban egy ember utazott, aki ki tudott szállni. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a csornai hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amely miatt leállították a vonatforgalmat.",
+      "location": "Kóny, 8511",
       "updates": []
     },
     {
@@ -371,16 +371,7 @@
       "lead": "A Budapest felé vezető oldalt lezárták.",
       "body": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométerszelvénynél. Az aszódi és gödöllői hivatásos tűzoltók leválasztották a vontatmányt, jelenleg két vízsugárral oltják a lángokat. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
       "location": "Bag, M3",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat az M3-ason",
-          "datetime": "2026.10.20. 07:42",
-          "category": "Közlekedési baleset",
-          "text": "Eloltották a lángokat az M3-as autópályán, ahol egy kamion vontatmánya gyulladt meg a Budapest felé vezető oldalán, Bag közelében, a 36-os kilométerszelvénynél. Az aszódi és gödöllői hivatásos tűzoltók két vízsugárral oltották el a tüzet. Az érintett sztrádaszakaszon már egy sávon halad a forgalom, torlódásra kell számítani.",
-          "location": "Bag, M3",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92969/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92969"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92968",
