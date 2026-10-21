@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:40:16.916362+00:00",
+  "updated_at": "2026-10-21T13:44:09.056923+00:00",
   "count": 3446,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -163,9 +163,9 @@
       "title": "Árokba hajtott egy autó Létavértesen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92993",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nagyváradi utcában forgalmi akadályra kell számítani.",
+      "body": "Árokba hajtott egy személygépkocsi Létavértesen, a Nagyváradi utcában. A helyi önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Létavértes, Nagyváradi utca",
       "updates": []
     },
     {
@@ -174,9 +174,9 @@
       "title": "Karambol Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92992",
-      "lead": "A Berzsenyi utcában forgalmi akadály van.",
-      "body": "Összeütközött egy kamion és egy személygépkocsi Kaposváron, a Berzsenyi utcában. A kaposvári hivatásos tűzoltók áramtalanították az autót. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kaposvár, Berzsenyi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -412,9 +412,9 @@
       "title": "Árokba hajtott egy autó Sály közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92972",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 25115-ös úton végeznek műszaki mentést a tűzoltók, akik egy embert kiszabadítottak a járműből.",
+      "body": "Árokba sodródott egy gépkocsi a 25115-ös út Sály és Bükkábrány közötti szakaszán, az 5. kilométer közelében. A járműbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző mezőkövesdi hivatásos tűzoltók, akik áramtalanítják is a gépkocsit.",
+      "location": "Sály, 25115",
       "updates": []
     },
     {
@@ -434,9 +434,9 @@
       "title": "Melléképület égett Érden",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92970",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bányász utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Érden, a Bányász utcában. Az érdi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Érd, Bányász utca",
       "updates": []
     },
     {
