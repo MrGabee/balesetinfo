@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T20:36:46.961359+00:00",
-  "count": 3459,
+  "updated_at": "2026-10-21T20:39:47.362078+00:00",
+  "count": 3460,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93021",
+      "datetime": "2026.10.21. 22:39",
+      "title": "Szén-monoxid-érzékelő jelzett Baján",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93021",
+      "lead": "A Klapka György utcába vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzett Baján, a Klapka György utcában. A helyi hivatásos tűzoltókat riasztották az esethez. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársa is a helyszínen dolgozik.",
+      "location": "Baja, Klapka György utca",
+      "updates": []
+    },
     {
       "id": "93020",
       "datetime": "2026.10.21. 21:43",
