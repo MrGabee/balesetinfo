@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T06:06:42.377031+00:00",
-  "count": 3432,
+  "updated_at": "2026-10-21T06:09:59.754339+00:00",
+  "count": 3433,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92994",
+      "datetime": "2026.10.21. 08:07",
+      "title": "Két autó ütközött a XIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92994",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött két személygépkocsi Budapest XIII. kerületében, a Szegedi úton, a Hajdú utca közelében. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A raj áramtalanította a járműveket.",
+      "location": "Budapest, Szegedi út",
+      "updates": []
+    },
     {
       "id": "92993",
       "datetime": "2026.10.21. 07:33",
