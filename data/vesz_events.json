@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T17:18:30.916670+00:00",
-  "count": 3456,
+  "updated_at": "2026-10-21T17:21:55.967759+00:00",
+  "count": 3457,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93018",
+      "datetime": "2026.10.21. 19:21",
+      "title": "Baleset történt a X. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93018",
+      "lead": "Forgalmi akadály van.",
+      "body": "Lesodródott az útról egy személygépkocsi Budapest X. kerületében, a Horog utcában. A baleset következtében egy oszlop is kidőlt. A fővárosi hivatásos tűzoltókat riasztották az esethez. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Horog utca",
+      "updates": []
+    },
     {
       "id": "93017",
       "datetime": "2026.10.21. 19:02",
