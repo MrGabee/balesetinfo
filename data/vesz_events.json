@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T16:17:08.403244+00:00",
-  "count": 3453,
+  "updated_at": "2026-10-21T16:20:45.081803+00:00",
+  "count": 3454,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93015",
+      "datetime": "2026.10.21. 18:19",
+      "title": "Tűz keletkezett Hajdúhadházon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93015",
+      "lead": "Az Erdőalja utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett Hajdúhadházon, az Erdőalja utcában. Egy melléképület teljes terjedelmében égett, valamint a tűz a lakóépület tetőszerkezetét is érintett. A melléképület műhelyként funkcionált. A hajdúnánási és a debreceni hivatásos tűzoltók több vízsugárral oltották el a lángokat. A munkálatokat egy debreceni vízszállító jármű is segíti. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Hajdúhadház, Erdőalja utca",
+      "updates": []
+    },
     {
       "id": "93014",
       "datetime": "2026.10.21. 17:58",
