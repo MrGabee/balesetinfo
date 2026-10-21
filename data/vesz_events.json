@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T15:57:15.638048+00:00",
-  "count": 3452,
+  "updated_at": "2026-10-21T16:00:35.717342+00:00",
+  "count": 3453,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93014",
+      "datetime": "2026.10.21. 17:58",
+      "title": "Hármas karambol a 4108-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93014",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Összeütközött három személygépkocsi Anarcsnál, a 4108-as út 4-es kilométerénél. A kisvárdai hivatásos tűzoltók áramtalanítottak a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Anarcs, 4108",
+      "updates": []
+    },
     {
       "id": "93013",
       "datetime": "2026.10.21. 17:19",
