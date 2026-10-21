@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T05:31:42.777348+00:00",
-  "count": 3431,
+  "updated_at": "2026-10-21T05:35:51.074577+00:00",
+  "count": 3432,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92993",
+      "datetime": "2026.10.21. 07:33",
+      "title": "Árokba hajtott egy autó Létavértesen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92993",
+      "lead": "A Nagyváradi utcában forgalmi akadályra kell számítani.",
+      "body": "Árokba hajtott egy személygépkocsi Létavértesen, a Nagyváradi utcában. A helyi önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Létavértes, Nagyváradi utca",
+      "updates": []
+    },
     {
       "id": "92992",
       "datetime": "2026.10.21. 06:49",
@@ -258,9 +269,9 @@
       "title": "Karambol Szentendrén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92971",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sztaravodai útra vonultak a tűzoltók.",
+      "body": "Összeütközött két személyautó Szentendrén, a Sztaravodai úton, a Tuja utca közelében. A város hivatásos tűzoltói végzik a műszaki mentést a balesetnél, amely egy sávon akadályozza a forgalmat. A helyszínen vannak a mentők is.",
+      "location": "Szentendre, Sztaravodai út",
       "updates": []
     },
     {
@@ -369,7 +380,16 @@
       "lead": "A Rákóczi utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy garázs Ócsán, a Rákóczi utcában. A dabasi hivatásos, valamint az ócsai önkéntes tűzoltók két vízsugárral dolgoznak a tűz eloltásán. A lángok két dissou palackot is érintettek, amihez az állapota miatt mesterlövész érkezik a helyszínre, hogy ártalmatlanítsa.",
       "location": "Ócsa, Rákóczi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Ócsán",
+          "datetime": "2026.10.19. 19:19",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Ócsán, ahol egy garázs égett a Rákóczi utcában. A tűz két dissou palackot is érintett, amit egy mesterlövész ártalmatlanított. A lángokat a dabasi hivatásos, valamint az ócsai önkéntes tűzoltók, a Pest vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltották el. A rajok munkáját egy fővárosi vízszállító is segítette.",
+          "location": "Ócsa, Rákóczi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92962/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92962"
+        }
+      ]
     },
     {
       "id": "92961",
