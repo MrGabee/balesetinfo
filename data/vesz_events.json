@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T06:42:23.719615+00:00",
-  "count": 3434,
+  "updated_at": "2026-10-21T06:45:37.439635+00:00",
+  "count": 3435,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92996",
+      "datetime": "2026.10.21. 08:45",
+      "title": "Karambol a XVIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92996",
+      "lead": "A Ferihegyi repülőtérre vezető úton lassítja a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó Budapest XVIII. kerületében, a Ferihegyi repülőtérre vezető úton. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A mentőket is riasztották a balesethez, amelynek következtében egy világítási oszlop is kidőlt. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Ferihegyi repülőtérre vezető út",
+      "updates": []
+    },
     {
       "id": "92995",
       "datetime": "2026.10.21. 08:39",
@@ -128,9 +139,9 @@
       "title": "Egymásnak ütközött két autó Sarkadon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92985",
-      "lead": "A tűzoltók a Kossuth utcában áramtalanították a járműveket.",
-      "body": "Karambolozott két személyautó Sarkadon, a Kossuth utcában, a Bihar és az Árpád utca közötti szakaszon. A gyulai hivatásos tűzoltók áramtalanították a járműveket. A mentők is megérkeztek a baleset helyszínére, ahol teljes szélességében lezárták az utat.",
-      "location": "Sarkad, Kossuth utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
