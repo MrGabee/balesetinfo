@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:18:42.842575+00:00",
+  "updated_at": "2026-10-21T11:22:25.601780+00:00",
   "count": 3441,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -141,10 +141,19 @@
       "title": "Ház ég Dabason",
       "category": "Ház ég Dabason",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Bajcsy-Zsilinszky utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház tetőszerkezete Dabason, a Bajcsy-Zsilinszky utcában. A dabasi hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. A helyszínre tartanak további egységek is.",
+      "location": "Dabas, Bajcsy-Zsilinszky utca",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Dabason",
+          "datetime": "2026.10.20. 20:50",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy lakóház Dabason, a Bajcsy-Zsilinszky utcában. A Pest megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a dabasi, a monori, a fővárosi hivatásos és a délegyházi, illetve dolinavölgyi önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Dabas, Bajcsy-Zsilinszky utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92990"
+        }
+      ]
     },
     {
       "id": "92989",
@@ -359,9 +368,9 @@
       "title": "Karambol Szentendrén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92971",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Sztaravodai útra vonultak a tűzoltók.",
+      "body": "Összeütközött két személyautó Szentendrén, a Sztaravodai úton, a Tuja utca közelében. A város hivatásos tűzoltói végzik a műszaki mentést a balesetnél, amely egy sávon akadályozza a forgalmat. A helyszínen vannak a mentők is.",
+      "location": "Szentendre, Sztaravodai út",
       "updates": []
     },
     {
