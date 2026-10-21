@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T14:04:32.123001+00:00",
-  "count": 3449,
+  "updated_at": "2026-10-21T14:07:56.423861+00:00",
+  "count": 3450,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93011",
+      "datetime": "2026.10.21. 16:04",
+      "title": "Karambol az 55-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93011",
+      "lead": "Mórahalom és Domaszék között forgalmi akadály lehet.",
+      "body": "Karambolozott egy kisteherautó és egy személygépkocsi az 55-ös főút Mórahalom és Domaszék közötti szakaszán, a 15. kilométernél. A műszaki mentést végző szegedi hivatásos tűzoltók áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadály lehet.",
+      "location": "Domaszék, 55",
+      "updates": []
+    },
     {
       "id": "93010",
       "datetime": "2026.10.21. 15:54",
