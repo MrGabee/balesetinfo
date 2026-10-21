@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T04:46:06.574150+00:00",
-  "count": 3430,
+  "updated_at": "2026-10-21T04:49:48.128324+00:00",
+  "count": 3431,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92992",
+      "datetime": "2026.10.21. 06:49",
+      "title": "Karambol Kaposváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92992",
+      "lead": "A Berzsenyi utcában forgalmi akadály van.",
+      "body": "Összeütközött egy kamion és egy személygépkocsi Kaposváron, a Berzsenyi utcában. A kaposvári hivatásos tűzoltók áramtalanították az autót. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kaposvár, Berzsenyi utca",
+      "updates": []
+    },
     {
       "id": "92991",
       "datetime": "2026.10.20. 22:52",
