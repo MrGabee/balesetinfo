@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T21:38:30.915886+00:00",
-  "count": 3460,
+  "updated_at": "2026-10-21T21:41:50.838918+00:00",
+  "count": 3461,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93022",
+      "datetime": "2026.10.21. 23:38",
+      "title": "Autótűz Pápán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93022",
+      "lead": "Az Egressy Béni utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy gépkocsi Pápán, az Egressy Béni utcában. A jármű belső tere égett. A helyi hivatásos tűzoltók elfojtották a lángokat és áramtalanították az autót.",
+      "location": "Pápa, Egressy Béni utca",
+      "updates": []
+    },
     {
       "id": "93021",
       "datetime": "2026.10.21. 22:39",
