@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T15:18:52.468679+00:00",
-  "count": 3451,
+  "updated_at": "2026-10-21T15:22:29.002231+00:00",
+  "count": 3452,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93013",
+      "datetime": "2026.10.21. 17:19",
+      "title": "Árokba borult egy autó Jutánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93013",
+      "lead": "A 6701-es út érintett szakaszát teljes szélességében lezárták.",
+      "body": "Tetejével az árokba borult egy személyautó Jutánál, a 6701-es út 4-es és 5-ös kilométere közötti szakaszán. A kaposvári hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Juta, 6701",
+      "updates": []
+    },
     {
       "id": "93012",
       "datetime": "2026.10.21. 16:59",
