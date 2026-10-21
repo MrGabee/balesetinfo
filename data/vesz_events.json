@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T12:57:03.591433+00:00",
-  "count": 3445,
+  "updated_at": "2026-10-21T13:00:40.144382+00:00",
+  "count": 3446,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93007",
+      "datetime": "2026.10.21. 15:00",
+      "title": "Busz és autó ütközött Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93007",
+      "lead": "A Sóstói út érintett szakaszán félpályán halad a forgalom.",
+      "body": "Egy autóbusz és egy személygépkocsi karambolozott Nyíregyházán, a Sóstói úton. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, Sóstói út",
+      "updates": []
+    },
     {
       "id": "93006",
       "datetime": "2026.10.21. 14:50",
