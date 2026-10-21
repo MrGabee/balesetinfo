@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T06:56:01.948266+00:00",
-  "count": 3435,
+  "updated_at": "2026-10-21T06:59:25.226131+00:00",
+  "count": 3436,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92997",
+      "datetime": "2026.10.21. 08:57",
+      "title": "Baleset történt Rákospalotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92997",
+      "lead": "A Szántóföld utcába riasztották a tűzoltókat.",
+      "body": "Parkoló autónak hajtott, és felborította azt egy személygépkocsi Budapest XV. kerületében, a Szántóföld utcában, az Esthajnal utca közelében. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Szántóföld utca",
+      "updates": []
+    },
     {
       "id": "92996",
       "datetime": "2026.10.21. 08:45",
