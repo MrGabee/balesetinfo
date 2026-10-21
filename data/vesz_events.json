@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T09:23:08.281844+00:00",
-  "count": 3438,
+  "updated_at": "2026-10-21T09:26:39.599295+00:00",
+  "count": 3439,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93000",
+      "datetime": "2026.10.21. 11:24",
+      "title": "Karambol történt Botykapeterden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93000",
+      "lead": "Az egyik autóból a tűzoltók szabadítottak ki egy embert.",
+      "body": "Egymásba futott egy teherautó és egy személygépkocsi Botykapeterd határában, a Szigetvári utcában, azaz a 6-os főúton. Egy ember beszorult a járműbe. Őt feszítővágóval kiszabadították, majd kiemelték a műszaki mentést végző szigetvári hivatásos tűzoltók. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Botykapeterd, Szigetvári utca",
+      "updates": []
+    },
     {
       "id": "92999",
       "datetime": "2026.10.21. 09:49",
