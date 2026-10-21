@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T11:46:53.408312+00:00",
-  "count": 3441,
+  "updated_at": "2026-10-21T11:50:19.260003+00:00",
+  "count": 3442,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93003",
+      "datetime": "2026.10.21. 13:50",
+      "title": "Fának hajtott egy autó Battonyánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93003",
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "93002",
       "datetime": "2026.10.21. 13:07",
@@ -313,9 +324,9 @@
       "title": "Baleset történt a 8511-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92976",
-      "lead": "Vonat és autó ütközött össze egy vasúti átjáróban.",
-      "body": "A vágányok melletti betongyámnak, sorompónak és egy arra haladó vonat utolsó kocsijának ütközött egy személyautó Kóny és Csorna között, a 8511-es út egyik vasúti átjárójában. A gépkocsiban egy ember utazott, aki ki tudott szállni. A Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a csornai hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amely miatt leállították a vonatforgalmat.",
-      "location": "Kóny, 8511",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
