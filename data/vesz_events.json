@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-21T13:51:16.990452+00:00",
-  "count": 3447,
+  "updated_at": "2026-10-21T13:54:57.312468+00:00",
+  "count": 3449,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93010",
+      "datetime": "2026.10.21. 15:54",
+      "title": "Bajba jutott túrázókat mentettek ki a tűzoltók",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93010",
+      "lead": "Pilisszentlélek közelében hoztak le két embert a hegyoldalról.",
+      "body": "Két kiránduló is bajba került Pilisszentlélek közelében. Az egyik lecsúszott egy hegyoldalról, a másik pedig egy sziklába kapaszkodva tartotta fent magát. Az esztergomi hivatásos és önkéntes tűzoltók a Pest Megyei Kutató-Mentő Szolgálat, valamint barlangi mentők közreműködésével, alpintechnikát is alkalmazva kimentették, lehozták és átadták őket a mentőknek.",
+      "location": "Pilisszentlélek, Pilisszentlélek közelében",
+      "updates": []
+    },
+    {
+      "id": "93009",
+      "datetime": "2026.10.21. 15:52",
+      "title": "Két autó karambolozott az 5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93009",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Városföldnél, az 5-ös főút 100-as kilométerénél. A kecskeméti hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Városföld, 5",
+      "updates": []
+    },
     {
       "id": "93008",
       "datetime": "2026.10.21. 15:48",
