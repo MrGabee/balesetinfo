@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T06:17:41.612052+00:00",
+  "updated_at": "2026-10-21T06:21:26.766364+00:00",
   "count": 3433,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A Bajcsy-Zsilinszky utcában dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy családi ház tetőszerkezete Dabason, a Bajcsy-Zsilinszky utcában. A dabasi hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. A helyszínre tartanak további egységek is.",
       "location": "Dabas, Bajcsy-Zsilinszky utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Dabason",
+          "datetime": "2026.10.20. 20:50",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy lakóház Dabason, a Bajcsy-Zsilinszky utcában. A Pest megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a dabasi, a monori, a fővárosi hivatásos és a délegyházi, illetve dolinavölgyi önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Dabas, Bajcsy-Zsilinszky utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92990"
+        }
+      ]
     },
     {
       "id": "92989",
@@ -443,9 +452,9 @@
       "title": "Baleset történt Vácon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92957",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kosdi úton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Vácon, a Kosdi úton, a Lehár Ferenc utca közelében. A váci hivatásos tűzoltók áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Vác, Deák Ferenc utca",
       "updates": []
     },
     {
