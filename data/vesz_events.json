@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T14:59:17.129514+00:00",
-  "count": 3450,
+  "updated_at": "2026-10-21T15:02:14.929123+00:00",
+  "count": 3451,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93012",
+      "datetime": "2026.10.21. 16:59",
+      "title": "Összeütközött két autó Kiskorpádnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93012",
+      "lead": "A 6617-es út egy szakaszát lezárták a baleset miatt.",
+      "body": "Egymásnak ütközött két személyautó Kiskorpád határában, a Kossuth Lajos utcában, azaz a 6617-es úton. A kaposvári hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen hárman utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kiskorpád, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "93011",
       "datetime": "2026.10.21. 16:04",
