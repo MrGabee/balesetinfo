@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T17:01:30.282190+00:00",
-  "count": 3455,
+  "updated_at": "2026-10-21T17:05:17.099475+00:00",
+  "count": 3456,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93017",
+      "datetime": "2026.10.21. 19:02",
+      "title": "Szén-monoxid keletkezett egy VI. kerületi lakásban",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93017",
+      "lead": "A Jókai utcába vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzése miatt riasztották a főváros hivatásos tűzoltóit Budapest VI. kerületében, egy Jókai utcai lakásba. A raj és a gázszolgáltató munkatársa méréseket végeztek, és kimutatták a gázkoncentrációt az ingatlan levegőjében. A mentőszolgálat is a helyszínen dolgozik.",
+      "location": "Budapest, Jókai utca",
+      "updates": []
+    },
     {
       "id": "93016",
       "datetime": "2026.10.21. 18:39",
