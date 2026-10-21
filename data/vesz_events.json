@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T19:41:16.538135+00:00",
-  "count": 3458,
+  "updated_at": "2026-10-21T19:44:22.382852+00:00",
+  "count": 3459,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93020",
+      "datetime": "2026.10.21. 21:43",
+      "title": "Utoléréses baleset az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93020",
+      "lead": "A sztráda Budapest felé vezető szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Lajosmizsénél, az M5-ös autópálya 74-es kilométerénél, a Budapest felé vezető oldalon. A kecskeméti hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították a járműveket. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Lajosmizse, M5",
+      "updates": []
+    },
     {
       "id": "93019",
       "datetime": "2026.10.21. 20:34",
