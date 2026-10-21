@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T13:47:23.176314+00:00",
-  "count": 3446,
+  "updated_at": "2026-10-21T13:51:16.990452+00:00",
+  "count": 3447,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93008",
+      "datetime": "2026.10.21. 15:48",
+      "title": "Kigyulladt egy konyhai sütő Rákosszentmihályon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93008",
+      "lead": "A Mária utcában kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Tűz keletkezett egy családi ház konyhájában, Budapest XVI. kerületében, a Mária utcában. Az elektromos sütő gyulladt ki. Az ott lakók megkezdték a tűz oltását, amelyet a fővárosi hivatásos tűzoltók fejeztek be. A rajok átvizsgálják és kiszellőztetik az ingatlant, amelyből kihoztak egy macskát is.",
+      "location": "Budapest, Mária utca",
+      "updates": []
+    },
     {
       "id": "93007",
       "datetime": "2026.10.21. 15:00",
@@ -238,9 +249,9 @@
       "title": "Két autó ütközött össze a 33-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92987",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Debrecenben az érintett útszakaszon forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi a 33-as főúton, Debrecen térségében, a 104-es kilométerszelvénynél. Az autókban összesen hárman utaztak. A helyi hivatásos tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Debrecen, Balmazújvárosi út",
       "updates": []
     },
     {
