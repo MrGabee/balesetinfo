@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T12:01:09.144175+00:00",
-  "count": 3442,
+  "updated_at": "2026-10-21T12:04:21.744442+00:00",
+  "count": 3443,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93004",
+      "datetime": "2026.10.21. 14:02",
+      "title": "Szén-monoxid keletkezett egy XII. kerületi lakásban",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93004",
+      "lead": "A mentők egy embert kórházba vittek a Böszörményi úti ingatlanból.",
+      "body": "A szén-monoxid-érzékelő jelzése miatt riasztották a fővárosi hivatásos tűzoltókat Budapest XII. kerültébe, egy Böszörményi úti lakáshoz. A raj kimutatta a mérgező gázt az ingatlanban. Gázkoncentrációt mértek a szolgáltató munkatársai is, akik kizárták a hálózatból a meghibásodott gázkészüléket. A mentők szén-monoxid-mérgezés gyanújával kórházba szállítottak egy embert a lakásból.",
+      "location": "Budapest, Böszörményi út",
+      "updates": []
+    },
     {
       "id": "93003",
       "datetime": "2026.10.21. 13:50",
