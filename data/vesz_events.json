@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T07:09:18.552259+00:00",
-  "count": 3436,
+  "updated_at": "2026-10-21T07:13:13.298318+00:00",
+  "count": 3437,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92998",
+      "datetime": "2026.10.21. 09:11",
+      "title": "Összeütközött két autó Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92998",
+      "lead": "A Hungária út és az Esze Tamás utca kereszteződésénél forgalmi akadály van.",
+      "body": "Karambolozott két személygépkocsi Budapest XIX. kerületében, a Hungária út és az Esze Tamás utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, amelyekben egy-egy ember utazott. A baleset egy sávon akadályozza a forgalmat.",
+      "location": "Budapest, Hungária út, Esze Tamás utca",
+      "updates": []
+    },
     {
       "id": "92997",
       "datetime": "2026.10.21. 08:57",
@@ -302,9 +313,9 @@
       "title": "Árokba hajtott egy autó Sály közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92972",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 25115-ös úton végeznek műszaki mentést a tűzoltók, akik egy embert kiszabadítottak a járműből.",
+      "body": "Árokba sodródott egy gépkocsi a 25115-ös út Sály és Bükkábrány közötti szakaszán, az 5. kilométer közelében. A járműbe beszorult egy ember. Őt feszítővágóval kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző mezőkövesdi hivatásos tűzoltók, akik áramtalanítják is a gépkocsit.",
+      "location": "Sály, 25115",
       "updates": []
     },
     {
