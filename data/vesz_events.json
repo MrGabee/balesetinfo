@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:26:09.029464+00:00",
+  "updated_at": "2026-10-21T11:29:30.472841+00:00",
   "count": 3441,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Melléképületek égtek Csepelen",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93001",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megfékezték a lángokat a Martinász utcában.",
+      "body": "Tűz keletkezett egy kertes ház udvarán, Budapest XXI. kerületében, a Martinász utcában. Mintegy tíz négyzetméteren két melléképületet is érintettek a lángok. A fővárosi hivatásos tűzoltók két vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat.",
+      "location": "Budapest, Martinász utca",
       "updates": []
     },
     {
@@ -144,16 +144,7 @@
       "lead": "A Bajcsy-Zsilinszky utcában dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy családi ház tetőszerkezete Dabason, a Bajcsy-Zsilinszky utcában. A dabasi hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. A helyszínre tartanak további egységek is.",
       "location": "Dabas, Bajcsy-Zsilinszky utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Dabason",
-          "datetime": "2026.10.20. 20:50",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy lakóház Dabason, a Bajcsy-Zsilinszky utcában. A Pest megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a dabasi, a monori, a fővárosi hivatásos és a délegyházi, illetve dolinavölgyi önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Dabas, Bajcsy-Zsilinszky utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92990"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "92989",
@@ -183,9 +174,9 @@
       "title": "Két autó ütközött össze a 33-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92987",
-      "lead": "Debrecenben az érintett útszakaszon forgalmi akadály van.",
-      "body": "Egymásnak ütközött két személygépkocsi a 33-as főúton, Debrecen térségében, a 104-es kilométerszelvénynél. Az autókban összesen hárman utaztak. A helyi hivatásos tűzoltók áramtalanítottak egy járművet. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Debrecen, Balmazújvárosi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -258,9 +249,9 @@
       "title": "Két autó és egy teherautó ütközött az M35-ön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92981",
-      "lead": "Debrecennél egy sávon halad a forgalom.",
-      "body": "Összeütközött két személygépkocsi és egy teherautó az M35-ös autópályán, az M3-as felé haladó irányba, Debrecennél, a 35-ös kilométerszelvénynél. A járművekben csak a sofőrök utaztak. A debreceni hivatásos tűzoltók műszaki mentést végeznek. Az érintett pályaszakaszon egy sávon halad a forgalom.",
-      "location": "Debrecen, Ágnes tanya",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -269,9 +260,9 @@
       "title": "Hármas karambol Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92980",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Debreceni úton van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött három személygépkocsi Nyíregyházban, a Debreceni úton. A város hivatásos tűzoltói két autót áramtalanítottak, a harmadiknál nem volt szükség ilyen beavatkozásra. A mentők is kivonultak a balesethez, amelynek helyszínén forgalmi akadályra kell számítani.",
+      "location": "Nyíregyháza, Debreceni út",
       "updates": []
     },
     {
@@ -390,19 +381,10 @@
       "title": "Kamion ég az M3-ason, Bagnál",
       "category": "Kamion ég az M3-ason, Bagnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92969",
-      "lead": "A Budapest felé vezető oldalt lezárták.",
-      "body": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométerszelvénynél. Az aszódi és gödöllői hivatásos tűzoltók leválasztották a vontatmányt, jelenleg két vízsugárral oltják a lángokat. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
-      "location": "Bag, M3",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat az M3-ason",
-          "datetime": "2026.10.20. 07:42",
-          "category": "Közlekedési baleset",
-          "text": "Eloltották a lángokat az M3-as autópályán, ahol egy kamion vontatmánya gyulladt meg a Budapest felé vezető oldalán, Bag közelében, a 36-os kilométerszelvénynél. Az aszódi és gödöllői hivatásos tűzoltók két vízsugárral oltották el a tüzet. Az érintett sztrádaszakaszon már egy sávon halad a forgalom, torlódásra kell számítani.",
-          "location": "Bag, M3",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92969/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92969"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92968",
@@ -454,9 +436,9 @@
       "title": "Két autó ütközött Zámoly és Székesfehérvár között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92964",
-      "lead": "A 8123-as úton forgalmi akadályra kell számítani.",
-      "body": "Összeütközött két személyautó Zámoly és Székesfehérvár között, a 8123-as út 10-es kilométerszelvényénél. A baleset következtében az egyik gépkocsi az árokba sodródott. A székesfehérvári hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Zámoly, Borbála-puszta",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
