@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-21T06:38:29.590080+00:00",
-  "count": 3433,
+  "updated_at": "2026-10-21T06:42:23.719615+00:00",
+  "count": 3434,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "92995",
+      "datetime": "2026.10.21. 08:39",
+      "title": "Földrengés volt Székesfehérvár közelében",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92995",
+      "lead": "A földmozgást a lakosság is érzékelte.",
+      "body": "A HUN-REN Földfizikai és Űrtudományi Kutatóintézet Kövesligethy Radó Szeizmológiai Obszervatóriumának közleménye szerint 2026. október 21-én helyi idő szerint 5 óra 42 perckor 2,0-s magnitúdójú földrengés keletkezett Magyarországon, Fejér vármegyében, Székesfehérvártól mintegy 9 km-re. A földmozgást a lakosság is érzékelte, obszervatóriumunkba Csórról érkezett egy lakossági észlelés. Károkról egyelőre nem érkezett bejelentés.\n\nMegyék:Fejér",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "92994",
       "datetime": "2026.10.21. 08:07",
