@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T16:45:29.009597+00:00",
-  "count": 3493,
+  "updated_at": "2026-10-22T16:49:12.578784+00:00",
+  "count": 3494,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93055",
+      "datetime": "2026.10.22. 18:48",
+      "title": "Két személykocsi karambolozott Balmazújvárosban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93055",
+      "lead": "A Debreceni utcába riasztották a helyi önkormányzati tűzoltókat.",
+      "body": "Összeütközött két autó Balmazújvárosban, a Debreceni utcában. A járművekben csak a sofőrök utaztak, mentő érkezett hozzájuk. A város önkormányzati tűzoltóit riasztották a helyszínre. Az érintett útszakaszt átmenetileg lezárták.",
+      "location": "Balmazújváros, Debreceni utca",
+      "updates": []
+    },
     {
       "id": "93054",
       "datetime": "2026.10.22. 17:27",
@@ -273,9 +284,9 @@
       "title": "Baleset történt az M0-ás végén, a Megyeri-hídnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93030",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy autó árokba hajtott a körforgalomnál.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi a Megyeri-hídnál, az M0-ás autóút budai oldali lehajtójánál. A járműben hárman utaztak, mentő érkezett hozzájuk. A fővárosi hivatásos tűoltók áramtalanították a gépkocsit.",
+      "location": "Budakalász, M0",
       "updates": []
     },
     {
@@ -401,9 +412,9 @@
       "title": "Utoléréses baleset az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93020",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A sztráda Budapest felé vezető szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Lajosmizsénél, az M5-ös autópálya 74-es kilométerénél, a Budapest felé vezető oldalon. A kecskeméti hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították a járműveket. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Lajosmizse, M5",
       "updates": []
     },
     {
