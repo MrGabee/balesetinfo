@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T10:55:42.200913+00:00",
-  "count": 3480,
+  "updated_at": "2026-10-22T10:58:42.614858+00:00",
+  "count": 3481,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93042",
+      "datetime": "2026.10.22. 12:57",
+      "title": "Karambolozott két autó a 3-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93042",
+      "lead": "Az egyik járműből a tűzoltók szabadítottak ki egy embert.",
+      "body": "Összeütközött két személyautó a 3-as főúton, Emőd határában, a 302-es főúttal közös csomópont közelében. Egy ember beszorult ez egyik járműbe. Őt feszítővágóval és nyomató hengerrel szabadították ki, majd kiemelték és átadták a mentőknek a műszaki mentést végző miskolci és mezőcsáti hivatásos tűzoltók. A rajok áramtalanították a gépkocsikat. Mentőhelikopter is érkezett a baleset helyszínére, ahol forgalmi akadályra kell számítani.",
+      "location": "Emőd, 3",
+      "updates": []
+    },
     {
       "id": "93041",
       "datetime": "2026.10.22. 12:41",
@@ -152,9 +163,9 @@
       "title": "Baleset történt az M6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93028",
-      "lead": "Paksnál, a sztráda Bátaszék felé vezető oldalán dolgoznak a tűzoltók.",
-      "body": "Szalagkorlátnak és egy kamionnak ütközött egy személygépkocsi Paksnál, az M6-os autópálya 103-as és 104-es kilométere közötti szakaszán, a Bátaszék felé vezető oldalon. A paksi hivatásos tűzoltók áramtalanították a személyautót. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Paks, M6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,9 +403,9 @@
       "title": "Busz és autó ütközött Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93007",
-      "lead": "A Sóstói út érintett szakaszán félpályán halad a forgalom.",
-      "body": "Egy autóbusz és egy személygépkocsi karambolozott Nyíregyházán, a Sóstói úton. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Nyíregyháza, Sóstói út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
