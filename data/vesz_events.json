@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T07:17:30.321969+00:00",
-  "count": 3470,
+  "updated_at": "2026-10-22T07:20:44.722160+00:00",
+  "count": 3471,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93032",
+      "datetime": "2026.10.22. 09:17",
+      "title": "Baleset történt az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93032",
+      "lead": "Gödöllő közelében volt szükség tűzoltói beavatkozásra.",
+      "body": "Szalagkorlátnak ütközött egy kisteherautó az M3-as autópálya Budapest felé vezető oldalán, Gödöllő közelében, a 32. és a 33. kilométer között. A műszaki mentést végző aszódi hivatásos tűzoltók áramtalanították a járművet, amely semmit sem szállított. A baleset helyszínén forgalomkorlátozás lehet.",
+      "location": "Gödöllő, M3",
+      "updates": []
+    },
     {
       "id": "93031",
       "datetime": "2026.10.22. 08:35",
