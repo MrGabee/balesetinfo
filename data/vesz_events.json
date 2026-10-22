@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:20:43.962938+00:00",
+  "updated_at": "2026-10-22T14:24:17.935074+00:00",
   "count": 3490,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -293,9 +293,9 @@
       "title": "Két autó ütközött Budaörsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93026",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Budaörs térségében, az M1-M7-es autópálya közös bevezető szakaszán, a főváros felé vezető oldalon. A budaörsi önkéntes tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Budaörs, M1-M7",
       "updates": []
     },
     {
@@ -315,16 +315,16 @@
       "title": "Árokba sodródott egy autó a 4102-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93024",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Letért az útról és az árokba sodródott egy személygépkocsi Biri térségében, a Fú úton, azaz a 4102-es úton a Rákóczi Ferenc köz közelében. A szakolyi önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Biri, Fő út",
       "updates": []
     },
     {
       "id": "93023",
-      "datetime": "2026.10.22. 06:14",
+      "datetime": "2026.10.22. 06:14 -",
       "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
-      "category": "Meteorológiai riasztás",
+      "category": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93023",
       "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
