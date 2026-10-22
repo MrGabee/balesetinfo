@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T19:13:47.378773+00:00",
-  "count": 3500,
+  "updated_at": "2026-10-22T19:17:06.303450+00:00",
+  "count": 3501,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93062",
+      "datetime": "2026.10.22. 21:14",
+      "title": "Összeütközött két autó Angyalföldön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93062",
+      "lead": "A baleset az Újpalotai út és a Kámfor utca kereszteződésénél történt.",
+      "body": "Két személykocsi karambolozott Budapest tizenharmadik kerületében, az Újpalotai út és a Kámfor utca kereszteződésénél. Mindkét járműben ketten ültek, az utasokhoz mentőt is riasztottak. A fővárosi hivatásos tűzoltók áramtalanították az autókat.",
+      "location": "Budapest, Újpalotai út",
+      "updates": []
+    },
     {
       "id": "93061",
       "datetime": "2026.10.22. 20:38",
