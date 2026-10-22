@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T20:29:29.792909+00:00",
-  "count": 3502,
+  "updated_at": "2026-10-22T20:33:18.132334+00:00",
+  "count": 3503,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93064",
+      "datetime": "2026.10.22. 22:30",
+      "title": "Kigyulladt egy családi ház Csillaghegyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93064",
+      "lead": "A Napfény utcába több fővárosi egységet is riasztottak.",
+      "body": "Kigyulladt egy nagyjából száz négyzetméteres családi ház Budapest harmadik kerületében, a Napfény utca elején. A teljes tetőszerkezet lángol, a lakók elhagyták az épületet. Az esethez három fővárosi hivatásos egységet és a katasztrófavédelmi műveleti szolgálatot riasztották. A rajok vízsugarakkal megkezdték az oltást.",
+      "location": "Budapest, Napfény utca",
+      "updates": []
+    },
     {
       "id": "93063",
       "datetime": "2026.10.22. 22:21",
