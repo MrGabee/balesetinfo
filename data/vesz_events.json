@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T09:08:14.496534+00:00",
-  "count": 3477,
+  "updated_at": "2026-10-22T09:11:32.696779+00:00",
+  "count": 3478,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93039",
+      "datetime": "2026.10.22. 11:09",
+      "title": "Összeütközött két autó Esztergomban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93039",
+      "lead": "A baleset akadályozza a forgalmat a 1131-es úton.",
+      "body": "Karambolozott két személyautó Esztergomban, a Szenttamás utcában, azaz a 1131-es úton. A város hivatásos tűzoltói áramtalanították az egyik gépkocsit, a másiknál nincs szükség ilyen beavatkozásra. A helyszínre érkeztek a mentők is. A baleset az út teljes szélességében akadályozza a forgalmat.",
+      "location": "Esztergom, Szenttamás utca",
+      "updates": []
+    },
     {
       "id": "93038",
       "datetime": "2026.10.22. 09:52",
