@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:34:14.235517+00:00",
+  "updated_at": "2026-10-22T22:38:03.173270+00:00",
   "count": 3505,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "93065",
-      "datetime": "2026.10.22. 23:24",
+      "datetime": "2026.10.22. 23:24 -",
       "title": "Szomszédos ingatlanokon keletkezett tűz Kőszegen",
-      "category": "Tűzeset",
+      "category": "Szomszédos ingatlanokon keletkezett tűz Kőszegen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93065",
       "lead": "A Fenyő utcában két, egymás melletti udvarban fatárolók égtek.",
       "body": "Kigyulladt egy faszerkezetű tároló Kőszegen, a Fenyő utcában. A tűz átterjedt a szomszédos telken álló tárolóra is. Az esethez a helyi önkormányzati tűzoltók mellett Szombathelyről hivatásos tűzoltók érkeztek, a beavatkozást a Vas megyei katasztrófavédelmi műveleti szolgálat irányítja. Az egységek négy vízsugárral oltják a tárolókat, illetve védik a lakóingatlanokat. A tűzoltók propánbutángáz-palackokat is a szabadba vittek. A palackokat hő érte, ezért az egységek visszahűtik azokat.",
       "location": "Kőszeg, Fenyő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Összesen három gázpalackot vittek ki a kőszegi tárolóból",
+          "datetime": "2026.10.23. 00:34",
+          "category": "Tűzeset",
+          "text": "A Fenyő utcában két, egymás melletti udvarban fatárolók égtek. A tűznek a tárolón kívül kerti szerszámok, tűzifa, motoros láncfűrész, fűnyíró, illetve grillezéshez használt eszközök is áldozatul estek. A kőszegi és szombathelyi tűzoltók először két gázpalackot vittek a szabadba, később a törmelékek alatt találtak egy harmadikat is, utóbbit hő- és lánghatás is érte. Az egységek elvégezték az utómunkálatokat is, felkutatták a még izzó, parázsló részeket, illetve kihordták a zabadba a tűzzel érintet tűzifát.",
+          "location": "Kőszeg, Fenyő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93065/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93065"
+        }
+      ]
     },
     {
       "id": "93064",
