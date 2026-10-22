@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T17:45:25.887302+00:00",
-  "count": 3497,
+  "updated_at": "2026-10-22T17:49:04.201753+00:00",
+  "count": 3498,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93059",
+      "datetime": "2026.10.22. 19:47",
+      "title": "Kisbusz és kamion karambolozott Vecsésen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93059",
+      "lead": "A baleset a Lőrinci út és a Széchenyi utca kereszteződésében történt.",
+      "body": "Egymásba hajtott egy rakomány nélküli nyerges vontató és egy kisbusz Vecsésen, a Lőrinci út és a Széchenyi utca kereszteződésében. Az esethez a fővárosi hivatásos tűzoltók és a Lőrinc-Kertváros Polgárőr Csoport és Önkéntes Tűzoltó Egyesület önkéntes tűzoltói vonultak. Az egységek áramtalanítottak. A helyszínre várják a társhatóságokat is. A kamionból jelentős mennyiségű üzemanyag került a burkolatra, az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Vecsés, Lőrinci út",
+      "updates": []
+    },
     {
       "id": "93058",
       "datetime": "2026.10.22. 19:36",
@@ -434,9 +445,9 @@
       "title": "Szén-monoxid-érzékelő jelzett Baján",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93021",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Klapka György utcába vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzett Baján, a Klapka György utcában. A helyi hivatásos tűzoltókat riasztották az esethez. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársa is a helyszínen dolgozik.",
+      "location": "Baja, Klapka György utca",
       "updates": []
     },
     {
