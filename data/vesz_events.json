@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:56:08.599277+00:00",
+  "updated_at": "2026-10-22T13:59:42.847684+00:00",
   "count": 3490,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Felborult egy autó az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93048",
-      "lead": "Gyál közelébe riasztották a tűzoltókat.",
-      "body": "Baleset történt az M0-s autóút Dunaharaszti felé vezető oldalán, Gyál közelében, az M5-ös autópályára vezető lehajtónál. Egy személyautó felborult a szalagkorlátok között. A fővárosi hivatásos tűzoltók áramtalanították a járművet, amelyben hárman utaztak.",
-      "location": "Gyál, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -130,9 +130,9 @@
       "title": "Az oldalára borult egy autó az 5204-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93040",
-      "lead": "Kiskunlacháza közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Lesodródott az úttestről és a szántóföldön, az oldalán állt meg egy személyautó az 5204-es úton, Kiskunlacháza közelében. A balesethez a ráckevei önkormányzati tűzoltókat riasztották. A raj áramtalanította a járművet, amelyben egy ember utazott.",
-      "location": "Kiskunlacháza, 5204",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -174,9 +174,9 @@
       "title": "Karambol Erzsébetvárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93036",
-      "lead": "A Dózsa György út és a Verseny utca találkozásánál két személykocsi ütközött össze.",
-      "body": "Egymásba hajtott két autó Budapesten, a Dózsa György út és a Verseny utca találkozásánál. Az egyik gépkocsiból olaj került a burkolatra. A járművek utasaihoz mentő érkezett. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
-      "location": "Budapest, Dózsa György út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -293,9 +293,9 @@
       "title": "Két autó ütközött Budaörsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93026",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály van.",
+      "body": "Budaörs térségében, az M1-M7-es autópálya közös bevezető szakaszán, a főváros felé vezető oldalon. A budaörsi önkéntes tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Budaörs, M1-M7",
       "updates": []
     },
     {
