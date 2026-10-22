@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T04:59:22.139601+00:00",
-  "count": 3464,
+  "updated_at": "2026-10-22T05:03:03.566322+00:00",
+  "count": 3465,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93026",
+      "datetime": "2026.10.22. 07:01",
+      "title": "Két autó ütközött Budaörsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93026",
+      "lead": "Forgalmi akadály van.",
+      "body": "Budaörs térségében, az M1-M7-es autópálya közös bevezető szakaszán, a főváros felé vezető oldalon. A budaörsi önkéntes tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek. A sztráda érintett szakaszán forgalmi akadály van.",
+      "location": "Budaörs, M1-M7",
+      "updates": []
+    },
     {
       "id": "93025",
       "datetime": "2026.10.22. 06:53",
