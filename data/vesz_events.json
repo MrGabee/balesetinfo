@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T17:34:50.643359+00:00",
-  "count": 3496,
+  "updated_at": "2026-10-22T17:38:05.122593+00:00",
+  "count": 3497,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93058",
+      "datetime": "2026.10.22. 19:36",
+      "title": "Melléképület gyulladt ki Vilonyán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93058",
+      "lead": "Az Újtelep utcába vonultak a balatonfűzfői és a pétfürdői tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából ötven négyzetméteres melléképület Vilonyán, az Újtelep utcában. A balatonfűzfői és pétfürdői hivatásos tűzoltók több vízsugárral körülhatárolták a lángokat. Az építményhez tartozó napelemes tető megsemmisült.",
+      "location": "Vilonya, Újtelep utca",
+      "updates": []
+    },
     {
       "id": "93057",
       "datetime": "2026.10.22. 19:24",
