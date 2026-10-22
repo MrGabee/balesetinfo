@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T15:25:02.655789+00:00",
-  "count": 3492,
+  "updated_at": "2026-10-22T15:28:18.965554+00:00",
+  "count": 3493,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93054",
+      "datetime": "2026.10.22. 17:27",
+      "title": "A 4219-es út 18-as kilométeréhez a komádi tűzoltók vonultak.",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93054",
+      "lead": "Összeütközött két autó Komádi és Zsadány között",
+      "body": "Két személykocsi karambolozott a 4219-es út Komádi és Zsadány közötti szakaszán. A 18-as kilométernél történt balesethez a komádi önkormányzati tűzoltók vonultak. A járművekben összesen hárman utaztak, a helyszínre mentő is érkezett. Az autókat még a komádi egység megérkezése előtt egy szabadnapos tűzoltó áramtalanította. Az érintett útszakaszon egy időre megállították a forgalmat.",
+      "location": "Komádi, 4219",
+      "updates": []
+    },
     {
       "id": "93053",
       "datetime": "2026.10.22. 17:21",
@@ -240,9 +251,9 @@
       "title": "Baleset történt az M3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93032",
-      "lead": "Gödöllő közelében volt szükség tűzoltói beavatkozásra.",
-      "body": "Szalagkorlátnak ütközött egy kisteherautó az M3-as autópálya Budapest felé vezető oldalán, Gödöllő közelében, a 32. és a 33. kilométer között. A műszaki mentést végző aszódi hivatásos tűzoltók áramtalanították a járművet, amely semmit sem szállított. A baleset helyszínén forgalomkorlátozás lehet.",
-      "location": "Gödöllő, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
