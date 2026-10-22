@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T12:34:52.578586+00:00",
-  "count": 3486,
+  "updated_at": "2026-10-22T12:38:14.981699+00:00",
+  "count": 3487,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93048",
+      "datetime": "2026.10.22. 14:37",
+      "title": "Felborult egy autó az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93048",
+      "lead": "Gyál közelébe riasztották a tűzoltókat.",
+      "body": "Baleset történt az M0-s autóút Dunaharaszti felé vezető oldalán, Gyál közelében, az M5-ös autópályára vezető lehajtónál. Egy személyautó felborult a szalagkorlátok között. A fővárosi hivatásos tűzoltók áramtalanították a járművet, amelyben hárman utaztak.",
+      "location": "Gyál, M0",
+      "updates": []
+    },
     {
       "id": "93047",
       "datetime": "2026.10.22. 14:04",
