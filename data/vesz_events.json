@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T21:14:29.880031+00:00",
+  "updated_at": "2026-10-22T21:17:48.694414+00:00",
   "count": 3503,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Napfény utcába több fővárosi egységet is riasztottak.",
       "body": "Kigyulladt egy nagyjából száz négyzetméteres családi ház Budapest harmadik kerületében, a Napfény utca elején. A teljes tetőszerkezet lángol, a lakók elhagyták az épületet. Az esethez három fővárosi hivatásos egységet és a katasztrófavédelmi műveleti szolgálatot riasztották. A rajok vízsugarakkal megkezdték az oltást.",
       "location": "Budapest, Napfény utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók megfékezték a harmadik kerületi lángokat",
+          "datetime": "2026.10.22. 23:13",
+          "category": "Tűzeset",
+          "text": "A Napfény utcában egy családi ház tetőszerkezete fogott tüzet. A fővárosi hivatásos tűzoltók négy vízsugárral fékezték meg a lángokat. A rajok átvizsgálták a ház két lakrészét, ezeket nem érintette a tűz és egyikben sem tartózkodott senki. Az egységek légzésvédelem mellett felmentek a padlásra is, ahol egy háztartási méretű, de már felhasadt gázpalackot találtak.",
+          "location": "Budapest, Napfény utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93064/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93064"
+        }
+      ]
     },
     {
       "id": "93063",
