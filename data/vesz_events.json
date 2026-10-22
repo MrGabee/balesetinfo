@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-22T13:27:34.361888+00:00",
-  "count": 3489,
+  "updated_at": "2026-10-22T13:31:00.546935+00:00",
+  "count": 3490,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93051",
+      "datetime": "2026.10.22. 15:28",
+      "title": "Égett egy ház Mátészalkán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93051",
+      "lead": "A Cserepeshegy utcában keletkezett tűz.",
+      "body": "Kigyulladt egy lakóház Mátészalkán, a Cserepeshegy utcában. Teljes terjedelmében égett a mintegy húsz négyzetméteres épület, amelyben senki sem tartózkodott. A rajok eloltották a lángokat és megkezdték az utómunkálatokat. A ház lakhatatlanná vált a tűz következtében.",
+      "location": "Mátészalka, Cserepeshegy utca",
+      "updates": []
+    },
     {
       "id": "93050",
       "datetime": "2026.10.22. 15:07",
       "title": "Baleset történt Újpalotán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93050",
-      "lead": "Áll a villamosforgalom a Páskomliget utcában.",
-      "body": "Villamossal ütközött össze egy kisteherautó Budapest XV. kerületében, a Páskomliget utcában. A balesethez a fővárosi hivatásos tűzoltókat riasztották. A mentők is a helyszínen vannak. A karambol miatt áll a villamosforgalom.",
-      "location": "Budapest, Páskomliget utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
