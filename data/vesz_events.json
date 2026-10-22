@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T05:30:17.931654+00:00",
-  "count": 3465,
+  "updated_at": "2026-10-22T05:33:49.210394+00:00",
+  "count": 3466,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93027",
+      "datetime": "2026.10.22. 07:33",
+      "title": "Kigyulladt egy csarnok Visegrádnál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93027",
+      "lead": "Az Esztergomi út közelében dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy csarnoképület Visegrád külterületén, az Esztergomi út közelében. Az épületben nagy mennyiségű faanyag ég, valamint a tetőszerkezet részben beomlott. A Pest megyei katasztrófavédelmi műveleti szolgálat mellett a szentendrei, az esztergomi hivatásos, a visegrádi, a szentendrei és a szigetmonostori önkéntes tűzoltókat riasztották a helyszínre. A rajok több vízsugárral oltják a lángokat. Elhúzódó munkálatokra kell számítani.",
+      "location": "Visegrád, Esztergomi út",
+      "updates": []
+    },
     {
       "id": "93026",
       "datetime": "2026.10.22. 07:01",
@@ -75,9 +86,9 @@
       "title": "Utoléréses baleset az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93020",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A sztráda Budapest felé vezető szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Lajosmizsénél, az M5-ös autópálya 74-es kilométerénél, a Budapest felé vezető oldalon. A kecskeméti hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították a járműveket. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Lajosmizse, M5",
       "updates": []
     },
     {
@@ -86,9 +97,9 @@
       "title": "Összeütközött két autó a X. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93019",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két személygépkocsi karambolozott Budapest X. kerületében, a Kőrösi Csoma Sándor út és a Harmat utca kereszteződésénél. A főváros hivatásos tűzoltóit riasztott a helyszínre. A raj áramtalanította a járműveket.",
+      "location": "Budapest, Kőrösi Csoma Sándor út",
       "updates": []
     },
     {
@@ -405,19 +416,10 @@
       "title": "Ház ég Dabason",
       "category": "Ház ég Dabason",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990",
-      "lead": "A Bajcsy-Zsilinszky utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy családi ház tetőszerkezete Dabason, a Bajcsy-Zsilinszky utcában. A dabasi hivatásos tűzoltók jelenleg három vízsugárral oltják a lángokat. A helyszínre tartanak további egységek is.",
-      "location": "Dabas, Bajcsy-Zsilinszky utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Dabason",
-          "datetime": "2026.10.20. 20:50",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy lakóház Dabason, a Bajcsy-Zsilinszky utcában. A Pest megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a dabasi, a monori, a fővárosi hivatásos és a délegyházi, illetve dolinavölgyi önkéntes tűzoltók hat vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Dabas, Bajcsy-Zsilinszky utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/92990/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F92990"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "92989",
