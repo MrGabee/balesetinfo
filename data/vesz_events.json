@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:17:07.039020+00:00",
+  "updated_at": "2026-10-22T14:20:43.962938+00:00",
   "count": 3490,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -240,9 +240,9 @@
       "title": "Baleset történt az M0-ás végén, a Megyeri-hídnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93030",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy autó árokba hajtott a körforgalomnál.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi a Megyeri-hídnál, az M0-ás autóút budai oldali lehajtójánál. A járműben hárman utaztak, mentő érkezett hozzájuk. A fővárosi hivatásos tűoltók áramtalanították a gépkocsit.",
+      "location": "Budakalász, M0",
       "updates": []
     },
     {
@@ -293,9 +293,9 @@
       "title": "Két autó ütközött Budaörsnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93026",
-      "lead": "Forgalmi akadály van.",
-      "body": "Budaörs térségében, az M1-M7-es autópálya közös bevezető szakaszán, a főváros felé vezető oldalon. A budaörsi önkéntes tűzoltók áramtalanítják a járműveket. A társhatóságok is a helyszínre érkeztek. A sztráda érintett szakaszán forgalmi akadály van.",
-      "location": "Budaörs, M1-M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -304,9 +304,9 @@
       "title": "Kigyulladt egy parasztház Orosházán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93025",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Károlyi Mihály utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy parasztház Orosházán, a Károlyi Mihály utcában. Az ingatlan egyik körülbelül nyolc négyzetméteres szobájában berendezési tárgyak égtek. A tűz átterjedt a tetőszerkezetre is. A helyi hivatásos tűzoltók fojtották el a lángokat.",
+      "location": "Orosháza, Károlyi Mihály utca",
       "updates": []
     },
     {
@@ -315,9 +315,9 @@
       "title": "Árokba sodródott egy autó a 4102-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93024",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Letért az útról és az árokba sodródott egy személygépkocsi Biri térségében, a Fú úton, azaz a 4102-es úton a Rákóczi Ferenc köz közelében. A szakolyi önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Biri, Fő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -329,7 +329,16 @@
       "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.10.22. 16:21",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban eről szél veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93023/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93023"
+        }
+      ]
     },
     {
       "id": "93022",
