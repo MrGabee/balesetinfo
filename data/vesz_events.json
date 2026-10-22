@@ -1,18 +1,27 @@
 {
-  "updated_at": "2026-10-22T22:45:07.722401+00:00",
+  "updated_at": "2026-10-22T22:48:36.538344+00:00",
   "count": 3505,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "93066",
-      "datetime": "2026.10.22. 23:45",
+      "datetime": "2026.10.22. 23:45 -",
       "title": "Tűz ütött ki egy fajszi épületben",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy fajszi épületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93066",
       "lead": "A tűzoltókat az Árjas utcába riasztották.",
       "body": "Kigyulladt egy melléképület Fajszon, az Árjas utcában. A lángok elérték a családi ház tetőszerkezetét is. A lakóházban hárman éltek, mindannyian elhagyták az épületet. A helyszínre kalocsai, bajai és paksi hivatásos tűzoltókat riasztottak, és az Árjas utcába tart a Bács-Kiskun megyei katasztrófavédelmi műveleti szolgálat is. A rajok vízsugarakkal körülhatárolták, illetve megszüntették a lángokat, illetve védték a szomszédos lakatosműhelyt.",
       "location": "Fajsz, Árjas utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a fajszi tüzet",
+          "datetime": "2026.10.23. 00:47",
+          "category": "Tűzeset",
+          "text": "Az Árjas utcában gyulladt ki egy épület, amelynek lángjai elérték a családi ház tetőszerkezetét is. A házban négyen laknak, a tűz keletkezésekor hárman voltak otthon, valamennyien kimentek a szabadba. Kalocsai, bajai és paksi tűzoltók oltották el a lángokat, az egységek már az utómunkálatoknál tartanak. A helyszínre érkezett a település polgármestere is, a lakóknak önkormányzati lakásban biztosítanak átmeneti szállást.",
+          "location": "Fajsz, Árjas utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93066/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93066"
+        }
+      ]
     },
     {
       "id": "93065",
