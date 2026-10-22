@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T15:11:14.255513+00:00",
-  "count": 3490,
+  "updated_at": "2026-10-22T15:14:46.196826+00:00",
+  "count": 3491,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93052",
+      "datetime": "2026.10.22. 17:11",
+      "title": "Baleset történt a 26-os főúton, Vadna közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93052",
+      "lead": "Egy személykocsi lesodródott az úttestről a 27-28-as kilométer között.",
+      "body": "Lecsúszott az úttestről egy autó Vadna közelében, a 26-os főúton. A 27-28-as kilométer között történt balesethez a kazincbarcikai hivatásos tűzoltók vonultak, az egység áramtalanított. A járműben csak annak vezetője utazott, ki tudott szállni az autóból.",
+      "location": "Vadna, 26",
+      "updates": []
+    },
     {
       "id": "93051",
       "datetime": "2026.10.22. 15:28",
