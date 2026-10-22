@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:09:00.472808+00:00",
+  "updated_at": "2026-10-22T08:12:34.507301+00:00",
   "count": 3477,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -126,9 +126,9 @@
     },
     {
       "id": "93027",
-      "datetime": "2026.10.22. 07:33",
+      "datetime": "2026.10.22. 07:33 -",
       "title": "Kigyulladt egy csarnok Visegrádnál",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy csarnok Visegrádnál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93027",
       "lead": "Az Esztergomi út közelében dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy csarnoképület Visegrád külterületén, az Esztergomi út közelében. Az épületben nagy mennyiségű faanyag ég, valamint a tetőszerkezet részben beomlott. A Pest megyei katasztrófavédelmi műveleti szolgálat mellett a szentendrei, az esztergomi hivatásos, a visegrádi, a szentendrei és a szigetmonostori önkéntes tűzoltókat riasztották a helyszínre. A rajok több vízsugárral oltják a lángokat. Elhúzódó munkálatokra kell számítani.",
@@ -205,9 +205,9 @@
       "title": "Szén-monoxid-érzékelő jelzett Baján",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93021",
-      "lead": "A Klapka György utcába vonultak a tűzoltók.",
-      "body": "A szén-monoxid-érzékelő jelzett Baján, a Klapka György utcában. A helyi hivatásos tűzoltókat riasztották az esethez. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársa is a helyszínen dolgozik.",
-      "location": "Baja, Klapka György utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
