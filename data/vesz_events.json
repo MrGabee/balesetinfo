@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T18:37:28.065347+00:00",
-  "count": 3499,
+  "updated_at": "2026-10-22T18:40:41.747485+00:00",
+  "count": 3500,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93061",
+      "datetime": "2026.10.22. 20:38",
+      "title": "Kigyulladt egy melléképület Kótajon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93061",
+      "lead": "A Vasvári Pál utcai helyszínen egy filagória lángolt.",
+      "body": "Tűz keletkezett egy filagóriában Kótajon, a Vasvári Pál utcában. A tűz átterjedt a fából készült tetőszerkezetre is. Az esethez a nyíregyházi hivatásos tűzoltók két gépjárműfecskendője vonult. A tűzoltók vízsugárral és kéziszerszámokkal előbb körülhatárolták, majd eloltották a lángokat. Beavatkozás közben kivittek az épületből két sértetlen propánbutángáz-palackot is. Az egységek megbontották a tetőt, hogy megvizsgálják, vannak-e izzó részek. A rajok már az utómunkálatokat végzik.",
+      "location": "Kótaj, Vasvári Pál utca",
+      "updates": []
+    },
     {
       "id": "93060",
       "datetime": "2026.10.22. 20:05",
