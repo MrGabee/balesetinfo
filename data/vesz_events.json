@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T21:24:22.208021+00:00",
-  "count": 3503,
+  "updated_at": "2026-10-22T21:28:21.685990+00:00",
+  "count": 3504,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93065",
+      "datetime": "2026.10.22. 23:24",
+      "title": "Szomszédos ingatlanokon keletkezett tűz Kőszegen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93065",
+      "lead": "A Fenyő utcában két, egymás melletti udvarban fatárolók égtek.",
+      "body": "Kigyulladt egy faszerkezetű tároló Kőszegen, a Fenyő utcában. A tűz átterjedt a szomszédos telken álló tárolóra is. Az esethez a helyi önkormányzati tűzoltók mellett Szombathelyről hivatásos tűzoltók érkeztek, a beavatkozást a Vas megyei katasztrófavédelmi műveleti szolgálat irányítja. Az egységek négy vízsugárral oltják a tárolókat, illetve védik a lakóingatlanokat. A tűzoltók propánbutángáz-palackokat is a szabadba vittek. A palackokat hő érte, ezért az egységek visszahűtik azokat.",
+      "location": "Kőszeg, Fenyő utca",
+      "updates": []
+    },
     {
       "id": "93064",
       "datetime": "2026.10.22. 22:30 -",
