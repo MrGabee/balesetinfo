@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T11:53:48.634034+00:00",
-  "count": 3484,
+  "updated_at": "2026-10-22T11:57:04.367058+00:00",
+  "count": 3485,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93046",
+      "datetime": "2026.10.22. 13:56",
+      "title": "Ráfutásos baleset a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93046",
+      "lead": "Kislőd közelében egy szakaszon félpályán halad a forgalom.",
+      "body": "Egymásnak ütközött négy személyautó a 8-as főúton, Kislőd közelében, a 79. kilométernél. Ráfutásos baleset történt, amelynél az ajkai hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította az egyik gépkocsit. A helyszínre érkeztek a mentők is. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kislőd, 8",
+      "updates": []
+    },
     {
       "id": "93045",
       "datetime": "2026.10.22. 13:50",
