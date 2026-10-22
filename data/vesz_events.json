@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T15:18:25.391359+00:00",
-  "count": 3491,
+  "updated_at": "2026-10-22T15:21:34.742096+00:00",
+  "count": 3492,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93053",
+      "datetime": "2026.10.22. 17:21",
+      "title": "Ráfutásos baleset történt a 6-os főút pécsi szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93053",
+      "lead": "A 199-200-as kilométer között, a Tüzér utcai kereszteződésnél karamboloztak a járművek.",
+      "body": "Ráfutásos balesetet szenvedett két autó Pécsen, az Athinay és a Tüzér utca kereszteződésénél. A 6-os főút belterületi szakaszán, a 199-200-as kilométer között történt karambolhoz a város hivatásos tűzoltói vonultak, áramtalanítottak. A két kocsiban összesen hárman utaztak, a helyszínre mentő is érkezett.",
+      "location": "Pécs, 6",
+      "updates": []
+    },
     {
       "id": "93052",
       "datetime": "2026.10.22. 17:11",
