@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:05:35.310936+00:00",
+  "updated_at": "2026-10-22T08:09:00.472808+00:00",
   "count": 3477,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -133,7 +133,16 @@
       "lead": "Az Esztergomi út közelében dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy csarnoképület Visegrád külterületén, az Esztergomi út közelében. Az épületben nagy mennyiségű faanyag ég, valamint a tetőszerkezet részben beomlott. A Pest megyei katasztrófavédelmi műveleti szolgálat mellett a szentendrei, az esztergomi hivatásos, a visegrádi, a szentendrei és a szigetmonostori önkéntes tűzoltókat riasztották a helyszínre. A rajok több vízsugárral oltják a lángokat. Elhúzódó munkálatokra kell számítani.",
       "location": "Visegrád, Esztergomi út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték a munkálatokat Visegrádnál",
+          "datetime": "2026.10.22. 10:09",
+          "category": "Tűzeset",
+          "text": "Az Esztergomi út közelében egy csarnokban keletkezett tűz még az éjszaka. Szentendrei és visegrádi hivatásos, valamint szentendrei, visegrádi és szigetmonostori önkéntes tűzoltók a Pest megyei katasztrófavédelmi műveleti szolgálat irányításával, több vízsugárral oltották el a lángokat. Ezt követően az egységek átvizsgálták a beszakadt tetejű épületet, és megszüntették az izzásokat, füstöléseket.",
+          "location": "Visegrád, Esztergomi út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93027/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93027"
+        }
+      ]
     },
     {
       "id": "93026",
