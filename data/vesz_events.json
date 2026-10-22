@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T11:08:37.209094+00:00",
-  "count": 3481,
+  "updated_at": "2026-10-22T11:12:05.029550+00:00",
+  "count": 3482,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93043",
+      "datetime": "2026.10.22. 13:10",
+      "title": "Baleset történt Budapest kilencedik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93043",
+      "lead": "A Nagyvárad téren, a Haller utcai kereszteződénél karamboloztak járművek.",
+      "body": "Baleset történt Budapest kilencedik kerületében, a Nagyvárad tér és a Haller utca kereszteződésénél, ahol személykocsik karamboloztak. Az egyik autó a villamossínen állt meg. A fővárosi hivatásos tűzoltók eltávolították a gépkocsit a sínekről, így a villamosok akadálytalanul közlekedhetnek.",
+      "location": "Budapest, Haller utca",
+      "updates": []
+    },
     {
       "id": "93042",
       "datetime": "2026.10.22. 12:57",
@@ -348,9 +359,9 @@
       "title": "Összeütközött két autó Kiskorpádnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93012",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6617-es út egy szakaszát lezárták a baleset miatt.",
+      "body": "Egymásnak ütközött két személyautó Kiskorpád határában, a Kossuth Lajos utcában, azaz a 6617-es úton. A kaposvári hivatásos tűzoltók áramtalanították a járműveket, amelyekben összesen hárman utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kiskorpád, Kossuth Lajos utca",
       "updates": []
     },
     {
