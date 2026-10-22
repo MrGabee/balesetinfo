@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T06:21:39.530940+00:00",
-  "count": 3467,
+  "updated_at": "2026-10-22T06:24:52.588495+00:00",
+  "count": 3468,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93029",
+      "datetime": "2026.10.22. 08:24",
+      "title": "Újabb baleset az M6-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93029",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Összeütközött két személygépkocsi Paksnál, az M6-os autópálya 103-as kilométerénél, a Bátaszék felé vezető oldalon. A paksi hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Paks, M6",
+      "updates": []
+    },
     {
       "id": "93028",
       "datetime": "2026.10.22. 07:41",
