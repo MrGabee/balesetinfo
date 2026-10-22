@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T07:52:22.667147+00:00",
-  "count": 3476,
+  "updated_at": "2026-10-22T07:55:53.674585+00:00",
+  "count": 3477,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93038",
+      "datetime": "2026.10.22. 09:52",
+      "title": "Baleset történt a 4-esen, Debrecen belterületén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93038",
+      "lead": "A 4-es és a 48-as főút kereszteződésében két személykocsi karambolozott.",
+      "body": "Összeütközött két autó Debrecenben, a 4-es és a 48-as főút kereszteződésénél. Az egyik kocsiban csak a sofőr ült, a másikban ketten utaztak, a helyszínre mentő is érkezett. A város hivatásos tűzoltói áramtalanítottak és megszüntették a forgalmi akadályt.",
+      "location": "Debrecen, 4",
+      "updates": []
+    },
     {
       "id": "93037",
       "datetime": "2026.10.22. 09:44",
@@ -108,9 +119,9 @@
       "title": "Baleset történt az M6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93028",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Paksnál, a sztráda Bátaszék felé vezető oldalán dolgoznak a tűzoltók.",
+      "body": "Szalagkorlátnak és egy kamionnak ütközött egy személygépkocsi Paksnál, az M6-os autópálya 103-as és 104-es kilométere közötti szakaszán, a Bátaszék felé vezető oldalon. A paksi hivatásos tűzoltók áramtalanították a személyautót. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Paks, M6",
       "updates": []
     },
     {
