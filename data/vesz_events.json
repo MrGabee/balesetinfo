@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T06:34:52.467347+00:00",
-  "count": 3469,
+  "updated_at": "2026-10-22T06:38:05.968098+00:00",
+  "count": 3470,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93031",
+      "datetime": "2026.10.22. 08:35",
+      "title": "Karambol történt a Gellért-hegyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93031",
+      "lead": "A Ménesi út és az Alsóhegy utca kereszteződésénél ütközött össze két jármű.",
+      "body": "Egymásba hajtott egy autó és egy kisbusz Budapest tizenegyedik kerületében, a Ménesi út és az Alsóhegy utca találkozásánál. A busz kereke kitört, a járművek akadályozzák a forgalmat, a burkolatra olaj került. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, Alsóhegy utca",
+      "updates": []
+    },
     {
       "id": "93030",
       "datetime": "2026.10.22. 08:27",
