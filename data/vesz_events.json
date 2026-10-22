@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T20:19:49.340556+00:00",
-  "count": 3501,
+  "updated_at": "2026-10-22T20:23:01.005631+00:00",
+  "count": 3502,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93063",
+      "datetime": "2026.10.22. 22:21",
+      "title": "Súlyos baleset történt Nyíregyháza külvárosában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93063",
+      "lead": "A Korányi Frigyes utcában két személykocsi rohant egymásba.",
+      "body": "Összeütközött két autó Nyíregyháza külvárosában, a Korányi Frigyes utcában. Az egyik kocsiban ketten ültek, ők elhagyták a járművet. A másik autóban négyen utaztak, három embert a megyeszékhely hivatásos tűzoltói feszítővágó és feszítőhenger segítségével emelnek ki a járműből. A helyszínre mentő érkezett. A beavatkozást a Szabolcs-Szatmár-Bereg megyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Nyíregyháza, Korányi Frigyes utca",
+      "updates": []
+    },
     {
       "id": "93062",
       "datetime": "2026.10.22. 21:14",
