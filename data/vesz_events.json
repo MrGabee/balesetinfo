@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:59:07.116136+00:00",
+  "updated_at": "2026-10-22T16:03:09.623407+00:00",
   "count": 3493,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -119,9 +119,9 @@
       "title": "Összeütközött két autó a 22-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93044",
-      "lead": "Ságújfalu és Kishartyán között akadályozza a forgalmat a baleset.",
-      "body": "Karambolozott két személyautó a 22-es főút Ságújfalu és Kishartyán közötti szakaszán. A műszaki mentést végző salgótarjáni hivatásos tűzoltók áramtalanították a gépkocsikat, amelyekben egy-egy ember utazott. A baleset következtében sok törmelék került az útburkolatra, az érintett útszakaszon váltakozó irányban, félpályán halad a forgalom.",
-      "location": "Kishartyán, 22",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -207,9 +207,9 @@
       "title": "Karambol Erzsébetvárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93036",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dózsa György út és a Verseny utca találkozásánál két személykocsi ütközött össze.",
+      "body": "Egymásba hajtott két autó Budapesten, a Dózsa György út és a Verseny utca találkozásánál. Az egyik gépkocsiból olaj került a burkolatra. A járművek utasaihoz mentő érkezett. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, Dózsa György út",
       "updates": []
     },
     {
@@ -218,9 +218,9 @@
       "title": "Égett egy autó Vámosszabadiban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93035",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megfékezték a lángokat a Béke utcában.",
+      "body": "Kigyulladt egy személygépkocsi Vámosszabadiban, a Béke utcában, Teljes terjedelmében égett az autó, és a tűz következtében egy mellette parkoló jármű is megrongálódott. A győri hivatásos tűzoltók két vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Vámosszabadi, Béke utca",
       "updates": []
     },
     {
@@ -262,9 +262,9 @@
       "title": "Karambol történt a Gellért-hegyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93031",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Ménesi út és az Alsóhegy utca kereszteződésénél ütközött össze két jármű.",
+      "body": "Egymásba hajtott egy autó és egy kisbusz Budapest tizenegyedik kerületében, a Ménesi út és az Alsóhegy utca találkozásánál. A busz kereke kitört, a járművek akadályozzák a forgalmat, a burkolatra olaj került. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, Alsóhegy utca",
       "updates": []
     },
     {
@@ -273,9 +273,9 @@
       "title": "Baleset történt az M0-ás végén, a Megyeri-hídnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93030",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy autó árokba hajtott a körforgalomnál.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi a Megyeri-hídnál, az M0-ás autóút budai oldali lehajtójánál. A járműben hárman utaztak, mentő érkezett hozzájuk. A fővárosi hivatásos tűoltók áramtalanították a gépkocsit.",
+      "location": "Budakalász, M0",
       "updates": []
     },
     {
@@ -390,9 +390,9 @@
       "title": "Szén-monoxid-érzékelő jelzett Baján",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93021",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Klapka György utcába vonultak a tűzoltók.",
+      "body": "A szén-monoxid-érzékelő jelzett Baján, a Klapka György utcában. A helyi hivatásos tűzoltókat riasztották az esethez. A raj méréseket végzett, és kimutatta a gázkoncentrációt az ingatlan levegőjében. A gázszolgáltató munkatársa is a helyszínen dolgozik.",
+      "location": "Baja, Klapka György utca",
       "updates": []
     },
     {
