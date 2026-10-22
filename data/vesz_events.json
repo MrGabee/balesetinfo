@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:10:14.587771+00:00",
+  "updated_at": "2026-10-22T14:13:43.939808+00:00",
   "count": 3490,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,8 +31,8 @@
       "title": "Viharkárokat számolnak fel a tűzoltók a fővárosban",
       "category": "Egyéb esemény",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93049",
-      "lead": "Elsősorban kidőlt fákhoz, letört ágakhoz riasztják a rajokat.",
-      "body": "Bőven ad munkát a tűzoltóknak Budapesten az erős szél. Kora délutánig csaknem ötven ilyen beavatkozásra volt szükség. Elsősorban kidőlt fákról, letört ágakról és épületkárokról érkeznek bejelentések a műveletirányítási ügyeletre. Az V. kerületben, az Arany János utcában például bádoglemezt kellett leemelni egy négyemeletes ház homlokzatáról, a XVII. kerületben az Anna utcában és az Újmajori utcában, a II. kerületben, a Gábor Áron utcában, Kőbányán pedig a Maglódi és a Jászberényi út kereszteződésénél dőlt ki egy-egy fa. Egy másik vezetékekre zuhant a XII. kerületben, a Rege út és a Széchenyi-emlék út kereszteződésében. Ezeket eltávolították a tűzoltók, mint ahogyan azt a faágat is, amely Békásmegyeren, az Őrlő utcában szakadt le a járdára. A rajok folyamatosan dolgoznak a viharkárok felszámolásán.\n\nMegyék:Budapest",
+      "lead": "",
+      "body": "",
       "location": "",
       "updates": []
     },
@@ -53,9 +53,9 @@
       "title": "Felborult egy autó a 67-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93047",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Simonfa közelében félpályán halad a forgalom.",
+      "body": "Árokba, a tetejére borult egy személyautó a 67-es főúton, Simonfa közelében, a 31. kilométernél. A kaposvári hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Simonfa, 67",
       "updates": []
     },
     {
@@ -276,16 +276,7 @@
       "lead": "Az Esztergomi út közelében dolgoznak a tűzoltók.",
       "body": "Kigyulladt egy csarnoképület Visegrád külterületén, az Esztergomi út közelében. Az épületben nagy mennyiségű faanyag ég, valamint a tetőszerkezet részben beomlott. A Pest megyei katasztrófavédelmi műveleti szolgálat mellett a szentendrei, az esztergomi hivatásos, a visegrádi, a szentendrei és a szigetmonostori önkéntes tűzoltókat riasztották a helyszínre. A rajok több vízsugárral oltják a lángokat. Elhúzódó munkálatokra kell számítani.",
       "location": "Visegrád, Esztergomi út",
-      "updates": [
-        {
-          "title": "Befejezték a munkálatokat Visegrádnál",
-          "datetime": "2026.10.22. 10:09",
-          "category": "Tűzeset",
-          "text": "Az Esztergomi út közelében egy csarnokban keletkezett tűz még az éjszaka. Szentendrei és visegrádi hivatásos, valamint szentendrei, visegrádi és szigetmonostori önkéntes tűzoltók a Pest megyei katasztrófavédelmi műveleti szolgálat irányításával, több vízsugárral oltották el a lángokat. Ezt követően az egységek átvizsgálták a beszakadt tetejű épületet, és megszüntették az izzásokat, füstöléseket.",
-          "location": "Visegrád, Esztergomi út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93027/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93027"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93026",
@@ -425,9 +416,9 @@
       "title": "Hármas karambol a 4108-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93014",
-      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
-      "body": "Összeütközött három személygépkocsi Anarcsnál, a 4108-as út 4-es kilométerénél. A kisvárdai hivatásos tűzoltók áramtalanítottak a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Anarcs, 4108",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
