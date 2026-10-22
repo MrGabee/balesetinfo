@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T06:24:52.588495+00:00",
-  "count": 3468,
+  "updated_at": "2026-10-22T06:28:08.903033+00:00",
+  "count": 3469,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93030",
+      "datetime": "2026.10.22. 08:27",
+      "title": "Baleset történt az M0-ás végén, a Megyeri-hídnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93030",
+      "lead": "Egy autó árokba hajtott a körforgalomnál.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi a Megyeri-hídnál, az M0-ás autóút budai oldali lehajtójánál. A járműben hárman utaztak, mentő érkezett hozzájuk. A fővárosi hivatásos tűoltók áramtalanították a gépkocsit.",
+      "location": "Budakalász, M0",
+      "updates": []
+    },
     {
       "id": "93029",
       "datetime": "2026.10.22. 08:24",
