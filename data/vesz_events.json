@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T11:40:10.937004+00:00",
-  "count": 3482,
+  "updated_at": "2026-10-22T11:43:37.022738+00:00",
+  "count": 3483,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93044",
+      "datetime": "2026.10.22. 13:41",
+      "title": "Összeütközött két autó a 22-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93044",
+      "lead": "Ságújfalu és Kishartyán között akadályozza a forgalmat a baleset.",
+      "body": "Karambolozott két személyautó a 22-es főút Ságújfalu és Kishartyán közötti szakaszán. A műszaki mentést végző salgótarjáni hivatásos tűzoltók áramtalanították a gépkocsikat, amelyekben egy-egy ember utazott. A baleset következtében sok törmelék került az útburkolatra, az érintett útszakaszon váltakozó irányban, félpályán halad a forgalom.",
+      "location": "Kishartyán, 22",
+      "updates": []
+    },
     {
       "id": "93043",
       "datetime": "2026.10.22. 13:10",
@@ -174,9 +185,9 @@
       "title": "Baleset történt az M6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93028",
-      "lead": "Paksnál, a sztráda Bátaszék felé vezető oldalán dolgoznak a tűzoltók.",
-      "body": "Szalagkorlátnak és egy kamionnak ütközött egy személygépkocsi Paksnál, az M6-os autópálya 103-as és 104-es kilométere közötti szakaszán, a Bátaszék felé vezető oldalon. A paksi hivatásos tűzoltók áramtalanították a személyautót. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Paks, M6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
