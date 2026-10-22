@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T17:10:11.834903+00:00",
-  "count": 3494,
+  "updated_at": "2026-10-22T17:13:33.573385+00:00",
+  "count": 3495,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93056",
+      "datetime": "2026.10.22. 19:12",
+      "title": "Hármas karambol a 21-esen, Mátraverebély térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93056",
+      "lead": "A Hatvan felé vezető oldalon, a főút 40-es kilométerénél történt a karambol.",
+      "body": "Egymásba hajtott három autó a 21-es főút Mátraverebélyhez közeli szakaszán, a 40-es kilométernél. A három kocsiban összesen négyen utaztak, a helyszínre több mentőautó is érkezett. A bátonyterenyei hivatásos tűzoltók áramtalanítottak. A burkolatra üvegtörmelék és hűtővíz került, az érintett szakaszt teljes szélességében lezárták.",
+      "location": "Mátraverebély, 21",
+      "updates": []
+    },
     {
       "id": "93055",
       "datetime": "2026.10.22. 18:48",
