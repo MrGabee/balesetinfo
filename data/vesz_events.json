@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T07:27:27.439107+00:00",
-  "count": 3472,
+  "updated_at": "2026-10-22T07:30:42.340807+00:00",
+  "count": 3473,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93034",
+      "datetime": "2026.10.22. 09:29",
+      "title": "Felborult egy autó a 445-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93034",
+      "lead": "Az 5-ös főútra vezető lehajtón történt a baleset.",
+      "body": "Megcsúszott az úton és felborult egy személykocsi a 445-ös főút 5-ös főútra vezető lehajtójánál. A járműben csak a sofőr utazott, ki tudott szállni az autóból. A kecskeméti hivatásos tűzoltók áramtalanítják a gépkocsit. A forgalom félpályán halad.",
+      "location": "Kecskemét, 445",
+      "updates": []
+    },
     {
       "id": "93033",
       "datetime": "2026.10.22. 09:26",
