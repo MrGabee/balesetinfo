@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T17:21:03.770950+00:00",
-  "count": 3495,
+  "updated_at": "2026-10-22T17:24:32.510813+00:00",
+  "count": 3496,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93057",
+      "datetime": "2026.10.22. 19:24",
+      "title": "Baleset történt az M0-áson, Ecser térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93057",
+      "lead": "Az M3-as felé vezető oldal 46-47-es kilométere közé riasztották a tűzoltókat.",
+      "body": "A belső szalagkorlátnak ütközött egy autó az M0-áson, Ecser térségében. A jármű első futóműve kiszakadt a helyéről. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Ecser, M0",
+      "updates": []
+    },
     {
       "id": "93056",
       "datetime": "2026.10.22. 19:12",
