@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T11:47:12.269545+00:00",
-  "count": 3483,
+  "updated_at": "2026-10-22T11:50:30.600144+00:00",
+  "count": 3484,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93045",
+      "datetime": "2026.10.22. 13:50",
+      "title": "Karambol a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93045",
+      "lead": "Békéscsaba határában forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy kamion és egy személyautó a 47-es főúton, Békéscsaba határában, a Tengely utca közelében. A békéscsabai hivatásos tűzoltók áramtalanították a személygépkocsit. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Békéscsaba, 47",
+      "updates": []
+    },
     {
       "id": "93044",
       "datetime": "2026.10.22. 13:41",
@@ -86,9 +97,9 @@
       "title": "A tetejére borult egy autó Tatánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93037",
-      "lead": "A 8139-es úton akadályozza a forgalmat a baleset.",
-      "body": "Felborult egy személyautó a 8139-es úton, Tata közelében. A tetején állt meg a jármű, amelyben egy ember utazott. Hozzá mentők érkeztek a helyszínre. A tatabányai hivatásos tűzoltók a rendőrségi helyszínelés után áramtalanítják a gépkocsit. A baleset félpályán akadályozza a forgalmat.",
-      "location": "Tata, 8139",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,9 +119,9 @@
       "title": "Égett egy autó Vámosszabadiban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93035",
-      "lead": "A tűzoltók megfékezték a lángokat a Béke utcában.",
-      "body": "Kigyulladt egy személygépkocsi Vámosszabadiban, a Béke utcában, Teljes terjedelmében égett az autó, és a tűz következtében egy mellette parkoló jármű is megrongálódott. A győri hivatásos tűzoltók két vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
-      "location": "Vámosszabadi, Béke utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
