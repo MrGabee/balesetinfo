@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T07:24:03.837649+00:00",
-  "count": 3471,
+  "updated_at": "2026-10-22T07:27:27.439107+00:00",
+  "count": 3472,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93033",
+      "datetime": "2026.10.22. 09:26",
+      "title": "Karambol a II. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93033",
+      "lead": "A Bimbó útra vonultak a tűzoltók.",
+      "body": "Összeütközött két személyautó Budapest II. kerületében, a Bimbó úton. A balesetnél a fővárosi hivatásos tűzoltók végzik a műszaki mentést. A gépkocsik, amelyekben egy-egy ember utazott, akadályozzák a forgalmat.",
+      "location": "Budapest, Bimbó út",
+      "updates": []
+    },
     {
       "id": "93032",
       "datetime": "2026.10.22. 09:17",
