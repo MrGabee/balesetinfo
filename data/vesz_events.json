@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T10:10:20.882561+00:00",
-  "count": 3478,
+  "updated_at": "2026-10-22T10:14:09.847295+00:00",
+  "count": 3479,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93040",
+      "datetime": "2026.10.22. 12:13",
+      "title": "Az oldalára borult egy autó az 5204-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93040",
+      "lead": "Kiskunlacháza közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Lesodródott az úttestről és a szántóföldön, az oldalán állt meg egy személyautó az 5204-es úton, Kiskunlacháza közelében. A balesethez a ráckevei önkormányzati tűzoltókat riasztották. A raj áramtalanította a járművet, amelyben egy ember utazott.",
+      "location": "Kiskunlacháza, 5204",
+      "updates": []
+    },
     {
       "id": "93039",
       "datetime": "2026.10.22. 11:09",
