@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T18:03:25.503571+00:00",
-  "count": 3498,
+  "updated_at": "2026-10-22T18:06:35.894421+00:00",
+  "count": 3499,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93060",
+      "datetime": "2026.10.22. 20:05",
+      "title": "Vadat gázolt egy autó Kajárpéc és Felpéc között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93060",
+      "lead": "A 8308-as út 8-as kilométerénél történt a baleset.",
+      "body": "Elütött egy őzet egy személykocsi a 8308-as út Kajárpéc és Felpéc közötti szakaszán. A járműben csak annak vezetője utazott. A győrszemerei önkéntes tűzoltók vonultak az esethez, az egység áramtalanította az autót.",
+      "location": "Felpéc, 8308",
+      "updates": []
+    },
     {
       "id": "93059",
       "datetime": "2026.10.22. 19:47",
