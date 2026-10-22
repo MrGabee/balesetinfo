@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-22T07:37:31.535579+00:00",
-  "count": 3473,
+  "updated_at": "2026-10-22T07:41:11.931166+00:00",
+  "count": 3475,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93036",
+      "datetime": "2026.10.22. 09:39",
+      "title": "Karambol Erzsébetvárosban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93036",
+      "lead": "A Dózsa György út és a Verseny utca találkozásánál két személykocsi ütközött össze.",
+      "body": "Egymásba hajtott két autó Budapesten, a Dózsa György út és a Verseny utca találkozásánál. Az egyik gépkocsiból olaj került a burkolatra. A járművek utasaihoz mentő érkezett. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, Dózsa György út",
+      "updates": []
+    },
+    {
+      "id": "93035",
+      "datetime": "2026.10.22. 09:38",
+      "title": "Égett egy autó Vámosszabadiban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93035",
+      "lead": "A tűzoltók megfékezték a lángokat a Béke utcában.",
+      "body": "Kigyulladt egy személygépkocsi Vámosszabadiban, a Béke utcában, Teljes terjedelmében égett az autó, és a tűz következtében egy mellette parkoló jármű is megrongálódott. A győri hivatásos tűzoltók két vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Vámosszabadi, Béke utca",
+      "updates": []
+    },
     {
       "id": "93034",
       "datetime": "2026.10.22. 09:29",
