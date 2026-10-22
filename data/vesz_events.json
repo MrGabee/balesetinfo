@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-22T04:28:17.982777+00:00",
-  "count": 3462,
+  "updated_at": "2026-10-22T04:31:33.081766+00:00",
+  "count": 3463,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93024",
+      "datetime": "2026.10.22. 06:31",
+      "title": "Árokba sodródott egy autó a 4102-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93024",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Letért az útról és az árokba sodródott egy személygépkocsi Biri térségében, a Fú úton, azaz a 4102-es úton a Rákóczi Ferenc köz közelében. A szakolyi önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Biri, Fő út",
+      "updates": []
+    },
     {
       "id": "93023",
       "datetime": "2026.10.22. 06:14",
