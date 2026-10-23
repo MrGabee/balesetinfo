@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T09:08:44.704815+00:00",
-  "count": 3510,
+  "updated_at": "2026-10-23T09:12:07.354721+00:00",
+  "count": 3511,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93072",
+      "datetime": "2026.10.23. 11:08",
+      "title": "Árokba borult egy autó Tolna és Fadd között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93072",
+      "lead": "Az 5112-es úton történt a baleset.",
+      "body": "Árokba borult egy személyautó Tolna és Fadd között, az 5112-es út 13-as kilométerszelvényénél. A műszaki mentést a tolnai önkormányzati tűzoltók végzik. A helyszínre mentő is érkezett.",
+      "location": "Tolna, 5112",
+      "updates": []
+    },
     {
       "id": "93071",
       "datetime": "2026.10.23. 10:47",
