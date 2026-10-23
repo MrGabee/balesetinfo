@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T09:39:33.522328+00:00",
-  "count": 3513,
+  "updated_at": "2026-10-23T09:43:22.154101+00:00",
+  "count": 3514,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93075",
+      "datetime": "2026.10.23. 11:41",
+      "title": "Összeütközött két autó az M4-esen, Törökszentmiklósnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93075",
+      "lead": "A Kisújszállás felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Két személyautó ütközött össze az M4-es autópálya Kisújszállás felé vezető oldalán, Törökszentmiklós közelében, a 118-as kilométerszelvénynél. A törökszentmiklósi önkormányzati tűzoltók áramtalanították a z egyik gépkocsit. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Törökszentmiklós, M4",
+      "updates": []
+    },
     {
       "id": "93074",
       "datetime": "2026.10.23. 11:29",
