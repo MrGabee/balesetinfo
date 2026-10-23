@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:28:15.664767+00:00",
+  "updated_at": "2026-10-23T07:31:58.247776+00:00",
   "count": 3509,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,10 +42,19 @@
       "title": "Szalmadarálék ég Kecskemét külterületén",
       "category": "Szalmadarálék ég Kecskemét külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93067",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Egy silóban keletkezett tűz egy üzemen kívüli biogázüzem területén.",
+      "body": "Jelentős mennyiségű szalmadarálék gyulladt meg kora reggel egy üzemen kívüli biogázüzem területén, Kecskemét külterületén. A helyszínre több kecskeméti hivatásos egységet és Kiskunfélegyházáról a vízszállítót riasztották. A tűz közelében található egy fermentálóépület, abban jelenleg nincs biogáz. Az üzem területén van egy veszélyesanyag-tároló is, abban motorolajat és tartalék gázpalackokat tárolnak, nincs a tűz közvetlen környezetében, a tűzoltók védősugarat szereltek hozzá. Ezen kívül a siló mellett zsákokban fóliák vannak, a tűzoltók azt a területet megtisztítják. A rajok több vízsugárral oltják a nagyjából ezerötszáz négyzetméteres siló hátsó egyharmadában keletkezett tüzet. A munkát egy erőgép is segíti. Az oltóanyagot két vízszállító biztosítja. A tűzoltók elhúzódó munkálatokra számítanak.",
+      "location": "Kecskemét, külterület",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Kecskemét külterületén",
+          "datetime": "2026.10.23. 08:28",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Kecskemét külterületén, ahol nagy mennyiségű szalmadarálék gyulladt meg egy üzemen kívüli biogázüzem területén. A lángokat a kecskeméti hivatásos tűzoltók oltották el, melyben egy kiskunfélegyházi vízszállító is részt vett. A rajok munkáját két erőgép is segíti.",
+          "location": "Kecskemét, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93067/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93067"
+        }
+      ]
     },
     {
       "id": "93066",
