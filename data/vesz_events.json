@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:26:02.641114+00:00",
+  "updated_at": "2026-10-23T09:29:24.843534+00:00",
   "count": 3512,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,7 +34,16 @@
       "lead": "A Jászai Mari utcában van szükség tűzoltói beavatkozásra.",
       "body": "Három garázs ég Szombathelyen, a Jászai Mari utcában. A város hivatásos tűzoltói jelenleg három vízsugárral dolgoznak a lángok megfékezésén. A helyszínre mentő is érkezett.",
       "location": "Szombathely, Jászai Mari utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Szombathelyen",
+          "datetime": "2026.10.23. 11:24",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a szombathelyi tűzoltók Szombathelyen, ahol a Kuncz Adolf utcában gyulladt ki egy garázssor. A tűz három garázst érintett. A rajok kiszakaszolták az épületet.",
+          "location": "Szombathely, Jászai Mari utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93071/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93071"
+        }
+      ]
     },
     {
       "id": "93070",
