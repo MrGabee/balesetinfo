@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T13:48:49.508199+00:00",
-  "count": 3515,
+  "updated_at": "2026-10-23T13:52:26.482428+00:00",
+  "count": 3516,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93077",
+      "datetime": "2026.10.23. 15:50",
+      "title": "Felborult egy autó a 4-es főúton, Szajolnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93077",
+      "lead": "A főút Budapest felé vezető oldalát lezárták.",
+      "body": "Tetejére borult egy személyautó a 4-es főút Budapest felé vezető oldalán, Szajol közelében, a 109-es kilométerszelvénynél. A balesethez a szolnoki hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szajol, 4",
+      "updates": []
+    },
     {
       "id": "93076",
       "datetime": "2026.10.23. 14:20",
