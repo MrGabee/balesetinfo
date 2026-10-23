@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T05:49:07.291513+00:00",
-  "count": 3506,
+  "updated_at": "2026-10-23T05:53:04.334978+00:00",
+  "count": 3507,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93068",
+      "datetime": "2026.10.23. 07:51",
+      "title": "Kidöntött egy villanyoszlopot egy autó Soroksáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93068",
+      "lead": "A Haraszti utat lezárták.",
+      "body": "Kidöntött egy villanyoszlopot egy személyautó Soroksáron, a Haraszti úton, a Grassalkovich út közelében. A műszaki mentést a fővárosi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Haraszti út",
+      "updates": []
+    },
     {
       "id": "93067",
       "datetime": "2026.10.23. 07:39",
