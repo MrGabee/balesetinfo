@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T14:10:31.196950+00:00",
-  "count": 3516,
+  "updated_at": "2026-10-23T14:14:03.671999+00:00",
+  "count": 3517,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93078",
+      "datetime": "2026.10.23. 16:12",
+      "title": "Összeütközött két autó Mátraverebélyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93078",
+      "lead": "A Dózsa György utat lezárták.",
+      "body": "Összeütközött két személyautó Mátraverebélyen, a Dózsa György úton, a Tátra tér közelében. A balesethez a bátonyterenyei hivatásos tűzoltókat riasztották, akik az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mátraverebély, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "93077",
       "datetime": "2026.10.23. 15:50",
