@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T19:24:25.541094+00:00",
-  "count": 3519,
+  "updated_at": "2026-10-23T19:27:58.990554+00:00",
+  "count": 3520,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93081",
+      "datetime": "2026.10.23. 21:25",
+      "title": "Kerítésnek csapódott egy autó Nógrádmegyeren",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93081",
+      "lead": "A Petőfi útra vonultak a tűzoltók.",
+      "body": "Ház kerítésének csapódott egy személyautó Nógrádmegyeren, a Petőfi úton. A Rákóczi utca és a Zrínyi utca közötti szakaszon történt balesethez a szécsényi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Nógrádmegyer, Petőfi út",
+      "updates": []
+    },
     {
       "id": "93080",
       "datetime": "2026.10.23. 21:22",
