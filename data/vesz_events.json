@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-23T19:20:54.276257+00:00",
-  "count": 3518,
+  "updated_at": "2026-10-23T19:24:25.541094+00:00",
+  "count": 3519,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93080",
+      "datetime": "2026.10.23. 21:22",
+      "title": "Baleset történt Kiskőrös és Kecel között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93080",
+      "lead": "Az 5301-es utat lezárták.",
+      "body": "Traktor pótkocsijának ütközött egy személyautó Kiskőrös és Kecel között, az 5301-es út 47-es kilométerszelvényénél. A kiskőrösi hivatásos és önkéntes tűzoltók hidraulikus feszítővágó segítségével egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kiskőrös, 5301",
+      "updates": []
+    },
     {
       "id": "93079",
       "datetime": "2026.10.23. 17:35",
