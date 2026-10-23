@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-23T07:17:37.791629+00:00",
-  "count": 3507,
+  "updated_at": "2026-10-23T07:21:15.377596+00:00",
+  "count": 3509,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93070",
+      "datetime": "2026.10.23. 09:21",
+      "title": "Busz és autó ütközött Dunaújvárosban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93070",
+      "lead": "A Vadvirág utca és a Temető utca kereszteződésében félpályán halad a forgalom.",
+      "body": "Busz és személyautó ütközött össze Dunaújvárosban, a Vadvirág utca és a Temető utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, műszaki mentés céljából.  Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Dunaújváros, Temető utca",
+      "updates": []
+    },
+    {
+      "id": "93069",
+      "datetime": "2026.10.23. 09:19",
+      "title": "Autótűz az M1-es autópályán, Tatabányánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93069",
+      "lead": "A Budapest felé vezető oldalon, a lehajtón csaptak fel a lángok.",
+      "body": "Kigyulladt egy személyautó motortere az M1-es autópálya Budapest felé vezető oldalon, a tatabányai lehajtónál, a 61-es kilométerszelvény közelében. A tatabányai hivatásos tűzoltók porral oltóval eloltották a lángokat és áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Tatabánya, M1",
+      "updates": []
+    },
     {
       "id": "93068",
       "datetime": "2026.10.23. 07:51",
@@ -84,6 +106,14 @@
       "body": "Kigyulladt egy nagyjából száz négyzetméteres családi ház Budapest harmadik kerületében, a Napfény utca elején. A teljes tetőszerkezet lángol, a lakók elhagyták az épületet. Az esethez három fővárosi hivatásos egységet és a katasztrófavédelmi műveleti szolgálatot riasztották. A rajok vízsugarakkal megkezdték az oltást.",
       "location": "Budapest, Napfény utca",
       "updates": [
+        {
+          "title": "A tűzoltók megfékezték a harmadik kerületi lángokat",
+          "datetime": "2026.10.22. 23:13",
+          "category": "Tűzeset",
+          "text": "A Napfény utcában egy családi ház tetőszerkezete fogott tüzet. A fővárosi hivatásos tűzoltók négy vízsugárral fékezték meg a lángokat. A rajok átvizsgálták a ház két lakrészét, ezeket nem érintette a tűz és egyikben sem tartózkodott senki. Az egységek légzésvédelem mellett felmentek a padlásra is, ahol egy háztartási méretű, de már felhasadt gázpalackot találtak.",
+          "location": "Budapest, Napfény utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93064/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93064"
+        },
         {
           "title": "Már az utómunkálatok zajlanak a csillaghegyi tűznél",
           "datetime": "2026.10.23. 00:12",
@@ -274,9 +304,9 @@
       "title": "Felborult egy autó az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93048",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Gyál közelébe riasztották a tűzoltókat.",
+      "body": "Baleset történt az M0-s autóút Dunaharaszti felé vezető oldalán, Gyál közelében, az M5-ös autópályára vezető lehajtónál. Egy személyautó felborult a szalagkorlátok között. A fővárosi hivatásos tűzoltók áramtalanították a járművet, amelyben hárman utaztak.",
+      "location": "Gyál, M0",
       "updates": []
     },
     {
