@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T08:41:27.214865+00:00",
-  "count": 3529,
+  "updated_at": "2026-10-24T08:44:57.154556+00:00",
+  "count": 3530,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93091",
+      "datetime": "2026.10.24. 10:42",
+      "title": "Baleset történt a 42-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93091",
+      "lead": "Mezőpeterd közelében teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött két személygépkocsi és egy kisbusz a 42-es főúton, Mezőpeterd közelében, a 47-es kilométerszelvénynél. A Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, a berettyóújfalui hivatásos tűzoltók két utast feszítővágó segítségével kimentettek. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Mezőpeterd, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "93090",
       "datetime": "2026.10.24. 10:23",
@@ -349,27 +360,10 @@
       "title": "Kigyulladt egy családi ház Csillaghegyen",
       "category": "Kigyulladt egy családi ház Csillaghegyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93064",
-      "lead": "A Napfény utcába több fővárosi egységet is riasztottak.",
-      "body": "Kigyulladt egy nagyjából száz négyzetméteres családi ház Budapest harmadik kerületében, a Napfény utca elején. A teljes tetőszerkezet lángol, a lakók elhagyták az épületet. Az esethez három fővárosi hivatásos egységet és a katasztrófavédelmi műveleti szolgálatot riasztották. A rajok vízsugarakkal megkezdték az oltást.",
-      "location": "Budapest, Napfény utca",
-      "updates": [
-        {
-          "title": "A tűzoltók megfékezték a harmadik kerületi lángokat",
-          "datetime": "2026.10.22. 23:13",
-          "category": "Tűzeset",
-          "text": "A Napfény utcában egy családi ház tetőszerkezete fogott tüzet. A fővárosi hivatásos tűzoltók négy vízsugárral fékezték meg a lángokat. A rajok átvizsgálták a ház két lakrészét, ezeket nem érintette a tűz és egyikben sem tartózkodott senki. Az egységek légzésvédelem mellett felmentek a padlásra is, ahol egy háztartási méretű, de már felhasadt gázpalackot találtak.",
-          "location": "Budapest, Napfény utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93064/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93064"
-        },
-        {
-          "title": "Már az utómunkálatok zajlanak a csillaghegyi tűznél",
-          "datetime": "2026.10.23. 00:12",
-          "category": "Tűzeset",
-          "text": "A Napfény utcában egy családi ház tetőszerkezete gyulladt ki, a fővárosi hivatásos tűzoltók négy vízsugárral fékezték meg a lángokat. A rajok egy széthasadt propánbutángáz-palackot találtak az épület padlásán. Az egységek egy vízsugárral és kéziszerszámokkal már az utómunkálatokat végzik. Az épület három lakóját rokonok fogadják be.",
-          "location": "Budapest, Napfény utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93064/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93064"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93063",
