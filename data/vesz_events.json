@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T11:37:09.172091+00:00",
-  "count": 3538,
+  "updated_at": "2026-10-24T11:41:05.775618+00:00",
+  "count": 3539,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93100",
+      "datetime": "2026.10.24. 13:37",
+      "title": "Karambol a 75-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93100",
+      "lead": "Bak közelében teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött két személygépkocsi a 75-ös főúton, Bak közelében, a 39-es kilométerszelvénynél. A zalaegerszegi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Zalatárnok, Vakola utca",
+      "updates": []
+    },
     {
       "id": "93099",
       "datetime": "2026.10.24. 12:48",
