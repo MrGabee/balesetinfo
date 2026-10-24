@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T10:13:21.627756+00:00",
-  "count": 3535,
+  "updated_at": "2026-10-24T10:17:08.786969+00:00",
+  "count": 3536,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93097",
+      "datetime": "2026.10.24. 12:15",
+      "title": "Karambol a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93097",
+      "lead": "Hajdúhadház térségében forgalmi akadály van.",
+      "body": "Két személygépkocsi ütközött össze a 4-es főúton, Hajdúhadház térségében, a 243-as kilométerszelvénynél. A hajdúböszörményi hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Hajdúhadház, Szélmalom",
+      "updates": []
+    },
     {
       "id": "93096",
       "datetime": "2026.10.24. 11:54",
