@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T08:10:27.885091+00:00",
-  "count": 3527,
+  "updated_at": "2026-10-24T08:13:28.793688+00:00",
+  "count": 3528,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93089",
+      "datetime": "2026.10.24. 10:11",
+      "title": "Árokba hajtott és felborult egy autó Kozárd közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93089",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Árokba hajtott és tetejére borult egy személygépkocsi a 2122-es úton, Kozárd közelében, a 24-es kilométerszelvénynél. A pásztói hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Kozárd, Damjanich út",
+      "updates": []
+    },
     {
       "id": "93088",
       "datetime": "2026.10.24. 10:06",
