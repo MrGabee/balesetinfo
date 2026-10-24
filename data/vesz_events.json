@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T10:44:36.211932+00:00",
-  "count": 3537,
+  "updated_at": "2026-10-24T10:48:10.642508+00:00",
+  "count": 3538,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93099",
+      "datetime": "2026.10.24. 12:48",
+      "title": "Melléképület égett Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93099",
+      "lead": "A Tetemvár felsősoron dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Miskolcon, a Tetemvár felsősoron. A tűz átterjedt egy lakóház tetőszerkezetére is. A miskolci hivatásos tűzoltók három vízsugárral elfojtották a lángokat és két gázpalackot kihoztak az épületből. A rajok az utómunkálatokat végzik.",
+      "location": "Miskolc, Tetemvár felsősor",
+      "updates": []
+    },
     {
       "id": "93098",
       "datetime": "2026.10.24. 12:43",
