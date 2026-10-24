@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T13:43:33.884669+00:00",
-  "count": 3544,
+  "updated_at": "2026-10-24T13:47:10.146183+00:00",
+  "count": 3545,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93106",
+      "datetime": "2026.10.24. 15:46",
+      "title": "Baleset a 34-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93106",
+      "lead": "Kenderes közelében félpályán halad  a forgalom.",
+      "body": "Őzzel ütközött egy kisteherautó a 34-es főúton, Kenderes közelében, a 47-es kilométerszelvénynél. A kisújszállási önkormányzati tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kenderes, Só út",
+      "updates": []
+    },
     {
       "id": "93105",
       "datetime": "2026.10.24. 15:40",
