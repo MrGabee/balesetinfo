@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:42:39.422340+00:00",
+  "updated_at": "2026-10-24T05:45:57.217919+00:00",
   "count": 3523,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Kézai utcában oltják a lángokat.",
       "body": "Kigyulladt egy családi ház Békéscsabán, a Kézai utcában. A lakóingatlan teljes terjedelmében ég. A gyulai és mezőberényi hivatásos tűzoltók, a Békés vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak a lángok megfékezésén.",
       "location": "Békéscsaba, Kézai utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Békéscsabán",
+          "datetime": "2026.10.24. 07:40",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Békéscsabán, ahol egy családi ház égett a Kézai utcában. A lángokat a gyulai, mezőberényi és békéscsabai hivatásos tűzoltók egy gázpalackot kihoztak az épületből, majd eloltották a lángokat. A tűz oltását a Békés vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+          "location": "Békéscsaba, Kézai utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93084/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93084"
+        }
+      ]
     },
     {
       "id": "93083",
