@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T03:51:13.979558+00:00",
-  "count": 3521,
+  "updated_at": "2026-10-24T03:54:40.886658+00:00",
+  "count": 3522,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93083",
+      "datetime": "2026.10.24. 05:54",
+      "title": "Lakás égett Budapesten, a Hősök terénél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93083",
+      "lead": "Az Andrássy útra riasztották a tűzoltókat.",
+      "body": "Tűz volt egy második emeleti ingatlanban Budapest VI. kerületében, az Andrássy úton, a Hősök tere közelében. A lakás erkélye és egyik szobájának berendezési tárgyai égtek. A fővárosi hivatásos tűzoltók eloltották a lángokat.",
+      "location": "Budapest, Andrássy út",
+      "updates": []
+    },
     {
       "id": "93082",
       "datetime": "2026.10.24. 05:41",
