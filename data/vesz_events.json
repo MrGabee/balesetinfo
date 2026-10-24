@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T07:02:22.773933+00:00",
-  "count": 3523,
+  "updated_at": "2026-10-24T07:05:53.268674+00:00",
+  "count": 3524,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93085",
+      "datetime": "2026.10.24. 09:04",
+      "title": "Karambol az 5101-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93085",
+      "lead": "Szigethalomnál teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi az 5101-es úton, Szigethalomnál, a 16-os kilométerszelvénynél. Az autókban összesen hárman utaztak. A szigetszentmiklósi hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szigethalom, Hunyadi János utca",
+      "updates": []
+    },
     {
       "id": "93084",
       "datetime": "2026.10.24. 07:01 -",
