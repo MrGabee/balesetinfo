@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T08:20:36.050121+00:00",
-  "count": 3528,
+  "updated_at": "2026-10-24T08:24:08.862796+00:00",
+  "count": 3529,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93090",
+      "datetime": "2026.10.24. 10:23",
+      "title": "Karambol a 82-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93090",
+      "lead": "Csesznek közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a 82-es főúton, Csesznek közelében, a 31-es kilométerszelvénynél. Az autókban összesen hatan utaztak. A zirci önkormányzati tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Csesznek, Parrashegy üdülősor",
+      "updates": []
+    },
     {
       "id": "93089",
       "datetime": "2026.10.24. 10:11",
