@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T09:12:57.087302+00:00",
-  "count": 3531,
+  "updated_at": "2026-10-24T09:16:19.909304+00:00",
+  "count": 3532,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93093",
+      "datetime": "2026.10.24. 11:13",
+      "title": "Szalagkorlátnak hajtott egy autó a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93093",
+      "lead": "Csór közelében forgalmi akadály van.",
+      "body": "Szalagkorlátnak hajtott egy személygépkocsi a 8-as főúton, Csór közelében, a 14-es kilométerszelvénynél. A székesfehérvári hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Iszkaszentgyörgy, Városkapu Ipari és kereskedelmi zóna",
+      "updates": []
+    },
     {
       "id": "93092",
       "datetime": "2026.10.24. 10:58",
