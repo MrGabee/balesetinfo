@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T17:54:53.864378+00:00",
-  "count": 3549,
+  "updated_at": "2026-10-24T17:58:25.673480+00:00",
+  "count": 3550,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93111",
+      "datetime": "2026.10.24. 19:56",
+      "title": "Autó égett az M7-en",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93111",
+      "lead": "Székesfehérvár térségében dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi az M7-es autópályán, Budapest felé, Székesfehérvár térségében, az 57-es kilométerszelvénynél. A székesfehérvári hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj áramtalanította a járművet.",
+      "location": "Székesfehérvár, Rozmaring utca",
+      "updates": []
+    },
     {
       "id": "93110",
       "datetime": "2026.10.24. 17:25",
