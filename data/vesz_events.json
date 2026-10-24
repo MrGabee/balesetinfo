@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T18:33:22.295563+00:00",
-  "count": 3550,
+  "updated_at": "2026-10-24T18:37:05.140491+00:00",
+  "count": 3551,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93112",
+      "datetime": "2026.10.24. 20:33",
+      "title": "Ház égett Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93112",
+      "lead": "A Tücsök utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy ház Kaposváron, a Tücsök utcában. Az épületben bútorok égtek. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kaposvár, Tücsök utca",
+      "updates": []
+    },
     {
       "id": "93111",
       "datetime": "2026.10.24. 19:56",
