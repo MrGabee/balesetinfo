@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T15:25:33.485996+00:00",
-  "count": 3548,
+  "updated_at": "2026-10-24T15:29:07.641208+00:00",
+  "count": 3549,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93110",
+      "datetime": "2026.10.24. 17:25",
+      "title": "Autóbusz motortere égett a 33-as főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93110",
+      "lead": "Tiszafüred térségében forgalmi akadály van.",
+      "body": "Kigyulladt egy autóbusz motortere a 33-as főúton, Tiszafüred térségében, a 38-as kilométerszelvénynél. A helyi hivatásos tűzoltók egy vízsugárral visszahűtik a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tiszafüred, Húszöles út",
+      "updates": []
+    },
     {
       "id": "93109",
       "datetime": "2026.10.24. 17:01",
