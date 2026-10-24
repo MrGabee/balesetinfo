@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T12:05:47.168528+00:00",
-  "count": 3539,
+  "updated_at": "2026-10-24T12:09:55.133775+00:00",
+  "count": 3540,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93101",
+      "datetime": "2026.10.24. 14:07",
+      "title": "Baleset történt Kemecse közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93101",
+      "lead": "A tűzoltók egy sofőrt kiemeltek feszítővágó segítségével.",
+      "body": "Összeütközött két személygépkocsi a 3829-es úton, Kemecse közelében. A nyíregyházi hivatásos tűzoltók egy sofőrt feszítővágó segítségével kiemeltek autójából. A rajok áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kemecse, Krasznay Péter utca",
+      "updates": []
+    },
     {
       "id": "93100",
       "datetime": "2026.10.24. 13:37",
