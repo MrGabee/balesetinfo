@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T04:59:53.309170+00:00",
-  "count": 3522,
+  "updated_at": "2026-10-24T05:03:11.205442+00:00",
+  "count": 3523,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93084",
+      "datetime": "2026.10.24. 07:01",
+      "title": "Családi ház ég Békéscsabán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93084",
+      "lead": "A Kézai utcában oltják a lángokat.",
+      "body": "Kigyulladt egy családi ház Békéscsabán, a Kézai utcában. A lakóingatlan teljes terjedelmében ég. A gyulai és mezőberényi hivatásos tűzoltók, a Békés vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett dolgoznak a lángok megfékezésén.",
+      "location": "Békéscsaba, Kézai utca",
+      "updates": []
+    },
     {
       "id": "93083",
       "datetime": "2026.10.24. 05:54",
@@ -62,9 +73,9 @@
       "title": "Árokba borult egy kisbusz Öreglak és Nikla között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93079",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6704-es úton félpályán halad a forgalom.",
+      "body": "Árokba borult egy kisbusz Öreglak és Nikla között, a 6704-es út 4 –es kilométerszelvényénél. A műszaki mentést a marcali hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Öreglak, Dózsa György utca",
       "updates": []
     },
     {
@@ -128,9 +139,9 @@
       "title": "Szalagkorlátnak ütközött egy autó az M6-oson, Százhalombattánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93073",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pécs fel vezető oldalon volt szükség műszaki mentésre.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M6-os autópálya Pécs felé vezető oldalán, Százhalombatta közelében, a 28-as kilométerszelvénynél. A balesethez az érdi hivatásos tűzoltókat riasztották, akik megszüntették a forgalmi akadályt. A helyszínre mentő is érkezett.",
+      "location": "Százhalombatta, M6",
       "updates": []
     },
     {
