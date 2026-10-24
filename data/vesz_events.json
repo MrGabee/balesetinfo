@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T13:59:58.113394+00:00",
-  "count": 3545,
+  "updated_at": "2026-10-24T14:03:11.112739+00:00",
+  "count": 3546,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93107",
+      "datetime": "2026.10.24. 16:02",
+      "title": "Lakóház égett Szatymaz határában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93107",
+      "lead": "A tűzoltók négy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy lakóház Szatymaz határában, a IV. körzeti tanyánál. A tűz nagy részben érintette a tetőszerkezetet. A szegedi hivatásos és a sándorfalvi önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Szatymaz, IV. körzet tanya",
+      "updates": []
+    },
     {
       "id": "93106",
       "datetime": "2026.10.24. 15:46",
