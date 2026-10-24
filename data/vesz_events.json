@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T14:24:45.443543+00:00",
-  "count": 3546,
+  "updated_at": "2026-10-24T14:28:11.236502+00:00",
+  "count": 3547,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93108",
+      "datetime": "2026.10.24. 16:24",
+      "title": "Ágy égett egy házban Tiszaföldváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93108",
+      "lead": "A Tópart úton dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház tetőtéri szobája Tiszaföldváron, a Tópart úton. A helyiségben egy ágy égett. A tiszaföldvári önkormányzati tűzoltók egy vízsugárral elfojtották a lángokat és egy gázpalackot is kihoztak az épületből.  A raj az utómunkálatokat kezdi meg.",
+      "location": "Tiszaföldvár, Tópart út",
+      "updates": []
+    },
     {
       "id": "93107",
       "datetime": "2026.10.24. 16:02",
