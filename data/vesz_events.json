@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T08:31:09.696916+00:00",
+  "updated_at": "2026-10-24T08:34:12.071523+00:00",
   "count": 3529,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Karambol a 82-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93090",
-      "lead": "Csesznek közelében teljes szélességében lezárták az utat.",
-      "body": "Összeütközött két személygépkocsi a 82-es főúton, Csesznek közelében, a 31-es kilométerszelvénynél. Az autókban összesen hatan utaztak. A zirci önkormányzati tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Csesznek, Parrashegy üdülősor",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -256,9 +256,9 @@
       "title": "Busz és autó ütközött Dunaújvárosban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93070",
-      "lead": "A Vadvirág utca és a Temető utca kereszteződésében félpályán halad a forgalom.",
-      "body": "Busz és személyautó ütközött össze Dunaújvárosban, a Vadvirág utca és a Temető utca kereszteződésében. A balesethez a város hivatásos tűzoltóit riasztották, műszaki mentés céljából.  Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Dunaújváros, Temető utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -432,10 +432,19 @@
       "title": "Melléképület gyulladt ki Vilonyán",
       "category": "Melléképület gyulladt ki Vilonyán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93058",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az Újtelep utcába vonultak a balatonfűzfői és a pétfürdői tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából ötven négyzetméteres melléképület Vilonyán, az Újtelep utcában. A balatonfűzfői és pétfürdői hivatásos tűzoltók több vízsugárral körülhatárolták a lángokat. Az építményhez tartozó napelemes tető megsemmisült.",
+      "location": "Vilonya, Újtelep utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Vilonyán",
+          "datetime": "2026.10.22. 21:56",
+          "category": "Tűzeset",
+          "text": "Az Újtelep utcában egy melléképület égett, a tűzben megsemmisült a napelemes tető is. A balatonfűzfői és a pétfürdői tűzoltók oltották el az épületet, illetve a fel-fellángoló akkumulátorokat. Az egységek megbontották a melléképületen a hullámpalát, ott gumiszalagokat találtak, azokat légzésvédelem mellett eloltották. Ezt követően hőkamerával átvizsgálták a területet, elvégezték az utómunkálatokat.",
+          "location": "Vilonya, Újtelep utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93058/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93058"
+        }
+      ]
     },
     {
       "id": "93057",
