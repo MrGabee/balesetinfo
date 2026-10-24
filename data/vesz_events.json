@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T14:58:18.694286+00:00",
-  "count": 3547,
+  "updated_at": "2026-10-24T15:01:38.859485+00:00",
+  "count": 3548,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93109",
+      "datetime": "2026.10.24. 17:01",
+      "title": "Felborult egy autó a 103-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93109",
+      "lead": "Nagysáp közelében forgalmi akadály van.",
+      "body": "Felborult egy személygépkocsi a 103-as főúton, Nagysáp közelében, a 10-es kilométerszelvénynél. A bajnai hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Nagysáp, Órisáp puszta",
+      "updates": []
+    },
     {
       "id": "93108",
       "datetime": "2026.10.24. 16:24",
