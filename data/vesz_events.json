@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T13:40:10.001257+00:00",
-  "count": 3543,
+  "updated_at": "2026-10-24T13:43:33.884669+00:00",
+  "count": 3544,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93105",
+      "datetime": "2026.10.24. 15:40",
+      "title": "Karambol a 76-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93105",
+      "lead": "Zalaegerszeg térségében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 76-os főúton, Zalaegerszeg térségében, a 60-as kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zalaegerszeg, Gazdaság utca",
+      "updates": []
+    },
     {
       "id": "93104",
       "datetime": "2026.10.24. 15:37",
