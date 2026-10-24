@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T07:41:40.126210+00:00",
-  "count": 3525,
+  "updated_at": "2026-10-24T07:45:48.789453+00:00",
+  "count": 3526,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93087",
+      "datetime": "2026.10.24. 09:44",
+      "title": "Árokba hajtott egy autó a 25-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93087",
+      "lead": "Andornaktálya közelében dolgoznak a tűzoltók.",
+      "body": "Árokba hajtott egy személygépkocsi a 25-ös főúton, Andornaktálya közelében, a 8-as kilométerszelvénynél. Az autóban hárman utaztak. Az egri hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Demjén, Szőlő utca",
+      "updates": []
+    },
     {
       "id": "93086",
       "datetime": "2026.10.24. 09:34",
