@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T13:36:41.775553+00:00",
-  "count": 3542,
+  "updated_at": "2026-10-24T13:40:10.001257+00:00",
+  "count": 3543,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93104",
+      "datetime": "2026.10.24. 15:37",
+      "title": "Oszlopnak ütközött egy autó a 442-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93104",
+      "lead": "Tiszaföldvár közelében félpályán halad a forgalom.",
+      "body": "Lesodródott az útról és oszlopnak ütközött egy személygépkocsi a 442-es főúton, Tiszaföldvár közelében, a 22-es kilométerszelvénynél. A tiszaföldvári önkormányzati tűzoltók áramtalanították a  járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tiszaföldvár, Turi út",
+      "updates": []
+    },
     {
       "id": "93103",
       "datetime": "2026.10.24. 14:31",
