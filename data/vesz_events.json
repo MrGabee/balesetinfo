@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T09:26:22.294129+00:00",
-  "count": 3532,
+  "updated_at": "2026-10-24T09:30:01.197539+00:00",
+  "count": 3533,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93094",
+      "datetime": "2026.10.24. 11:27",
+      "title": "Felborult egy autó a 2-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93094",
+      "lead": "Tolmács közelében félpályán halad a forgalom.",
+      "body": "Felborult egy személygépkocsi a 2-es főúton, Tolmács közelében, az 52-es kilométerszelvénynél. Az autóban csak a sofőr utazott. A rétsági hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Rétság, Ipari park",
+      "updates": []
+    },
     {
       "id": "93093",
       "datetime": "2026.10.24. 11:13",
