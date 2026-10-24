@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T08:55:38.532771+00:00",
-  "count": 3530,
+  "updated_at": "2026-10-24T08:59:05.353067+00:00",
+  "count": 3531,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93092",
+      "datetime": "2026.10.24. 10:58",
+      "title": "Karambol Nagyhalásziban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93092",
+      "lead": "A Kossuth utcát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Nagyhalásziban, a Kossuth utcában. Az ibrányi önkormányzati tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nagyhalász, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "93091",
       "datetime": "2026.10.24. 10:42",
