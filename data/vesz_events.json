@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T10:41:01.016379+00:00",
-  "count": 3536,
+  "updated_at": "2026-10-24T10:44:36.211932+00:00",
+  "count": 3537,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93098",
+      "datetime": "2026.10.24. 12:43",
+      "title": "Autó égett a 25-ös főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93098",
+      "lead": "Szentdomonkos közelében forgalmi akadály van.",
+      "body": "Teljes terjedelmében égett egy személygépkocsi a 25-ös főúton, Szentdomonkos közelében, a 49-es kilométerszelvénynél. A pétervásárai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szentdomonkos, Szabadság út",
+      "updates": []
+    },
     {
       "id": "93097",
       "datetime": "2026.10.24. 12:15",
