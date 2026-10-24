@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T12:31:03.631563+00:00",
-  "count": 3541,
+  "updated_at": "2026-10-24T12:34:24.478412+00:00",
+  "count": 3542,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93103",
+      "datetime": "2026.10.24. 14:31",
+      "title": "Kútoszlopnak ütközött egy autó Tárnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93103",
+      "lead": "A Zámori úton forgalmi akadály van.",
+      "body": "Kútoszlopnak ütközött egy személygépkocsi Tárnokon, a Zámori úton. Az érdi hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tárnok, Tabán utca",
+      "updates": []
+    },
     {
       "id": "93102",
       "datetime": "2026.10.24. 14:28",
