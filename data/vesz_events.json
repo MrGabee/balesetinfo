@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T08:03:39.900836+00:00",
-  "count": 3526,
+  "updated_at": "2026-10-24T08:07:28.792933+00:00",
+  "count": 3527,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93088",
+      "datetime": "2026.10.24. 10:06",
+      "title": "Baleset a 103-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93088",
+      "lead": "Bajna közelében dolgoznak a tűzoltók.",
+      "body": "Megcsúszott az úton és keresztbe fordult egy személygépkocsi a 103-as főúton, Bajna közelében, a 25-ös kilométerszelvénynél.  A bajnai hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Bajna, Gagarin utca",
+      "updates": []
+    },
     {
       "id": "93087",
       "datetime": "2026.10.24. 09:44",
