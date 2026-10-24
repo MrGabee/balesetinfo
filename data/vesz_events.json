@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-24T07:30:51.529686+00:00",
-  "count": 3524,
+  "updated_at": "2026-10-24T07:34:48.082907+00:00",
+  "count": 3525,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93086",
+      "datetime": "2026.10.24. 09:34",
+      "title": "Három autó ütközött Tatabányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93086",
+      "lead": "A Gábor Áron utca és a Baross Gábor út kereszteződésénél forgalmi akadály van.",
+      "body": "Egymásnak ütközött három személygépkocsi Tatabányán, a Gábor Áron utca és a Baross Gábor út kereszteződésénél. A helyi hivatásos tűzoltók két járművet áramtalanítottak. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tatabánya, Gábor Áron utca",
+      "updates": []
+    },
     {
       "id": "93085",
       "datetime": "2026.10.24. 09:04",
