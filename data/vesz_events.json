@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T15:21:13.510989+00:00",
-  "count": 3561,
+  "updated_at": "2026-10-25T15:24:29.635340+00:00",
+  "count": 3562,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93123",
+      "datetime": "2026.10.25. 16:21",
+      "title": "Izzott egy lakás födémje a VIII. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93123",
+      "lead": "A tűzoltókat a Szerdahelyi utcába riasztották.",
+      "body": "Tűz keletkezett egy társasházi lakás negyedik emeletén, Budapest VIII. kerületében, a Szerdahelyi utcában. A lakásban a födém izzott. A fővárosi hivatásos tűzoltók egy vízsugárral oltották el a lángokat.",
+      "location": "Budapest, Szerdahelyi utca",
+      "updates": []
+    },
     {
       "id": "93122",
       "datetime": "2026.10.25. 14:58",
@@ -196,9 +207,9 @@
       "title": "Karambol a 76-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93105",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Zalaegerszeg térségében félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi a 76-os főúton, Zalaegerszeg térségében, a 60-as kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zalaegerszeg, Gazdaság utca",
       "updates": []
     },
     {
@@ -328,9 +339,9 @@
       "title": "Szalagkorlátnak hajtott egy autó a 8-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93093",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Csór közelében forgalmi akadály van.",
+      "body": "Szalagkorlátnak hajtott egy személygépkocsi a 8-as főúton, Csór közelében, a 14-es kilométerszelvénynél. A székesfehérvári hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Iszkaszentgyörgy, Városkapu Ipari és kereskedelmi zóna",
       "updates": []
     },
     {
@@ -361,9 +372,9 @@
       "title": "Karambol a 82-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93090",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Csesznek közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a 82-es főúton, Csesznek közelében, a 31-es kilométerszelvénynél. Az autókban összesen hatan utaztak. A zirci önkormányzati tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Csesznek, Parrashegy üdülősor",
       "updates": []
     },
     {
