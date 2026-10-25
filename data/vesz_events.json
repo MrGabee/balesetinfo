@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T11:38:17.708273+00:00",
-  "count": 3559,
+  "updated_at": "2026-10-25T11:41:42.186653+00:00",
+  "count": 3560,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93121",
+      "datetime": "2026.10.25. 12:38",
+      "title": "Tűz volt Mihályiban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93121",
+      "lead": "A Korona utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház Mihályiban, a Korona utcában. A tűz a konyhában keletkezett. A kapuvári hivatásos tűzoltók egy vízsugárral fojtották el a tüzet.",
+      "location": "Mihályi, Korona utca",
+      "updates": []
+    },
     {
       "id": "93120",
       "datetime": "2026.10.25. 12:36",
