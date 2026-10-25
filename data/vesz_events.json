@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T11:34:28.455460+00:00",
-  "count": 3558,
+  "updated_at": "2026-10-25T11:38:17.708273+00:00",
+  "count": 3559,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93120",
+      "datetime": "2026.10.25. 12:36",
+      "title": "Autótűz az M5-ösön",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93120",
+      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Budapest térségében, az M5-ös autópálya bevezető szakaszán. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, M5",
+      "updates": []
+    },
     {
       "id": "93119",
       "datetime": "2026.10.25. 12:06",
