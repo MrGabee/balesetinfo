@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T11:05:35.205730+00:00",
-  "count": 3557,
+  "updated_at": "2026-10-25T11:08:38.285318+00:00",
+  "count": 3558,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93119",
+      "datetime": "2026.10.25. 12:06",
+      "title": "Melléképület égett Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93119",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy melléképület Kaposváron, a Cseri úton. A hat négyzetméteres tárolóban egy köbméter fa égett. A helyi hivatásos tűzoltók egy vízsugárral fojtották el a lángokat.",
+      "location": "Kaposvár, Cseri út",
+      "updates": []
+    },
     {
       "id": "93118",
       "datetime": "2026.10.25. 11:28",
