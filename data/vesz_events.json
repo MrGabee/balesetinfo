@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T15:44:47.567264+00:00",
-  "count": 3562,
+  "updated_at": "2026-10-25T15:47:51.579727+00:00",
+  "count": 3563,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93124",
+      "datetime": "2026.10.25. 16:44",
+      "title": "Disznóól ég Csikérián",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93124",
+      "lead": "A Kossuth Lajos utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy disznóól Csikérián, a Kossuth Lajos utcában. A negyven négyzetméteres ól teljes terjedelmében ég. A bácsalmási önkormányzati és önkéntes tűzoltók már két vízsugárral körülhatárolták a lángokat.",
+      "location": "Csikéria, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "93123",
       "datetime": "2026.10.25. 16:21",
@@ -416,9 +427,9 @@
       "title": "Három autó ütközött Tatabányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93086",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Gábor Áron utca és a Baross Gábor út kereszteződésénél forgalmi akadály van.",
+      "body": "Egymásnak ütközött három személygépkocsi Tatabányán, a Gábor Áron utca és a Baross Gábor út kereszteződésénél. A helyi hivatásos tűzoltók két járművet áramtalanítottak. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Tatabánya, Gábor Áron utca",
       "updates": []
     },
     {
