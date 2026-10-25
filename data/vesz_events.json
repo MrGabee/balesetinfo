@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T06:29:35.133248+00:00",
-  "count": 3553,
+  "updated_at": "2026-10-25T06:32:50.609899+00:00",
+  "count": 3554,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93115",
+      "datetime": "2026.10.25. 07:32",
+      "title": "Oszlopnak ütközött egy autó Szentendre és Pilisszentlászló között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93115",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Letért az útról és oszlopnak ütközött egy személygépkocsi az 1116-os úton, Szentendre és Pilisszentlászló között. A szentendrei hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szentendre, Szárazpatak utca",
+      "updates": []
+    },
     {
       "id": "93114",
       "datetime": "2026.10.25. 06:39",
