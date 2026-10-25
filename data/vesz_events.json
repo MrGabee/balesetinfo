@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T10:27:28.470659+00:00",
-  "count": 3556,
+  "updated_at": "2026-10-25T10:31:07.262327+00:00",
+  "count": 3557,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93118",
+      "datetime": "2026.10.25. 11:28",
+      "title": "Összeütközött két autó Pétervásárán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93118",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Pétervásárán, a Keglevich úton, azaz a 23-as főúton, az Ivádi út közelében. A pétervásárai hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanították az egyik járművet. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Pétervására, 23",
+      "updates": []
+    },
     {
       "id": "93117",
       "datetime": "2026.10.25. 09:30",
