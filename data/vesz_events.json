@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T08:22:21.233376+00:00",
-  "count": 3554,
+  "updated_at": "2026-10-25T08:25:35.517214+00:00",
+  "count": 3555,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93116",
+      "datetime": "2026.10.25. 09:24",
+      "title": "Oszlopnak csapódott egy autó Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93116",
+      "lead": "A Sport utcában történt a baleset.",
+      "body": "Oszlopnak csapódott egy személyautó Zalaegerszegen, a Sport utcában. A helyi hivatásos tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett.",
+      "location": "Zalaegerszeg, Sport utca",
+      "updates": []
+    },
     {
       "id": "93115",
       "datetime": "2026.10.25. 07:32",
