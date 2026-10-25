@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T22:21:20.528464+00:00",
-  "count": 3569,
+  "updated_at": "2026-10-25T22:24:46.769605+00:00",
+  "count": 3570,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93131",
+      "datetime": "2026.10.25. 23:22",
+      "title": "Tűz volt Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93131",
+      "lead": "A Zsinór utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett Kecskeméten, a Zsinór utcában. Egy négyzetméteren egy matrac égett. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Kecskemét, Zsinór utca",
+      "updates": []
+    },
     {
       "id": "93130",
       "datetime": "2026.10.25. 21:21",
