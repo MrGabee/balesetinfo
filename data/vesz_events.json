@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T17:37:59.272267+00:00",
-  "count": 3565,
+  "updated_at": "2026-10-25T17:41:28.988206+00:00",
+  "count": 3566,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93127",
+      "datetime": "2026.10.25. 18:38",
+      "title": "Árokba borult egy autó Medgyesbodzásnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93127",
+      "lead": "A 4436-os út érintett szakaszán forgalmi akadály van.",
+      "body": "Letért az útról és az árokba borult egy személygépkocsi Medgyesbodzásnál, a 4436-os út 6-os kilométerénél. A mezőkovácsházai hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Medgyesbodzás, 4436",
+      "updates": []
+    },
     {
       "id": "93126",
       "datetime": "2026.10.25. 17:55",
