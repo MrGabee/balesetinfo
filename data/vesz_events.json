@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T18:48:24.417117+00:00",
-  "count": 3566,
+  "updated_at": "2026-10-25T18:52:07.808296+00:00",
+  "count": 3567,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93128",
+      "datetime": "2026.10.25. 19:51",
+      "title": "Szén-monoxid keletkezett Pétfürdőn",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93128",
+      "lead": "Az Akácfa utcába riasztották a tűzoltókat.",
+      "body": "Szén-monoxid keletkezett egy épületben, Pétfürdőn, az Akácfa utcában. A helyi hivatásos tűzoltók méréseket végeztek, és kimutatták a mérgező gázt a ház levegőjében. A raj átszellőzteti az épületet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Pétfürdő, Akácfa utca",
+      "updates": []
+    },
     {
       "id": "93127",
       "datetime": "2026.10.25. 18:38",
