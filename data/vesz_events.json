@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T23:21:54.617915+00:00",
-  "count": 3570,
+  "updated_at": "2026-10-25T23:25:44.221907+00:00",
+  "count": 3571,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93132",
+      "datetime": "2026.10.26. 00:22",
+      "title": "Baleset a IX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93132",
+      "lead": "Villamossínre hajtott egy autó.",
+      "body": "Villamossínre hajtott egy személygépkocsi Budapest IX. kerületében, a Mester utcában, a Máriássy utca közelében. A műszaki mentési munkálatok elvégzéséhez a fővárosi hivatásos tűzoltókat riasztották az esethez. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, Mester utca",
+      "updates": []
+    },
     {
       "id": "93131",
       "datetime": "2026.10.25. 23:22",
