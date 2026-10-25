@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T08:29:01.025856+00:00",
-  "count": 3555,
+  "updated_at": "2026-10-25T08:32:22.611210+00:00",
+  "count": 3556,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93117",
+      "datetime": "2026.10.25. 09:30",
+      "title": "Két autó ütközött a 33-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93117",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Füzesabonynál, a 33-as főút 4-es kilométerénél. A füzesabonyi hivatásos és önkéntes tűzoltók dolgoznak a helyszínen. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Füzesabony, 33",
+      "updates": []
+    },
     {
       "id": "93116",
       "datetime": "2026.10.25. 09:24",
