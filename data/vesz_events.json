@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T05:35:31.663156+00:00",
-  "count": 3552,
+  "updated_at": "2026-10-25T05:39:26.420746+00:00",
+  "count": 3553,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93114",
+      "datetime": "2026.10.25. 06:39",
+      "title": "Villanyoszlopnak ütközött egy autó Tatabányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93114",
+      "lead": "Az Aradi utcát teljes szélességében lezárták.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Tatabányán, az Aradi utcában. Az autóban csak a sofőr utazott. A helyi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tatabánya, Aradi utca",
+      "updates": []
+    },
     {
       "id": "93113",
       "datetime": "2026.10.24. 21:47",
