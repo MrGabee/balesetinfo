@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T19:08:14.735467+00:00",
-  "count": 3567,
+  "updated_at": "2026-10-25T19:11:34.454805+00:00",
+  "count": 3568,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93129",
+      "datetime": "2026.10.25. 20:10",
+      "title": "Felborult egy autó Pannonhalmánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93129",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Felborult egy személyautó Pannonhalmánál, a 82121-es út 1-es és 2-es kilométere közötti szakaszán. A pannonhalmi hivatásos és önkéntes tűzoltók egy embert a mentőszolgálattal közösen kiemeltek a járműből. A rajok áramtalanítják a kocsit.",
+      "location": "Pannonhalma, Illak alja",
+      "updates": []
+    },
     {
       "id": "93128",
       "datetime": "2026.10.25. 19:51",
