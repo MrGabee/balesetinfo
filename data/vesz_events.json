@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T20:20:24.807908+00:00",
-  "count": 3568,
+  "updated_at": "2026-10-25T20:23:40.232425+00:00",
+  "count": 3569,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93130",
+      "datetime": "2026.10.25. 21:21",
+      "title": "Hétvégi ház égett Kulcs külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93130",
+      "lead": "A tűzoltókat a Meggy utcába riasztották.",
+      "body": "Kigyulladt egy hétvégi ház Kulcs külterületén, a Meggy utcában. A húsz négyzetméteres ház tetőszerkezete beomlott. A munkálatok során a rajok egy gázpalackot is kihoztak az épületből. A dunaújvárosi hivatásos tűzoltók oltották el a lángokat.",
+      "location": "Kulcs, Meggy utca",
+      "updates": []
+    },
     {
       "id": "93129",
       "datetime": "2026.10.25. 20:10",
