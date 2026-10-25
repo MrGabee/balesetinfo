@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-25T16:26:51.863282+00:00",
-  "count": 3563,
+  "updated_at": "2026-10-25T16:30:07.132064+00:00",
+  "count": 3564,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93125",
+      "datetime": "2026.10.25. 17:29",
+      "title": "Két autó ütközött a VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93125",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személygépkocsi karambolozott Budapest VIII. kerületében, az Orczy téren. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Orczy tér",
+      "updates": []
+    },
     {
       "id": "93124",
       "datetime": "2026.10.25. 16:44 -",
