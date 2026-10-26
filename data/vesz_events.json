@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-26T10:53:41.301167+00:00",
-  "count": 3589,
+  "updated_at": "2026-10-26T10:57:00.660330+00:00",
+  "count": 3591,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93152",
+      "datetime": "2026.10.26. 11:56",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93152",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
+    {
+      "id": "93151",
+      "datetime": "2026.10.26. 11:54",
+      "title": "Karambol Miskolcon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93151",
+      "lead": "Az Erdő soron végeztek műszaki mentést a tűzoltók.",
+      "body": "Frontálisan karambolozott két személygépkocsi Miskolcon, az Erdő soron. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították a járműveket. A helyszínre vonultak a mentők is.",
+      "location": "Miskolc, Erdő sor",
+      "updates": []
+    },
     {
       "id": "93150",
       "datetime": "2026.10.26. 11:49",
