@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T13:54:45.310160+00:00",
-  "count": 3595,
+  "updated_at": "2026-10-26T13:59:00.174149+00:00",
+  "count": 3596,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93157",
+      "datetime": "2026.10.26. 14:58",
+      "title": "Kamiontűz az M3-ason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93157",
+      "lead": "Bagon egy szakaszon félpályán halad Budapest felé a forgalom.",
+      "body": "Kigyulladt egy kamion az M3-as autópálya Budapest felé vezető oldalán, Bagon, a 39. és a 40. kilométer között. Teljesen átizzott a daruelemeket szállító szerelvény pótkocsija, amelyet lekapcsolt a vontatóról a jármű vezetője. A gödöllői és az aszódi hivatásos tűzoltók eloltották a tüzet. A beavatkozás idejére teljes szélességében lezárták, majd félpályán megnyitották az érintett sztrádaoldalt.",
+      "location": "Bag, M3",
+      "updates": []
+    },
     {
       "id": "93156",
       "datetime": "2026.10.26. 13:58",
@@ -236,9 +247,9 @@
       "title": "Baleset az 57-esen",
       "category": "Baleset az 57-esen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93137",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 57-es főútra riasztották a tűzoltókat.",
+      "body": "Egy autóbusz és egy személyautó karambolozott Szederkényben, az 57-es főút 17-es kilométerénél. A baleset közelében egy másik személygépkocsi lesodródott az úttestről. A busz, amelyben tizenhatan utaztak az oldalára borult, az utasokat a tűzoltók segítették ki. Az egyik személygépkocsiba egy ember beszorult, őt a mohácsi, a pécsi és a villányi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett szabadítják ki. A rajok áramtalanították a járműveket. A helyszínre mentőhelikopter is érkezett.",
+      "location": "Szederkény, Táncsics Mihály utca",
       "updates": []
     },
     {
