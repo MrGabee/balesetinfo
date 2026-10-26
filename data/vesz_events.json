@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T10:46:23.967488+00:00",
-  "count": 3588,
+  "updated_at": "2026-10-26T10:50:09.663204+00:00",
+  "count": 3589,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93150",
+      "datetime": "2026.10.26. 11:49",
+      "title": "Baleset történt a 7-es főút siófoki szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93150",
+      "lead": "A Széchenyi utcai kereszteződésben két autó karambolozott.",
+      "body": "Egymásba hajtott két személykocsi Siófokon, a 7-es főút és a Széchenyi utca kereszteződésében. A két kocsiban összesen hárman utaztak. A város hivatásos tűzoltói áramtalanítottak, illetve kézi erővel kinyitották az egyik autó ajtaját, hogy a kocsi utasa ki tudjon szállni. A helyszínre mentő is érkezett.",
+      "location": "Siófok, 7",
+      "updates": []
+    },
     {
       "id": "93149",
       "datetime": "2026.10.26. 11:42",
