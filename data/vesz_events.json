@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:57:00.660330+00:00",
+  "updated_at": "2026-10-26T11:00:17.640945+00:00",
   "count": 3591,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -117,9 +117,9 @@
       "title": "Tűz keletkezett egy huszadik kerületi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93143",
-      "lead": "A tűzoltókat a Bulcsú utcába riasztották.",
-      "body": "Berendezési tárgyak égtek egy budapesti, huszadik kerületi családi ház felső szintjén. A Bulcsú utcai épületbe a fővárosi hivatásos tűzoltók légzésvédelem mellett mentek be, és eloltották a nagyjából öt négyzetméteren égő tüzet. A tűz elérte a tetőteret is, az egységek megszüntetik a beizzásokat.",
-      "location": "Budapest, Bulcsú utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -347,16 +347,7 @@
       "lead": "A Kossuth Lajos utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy disznóól Csikérián, a Kossuth Lajos utcában. A negyven négyzetméteres ól teljes terjedelmében ég. A bácsalmási önkormányzati és önkéntes tűzoltók már két vízsugárral körülhatárolták a lángokat.",
       "location": "Csikéria, Kossuth Lajos utca",
-      "updates": [
-        {
-          "title": "Utómunkálatokat végeznek a tűzoltók Csikérián",
-          "datetime": "2026.10.25. 17:23",
-          "category": "Tűzeset",
-          "text": "Utómunkálatokat végeznek a tűzoltók Csikérián, a Kossuth Lajos utcában, ahol egy négyzetméteres disznóól teljes terjedelmében égett. A kiskunhalasi hivatásos, a bácsalmási önkormányzati és önkéntes tűzoltók több vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy kiskunhalasi vízszállító jármű is segíti.",
-          "location": "Csikéria, Kossuth Lajos utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93124/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93124"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93123",
