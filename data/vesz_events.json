@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T07:01:28.009382+00:00",
-  "count": 3578,
+  "updated_at": "2026-10-26T07:04:59.520443+00:00",
+  "count": 3579,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93140",
+      "datetime": "2026.10.26. 08:03",
+      "title": "Baleset történt a 82-es főúton, Zirc szélén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93140",
+      "lead": "A 22-es kilométernél, a Győri utcai vasúti átjáró közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Beton lezáróelemnek ütközött egy autó a 82-es főút zirci szakaszán, a Győri utcai vasúti átjáró közelében. A járműben hárman utaztak, a helyszínre mentő érkezett. A zirci önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Zirc, 82",
+      "updates": []
+    },
     {
       "id": "93139",
       "datetime": "2026.10.26. 07:59",
