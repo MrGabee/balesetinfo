@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T14:20:26.407423+00:00",
-  "count": 3596,
+  "updated_at": "2026-10-26T14:23:51.914771+00:00",
+  "count": 3597,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93158",
+      "datetime": "2026.10.26. 15:22",
+      "title": "Árokba borult egy autó a 44-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93158",
+      "lead": "Szarvas közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba hajtott és felborult egy személyautó a 44-es főúton, Szarvas közelében, a 78. és a 79. kilométer között. A tetejére borult a jármű, amelyben egy ember utazott. Ő ki tudott szállni. A szarvasi hivatásos tűzoltók áramtalanítják a gépkocsit.",
+      "location": "Szarvas, 44",
+      "updates": []
+    },
     {
       "id": "93157",
       "datetime": "2026.10.26. 14:58",
