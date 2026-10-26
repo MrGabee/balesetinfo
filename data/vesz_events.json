@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T16:21:04.954484+00:00",
-  "count": 3604,
+  "updated_at": "2026-10-26T16:25:18.596247+00:00",
+  "count": 3605,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93166",
+      "datetime": "2026.10.26. 17:22",
+      "title": "Egymásba hajtott két személykocsi Soltvadkerten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93166",
+      "lead": "A Petőfi Sándor és a Lukács Antal utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Két autó karambolozott Soltvadkerten, a Petőfi Sándor és a Lukács Antal utca kereszteződésében. A két járműben összesen négyen utaztak, a helyszínre mentő is érkezett. A helyi önkormányzati tűzoltók áramtalanították a gépkocsikat.",
+      "location": "Soltvadkert, Lukács Antal utca",
+      "updates": []
+    },
     {
       "id": "93165",
       "datetime": "2026.10.26. 16:54",
