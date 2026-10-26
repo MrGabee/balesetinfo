@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T06:41:34.950747+00:00",
-  "count": 3575,
+  "updated_at": "2026-10-26T06:45:05.673100+00:00",
+  "count": 3576,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93137",
+      "datetime": "2026.10.26. 07:45",
+      "title": "Baleset az 57-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93137",
+      "lead": "Az 57-es főútra riasztották a tűzoltókat.",
+      "body": "Egy autóbusz és egy személyautó karambolozott Szederkényben, az 57-es főút 17-es kilométerénél. A baleset közelében egy személygépkocsi is lesodródott az úttestről. A busz, amelyben tizenhatan utaztak az oldalára borult, az utasokat a tűzoltók segítették ki. Az egyik személygépkocsiba egy ember beszorult, őt a mohácsi, a pécsi és a villányi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat mellett szabadítják ki. A rajok áramtalanították a járműveket. A helyszínre mentőhelikopter is érkezett.",
+      "location": "Szederkény, 57",
+      "updates": []
+    },
     {
       "id": "93136",
       "datetime": "2026.10.26. 07:16",
@@ -42,9 +53,9 @@
       "title": "Lakás ég a II. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133",
-      "lead": "A Szeréna úton csaptak fel a lángok.",
-      "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
-      "location": "Budapest, Szeréna út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
