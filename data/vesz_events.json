@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T14:34:28.944426+00:00",
-  "count": 3598,
+  "updated_at": "2026-10-26T14:38:05.464622+00:00",
+  "count": 3599,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93160",
+      "datetime": "2026.10.26. 15:35",
+      "title": "Szalagkorlátnak hajtott egy autó az M25-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93160",
+      "lead": "A 14-15-ös kilométer között, Andornaktálya közelében történt a baleset.",
+      "body": "Szalagkorlátnak ütközött egy személykocsi az M25-ös autóúton, Andornaktálya térségében. A 14-15-ös kilométer között történt balesethez a füzesabonyi hivatásos tűzoltók vonultak, az egység áramtalanított. A járműben ketten utaztak, a helyszínre mentőt is riasztottak. Az autóút érintett szakaszán fennakadásra kell számítani.",
+      "location": "Andornaktálya, M25",
+      "updates": []
+    },
     {
       "id": "93159",
       "datetime": "2026.10.26. 15:34",
@@ -150,9 +161,9 @@
       "title": "Villanyóra égett egy váci lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93147",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Káptalan utcában keletkezett tűz, amelyet eloltottak a tűzoltók.",
+      "body": "Kisebb tűz keletkezett Vácon, a Káptalan utcában, egy hétlakásos ház egyik lakásában. A villanyóra gyulladt ki. A város hivatásos tűzoltó porral oltóval eloltották a tüzet, majd átvizsgálták és kiszellőztették az ingatlant.",
+      "location": "Vác, Káptalan utca",
       "updates": []
     },
     {
@@ -311,9 +322,9 @@
       "title": "Baleset történt Hegyeshalmon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93134",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat az 1-es főútra riasztották.",
+      "body": "Egy utánfutós gépkocsi parkoló járműnek ütközött Hegyeshalmon, Fő utcában, azaz az 1-es főúton, a Széchenyi utca közelében. A mosonmagyaróvári hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Hegyeshalom, Fő utca",
       "updates": []
     },
     {
