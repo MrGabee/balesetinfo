@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T19:02:29.371860+00:00",
-  "count": 3609,
+  "updated_at": "2026-10-26T19:06:02.249303+00:00",
+  "count": 3610,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93171",
+      "datetime": "2026.10.26. 20:03",
+      "title": "Kigyulladt egy családi ház Magyarszéken",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93171",
+      "lead": "A község Kishertelend nevű részébe riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház teteje Magyarszék-Kishertelenden, a 66-os főút belterületi szakaszán. A tüzet komlói, sásdi és pécsi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat irányításával oltják. A rajok négy vízsugárral dolgoznak, a tetőt roncsvágóval bontják meg. A 66-os főút forgalma rendőri irányítás mellett, félpályán halad.",
+      "location": "Magyarszék, 66",
+      "updates": []
+    },
     {
       "id": "93170",
       "datetime": "2026.10.26. 19:29",
