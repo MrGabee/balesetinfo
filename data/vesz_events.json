@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T06:57:53.045392+00:00",
-  "count": 3577,
+  "updated_at": "2026-10-26T07:01:28.009382+00:00",
+  "count": 3578,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93139",
+      "datetime": "2026.10.26. 07:59",
+      "title": "Súlyos baleset történt Törtel és Abony között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93139",
+      "lead": "A 4611-es út 4-5-ös kilométere között felborult egy autó.",
+      "body": "Letért az úttestről és a tetejére borult egy személykocsi a 4611-es út Törtel és Abony közötti szakaszán. A 4-5-ös kilométer között történt balesetnél a jármű vezetője az autó alá szorult. A ceglédi hivatásos tűzoltók emelőpárna és feszítővágó segítségével szabadították ki a sofőrt a kocsi alól. A helyszínre mentő érkezett.",
+      "location": "Abony, 4611",
+      "updates": []
+    },
     {
       "id": "93138",
       "datetime": "2026.10.26. 07:54",
