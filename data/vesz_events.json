@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T20:18:20.018103+00:00",
-  "count": 3610,
+  "updated_at": "2026-10-26T20:21:47.717685+00:00",
+  "count": 3611,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93172",
+      "datetime": "2026.10.26. 21:20",
+      "title": "Kisbusz és személykocsi karambolozott Jászfényszarun",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93172",
+      "lead": "A Szabadság útra helyi és jászberényi tűzoltók vonultak.",
+      "body": "Frontálisan karambolozott egy kisbusz és egy személyautó Jászfényszarun, a Szabadság úton. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, azután a jászberényi hivatásos tűzoltók is csatlakoztak a munkálatokhoz. Az egységek áramtalanították egy egyik járművet, a másik feszültségmentesítésére nem volt szükség, mert annak az eleje szétroncsolódott. A kisbuszban heten utaztak, a személykocsiban csak a sofőr ült, a helyszínre mentő érkezett.",
+      "location": "Jászfényszaru, Szabadság út",
+      "updates": []
+    },
     {
       "id": "93171",
       "datetime": "2026.10.26. 20:03 -",
