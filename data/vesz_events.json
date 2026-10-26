@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T12:57:29.291273+00:00",
-  "count": 3594,
+  "updated_at": "2026-10-26T13:01:02.517318+00:00",
+  "count": 3595,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93156",
+      "datetime": "2026.10.26. 13:58",
+      "title": "Kerítésnek hajtott egy autó Pilisvörösváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93156",
+      "lead": "A Vásár térre riasztották a tűzoltókat.",
+      "body": "Letért az útról és egy kerítésnek csapódott egy személykocsi Pilisvörösváron, a Vásár téren. A járműben csak a sofőr utazott, mentő érkezett hozzá. A fővárosi hivatásos tűzoltókat riasztották a helyszínre, a raj áramtalanított.",
+      "location": "Pilisvörösvár, Vásár tér",
+      "updates": []
+    },
     {
       "id": "93155",
       "datetime": "2026.10.26. 13:10",
@@ -406,9 +417,9 @@
       "title": "Izzott egy lakás födémje a VIII. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93123",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat a Szerdahelyi utcába riasztották.",
+      "body": "Tűz keletkezett egy társasházi lakás negyedik emeletén, Budapest VIII. kerületében, a Szerdahelyi utcában. A lakásban a födém izzott. A fővárosi hivatásos tűzoltók egy vízsugárral oltották el a lángokat.",
+      "location": "Budapest, Szerdahelyi utca",
       "updates": []
     },
     {
