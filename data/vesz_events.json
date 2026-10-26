@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T18:28:33.829208+00:00",
-  "count": 3608,
+  "updated_at": "2026-10-26T18:32:01.920070+00:00",
+  "count": 3609,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93170",
+      "datetime": "2026.10.26. 19:29",
+      "title": "Hármas karambol az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93170",
+      "lead": "Az országhatár felé vezető oldal 104-es kilométerénél ütköztek össze a járművek.",
+      "body": "Egymásba hajtott három autó az M1-es sztráda 104-es kilométerénél, a Hegyeshalom felé vezető oldalon. A győri hivatásos tűzoltók áramtalanítottak. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Nagyszentjános, M1",
+      "updates": []
+    },
     {
       "id": "93169",
       "datetime": "2026.10.26. 18:33",
