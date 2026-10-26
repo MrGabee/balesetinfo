@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T06:50:55.490273+00:00",
-  "count": 3576,
+  "updated_at": "2026-10-26T06:54:27.393531+00:00",
+  "count": 3577,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93138",
+      "datetime": "2026.10.26. 07:54",
+      "title": "Baleset történt a 2-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93138",
+      "lead": "Vác és Szendehely között egy kisteherautó és egy személykocsi karambolozott.",
+      "body": "Összeütközött egy személykocsi és egy kisteherautó a 2-es főút 43-as kilométerénél. A Vác és Szendehely között történt balesetben érintett járművekben összesen hatan utaztak. A váci hivatásos tűzoltók az autóból egy embert feszítővágó segítségével emeltek ki. A helyszínre mentő is érkezett. A főút érintett szakaszán forgalmi akadályra kell számítani.",
+      "location": "Szendehely, 2",
+      "updates": []
+    },
     {
       "id": "93137",
       "datetime": "2026.10.26. 07:45",
@@ -282,9 +293,9 @@
       "title": "Busz és autó ütközött Kaposváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93113",
-      "lead": "A Berzsenyi utcában dolgoznak a tűzoltók.",
-      "body": "Összeütközött egy busz és egy személygépkocsi Kaposváron, a Berzsenyi utcában. A kaposvári hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Kaposvár, Berzsenyi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -403,9 +414,9 @@
       "title": "Baleset történt Budapest XII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93102",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kiss János altábornagy utca és a Németvölgyi út kereszteződésében forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi Budapest XII. kerületében, a Kiss János altábornagy utca és a Németvölgyi út kereszteződésében. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. A baleset a közösségi közlekedés forgalmát is befolyásolja.",
+      "location": "Budapest, Németvölgyi út",
       "updates": []
     },
     {
