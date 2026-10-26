@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T15:52:14.220863+00:00",
-  "count": 3603,
+  "updated_at": "2026-10-26T15:55:51.226095+00:00",
+  "count": 3604,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93165",
+      "datetime": "2026.10.26. 16:54",
+      "title": "Két autó karambolozott Abádszalók közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93165",
+      "lead": "A 3216-os és a 3221-es út találkozásánál történt a baleset.",
+      "body": "Egymásba hajtott két személykocsi a 3216-os és a 3221-es út találkozásánál, Abádszalók térségében. A két autóban összesen öten utaztak. A város önkormányzati tűzoltói végzik a műszaki mentést, emellett irányítják a forgalmat.",
+      "location": "Abádszalók, 3216",
+      "updates": []
+    },
     {
       "id": "93164",
       "datetime": "2026.10.26. 16:50",
