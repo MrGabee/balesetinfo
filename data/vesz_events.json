@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T09:40:30.647960+00:00",
-  "count": 3582,
+  "updated_at": "2026-10-26T09:43:43.711312+00:00",
+  "count": 3583,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93144",
+      "datetime": "2026.10.26. 10:43",
+      "title": "Vonat és autó karambolozott Csörögön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93144",
+      "lead": "A Komáromi utcai vasúti átjáróhoz riasztották a váci tűzoltókat.",
+      "body": "Összeütközött az Vácról Aszódra tartó személyvonat egy autóval Csörögön, a vasúti átjáróban. A személykocsiban ketten ültek, a vonaton tíz ember utazott. A váci hivatásos tűzoltók áramtalanították az autót. A helyszínre mentő is érkezett.",
+      "location": "Csörög, Komáromi utca",
+      "updates": []
+    },
     {
       "id": "93143",
       "datetime": "2026.10.26. 09:18",
