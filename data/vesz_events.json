@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T05:28:38.585773+00:00",
-  "count": 3573,
+  "updated_at": "2026-10-26T05:31:27.773365+00:00",
+  "count": 3574,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93135",
+      "datetime": "2026.10.26. 06:29",
+      "title": "Két autó ütközött a II. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93135",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két személygépkocsi Budapest II. kerületében, a Pasaréti úron, a Gábor Áron utca közelében. A főváros hivatásos tűzoltói áramtalanítják a járműveket. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, Pasaréti út",
+      "updates": []
+    },
     {
       "id": "93134",
       "datetime": "2026.10.26. 06:17",
