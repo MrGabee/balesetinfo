@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T17:21:55.970834+00:00",
-  "count": 3606,
+  "updated_at": "2026-10-26T17:25:37.278674+00:00",
+  "count": 3607,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93168",
+      "datetime": "2026.10.26. 18:23",
+      "title": "Árokba hajtott egy gépkocsi Battonyánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93168",
+      "lead": "A 4444-es úton, az 53-54-es kilométer között van szükség a tűzoltókra.",
+      "body": "Letért az útról és az árokban állt meg egy autó a 4444-es úton, Battonya határában. Az 53-54-es kilométer között történt balesethez elsőként a település önkéntes tűzoltói érkeztek meg, azután a helyszínre ért a mezőkovácsházi hivatásos egység is. A rajok áramtalanítottak. A járműben csak annak vezetője utazott, a sofőr ki tudott szállni az autóból.",
+      "location": "Battonya, 4444",
+      "updates": []
+    },
     {
       "id": "93167",
       "datetime": "2026.10.26. 17:49",
