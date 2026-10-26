@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T14:31:04.698188+00:00",
-  "count": 3597,
+  "updated_at": "2026-10-26T14:34:28.944426+00:00",
+  "count": 3598,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93159",
+      "datetime": "2026.10.26. 15:34",
+      "title": "Összeütközött két autó a 3-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93159",
+      "lead": "A nagyrédei elágazásnál forgalomkorlátozásra kell számítani.",
+      "body": "Karambolozott két személyautó a 3-as főúton, a 77. kilométernél, a nagyrédei elágazásnál. A balesethez a gyöngyösi hivatásos tűzoltók vonultak ki, és áramtalanították a járműveket. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Nagyréde, 3",
+      "updates": []
+    },
     {
       "id": "93158",
       "datetime": "2026.10.26. 15:22",
@@ -139,9 +150,9 @@
       "title": "Villanyóra égett egy váci lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93147",
-      "lead": "A Káptalan utcában keletkezett tűz, amelyet eloltottak a tűzoltók.",
-      "body": "Kisebb tűz keletkezett Vácon, a Káptalan utcában, egy hétlakásos ház egyik lakásában. A villanyóra gyulladt ki. A város hivatásos tűzoltó porral oltóval eloltották a tüzet, majd átvizsgálták és kiszellőztették az ingatlant.",
-      "location": "Vác, Káptalan utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -300,9 +311,9 @@
       "title": "Baleset történt Hegyeshalmon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93134",
-      "lead": "A tűzoltókat az 1-es főútra riasztották.",
-      "body": "Egy utánfutós gépkocsi parkoló járműnek ütközött Hegyeshalmon, Fő utcában, azaz az 1-es főúton, a Széchenyi utca közelében. A mosonmagyaróvári hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek.",
-      "location": "Hegyeshalom, Fő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -472,9 +483,9 @@
       "title": "Autótűz az M5-ösön",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93120",
-      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy személygépkocsi Budapest térségében, az M5-ös autópálya bevezető szakaszán. A fővárosi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Budapest, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
