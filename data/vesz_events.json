@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T22:05:19.212064+00:00",
-  "count": 3611,
+  "updated_at": "2026-10-26T22:09:01.560847+00:00",
+  "count": 3612,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93173",
+      "datetime": "2026.10.26. 23:06",
+      "title": "Áll a villamosforgalom Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93173",
+      "lead": "A Maglódi úton a sínekre hajtott egy autó.",
+      "body": "A villamossínekre hajtott és ott vesztegel egy személykocsi Budapesten, a tizedik kerületi Maglódi úton. A fővárosi hivatásos tűzoltók mellett a közlekedési cég műszaki mentőszere és daruja is a helyszínre vonult. A történtek miatt a villamosok egyik irányban sem közlekednek.",
+      "location": "Budapest, Maglódi út",
+      "updates": []
+    },
     {
       "id": "93172",
       "datetime": "2026.10.26. 21:20",
