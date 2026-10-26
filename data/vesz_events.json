@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:13:16.534497+00:00",
+  "updated_at": "2026-10-26T14:16:55.737273+00:00",
   "count": 3596,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -75,9 +75,9 @@
       "title": "Karambol Miskolcon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93151",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Erdő soron végeztek műszaki mentést a tűzoltók.",
+      "body": "Frontálisan karambolozott két személygépkocsi Miskolcon, az Erdő soron. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították a járműveket. A helyszínre vonultak a mentők is.",
+      "location": "Miskolc, Erdő sor",
       "updates": []
     },
     {
@@ -139,10 +139,19 @@
       "title": "Melléképület ég Beleden",
       "category": "Melléképület ég Beleden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Közép utcában oltják a lángokat.",
+      "body": "Kigyulladt egy körülbelül száz négyzetméteres melléképület Beleden, a Közép utcában. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Beled, Közép utca",
+      "updates": [
+        {
+          "title": "Már nem lángol a melléképület Beleden",
+          "datetime": "2026.10.26. 11:27",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Beleden, a Közép utcában, ahol kigyulladt egy körülbelül száz négyzetméteres melléképület. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi és a répcelaki önkéntes tűzoltók a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral fékezték meg a lángokat, amelyek a szomszéd épületekre nem terjedtek át.  A rajok megszüntetik a még meglévő izzásokat.",
+          "location": "Beled, Közép utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93146"
+        }
+      ]
     },
     {
       "id": "93145",
