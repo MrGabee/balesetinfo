@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T04:54:37.694167+00:00",
-  "count": 3571,
+  "updated_at": "2026-10-26T04:57:56.346398+00:00",
+  "count": 3572,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93133",
+      "datetime": "2026.10.26. 05:55",
+      "title": "Lakás ég a II. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133",
+      "lead": "A Szeréna úton csaptak fel a lángok.",
+      "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
+      "location": "Budapest, Szeréna út",
+      "updates": []
+    },
     {
       "id": "93132",
       "datetime": "2026.10.26. 00:22",
