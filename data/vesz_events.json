@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:11:40.799138+00:00",
+  "updated_at": "2026-10-26T11:14:55.464328+00:00",
   "count": 3593,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "93149",
-      "datetime": "2026.10.26. 11:42",
+      "datetime": "2026.10.26. 11:42 -",
       "title": "Kigyulladt egy garázs Siófokon",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy garázs Siófokon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149",
       "lead": "A város tűzoltói a Tóth Árpád utcába vonultak.",
       "body": "Tűz ütött ki egy nagyjából huszonöt négyzetméteres, lemezből készült garázsban Siófokon. A Tóth Árpád utcai helyszínre a város hivatásos tűzoltóságának két gépjárműfecskendőjét és a vízszállítót riasztották. Az egységek két vízsugárral kezdték oltani a teljes terjedelmében égő építményt.",
       "location": "Siófok, Tóth Árpád utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a siófoki garázs tüzét",
+          "datetime": "2026.10.26. 12:11",
+          "category": "Tűzeset",
+          "text": "A Tóth Árpád utcában gyulladt ki egy lemezgarázs. A lángok nem jelentettek veszélyt a közeli lakóházra. A siófoki hivatásos tűzoltók három vízsugárral körülhatárolták, majd eloltották a tüzet.",
+          "location": "Siófok, Tóth Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93149"
+        }
+      ]
     },
     {
       "id": "93148",
