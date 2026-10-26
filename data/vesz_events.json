@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T07:23:00.305553+00:00",
+  "updated_at": "2026-10-26T07:26:42.059936+00:00",
   "count": 3580,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -100,7 +100,16 @@
       "lead": "A Szeréna úton csaptak fel a lángok.",
       "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Budapest, Szeréna út",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók utómunkálatokat végeznek a II. kerületben",
+          "datetime": "2026.10.26. 08:26",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a tűzoltók Budapest II. kerületében, a Szeréna úton, ahol egy harmadik emeleti társasházi lakás égett. A fővárosi katasztrófavédelmi műveleti szolgálat mellett a fővárosi hivatásos és a rózsadombi önkéntes tűzoltók három vízsugárral fékezték meg a tüzet. Jelenleg az utómunkálatokat zajlanak.",
+          "location": "Budapest, Szeréna út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93133"
+        }
+      ]
     },
     {
       "id": "93132",
@@ -163,9 +172,9 @@
       "title": "Árokba borult egy autó Medgyesbodzásnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93127",
-      "lead": "A 4436-os út érintett szakaszán forgalmi akadály van.",
-      "body": "Letért az útról és az árokba borult egy személygépkocsi Medgyesbodzásnál, a 4436-os út 6-os kilométerénél. A mezőkovácsházai hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Medgyesbodzás, 4436",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -348,9 +357,9 @@
       "title": "Autó égett az M7-en",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93111",
-      "lead": "Székesfehérvár térségében dolgoznak a tűzoltók.",
-      "body": "Teljes terjedelmében égett egy személygépkocsi az M7-es autópályán, Budapest felé, Székesfehérvár térségében, az 57-es kilométerszelvénynél. A székesfehérvári hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj áramtalanította a járművet.",
-      "location": "Székesfehérvár, Rozmaring utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
