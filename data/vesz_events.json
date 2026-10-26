@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:24:54.093312+00:00",
+  "updated_at": "2026-10-26T10:28:17.487493+00:00",
   "count": 3586,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "93146",
-      "datetime": "2026.10.26. 10:50",
+      "datetime": "2026.10.26. 10:50 -",
       "title": "Melléképület ég Beleden",
-      "category": "Tűzeset",
+      "category": "Melléképület ég Beleden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Közép utcában oltják a lángokat.",
+      "body": "Kigyulladt egy körülbelül száz négyzetméteres melléképület Beleden, a Közép utcában. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is.",
+      "location": "Beled, Közép utca",
+      "updates": [
+        {
+          "title": "Már nem lángol a melléképület Beleden",
+          "datetime": "2026.10.26. 11:27",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Beleden, a Közép utcában, ahol kigyulladt egy körülbelül száz négyzetméteres melléképület. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi és a répcelaki önkéntes tűzoltók a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral fékezték meg a lángokat, amelyek a szomszéd épületekre nem terjedtek át.  A rajok megszüntetik a még meglévő izzásokat.",
+          "location": "Beled, Közép utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93146"
+        }
+      ]
     },
     {
       "id": "93145",
@@ -97,9 +106,9 @@
       "title": "Súlyos baleset történt Törtel és Abony között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93139",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4611-es út 4-5-ös kilométere között felborult egy autó.",
+      "body": "Letért az úttestről és a tetejére borult egy személykocsi a 4611-es út Törtel és Abony közötti szakaszán. A 4-5-ös kilométer között történt balesetnél a jármű vezetője az autó alá szorult. A ceglédi hivatásos tűzoltók emelőpárna és feszítővágó segítségével szabadították ki a sofőrt a kocsi alól. A helyszínre mentő érkezett.",
+      "location": "Abony, 4611",
       "updates": []
     },
     {
