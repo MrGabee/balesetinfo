@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T15:41:03.066853+00:00",
-  "count": 3601,
+  "updated_at": "2026-10-26T15:45:09.430160+00:00",
+  "count": 3602,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93163",
+      "datetime": "2026.10.26. 16:44",
+      "title": "Több jármű karambolozott az M3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93163",
+      "lead": "A főváros felé vezető oldal 48-as kilométerénél történt a baleset.",
+      "body": "Egymásba hajtott két személykocsi és egy furgon az M3-as autópályán, a 48-as kilométernél. A Budapest felé vezető oldalon történt balesethez a hatvani hivatásos tűzoltók vonultak. A raj áramtalanított. A karambol hat embert érintett, az utasokhoz mentő érkezett. A járművek a két forgalmi sávot elfoglalják, a forgalom a leállósávban halad.",
+      "location": "Kerekharaszt, M3",
+      "updates": []
+    },
     {
       "id": "93162",
       "datetime": "2026.10.26. 15:57",
