@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T07:59:19.260251+00:00",
+  "updated_at": "2026-10-26T08:02:43.422598+00:00",
   "count": 3580,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -109,7 +109,16 @@
       "lead": "A Szeréna úton csaptak fel a lángok.",
       "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Budapest, Szeréna út",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók utómunkálatokat végeznek a II. kerületben",
+          "datetime": "2026.10.26. 08:26",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a tűzoltók Budapest II. kerületében, a Szeréna úton, ahol egy harmadik emeleti társasházi lakás égett. A fővárosi katasztrófavédelmi műveleti szolgálat mellett a fővárosi hivatásos és a rózsadombi önkéntes tűzoltók három vízsugárral fékezték meg a tüzet. Jelenleg az utómunkálatokat zajlanak.",
+          "location": "Budapest, Szeréna út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93133"
+        }
+      ]
     },
     {
       "id": "93132",
@@ -183,9 +192,9 @@
       "title": "Vadat gázolt egy autó a 22-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93126",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Vadat gázolt egy személygépkocsi Dejtárnál, a 22-es főút 13-as és 14-es kilométere közötti szakaszán. A balassagyarmati hivatásos tűzoltókat riasztották a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Dejtár, 22",
       "updates": []
     },
     {
@@ -346,9 +355,9 @@
       "title": "Ház égett Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93112",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Tücsök utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy ház Kaposváron, a Tücsök utcában. Az épületben bútorok égtek. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kaposvár, Tücsök utca",
       "updates": []
     },
     {
