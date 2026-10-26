@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T15:48:37.321901+00:00",
-  "count": 3602,
+  "updated_at": "2026-10-26T15:52:14.220863+00:00",
+  "count": 3603,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93164",
+      "datetime": "2026.10.26. 16:50",
+      "title": "Árokba hajtott egy autó a 36-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93164",
+      "lead": "A 36-os kilométerhez riasztották a nyíregyházi tűzoltókat.",
+      "body": "Lesodródott az úttestről, árokba hajtott és ott felborult egy személykocsi a 36-os főút 36-os kilométerénél, Nagycserkesz és Tiszavasvári között. Az autóban csak a sofőr ült, mentőt riasztottak hozzá. A nyíregyházi hivatásos tűzoltók vonultak az esethez. A főút érintett szakaszát félpályán lezárták.",
+      "location": "Nagycserkesz, 36",
+      "updates": []
+    },
     {
       "id": "93163",
       "datetime": "2026.10.26. 16:44",
