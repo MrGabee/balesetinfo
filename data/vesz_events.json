@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:33:53.762897+00:00",
+  "updated_at": "2026-10-26T12:37:13.614002+00:00",
   "count": 3594,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -120,7 +120,16 @@
       "lead": "A tűzoltók a Közép utcában oltják a lángokat.",
       "body": "Kigyulladt egy körülbelül száz négyzetméteres melléképület Beleden, a Közép utcában. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is.",
       "location": "Beled, Közép utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol a melléképület Beleden",
+          "datetime": "2026.10.26. 11:27",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Beleden, a Közép utcában, ahol kigyulladt egy körülbelül száz négyzetméteres melléképület. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi és a répcelaki önkéntes tűzoltók a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral fékezték meg a lángokat, amelyek a szomszéd épületekre nem terjedtek át.  A rajok megszüntetik a még meglévő izzásokat.",
+          "location": "Beled, Közép utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93146"
+        }
+      ]
     },
     {
       "id": "93145",
@@ -219,16 +228,7 @@
       "lead": "Az 57-es főútra riasztották a tűzoltókat.",
       "body": "Egy autóbusz és egy személyautó karambolozott Szederkényben, az 57-es főút 17-es kilométerénél. A baleset közelében egy másik személygépkocsi lesodródott az úttestről. A busz, amelyben tizenhatan utaztak az oldalára borult, az utasokat a tűzoltók segítették ki. Az egyik személygépkocsiba egy ember beszorult, őt a mohácsi, a pécsi és a villányi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett szabadítják ki. A rajok áramtalanították a járműveket. A helyszínre mentőhelikopter is érkezett.",
       "location": "Szederkény, Táncsics Mihály utca",
-      "updates": [
-        {
-          "title": "Kimentették az 57-es főúton autóba szorult embert",
-          "datetime": "2026.10.26. 08:49",
-          "category": "Közlekedési baleset",
-          "text": "Kiszabadították a tűzoltók azt az embert, aki beszorult egy személygépkocsiba, miután az egy autóbusszal karambolozott Szederkényben, az 57-es főút 17-es kilométerénél. A balesetnél a mohácsi, a pécsi és a villányi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett végzik a műszaki mentést. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-          "location": "Szederkény, Táncsics Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93137/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93137"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93136",
@@ -355,9 +355,9 @@
       "title": "Vadat gázolt egy autó a 22-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93126",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Vadat gázolt egy személygépkocsi Dejtárnál, a 22-es főút 13-as és 14-es kilométere közötti szakaszán. A balassagyarmati hivatásos tűzoltókat riasztották a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Dejtár, 22",
       "updates": []
     },
     {
