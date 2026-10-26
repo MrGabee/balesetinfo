@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:35:09.228064+00:00",
+  "updated_at": "2026-10-26T10:39:09.276222+00:00",
   "count": 3586,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -170,9 +170,9 @@
       "title": "Baleset történt Hegyeshalmon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93134",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat az 1-es főútra riasztották.",
+      "body": "Egy utánfutós gépkocsi parkoló járműnek ütközött Hegyeshalmon, Fő utcában, azaz az 1-es főúton, a Széchenyi utca közelében. A mosonmagyaróvári hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Hegyeshalom, Fő utca",
       "updates": []
     },
     {
@@ -181,19 +181,10 @@
       "title": "Lakás ég a II. kerületben",
       "category": "Lakás ég a II. kerületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133",
-      "lead": "A Szeréna úton csaptak fel a lángok.",
-      "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
-      "location": "Budapest, Szeréna út",
-      "updates": [
-        {
-          "title": "A tűzoltók utómunkálatokat végeznek a II. kerületben",
-          "datetime": "2026.10.26. 08:26",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat a tűzoltók Budapest II. kerületében, a Szeréna úton, ahol egy harmadik emeleti társasházi lakás égett. A fővárosi katasztrófavédelmi műveleti szolgálat mellett a fővárosi hivatásos és a rózsadombi önkéntes tűzoltók három vízsugárral fékezték meg a tüzet. Jelenleg az utómunkálatokat zajlanak.",
-          "location": "Budapest, Szeréna út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93133"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93132",
