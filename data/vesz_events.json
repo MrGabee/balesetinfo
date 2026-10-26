@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T09:50:54.247911+00:00",
+  "updated_at": "2026-10-26T09:54:25.950333+00:00",
   "count": 3585,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -111,16 +111,7 @@
       "lead": "Az 57-es főútra riasztották a tűzoltókat.",
       "body": "Egy autóbusz és egy személyautó karambolozott Szederkényben, az 57-es főút 17-es kilométerénél. A baleset közelében egy másik személygépkocsi lesodródott az úttestről. A busz, amelyben tizenhatan utaztak az oldalára borult, az utasokat a tűzoltók segítették ki. Az egyik személygépkocsiba egy ember beszorult, őt a mohácsi, a pécsi és a villányi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett szabadítják ki. A rajok áramtalanították a járműveket. A helyszínre mentőhelikopter is érkezett.",
       "location": "Szederkény, Táncsics Mihály utca",
-      "updates": [
-        {
-          "title": "Kimentették az 57-es főúton autóba szorult embert",
-          "datetime": "2026.10.26. 08:49",
-          "category": "Közlekedési baleset",
-          "text": "Kiszabadították a tűzoltók azt az embert, aki beszorult egy személygépkocsiba, miután az egy autóbusszal karambolozott Szederkényben, az 57-es főút 17-es kilométerénél. A balesetnél a mohácsi, a pécsi és a villányi hivatásos tűzoltók a Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett végzik a műszaki mentést. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
-          "location": "Szederkény, Táncsics Mihály utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93137/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93137"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93136",
