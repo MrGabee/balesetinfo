@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T11:07:50.461980+00:00",
-  "count": 3592,
+  "updated_at": "2026-10-26T11:11:40.799138+00:00",
+  "count": 3593,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93154",
+      "datetime": "2026.10.26. 12:09",
+      "title": "Karambol történt Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93154",
+      "lead": "A Petőfi Sándor és az Ady Endre utca kereszteződésénél két autó ütközött össze.",
+      "body": "Két személykocsi karambolozott Zalaegerszegen, az Ady Endre és a Petőfi Sándor utca sarkánál. Mindkét járműben csak a sofőr utazott. A város hivatásos tűzoltói áramtalanították az autókat.",
+      "location": "Zalaegerszeg, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93153",
       "datetime": "2026.10.26. 12:03",
