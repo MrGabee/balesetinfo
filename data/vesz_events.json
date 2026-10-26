@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:15:14.359135+00:00",
+  "updated_at": "2026-10-26T13:18:52.103114+00:00",
   "count": 3595,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Két baleset is történt a 3823-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93153",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kemecse és Nyírbogdány között van szükség tűzoltói beavatkozásra.",
+      "body": "Felborult egy személyautó a 3823-as út Kemecse és Nyírbogdány közötti szakaszán, a 31. kilométernél. A tetején állt meg a jármű, amelyben egy ember utazott. A helyszíntől mintegy száz-kétszáz méterre történt egy karambol is: egymásba futott három személyautó. Mindkét balesetnél a nyíregyházi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyírbogdány, 3823",
       "updates": []
     },
     {
@@ -86,10 +86,19 @@
       "title": "Kigyulladt egy garázs Siófokon",
       "category": "Kigyulladt egy garázs Siófokon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A város tűzoltói a Tóth Árpád utcába vonultak.",
+      "body": "Tűz ütött ki egy nagyjából huszonöt négyzetméteres, lemezből készült garázsban Siófokon. A Tóth Árpád utcai helyszínre a város hivatásos tűzoltóságának két gépjárműfecskendőjét és a vízszállítót riasztották. Az egységek két vízsugárral kezdték oltani a teljes terjedelmében égő építményt.",
+      "location": "Siófok, Tóth Árpád utca",
+      "updates": [
+        {
+          "title": "Eloltották a siófoki garázs tüzét",
+          "datetime": "2026.10.26. 12:11",
+          "category": "Tűzeset",
+          "text": "A Tóth Árpád utcában gyulladt ki egy lemezgarázs. A lángok nem jelentettek veszélyt a közeli lakóházra. A siófoki hivatásos tűzoltók három vízsugárral körülhatárolták, majd eloltották a tüzet.",
+          "location": "Siófok, Tóth Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93149"
+        }
+      ]
     },
     {
       "id": "93148",
@@ -108,9 +117,9 @@
       "title": "Villanyóra égett egy váci lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93147",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Káptalan utcában keletkezett tűz, amelyet eloltottak a tűzoltók.",
+      "body": "Kisebb tűz keletkezett Vácon, a Káptalan utcában, egy hétlakásos ház egyik lakásában. A villanyóra gyulladt ki. A város hivatásos tűzoltó porral oltóval eloltották a tüzet, majd átvizsgálták és kiszellőztették az ingatlant.",
+      "location": "Vác, Káptalan utca",
       "updates": []
     },
     {
