@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T12:08:11.830380+00:00",
-  "count": 3593,
+  "updated_at": "2026-10-26T12:11:27.675001+00:00",
+  "count": 3594,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93155",
+      "datetime": "2026.10.26. 13:10",
+      "title": "Árokba hajtott egy autó Kálmánházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93155",
+      "lead": "A 3317-es úton, a megyehatárnál történt a baleset.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi a 3317-es út 40-41-es kilométere között, Kálmánháza közelében. A Hajdú-Bihar és Szabolcs-Szatmár-Bereg megye határán történt balesethez a hajdúnánási hivatásos tűzoltók vonultak. Az egység áramtalanította az autót. A kocsiban ketten utaztak, a helyszínre mentő is érkezett.",
+      "location": "Kálmánháza, 3317",
+      "updates": []
+    },
     {
       "id": "93154",
       "datetime": "2026.10.26. 12:09",
@@ -170,9 +181,9 @@
       "title": "Égett egy autó Monorierdőn",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93141",
-      "lead": "A Vadász utcába riasztották a monori tűzoltókat.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi Monorierdőn, a Vadász utcában. A monori hivatásos tűzoltók légzésvédelem mellett, két vízsugárral eloltották a lángokat. A járműben senki nem tartózkodott.",
-      "location": "Monorierdő, Vadász utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
