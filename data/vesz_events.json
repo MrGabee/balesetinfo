@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T05:15:07.560356+00:00",
-  "count": 3572,
+  "updated_at": "2026-10-26T05:18:30.239004+00:00",
+  "count": 3573,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93134",
+      "datetime": "2026.10.26. 06:17",
+      "title": "Baleset történt Hegyeshalmon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93134",
+      "lead": "A tűzoltókat az 1-es főútra riasztották.",
+      "body": "Egy utánfutós gépkocsi parkoló járműnek ütközött Hegyeshalmon, Fő utcában, azaz az 1-es főúton, a Széchenyi utca közelében. A mosonmagyaróvári hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Hegyeshalom, Fő utca",
+      "updates": []
+    },
     {
       "id": "93133",
       "datetime": "2026.10.26. 05:55",
