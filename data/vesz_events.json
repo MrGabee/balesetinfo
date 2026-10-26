@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T11:00:17.640945+00:00",
-  "count": 3591,
+  "updated_at": "2026-10-26T11:03:55.239603+00:00",
+  "count": 3592,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93153",
+      "datetime": "2026.10.26. 12:03",
+      "title": "Két baleset is történt a 3823-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93153",
+      "lead": "Kemecse és Nyírbogdány között van szükség tűzoltói beavatkozásra.",
+      "body": "Felborult egy személyautó a 3823-as út Kemecse és Nyírbogdány közötti szakaszán, a 31. kilométernél. A tetején állt meg a jármű, amelyben egy ember utazott. A helyszíntől mintegy száz-kétszáz méterre történt egy karambol is: egymásba futott három személyautó. Mindkét balesetnél a nyíregyházi hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nyírbogdány, 3823",
+      "updates": []
+    },
     {
       "id": "93152",
       "datetime": "2026.10.26. 11:56",
@@ -117,9 +128,9 @@
       "title": "Tűz keletkezett egy huszadik kerületi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93143",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltókat a Bulcsú utcába riasztották.",
+      "body": "Berendezési tárgyak égtek egy budapesti, huszadik kerületi családi ház felső szintjén. A Bulcsú utcai épületbe a fővárosi hivatásos tűzoltók légzésvédelem mellett mentek be, és eloltották a nagyjából öt négyzetméteren égő tüzet. A tűz elérte a tetőteret is, az egységek megszüntetik a beizzásokat.",
+      "location": "Budapest, Bulcsú utca",
       "updates": []
     },
     {
@@ -239,16 +250,7 @@
       "lead": "A Szeréna úton csaptak fel a lángok.",
       "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
       "location": "Budapest, Szeréna út",
-      "updates": [
-        {
-          "title": "A tűzoltók utómunkálatokat végeznek a II. kerületben",
-          "datetime": "2026.10.26. 08:26",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat a tűzoltók Budapest II. kerületében, a Szeréna úton, ahol egy harmadik emeleti társasházi lakás égett. A fővárosi katasztrófavédelmi műveleti szolgálat mellett a fővárosi hivatásos és a rózsadombi önkéntes tűzoltók három vízsugárral fékezték meg a tüzet. Jelenleg az utómunkálatokat zajlanak.",
-          "location": "Budapest, Szeréna út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93133"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93132",
@@ -347,7 +349,16 @@
       "lead": "A Kossuth Lajos utcában csaptak fel a lángok.",
       "body": "Kigyulladt egy disznóól Csikérián, a Kossuth Lajos utcában. A negyven négyzetméteres ól teljes terjedelmében ég. A bácsalmási önkormányzati és önkéntes tűzoltók már két vízsugárral körülhatárolták a lángokat.",
       "location": "Csikéria, Kossuth Lajos utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek a tűzoltók Csikérián",
+          "datetime": "2026.10.25. 17:23",
+          "category": "Tűzeset",
+          "text": "Utómunkálatokat végeznek a tűzoltók Csikérián, a Kossuth Lajos utcában, ahol egy négyzetméteres disznóól teljes terjedelmében égett. A kiskunhalasi hivatásos, a bácsalmási önkormányzati és önkéntes tűzoltók több vízsugárral és kéziszerszámokkal oltották el a lángokat. A munkálatokat egy kiskunhalasi vízszállító jármű is segíti.",
+          "location": "Csikéria, Kossuth Lajos utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93124/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93124"
+        }
+      ]
     },
     {
       "id": "93123",
