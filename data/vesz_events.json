@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T09:57:48.854435+00:00",
-  "count": 3585,
+  "updated_at": "2026-10-26T10:01:16.869340+00:00",
+  "count": 3586,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93147",
+      "datetime": "2026.10.26. 10:59",
+      "title": "Villanyóra égett egy váci lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93147",
+      "lead": "A Káptalan utcában keletkezett tűz, amelyet eloltottak a tűzoltók.",
+      "body": "Kisebb tűz keletkezett Vácon, a Káptalan utcában, egy hétlakásos ház egyik lakásában. A villanyóra gyulladt ki. A város hivatásos tűzoltó porral oltóval eloltották a tüzet, majd átvizsgálták és kiszellőztették az ingatlant.",
+      "location": "Vác, Káptalan utca",
+      "updates": []
+    },
     {
       "id": "93146",
       "datetime": "2026.10.26. 10:50",
@@ -42,9 +53,9 @@
       "title": "Tűz keletkezett egy huszadik kerületi házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93143",
-      "lead": "A tűzoltókat a Bulcsú utcába riasztották.",
-      "body": "Berendezési tárgyak égtek egy budapesti, huszadik kerületi családi ház felső szintjén. A Bulcsú utcai épületbe a fővárosi hivatásos tűzoltók légzésvédelem mellett mentek be, és eloltották a nagyjából öt négyzetméteren égő tüzet. A tűz elérte a tetőteret is, az egységek megszüntetik a beizzásokat.",
-      "location": "Budapest, Bulcsú utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
