@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-26T07:04:59.520443+00:00",
-  "count": 3579,
+  "updated_at": "2026-10-26T07:08:13.101204+00:00",
+  "count": 3580,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93141",
+      "datetime": "2026.10.26. 08:06",
+      "title": "Égett egy autó Monorierdőn",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93141",
+      "lead": "A Vadász utcába riasztották a monori tűzoltókat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi Monorierdőn, a Vadász utcában. A monori hivatásos tűzoltók légzésvédelem mellett, két vízsugárral eloltották a lángokat. A járműben senki nem tartózkodott.",
+      "location": "Monorierdő, Vadász utca",
+      "updates": []
+    },
     {
       "id": "93140",
       "datetime": "2026.10.26. 08:03",
