@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-26T10:39:09.276222+00:00",
-  "count": 3586,
+  "updated_at": "2026-10-26T10:42:44.560326+00:00",
+  "count": 3588,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93149",
+      "datetime": "2026.10.26. 11:42",
+      "title": "Kigyulladt egy garázs Siófokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149",
+      "lead": "A város tűzoltói a Tóth Árpád utcába vonultak.",
+      "body": "Tűz ütött ki egy nagyjából huszonöt négyzetméteres, lemezből készült garázsban Siófokon. A Tóth Árpád utcai helyszínre a város hivatásos tűzoltóságának két gépjárműfecskendőjét és a vízszállítót riasztották. Az egységek két vízsugárral kezdték oltani a teljes terjedelmében égő építményt.",
+      "location": "Siófok, Tóth Árpád utca",
+      "updates": []
+    },
+    {
+      "id": "93148",
+      "datetime": "2026.10.26. 11:39",
+      "title": "Árokba borult egy autó Fehérgyarmaton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93148",
+      "lead": "A tűzoltók a Kisgyarmat utcában áramtalanították a járművet.",
+      "body": "Megcsúszott és árokba borult egy személyautó Fehérgyarmaton, a Kisgyarmat utcában, a Kodály köz közelében. A járműben egy ember utazott, aki ki tudott szállni. A város hivatásos tűzoltói áramtalanították a gépkocsit.",
+      "location": "Fehérgyarmat, Kisgyarmat utca",
+      "updates": []
+    },
     {
       "id": "93147",
       "datetime": "2026.10.26. 10:59",
@@ -181,10 +203,19 @@
       "title": "Lakás ég a II. kerületben",
       "category": "Lakás ég a II. kerületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Szeréna úton csaptak fel a lángok.",
+      "body": "Kigyulladt egy társasházi lakás Budapest II. kerületében, a Szeréna úton. A fővárosi hivatásos és a rózsadombi önkéntes tűzoltók oltják a lángokat. A fővárosi katasztrófavédelmi műveleti szolgálat is a helyszínen dolgozik.",
+      "location": "Budapest, Szeréna út",
+      "updates": [
+        {
+          "title": "A tűzoltók utómunkálatokat végeznek a II. kerületben",
+          "datetime": "2026.10.26. 08:26",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat a tűzoltók Budapest II. kerületében, a Szeréna úton, ahol egy harmadik emeleti társasházi lakás égett. A fővárosi katasztrófavédelmi műveleti szolgálat mellett a fővárosi hivatásos és a rózsadombi önkéntes tűzoltók három vízsugárral fékezték meg a tüzet. Jelenleg az utómunkálatokat zajlanak.",
+          "location": "Budapest, Szeréna út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93133/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93133"
+        }
+      ]
     },
     {
       "id": "93132",
