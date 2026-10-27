@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T07:28:27.848645+00:00",
+  "updated_at": "2026-10-27T07:32:10.915831+00:00",
   "count": 3622,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -9,9 +9,9 @@
       "title": "Hármas karambol Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93183",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kada és a Cserkesz utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött három személyautó Budapest X. kerületében, a Kada és a Cserkesz utca kereszteződésében. Az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók áramtalanítják a gépkocsikat. A balesethez a mentőket is riasztották. Az érintett útszakaszon forgalmi akadály van, amely a közösségi közlekedést is érinti.",
+      "location": "Budapest, Kada utca",
       "updates": []
     },
     {
@@ -106,9 +106,9 @@
       "title": "Utoléréses baleset történt Kecskemét és Hetényegyháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93175",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 5218-as út 3-as kilométerénél két személykocsi karambolozott.",
+      "body": "Összeütközött két autó Hetényegyháza és Kecskemét között, a megyeszékhely közelében. Az 5218-as út 3-as kilométerénél történt utoléréses balesethez a kecskeméti hivatásos tűzoltók vonultak, áramtalanították a kocsikat, illetve homokkal felitatták a kifolyt hűtőfolyadékot. Mindkét járműben csak annak vezetője utazott, a sofőrökhöz mentő érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, 5218",
       "updates": []
     },
     {
@@ -371,7 +371,16 @@
       "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
       "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.10.26. 16:10",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93152/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93152"
+        }
+      ]
     },
     {
       "id": "93151",
@@ -379,9 +388,9 @@
       "title": "Karambol Miskolcon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93151",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Erdő soron végeztek műszaki mentést a tűzoltók.",
+      "body": "Frontálisan karambolozott két személygépkocsi Miskolcon, az Erdő soron. A balesethez a város hivatásos tűzoltóit riasztották, akik áramtalanították a járműveket. A helyszínre vonultak a mentők is.",
+      "location": "Miskolc, Erdő sor",
       "updates": []
     },
     {
@@ -404,7 +413,16 @@
       "lead": "A város tűzoltói a Tóth Árpád utcába vonultak.",
       "body": "Tűz ütött ki egy nagyjából huszonöt négyzetméteres, lemezből készült garázsban Siófokon. A Tóth Árpád utcai helyszínre a város hivatásos tűzoltóságának két gépjárműfecskendőjét és a vízszállítót riasztották. Az egységek két vízsugárral kezdték oltani a teljes terjedelmében égő építményt.",
       "location": "Siófok, Tóth Árpád utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a siófoki garázs tüzét",
+          "datetime": "2026.10.26. 12:11",
+          "category": "Tűzeset",
+          "text": "A Tóth Árpád utcában gyulladt ki egy lemezgarázs. A lángok nem jelentettek veszélyt a közeli lakóházra. A siófoki hivatásos tűzoltók három vízsugárral körülhatárolták, majd eloltották a tüzet.",
+          "location": "Siófok, Tóth Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93149"
+        }
+      ]
     },
     {
       "id": "93148",
@@ -437,7 +455,16 @@
       "lead": "A tűzoltók a Közép utcában oltják a lángokat.",
       "body": "Kigyulladt egy körülbelül száz négyzetméteres melléképület Beleden, a Közép utcában. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is.",
       "location": "Beled, Közép utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nem lángol a melléképület Beleden",
+          "datetime": "2026.10.26. 11:27",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Beleden, a Közép utcában, ahol kigyulladt egy körülbelül száz négyzetméteres melléképület. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi és a répcelaki önkéntes tűzoltók a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral fékezték meg a lángokat, amelyek a szomszéd épületekre nem terjedtek át.  A rajok megszüntetik a még meglévő izzásokat.",
+          "location": "Beled, Közép utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93146"
+        }
+      ]
     },
     {
       "id": "93145",
