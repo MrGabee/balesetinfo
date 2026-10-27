@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T13:34:57.959270+00:00",
-  "count": 3637,
+  "updated_at": "2026-10-27T13:38:46.648000+00:00",
+  "count": 3638,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93199",
+      "datetime": "2026.10.27. 14:37",
+      "title": "Mozdonytűz Ócsa közelében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93199",
+      "lead": "A tűzoltók elfojtották a motortérben keletkezett lángokat.",
+      "body": "Kigyulladt egy személyvonatot vontató dízelmozdony Ócsa és Felsőpakony között. A motortérben keletkezett tűz, amelynek lángjait két habosított vízsugárral eloltották a fővárosi hivatásos tűzoltók. A beavatkozást a Pest megyei katasztrófavédelmi műveleti szolgálat irányította. Az utasok rendben leszálltak a vonatról.",
+      "location": "Ócsa, Ócsa közelében",
+      "updates": []
+    },
     {
       "id": "93198",
       "datetime": "2026.10.27. 13:59",
@@ -221,7 +232,16 @@
       "lead": "A Nyugativánfa utcába a város több egysége vonult.",
       "body": "Kigyulladt egy családi ház teteje Kaposváron, a Nyugativánfa utcában. Az esethez a megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel, illetve a vízszállítóval vonultak. Az egységek három vízsugárral kezdték oltani a lángokat, illetve megbontották a tetőt is. Emellett védik a szomszéd házat is a tűztől.",
       "location": "Kaposvár, Nyugativánfa utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a kaposvári tüzet",
+          "datetime": "2026.10.27. 09:02",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Kaposváron, a Nyugativánfa utcában keletkezett. Egy családi ház tetőszerkezete gyulladt ki. A megyeszékhely hivatásos tűzoltói a tetőt megbontva, három vízsugárral fékezték meg a lángokat, és hőkamerával átvizsgálták az épületet. A tetőszerkezet megsemmisült, a ház lakhatatlanná vált a tűz következtében.",
+          "location": "Kaposvár, Nyugativánfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93179"
+        }
+      ]
     },
     {
       "id": "93178",
