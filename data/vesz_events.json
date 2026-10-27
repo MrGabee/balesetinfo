@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-27T14:14:23.594838+00:00",
-  "count": 3638,
+  "updated_at": "2026-10-27T14:18:16.600473+00:00",
+  "count": 3640,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93201",
+      "datetime": "2026.10.27. 15:18",
+      "title": "Karambolozott két autó Tiszabercel közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93201",
+      "lead": "A 3823-as úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó a 3823-as úton, Tiszabercel közelében. Mindkét jármű az árokba sodródott, az egyik a tetejére borult. Az egyik gépkocsiból nem tudott kiszállni egy ember. Őt feszítővágóval kiszabadították, majd a mentőkkel közösen kiemelték a műszaki mentést végző nyíregyházi hivatásos és ibrányi önkormányzati tűzoltók. A rajok áramtalanították az autókat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tiszabercel, 3823",
+      "updates": []
+    },
+    {
+      "id": "93200",
+      "datetime": "2026.10.27. 15:17",
+      "title": "Árokba borult egy autó Jászberény és Jásztelek között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93200",
+      "lead": "A 32-es főútra vonultak a tűzoltók.",
+      "body": "Árokba borult egy személyautó a 32-es főút Jászberény és Jásztelek közötti szakaszán, a 31-es kilométerszelvénynél. A műszaki mentést a jászberényi hivatásos tűzoltók végzik. Az érintett útszakaszon zavartalanul halad a forgalom.",
+      "location": "Jászberény, 32",
+      "updates": []
+    },
     {
       "id": "93199",
       "datetime": "2026.10.27. 14:37",
