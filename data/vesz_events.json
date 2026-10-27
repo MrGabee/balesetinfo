@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T18:29:12.059187+00:00",
-  "count": 3646,
+  "updated_at": "2026-10-27T18:32:42.398837+00:00",
+  "count": 3647,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93208",
+      "datetime": "2026.10.27. 19:32",
+      "title": "Pincetűz Pomázon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93208",
+      "lead": "A Táncsics Mihály utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi ház pincéjében Pomázon, a Táncsics Mihály utcában. A helyiségben kazán, valamint mellette berendezési tárgyak égtek. A szentendrei hivatásos és a pomázi önkormányzati tűzoltók egy gázpalackot hoztak ki a pincéből, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Pomáz, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "93207",
       "datetime": "2026.10.27. 19:28",
