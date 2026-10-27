@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T12:58:13.905919+00:00",
-  "count": 3636,
+  "updated_at": "2026-10-27T13:02:32.553565+00:00",
+  "count": 3637,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93198",
+      "datetime": "2026.10.27. 13:59",
+      "title": "Baleset történt az M0-áson, Dunaharasztinál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93198",
+      "lead": "A lehajtót lezárták.",
+      "body": "Átszakította a szalagkorlátot majd árokba hajtott egy személyautó az M0-ás autóút M5-ös autópálya felé vezető oldalán, a dunaharaszti lehajtó közelében. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszon a lehajtót lezárták.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "93197",
       "datetime": "2026.10.27. 13:41",
@@ -366,9 +377,9 @@
       "title": "Baleset miatt lezárták a 6819-es utat Berzencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93167",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 2-es kilométernél két személykocsi rohant egymásba.",
+      "body": "Összeütközött két autó a 6819-es út 2-es kilométerénél, Berzence határában. Az egyik jármű árokba is hajtott, a másik az úton maradt. A járművekben összesen hárman utaztak, az utasokhoz mentőt riasztottak. A berzencei önkéntes és a csurgói önkormányzati tűzoltók végzik a műszaki mentést, áramtalanították az autókat. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Berzence, 6819",
       "updates": []
     },
     {
@@ -399,9 +410,9 @@
       "title": "Árokba hajtott egy autó a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93164",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 36-os kilométerhez riasztották a nyíregyházi tűzoltókat.",
+      "body": "Lesodródott az úttestről, árokba hajtott és ott felborult egy személykocsi a 36-os főút 36-os kilométerénél, Nagycserkesz és Tiszavasvári között. Az autóban csak a sofőr ült, mentőt riasztottak hozzá. A nyíregyházi hivatásos tűzoltók vonultak az esethez. A főút érintett szakaszát félpályán lezárták.",
+      "location": "Nagycserkesz, 36",
       "updates": []
     },
     {
@@ -443,9 +454,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M25-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93160",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 14-15-ös kilométer között, Andornaktálya közelében történt a baleset.",
+      "body": "Szalagkorlátnak ütközött egy személykocsi az M25-ös autóúton, Andornaktálya térségében. A 14-15-ös kilométer között történt balesethez a füzesabonyi hivatásos tűzoltók vonultak, az egység áramtalanított. A járműben ketten utaztak, a helyszínre mentőt is riasztottak. Az autóút érintett szakaszán fennakadásra kell számítani.",
+      "location": "Andornaktálya, M25",
       "updates": []
     },
     {
