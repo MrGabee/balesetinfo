@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:50:49.407727+00:00",
+  "updated_at": "2026-10-27T12:54:40.125850+00:00",
   "count": 3636,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -18,11 +18,11 @@
       "id": "93196",
       "datetime": "2026.10.27. 13:20",
       "title": "Autótűz Budapest XIII. kerületében",
-      "category": "Közlekedési baleset",
+      "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93196",
       "lead": "A Szent László úton csaptak föl a lángok.",
-      "body": "Teljes terjedelmében égett egy személyautó Budapest XIII. kerületében, a Róbert Károly körút és a Szent László út kereszteződésében. A fővárosi hivatásos tűzoltók eloltották a lángokat. A raj utómunkálatokat végez.",
-      "location": "Budapest, Szent László út",
+      "body": "Teljes terjedelmében égett egy személyautó Budapest XIII. kerületében, a Róbert Károly körút és a Szent László út találkozásánál. A fővárosi hivatásos tűzoltók eloltották a lángokat. A raj utómunkálatokat végez.",
+      "location": "Budapest, Róbert Károly körút",
       "updates": []
     },
     {
@@ -218,9 +218,9 @@
       "title": "Baleset történt a tornyosnémeti határátkelőnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93178",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az M30-as autópálya végén egy kamion szalagkorlátnak hajtott és átszakította azt.",
+      "body": "El akart kerülni egy ütközést, ezért félrerántotta a kormányt annak a kamionnak a vezetője, amely a tornyosnémeti határátkelőnél szenvedett balesetet. A jármű az M30-as sztráda végén, a Budapest felé vezető oldalon szalagkorlátnak hajtott, átszakította azt. A vontatórész megdőlt. A gönci hivatásos tűzoltók vonultak az esethez. A jármű áramtalanítását később végzik el, biztosítják a helyszínt.",
+      "location": "Tornyosnémeti, M30",
       "updates": []
     },
     {
@@ -335,9 +335,9 @@
       "title": "Baleset történt Pápa és Kéttornyúlak között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93169",
-      "lead": "A 8403-as út érintett szakaszán megállították a forgalmat.",
-      "body": "Álló autóba hajtott egy másik személykocsi a 8403-as út 31-es kilométerénél, Pápa és Kéttornyúlak között. Az álló kocsiban nem tartózkodott senki, a másik járműben ketten ültek. A helyszínre mentő is érkezett. A pápai hivatásos tűzoltók áramtalanítottak. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
-      "location": "Pápa, 8403",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
