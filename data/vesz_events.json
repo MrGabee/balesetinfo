@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T06:09:01.560689+00:00",
-  "count": 3614,
+  "updated_at": "2026-10-27T06:12:30.812586+00:00",
+  "count": 3615,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93176",
+      "datetime": "2026.10.27. 07:12",
+      "title": "Tűz volt egy dunaföldvári épületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176",
+      "lead": "A Völgy utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy nagyjából kilenc négyzetméteres melléképület Dunaföldváron, a Völgy utcában. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, akik azonnal megkezdték az oltást. A beavatkozáshoz pár percen belül csatlakoztak a solti hivatásos tűzoltók is. Az egységek rövid idő alatt eloltották a lakatlan épület tüzét.",
+      "location": "Dunaföldvár, Völgy utca",
+      "updates": []
+    },
     {
       "id": "93175",
       "datetime": "2026.10.27. 06:49",
