@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T09:00:33.485725+00:00",
-  "count": 3628,
+  "updated_at": "2026-10-27T09:03:56.784913+00:00",
+  "count": 3629,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93190",
+      "datetime": "2026.10.27. 10:01",
+      "title": "Lesodródott egy autó az 56-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93190",
+      "lead": "Mohács közelében félpályán halad a forgalom.",
+      "body": "Lesodródott az útról egy személyautó az 56-os főúton, Mohács közelében, a 47-es kilométerszelvénynél. A balesethez a mohácsi hivatásos tűzoltókat riasztották, akik áramtalanítják a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mohács, 56",
+      "updates": []
+    },
     {
       "id": "93189",
       "datetime": "2026.10.27. 09:50",
@@ -214,9 +225,9 @@
       "title": "Kisbusz és személykocsi karambolozott Jászfényszarun",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93172",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szabadság útra helyi és jászberényi tűzoltók vonultak.",
+      "body": "Frontálisan karambolozott egy kisbusz és egy személyautó Jászfényszarun, a Szabadság úton. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, azután a jászberényi hivatásos tűzoltók is csatlakoztak a munkálatokhoz. Az egységek áramtalanították egy egyik járművet, a másik feszültségmentesítésére nem volt szükség, mert annak az eleje szétroncsolódott. A kisbuszban heten utaztak, a személykocsiban csak a sofőr ült, a helyszínre mentő érkezett.",
+      "location": "Jászfényszaru, Szabadság út",
       "updates": []
     },
     {
