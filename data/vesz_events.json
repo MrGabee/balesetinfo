@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T12:19:58.367908+00:00",
-  "count": 3634,
+  "updated_at": "2026-10-27T12:23:47.708831+00:00",
+  "count": 3635,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93196",
+      "datetime": "2026.10.27. 13:20",
+      "title": "Autótűz Budapest XIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93196",
+      "lead": "A Szent László úton csaptak föl a lángok.",
+      "body": "Teljes terjedelmében égett egy személyautó Budapest XIII. kerületében, a Róbert Károly körút és a Szent László út kereszteződésében. A fővárosi hivatásos tűzoltók eloltották a lángokat. A raj utómunkálatokat végez.",
+      "location": "Budapest, Szent László út",
+      "updates": []
+    },
     {
       "id": "93195",
       "datetime": "2026.10.27. 12:29",
@@ -421,9 +432,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M25-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93160",
-      "lead": "A 14-15-ös kilométer között, Andornaktálya közelében történt a baleset.",
-      "body": "Szalagkorlátnak ütközött egy személykocsi az M25-ös autóúton, Andornaktálya térségében. A 14-15-ös kilométer között történt balesethez a füzesabonyi hivatásos tűzoltók vonultak, az egység áramtalanított. A járműben ketten utaztak, a helyszínre mentőt is riasztottak. Az autóút érintett szakaszán fennakadásra kell számítani.",
-      "location": "Andornaktálya, M25",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
