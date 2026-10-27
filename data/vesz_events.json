@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T06:48:11.728346+00:00",
-  "count": 3619,
+  "updated_at": "2026-10-27T06:51:16.663746+00:00",
+  "count": 3620,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93181",
+      "datetime": "2026.10.27. 07:48",
+      "title": "Baleset történt Tiszaszentmárton és Eperjeske között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93181",
+      "lead": "A 4115-ös úton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Tiszaszentmárton és Eperjeske között, a 4115-ös út 9-es kilométerszelvénynél. A balesethez a záhonyi hivatásos tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tiszaszentmárton, 4115",
+      "updates": []
+    },
     {
       "id": "93180",
       "datetime": "2026.10.27. 07:40",
