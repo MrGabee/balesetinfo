@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T05:41:11.747057+00:00",
-  "count": 3612,
+  "updated_at": "2026-10-27T05:44:53.536726+00:00",
+  "count": 3613,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93174",
+      "datetime": "2026.10.27. 06:42",
+      "title": "Karambol a Petőfi híd budai hídfőjénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93174",
+      "lead": "A Műegyetem rakpart és az Egry József utca kereszteződésénél két autó ütközött össze.",
+      "body": "Egymásba hajtott két személykocsi Budapest tizenegyedik kerületében, a Petőfi híd budai hídfőjénél. A Műegyetem rakpart és az Egry József utca kereszteződésénél történt balesetnél mindkét jármű mozgásképtelenné vált, az autók kidöntöttek egy forgalmi lámpát tartó oszlopot is. A fővárosi hivatásos tűzoltók áramtalanítottak. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Budapest, Műegyetem rakpart",
+      "updates": []
+    },
     {
       "id": "93173",
       "datetime": "2026.10.26. 23:06",
