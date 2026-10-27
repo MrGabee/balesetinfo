@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T07:17:08.756473+00:00",
+  "updated_at": "2026-10-27T07:21:07.760924+00:00",
   "count": 3621,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -78,16 +78,7 @@
       "lead": "A Völgy utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy nagyjából kilenc négyzetméteres melléképület Dunaföldváron, a Völgy utcában. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, akik azonnal megkezdték az oltást. A beavatkozáshoz pár percen belül csatlakoztak a solti hivatásos tűzoltók is. Az egységek rövid idő alatt eloltották a lakatlan épület tüzét.",
       "location": "Dunaföldvár, Völgy utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Dunaföldváron",
-          "datetime": "2026.10.27. 07:56",
-          "category": "Tűzeset",
-          "text": "A Völgy utcában egy melléképület gyulladt ki. Helyi önkéntes és solti hivatásos tűzoltók oltották el a kis területen égő, összehordott háztartási hulladékot. Az egységek már az utómunkálatoknál tartanak.",
-          "location": "Dunaföldvár, Völgy utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93176"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93175",
@@ -214,9 +205,9 @@
       "title": "Két autó karambolozott Abádszalók közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93165",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 3216-os és a 3221-es út találkozásánál történt a baleset.",
+      "body": "Egymásba hajtott két személykocsi a 3216-os és a 3221-es út találkozásánál, Abádszalók térségében. A két autóban összesen öten utaztak. A város önkormányzati tűzoltói végzik a műszaki mentést, emellett irányítják a forgalmat.",
+      "location": "Abádszalók, 3216",
       "updates": []
     },
     {
@@ -441,19 +432,10 @@
       "title": "Melléképület ég Beleden",
       "category": "Melléképület ég Beleden",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146",
-      "lead": "A tűzoltók a Közép utcában oltják a lángokat.",
-      "body": "Kigyulladt egy körülbelül száz négyzetméteres melléképület Beleden, a Közép utcában. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi önkéntes tűzoltók oltják a lángokat. A helyszínre érkezett a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat is.",
-      "location": "Beled, Közép utca",
-      "updates": [
-        {
-          "title": "Már nem lángol a melléképület Beleden",
-          "datetime": "2026.10.26. 11:27",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Beleden, a Közép utcában, ahol kigyulladt egy körülbelül száz négyzetméteres melléképület. A kapuvári és a csornai hivatásos, a répcelaki önkormányzati, valamint a beledi és a répcelaki önkéntes tűzoltók a Győr-Moson-Sopron megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, négy vízsugárral fékezték meg a lángokat, amelyek a szomszéd épületekre nem terjedtek át.  A rajok megszüntetik a még meglévő izzásokat.",
-          "location": "Beled, Közép utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93146/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93146"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93145",
