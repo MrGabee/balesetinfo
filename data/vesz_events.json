@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T11:16:07.602768+00:00",
-  "count": 3632,
+  "updated_at": "2026-10-27T11:19:43.775103+00:00",
+  "count": 3633,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93194",
+      "datetime": "2026.10.27. 12:17",
+      "title": "Összeütközött két autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93194",
+      "lead": "A Péterfia utcába riasztották a tűzoltókat.",
+      "body": "Egymásnak ütközött két személyautó Debrecenben, a Péterfia utcában, az Ajtó és az Eötvös utca között. A város hivatásos tűzoltói áramtalanítják az egyik járművet, a másiknál nincs szükség ilyen beavatkozásra. A helyszínen vannak a mentők is.",
+      "location": "Debrecen, Péterfia utca",
+      "updates": []
+    },
     {
       "id": "93193",
       "datetime": "2026.10.27. 11:34",
