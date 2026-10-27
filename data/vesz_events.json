@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T06:55:04.997335+00:00",
+  "updated_at": "2026-10-27T06:58:33.269035+00:00",
   "count": 3620,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "93176",
-      "datetime": "2026.10.27. 07:12",
+      "datetime": "2026.10.27. 07:12 -",
       "title": "Tűz volt egy dunaföldvári épületben",
-      "category": "Tűzeset",
+      "category": "Tűz volt egy dunaföldvári épületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176",
       "lead": "A Völgy utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy nagyjából kilenc négyzetméteres melléképület Dunaföldváron, a Völgy utcában. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, akik azonnal megkezdték az oltást. A beavatkozáshoz pár percen belül csatlakoztak a solti hivatásos tűzoltók is. Az egységek rövid idő alatt eloltották a lakatlan épület tüzét.",
       "location": "Dunaföldvár, Völgy utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Dunaföldváron",
+          "datetime": "2026.10.27. 07:56",
+          "category": "Tűzeset",
+          "text": "A Völgy utcában egy melléképület gyulladt ki. Helyi önkéntes és solti hivatásos tűzoltók oltották el a kis területen égő, összehordott háztartási hulladékot. Az egységek már az utómunkálatoknál tartanak.",
+          "location": "Dunaföldvár, Völgy utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93176"
+        }
+      ]
     },
     {
       "id": "93175",
@@ -150,9 +159,9 @@
       "title": "Baleset történt Pápa és Kéttornyúlak között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93169",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8403-as út érintett szakaszán megállították a forgalmat.",
+      "body": "Álló autóba hajtott egy másik személykocsi a 8403-as út 31-es kilométerénél, Pápa és Kéttornyúlak között. Az álló kocsiban nem tartózkodott senki, a másik járműben ketten ültek. A helyszínre mentő is érkezett. A pápai hivatásos tűzoltók áramtalanítottak. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
+      "location": "Pápa, 8403",
       "updates": []
     },
     {
@@ -249,9 +258,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M25-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93160",
-      "lead": "A 14-15-ös kilométer között, Andornaktálya közelében történt a baleset.",
-      "body": "Szalagkorlátnak ütközött egy személykocsi az M25-ös autóúton, Andornaktálya térségében. A 14-15-ös kilométer között történt balesethez a füzesabonyi hivatásos tűzoltók vonultak, az egység áramtalanított. A járműben ketten utaztak, a helyszínre mentőt is riasztottak. Az autóút érintett szakaszán fennakadásra kell számítani.",
-      "location": "Andornaktálya, M25",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -382,16 +391,7 @@
       "lead": "A város tűzoltói a Tóth Árpád utcába vonultak.",
       "body": "Tűz ütött ki egy nagyjából huszonöt négyzetméteres, lemezből készült garázsban Siófokon. A Tóth Árpád utcai helyszínre a város hivatásos tűzoltóságának két gépjárműfecskendőjét és a vízszállítót riasztották. Az egységek két vízsugárral kezdték oltani a teljes terjedelmében égő építményt.",
       "location": "Siófok, Tóth Árpád utca",
-      "updates": [
-        {
-          "title": "Eloltották a siófoki garázs tüzét",
-          "datetime": "2026.10.26. 12:11",
-          "category": "Tűzeset",
-          "text": "A Tóth Árpád utcában gyulladt ki egy lemezgarázs. A lángok nem jelentettek veszélyt a közeli lakóházra. A siófoki hivatásos tűzoltók három vízsugárral körülhatárolták, majd eloltották a tüzet.",
-          "location": "Siófok, Tóth Árpád utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93149"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93148",
@@ -399,9 +399,9 @@
       "title": "Árokba borult egy autó Fehérgyarmaton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93148",
-      "lead": "A tűzoltók a Kisgyarmat utcában áramtalanították a járművet.",
-      "body": "Megcsúszott és árokba borult egy személyautó Fehérgyarmaton, a Kisgyarmat utcában, a Kodály köz közelében. A járműben egy ember utazott, aki ki tudott szállni. A város hivatásos tűzoltói áramtalanították a gépkocsit.",
-      "location": "Fehérgyarmat, Kisgyarmat utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -441,9 +441,9 @@
       "title": "Összeütközött három autó Tapolca és Gyulakeszi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93145",
-      "lead": "A 7316-os útra a tapolcai tűzoltókat riasztották.",
-      "body": "Egymásba hajtott három személykocsi a 7316-os út Tapolca és Gyulakeszi közötti szakaszán. A járművekben, amelyek közül az egyik elektromos meghajtású, összesen nyolcan utaztak. Az utasokhoz mentő érkezett. A tapolcai önkormányzati tűzoltók áramtalanítottak. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
-      "location": "Tapolca, 7316",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
