@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:30:39.419604+00:00",
+  "updated_at": "2026-10-27T08:34:36.753997+00:00",
   "count": 3627,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -111,7 +111,16 @@
       "lead": "A Nyugativánfa utcába a város több egysége vonult.",
       "body": "Kigyulladt egy családi ház teteje Kaposváron, a Nyugativánfa utcában. Az esethez a megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel, illetve a vízszállítóval vonultak. Az egységek három vízsugárral kezdték oltani a lángokat, illetve megbontották a tetőt is. Emellett védik a szomszéd házat is a tűztől.",
       "location": "Kaposvár, Nyugativánfa utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a kaposvári tüzet",
+          "datetime": "2026.10.27. 09:02",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Kaposváron, a Nyugativánfa utcában keletkezett. Egy családi ház tetőszerkezete gyulladt ki. A megyeszékhely hivatásos tűzoltói a tetőt megbontva, három vízsugárral fékezték meg a lángokat, és hőkamerával átvizsgálták az épületet. A tetőszerkezet megsemmisült, a ház lakhatatlanná vált a tűz következtében.",
+          "location": "Kaposvár, Nyugativánfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93179"
+        }
+      ]
     },
     {
       "id": "93178",
@@ -194,9 +203,9 @@
       "title": "Kisbusz és személykocsi karambolozott Jászfényszarun",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93172",
-      "lead": "A Szabadság útra helyi és jászberényi tűzoltók vonultak.",
-      "body": "Frontálisan karambolozott egy kisbusz és egy személyautó Jászfényszarun, a Szabadság úton. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, azután a jászberényi hivatásos tűzoltók is csatlakoztak a munkálatokhoz. Az egységek áramtalanították egy egyik járművet, a másik feszültségmentesítésére nem volt szükség, mert annak az eleje szétroncsolódott. A kisbuszban heten utaztak, a személykocsiban csak a sofőr ült, a helyszínre mentő érkezett.",
-      "location": "Jászfényszaru, Szabadság út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
