@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T08:24:12.185735+00:00",
-  "count": 3625,
+  "updated_at": "2026-10-27T08:27:13.588860+00:00",
+  "count": 3626,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93187",
+      "datetime": "2026.10.27. 09:25",
+      "title": "Összeütközött két autó Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93187",
+      "lead": "A Fonógyári úton történt a baleset.",
+      "body": "Két személyautó ütközött össze Szegeden, a Fonógyári úton, az Ikarusz köz közelében. A baleset következtében egy kandeláber is megsérült. A város hivatásos tűzoltói áramtalanították az egyik gépkocsit.",
+      "location": "Szeged, Fonógyári út",
+      "updates": []
+    },
     {
       "id": "93186",
       "datetime": "2026.10.27. 08:52",
