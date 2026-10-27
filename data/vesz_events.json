@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:54:40.125850+00:00",
+  "updated_at": "2026-10-27T12:58:13.905919+00:00",
   "count": 3636,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -207,10 +207,19 @@
       "title": "Kigyulladt egy családi ház Kaposváron",
       "category": "Kigyulladt egy családi ház Kaposváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Nyugativánfa utcába a város több egysége vonult.",
+      "body": "Kigyulladt egy családi ház teteje Kaposváron, a Nyugativánfa utcában. Az esethez a megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel, illetve a vízszállítóval vonultak. Az egységek három vízsugárral kezdték oltani a lángokat, illetve megbontották a tetőt is. Emellett védik a szomszéd házat is a tűztől.",
+      "location": "Kaposvár, Nyugativánfa utca",
+      "updates": [
+        {
+          "title": "Megfékezték a kaposvári tüzet",
+          "datetime": "2026.10.27. 09:02",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Kaposváron, a Nyugativánfa utcában keletkezett. Egy családi ház tetőszerkezete gyulladt ki. A megyeszékhely hivatásos tűzoltói a tetőt megbontva, három vízsugárral fékezték meg a lángokat, és hőkamerával átvizsgálták az épületet. A tetőszerkezet megsemmisült, a ház lakhatatlanná vált a tűz következtében.",
+          "location": "Kaposvár, Nyugativánfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93179"
+        }
+      ]
     },
     {
       "id": "93178",
@@ -335,9 +344,9 @@
       "title": "Baleset történt Pápa és Kéttornyúlak között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93169",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 8403-as út érintett szakaszán megállították a forgalmat.",
+      "body": "Álló autóba hajtott egy másik személykocsi a 8403-as út 31-es kilométerénél, Pápa és Kéttornyúlak között. Az álló kocsiban nem tartózkodott senki, a másik járműben ketten ültek. A helyszínre mentő is érkezett. A pápai hivatásos tűzoltók áramtalanítottak. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
+      "location": "Pápa, 8403",
       "updates": []
     },
     {
@@ -357,9 +366,9 @@
       "title": "Baleset miatt lezárták a 6819-es utat Berzencénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93167",
-      "lead": "A 2-es kilométernél két személykocsi rohant egymásba.",
-      "body": "Összeütközött két autó a 6819-es út 2-es kilométerénél, Berzence határában. Az egyik jármű árokba is hajtott, a másik az úton maradt. A járművekben összesen hárman utaztak, az utasokhoz mentőt riasztottak. A berzencei önkéntes és a csurgói önkormányzati tűzoltók végzik a műszaki mentést, áramtalanították az autókat. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Berzence, 6819",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -390,9 +399,9 @@
       "title": "Árokba hajtott egy autó a 36-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93164",
-      "lead": "A 36-os kilométerhez riasztották a nyíregyházi tűzoltókat.",
-      "body": "Lesodródott az úttestről, árokba hajtott és ott felborult egy személykocsi a 36-os főút 36-os kilométerénél, Nagycserkesz és Tiszavasvári között. Az autóban csak a sofőr ült, mentőt riasztottak hozzá. A nyíregyházi hivatásos tűzoltók vonultak az esethez. A főút érintett szakaszát félpályán lezárták.",
-      "location": "Nagycserkesz, 36",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -434,9 +443,9 @@
       "title": "Szalagkorlátnak hajtott egy autó az M25-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93160",
-      "lead": "A 14-15-ös kilométer között, Andornaktálya közelében történt a baleset.",
-      "body": "Szalagkorlátnak ütközött egy személykocsi az M25-ös autóúton, Andornaktálya térségében. A 14-15-ös kilométer között történt balesethez a füzesabonyi hivatásos tűzoltók vonultak, az egység áramtalanított. A járműben ketten utaztak, a helyszínre mentőt is riasztottak. Az autóút érintett szakaszán fennakadásra kell számítani.",
-      "location": "Andornaktálya, M25",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -456,9 +465,9 @@
       "title": "Árokba borult egy autó a 44-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93158",
-      "lead": "Szarvas közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Árokba hajtott és felborult egy személyautó a 44-es főúton, Szarvas közelében, a 78. és a 79. kilométer között. A tetejére borult a jármű, amelyben egy ember utazott. Ő ki tudott szállni. A szarvasi hivatásos tűzoltók áramtalanítják a gépkocsit.",
-      "location": "Szarvas, 44",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
