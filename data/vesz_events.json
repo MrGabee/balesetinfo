@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T06:37:50.487518+00:00",
-  "count": 3618,
+  "updated_at": "2026-10-27T06:41:21.330893+00:00",
+  "count": 3619,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93180",
+      "datetime": "2026.10.27. 07:40",
+      "title": "Tűz volt egy hulladékfeldolgozó üzem területén Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93180",
+      "lead": "Az Ipar utcában oltották el a lángokat.",
+      "body": "Kisebb tűz volt egy hulladékfeldolgozó üzem területén Kecskeméten, az Ipar utcában. A telephelyen egy darálógép égett teljes terjedelmében. A kecskeméti hivatásos tűzoltók légzésvédelem mellett eloltották a lángokat. A munkálatokat a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+      "location": "Kecskemét, Ipar utca",
+      "updates": []
+    },
     {
       "id": "93179",
       "datetime": "2026.10.27. 07:32",
@@ -357,10 +368,19 @@
       "title": "Kigyulladt egy garázs Siófokon",
       "category": "Kigyulladt egy garázs Siófokon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A város tűzoltói a Tóth Árpád utcába vonultak.",
+      "body": "Tűz ütött ki egy nagyjából huszonöt négyzetméteres, lemezből készült garázsban Siófokon. A Tóth Árpád utcai helyszínre a város hivatásos tűzoltóságának két gépjárműfecskendőjét és a vízszállítót riasztották. Az egységek két vízsugárral kezdték oltani a teljes terjedelmében égő építményt.",
+      "location": "Siófok, Tóth Árpád utca",
+      "updates": [
+        {
+          "title": "Eloltották a siófoki garázs tüzét",
+          "datetime": "2026.10.26. 12:11",
+          "category": "Tűzeset",
+          "text": "A Tóth Árpád utcában gyulladt ki egy lemezgarázs. A lángok nem jelentettek veszélyt a közeli lakóházra. A siófoki hivatásos tűzoltók három vízsugárral körülhatárolták, majd eloltották a tüzet.",
+          "location": "Siófok, Tóth Árpád utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93149/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93149"
+        }
+      ]
     },
     {
       "id": "93148",
