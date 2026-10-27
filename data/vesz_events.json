@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T08:49:16.135331+00:00",
-  "count": 3627,
+  "updated_at": "2026-10-27T08:53:11.994809+00:00",
+  "count": 3628,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93189",
+      "datetime": "2026.10.27. 09:50",
+      "title": "Egymásnak ütközött két gépkocsi Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93189",
+      "lead": "A Széksósi úton van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött egy tehergépkocsi és egy személyautó Szegeden, a Széksósi úton. A város hivatásos tűzoltói áramtalanították a személygépkocsit, amelyben egy ember utazott. Őt a mentők vizsgálják.",
+      "location": "Szeged, Széksósi út",
+      "updates": []
+    },
     {
       "id": "93188",
       "datetime": "2026.10.27. 09:30",
