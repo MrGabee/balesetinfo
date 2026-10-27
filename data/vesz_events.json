@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T18:26:05.306949+00:00",
-  "count": 3645,
+  "updated_at": "2026-10-27T18:29:12.059187+00:00",
+  "count": 3646,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93207",
+      "datetime": "2026.10.27. 19:28",
+      "title": "Két autó karambolozott Nyíregyháza közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93207",
+      "lead": "A 4-es főúton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Nyíregyháza közelében, a 4-es főúton, az M3-as autópálya közelében. A műszaki mentést a nyíregyházi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, 4",
+      "updates": []
+    },
     {
       "id": "93206",
       "datetime": "2026.10.27. 19:14",
