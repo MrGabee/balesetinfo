@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T06:15:54.103451+00:00",
-  "count": 3615,
+  "updated_at": "2026-10-27T06:19:17.263812+00:00",
+  "count": 3616,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93177",
+      "datetime": "2026.10.27. 07:19",
+      "title": "Hármas karambol a 65-ös főúton, Ságvár és Som között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93177",
+      "lead": "A 72-73-as kilométere közötti balesethez a siófoki tűzoltókat riasztották.",
+      "body": "Egymásba hajtott három autó a 65-ös főút Ságvár és Som közötti szakaszán. A 72-73-as kilométer között történt balesetben hat ember érintett, az utasokhoz mentő érkezett. A siófoki hivatásos tűzoltók áramtalanítottak. A főút érintett szakaszán átmenetileg tűzoltói irányítás mellett, félpályán halad a forgalom.",
+      "location": "Nyim, 65",
+      "updates": []
+    },
     {
       "id": "93176",
       "datetime": "2026.10.27. 07:12",
