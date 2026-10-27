@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T11:26:30.783104+00:00",
-  "count": 3633,
+  "updated_at": "2026-10-27T11:29:51.369158+00:00",
+  "count": 3634,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93195",
+      "datetime": "2026.10.27. 12:29",
+      "title": "Összeütközött két autó Angyalföldön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93195",
+      "lead": "A Róbert Károly körút és a Lehel utca kereszteződésénél forgalmi akadály van.",
+      "body": "Karambolozott két személyautó Budapest XIII. kerületében, a Róbert Károly körút és a Lehel utca kereszteződésénél. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél. A raj áramtalanította a járműveket, és segített kiszállni a bennük utazóknak. A karambol helyszínén, a Róbert Károly körúton két sávon forgalmi akadály van.",
+      "location": "Budapest, Róbert Károly, Lehel utca",
+      "updates": []
+    },
     {
       "id": "93194",
       "datetime": "2026.10.27. 12:17",
