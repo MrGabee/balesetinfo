@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T06:30:13.601863+00:00",
-  "count": 3617,
+  "updated_at": "2026-10-27T06:33:58.039841+00:00",
+  "count": 3618,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93179",
+      "datetime": "2026.10.27. 07:32",
+      "title": "Kigyulladt egy családi ház Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179",
+      "lead": "A Nyugativánfa utcába a város több egysége vonult.",
+      "body": "Kigyulladt egy családi ház teteje Kaposváron, a Nyugativánfa utcában. Az esethez a megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel, illetve a vízszállítóval vonultak. Az egységek három vízsugárral kezdték oltani a lángokat, illetve megbontották a tetőt is. Emellett védik a szomszéd házat is a tűztől.",
+      "location": "Kaposvár, Nyugativánfa utca",
+      "updates": []
+    },
     {
       "id": "93178",
       "datetime": "2026.10.27. 07:28",
