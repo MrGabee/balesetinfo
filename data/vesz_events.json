@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:01:16.295531+00:00",
+  "updated_at": "2026-10-27T15:04:54.221405+00:00",
   "count": 3641,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Árokba borult egy autó Jászberény és Jásztelek között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93200",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 32-es főútra vonultak a tűzoltók.",
+      "body": "Árokba borult egy személyautó a 32-es főút Jászberény és Jásztelek közötti szakaszán, a 31-es kilométerszelvénynél. A műszaki mentést a jászberényi hivatásos tűzoltók végzik. Az érintett útszakaszon zavartalanul halad a forgalom.",
+      "location": "Jászberény, 32",
       "updates": []
     },
     {
@@ -240,9 +240,9 @@
       "title": "Baleset történt Tiszaszentmárton és Eperjeske között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93181",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4115-ös úton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Tiszaszentmárton és Eperjeske között, a 4115-ös út 9-es kilométerszelvénynél. A balesethez a záhonyi hivatásos tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tiszaszentmárton, 4115",
       "updates": []
     },
     {
@@ -304,19 +304,10 @@
       "title": "Tűz volt egy dunaföldvári épületben",
       "category": "Tűz volt egy dunaföldvári épületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176",
-      "lead": "A Völgy utcába riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy nagyjából kilenc négyzetméteres melléképület Dunaföldváron, a Völgy utcában. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, akik azonnal megkezdték az oltást. A beavatkozáshoz pár percen belül csatlakoztak a solti hivatásos tűzoltók is. Az egységek rövid idő alatt eloltották a lakatlan épület tüzét.",
-      "location": "Dunaföldvár, Völgy utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak Dunaföldváron",
-          "datetime": "2026.10.27. 07:56",
-          "category": "Tűzeset",
-          "text": "A Völgy utcában egy melléképület gyulladt ki. Helyi önkéntes és solti hivatásos tűzoltók oltották el a kis területen égő, összehordott háztartási hulladékot. Az egységek már az utómunkálatoknál tartanak.",
-          "location": "Dunaföldvár, Völgy utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93176"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93175",
