@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T07:42:29.152339+00:00",
-  "count": 3623,
+  "updated_at": "2026-10-27T07:45:52.237902+00:00",
+  "count": 3624,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93185",
+      "datetime": "2026.10.27. 08:44",
+      "title": "Tűz volt egy hegyesdi családi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93185",
+      "lead": "A kazánházban felhalmozott papírok égtek.",
+      "body": "Tűz keletkezett egy családi ház pincéjében, a Veszprém megyei Hegyesd külterületén, a Halápi út közelében. A kazán mellett felhalmozott papírok gyulladtak meg. A badacsonytomaji hivatásos, a tapolcai önkormányzati és a zalahalápi-sáskai önkéntes tűzoltók eloltották a tüzet, és kiszellőztetik a pincét, amely megtelt füsttel.",
+      "location": "Hegyesd, Halápi út",
+      "updates": []
+    },
     {
       "id": "93184",
       "datetime": "2026.10.27. 08:37",
