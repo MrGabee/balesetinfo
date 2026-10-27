@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-27T14:50:23.343967+00:00",
-  "count": 3640,
+  "updated_at": "2026-10-27T14:54:29.840808+00:00",
+  "count": 3641,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93202",
+      "datetime": "2026.10.27. 15:53",
+      "title": "Karambol az M5-ösön, Újhartyánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93202",
+      "lead": "A Budapest felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Kamion és kisteherautó ütközött össze az M5-ös autópálya Budapest felé vezető oldalán, Újhartyán közelében, a 41-es kilométerszelvénynél. A balesethez a dabasi hivatásos tűzoltókat riasztották, akik egy embert kiemeltek a kistehergépkocsiból. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Újhartyán, M5",
+      "updates": []
+    },
     {
       "id": "93201",
       "datetime": "2026.10.27. 15:18",
       "title": "Karambolozott két autó Tiszabercel közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93201",
-      "lead": "A 3823-as úton végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött két személyautó a 3823-as úton, Tiszabercel közelében. Mindkét jármű az árokba sodródott, az egyik a tetejére borult. Az egyik gépkocsiból nem tudott kiszállni egy ember. Őt feszítővágóval kiszabadították, majd a mentőkkel közösen kiemelték a műszaki mentést végző nyíregyházi hivatásos és ibrányi önkormányzati tűzoltók. A rajok áramtalanították az autókat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Tiszabercel, 3823",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
