@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T07:09:44.030519+00:00",
-  "count": 3620,
+  "updated_at": "2026-10-27T07:13:39.246796+00:00",
+  "count": 3621,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93182",
+      "datetime": "2026.10.27. 08:09",
+      "title": "Modulház égett Vasad külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93182",
+      "lead": "A monori tűzoltók vonultak az esethez.",
+      "body": "Tüzet fogott az elektromos padlófűtés egy Vasad külterületén lévő konténerházban. A monori hivatásos tűzoltók áramtalanították az épületet, megbontották a padlózatot a füstölés miatt, illetve egy vízsugárral beavatkoztak. Két emberhez mentőt riasztottak.",
+      "location": "Vasad, II. külterület",
+      "updates": []
+    },
     {
       "id": "93181",
       "datetime": "2026.10.27. 07:48",
