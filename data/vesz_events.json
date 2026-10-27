@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T15:28:20.672439+00:00",
-  "count": 3642,
+  "updated_at": "2026-10-27T15:31:48.612822+00:00",
+  "count": 3643,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93204",
+      "datetime": "2026.10.27. 16:30",
+      "title": "Utoléréses baleset az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93204",
+      "lead": "Herceghalom közelében, Hegyeshalom felé nagy a torlódás.",
+      "body": "Karambolozott két személyautó az M1-es autópálya Hegyeshalom felé vezető oldalán, Herceghalom közelében, a 27. kilométernél. Utoléréses baleset történt, amelynél a törökbálinti hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította a járműveket. Az érintett sztrádaszakaszon nagy a torlódás.",
+      "location": "Herceghalom, M1",
+      "updates": []
+    },
     {
       "id": "93203",
       "datetime": "2026.10.27. 16:24",
