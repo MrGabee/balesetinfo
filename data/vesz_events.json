@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T18:11:52.677412+00:00",
-  "count": 3644,
+  "updated_at": "2026-10-27T18:15:20.931480+00:00",
+  "count": 3645,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93206",
+      "datetime": "2026.10.27. 19:14",
+      "title": "Kisteherautó és személygépkocsi ütközött Noszlopon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93206",
+      "lead": "A Sport téren forgalmi akadályra kell számítani.",
+      "body": "Kisteherautó és személygépkocsi ütközött össze Noszlopon, a Dózsa György utca és a Sport utca kereszteződésében, a Sport téren. A balesethez az ajkai hivatásos tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Noszlop, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "93205",
       "datetime": "2026.10.27. 17:29 -",
