@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-27T09:53:15.953418+00:00",
-  "count": 3629,
+  "updated_at": "2026-10-27T09:56:54.278644+00:00",
+  "count": 3630,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93191",
+      "datetime": "2026.10.27. 10:55",
+      "title": "Tűz volt egy pestújhelyi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93191",
+      "lead": "A Nádastó utcában fékezték meg a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett egy családi házhoz épített épületrészben, Budapest XV. kerületében, a Nádastó utcában. Berendezési tárgyak égtek. A fővárosi hivatásos tűzoltók porral oltóval eloltották a tüzet, kiszellőztetik az ingatlant, és utómunkálatokat végeznek.",
+      "location": "Budapest, Nádastó utca",
+      "updates": []
+    },
     {
       "id": "93190",
       "datetime": "2026.10.27. 10:01",
