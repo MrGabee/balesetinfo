@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-10-28T12:45:58.580863+00:00",
-  "count": 3658,
+  "updated_at": "2026-10-28T12:49:34.314821+00:00",
+  "count": 3659,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93220",
+      "datetime": "2026.10.28. 13:46",
+      "title": "Ég egy melléképület Piliscséven",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220",
+      "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
+      "location": "Piliscsév, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93219",
       "datetime": "2026.10.28. 12:31",
       "title": "Szalagkorlátnak ütközött egy kamion az M6-oson, Szebénynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93219",
-      "lead": "Mindkét irányban lezárták a belső sávot az érintett pályaszakaszon.",
-      "body": "Szalagkorlátnak ütközött egy kamion az M6-os autópálya 176-os kilométerszelvényénél, Szebény térségében, a Pécs felé vezető irányban. A járműben csak a vezetője utazott. A véméndi és a mohácsi hivatásos tűzoltók érkeztek a helyszínre, áramtalanították a kamiont. A baleset miatt mindkét oldalon lezárták a belső sávot az érintett pályaszakaszon.",
-      "location": "Szebény, M6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -97,9 +108,9 @@
       "title": "Négyes karambol Mende és Gyömrő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93211",
-      "lead": "A 31-es főúton félpályán halad a forgalom.",
-      "body": "Egy kamion, egy kisbusz és két személyautó ütközött össze a 31-es főút Mendét és Gyömrőt összekötő szakaszán, a 34-es és 35-ös kilométerszelvény között. A monori hivatásos és a gyömrői önkéntes tűzoltók két járművet áramtalanítottak. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Mende, 31",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -225,9 +236,9 @@
       "title": "Karambolozott két autó Tiszabercel közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93201",
-      "lead": "A 3823-as úton végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött két személyautó a 3823-as úton, Tiszabercel közelében. Mindkét jármű az árokba sodródott, az egyik a tetejére borult. Az egyik gépkocsiból nem tudott kiszállni egy ember. Őt feszítővágóval kiszabadították, majd a mentőkkel közösen kiemelték a műszaki mentést végző nyíregyházi hivatásos és ibrányi önkormányzati tűzoltók. A rajok áramtalanították az autókat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Tiszabercel, 3823",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -346,9 +357,9 @@
       "title": "Lesodródott egy autó az 56-os főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93190",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mohács közelében félpályán halad a forgalom.",
+      "body": "Lesodródott az útról egy személyautó az 56-os főúton, Mohács közelében, a 47-es kilométerszelvénynél. A balesethez a mohácsi hivatásos tűzoltókat riasztották, akik áramtalanítják a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mohács, 56",
       "updates": []
     },
     {
