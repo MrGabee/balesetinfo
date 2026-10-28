@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T10:47:52.187406+00:00",
+  "updated_at": "2026-10-28T10:51:15.315078+00:00",
   "count": 3657,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -130,9 +130,9 @@
       "title": "Két autó karambolozott Nyíregyháza közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93207",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4-es főúton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Nyíregyháza közelében, a 4-es főúton, az M3-as autópálya közelében. A műszaki mentést a nyíregyházi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, 4",
       "updates": []
     },
     {
@@ -155,16 +155,7 @@
       "lead": "A Tisza utcában oltják a lángokat.",
       "body": "Kigyulladt egy garázs Dunaújvárosban, a Tisza utcában. A tűz átterjedt a szomszédos romos ház tetőszerkezetére is. A város hivatásos tűzoltói egy gáz- és egy oxigénpalackot hozott ki az épületből. A rajok jelenleg két vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Dunaújváros, Tisza utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik Dunaújvárosban",
-          "datetime": "2026.10.27. 17:45",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Dunaújvárosban, ahol egy garázs gyulladt ki a Tisza utcában. A tűz átterjedt a szomszédos romos ház tetőszerkezetére is. A város hivatásos tűzoltói egy gáz- és egy oxigénpalackot hoztak ki az épületből, majd eloltották a lángokat.",
-          "location": "Dunaújváros, Tisza utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93205/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93205"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93204",
@@ -412,9 +403,9 @@
       "title": "Hármas karambol Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93183",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kada és a Cserkesz utca kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött három személyautó Budapest X. kerületében, a Kada és a Cserkesz utca kereszteződésében. Az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók áramtalanítják a gépkocsikat. A balesethez a mentőket is riasztották. Az érintett útszakaszon forgalmi akadály van, amely a közösségi közlekedést is érinti.",
+      "location": "Budapest, Kada utca",
       "updates": []
     },
     {
