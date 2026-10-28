@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T08:13:13.373234+00:00",
-  "count": 3652,
+  "updated_at": "2026-10-28T08:16:17.696480+00:00",
+  "count": 3653,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93214",
+      "datetime": "2026.10.28. 09:15",
+      "title": "Baleset történt Szombathelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93214",
+      "lead": "A Nárai utca egy szakaszáról elterelik a forgalmat.",
+      "body": "Álló személyautónak ütközött egy másik Szombathelyen, a Nárai utcában. A karambolban egy harmadik gépkocsi is megrongálódott. A város hivatásos tűzoltói áramtalanítják az egyik járművet, amelyből egy embert kiemeltek, majd átadtak a mentőknek. A baleset helyszínénél lezárták az utat, a forgalmat elterelik.",
+      "location": "Szombathely, Nárai utca",
+      "updates": []
+    },
     {
       "id": "93213",
       "datetime": "2026.10.28. 09:06",
