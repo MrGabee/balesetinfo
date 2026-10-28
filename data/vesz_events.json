@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T07:52:13.670040+00:00",
-  "count": 3650,
+  "updated_at": "2026-10-28T07:55:25.359539+00:00",
+  "count": 3651,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93212",
+      "datetime": "2026.10.28. 08:54",
+      "title": "Hármas karambol Levélen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93212",
+      "lead": "Az 1-es főút és a Dózsa György utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Összeütközött három személyautó Levélen, az 1-es főút és a Dózsa György utca találkozásánál. A műszaki mentést végző mosonmagyaróvári hivatásos tűzoltók két járművet áramtalanítanak, a harmadiknál nincs szükség ilyen beavatkozásra. A helyszínen vannak a mentők is. Az 1-es főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Levél, 1, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "93211",
       "datetime": "2026.10.28. 07:29",
