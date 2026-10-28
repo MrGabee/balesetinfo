@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:16:07.493291+00:00",
+  "updated_at": "2026-10-28T14:20:12.666089+00:00",
   "count": 3662,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -203,9 +203,9 @@
       "title": "Két autó karambolozott Nyíregyháza közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93207",
-      "lead": "A 4-es főúton félpályán halad a forgalom.",
-      "body": "Összeütközött két személyautó Nyíregyháza közelében, a 4-es főúton, az M3-as autópálya közelében. A műszaki mentést a nyíregyházi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Nyíregyháza, 4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -259,7 +259,16 @@
       "lead": "A Bessenyei utcába riasztották a tűzoltókat.",
       "body": "Teljes terjedelmében ég egy melléképület Püspökladányon, a Bessenyei utcában. A helyi hivatásos tűzoltók jelenleg két vízsugárral dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart. A tűz átterjedt a lakóépületre is, ahonnan a rajok egy embert kimentettek, majd átadták őt a mentősöknek.",
       "location": "Püspökladány, Bessenyei utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Püspökladányon",
+          "datetime": "2026.10.27. 17:26",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Püspökladányon, ahol egy lakóház és egy melléképület égett a Bessenyei utcában. A karcagi és püspökladányi hivatásos tűzoltók dugólétra segítségével megbontották a tetőszerkezetet, majd eloltották a lángokat. A rajok egy embert is kimentettek az ingatlanból. A tűz oltását a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+          "location": "Püspökladány, Bessenyei utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93203/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93203"
+        }
+      ]
     },
     {
       "id": "93202",
