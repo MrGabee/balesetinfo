@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T19:41:42.957451+00:00",
-  "count": 3666,
+  "updated_at": "2026-10-28T19:45:06.784560+00:00",
+  "count": 3667,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93228",
+      "datetime": "2026.10.28. 20:44",
+      "title": "Lakóépület égett Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93228",
+      "lead": "A tűzoltók két vízsugárral fékezték meg a lángokat.",
+      "body": "Egy téglaépítésű lakóház égett Kecskeméten, a Zsinór utcában. Az épület mellett egy melléképület is állt. A kecskeméti hivatásos tűzoltók két vízsugárral és kéziszerszámokkal előbb körülhatárolták, majd eloltották a lángokat, a melléképületet pedig vízsugárral védték a tűztől. Az egységek jelenleg az utómunkálatokat végzik a helyszínen, ahol nagy mennyiségben halmoztak fel hulladékot az ingatlan területén.",
+      "location": "Kecskemét, Zsinór utca",
+      "updates": []
+    },
     {
       "id": "93227",
       "datetime": "2026.10.28. 18:12",
