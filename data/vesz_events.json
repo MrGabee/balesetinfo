@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T08:02:45.655562+00:00",
-  "count": 3651,
+  "updated_at": "2026-10-28T08:05:59.798112+00:00",
+  "count": 3652,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93213",
+      "datetime": "2026.10.28. 09:06",
+      "title": "Három autó karambolozott Dabason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93213",
+      "lead": "Lezárták a Szabadság út érintett szakaszát a baleset miatt.",
+      "body": "Három gépkocsi ütközött össze Dabason, a Szabadság út elején. A város hivatásos tűzoltói áramtalanították a járműveket, amelyek utasai saját erejükből ki tudtak szállni. Az egység mellett a társhatóságok is kiérkeztek a balesethez, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Dabas, Szabadság út",
+      "updates": []
+    },
     {
       "id": "93212",
       "datetime": "2026.10.28. 08:54",
