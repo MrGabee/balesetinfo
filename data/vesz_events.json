@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T17:10:58.912042+00:00",
-  "count": 3665,
+  "updated_at": "2026-10-28T17:14:33.058808+00:00",
+  "count": 3666,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93227",
+      "datetime": "2026.10.28. 18:12",
+      "title": "Két jármű karambolozott Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93227",
+      "lead": "Lezárták az érintett kereszteződést a baleset miatt.",
+      "body": "Egy kisteherautó és egy személyautó ütközött össze Zalaegerszegen, a Wlassics Gyula utca és a Kinizsi Pál utca kereszteződésében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben összesen hárman utaztak. Az egység és a társhatóságok teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Zalaegerszeg, Wlassics Gyula utca",
+      "updates": []
+    },
     {
       "id": "93226",
       "datetime": "2026.10.28. 16:37",
