@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:55:04.080740+00:00",
+  "updated_at": "2026-10-28T11:58:22.189957+00:00",
   "count": 3658,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -163,10 +163,19 @@
       "title": "Garázs ég Dunaújvárosban",
       "category": "Garázs ég Dunaújvárosban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93205",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Tisza utcában oltják a lángokat.",
+      "body": "Kigyulladt egy garázs Dunaújvárosban, a Tisza utcában. A tűz átterjedt a szomszédos romos ház tetőszerkezetére is. A város hivatásos tűzoltói egy gáz- és egy oxigénpalackot hozott ki az épületből. A rajok jelenleg két vízsugárral dolgoznak a lángok megfékezésén.",
+      "location": "Dunaújváros, Tisza utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Dunaújvárosban",
+          "datetime": "2026.10.27. 17:45",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Dunaújvárosban, ahol egy garázs gyulladt ki a Tisza utcában. A tűz átterjedt a szomszédos romos ház tetőszerkezetére is. A város hivatásos tűzoltói egy gáz- és egy oxigénpalackot hoztak ki az épületből, majd eloltották a lángokat.",
+          "location": "Dunaújváros, Tisza utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93205/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93205"
+        }
+      ]
     },
     {
       "id": "93204",
