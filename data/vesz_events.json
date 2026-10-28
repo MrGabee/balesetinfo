@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:03:54.274809+00:00",
+  "updated_at": "2026-10-28T09:07:48.220449+00:00",
   "count": 3654,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Pincetűz Pomázon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93208",
-      "lead": "A Táncsics Mihály utcában volt szükség tűzoltói beavatkozásra.",
-      "body": "Tűz volt egy családi ház pincéjében Pomázon, a Táncsics Mihály utcában. A helyiségben kazán, valamint mellette berendezési tárgyak égtek. A szentendrei hivatásos és a pomázi önkormányzati tűzoltók egy gázpalackot hoztak ki a pincéből, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
-      "location": "Pomáz, Táncsics Mihály utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -468,7 +468,16 @@
       "lead": "A Völgy utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy nagyjából kilenc négyzetméteres melléképület Dunaföldváron, a Völgy utcában. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek ki, akik azonnal megkezdték az oltást. A beavatkozáshoz pár percen belül csatlakoztak a solti hivatásos tűzoltók is. Az egységek rövid idő alatt eloltották a lakatlan épület tüzét.",
       "location": "Dunaföldvár, Völgy utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Dunaföldváron",
+          "datetime": "2026.10.27. 07:56",
+          "category": "Tűzeset",
+          "text": "A Völgy utcában egy melléképület gyulladt ki. Helyi önkéntes és solti hivatásos tűzoltók oltották el a kis területen égő, összehordott háztartási hulladékot. Az egységek már az utómunkálatoknál tartanak.",
+          "location": "Dunaföldvár, Völgy utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93176/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93176"
+        }
+      ]
     },
     {
       "id": "93175",
