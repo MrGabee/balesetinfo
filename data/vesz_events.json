@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T15:36:42.303202+00:00",
-  "count": 3664,
+  "updated_at": "2026-10-28T15:40:27.897518+00:00",
+  "count": 3665,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93226",
+      "datetime": "2026.10.28. 16:37",
+      "title": "Karambolozott két gépkocsi Pesterzsébeten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93226",
+      "lead": "A tűzoltók a Kende Kanuth utcában végeznek műszaki mentést.",
+      "body": "Egymásnak ütközött két személyautó Budapest XX. kerületében, a Kende Kanuth utcában, a Dobos utcánál. Az egyik jármű az oldalára borult a karambol következtében. A fővárosi hivatásos tűzoltók áramtalanítják ezt a gépkocsit. A balesethez a mentőket is riasztották.",
+      "location": "Budapest, Kende Kanuth utca",
+      "updates": []
+    },
     {
       "id": "93225",
       "datetime": "2026.10.28. 16:15",
