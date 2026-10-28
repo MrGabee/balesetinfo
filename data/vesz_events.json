@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T11:28:40.224748+00:00",
-  "count": 3657,
+  "updated_at": "2026-10-28T11:32:02.000630+00:00",
+  "count": 3658,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93219",
+      "datetime": "2026.10.28. 12:31",
+      "title": "Szalagkorlátnak ütközött egy kamion az M6-oson, Szebénynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93219",
+      "lead": "Mindkét irányban lezárták a belső sávot az érintett pályaszakaszon.",
+      "body": "Szalagkorlátnak ütközött egy kamion az M6-os autópálya 176-os kilométerszelvényénél, Szebény térségében, a Pécs felé vezető irányban. A járműben csak a vezetője utazott. A véméndi és a mohácsi hivatásos tűzoltók érkeztek a helyszínre, áramtalanították a kamiont. A baleset miatt mindkét oldalon lezárták a belső sávot az érintett pályaszakaszon.",
+      "location": "Szebény, M6",
+      "updates": []
+    },
     {
       "id": "93218",
       "datetime": "2026.10.28. 11:30",
@@ -20,9 +31,9 @@
       "title": "Karambolozott két autó Mosonmagyaróváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93217",
-      "lead": "A járművek az Alkotmány és a Barátság utca kereszteződésénél akadályozzák a forgalmat.",
-      "body": "Egymásnak ütközött egy kisteherautó és egy személygépkocsi Mosonmagyaróváron, az Alkotmány utcában, a Barátság utcánál. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másiknál nincs szükség ilyen beavatkozásra. A karambol következtében motorolaj folyt az úttestre a gépkocsikból, amelyek akadályozzák a forgalmat.",
-      "location": "Mosonmagyaróvár, Barátság utca, Alkotmány utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -64,9 +75,9 @@
       "title": "Három autó karambolozott Dabason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93213",
-      "lead": "Lezárták a Szabadság út érintett szakaszát a baleset miatt.",
-      "body": "Három gépkocsi ütközött össze Dabason, a Szabadság út elején. A város hivatásos tűzoltói áramtalanították a járműveket, amelyek utasai saját erejükből ki tudtak szállni. Az egység mellett a társhatóságok is kiérkeztek a balesethez, teljes útlezárás mellett végzik a munkálatokat.",
-      "location": "Dabas, Szabadság út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -346,9 +357,9 @@
       "title": "Egymásnak ütközött két gépkocsi Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93189",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Széksósi úton van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött egy tehergépkocsi és egy személyautó Szegeden, a Széksósi úton. A város hivatásos tűzoltói áramtalanították a személygépkocsit, amelyben egy ember utazott. Őt a mentők vizsgálják.",
+      "location": "Szeged, Széksósi út",
       "updates": []
     },
     {
@@ -423,9 +434,9 @@
       "title": "Modulház égett Vasad külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93182",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A monori tűzoltók vonultak az esethez.",
+      "body": "Tüzet fogott az elektromos padlófűtés egy Vasad külterületén lévő konténerházban. A monori hivatásos tűzoltók áramtalanították az épületet, megbontották a padlózatot a füstölés miatt, illetve egy vízsugárral beavatkoztak. Két emberhez mentőt riasztottak.",
+      "location": "Vasad, II. külterület",
       "updates": []
     },
     {
