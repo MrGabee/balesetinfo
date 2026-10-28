@@ -1,18 +1,38 @@
 {
-  "updated_at": "2026-10-28T13:15:25.506091+00:00",
-  "count": 3660,
+  "updated_at": "2026-10-28T13:18:57.301327+00:00",
+  "count": 3661,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "93222",
+      "datetime": "2026.10.28. 14:15",
+      "title": "Karambol az M7-esen, Székesfehérvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93222",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik autóból.",
+      "body": "Összeütközött egy kisteherautó és egy személygépkocsi az M7-es autópálya Letenye felé vezető oldalán, Székesfehérvárnál, a 63. kilométer közelében. Egy ember beszorult a személyautóba. Őt a jármű ajtaját felfeszítve kiszabadították, majd kiemelték és átadták a mentőknek a székesfehérvári hivatásos tűzoltók, akik áramtalanították is a gépkocsit. A teherautónál nem volt szükség ilyen beavatkozásra. A műszaki mentést a Fejér megyei katasztrófavédelmi műveleti szolgálat irányítja. Az érintett sztrádaszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Székesfehérvár, M7",
+      "updates": []
+    },
+    {
       "id": "93221",
-      "datetime": "2026.10.28. 13:55",
+      "datetime": "2026.10.28. 13:55 -",
       "title": "Kigyulladt egy garázs Keszthelyen",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy garázs Keszthelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221",
       "lead": "A Buzogány utcába riasztották a tűzoltókat.",
       "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
       "location": "Keszthely, Buzogány utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a keszthelyi tűznél",
+          "datetime": "2026.10.28. 14:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Keszthelyen, a Buzogány utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy garázs. Meggyulladt a mellette felhalmozott tűzifa is. A város hivatásos tűzoltói kihoztak egy hegesztő-, valamint egy gázpalackot a mintegy húsz négyzetméteres épületből, és két vízsugárral megfékezték a lángokat. A rajok utómunkálatokat végeznek.",
+          "location": "Keszthely, Buzogány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93221"
+        }
+      ]
     },
     {
       "id": "93220",
@@ -185,19 +205,10 @@
       "title": "Garázs ég Dunaújvárosban",
       "category": "Garázs ég Dunaújvárosban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93205",
-      "lead": "A Tisza utcában oltják a lángokat.",
-      "body": "Kigyulladt egy garázs Dunaújvárosban, a Tisza utcában. A tűz átterjedt a szomszédos romos ház tetőszerkezetére is. A város hivatásos tűzoltói egy gáz- és egy oxigénpalackot hozott ki az épületből. A rajok jelenleg két vízsugárral dolgoznak a lángok megfékezésén.",
-      "location": "Dunaújváros, Tisza utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik Dunaújvárosban",
-          "datetime": "2026.10.27. 17:45",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik Dunaújvárosban, ahol egy garázs gyulladt ki a Tisza utcában. A tűz átterjedt a szomszédos romos ház tetőszerkezetére is. A város hivatásos tűzoltói egy gáz- és egy oxigénpalackot hoztak ki az épületből, majd eloltották a lángokat.",
-          "location": "Dunaújváros, Tisza utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93205/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93205"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93204",
