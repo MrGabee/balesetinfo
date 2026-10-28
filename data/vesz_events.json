@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:33:19.409681+00:00",
+  "updated_at": "2026-10-28T13:36:47.082121+00:00",
   "count": 3661,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -43,7 +43,16 @@
       "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
       "location": "Piliscsév, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Piliscséven",
+          "datetime": "2026.10.28. 14:36",
+          "category": "Tűzeset",
+          "text": "Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral eloltották a lángokat Piliscséven, ahol kigyulladt, majd teljes terjedelmében égett egy melléképület a Petőfi Sándor utcában. Az egységek a munkálatok közben összesen három gázpalackot hoztak ki az épületből. Kettő közülük felrobbant, a harmadik palackot folyamatosan hűtötték. A tűzoltók jelenleg az utómunkálatokat végzik.",
+          "location": "Piliscsév, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93220"
+        }
+      ]
     },
     {
       "id": "93219",
@@ -225,9 +234,9 @@
       "title": "Utoléréses baleset az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93204",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Herceghalom közelében, Hegyeshalom felé nagy a torlódás.",
+      "body": "Karambolozott két személyautó az M1-es autópálya Hegyeshalom felé vezető oldalán, Herceghalom közelében, a 27. kilométernél. Utoléréses baleset történt, amelynél a törökbálinti hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanította a járműveket. Az érintett sztrádaszakaszon nagy a torlódás.",
+      "location": "Herceghalom, M1",
       "updates": []
     },
     {
