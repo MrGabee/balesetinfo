@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T12:53:05.319818+00:00",
-  "count": 3659,
+  "updated_at": "2026-10-28T12:57:00.291001+00:00",
+  "count": 3660,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93221",
+      "datetime": "2026.10.28. 13:55",
+      "title": "Kigyulladt egy garázs Keszthelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221",
+      "lead": "A Buzogány utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
+      "location": "Keszthely, Buzogány utca",
+      "updates": []
+    },
     {
       "id": "93220",
       "datetime": "2026.10.28. 13:46",
