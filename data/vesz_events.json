@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T09:18:42.141132+00:00",
-  "count": 3655,
+  "updated_at": "2026-10-28T09:22:12.023445+00:00",
+  "count": 3656,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93217",
+      "datetime": "2026.10.28. 10:19",
+      "title": "Karambolozott két autó Mosonmagyaróváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93217",
+      "lead": "A járművek az Alkotmány és a Barátság utca kereszteződésénél akadályozzák a forgalmat.",
+      "body": "Egymásnak ütközött egy kisteherautó és egy személygépkocsi Mosonmagyaróváron, az Alkotmány utcában, a Barátság utcánál. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másiknál nincs szükség ilyen beavatkozásra. A karambol következtében motorolaj folyt az úttestre a gépkocsikból, amelyek akadályozzák a forgalmat.",
+      "location": "Mosonmagyaróvár, Barátság utca, Alkotmány utca",
+      "updates": []
+    },
     {
       "id": "93216",
       "datetime": "2026.10.28. 10:09",
