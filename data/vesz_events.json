@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T23:55:08.778333+00:00",
-  "count": 3668,
+  "updated_at": "2026-10-28T23:58:22.655544+00:00",
+  "count": 3669,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93230",
+      "datetime": "2026.10.29. 00:56",
+      "title": "Tűz volt egy lajosmizsei lakóház födémszerkezetében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93230",
+      "lead": "A tűzoltók megbontották a födémet a munkálatok közben.",
+      "body": "Egy száz négyzetméteres családi ház födémszerkezetében keletkezett tűz mintegy nyolc négyzetméteren Lajosmizsén, a Rózsa utcában. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók a közművek elzárását követően megbontották az épületen belül az álmennyezetet, majd a padlástérben is megbontották a födémet, egy vízsugárral eloltották a tüzet. Az egységek az utómunkálatok közben hőkamerával átvizsgálták az épületet, amely lakható maradt.",
+      "location": "Lajosmizse, Rózsa utca",
+      "updates": []
+    },
     {
       "id": "93229",
       "datetime": "2026.10.28. 23:24",
