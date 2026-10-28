@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:11:46.392027+00:00",
+  "updated_at": "2026-10-28T13:15:25.506091+00:00",
   "count": 3660,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,9 +108,9 @@
       "title": "Hármas karambol Levélen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93212",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 1-es főút és a Dózsa György utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Összeütközött három személyautó Levélen, az 1-es főút és a Dózsa György utca találkozásánál. A műszaki mentést végző mosonmagyaróvári hivatásos tűzoltók két járművet áramtalanítanak, a harmadiknál nincs szükség ilyen beavatkozásra. A helyszínen vannak a mentők is. Az 1-es főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Levél, 1, Dózsa György utca",
       "updates": []
     },
     {
@@ -216,10 +216,19 @@
       "title": "Tűz van Püspökladányon",
       "category": "Tűz van Püspökladányon",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93203",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Bessenyei utcába riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében ég egy melléképület Püspökladányon, a Bessenyei utcában. A helyi hivatásos tűzoltók jelenleg két vízsugárral dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart. A tűz átterjedt a lakóépületre is, ahonnan a rajok egy embert kimentettek, majd átadták őt a mentősöknek.",
+      "location": "Püspökladány, Bessenyei utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Püspökladányon",
+          "datetime": "2026.10.27. 17:26",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Püspökladányon, ahol egy lakóház és egy melléképület égett a Bessenyei utcában. A karcagi és püspökladányi hivatásos tűzoltók dugólétra segítségével megbontották a tetőszerkezetet, majd eloltották a lángokat. A rajok egy embert is kimentettek az ingatlanból. A tűz oltását a Hajdú-Bihar vármegyei katasztrófavédelmi műveleti szolgálat irányította.",
+          "location": "Püspökladány, Bessenyei utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93203/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93203"
+        }
+      ]
     },
     {
       "id": "93202",
@@ -337,9 +346,9 @@
       "title": "Nyerges vontató és autó ütközött a 403-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93192",
-      "lead": "Nyírpazony közelében van szükség műszaki mentésre.",
-      "body": "Nyerges vontató és személyautó ütközött össze a 403-as főúton, Nyírpazony közelében, a 10-es kilométerszelvénynél. A nyíregyházi hivatásos tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
-      "location": "Nyírpazony, 403",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
