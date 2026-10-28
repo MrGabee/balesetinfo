@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T07:11:14.482800+00:00",
+  "updated_at": "2026-10-28T07:14:32.185854+00:00",
   "count": 3650,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Szalmabálák égtek Lajosmizse közelében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93209",
-      "lead": "Az Alsólajos tanyán dolgoznak a tűzoltók.",
-      "body": "Szalmabálák égtek egy tárolóban Lajosmizse közelében, az Alsólajos tanyán. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók eloltották a lángokat. A helyszínre az áramszolgáltató szakemberei is kiérkeztek.",
-      "location": "Lajosmizse, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -53,9 +53,9 @@
       "title": "Két autó karambolozott Nyíregyháza közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93207",
-      "lead": "A 4-es főúton félpályán halad a forgalom.",
-      "body": "Összeütközött két személyautó Nyíregyháza közelében, a 4-es főúton, az M3-as autópálya közelében. A műszaki mentést a nyíregyházi hivatásos tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Nyíregyháza, 4",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -302,9 +302,9 @@
       "title": "Vonat és autó ütközött össze Kiskunmajsánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93186",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók segítenek az utasoknak biztonságosan leszállni a szerelvényről.",
+      "body": "Vonattal ütközött össze egy személyautó Kiskunmajsa külterületén, az 5402-es út közelében. A gépkocsi az árokba sodródott. A szerelvény a síneken áll, de a baleset miatt nem tud továbbmenni. Ezért a kiskunmajsai hivatásos tűzoltók segítenek a rajta utazó mintegy hatvan embernek biztonságosan átszállni az értük küldött mentesítő autóbuszra.",
+      "location": "Kiskunmajsa, Ötfa tanya",
       "updates": []
     },
     {
@@ -379,19 +379,10 @@
       "title": "Kigyulladt egy családi ház Kaposváron",
       "category": "Kigyulladt egy családi ház Kaposváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179",
-      "lead": "A Nyugativánfa utcába a város több egysége vonult.",
-      "body": "Kigyulladt egy családi ház teteje Kaposváron, a Nyugativánfa utcában. Az esethez a megyeszékhely hivatásos tűzoltói két gépjárműfecskendővel, illetve a vízszállítóval vonultak. Az egységek három vízsugárral kezdték oltani a lángokat, illetve megbontották a tetőt is. Emellett védik a szomszéd házat is a tűztől.",
-      "location": "Kaposvár, Nyugativánfa utca",
-      "updates": [
-        {
-          "title": "Megfékezték a kaposvári tüzet",
-          "datetime": "2026.10.27. 09:02",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Kaposváron, a Nyugativánfa utcában keletkezett. Egy családi ház tetőszerkezete gyulladt ki. A megyeszékhely hivatásos tűzoltói a tetőt megbontva, három vízsugárral fékezték meg a lángokat, és hőkamerával átvizsgálták az épületet. A tetőszerkezet megsemmisült, a ház lakhatatlanná vált a tűz következtében.",
-          "location": "Kaposvár, Nyugativánfa utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93179/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93179"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93178",
