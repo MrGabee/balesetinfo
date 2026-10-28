@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T09:07:48.220449+00:00",
-  "count": 3654,
+  "updated_at": "2026-10-28T09:11:20.647416+00:00",
+  "count": 3655,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93216",
+      "datetime": "2026.10.28. 10:09",
+      "title": "Összeütközött két autó Makón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93216",
+      "lead": "Nagycsillag és a Váradi utca kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott két személyautó Makón, a Nagycsillag és a Váradi utca kereszteződésében. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra kell számítani.",
+      "location": "Makó, Nagycsillag utca, Váradi utca",
+      "updates": []
+    },
     {
       "id": "93215",
       "datetime": "2026.10.28. 10:01",
@@ -86,9 +97,9 @@
       "title": "Pincetűz Pomázon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93208",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi ház pincéjében Pomázon, a Táncsics Mihály utcában. A helyiségben kazán, valamint mellette berendezési tárgyak égtek. A szentendrei hivatásos és a pomázi önkormányzati tűzoltók egy gázpalackot hoztak ki a pincéből, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Pomáz, Táncsics Mihály utca",
       "updates": []
     },
     {
