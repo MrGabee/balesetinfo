@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T15:12:02.367924+00:00",
-  "count": 3663,
+  "updated_at": "2026-10-28T15:15:58.301569+00:00",
+  "count": 3664,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93225",
+      "datetime": "2026.10.28. 16:15",
+      "title": "Hármas karambol történt az M0-son, Gyálnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93225",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Három gépkocsi szenvedett ráfutásos balesetet az M0-s autóút 33-as és 34-es kilométerszelvénye között, Gyál térségében, a Vecsés felé vezető irányban. Összesen öten utaztak a karambolos járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítanak. A baleset miatt forgalmi akadály alakult ki a belső sávban az érintett útszakaszon.",
+      "location": "Gyál, M0",
+      "updates": []
+    },
     {
       "id": "93224",
       "datetime": "2026.10.28. 15:59",
