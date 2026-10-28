@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T14:57:56.481541+00:00",
-  "count": 3662,
+  "updated_at": "2026-10-28T15:01:18.011158+00:00",
+  "count": 3663,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93224",
+      "datetime": "2026.10.28. 15:59",
+      "title": "Kisebb tűz volt egy VI. kerületi üzlethelyiségben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93224",
+      "lead": "A Csengery utcában fojtották el a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett egy üzlethelyiség konyhájában, Budapest VI. kerületében, a Csengery utcában, a Szondy utca közelében. Egy olajsütőben gyulladt meg az olaj. A fővárosi hivatásos tűzoltók porral oltó készülékekkel elfojtották a lángokat, és átvizsgálják az épületet.",
+      "location": "Budapest, Csengery utca",
+      "updates": []
+    },
     {
       "id": "93223",
       "datetime": "2026.10.28. 14:49",
