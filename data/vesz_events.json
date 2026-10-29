@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-29T15:25:07.848401+00:00",
-  "count": 3683,
+  "updated_at": "2026-10-29T15:28:51.624169+00:00",
+  "count": 3685,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93246",
+      "datetime": "2026.10.29. 16:28",
+      "title": "A tetejére borult egy autó a 3307-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93246",
+      "lead": "Mezőcsát közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba sodródott és felborult egy személyautó a 3307-es úton, Mezőcsát határában, az Aranyeső utca közelében. A tetején állt meg a jármű, amelyben hárman utaztak, mindannyian ki tudtak szállni. A mezőcsáti hivatásos tűzoltók áramtalanították a  gépkocsit. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Mezőcsát, 3307",
+      "updates": []
+    },
+    {
+      "id": "93245",
+      "datetime": "2026.10.29. 16:26",
+      "title": "Embert gázolt a villamos Szegeden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93245",
+      "lead": "A Petőfi Sándor sugárúton forgalmi akadály van.",
+      "body": "Embert gázolt el a villamos Szegeden, a Petőfi Sándor sugárúton. A Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a helyi hivatásos tűzoltók áramtalanították a járművet. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szeged, Petőfi Sándor sugárút",
+      "updates": []
+    },
     {
       "id": "93244",
       "datetime": "2026.10.29. 15:04",
