@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T17:37:46.170722+00:00",
-  "count": 3689,
+  "updated_at": "2026-10-29T17:41:19.683988+00:00",
+  "count": 3690,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93251",
+      "datetime": "2026.10.29. 18:38",
+      "title": "Karambol Pencen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93251",
+      "lead": "A tűzoltók áramtalanítottak egy járművet.",
+      "body": "Összeütközött egy tehergépjármű és egy személygépkocsi a 2106-os úton, Pencen, a Mikszáth út kereszteződésében. A váci hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett.  Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Penc, Rákóczi út",
+      "updates": []
+    },
     {
       "id": "93250",
       "datetime": "2026.10.29. 18:26",
