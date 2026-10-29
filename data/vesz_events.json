@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:07:12.118244+00:00",
+  "updated_at": "2026-10-29T19:10:29.290698+00:00",
   "count": 3692,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
       "location": "Mosonmagyaróvár, Gabona rakpart",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Mosonmagyaróváron",
+          "datetime": "2026.10.29. 20:06",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. Az épületben akkumulátoros kisgépeket tároltak. A helyi és a lébényi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Mosonmagyaróvár, Gabona rakpart",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93253"
+        }
+      ]
     },
     {
       "id": "93252",
