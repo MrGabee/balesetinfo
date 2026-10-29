@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:20:47.321067+00:00",
+  "updated_at": "2026-10-29T19:24:31.717700+00:00",
   "count": 3692,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -25,14 +25,23 @@
     },
     {
       "id": "93252",
-      "datetime": "2026.10.29. 19:40",
+      "datetime": "2026.10.29. 19:40 -",
       "title": "Kigyulladt egy épület Budapest VII. kerületében",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy épület Budapest VII. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93252",
       "lead": "A Kazinczy utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy épület egyik helyisége Budapest VII. kerületében, a Kazinczy utcában. A fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre tart több egység is.",
       "location": "Budapest, Kazinczy utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Budapest VII. kerületében",
+          "datetime": "2026.10.29. 20:22",
+          "category": "Tűzeset",
+          "text": "Kigyulladt egy épület egyik helyisége Budapest VII. kerületében, a Kazinczy utcában. A tűz átterjedt egy első emeleti lakás nyílászárójára és a pinceszintre is. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi hivatásos tűzoltók több vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Budapest, Kazinczy utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93252"
+        }
+      ]
     },
     {
       "id": "93251",
