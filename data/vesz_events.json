@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:23:13.960408+00:00",
+  "updated_at": "2026-10-29T11:26:45.526878+00:00",
   "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -280,10 +280,19 @@
       "title": "Ég egy melléképület Piliscséven",
       "category": "Ég egy melléképület Piliscséven",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
+      "location": "Piliscsév, Petőfi Sándor utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Piliscséven",
+          "datetime": "2026.10.28. 14:36",
+          "category": "Tűzeset",
+          "text": "Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral eloltották a lángokat Piliscséven, ahol kigyulladt, majd teljes terjedelmében égett egy melléképület a Petőfi Sándor utcában. Az egységek a munkálatok közben összesen három gázpalackot hoztak ki az épületből. Kettő közülük felrobbant, a harmadik palackot folyamatosan hűtötték. A tűzoltók jelenleg az utómunkálatokat végzik.",
+          "location": "Piliscsév, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93220"
+        }
+      ]
     },
     {
       "id": "93219",
@@ -434,9 +443,9 @@
       "title": "Kisteherautó és személygépkocsi ütközött Noszlopon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93206",
-      "lead": "A Sport téren forgalmi akadályra kell számítani.",
-      "body": "Kisteherautó és személygépkocsi ütközött össze Noszlopon, a Dózsa György utca és a Sport utca kereszteződésében, a Sport téren. A balesethez az ajkai hivatásos tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Noszlop, Dózsa György utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
