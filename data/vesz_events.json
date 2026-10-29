@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:14:00.334677+00:00",
+  "updated_at": "2026-10-29T13:17:37.169450+00:00",
   "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -216,9 +216,9 @@
       "title": "Hármas karambol történt az M0-son, Gyálnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93225",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Három gépkocsi szenvedett ráfutásos balesetet az M0-s autóút 33-as és 34-es kilométerszelvénye között, Gyál térségében, a Vecsés felé vezető irányban. Összesen öten utaztak a karambolos járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítanak. A baleset miatt forgalmi akadály alakult ki a belső sávban az érintett útszakaszon.",
+      "location": "Gyál, M0",
       "updates": []
     },
     {
@@ -227,9 +227,9 @@
       "title": "Kisebb tűz volt egy VI. kerületi üzlethelyiségben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93224",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csengery utcában fojtották el a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett egy üzlethelyiség konyhájában, Budapest VI. kerületében, a Csengery utcában, a Szondy utca közelében. Egy olajsütőben gyulladt meg az olaj. A fővárosi hivatásos tűzoltók porral oltó készülékekkel elfojtották a lángokat, és átvizsgálják az épületet.",
+      "location": "Budapest, Csengery utca",
       "updates": []
     },
     {
@@ -263,16 +263,7 @@
       "lead": "A Buzogány utcába riasztották a tűzoltókat.",
       "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
       "location": "Keszthely, Buzogány utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak a keszthelyi tűznél",
-          "datetime": "2026.10.28. 14:17",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Keszthelyen, a Buzogány utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy garázs. Meggyulladt a mellette felhalmozott tűzifa is. A város hivatásos tűzoltói kihoztak egy hegesztő-, valamint egy gázpalackot a mintegy húsz négyzetméteres épületből, és két vízsugárral megfékezték a lángokat. A rajok utómunkálatokat végeznek.",
-          "location": "Keszthely, Buzogány utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93221"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93220",
@@ -280,10 +271,19 @@
       "title": "Ég egy melléképület Piliscséven",
       "category": "Ég egy melléképület Piliscséven",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
+      "location": "Piliscsév, Petőfi Sándor utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Piliscséven",
+          "datetime": "2026.10.28. 14:36",
+          "category": "Tűzeset",
+          "text": "Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral eloltották a lángokat Piliscséven, ahol kigyulladt, majd teljes terjedelmében égett egy melléképület a Petőfi Sándor utcában. Az egységek a munkálatok közben összesen három gázpalackot hoztak ki az épületből. Kettő közülük felrobbant, a harmadik palackot folyamatosan hűtötték. A tűzoltók jelenleg az utómunkálatokat végzik.",
+          "location": "Piliscsév, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93220"
+        }
+      ]
     },
     {
       "id": "93219",
@@ -335,9 +335,9 @@
       "title": "Ráfutásos baleset történt a 62-esen, Székesfehérvárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93215",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították az egyik járművet.",
+      "body": "Ráfutásos balesetet szenvedett két gépkocsi a 62-es főút 42-es kilométerszelvényénél, Székesfehérvár térségében. Csak a vezetők utaztak a járművekben, amelyek közül az egyiket a székesfehérvári hivatásos tűzoltók áramtalanították. A forgalmi akadályt okozó karambolhoz a társhatóságok is kiérkeztek.",
+      "location": "Székesfehérvár, 62",
       "updates": []
     },
     {
@@ -346,9 +346,9 @@
       "title": "Baleset történt Szombathelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93214",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nárai utca egy szakaszáról elterelik a forgalmat.",
+      "body": "Álló személyautónak ütközött egy másik Szombathelyen, a Nárai utcában. A karambolban egy harmadik gépkocsi is megrongálódott. A város hivatásos tűzoltói áramtalanítják az egyik járművet, amelyből egy embert kiemeltek, majd átadtak a mentőknek. A baleset helyszínénél lezárták az utat, a forgalmat elterelik.",
+      "location": "Szombathely, Nárai utca",
       "updates": []
     },
     {
