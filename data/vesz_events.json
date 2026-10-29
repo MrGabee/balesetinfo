@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T14:03:13.344937+00:00",
-  "count": 3682,
+  "updated_at": "2026-10-29T14:06:50.886835+00:00",
+  "count": 3683,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93244",
+      "datetime": "2026.10.29. 15:04",
+      "title": "Oszlopnak hajtott egy autó Tiszaalpáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93244",
+      "lead": "Az Alkotmány utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Villanyoszlopnak ütközött, majd árokba hajtott egy személyautó Tiszaalpáron, az Alkotmány utcában, a Mikes Kelemen utcánál. A kiskunfélegyházi hivatásos tűzoltók áramtalanították a gépkocsit, amelyben ketten utaztak. Az érintett útszakaszt lezárták, de a környező utcákban ki lehet kerülni a baleset helyszínét.",
+      "location": "Tiszaalpár, Alkotmány utca",
+      "updates": []
+    },
     {
       "id": "93243",
       "datetime": "2026.10.29. 12:18",
@@ -216,9 +227,9 @@
       "title": "Hármas karambol történt az M0-son, Gyálnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93225",
-      "lead": "A tűzoltók áramtalanítják a járműveket.",
-      "body": "Három gépkocsi szenvedett ráfutásos balesetet az M0-s autóút 33-as és 34-es kilométerszelvénye között, Gyál térségében, a Vecsés felé vezető irányban. Összesen öten utaztak a karambolos járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítanak. A baleset miatt forgalmi akadály alakult ki a belső sávban az érintett útszakaszon.",
-      "location": "Gyál, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
