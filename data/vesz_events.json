@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T16:42:11.706209+00:00",
-  "count": 3687,
+  "updated_at": "2026-10-29T16:45:30.549124+00:00",
+  "count": 3688,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93249",
+      "datetime": "2026.10.29. 17:45",
+      "title": "Őzet gázolt el egy autó a 351-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93249",
+      "lead": "Tiszaújváros közelében forgalmi akadály van.",
+      "body": "Őzet ütött el egy személygépkocsi a 351-es főúton, Tiszaújváros közelében, a 2-es kilométerszelvénynél. A tiszaújvárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Oszlár, Ady Endre út",
+      "updates": []
+    },
     {
       "id": "93248",
       "datetime": "2026.10.29. 17:31",
