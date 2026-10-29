@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T16:05:02.487862+00:00",
-  "count": 3685,
+  "updated_at": "2026-10-29T16:08:29.603159+00:00",
+  "count": 3686,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93247",
+      "datetime": "2026.10.29. 17:08",
+      "title": "Lesodródott az útról egy kamion az 5204-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93247",
+      "lead": "Kiskunlacháza és Bugyi között félpályán halad a forgalom.",
+      "body": "Lesodródott az útról és villanyoszlopnak hajtott egy kamion az 5204-es úton, Kiskunlacháza és Bugyi között, a 6-os kilométerszelvénynél. A ráckevei önkormányzati tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kiskunlacháza, Kátó tanya",
+      "updates": []
+    },
     {
       "id": "93246",
       "datetime": "2026.10.29. 16:28",
