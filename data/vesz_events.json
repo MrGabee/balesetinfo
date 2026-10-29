@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:06:22.867537+00:00",
+  "updated_at": "2026-10-29T13:09:52.946017+00:00",
   "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -64,9 +64,9 @@
       "title": "Felborult egy autó Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93238",
-      "lead": "A Megyeri úton akadályozza a forgalmat a baleset.",
-      "body": "Felborult egy személygépkocsi Budapest IV. kerületében, a Megyeri úton, a Szilaspatak sor közelében. A jármű egy közvilágítási oszlopot is kidöntött. A fővárosi hivatásos és az újpesti önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Budapest, Megyeri út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -75,9 +75,9 @@
       "title": "Karambol Szigethalmon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93237",
-      "lead": "A Határ utcában forgalmi akadály van.",
-      "body": "Összeütközött két személygépkocsi Szigethalom, a Határ utcában. Az autókban összesen hárman utaztak. A szigetszentmiklósi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Szigethalom, Határ utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -141,19 +141,10 @@
       "title": "Családi ház ég Magyarkeszin",
       "category": "Családi ház ég Magyarkeszin",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93231",
-      "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
-      "body": "Egy családi ház ég teljes terjedelmében Magyarkeszin, a Petőfi utcában. A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók érkeztek a helyszínre, három vízsugárral oltják a lángokat. Információk szerint gázpalack lehet az épületben.",
-      "location": "Magyarkeszi, Petőfi utca",
-      "updates": [
-        {
-          "title": "Izzó gócokat oltanak a tűzoltók Magyarkeszin",
-          "datetime": "2026.10.29. 02:29",
-          "category": "Tűzeset",
-          "text": "A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók körülhatárolták a lángokat, jelenleg már csak az izzó gócokat kutatják fel és oltják el Magyarkeszin, ahol egy százhúsz négyzetméteres, egyszintes családi ház égett teljes terjedelmében a Petőfi utcában. Az elsődleges információk szerint gázpalack volt az épületben, az egységek azonban nem találtak palackot a munkálatok közben. Az ingatlan a tűz következtében lakhatatlanná vált.",
-          "location": "Magyarkeszi, Petőfi utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93231/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93231"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93230",
