@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T06:53:05.898463+00:00",
+  "updated_at": "2026-10-29T06:56:49.270361+00:00",
   "count": 3673,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,7 +45,16 @@
       "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
       "body": "Egy családi ház ég teljes terjedelmében Magyarkeszin, a Petőfi utcában. A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók érkeztek a helyszínre, három vízsugárral oltják a lángokat. Információk szerint gázpalack lehet az épületben.",
       "location": "Magyarkeszi, Petőfi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Izzó gócokat oltanak a tűzoltók Magyarkeszin",
+          "datetime": "2026.10.29. 02:29",
+          "category": "Tűzeset",
+          "text": "A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók körülhatárolták a lángokat, jelenleg már csak az izzó gócokat kutatják fel és oltják el Magyarkeszin, ahol egy százhúsz négyzetméteres, egyszintes családi ház égett teljes terjedelmében a Petőfi utcában. Az elsődleges információk szerint gázpalack volt az épületben, az egységek azonban nem találtak palackot a munkálatok közben. Az ingatlan a tűz következtében lakhatatlanná vált.",
+          "location": "Magyarkeszi, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93231/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93231"
+        }
+      ]
     },
     {
       "id": "93230",
@@ -64,9 +73,9 @@
       "title": "Robbanás történt egy szakályi lakóépület kazánházában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93229",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók gázpalackokat hoztak ki a kazánházból.",
+      "body": "Robbanás történt egy lakóház öt négyzetméteres kazánházában Szakályon, a Szabadság utcában. A robbanás következtében a felhalmozott szemét meggyulladt az épületben. A tamási önkormányzati és önkéntes tűzoltók egy vízsugárral oltották a lángokat. A munkálatok közben kihoztak az épületből egy felrobbant gázpalackot, egy másikat pedig visszahűtöttek. A helyszínre a dombóvári hivatásos tűzoltók is kiérkeztek, jelenleg megtisztítják a kazánházat, valamint a még izzó, parázsló részek megszüntetésén dolgoznak. Információk szerint a detonáció a főépületben, valamint a szomszéd telken álló melléképületben is kárt tett.",
+      "location": "Szakály, Szabadság utca",
       "updates": []
     },
     {
