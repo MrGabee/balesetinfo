@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:59:40.139570+00:00",
+  "updated_at": "2026-10-29T13:03:16.240382+00:00",
   "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Baleset történt Szada közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93239",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Székely Bertalan út és az Ipari park út kereszteződésénél teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a Székely Bertalan út és az Ipari park út kereszteződésénél, a Szadához tartozó Fenyvesligetnél. A gödöllői hivatásos és a veresegyházi önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szada, Ipari park út",
       "updates": []
     },
     {
@@ -172,9 +172,9 @@
       "title": "Robbanás történt egy szakályi lakóépület kazánházában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93229",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók gázpalackokat hoztak ki a kazánházból.",
+      "body": "Robbanás történt egy lakóház öt négyzetméteres kazánházában Szakályon, a Szabadság utcában. A robbanás következtében a felhalmozott szemét meggyulladt az épületben. A tamási önkormányzati és önkéntes tűzoltók egy vízsugárral oltották a lángokat. A munkálatok közben kihoztak az épületből egy felrobbant gázpalackot, egy másikat pedig visszahűtöttek. A helyszínre a dombóvári hivatásos tűzoltók is kiérkeztek, jelenleg megtisztítják a kazánházat, valamint a még izzó, parázsló részek megszüntetésén dolgoznak. Információk szerint a detonáció a főépületben, valamint a szomszéd telken álló melléképületben is kárt tett.",
+      "location": "Szakály, Szabadság utca",
       "updates": []
     },
     {
@@ -280,10 +280,19 @@
       "title": "Ég egy melléképület Piliscséven",
       "category": "Ég egy melléképület Piliscséven",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
+      "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
+      "location": "Piliscsév, Petőfi Sándor utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Piliscséven",
+          "datetime": "2026.10.28. 14:36",
+          "category": "Tűzeset",
+          "text": "Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral eloltották a lángokat Piliscséven, ahol kigyulladt, majd teljes terjedelmében égett egy melléképület a Petőfi Sándor utcában. Az egységek a munkálatok közben összesen három gázpalackot hoztak ki az épületből. Kettő közülük felrobbant, a harmadik palackot folyamatosan hűtötték. A tűzoltók jelenleg az utómunkálatokat végzik.",
+          "location": "Piliscsév, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93220"
+        }
+      ]
     },
     {
       "id": "93219",
@@ -302,9 +311,9 @@
       "title": "Karambolozott két autó Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93218",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták az utat a Bem és a Fecske utca kereszteződésénél.",
+      "body": "Összeütközött két személyautó Kecskeméten, a Bem és a Fecske utca kereszteződésénél. Az egyik jármű a tetejére borult a karambol következtében. A város hivatásos tűzoltói egy gépkocsit áramtalanítottak. A mentők is kivonultak a balesethez, amelynek helyszínén teljes szélességében lezárták az utat.",
+      "location": "Kecskemét, Bem utca",
       "updates": []
     },
     {
@@ -357,9 +366,9 @@
       "title": "Három autó karambolozott Dabason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93213",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták a Szabadság út érintett szakaszát a baleset miatt.",
+      "body": "Három gépkocsi ütközött össze Dabason, a Szabadság út elején. A város hivatásos tűzoltói áramtalanították a járműveket, amelyek utasai saját erejükből ki tudtak szállni. Az egység mellett a társhatóságok is kiérkeztek a balesethez, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Dabas, Szabadság út",
       "updates": []
     },
     {
