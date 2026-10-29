@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T07:14:30.766267+00:00",
+  "updated_at": "2026-10-29T07:18:10.799962+00:00",
   "count": 3673,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -161,10 +161,19 @@
       "title": "Kigyulladt egy garázs Keszthelyen",
       "category": "Kigyulladt egy garázs Keszthelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Buzogány utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
+      "location": "Keszthely, Buzogány utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a keszthelyi tűznél",
+          "datetime": "2026.10.28. 14:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Keszthelyen, a Buzogány utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy garázs. Meggyulladt a mellette felhalmozott tűzifa is. A város hivatásos tűzoltói kihoztak egy hegesztő-, valamint egy gázpalackot a mintegy húsz négyzetméteres épületből, és két vízsugárral megfékezték a lángokat. A rajok utómunkálatokat végeznek.",
+          "location": "Keszthely, Buzogány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93221"
+        }
+      ]
     },
     {
       "id": "93220",
@@ -203,9 +212,9 @@
       "title": "Karambolozott két autó Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93218",
-      "lead": "Lezárták az utat a Bem és a Fecske utca kereszteződésénél.",
-      "body": "Összeütközött két személyautó Kecskeméten, a Bem és a Fecske utca kereszteződésénél. Az egyik jármű a tetejére borult a karambol következtében. A város hivatásos tűzoltói egy gépkocsit áramtalanítottak. A mentők is kivonultak a balesethez, amelynek helyszínén teljes szélességében lezárták az utat.",
-      "location": "Kecskemét, Bem utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -214,9 +223,9 @@
       "title": "Karambolozott két autó Mosonmagyaróváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93217",
-      "lead": "A járművek az Alkotmány és a Barátság utca kereszteződésénél akadályozzák a forgalmat.",
-      "body": "Egymásnak ütközött egy kisteherautó és egy személygépkocsi Mosonmagyaróváron, az Alkotmány utcában, a Barátság utcánál. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másiknál nincs szükség ilyen beavatkozásra. A karambol következtében motorolaj folyt az úttestre a gépkocsikból, amelyek akadályozzák a forgalmat.",
-      "location": "Mosonmagyaróvár, Barátság utca, Alkotmány utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -225,9 +234,9 @@
       "title": "Összeütközött két autó Makón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93216",
-      "lead": "Nagycsillag és a Váradi utca kereszteződésénél van szükség tűzoltói beavatkozásra.",
-      "body": "Karambolozott két személyautó Makón, a Nagycsillag és a Váradi utca kereszteződésében. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra kell számítani.",
-      "location": "Makó, Nagycsillag utca, Váradi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +322,9 @@
       "title": "Pincetűz Pomázon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93208",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi ház pincéjében Pomázon, a Táncsics Mihály utcában. A helyiségben kazán, valamint mellette berendezési tárgyak égtek. A szentendrei hivatásos és a pomázi önkormányzati tűzoltók egy gázpalackot hoztak ki a pincéből, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Pomáz, Táncsics Mihály utca",
       "updates": []
     },
     {
@@ -452,9 +461,9 @@
       "title": "Karambol történt a 74-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93197",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Sárhida közelében egy szakaszon félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautóm a 74-es főúton, Sárhida közelében, a 38. kilométernél. Az egyik jármű az árokba sodródott. A műszaki mentést végző zalaegerszegi hivatásos tűzoltók áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén rendőri irányítás mellett, félpályán halad a forgalom.",
+      "location": "Sárhida, 74",
       "updates": []
     },
     {
