@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:19:26.931058+00:00",
+  "updated_at": "2026-10-29T11:23:13.960408+00:00",
   "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -280,19 +280,10 @@
       "title": "Ég egy melléképület Piliscséven",
       "category": "Ég egy melléképület Piliscséven",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220",
-      "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
-      "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
-      "location": "Piliscsév, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Piliscséven",
-          "datetime": "2026.10.28. 14:36",
-          "category": "Tűzeset",
-          "text": "Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral eloltották a lángokat Piliscséven, ahol kigyulladt, majd teljes terjedelmében égett egy melléképület a Petőfi Sándor utcában. Az egységek a munkálatok közben összesen három gázpalackot hoztak ki az épületből. Kettő közülük felrobbant, a harmadik palackot folyamatosan hűtötték. A tűzoltók jelenleg az utómunkálatokat végzik.",
-          "location": "Piliscsév, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93220"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93219",
@@ -300,9 +291,9 @@
       "title": "Szalagkorlátnak ütközött egy kamion az M6-oson, Szebénynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93219",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mindkét irányban lezárták a belső sávot az érintett pályaszakaszon.",
+      "body": "Szalagkorlátnak ütközött egy kamion az M6-os autópálya 176-os kilométerszelvényénél, Szebény térségében, a Pécs felé vezető irányban. A járműben csak a vezetője utazott. A véméndi és a mohácsi hivatásos tűzoltók érkeztek a helyszínre, áramtalanították a kamiont. A baleset miatt mindkét oldalon lezárták a belső sávot az érintett pályaszakaszon.",
+      "location": "Szebény, M6",
       "updates": []
     },
     {
@@ -421,9 +412,9 @@
       "title": "Pincetűz Pomázon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93208",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi ház pincéjében Pomázon, a Táncsics Mihály utcában. A helyiségben kazán, valamint mellette berendezési tárgyak égtek. A szentendrei hivatásos és a pomázi önkormányzati tűzoltók egy gázpalackot hoztak ki a pincéből, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Pomáz, Táncsics Mihály utca",
       "updates": []
     },
     {
