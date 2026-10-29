@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T11:07:36.423312+00:00",
-  "count": 3680,
+  "updated_at": "2026-10-29T11:11:26.959115+00:00",
+  "count": 3681,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93242",
+      "datetime": "2026.10.29. 12:09",
+      "title": "Felborult egy kisteherautó a 65-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93242",
+      "lead": "Hőgyész közelébe vonultak a tűzoltók, akik áramtalanították a járművet.",
+      "body": "Lesodródott az úttestről és az oldalára borult egy kisteherautó a 65-ös főúton, Hőgyész közelében, a 23. kilométernél. A tamási önkormányzati tűzoltók vonultak ki a balesethez, és áramtalanították a járművet. A gépkocsiból motorolaj került az úttestre, de a raj a szivárgást is megszüntette.",
+      "location": "Hőgyész, 65",
+      "updates": []
+    },
     {
       "id": "93241",
       "datetime": "2026.10.29. 11:19",
