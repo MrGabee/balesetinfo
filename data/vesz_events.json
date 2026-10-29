@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T22:38:53.798145+00:00",
-  "count": 3693,
+  "updated_at": "2026-10-29T22:43:07.264548+00:00",
+  "count": 3694,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93255",
+      "datetime": "2026.10.29. 23:42",
+      "title": "Ház égett Kiskunhalason",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93255",
+      "lead": "A Polgár utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház egyik helyisége Kiskunhalason, a Polgár utcában. A szobában ágy és szekrény égett. A helyi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Kiskunhalas, Polgár utca",
+      "updates": []
+    },
     {
       "id": "93254",
       "datetime": "2026.10.29. 21:14",
