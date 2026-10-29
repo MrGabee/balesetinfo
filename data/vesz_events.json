@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:00:51.625121+00:00",
+  "updated_at": "2026-10-29T11:04:36.133659+00:00",
   "count": 3680,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Baleset történt Szada közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93239",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Székely Bertalan út és az Ipari park út kereszteződésénél teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a Székely Bertalan út és az Ipari park út kereszteződésénél, a Szadához tartozó Fenyvesligetnél. A gödöllői hivatásos és a veresegyházi önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szada, Ipari park út",
       "updates": []
     },
     {
@@ -42,9 +42,9 @@
       "title": "Felborult egy autó Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93238",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Megyeri úton akadályozza a forgalmat a baleset.",
+      "body": "Felborult egy személygépkocsi Budapest IV. kerületében, a Megyeri úton, a Szilaspatak sor közelében. A jármű egy közvilágítási oszlopot is kidöntött. A fővárosi hivatásos és az újpesti önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Megyeri út",
       "updates": []
     },
     {
@@ -64,9 +64,9 @@
       "title": "Autó égett az M0-son",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93236",
-      "lead": "Gyál közelében, az M1-es felé torlódásra kell számítani.",
-      "body": "Kigyulladt egy kisteherautó az M0-s autóútnak az M1-es autópálya felé vezető oldalán, Gyál közelében, a 31. és a 32. kilométer között. Teljes terjedelmében égett a szerszámokat szállító jármű, amikor a fővárosi hivatásos tűzoltók a helyszínre érkeztek. A raj eloltotta a lángokat, és megkezdte az utómunkálatokat. Az érintett útszakaszon forgalomkorlátozásra és torlódásra kell számítani.",
-      "location": "Gyál, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
