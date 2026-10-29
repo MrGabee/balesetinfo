@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T09:51:44.160953+00:00",
-  "count": 3677,
+  "updated_at": "2026-10-29T09:55:18.559137+00:00",
+  "count": 3678,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93239",
+      "datetime": "2026.10.29. 10:54",
+      "title": "Baleset történt Szada közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93239",
+      "lead": "A Székely Bertalan út és az Ipari park út kereszteződésénél teljes szélességében lezárták az utat.",
+      "body": "Összeütközött két személygépkocsi a Székely Bertalan út és az Ipari park út kereszteződésénél, a Szadához tartozó Fenyvesligetnél. A gödöllői hivatásos és a veresegyházi önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szada, Ipari park út",
+      "updates": []
+    },
     {
       "id": "93238",
       "datetime": "2026.10.29. 10:07",
@@ -75,9 +86,9 @@
       "title": "Fának ütközött egy autó Zalaegerszeg és Gellénháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93232",
-      "lead": "A hatósági munkálatok idejére lezárták a 7401-es út érintett szakaszát.",
-      "body": "Letért az úttestről, majd fának hajtott egy gépkocsi Zalaegerszeg és Gellénháza között, a 7401-es út 8-as kilométerszelvényénél, a kanyarban. A zalaegerszegi hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. A tűzoltók az áramtalanítást követően megbontották a járművet, kiemelték a két utast. A beavatkozás idejére lezárták az érintett útszakaszt.",
-      "location": "Bocfölde, 7401",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
