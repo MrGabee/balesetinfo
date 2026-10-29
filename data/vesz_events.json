@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T20:13:10.099112+00:00",
-  "count": 3692,
+  "updated_at": "2026-10-29T20:17:08.277661+00:00",
+  "count": 3693,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93254",
+      "datetime": "2026.10.29. 21:14",
+      "title": "Ház égett Kisvárdán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93254",
+      "lead": "A tűzoltók már az utómunkálatokat végzik.",
+      "body": "Teljes terjedelmében égett egy családi ház Kisvárdán, a Fodorszőlőben. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kisvárda, Fodortanya dűlő",
+      "updates": []
+    },
     {
       "id": "93253",
       "datetime": "2026.10.29. 19:54 -",
