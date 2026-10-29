@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:15:26.890824+00:00",
+  "updated_at": "2026-10-29T08:19:37.931729+00:00",
   "count": 3674,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -150,9 +150,9 @@
       "title": "Kigyulladt egy autó motortere a Könyves Kálmán körúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93223",
-      "lead": "A tűzoltók rövid időn belül megfékezték a lángokat.",
-      "body": "Egy gépkocsi motortere égett a VIII. kerületben, a Könyves Kálmán körút és a Kőbányai út kereszteződésénél. A fővárosi hivatásos tűzoltók egy vízsugárral rövid időn belül eloltották a lángokat. Az egység megkezdte az utómunkálatokat.",
-      "location": "Budapest, Könyves Kálmán körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -245,9 +245,9 @@
       "title": "Összeütközött két autó Makón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93216",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nagycsillag és a Váradi utca kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott két személyautó Makón, a Nagycsillag és a Váradi utca kereszteződésében. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra kell számítani.",
+      "location": "Makó, Nagycsillag utca, Váradi utca",
       "updates": []
     },
     {
@@ -267,9 +267,9 @@
       "title": "Baleset történt Szombathelyen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93214",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nárai utca egy szakaszáról elterelik a forgalmat.",
+      "body": "Álló személyautónak ütközött egy másik Szombathelyen, a Nárai utcában. A karambolban egy harmadik gépkocsi is megrongálódott. A város hivatásos tűzoltói áramtalanítják az egyik járművet, amelyből egy embert kiemeltek, majd átadtak a mentőknek. A baleset helyszínénél lezárták az utat, a forgalmat elterelik.",
+      "location": "Szombathely, Nárai utca",
       "updates": []
     },
     {
@@ -278,9 +278,9 @@
       "title": "Három autó karambolozott Dabason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93213",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták a Szabadság út érintett szakaszát a baleset miatt.",
+      "body": "Három gépkocsi ütközött össze Dabason, a Szabadság út elején. A város hivatásos tűzoltói áramtalanították a járműveket, amelyek utasai saját erejükből ki tudtak szállni. Az egység mellett a társhatóságok is kiérkeztek a balesethez, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Dabas, Szabadság út",
       "updates": []
     },
     {
@@ -289,9 +289,9 @@
       "title": "Hármas karambol Levélen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93212",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 1-es főút és a Dózsa György utca találkozásánál dolgoznak a tűzoltók.",
+      "body": "Összeütközött három személyautó Levélen, az 1-es főút és a Dózsa György utca találkozásánál. A műszaki mentést végző mosonmagyaróvári hivatásos tűzoltók két járművet áramtalanítanak, a harmadiknál nincs szükség ilyen beavatkozásra. A helyszínen vannak a mentők is. Az 1-es főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Levél, 1, Dózsa György utca",
       "updates": []
     },
     {
@@ -300,9 +300,9 @@
       "title": "Négyes karambol Mende és Gyömrő között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93211",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 31-es főúton félpályán halad a forgalom.",
+      "body": "Egy kamion, egy kisbusz és két személyautó ütközött össze a 31-es főút Mendét és Gyömrőt összekötő szakaszán, a 34-es és 35-ös kilométerszelvény között. A monori hivatásos és a gyömrői önkéntes tűzoltók két járművet áramtalanítottak. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Mende, 31",
       "updates": []
     },
     {
@@ -311,9 +311,9 @@
       "title": "Összeütközött két autó Maglódon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93210",
-      "lead": "A Széchenyi utca és a Reviczky utca kereszteződésében forgalmi akadályra kell számítani.",
-      "body": "Két személyautó ütközött össze Maglódon, a Széchenyi utca és a Reviczky utca kereszteződésében. A balesethez a gyömrői önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Maglód, Reviczky utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -428,9 +428,9 @@
       "title": "Karambolozott két autó Tiszabercel közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93201",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 3823-as úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött két személyautó a 3823-as úton, Tiszabercel közelében. Mindkét jármű az árokba sodródott, az egyik a tetejére borult. Az egyik gépkocsiból nem tudott kiszállni egy ember. Őt feszítővágóval kiszabadították, majd a mentőkkel közösen kiemelték a műszaki mentést végző nyíregyházi hivatásos és ibrányi önkormányzati tűzoltók. A rajok áramtalanították az autókat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Tiszabercel, 3823",
       "updates": []
     },
     {
@@ -461,9 +461,9 @@
       "title": "Baleset történt az M0-áson, Dunaharasztinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93198",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A lehajtót lezárták.",
+      "body": "Átszakította a szalagkorlátot majd árokba hajtott egy személyautó az M0-ás autóút M5-ös autópálya felé vezető oldalán, a dunaharaszti lehajtó közelében. A fővárosi hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszon a lehajtót lezárták.",
+      "location": "Budapest, M0",
       "updates": []
     },
     {
