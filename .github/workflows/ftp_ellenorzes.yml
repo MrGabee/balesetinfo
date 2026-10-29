@@ -1,0 +1,35 @@
+name: FTP hozzáférés ellenőrzése
+
+# Csak ellenőriz: megnézi, hogy a titkok megvannak-e, és be lehet-e lépni
+# velük az FTP-re (mappalistázás). Semmit nem tölt fel és nem töröl.
+on:
+  push:
+    branches: [claude/project-thread-qh8yy9]
+    paths: [.github/workflows/ftp_ellenorzes.yml]
+  workflow_dispatch:
+
+jobs:
+  ellenorzes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: baleset-info.hu
+        if: always()
+        env:
+          SZERVER: ${{ secrets.BALESETINFO_FTP_SERVER }}
+          FELHASZNALO: ${{ secrets.BALESETINFO_FTP_USER }}
+          JELSZO: ${{ secrets.BALESETINFO_FTP_PASSWORD }}
+        run: |
+          hiany=""
+          [ -z "$SZERVER" ] && hiany="$hiany BALESETINFO_FTP_SERVER"
+          [ -z "$FELHASZNALO" ] && hiany="$hiany BALESETINFO_FTP_USER"
+          [ -z "$JELSZO" ] && hiany="$hiany BALESETINFO_FTP_PASSWORD"
+          if [ -n "$hiany" ]; then echo "HIÁNYZÓ TITKOK:$hiany"; exit 1; fi
+          host="${SZERVER#ftp://}"; host="${host#ftps://}"; host="${host%/}"
+          if curl -sS --max-time 30 --ssl-reqd --list-only --user "$FELHASZNALO:$JELSZO" "ftp://$host/" > lista.txt 2> hiba.txt; then
+            echo "OK: FTPS (titkosított) belépés sikerült."
+          elif curl -sS --max-time 30 --list-only --user "$FELHASZNALO:$JELSZO" "ftp://$host/" > lista.txt 2> hiba.txt; then
+            echo "OK: sima FTP belépés sikerült (titkosítás nélkül)."
+          else
+            echo "HIBA: nem sikerült belépni."; cat hiba.txt; exit 1
+          fi
+          echo "A gyökérmappa tartalma:"; cat lista.txt
