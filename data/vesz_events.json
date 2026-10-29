@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T16:28:55.600349+00:00",
-  "count": 3686,
+  "updated_at": "2026-10-29T16:31:48.344704+00:00",
+  "count": 3687,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93248",
+      "datetime": "2026.10.29. 17:31",
+      "title": "Karambol a 441-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93248",
+      "lead": "Kecskemétnél forgalmi akadályra kell számítani.",
+      "body": "Összeütközött egy kamion és egy személygépkocsi a 441-es főúton, Kecskemétnél, a 28-as kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A kecskeméti hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kecskemét, Talfája tanya",
+      "updates": []
+    },
     {
       "id": "93247",
       "datetime": "2026.10.29. 17:08",
