@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T18:53:46.161758+00:00",
-  "count": 3691,
+  "updated_at": "2026-10-29T18:57:05.199308+00:00",
+  "count": 3692,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93253",
+      "datetime": "2026.10.29. 19:54",
+      "title": "Melléképület ég Mosonmagyaróváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253",
+      "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
+      "location": "Mosonmagyaróvár, Gabona rakpart",
+      "updates": []
+    },
     {
       "id": "93252",
       "datetime": "2026.10.29. 19:40",
