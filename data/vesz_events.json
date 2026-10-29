@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T09:06:17.522826+00:00",
-  "count": 3676,
+  "updated_at": "2026-10-29T09:09:58.886471+00:00",
+  "count": 3677,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93238",
+      "datetime": "2026.10.29. 10:07",
+      "title": "Felborult egy autó Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93238",
+      "lead": "A Megyeri úton akadályozza a forgalmat a baleset.",
+      "body": "Felborult egy személygépkocsi Budapest IV. kerületében, a Megyeri úton, a Szilaspatak sor közelében. A jármű egy közvilágítási oszlopot is kidöntött. A fővárosi hivatásos és az újpesti önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Megyeri út",
+      "updates": []
+    },
     {
       "id": "93237",
       "datetime": "2026.10.29. 10:05",
@@ -95,9 +106,9 @@
       "title": "Tűz volt egy lajosmizsei lakóház födémszerkezetében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93230",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megbontották a födémet a munkálatok közben.",
+      "body": "Egy száz négyzetméteres családi ház födémszerkezetében keletkezett tűz mintegy nyolc négyzetméteren Lajosmizsén, a Rózsa utcában. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók a közművek elzárását követően megbontották az épületen belül az álmennyezetet, majd a padlástérben is megbontották a födémet, egy vízsugárral eloltották a tüzet. Az egységek az utómunkálatok közben hőkamerával átvizsgálták az épületet, amely lakható maradt.",
+      "location": "Lajosmizse, Rózsa utca",
       "updates": []
     },
     {
@@ -139,9 +150,9 @@
       "title": "Karambolozott két gépkocsi Pesterzsébeten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93226",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Kende Kanuth utcában végeznek műszaki mentést.",
+      "body": "Egymásnak ütközött két személyautó Budapest XX. kerületében, a Kende Kanuth utcában, a Dobos utcánál. Az egyik jármű az oldalára borult a karambol következtében. A fővárosi hivatásos tűzoltók áramtalanítják ezt a gépkocsit. A balesethez a mentőket is riasztották.",
+      "location": "Budapest, Kende Kanuth utca",
       "updates": []
     },
     {
@@ -183,9 +194,9 @@
       "title": "Karambol az M7-esen, Székesfehérvárnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93222",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Egy embert a tűzoltók szabadítottak ki az egyik autóból.",
+      "body": "Összeütközött egy kisteherautó és egy személygépkocsi az M7-es autópálya Letenye felé vezető oldalán, Székesfehérvárnál, a 63. kilométer közelében. Egy ember beszorult a személyautóba. Őt a jármű ajtaját felfeszítve kiszabadították, majd kiemelték és átadták a mentőknek a székesfehérvári hivatásos tűzoltók, akik áramtalanították is a gépkocsit. A teherautónál nem volt szükség ilyen beavatkozásra. A műszaki mentést a Fejér megyei katasztrófavédelmi műveleti szolgálat irányítja. Az érintett sztrádaszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Székesfehérvár, M7",
       "updates": []
     },
     {
