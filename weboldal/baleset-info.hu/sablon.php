@@ -113,6 +113,7 @@ footer a:hover{text-decoration:underline}
 .chan i{margin-left:auto;font-style:normal;color:var(--acc);font-size:20px}
 .c-blue{background:linear-gradient(135deg,#3aa0ff,#2b6bff)}
 .c-green{background:linear-gradient(135deg,#4cd964,#22a843)}
+.c-viber{background:linear-gradient(135deg,#8f5db7,#665cac)}
 .c-teal{background:linear-gradient(135deg,#ffb04a,#ff6a2b)}
 .label{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--acc)}
 .tips{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
@@ -206,12 +207,14 @@ footer a:hover{text-decoration:underline}
   </section>
 
   <section id="elerhetoseg" style="display:grid;gap:12px">
-    <span class="label">Kövesd a híreket</span>
+    <span class="label">Kövesd a híreket, írj nekünk</span>
     <div class="chan">
       <a href="https://www.facebook.com/groups/balesetinfo" target="_blank" rel="noopener"><span class="ci c-blue" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20a6 6 0 0 1 12 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.5A5 5 0 0 1 21 19"/></svg></span><span class="t"><small>Facebook csoport</small><b>Balesetinfo</b></span><i aria-hidden="true">→</i></a>
+      <a href="https://wa.me/36707540254" target="_blank" rel="noopener"><span class="ci c-green" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20l1.4-4A8 8 0 1 1 8.2 19z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1-1.5-2-1-1 .8a4 4 0 0 1-1.8-1.8l.8-1-1-2z"/></svg></span><span class="t"><small>WhatsApp · csak üzenet</small><b>+36 70 754 0254</b></span><i aria-hidden="true">→</i></a>
+      <a href="viber://chat?number=%2B36707540254"><span class="ci c-viber" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3c5 0 8 2.5 8 7.5S17 18 12 18l-4 3v-3.5C5.5 16.5 4 14 4 10.5 4 5.5 7 3 12 3z"/><path d="M9.5 8.5c.3 2.4 1.6 3.7 4 4l1-1.2 1.6.8-.6 1.6c-3.5-.2-6.2-2.9-6.4-6.4l1.6-.6.8 1.6z"/></svg></span><span class="t"><small>Viber · csak üzenet</small><b>+36 70 754 0254</b></span><i aria-hidden="true">→</i></a>
       <a href="#uzenet" data-open="uzenet"><span class="ci c-teal" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></span><span class="t"><small>Üzenet</small><b>Írj a szerkesztőknek</b></span><i aria-hidden="true">→</i></a>
     </div>
-    <p class="hint">A beküldött anyagokat a szerkesztők átnézik, és csak ezután kerülhetnek ki a csoportba.</p>
+    <p class="hint">A számon csak WhatsApp és Viber üzenetet fogadunk, hívást nem. A beküldött anyagokat a szerkesztők átnézik, és csak ezután kerülhetnek ki a csoportba.</p>
   </section>
 </main>
 
