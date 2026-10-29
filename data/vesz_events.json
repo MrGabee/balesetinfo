@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-28T23:58:22.655544+00:00",
-  "count": 3669,
+  "updated_at": "2026-10-29T00:01:47.958816+00:00",
+  "count": 3670,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93231",
+      "datetime": "2026.10.29. 01:01",
+      "title": "Családi ház ég Magyarkeszin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93231",
+      "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
+      "body": "Egy családi ház ég teljes terjedelmében Magyarkeszin, a Petőfi utcában. A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók érkeztek a helyszínre, három vízsugárral oltják a lángokat. Információk szerint gázpalack lehet az épületben.",
+      "location": "Magyarkeszi, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "93230",
       "datetime": "2026.10.29. 00:56",
