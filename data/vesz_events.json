@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T07:18:10.799962+00:00",
-  "count": 3673,
+  "updated_at": "2026-10-29T07:21:59.310182+00:00",
+  "count": 3674,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93235",
+      "datetime": "2026.10.29. 08:20",
+      "title": "Baleset történt Rákóczifalván",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93235",
+      "lead": "A Szent László király útját teljes szélességében lezárták.",
+      "body": "Beszakadt egy nyergesvontató alatt az úttest Rákóczifalván, a Szent László király úton. A szolnoki hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Rákóczifalva, Szent László király út",
+      "updates": []
+    },
     {
       "id": "93234",
       "datetime": "2026.10.29. 06:41",
@@ -212,9 +223,9 @@
       "title": "Karambolozott két autó Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93218",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták az utat a Bem és a Fecske utca kereszteződésénél.",
+      "body": "Összeütközött két személyautó Kecskeméten, a Bem és a Fecske utca kereszteződésénél. Az egyik jármű a tetejére borult a karambol következtében. A város hivatásos tűzoltói egy gépkocsit áramtalanítottak. A mentők is kivonultak a balesethez, amelynek helyszínén teljes szélességében lezárták az utat.",
+      "location": "Kecskemét, Bem utca",
       "updates": []
     },
     {
@@ -223,9 +234,9 @@
       "title": "Karambolozott két autó Mosonmagyaróváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93217",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A járművek az Alkotmány és a Barátság utca kereszteződésénél akadályozzák a forgalmat.",
+      "body": "Egymásnak ütközött egy kisteherautó és egy személygépkocsi Mosonmagyaróváron, az Alkotmány utcában, a Barátság utcánál. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másiknál nincs szükség ilyen beavatkozásra. A karambol következtében motorolaj folyt az úttestre a gépkocsikból, amelyek akadályozzák a forgalmat.",
+      "location": "Mosonmagyaróvár, Barátság utca, Alkotmány utca",
       "updates": []
     },
     {
@@ -234,9 +245,9 @@
       "title": "Összeütközött két autó Makón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93216",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nagycsillag és a Váradi utca kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott két személyautó Makón, a Nagycsillag és a Váradi utca kereszteződésében. A város hivatásos tűzoltói áramtalanítják a járműveket. A baleset helyszínén forgalmi akadályra kell számítani.",
+      "location": "Makó, Nagycsillag utca, Váradi utca",
       "updates": []
     },
     {
