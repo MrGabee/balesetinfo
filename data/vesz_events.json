@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T02:29:28.471739+00:00",
-  "count": 3671,
+  "updated_at": "2026-10-29T02:33:00.660280+00:00",
+  "count": 3672,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93233",
+      "datetime": "2026.10.29. 03:29",
+      "title": "Úttisztító járműnek hajtott egy személyautó Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93233",
+      "lead": "A tűzoltók emelték ki a kisebb jármű vezetőjét.",
+      "body": "Úttisztító járműbe hajtott hátulról egy személyautó a XIX. kerületi Nagykőrösi úton, a Vas Gereben utca közelében. A baleset következtében a személyautó vezetője beszorult, a fővárosi hivatásos tűzoltók emelték ki. Az egység emellett mindkét járművet áramtalanítja. A balesethez a társhatóságok is kiéreztek, a munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Budapest, Nagykőrösi út",
+      "updates": []
+    },
     {
       "id": "93232",
       "datetime": "2026.10.29. 01:09",
