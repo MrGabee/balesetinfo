@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T07:10:48.341049+00:00",
+  "updated_at": "2026-10-29T07:14:30.766267+00:00",
   "count": 3673,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Fának ütközött egy autó Zalaegerszeg és Gellénháza között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93232",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A hatósági munkálatok idejére lezárták a 7401-es út érintett szakaszát.",
+      "body": "Letért az úttestről, majd fának hajtott egy gépkocsi Zalaegerszeg és Gellénháza között, a 7401-es út 8-as kilométerszelvényénél, a kanyarban. A zalaegerszegi hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. A tűzoltók az áramtalanítást követően megbontották a járművet, kiemelték a két utast. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Bocfölde, 7401",
       "updates": []
     },
     {
@@ -161,19 +161,10 @@
       "title": "Kigyulladt egy garázs Keszthelyen",
       "category": "Kigyulladt egy garázs Keszthelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221",
-      "lead": "A Buzogány utcába riasztották a tűzoltókat.",
-      "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
-      "location": "Keszthely, Buzogány utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatok zajlanak a keszthelyi tűznél",
-          "datetime": "2026.10.28. 14:17",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Keszthelyen, a Buzogány utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy garázs. Meggyulladt a mellette felhalmozott tűzifa is. A város hivatásos tűzoltói kihoztak egy hegesztő-, valamint egy gázpalackot a mintegy húsz négyzetméteres épületből, és két vízsugárral megfékezték a lángokat. A rajok utómunkálatokat végeznek.",
-          "location": "Keszthely, Buzogány utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93221"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93220",
@@ -322,9 +313,9 @@
       "title": "Pincetűz Pomázon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93208",
-      "lead": "A Táncsics Mihály utcában volt szükség tűzoltói beavatkozásra.",
-      "body": "Tűz volt egy családi ház pincéjében Pomázon, a Táncsics Mihály utcában. A helyiségben kazán, valamint mellette berendezési tárgyak égtek. A szentendrei hivatásos és a pomázi önkormányzati tűzoltók egy gázpalackot hoztak ki a pincéből, majd eloltották a lángokat. A rajok utómunkálatokat végeznek.",
-      "location": "Pomáz, Táncsics Mihály utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -461,9 +452,9 @@
       "title": "Karambol történt a 74-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93197",
-      "lead": "Sárhida közelében egy szakaszon félpályán halad a forgalom.",
-      "body": "Összeütközött két személyautóm a 74-es főúton, Sárhida közelében, a 38. kilométernél. Az egyik jármű az árokba sodródott. A műszaki mentést végző zalaegerszegi hivatásos tűzoltók áramtalanították a gépkocsikat. A mentők is kivonultak a balesethez, amelynek helyszínén rendőri irányítás mellett, félpályán halad a forgalom.",
-      "location": "Sárhida, 74",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
