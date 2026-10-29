@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-29T17:23:54.180900+00:00",
-  "count": 3688,
+  "updated_at": "2026-10-29T17:27:13.639506+00:00",
+  "count": 3689,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93250",
+      "datetime": "2026.10.29. 18:26",
+      "title": "Kazánház égett Ónodon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93250",
+      "lead": "Az Árpád utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy kazánházban Ónodon, az Árpád utcában. A tiszaújvárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ónod, Árpád utca",
+      "updates": []
+    },
     {
       "id": "93249",
       "datetime": "2026.10.29. 17:45",
