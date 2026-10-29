@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:28:58.827308+00:00",
+  "updated_at": "2026-10-29T12:32:35.333745+00:00",
   "count": 3682,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Autó égett az M0-son",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93236",
-      "lead": "Gyál közelében, az M1-es felé torlódásra kell számítani.",
-      "body": "Kigyulladt egy kisteherautó az M0-s autóútnak az M1-es autópálya felé vezető oldalán, Gyál közelében, a 31. és a 32. kilométer között. Teljes terjedelmében égett a szerszámokat szállító jármű, amikor a fővárosi hivatásos tűzoltók a helyszínre érkeztek. A raj eloltotta a lángokat, és megkezdte az utómunkálatokat. Az érintett útszakaszon forgalomkorlátozásra és torlódásra kell számítani.",
-      "location": "Gyál, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -311,9 +311,9 @@
       "title": "Karambolozott két autó Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93218",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták az utat a Bem és a Fecske utca kereszteződésénél.",
+      "body": "Összeütközött két személyautó Kecskeméten, a Bem és a Fecske utca kereszteződésénél. Az egyik jármű a tetejére borult a karambol következtében. A város hivatásos tűzoltói egy gépkocsit áramtalanítottak. A mentők is kivonultak a balesethez, amelynek helyszínén teljes szélességében lezárták az utat.",
+      "location": "Kecskemét, Bem utca",
       "updates": []
     },
     {
@@ -322,9 +322,9 @@
       "title": "Karambolozott két autó Mosonmagyaróváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93217",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A járművek az Alkotmány és a Barátság utca kereszteződésénél akadályozzák a forgalmat.",
+      "body": "Egymásnak ütközött egy kisteherautó és egy személygépkocsi Mosonmagyaróváron, az Alkotmány utcában, a Barátság utcánál. A város hivatásos tűzoltói áramtalanították az egyik járművet, a másiknál nincs szükség ilyen beavatkozásra. A karambol következtében motorolaj folyt az úttestre a gépkocsikból, amelyek akadályozzák a forgalmat.",
+      "location": "Mosonmagyaróvár, Barátság utca, Alkotmány utca",
       "updates": []
     },
     {
