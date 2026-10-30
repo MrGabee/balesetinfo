@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T14:08:30.137239+00:00",
-  "count": 3705,
+  "updated_at": "2026-10-30T14:11:33.527597+00:00",
+  "count": 3706,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93267",
+      "datetime": "2026.10.30. 15:09",
+      "title": "Hármas karambol történt Kecskemét és Szentkirály között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93267",
+      "lead": "A 4622-es út 3-4-es kilométere között egy kamion és két autó ütközött össze.",
+      "body": "Baleset történt a 4622-es út Kecskemét és Szentkirály közötti szakaszán. A 3-4-es kilométer között egy kamion és két személykocsi karambolozott. Az egyik autó árokba is hajtott. Mindhárom járműben csak annak vezetője ült, a sofőrökhöz mentő érkezett. A kecskeméti hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kecskemét, 4622",
+      "updates": []
+    },
     {
       "id": "93266",
       "datetime": "2026.10.30. 15:00",
