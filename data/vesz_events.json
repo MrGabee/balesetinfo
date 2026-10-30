@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T08:31:05.861519+00:00",
-  "count": 3695,
+  "updated_at": "2026-10-30T08:34:19.426058+00:00",
+  "count": 3696,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93257",
+      "datetime": "2026.10.30. 09:33",
+      "title": "Ég egy melléképület Erdőkertesen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257",
+      "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
+      "location": "Erdőkertes, Katona József utca",
+      "updates": []
+    },
     {
       "id": "93256",
       "datetime": "2026.10.30. 08:05",
@@ -280,9 +291,9 @@
       "title": "Úttisztító járműnek hajtott egy személyautó Kispesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93233",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók emelték ki a kisebb jármű vezetőjét.",
+      "body": "Úttisztító járműbe hajtott hátulról egy személyautó a XIX. kerületi Nagykőrösi úton, a Vas Gereben utca közelében. A baleset következtében a személyautó vezetője beszorult, a fővárosi hivatásos tűzoltók emelték ki. Az egység emellett mindkét járművet áramtalanítja. A balesethez a társhatóságok is kiéreztek, a munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Budapest, Nagykőrösi út",
       "updates": []
     },
     {
