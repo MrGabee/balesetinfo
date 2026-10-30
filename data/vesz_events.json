@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:07:48.239082+00:00",
+  "updated_at": "2026-10-30T11:11:46.412245+00:00",
   "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -386,9 +386,9 @@
       "title": "Lakóépület égett Kecskeméten",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93228",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók két vízsugárral fékezték meg a lángokat.",
+      "body": "Egy téglaépítésű lakóház égett Kecskeméten, a Zsinór utcában. Az épület mellett egy melléképület is állt. A kecskeméti hivatásos tűzoltók két vízsugárral és kéziszerszámokkal előbb körülhatárolták, majd eloltották a lángokat, a melléképületet pedig vízsugárral védték a tűztől. Az egységek jelenleg az utómunkálatokat végzik a helyszínen, ahol nagy mennyiségben halmoztak fel hulladékot az ingatlan területén.",
+      "location": "Kecskemét, Zsinór utca",
       "updates": []
     },
     {
@@ -463,10 +463,19 @@
       "title": "Kigyulladt egy garázs Keszthelyen",
       "category": "Kigyulladt egy garázs Keszthelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Buzogány utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
+      "location": "Keszthely, Buzogány utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a keszthelyi tűznél",
+          "datetime": "2026.10.28. 14:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Keszthelyen, a Buzogány utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy garázs. Meggyulladt a mellette felhalmozott tűzifa is. A város hivatásos tűzoltói kihoztak egy hegesztő-, valamint egy gázpalackot a mintegy húsz négyzetméteres épületből, és két vízsugárral megfékezték a lángokat. A rajok utómunkálatokat végeznek.",
+          "location": "Keszthely, Buzogány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93221"
+        }
+      ]
     },
     {
       "id": "93220",
