@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:09:40.813967+00:00",
+  "updated_at": "2026-10-30T12:13:18.398593+00:00",
   "count": 3700,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -62,10 +62,19 @@
       "title": "Ég egy melléképület Erdőkertesen",
       "category": "Ég egy melléképület Erdőkertesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
+      "location": "Erdőkertes, Katona József utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik az erdőkertesi tűznél",
+          "datetime": "2026.10.30. 09:59",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Erdőkertesen, a Katona József utcában keletkezett. Két mintegy tizenöt négyzetméteres melléképület és fahulladék égett. A gödöllői hivatásos tűzoltók fékezték meg a lángokat, amelyek a főépületre nem terjedtek át. A rajok utómunkálatokat végeznek.",
+          "location": "Erdőkertes, Katona József utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93257"
+        }
+      ]
     },
     {
       "id": "93256",
@@ -234,9 +243,9 @@
       "title": "Négy autó ütközött össze az 1119-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93243",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Tarján és Tatabánya között egy sávon halad a forgalom.",
+      "body": "Összeütközött négy személygépkocsi a 1119-es úton, Tarján és Tatabánya közötti szakaszon, a 9-es kilométerszelvénynél. A tatabányai hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Tarján, Peskő utca",
       "updates": []
     },
     {
