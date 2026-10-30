@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T12:44:44.925038+00:00",
-  "count": 3701,
+  "updated_at": "2026-10-30T12:48:48.544155+00:00",
+  "count": 3702,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93263",
+      "datetime": "2026.10.30. 13:45",
+      "title": "Súlyos karambol történt Óbudán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93263",
+      "lead": "A Bécsi úton dolgoznak a tűzoltók, akik kiszabadítottak egy embert az egyik autóból.",
+      "body": "Frontálisan karambolozott két személyautó Budapest III. kerületében, a Bécsi úton, a Virágosnyereg és a Kocsis Sándor út között. A fővárosi hivatásos tűzoltók az egyik gépkocsiból feszítővágóval szabadítottak ki egy embert, akit átadtak a mentőknek. Az érintett útszakaszon megállították a forgalmat.",
+      "location": "Budapest, Bécsi út",
+      "updates": []
+    },
     {
       "id": "93262",
       "datetime": "2026.10.30. 13:26",
