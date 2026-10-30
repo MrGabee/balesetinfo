@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:56:27.274512+00:00",
+  "updated_at": "2026-10-30T08:59:31.292191+00:00",
   "count": 3696,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
       "location": "Erdőkertes, Katona József utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik az erdőkertesi tűznél",
+          "datetime": "2026.10.30. 09:59",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Erdőkertesen, a Katona József utcában keletkezett. Két mintegy tizenöt négyzetméteres melléképület és fahulladék égett. A gödöllői hivatásos tűzoltók fékezték meg a lángokat, amelyek a főépületre nem terjedtek át. A rajok utómunkálatokat végeznek.",
+          "location": "Erdőkertes, Katona József utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93257"
+        }
+      ]
     },
     {
       "id": "93256",
@@ -93,9 +102,9 @@
       "title": "Karambol Pencen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93251",
-      "lead": "A tűzoltók áramtalanítottak egy járművet.",
-      "body": "Összeütközött egy tehergépjármű és egy személygépkocsi a 2106-os úton, Pencen, a Mikszáth út kereszteződésében. A váci hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett.  Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Penc, Rákóczi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -104,9 +113,9 @@
       "title": "Kazánház égett Ónodon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93250",
-      "lead": "Az Árpád utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy kazánházban Ónodon, az Árpád utcában. A tiszaújvárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Ónod, Árpád utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -115,9 +124,9 @@
       "title": "Őzet gázolt el egy autó a 351-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93249",
-      "lead": "Tiszaújváros közelében forgalmi akadály van.",
-      "body": "Őzet ütött el egy személygépkocsi a 351-es főúton, Tiszaújváros közelében, a 2-es kilométerszelvénynél. A tiszaújvárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Oszlár, Ady Endre út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -126,9 +135,9 @@
       "title": "Karambol a 441-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93248",
-      "lead": "Kecskemétnél forgalmi akadályra kell számítani.",
-      "body": "Összeütközött egy kamion és egy személygépkocsi a 441-es főúton, Kecskemétnél, a 28-as kilométerszelvénynél. Az autókban csak a sofőrök utaztak. A kecskeméti hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Kecskemét, Talfája tanya",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -148,9 +157,9 @@
       "title": "A tetejére borult egy autó a 3307-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93246",
-      "lead": "Mezőcsát közelében végeznek műszaki mentést a tűzoltók.",
-      "body": "Árokba sodródott és felborult egy személyautó a 3307-es úton, Mezőcsát határában, az Aranyeső utca közelében. A tetején állt meg a jármű, amelyben hárman utaztak, mindannyian ki tudtak szállni. A mezőcsáti hivatásos tűzoltók áramtalanították a  gépkocsit. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Mezőcsát, 3307",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -181,9 +190,9 @@
       "title": "Négy autó ütközött össze az 1119-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93243",
-      "lead": "Tarján és Tatabánya között egy sávon halad a forgalom.",
-      "body": "Összeütközött négy személygépkocsi a 1119-es úton, Tarján és Tatabánya közötti szakaszon, a 9-es kilométerszelvénynél. A tatabányai hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Tarján, Peskő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -410,9 +419,9 @@
       "title": "Kigyulladt egy autó motortere a Könyves Kálmán körúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93223",
-      "lead": "A tűzoltók rövid időn belül megfékezték a lángokat.",
-      "body": "Egy gépkocsi motortere égett a VIII. kerületben, a Könyves Kálmán körút és a Kőbányai út kereszteződésénél. A fővárosi hivatásos tűzoltók egy vízsugárral rövid időn belül eloltották a lángokat. Az egység megkezdte az utómunkálatokat.",
-      "location": "Budapest, Könyves Kálmán körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
