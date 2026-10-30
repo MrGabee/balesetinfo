@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:05:11.536721+00:00",
+  "updated_at": "2026-10-30T08:08:40.468748+00:00",
   "count": 3695,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,16 +45,7 @@
       "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
       "location": "Mosonmagyaróvár, Gabona rakpart",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Mosonmagyaróváron",
-          "datetime": "2026.10.29. 20:06",
-          "category": "Tűzeset",
-          "text": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. Az épületben akkumulátoros kisgépeket tároltak. A helyi és a lébényi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Mosonmagyaróvár, Gabona rakpart",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93253"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93252",
@@ -82,9 +73,9 @@
       "title": "Karambol Pencen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93251",
-      "lead": "A tűzoltók áramtalanítottak egy járművet.",
-      "body": "Összeütközött egy tehergépjármű és egy személygépkocsi a 2106-os úton, Pencen, a Mikszáth út kereszteződésében. A váci hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett.  Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Penc, Rákóczi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -93,9 +84,9 @@
       "title": "Kazánház égett Ónodon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93250",
-      "lead": "Az Árpád utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy kazánházban Ónodon, az Árpád utcában. A tiszaújvárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Ónod, Árpád utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -148,9 +139,9 @@
       "title": "Embert gázolt a villamos Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93245",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi Sándor sugárúton forgalmi akadály van.",
+      "body": "Embert gázolt el a villamos Szegeden, a Petőfi Sándor sugárúton. A Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a helyi hivatásos tűzoltók áramtalanították a járművet. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szeged, Petőfi Sándor sugárút",
       "updates": []
     },
     {
