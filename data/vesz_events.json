@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:57:07.148399+00:00",
+  "updated_at": "2026-10-30T11:00:46.663091+00:00",
   "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,16 +34,7 @@
       "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
       "location": "Erdőkertes, Katona József utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik az erdőkertesi tűznél",
-          "datetime": "2026.10.30. 09:59",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a tűznek a lángjait, amely Erdőkertesen, a Katona József utcában keletkezett. Két mintegy tizenöt négyzetméteres melléképület és fahulladék égett. A gödöllői hivatásos tűzoltók fékezték meg a lángokat, amelyek a főépületre nem terjedtek át. A rajok utómunkálatokat végeznek.",
-          "location": "Erdőkertes, Katona József utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93257"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93256",
@@ -51,9 +42,9 @@
       "title": "Baleset miatt áll a HÉV-közlekedés Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93256",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A II. Rákóczi Ferenc útra riasztották a tűzoltókat.",
+      "body": "Összeütközött két autó Csepelen, a II. Rákóczi Ferenc úton. Az egyik jármű a HÉV-sínre sodródott és fennakadt a padkán. Emiatt a szerelvények egy ideig nem közlekednek. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, II. Rákóczi Ferenc út",
       "updates": []
     },
     {
@@ -73,9 +64,9 @@
       "title": "Ház égett Kisvárdán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93254",
-      "lead": "A tűzoltók már az utómunkálatokat végzik.",
-      "body": "Teljes terjedelmében égett egy családi ház Kisvárdán, a Fodorszőlőben. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Kisvárda, Fodortanya dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -486,16 +477,7 @@
       "lead": "A tűzoltók a Petőfi Sándor utcában oltják a lángokat.",
       "body": "Kigyulladt egy melléképület Piliscséven, a Petőfi Sándor utcában. Teljes terjedelmében ég az ingatlan. Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral oltják a lángokat.",
       "location": "Piliscsév, Petőfi Sándor utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Piliscséven",
-          "datetime": "2026.10.28. 14:36",
-          "category": "Tűzeset",
-          "text": "Az esztergomi és a nyergesújfalui hivatásos tűzoltók két vízsugárral eloltották a lángokat Piliscséven, ahol kigyulladt, majd teljes terjedelmében égett egy melléképület a Petőfi Sándor utcában. Az egységek a munkálatok közben összesen három gázpalackot hoztak ki az épületből. Kettő közülük felrobbant, a harmadik palackot folyamatosan hűtötték. A tűzoltók jelenleg az utómunkálatokat végzik.",
-          "location": "Piliscsév, Petőfi Sándor utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93220/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93220"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93219",
