@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T07:01:40.525336+00:00",
-  "count": 3694,
+  "updated_at": "2026-10-30T07:05:17.254798+00:00",
+  "count": 3695,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93256",
+      "datetime": "2026.10.30. 08:05",
+      "title": "Baleset miatt áll a HÉV-közlekedés Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93256",
+      "lead": "A II. Rákóczi Ferenc útra riasztották a tűzoltókat.",
+      "body": "Összeütközött két autó Csepelen, a II. Rákóczi Ferenc úton. Az egyik jármű a HÉV-sínre sodródott és fennakadt a padkán. Emiatt a szerelvények egy ideig nem közlekednek. A fővárosi hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Budapest, II. Rákóczi Ferenc út",
+      "updates": []
+    },
     {
       "id": "93255",
       "datetime": "2026.10.29. 23:42",
