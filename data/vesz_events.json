@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T09:31:56.149046+00:00",
-  "count": 3696,
+  "updated_at": "2026-10-30T09:35:23.046019+00:00",
+  "count": 3697,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93258",
+      "datetime": "2026.10.30. 10:32",
+      "title": "Baleset történt Nyírbátorban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93258",
+      "lead": "A Debreceni utcában árokba hajtott egy autó.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi Nyírbátorban, a Debreceni utcában. A járműben négyen utaztak, a helyszínre mentő is érkezett. A város hivatásos tűzoltói vonultak az esethez. Az érintett útszakaszon fennakadásra kell számítani.",
+      "location": "Nyírbátor, Debreceni utca",
+      "updates": []
+    },
     {
       "id": "93257",
       "datetime": "2026.10.30. 09:33 -",
@@ -212,9 +223,9 @@
       "title": "Hármas karambol az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93241",
-      "lead": "Győr közelében forgalmi akadály van.",
-      "body": "Három személygépkocsi ütközött össze az 1-es főúton, Gönyű és Győr közötti szakaszon, a 114-es kilométerszelvénynél. A győri hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Győr, Gerda út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
