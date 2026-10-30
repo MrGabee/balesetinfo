@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T13:53:52.930144+00:00",
+  "updated_at": "2026-10-30T13:57:22.695380+00:00",
   "count": 3704,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A 87-es főút városi szakaszához, a 31-es kilométerhez közeli helyszínre a város tűzoltói vonultak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából tizenöt négyzetméteres fatároló Szombathelyen, a 87-es főút városi szakaszához közel. A 31-es kilométerhez közeli helyszínre egy gépjárműfecskendővel és a vízszállítóval vonultak a megyeszékhely hivatásos tűzoltói. Az egységek két vízsugárral oltják a lángokat.",
       "location": "Szombathely, 87",
-      "updates": []
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek Szombathelyen",
+          "datetime": "2026.10.30. 14:53",
+          "category": "Tűzeset",
+          "text": "A 87-es főút városi szakaszához, a 31-es kilométerhez közeli helyszínre riasztották a megyeszékhely tűzoltóit, mert kigyulladt és teljes terjedelmében égett egy fatároló. A rajok vízsugarakkal körülhatárolták, majd eloltották az építmény tüzét. Az egységek már az utómunkálatoknál tartanak, kipakolják a tárolóban lévő fát.",
+          "location": "Szombathely, 87",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93265/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93265"
+        }
+      ]
     },
     {
       "id": "93264",
@@ -210,9 +219,9 @@
       "title": "Kazánház égett Ónodon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93250",
-      "lead": "Az Árpád utcában dolgoznak a tűzoltók.",
-      "body": "Tűz keletkezett egy kazánházban Ónodon, az Árpád utcában. A tiszaújvárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Ónod, Árpád utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
