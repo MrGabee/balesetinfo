@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T12:24:05.887792+00:00",
-  "count": 3700,
+  "updated_at": "2026-10-30T12:27:42.213875+00:00",
+  "count": 3701,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93262",
+      "datetime": "2026.10.30. 13:26",
+      "title": "Csomagolóüzemben keletkezett tűz Kaposváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93262",
+      "lead": "Az Izzó utcába több kaposvári egységet riasztottak.",
+      "body": "Csomagoló üzemrész álmennyezetén lévő elszívó meghibásodása miatt keletkezett tűz Kaposváron, az Izzó utcában. A lángokat a helyszínen tartózkodók porral oltókkal megfékezték, a kaposvári hivatásos tűzoltók az áramtalanítást követően visszahűtik a berendezést. Az érintett üzemrészt tizenkét dolgozó hagyta el.",
+      "location": "Kaposvár, Izzó utca",
+      "updates": []
+    },
     {
       "id": "93261",
       "datetime": "2026.10.30. 12:24",
@@ -62,10 +73,19 @@
       "title": "Ég egy melléképület Erdőkertesen",
       "category": "Ég egy melléképület Erdőkertesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
+      "location": "Erdőkertes, Katona József utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik az erdőkertesi tűznél",
+          "datetime": "2026.10.30. 09:59",
+          "category": "Tűzeset",
+          "text": "Eloltották annak a tűznek a lángjait, amely Erdőkertesen, a Katona József utcában keletkezett. Két mintegy tizenöt négyzetméteres melléképület és fahulladék égett. A gödöllői hivatásos tűzoltók fékezték meg a lángokat, amelyek a főépületre nem terjedtek át. A rajok utómunkálatokat végeznek.",
+          "location": "Erdőkertes, Katona József utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93257"
+        }
+      ]
     },
     {
       "id": "93256",
