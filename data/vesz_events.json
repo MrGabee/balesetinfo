@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T15:38:50.135456+00:00",
-  "count": 3707,
+  "updated_at": "2026-10-30T15:42:33.781311+00:00",
+  "count": 3708,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93269",
+      "datetime": "2026.10.30. 16:41",
+      "title": "Tűz ütött ki egy békásmegyeri családi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93269",
+      "lead": "A Barackos útra több fővárosi tűzoltóegység vonult.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából kétszáz négyzetméteres, használaton kívüli épület Budapest harmadik kerületében. A Barackos úti tűzhöz több fővárosi hivatásos tűzoltóegységet, egy vízszállítót, valamint a katasztrófavédelmi műveleti szolgálatot riasztották. Az egységek több vízsugárral oltják az épületet, amelynek teteje, illetve a pincerésze már beomlott.",
+      "location": "Budapest, Barackos út",
+      "updates": []
+    },
     {
       "id": "93268",
       "datetime": "2026.10.30. 16:25",
