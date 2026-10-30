@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T11:15:22.628245+00:00",
-  "count": 3698,
+  "updated_at": "2026-10-30T11:19:07.727884+00:00",
+  "count": 3699,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93260",
+      "datetime": "2026.10.30. 12:16",
+      "title": "Tűz volt egy debreceni lakás konyhájában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93260",
+      "lead": "A tűzoltók a Nagy Lajos király téren fékezték meg a lángokat.",
+      "body": "Tűz keletkezett egy társasházi lakásban, Debrecenben, a Nagy Lajos király téren. A konyha gyulladt ki. A város hivatásos tűzoltó porral oltóval és egy vízsugárral elfojtották a lángokat, majd megkezdték az utómunkálatokat. A rajok kiürítik és kiszellőztetik az épületet. A tűzoltást a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Debrecen, Nagy Lajos király tér",
+      "updates": []
+    },
     {
       "id": "93259",
       "datetime": "2026.10.30. 11:46",
@@ -20,9 +31,9 @@
       "title": "Baleset történt Nyírbátorban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93258",
-      "lead": "A Debreceni utcában árokba hajtott egy autó.",
-      "body": "Letért az úttestről és árokba hajtott egy személykocsi Nyírbátorban, a Debreceni utcában. A járműben négyen utaztak, a helyszínre mentő is érkezett. A város hivatásos tűzoltói vonultak az esethez. Az érintett útszakaszon fennakadásra kell számítani.",
-      "location": "Nyírbátor, Debreceni utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -84,10 +95,19 @@
       "title": "Melléképület ég Mosonmagyaróváron",
       "category": "Melléképület ég Mosonmagyaróváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
+      "location": "Mosonmagyaróvár, Gabona rakpart",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Mosonmagyaróváron",
+          "datetime": "2026.10.29. 20:06",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. Az épületben akkumulátoros kisgépeket tároltak. A helyi és a lébényi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Mosonmagyaróvár, Gabona rakpart",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93253"
+        }
+      ]
     },
     {
       "id": "93252",
@@ -192,9 +212,9 @@
       "title": "Oszlopnak hajtott egy autó Tiszaalpáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93244",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Alkotmány utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Villanyoszlopnak ütközött, majd árokba hajtott egy személyautó Tiszaalpáron, az Alkotmány utcában, a Mikes Kelemen utcánál. A kiskunfélegyházi hivatásos tűzoltók áramtalanították a gépkocsit, amelyben ketten utaztak. Az érintett útszakaszt lezárták, de a környező utcákban ki lehet kerülni a baleset helyszínét.",
+      "location": "Tiszaalpár, Alkotmány utca",
       "updates": []
     },
     {
