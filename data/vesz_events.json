@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:08:52.734084+00:00",
+  "updated_at": "2026-10-30T20:11:25.208037+00:00",
   "count": 3714,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "93273",
-      "datetime": "2026.10.30. 19:18",
+      "datetime": "2026.10.30. 19:18 -",
       "title": "Tűz ütött ki egy paksi épületben",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy paksi épületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273",
       "lead": "A Tolnai útra paksi és kalocsai tűzoltókat riasztottak.",
       "body": "Kigyulladt egy ház tetőszerkezete Pakson, a Tolnai úton. A nagyjából száz négyzetméteres épület lángjait a paksi hivatásos tűzoltók vízsugarakkal oltják. Emellett a rajok megbontják a bitumenes tetőhéjazatot is. A városi egységek mellett a helyszínre várnak egy gépjárműfecskendőt Kalocsáról, illetve a megyei katasztrófavédelmi műveleti szolgálatot is.",
       "location": "Paks, Tolnai út",
-      "updates": []
+      "updates": [
+        {
+          "title": "Több vízsugárral dolgoznak a paksi tűznél",
+          "datetime": "2026.10.30. 21:10",
+          "category": "Tűzeset",
+          "text": "A Tolnai úton gyulladt ki egy nagyjából száz négyzetméteres épület tetőszerkezete. A paksi hivatásos tűzoltó-parancsnokság több gépjárműfecskendője, a vízszállító, Kalocsáról és Szekszárdról egy-egy gépjárműfecskendő és különleges szer van a helyszínen, a tűzoltók munkáját a Tolna megyei katasztrófavédelmi műveleti szolgálat irányítja. Az egységek több vízsugárral körülhatárolták a tüzet, emellett folyamatosan bontják a tetőt, az emelőkosaras szerekről darabolják a lemezhéjazatot, hogy hozzáférjenek a beizzott részekhez.",
+          "location": "Paks, Tolnai út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93273"
+        }
+      ]
     },
     {
       "id": "93272",
