@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:20:19.430360+00:00",
+  "updated_at": "2026-10-30T12:24:05.887792+00:00",
   "count": 3700,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -20,9 +20,9 @@
       "title": "Tűz volt egy debreceni lakás konyhájában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93260",
-      "lead": "A tűzoltók a Nagy Lajos király téren fékezték meg a lángokat.",
-      "body": "Tűz keletkezett egy társasházi lakásban, Debrecenben, a Nagy Lajos király téren. A konyha gyulladt ki. A város hivatásos tűzoltó porral oltóval és egy vízsugárral elfojtották a lángokat, majd megkezdték az utómunkálatokat. A rajok kiürítik és kiszellőztetik az épületet. A tűzoltást a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítja.",
-      "location": "Debrecen, Nagy Lajos király tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -62,19 +62,10 @@
       "title": "Ég egy melléképület Erdőkertesen",
       "category": "Ég egy melléképület Erdőkertesen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257",
-      "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
-      "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
-      "location": "Erdőkertes, Katona József utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik az erdőkertesi tűznél",
-          "datetime": "2026.10.30. 09:59",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a tűznek a lángjait, amely Erdőkertesen, a Katona József utcában keletkezett. Két mintegy tizenöt négyzetméteres melléképület és fahulladék égett. A gödöllői hivatásos tűzoltók fékezték meg a lángokat, amelyek a főépületre nem terjedtek át. A rajok utómunkálatokat végeznek.",
-          "location": "Erdőkertes, Katona József utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93257"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93256",
@@ -115,10 +106,19 @@
       "title": "Melléképület ég Mosonmagyaróváron",
       "category": "Melléképület ég Mosonmagyaróváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
+      "location": "Mosonmagyaróvár, Gabona rakpart",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Mosonmagyaróváron",
+          "datetime": "2026.10.29. 20:06",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. Az épületben akkumulátoros kisgépeket tároltak. A helyi és a lébényi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Mosonmagyaróvár, Gabona rakpart",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93253"
+        }
+      ]
     },
     {
       "id": "93252",
@@ -397,9 +397,9 @@
       "title": "Robbanás történt egy szakályi lakóépület kazánházában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93229",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók gázpalackokat hoztak ki a kazánházból.",
+      "body": "Robbanás történt egy lakóház öt négyzetméteres kazánházában Szakályon, a Szabadság utcában. A robbanás következtében a felhalmozott szemét meggyulladt az épületben. A tamási önkormányzati és önkéntes tűzoltók egy vízsugárral oltották a lángokat. A munkálatok közben kihoztak az épületből egy felrobbant gázpalackot, egy másikat pedig visszahűtöttek. A helyszínre a dombóvári hivatásos tűzoltók is kiérkeztek, jelenleg megtisztítják a kazánházat, valamint a még izzó, parázsló részek megszüntetésén dolgoznak. Információk szerint a detonáció a főépületben, valamint a szomszéd telken álló melléképületben is kárt tett.",
+      "location": "Szakály, Szabadság utca",
       "updates": []
     },
     {
