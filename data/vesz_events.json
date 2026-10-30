@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:35:35.439580+00:00",
+  "updated_at": "2026-10-30T10:39:16.574201+00:00",
   "count": 3697,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,16 +23,7 @@
       "lead": "A Katona József utcában oltják a lángokat a tűzoltók.",
       "body": "Kigyulladt egy melléképület Erdőkertesen, a Katona József utcában. Teljes terjedelmében ég a mintegy tíz-húsz négyzetméteres ingatlan, és a tűz érint egy roncsautót is. A gödöllői hivatásos tűzoltók oltják a lángokat.",
       "location": "Erdőkertes, Katona József utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik az erdőkertesi tűznél",
-          "datetime": "2026.10.30. 09:59",
-          "category": "Tűzeset",
-          "text": "Eloltották annak a tűznek a lángjait, amely Erdőkertesen, a Katona József utcában keletkezett. Két mintegy tizenöt négyzetméteres melléképület és fahulladék égett. A gödöllői hivatásos tűzoltók fékezték meg a lángokat, amelyek a főépületre nem terjedtek át. A rajok utómunkálatokat végeznek.",
-          "location": "Erdőkertes, Katona József utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93257/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93257"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93256",
@@ -96,16 +87,7 @@
       "lead": "A Kazinczy utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy épület egyik helyisége Budapest VII. kerületében, a Kazinczy utcában. A fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre tart több egység is.",
       "location": "Budapest, Kazinczy utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Budapest VII. kerületében",
-          "datetime": "2026.10.29. 20:22",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy épület egyik helyisége Budapest VII. kerületében, a Kazinczy utcában. A tűz átterjedt egy első emeleti lakás nyílászárójára és a pinceszintre is. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi hivatásos tűzoltók több vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Budapest, Kazinczy utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93252"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93251",
@@ -223,9 +205,9 @@
       "title": "Hármas karambol az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93241",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Győr közelében forgalmi akadály van.",
+      "body": "Három személygépkocsi ütközött össze az 1-es főúton, Gönyű és Győr közötti szakaszon, a 114-es kilométerszelvénynél. A győri hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Győr, Gerda út",
       "updates": []
     },
     {
@@ -353,9 +335,9 @@
       "title": "Tűz volt egy lajosmizsei lakóház födémszerkezetében",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93230",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megbontották a födémet a munkálatok közben.",
+      "body": "Egy száz négyzetméteres családi ház födémszerkezetében keletkezett tűz mintegy nyolc négyzetméteren Lajosmizsén, a Rózsa utcában. A kecskeméti hivatásos és a lajosmizsei önkormányzati tűzoltók a közművek elzárását követően megbontották az épületen belül az álmennyezetet, majd a padlástérben is megbontották a födémet, egy vízsugárral eloltották a tüzet. Az egységek az utómunkálatok közben hőkamerával átvizsgálták az épületet, amely lakható maradt.",
+      "location": "Lajosmizse, Rózsa utca",
       "updates": []
     },
     {
