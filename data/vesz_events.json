@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T17:05:07.443172+00:00",
-  "count": 3710,
+  "updated_at": "2026-10-30T17:08:21.335578+00:00",
+  "count": 3711,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93272",
+      "datetime": "2026.10.30. 18:07",
+      "title": "Baleset miatt torlódik az M3-as fővárosi kivezető szakaszának forgalma",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93272",
+      "lead": "A 11-12-es kilométer között két személykocsi karambolozott.",
+      "body": "Összeütközött két autó az M3-as sztráda fővárosból kivezető szakaszán, az M0-ás körgyűrű előtt. A baleset a 11-12-es kilométer között, a belső sávban történt, a járművekben összesen heten utaztak. A fővárosi hivatásos tűzoltók végzik a műszaki mentést, a helyszínre várják a társhatóságokat is. Az autópálya Nyíregyháza felé vezető oldalán az érintett szakaszon forgalmi akadályra kell számítani, a járművek torlódnak.",
+      "location": "Budapest, M3",
+      "updates": []
+    },
     {
       "id": "93271",
       "datetime": "2026.10.30. 17:35",
