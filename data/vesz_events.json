@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:46:01.537509+00:00",
+  "updated_at": "2026-10-30T09:49:39.112247+00:00",
   "count": 3697,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -73,10 +73,19 @@
       "title": "Melléképület ég Mosonmagyaróváron",
       "category": "Melléképület ég Mosonmagyaróváron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
+      "location": "Mosonmagyaróvár, Gabona rakpart",
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Mosonmagyaróváron",
+          "datetime": "2026.10.29. 20:06",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. Az épületben akkumulátoros kisgépeket tároltak. A helyi és a lébényi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Mosonmagyaróvár, Gabona rakpart",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93253"
+        }
+      ]
     },
     {
       "id": "93252",
@@ -327,7 +336,16 @@
       "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
       "body": "Egy családi ház ég teljes terjedelmében Magyarkeszin, a Petőfi utcában. A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók érkeztek a helyszínre, három vízsugárral oltják a lángokat. Információk szerint gázpalack lehet az épületben.",
       "location": "Magyarkeszi, Petőfi utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Izzó gócokat oltanak a tűzoltók Magyarkeszin",
+          "datetime": "2026.10.29. 02:29",
+          "category": "Tűzeset",
+          "text": "A siófoki hivatásos, a tamási önkormányzati, valamint a tamási és az iregszemcsei önkéntes tűzoltók körülhatárolták a lángokat, jelenleg már csak az izzó gócokat kutatják fel és oltják el Magyarkeszin, ahol egy százhúsz négyzetméteres, egyszintes családi ház égett teljes terjedelmében a Petőfi utcában. Az elsődleges információk szerint gázpalack volt az épületben, az egységek azonban nem találtak palackot a munkálatok közben. Az ingatlan a tűz következtében lakhatatlanná vált.",
+          "location": "Magyarkeszi, Petőfi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93231/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93231"
+        }
+      ]
     },
     {
       "id": "93230",
