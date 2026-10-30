@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T19:09:20.301462+00:00",
-  "count": 3713,
+  "updated_at": "2026-10-30T19:12:58.669039+00:00",
+  "count": 3714,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93275",
+      "datetime": "2026.10.30. 20:09",
+      "title": "Karambol a 10-es főút pilisvörösvári szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93275",
+      "lead": "A 20-as kilométernél, az aluljáróban ütközött össze két autó.",
+      "body": "Utoléréses balesetet szenvedett két személykocsi a 10-es úton, Pilisvörösvár belterületén. A 20-as kilométernél, a vasúti aluljárónál hajtottak egymásba a járművek. A pilisszentiváni önkéntes tűzoltók áramtalanítottak, illetve biztosítják a helyszínt. Az érintett szakaszon váltakozó irányban halad a forgalom.",
+      "location": "Pilisvörösvár, 10",
+      "updates": []
+    },
     {
       "id": "93274",
       "datetime": "2026.10.30. 19:41",
