@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T11:23:12.922031+00:00",
-  "count": 3699,
+  "updated_at": "2026-10-30T11:27:27.117182+00:00",
+  "count": 3700,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93261",
+      "datetime": "2026.10.30. 12:24",
+      "title": "Ágy égett egy péceli házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93261",
+      "lead": "A Bethlen Gábor utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi házban, Pécelen a Bethlen Gábor utcában. Egy ágy gyulladt ki az egyik szobában. A fővárosi hivatásos tűzoltók egy vízsugárral eloltották a lángokat, és megkezdték az utómunkálatokat. A rajok kihoztak két kutyát az épületből, amelyben több macskát is találtak.",
+      "location": "Pécel, Bethlen Gábor utca",
+      "updates": []
+    },
     {
       "id": "93260",
       "datetime": "2026.10.30. 12:16",
@@ -23,7 +34,16 @@
       "lead": "A tűzoltókat a Felsőmező utcába riasztották.",
       "body": "Tűz ütött ki egy nagyjából százhúsz négyzetméteres családi házban, a terasz tetőszerkezete ég, a lángok átterjedtek a lakóépület tetőszerkezetére is. Kapuvári és csornai hivatásos tűzoltók érkeztek a helyszínre. Az egységek vízsugarakkal oltják a tüzet, illetve átszellőztetik a füsttel megtelt házat. A tulajdonos egyedül tartózkodott az épületben, mentő érkezett hozzá.",
       "location": "Kapuvár, Felsőmező utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Kapuváron",
+          "datetime": "2026.10.30. 12:27",
+          "category": "Tűzeset",
+          "text": "AFelsőmező utcában kigyulladt egy épület, a helyszínre kapuvári és csornai hivatásos, valamint beledi és sarródi önkntes tűzoltókat riasztottak. Az egységek több vízsugárral oltották a tüzet, és megbontották a tetőszerkezetet is. A tűzoltók emellett a tető hátsó részén lévő napelemeket is eltávolítják. A lángokat már megfékezték, az egységek az utómunkálatokat végzik.",
+          "location": "Kapuvár, Felsőmező utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93259/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93259"
+        }
+      ]
     },
     {
       "id": "93258",
