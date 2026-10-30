@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:49:21.889625+00:00",
+  "updated_at": "2026-10-30T08:52:44.381151+00:00",
   "count": 3696,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Ház égett Kisvárdán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93254",
-      "lead": "A tűzoltók már az utómunkálatokat végzik.",
-      "body": "Teljes terjedelmében égett egy családi ház Kisvárdán, a Fodorszőlőben. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
-      "location": "Kisvárda, Fodortanya dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -76,16 +76,7 @@
       "lead": "A Kazinczy utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy épület egyik helyisége Budapest VII. kerületében, a Kazinczy utcában. A fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre tart több egység is.",
       "location": "Budapest, Kazinczy utca",
-      "updates": [
-        {
-          "title": "Elfojtották a lángokat Budapest VII. kerületében",
-          "datetime": "2026.10.29. 20:22",
-          "category": "Tűzeset",
-          "text": "Kigyulladt egy épület egyik helyisége Budapest VII. kerületében, a Kazinczy utcában. A tűz átterjedt egy első emeleti lakás nyílászárójára és a pinceszintre is. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a fővárosi hivatásos tűzoltók több vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
-          "location": "Budapest, Kazinczy utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93252/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93252"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93251",
@@ -181,9 +172,9 @@
       "title": "Négy autó ütközött össze az 1119-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93243",
-      "lead": "Tarján és Tatabánya között egy sávon halad a forgalom.",
-      "body": "Összeütközött négy személygépkocsi a 1119-es úton, Tarján és Tatabánya közötti szakaszon, a 9-es kilométerszelvénynél. A tatabányai hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
-      "location": "Tarján, Peskő utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -269,9 +260,9 @@
       "title": "Baleset történt Rákóczifalván",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93235",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szent László király útját teljes szélességében lezárták.",
+      "body": "Beszakadt egy nyergesvontató alatt az úttest Rákóczifalván, a Szent László király úton. A szolnoki hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Rákóczifalva, Szent László király út",
       "updates": []
     },
     {
@@ -291,9 +282,9 @@
       "title": "Úttisztító járműnek hajtott egy személyautó Kispesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93233",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók emelték ki a kisebb jármű vezetőjét.",
+      "body": "Úttisztító járműbe hajtott hátulról egy személyautó a XIX. kerületi Nagykőrösi úton, a Vas Gereben utca közelében. A baleset következtében a személyautó vezetője beszorult, a fővárosi hivatásos tűzoltók emelték ki. Az egység emellett mindkét járművet áramtalanítja. A balesethez a társhatóságok is kiéreztek, a munkálatok idejére lezárták az érintett útszakaszt.",
+      "location": "Budapest, Nagykőrösi út",
       "updates": []
     },
     {
