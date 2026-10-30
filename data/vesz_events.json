@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T18:39:13.172107+00:00",
-  "count": 3712,
+  "updated_at": "2026-10-30T18:42:35.404208+00:00",
+  "count": 3713,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93274",
+      "datetime": "2026.10.30. 19:41",
+      "title": "Baleset történt a 21105-ös úton, az M0-ás felett",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93274",
+      "lead": "Két személykocsi hajtott egymásba a felüljárón.",
+      "body": "Összeütközött két autó az M0-ás feletti, csömöri felüljárón. A helyszínre elsőként a csömöri önkéntes tűzoltók érkeztek meg, áramtalanították mindkét gépkocsit, amelyek közül az egyik hibrid meghajtású. Az esethez riasztották a fővárosi hivatásos tűzoltókat is. A járművek utasaihoz mentő érkezett. A baleset miatt fennakadásra kell számítani, a forgalmat a tűzoltók és polgárőrök irányítják.",
+      "location": "Csömör, Árpádföldi út",
+      "updates": []
+    },
     {
       "id": "93273",
       "datetime": "2026.10.30. 19:18",
