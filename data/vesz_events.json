@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T10:46:18.268296+00:00",
-  "count": 3697,
+  "updated_at": "2026-10-30T10:50:04.441855+00:00",
+  "count": 3698,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93259",
+      "datetime": "2026.10.30. 11:46",
+      "title": "Kigyulladt egy kapuvári családi ház",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93259",
+      "lead": "A tűzoltókat a Felsőmező utcába riasztották.",
+      "body": "Tűz ütött ki egy nagyjából százhúsz négyzetméteres családi házban, a terasz tetőszerkezete ég, a lángok átterjedtek a lakóépület tetőszerkezetére is. Kapuvári és csornai hivatásos tűzoltók érkeztek a helyszínre. Az egységek vízsugarakkal oltják a tüzet, illetve átszellőztetik a füsttel megtelt házat. A tulajdonos egyedül tartózkodott az épületben, mentő érkezett hozzá.",
+      "location": "Kapuvár, Felsőmező utca",
+      "updates": []
+    },
     {
       "id": "93258",
       "datetime": "2026.10.30. 10:32",
