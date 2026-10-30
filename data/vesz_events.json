@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T13:02:54.687457+00:00",
-  "count": 3702,
+  "updated_at": "2026-10-30T13:06:19.203094+00:00",
+  "count": 3703,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93264",
+      "datetime": "2026.10.30. 14:04",
+      "title": "Kigyulladt egy autó Szabadszentkirályon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93264",
+      "lead": "Az Ady Endre utcába a helyi tűzoltók vonultak.",
+      "body": "Kigyulladt egy dízel gépkocsi motortere Szabadszentkirályon, az Ady Endre utcában. A helyi önkéntes tűzoltók vonultak az esethez. Az egység porral oltóval, illetve vízsugárral megfékezte a lángokat, a tűzoltók visszahűtötték az autó motorját.",
+      "location": "Szabadszentkirály, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "93263",
       "datetime": "2026.10.30. 13:45",
