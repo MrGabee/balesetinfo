@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T13:57:22.695380+00:00",
-  "count": 3704,
+  "updated_at": "2026-10-30T14:01:00.478148+00:00",
+  "count": 3705,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93266",
+      "datetime": "2026.10.30. 15:00",
+      "title": "Karambol történt Zuglóban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93266",
+      "lead": "A Hungária körút és a Mogyoródi út sarkánt ütközött össze két autó.",
+      "body": "Egymásba hajtott két személykocsi Budapest tizennegyedik kerületében. A baleset a Hungária körút és a Mogyoródi út kereszteződésénél történt balesethez a fővárosi hivatásos tűzoltókat riasztották, a helyszínre vonultak a társhatóságok is. A karambol miatt forgalmi akadályra kell számítani.",
+      "location": "Budapest, Mogyoródi út",
+      "updates": []
+    },
     {
       "id": "93265",
       "datetime": "2026.10.30. 14:28 -",
@@ -219,9 +230,9 @@
       "title": "Kazánház égett Ónodon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93250",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy kazánházban Ónodon, az Árpád utcában. A tiszaújvárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ónod, Árpád utca",
       "updates": []
     },
     {
