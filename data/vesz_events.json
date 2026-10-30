@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T07:23:09.090612+00:00",
+  "updated_at": "2026-10-30T07:26:54.059295+00:00",
   "count": 3695,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -181,9 +181,9 @@
       "title": "Felborult egy kisteherautó a 65-ös főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93242",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Hőgyész közelébe vonultak a tűzoltók, akik áramtalanították a járművet.",
+      "body": "Lesodródott az úttestről és az oldalára borult egy kisteherautó a 65-ös főúton, Hőgyész közelében, a 23. kilométernél. A tamási önkormányzati tűzoltók vonultak ki a balesethez, és áramtalanították a járművet. A gépkocsiból motorolaj került az úttestre, de a raj a szivárgást is megszüntette.",
+      "location": "Hőgyész, 65",
       "updates": []
     },
     {
@@ -424,7 +424,16 @@
       "lead": "A Buzogány utcába riasztották a tűzoltókat.",
       "body": "Tűz keletkezett egy garázsban, Keszthelyen, a Buzogány utcában. Teljes terjedelmében ég a mintegy húsz négyzetméter alapterületű épület, és meggyulladt a mellette tárolt tűzifa is. A város hivatásos tűzoltói oltják a lángokat.",
       "location": "Keszthely, Buzogány utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak a keszthelyi tűznél",
+          "datetime": "2026.10.28. 14:17",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Keszthelyen, a Buzogány utcában keletkezett. Kigyulladt és teljes terjedelmében égett egy garázs. Meggyulladt a mellette felhalmozott tűzifa is. A város hivatásos tűzoltói kihoztak egy hegesztő-, valamint egy gázpalackot a mintegy húsz négyzetméteres épületből, és két vízsugárral megfékezték a lángokat. A rajok utómunkálatokat végeznek.",
+          "location": "Keszthely, Buzogány utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93221/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93221"
+        }
+      ]
     },
     {
       "id": "93220",
