@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T18:18:31.226545+00:00",
-  "count": 3711,
+  "updated_at": "2026-10-30T18:22:15.812868+00:00",
+  "count": 3712,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93273",
+      "datetime": "2026.10.30. 19:18",
+      "title": "Tűz ütött ki egy paksi épületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273",
+      "lead": "A Tolnai útra paksi és kalocsai tűzoltókat riasztottak.",
+      "body": "Kigyulladt egy ház tetőszerkezete Pakson, a Tolnai úton. A nagyjából száz négyzetméteres épület lángjait a paksi hivatásos tűzoltók vízsugarakkal oltják. Emellett a rajok megbontják a bitumenes tetőhéjazatot is. A városi egységek mellett a helyszínre várnak egy gépjárműfecskendőt Kalocsáról, illetve a megyei katasztrófavédelmi műveleti szolgálatot is.",
+      "location": "Paks, Tolnai út",
+      "updates": []
+    },
     {
       "id": "93272",
       "datetime": "2026.10.30. 18:07",
@@ -360,9 +371,9 @@
       "title": "Embert gázolt a villamos Szegeden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93245",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi Sándor sugárúton forgalmi akadály van.",
+      "body": "Embert gázolt el a villamos Szegeden, a Petőfi Sándor sugárúton. A Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a helyi hivatásos tűzoltók áramtalanították a járművet. A helyszínre a mentő is kiérkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szeged, Petőfi Sándor sugárút",
       "updates": []
     },
     {
@@ -404,9 +415,9 @@
       "title": "Hármas karambol az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93241",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Győr közelében forgalmi akadály van.",
+      "body": "Három személygépkocsi ütközött össze az 1-es főúton, Gönyű és Győr közötti szakaszon, a 114-es kilométerszelvénynél. A győri hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Győr, Gerda út",
       "updates": []
     },
     {
