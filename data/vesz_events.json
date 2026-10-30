@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T23:25:34.504992+00:00",
-  "count": 3715,
+  "updated_at": "2026-10-30T23:29:00.744516+00:00",
+  "count": 3716,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93277",
+      "datetime": "2026.10.31. 00:26",
+      "title": "Kigyulladt egy autó az 56-os főúton, Mohács és Bár határán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93277",
+      "lead": "A 42-es kilométer közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Az udvarára akart betolatni járművével egy autóvezető az 56-os főúton, Mohács és Bár határán, de elrontotta a manővert, és árokba hajtott, ahol a gépkocsi kigyulladt. A mohácsi hivatásos tűzoltók vonultak a 42-es kilométerhez közeli esethez. Az egység előbb körülhatárolta, majd eloltotta a lángokat. A jármű félpályás útakadályt képez.",
+      "location": "Bár, 56",
+      "updates": []
+    },
     {
       "id": "93276",
       "datetime": "2026.10.31. 00:14",
