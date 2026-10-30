@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:08:40.468748+00:00",
+  "updated_at": "2026-10-30T08:12:41.042181+00:00",
   "count": 3695,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -45,7 +45,16 @@
       "lead": "A Gabona rakpartnál dolgoznak a tűzoltók.",
       "body": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. A helyi és a lébényi hivatásos tűzoltók érkeztek ki. A rajok már két vízsugárral körülhatárolták a lángokat.",
       "location": "Mosonmagyaróvár, Gabona rakpart",
-      "updates": []
+      "updates": [
+        {
+          "title": "Elfojtották a lángokat Mosonmagyaróváron",
+          "datetime": "2026.10.29. 20:06",
+          "category": "Tűzeset",
+          "text": "Tűz keletkezett egy melléképületben Mosonmagyaróváron, a Gabona rakpartnál. Az épületben akkumulátoros kisgépeket tároltak. A helyi és a lébényi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+          "location": "Mosonmagyaróvár, Gabona rakpart",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93253/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93253"
+        }
+      ]
     },
     {
       "id": "93252",
@@ -73,9 +82,9 @@
       "title": "Karambol Pencen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93251",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítottak egy járművet.",
+      "body": "Összeütközött egy tehergépjármű és egy személygépkocsi a 2106-os úton, Pencen, a Mikszáth út kereszteződésében. A váci hivatásos tűzoltók áramtalanították az egyik járművet. A helyszínre mentő is érkezett.  Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Penc, Rákóczi út",
       "updates": []
     },
     {
@@ -84,9 +93,9 @@
       "title": "Kazánház égett Ónodon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93250",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy kazánházban Ónodon, az Árpád utcában. A tiszaújvárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Ónod, Árpád utca",
       "updates": []
     },
     {
@@ -260,9 +269,9 @@
       "title": "Kisbusszal karambolozott egy személyautó a 85-ösön, Hegykőnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93234",
-      "lead": "A kisebb jármű vezetői beszorultak, a tűzoltók emelték ki őket.",
-      "body": "Egy kisbusz és egy személyautó ütközött össze a 85-ös főút 60-as kilométerszelvényénél, Hegykő térségében. Az ütközés következtében a kisbusz az oldalára borult, négy utasa saját erejéből ki tudott szállni. A személyautó két utasa azonban beszorult, a sopronkövesdi hivatásos tűzoltók feszítővágó segítségével emelték ki őket a járműből. A balesethez a soproni hivatásos és a hegykői önkéntes tűzoltók, valamint a mentők is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
-      "location": "Hegykő, 85",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
