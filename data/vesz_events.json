@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-30T15:22:03.078785+00:00",
-  "count": 3706,
+  "updated_at": "2026-10-30T15:25:28.029865+00:00",
+  "count": 3707,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93268",
+      "datetime": "2026.10.30. 16:25",
+      "title": "Árokba hajtott egy autó Mihályfán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93268",
+      "lead": "A Kossuth utcába sümegi tűzoltók vonultak.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi Mihályfán. A Kossuth utcában történt a baleset, a járműben ketten utaztak. A sümegi hivatásos tűzoltók áramtalanították az autót.",
+      "location": "Mihályfa, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "93267",
       "datetime": "2026.10.30. 15:09",
