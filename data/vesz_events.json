@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:18:25.542073+00:00",
+  "updated_at": "2026-10-31T01:21:49.304896+00:00",
   "count": 3718,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -85,13 +85,21 @@
           "category": "Tűzeset",
           "text": "A Tolnai úton gyulladt ki egy nagyjából száz négyzetméteres épület tetőszerkezete. A paksi hivatásos tűzoltó-parancsnokság több gépjárműfecskendője, a vízszállító, Kalocsáról és Szekszárdról egy-egy gépjárműfecskendő és különleges szer van a helyszínen, a tűzoltók munkáját a Tolna megyei katasztrófavédelmi műveleti szolgálat irányítja. Az egységek több vízsugárral körülhatárolták a tüzet, emellett folyamatosan bontják a tetőt, az emelőkosaras szerekről darabolják a lemezhéjazatot, hogy hozzáférjenek a beizzott részekhez.",
           "location": "Paks, Tolnai út",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93273"
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273/2?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93273"
         },
         {
           "title": "Hatórás munkával fojtották el a paksi tűz lángjait",
           "datetime": "2026.10.31. 01:44",
           "category": "Tűzeset",
           "text": "A Tolnai úton este 7 óra környékén gyulladt ki egy nagyjából száz négyzetméteres épület tetőszerkezete. Három város hivatásos tűzoltói órákon keresztül oltották a tüzet, bontották a födémet, illetve mentették az értékeket az épületből. Hatórás munkával elérték, hogy tűz már nincs, viszont továbbra is keresik, kutatják a még izzó részeket.",
+          "location": "Paks, Tolnai út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93273"
+        },
+        {
+          "title": "A tűzoltók már az utómunkálatokat végzik Pakson",
+          "datetime": "2026.10.31. 02:21",
+          "category": "Tűzeset",
+          "text": "Egy Tolnai úti, kétszintes épületben keletkezett tűz este 7 óra környékén. A megyei katasztrófavédelmi műveleti szolgálat irányítása mellett paksi, kalocsai és szekszárdi tűzoltók, többórás munkával oltották el a lángokat. Az egységek már az utómunkálatokat végzik.",
           "location": "Paks, Tolnai út",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93273/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93273"
         }
