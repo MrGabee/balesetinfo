@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T12:09:50.297572+00:00",
-  "count": 3729,
+  "updated_at": "2026-10-31T12:13:25.309927+00:00",
+  "count": 3730,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93291",
+      "datetime": "2026.10.31. 13:11",
+      "title": "Motor és autó ütközött Mogyoród közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93291",
+      "lead": "A Gödöllői útra vonultak a tűzoltók.",
+      "body": "Egy motorkerékpár és egy személyautó ütközött össze Mogyoród és a 3-as főút között, a Gödöllői úton. A műszaki mentést a gödöllői hivatásos és a veresegyházi önkéntes tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Mogyoród, Gödöllői út",
+      "updates": []
+    },
     {
       "id": "93290",
       "datetime": "2026.10.31. 12:29",
