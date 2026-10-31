@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T21:10:27.301345+00:00",
-  "count": 3748,
+  "updated_at": "2026-10-31T21:14:14.978909+00:00",
+  "count": 3749,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93310",
+      "datetime": "2026.10.31. 22:13",
+      "title": "Árokba borult egy autó az M0-áson, a csömöri lehajtónál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93310",
+      "lead": "Az  M3-as autópálya felé vezető oldalon van szükség műszaki mentésre.",
+      "body": "Árokba borult egy személyautó az M0-ás autóút M3-as autópálya felé vezető oldalán, a csömöri lehajtónál, a 65-ös kilométerszelvénynél. A fővárosi hivatásos és a csömöri önkéntes tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "93309",
       "datetime": "2026.10.31. 20:27 -",
