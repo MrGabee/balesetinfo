@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T18:28:30.752633+00:00",
-  "count": 3746,
+  "updated_at": "2026-10-31T18:32:08.027198+00:00",
+  "count": 3747,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93308",
+      "datetime": "2026.10.31. 19:29",
+      "title": "Baleset történt a 74-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93308",
+      "lead": "Vasvár és Győrvár között lezárták az utat.",
+      "body": "Vadat gázolt egy személygépkocsi, majd egy másik autóval ütközött a 74-es főút Vasvárt és Győrvárt összekötő szakaszán, a 70-es és 71-es kilométerszelvény között. A balesethez a vasvári önkormányzati tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Vasvár, 74",
+      "updates": []
+    },
     {
       "id": "93307",
       "datetime": "2026.10.31. 19:09",
