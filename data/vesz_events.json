@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T10:53:11.373763+00:00",
-  "count": 3726,
+  "updated_at": "2026-10-31T10:56:31.276151+00:00",
+  "count": 3727,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93288",
+      "datetime": "2026.10.31. 11:56",
+      "title": "Egymásnak ütközött két autó Kapuvár és Kisfalud között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93288",
+      "lead": "A 8611-es úton félpályán halad a forgalom.",
+      "body": "Összeütközött két személyautó Kapuvár és Kisfalud között, a 8611-es úton, az 5-ös kilométerszelvény közelében. A balesethez a kapuvári hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kapuvár, 8611",
+      "updates": []
+    },
     {
       "id": "93287",
       "datetime": "2026.10.31. 11:39",
