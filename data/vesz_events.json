@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T11:04:02.171252+00:00",
-  "count": 3727,
+  "updated_at": "2026-10-31T11:07:28.451038+00:00",
+  "count": 3728,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93289",
+      "datetime": "2026.10.31. 12:07",
+      "title": "Parkoló autóknak ütközött egy személygépkocsi Zalaszentgróton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93289",
+      "lead": "Az Eötvös Károly utcába riasztották a tűzoltókat.",
+      "body": "Parkoló autóknak ütközött egy személygépkocsi Zalaszentgróton, az Eötvös Károly utcában, a Csány László utca közelében. A helyi önkormányzati tűzoltók áramtalanították a balesetet okozó járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Zalaszentgrót, Eötvös Károly utca",
+      "updates": []
+    },
     {
       "id": "93288",
       "datetime": "2026.10.31. 11:56",
