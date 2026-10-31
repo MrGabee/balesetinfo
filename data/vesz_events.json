@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T11:29:15.739292+00:00",
-  "count": 3728,
+  "updated_at": "2026-10-31T11:32:44.846059+00:00",
+  "count": 3729,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93290",
+      "datetime": "2026.10.31. 12:29",
+      "title": "Hármas karambol az M7-esen, Tárnoknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93290",
+      "lead": "A Budapest felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Három autó karambolozott az M7-es autópálya Budapest felé vezető oldalán, Tárnok közelében, a 21-es kilométerszelvénynél. A balesethez az érdi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett. AZ érintett sztrádaszakaszon forgalomkorlátozásra, torlódásra kell számítani.",
+      "location": "Tárnok, M7",
+      "updates": []
+    },
     {
       "id": "93289",
       "datetime": "2026.10.31. 12:07",
