@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T00:10:39.694952+00:00",
-  "count": 3716,
+  "updated_at": "2026-10-31T00:14:00.583056+00:00",
+  "count": 3717,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93278",
+      "datetime": "2026.10.31. 01:10",
+      "title": "Ágy égett egy jászboldogházi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93278",
+      "lead": "A Vezér utcába jászberényi és helyi tűzoltókat riasztottak.",
+      "body": "Füst áramlott ki egy nagyjából száz négyzetméteres lakóházból Jászboldogházán, a Vezér utcában. Az esethez a helyi önkéntes és a jászberényi hivatásos tűzoltók vonultak. Az egységek légzésvédelem és sugárfedezet mellett bementek az épületbe, és kiderült, hogy az egyik helyiségben egy ágy égett. A ház lakója időben kiment a szabadba, mentőt riasztottak hozzá. Az egységek eloltották a tüzet, az utómunkálatoknál tartanak, átvizsgálják és átszellőztetik az épületet.",
+      "location": "Jászboldogháza, Vezér utca",
+      "updates": []
+    },
     {
       "id": "93277",
       "datetime": "2026.10.31. 00:26",
