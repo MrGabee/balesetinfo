@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T00:57:07.823031+00:00",
-  "count": 3717,
+  "updated_at": "2026-10-31T01:00:44.699676+00:00",
+  "count": 3718,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93279",
+      "datetime": "2026.10.31. 01:57",
+      "title": "Árokba hajtott egy autó a 41-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93279",
+      "lead": "Az 57-58-as kilométer között történt a baleset.",
+      "body": "Letért az úttestről, árokba hajtott és ott a tetejére borulva állt meg egy személykocsi a 41-es főút Gergelyiugornya és Tákos közötti szakaszán. Az autóban többen ültek, de csak egy ember maradt a helyszínen, hozzá mentő érkezett. Az 57-58-as kilométer között történt balesethez vásárosnaményi önkormányzati és mátészalkai hivatásos tűzoltók vonultak. A rajok áramtalanítottak, illetve átvizsgálják a területet, van-e ott a balesetben érintett utas.",
+      "location": "Vásárosnamény, 41",
+      "updates": []
+    },
     {
       "id": "93278",
       "datetime": "2026.10.31. 01:10",
