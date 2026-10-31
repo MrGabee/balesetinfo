@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T19:26:23.949525+00:00",
-  "count": 3747,
+  "updated_at": "2026-10-31T19:29:15.230334+00:00",
+  "count": 3748,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93309",
+      "datetime": "2026.10.31. 20:27",
+      "title": "Tűz van Felsőlajoson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93309",
+      "lead": "Az Akácfa utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy családi ház tetőszerkezete Felsőlajoson, az Akácfa utcában. A tűz egy melléképületet, valamint a szomszédos lakóingatlant is érinti. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
+      "location": "Felsőlajos, Akácfa utca",
+      "updates": []
+    },
     {
       "id": "93308",
       "datetime": "2026.10.31. 19:29",
