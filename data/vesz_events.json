@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T14:03:29.183715+00:00",
-  "count": 3737,
+  "updated_at": "2026-10-31T14:06:57.029888+00:00",
+  "count": 3738,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93299",
+      "datetime": "2026.10.31. 15:05",
+      "title": "Árokba borult egy autó a 71-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93299",
+      "lead": "Tihany közelében félpályán halad a forgalom.",
+      "body": "Árokba borult egy személyautó a 71-es főúton, Tihany közelében, a 43-as kilométerszelvénynél. A műszaki mentést a balatonfüredi önkormányzati tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tihany, 71",
+      "updates": []
+    },
     {
       "id": "93298",
       "datetime": "2026.10.31. 14:57",
@@ -67,7 +78,16 @@
       "lead": "A Posta utcába vonultak a tűzoltók.",
       "body": "Teljes terjedelmében égett egy melléképület Horvátzsidányon, a Posta utcában. A tűz a lakóingatlanra nem terjedt át. A kőszegi önkormányzati, valamint a peresznyei és horvátzsidányi önkéntes tűzoltók jelenleg három vízsugárral dolgoznak a lángok megfékezésén.",
       "location": "Horvátzsidány, Posta utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már nincs tűz Horvátzsidányon",
+          "datetime": "2026.10.31. 15:01",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik Horvátzsidányon, ahol egy melléképület égett a Posta utcában. A tűz a lakóingatlanra nem terjedt át. A szombathelyi és sopronkövesdi hivatásos, a kőszegi önkormányzati, valamint a peresznyei és horvátzsidányi önkéntes tűzoltók eloltották a lángokat. A rajok négy gázpalackot is kihoztak egy tárolóból, amiket hőhatás nem ért.",
+          "location": "Horvátzsidány, Posta utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93293/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93293"
+        }
+      ]
     },
     {
       "id": "93292",
