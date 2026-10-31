@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T10:36:41.497287+00:00",
-  "count": 3725,
+  "updated_at": "2026-10-31T10:40:07.272526+00:00",
+  "count": 3726,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93287",
+      "datetime": "2026.10.31. 11:39",
+      "title": "Baleset történt az M0-áson, Törökbálintnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93287",
+      "lead": "Az M1-es autópálya felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Szalagkorlátnak hajtott egy személyautó az M0-s autóúton, az M1-es autópálya felé vezető oldalán, Törökbálint közelében, az 5-ös kilométerszelvénynél. A baleset helyszínén két másik személygépkocsi is egymásnak ütközött. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Törökbálint, M0",
+      "updates": []
+    },
     {
       "id": "93286",
       "datetime": "2026.10.31. 11:29",
