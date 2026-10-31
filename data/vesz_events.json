@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T09:06:20.373421+00:00",
-  "count": 3723,
+  "updated_at": "2026-10-31T09:10:11.653627+00:00",
+  "count": 3724,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93285",
+      "datetime": "2026.10.31. 10:09",
+      "title": "Tűz volt egy békéscsabai lakóházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93285",
+      "lead": "A Szent Imre utcában oltották el a lángokat.",
+      "body": "Tűz volt egy békéscsabai lakóház fürdőszobájában, a Szent Imre utcában. A helyiségben egy mosógép égett. A lángokat a város hivatásos tűzoltói két vízsugárral eloltották.",
+      "location": "Békéscsaba, Szent Imre utca",
+      "updates": []
+    },
     {
       "id": "93284",
       "datetime": "2026.10.31. 09:32",
