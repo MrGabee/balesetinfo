@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T13:06:45.300126+00:00",
-  "count": 3731,
+  "updated_at": "2026-10-31T13:10:24.153132+00:00",
+  "count": 3732,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93293",
+      "datetime": "2026.10.31. 14:07",
+      "title": "Melléképület ég Horvátzsidányon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93293",
+      "lead": "A Posta utcába vonultak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy melléképület Horvátzsidányon, a Posta utcában. A tűz a lakóingatlanra nem terjedt át. A kőszegi önkormányzati, valamint a peresznyei és horvátzsidányi önkéntes tűzoltók jelenleg három vízsugárral dolgoznak a lángok megfékezésén.",
+      "location": "Horvátzsidány, Posta utca",
+      "updates": []
+    },
     {
       "id": "93292",
       "datetime": "2026.10.31. 13:31",
