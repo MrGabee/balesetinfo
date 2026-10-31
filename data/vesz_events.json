@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T16:12:59.608590+00:00",
-  "count": 3740,
+  "updated_at": "2026-10-31T16:16:35.563294+00:00",
+  "count": 3741,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93302",
+      "datetime": "2026.10.31. 17:15",
+      "title": "Garázstűz Zalaszentlászlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93302",
+      "lead": "A Toldi Miklós utcában volt szükség tűzoltói beavatkozásra.",
+      "body": "Teljes terjedelmében égett egy garázs Zalaszentlászlón, a Toldi Miklós utcában. A keszthelyi hivatásos és a zalaszentgróti önkormányzati tűzoltók légzésvédelem mellett oltották el a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Zalaszentlászló, Toldi Miklós utca",
+      "updates": []
+    },
     {
       "id": "93301",
       "datetime": "2026.10.31. 16:27 -",
