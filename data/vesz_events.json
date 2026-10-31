@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T10:29:14.454180+00:00",
-  "count": 3724,
+  "updated_at": "2026-10-31T10:33:04.237558+00:00",
+  "count": 3725,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93286",
+      "datetime": "2026.10.31. 11:29",
+      "title": "Frontális karambol a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93286",
+      "lead": "Bonyhád és Hidas között lezárták az utat.",
+      "body": "Frontálisan ütközött két személyautó a 6-os főút Bonyhád és Hidas közötti szakaszán, a 161-es kilométerszelvénynél. A szekszárdi és bonyhádi hivatásos, valamint a mecseknádasdi és bonyhádi önkéntes tűzoltók feszítővágó segítségével egy embert kiemeltek az egyik gépkocsiból, a másik járműből két embert szabadítottak ki a járműből. A helyszínre mentőhelikopter is érkezett. AZ érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hidas, 6",
+      "updates": []
+    },
     {
       "id": "93285",
       "datetime": "2026.10.31. 10:09",
