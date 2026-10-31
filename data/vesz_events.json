@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T16:50:09.895233+00:00",
-  "count": 3741,
+  "updated_at": "2026-10-31T16:53:33.376551+00:00",
+  "count": 3742,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93303",
+      "datetime": "2026.10.31. 17:52",
+      "title": "Tűz volt Aranyosapátin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93303",
+      "lead": "Az Árpád utcába riasztották a tűzoltókat.",
+      "body": "Családi ház tetőszerkezete és egyik helyisége égett Aranyosapátin, az Árpád utcában. A kisvárdai hivatásos és a vásárosnaményi önkormányzati tűzoltók megbontották a tetőhéjazatot, majd három vízsugárral eloltották a lángokat. A helyszínre mentő is érkezett. A rajok további izzó gócpontok után kutatnak.",
+      "location": "Aranyosapáti, Árpád utca",
+      "updates": []
+    },
     {
       "id": "93302",
       "datetime": "2026.10.31. 17:15",
