@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T08:32:20.088986+00:00",
-  "count": 3722,
+  "updated_at": "2026-10-31T08:35:49.235189+00:00",
+  "count": 3723,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93284",
+      "datetime": "2026.10.31. 09:32",
+      "title": "Szalagkorlátnak ütközött egy autó a 611-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93284",
+      "lead": "Dombóvár közelében félpályán halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó Dombóvár közelében, a 611-es főút és a Baross utca találkozásánál. A dombóvári hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Dombóvár, Baross utca",
+      "updates": []
+    },
     {
       "id": "93283",
       "datetime": "2026.10.31. 08:12",
