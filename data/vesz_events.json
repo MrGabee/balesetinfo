@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T15:20:18.212462+00:00",
-  "count": 3738,
+  "updated_at": "2026-10-31T15:23:43.477890+00:00",
+  "count": 3739,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93300",
+      "datetime": "2026.10.31. 16:23",
+      "title": "Szauna égett Tarjánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93300",
+      "lead": "A Csalogány utcában csaptak fel a lángok.",
+      "body": "Szauna égett egy családi ház udvarán Tarjánban, a Csalogány utcában. A lángokat a tatabányai hivatásos, valamint a tarjáni, vértestolnai és tardosi önkéntes tűzoltók oltották el, három vízsugárral. A rajok utómunkálatokat végeznek.",
+      "location": "Tarján, Csalogány utca",
+      "updates": []
+    },
     {
       "id": "93299",
       "datetime": "2026.10.31. 15:05",
