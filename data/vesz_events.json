@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T17:50:49.803054+00:00",
-  "count": 3744,
+  "updated_at": "2026-10-31T17:54:24.182513+00:00",
+  "count": 3745,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93306",
+      "datetime": "2026.10.31. 18:53",
+      "title": "Árokba borult egy autó Nádasdladányban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93306",
+      "lead": "A Kastély úton történt a baleset.",
+      "body": "Árokba borult egy személyautó Nádasdladányban, a Kastély úton. A polgárdi önkormányzati tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
+      "location": "Nádasdladány, Kastély út",
+      "updates": []
+    },
     {
       "id": "93305",
       "datetime": "2026.10.31. 18:16",
