@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T07:07:59.843119+00:00",
-  "count": 3720,
+  "updated_at": "2026-10-31T07:11:49.246082+00:00",
+  "count": 3721,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93282",
+      "datetime": "2026.10.31. 08:10",
+      "title": "Kiégett egy autó Pécsen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93282",
+      "lead": "A Május 1. utca és a Rákos Lajos utca találkozásánál lévő alagutat egy ideig nem lehet használni.",
+      "body": "Kigyulladt és kiégett egy személykocsi Pécsen, a Május 1. utca és a Rákos Lajos utca találkozásánál lévő alagútban. A város hivatásos tűzoltói rövid idő alatt eloltották az égő autót, már az utómunkálatokat végzik. A jármű az alagútban van, így teljes útzárat képez.",
+      "location": "Pécs, Május 1. utca",
+      "updates": []
+    },
     {
       "id": "93281",
       "datetime": "2026.10.31. 07:08",
