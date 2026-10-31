@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T13:57:28.061697+00:00",
-  "count": 3736,
+  "updated_at": "2026-10-31T14:00:50.523122+00:00",
+  "count": 3737,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93298",
+      "datetime": "2026.10.31. 14:57",
+      "title": "Fának ütközött egy autó Budapest XVIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93298",
+      "lead": "A Lőrinci út és a Törvény utca kereszteződésénél dolgoznak a tűzoltók.",
+      "body": "Fának ütközött egy személyautó Budapest XVIII. kerületében, a Lőrinci út és a Törvény utca kereszteződésénél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom, valamint fennakadásokra kell számítani a közösségi közlekedésben is.",
+      "location": "Budapest, Törvény utca",
+      "updates": []
+    },
     {
       "id": "93297",
       "datetime": "2026.10.31. 14:40",
