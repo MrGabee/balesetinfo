@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T13:16:16.068164+00:00",
-  "count": 3733,
+  "updated_at": "2026-10-31T13:19:32.641770+00:00",
+  "count": 3734,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93295",
+      "datetime": "2026.10.31. 14:17",
+      "title": "Két autó ütközött Szügyön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93295",
+      "lead": "A Gyarmati út és a Hársfasor kereszteződésében félpályán halad a forgalom.",
+      "body": "Két személyautó ütközött össze Szügyön, a Gyarmati út és a Hársfasor kereszteződésében. A balesethez a balassagyarmati hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán, irányítás mellett halad a forgalom.",
+      "location": "Szügy, Hársfasor",
+      "updates": []
+    },
     {
       "id": "93294",
       "datetime": "2026.10.31. 14:11",
