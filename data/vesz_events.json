@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T13:36:48.311106+00:00",
-  "count": 3735,
+  "updated_at": "2026-10-31T13:40:25.181005+00:00",
+  "count": 3736,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93297",
+      "datetime": "2026.10.31. 14:40",
+      "title": "Árokba sodródott egy autó Sonkád és Tiszabecs között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93297",
+      "lead": "A 491-es főúton félpályán halad a forgalom.",
+      "body": "Árokba sodródott egy személyautó a 491-es főút Sonkád és Tiszabecs közötti szakaszán, a 33-as kilométerszelvénynél. A balesethez a fehérgyarmati hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tiszabecs, 491",
+      "updates": []
+    },
     {
       "id": "93296",
       "datetime": "2026.10.31. 14:36",
