@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T17:15:30.995327+00:00",
-  "count": 3743,
+  "updated_at": "2026-10-31T17:18:58.190864+00:00",
+  "count": 3744,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93305",
+      "datetime": "2026.10.31. 18:16",
+      "title": "Vadgázolás az 51-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93305",
+      "lead": "Baja és Bátmonostor között félpályán halad a forgalom.",
+      "body": "Vadat gázolt egy személyautó az 51-es főút Baja és Bátmonostor közötti szakaszán, a 166-os kilométerszelvénynél. A balesethez a bajai hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Baja, 51",
+      "updates": []
+    },
     {
       "id": "93304",
       "datetime": "2026.10.31. 18:12",
