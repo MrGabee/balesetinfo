@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T06:08:43.567392+00:00",
-  "count": 3719,
+  "updated_at": "2026-10-31T06:12:28.978407+00:00",
+  "count": 3720,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93281",
+      "datetime": "2026.10.31. 07:08",
+      "title": "Égett egy épület Kecskemét szélén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93281",
+      "lead": "A Károly Róbert körút melletti erdős területre vonultak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy nagyjából huszonöt négyzetméteres épület Kecskemét szélén. A Károly Róbert körút melletti erdős területen álló épülethez a kecskeméti hivatásos tűzoltók egy gépjárműfecskendője és a vízszállító vonult. Az egységek rövid idő alatt körülhatárolták, illetve eloltották a lángokat, már az utómunkálatokat végzik.",
+      "location": "Kecskemét, Károly Róbert körút",
+      "updates": []
+    },
     {
       "id": "93280",
       "datetime": "2026.10.31. 06:59",
