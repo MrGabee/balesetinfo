@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T13:33:19.448517+00:00",
-  "count": 3734,
+  "updated_at": "2026-10-31T13:36:48.311106+00:00",
+  "count": 3735,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93296",
+      "datetime": "2026.10.31. 14:36",
+      "title": "Karambol a 445-ös főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93296",
+      "lead": "Kecskemétnél félpályán halad a forgalom.",
+      "body": "Karambolozott két személyautó a 445-ös főúton, Kecskemét közelében, a 2-es és 3-as kilométerszelvénynél. A kecskeméti hivatásos tűzoltók az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, 445",
+      "updates": []
+    },
     {
       "id": "93295",
       "datetime": "2026.10.31. 14:17",
