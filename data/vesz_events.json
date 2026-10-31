@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T22:05:28.116090+00:00",
-  "count": 3749,
+  "updated_at": "2026-10-31T22:08:51.578327+00:00",
+  "count": 3750,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93311",
+      "datetime": "2026.10.31. 23:07",
+      "title": "Karambol az M4-esen, Monornál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93311",
+      "lead": "A Budapest felé vezető oldalon forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó az M4-es autópálya Budapest felé vezető oldalán, Monor közelében, a 35-ös és a 36-os kilométerszelvény között. A balesethez a monori hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett sztrádaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Monor, M4",
+      "updates": []
+    },
     {
       "id": "93310",
       "datetime": "2026.10.31. 22:13",
