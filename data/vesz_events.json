@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T07:11:49.246082+00:00",
-  "count": 3721,
+  "updated_at": "2026-10-31T07:15:05.481796+00:00",
+  "count": 3722,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93283",
+      "datetime": "2026.10.31. 08:12",
+      "title": "Felborult egy autó Igal és Ráksi között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93283",
+      "lead": "A 6505-ös úton van szükség műszaki mentésre.",
+      "body": "Oldalára borult egy személyautó Igal és Ráksi között, a 6505-ös út 21-es kilométerszelvényénél. A kaposvári hivatásos tűzoltók feszítővágó segítségével egy embert kiszabadítottak a gépkocsiból. A helyszínre mentő is érkezett.",
+      "location": "Igal, Kaposvári utca",
+      "updates": []
+    },
     {
       "id": "93282",
       "datetime": "2026.10.31. 08:10",
