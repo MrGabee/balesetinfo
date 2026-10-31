@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:44:52.697868+00:00",
+  "updated_at": "2026-10-31T15:48:07.674617+00:00",
   "count": 3740,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "A Fő utcában oltják a lángokat.",
       "body": "Kigyulladt egy garázs Markotabödögén, a Fő utcában. A tűz átterjedt egy lakóépület tetőszerkezetére is. A csornai és lébényi hivatásos, valamint a bezi önkéntes tűzoltók jelenleg három vízsugárral dolgoznak a lángok megfékezésén. A rajok egy gázpalackot is kihoztak az épületből. A tűz oltását egy győri vízszállító is segíti.",
       "location": "Markotabödöge, Fő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik Markotabödögén",
+          "datetime": "2026.10.31. 16:43",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Markotabödögén, ahol egy garázs égett a Fő utcában. A tűz átterjedt egy lakóépület tetőszerkezetére is. A csornai és lébényi hivatásos, valamint a bezi önkéntes tűzoltók egy gázpalackot hoztak ki az épületből, majd eloltották a lángokat. A rajok megbontják a lakóingatlan tetőszerkezetét, további izzó pontok után kutatva. A tűz oltását egy győri vízszállító is segítette.",
+          "location": "Markotabödöge, Fő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93301/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93301"
+        }
+      ]
     },
     {
       "id": "93300",
