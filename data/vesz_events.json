@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T05:58:41.257022+00:00",
-  "count": 3718,
+  "updated_at": "2026-10-31T06:02:08.489001+00:00",
+  "count": 3719,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93280",
+      "datetime": "2026.10.31. 06:59",
+      "title": "Baleset történt Jászágó és Jászárokszállás között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93280",
+      "lead": "A 3231-es úton árokba hajtott egy személykocsi.",
+      "body": "Letért az úttestről és árokba csúszott egy autó a 3231-es út 10-es kilométerénél. A jármű a tetejére borulva állt meg. A jászárokszállási önkormányzati tűzoltók vonultak az esethez. Az egység a kerekeire fordítja, illetve áramtalanítja majd az autót. A kocsiban csak a sofőr utazott.",
+      "location": "Jászágó, 3231",
+      "updates": []
+    },
     {
       "id": "93279",
       "datetime": "2026.10.31. 01:57",
