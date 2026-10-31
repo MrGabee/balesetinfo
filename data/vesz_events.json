@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T18:07:11.707462+00:00",
-  "count": 3745,
+  "updated_at": "2026-10-31T18:10:49.959191+00:00",
+  "count": 3746,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93307",
+      "datetime": "2026.10.31. 19:09",
+      "title": "Árokba hajtott egy autó Kenézen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93307",
+      "lead": "A Rákóczi Ferenc utcában félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személyautó Kenézen, a Rákóczi Ferenc utcában. A szombathelyi hivatásos és a vépi önkéntes tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kenéz, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93306",
       "datetime": "2026.10.31. 18:53",
