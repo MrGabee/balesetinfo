@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-10-31T12:31:19.457334+00:00",
-  "count": 3730,
+  "updated_at": "2026-10-31T12:34:08.131971+00:00",
+  "count": 3731,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93292",
+      "datetime": "2026.10.31. 13:31",
+      "title": "Összeütközött két személyautó az M6-oson, Bölcskénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93292",
+      "lead": "A Budapest felé vezető oldalon történt a baleset.",
+      "body": "Két személyautó karambolozott az M6-os autópálya Budapest felé vezető oldalán, Bölcske közelében, a 95-ös kilométerszelvénynél. A balesethez a paksi hivatásos tűzoltókat riasztották, akik az egyik gépkocsit áramtalanították. A helyszínre mentő is érkezett.",
+      "location": "Bölcske, M6",
+      "updates": []
+    },
     {
       "id": "93291",
       "datetime": "2026.10.31. 13:11",
