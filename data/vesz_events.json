@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T12:31:28.866313+00:00",
-  "count": 2830,
+  "updated_at": "2026-11-01T12:34:14.967938+00:00",
+  "count": 2831,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93319",
+      "datetime": "2026.11.01. 13:32",
+      "title": "Karambol történt Dombóváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93319",
+      "lead": "A tűzoltók az egyik járművet áramtalanították.",
+      "body": "Két gépkocsi karambolozott Dombóváron, a Fő utca és a VI. utca kereszteződésében. A város hivatásos tűzoltói áramtalanították az egyik járművet. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Dombóvár, Fő utca",
+      "updates": []
+    },
     {
       "id": "93318",
       "datetime": "2026.11.01. 13:28",
