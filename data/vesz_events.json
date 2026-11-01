@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T19:51:29.354291+00:00",
-  "count": 2841,
+  "updated_at": "2026-11-01T19:54:51.953402+00:00",
+  "count": 2842,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93330",
+      "datetime": "2026.11.01. 20:54",
+      "title": "Tűz volt egy szarvasi lakóház kazánházában",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93330",
+      "lead": "A tűzoltók porral oltóval fékezték meg a lángokat.",
+      "body": "A gázkazán vezetékei égtek egy családi ház kazánházában Szarvason, a Gyóni Géza utcában. A város hivatásos tűzoltói egy porral oltóval szüntették meg a tüzet, egy vízsugárral pedig a helyszínt biztosították. Az egységek hőkamerával átvizsgálták a házat az esetleges beizzások miatt, valamint át is szellőztették az épületet.",
+      "location": "Szarvas, Gyóni Géza utca",
+      "updates": []
+    },
     {
       "id": "93329",
       "datetime": "2026.11.01. 18:42",
