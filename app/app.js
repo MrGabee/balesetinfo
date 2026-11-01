@@ -1312,6 +1312,18 @@ function dashStyles() {
     .tetel-osszesito { border-left: 4px solid var(--amber); background: var(--amber-soft); }
     .tetel-ismeretlen { border-left: 4px solid var(--red); background: var(--red-soft); }
     .tetel-kizarva { opacity: .6; }
+    .tetel-hianyzik { border-left: 4px solid var(--red); }
+    .cimke-hianyzik { background: var(--red-soft); color: var(--red); }
+    .osszevetes { margin-top: 14px; padding: 12px 14px; border-radius: 10px; border: 1px solid var(--border); }
+    .osszevetes.egyezik { background: var(--green-soft); border-color: transparent; color: var(--green); }
+    .osszevetes.elter { background: var(--red-soft); border-color: transparent; }
+    .osszevetes-cim { margin: 0; font-weight: 600; }
+    .osszevetes-al { margin: 10px 0 6px; font-size: 14px; color: var(--muted); }
+    .osszevetes-lista { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+    .osszevetes-lista li { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; background: var(--card); border-radius: 8px; padding: 8px 10px; font-size: 14px; }
+    .osszevetes-lista li span { min-width: 0; overflow-wrap: anywhere; }
+    .osszevetes-lista small { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }
+    .osszevetes-lista strong { white-space: nowrap; color: var(--red); }
     .megjelol-osszesitokent { display: inline-block; margin-top: 8px; font-size: 13px; font-weight: 700; color: var(--red); background: none; border: none; padding: 0; cursor: pointer; }
     .ures { padding: 28px 16px; text-align: center; color: var(--muted); background: var(--card); border: 1px dashed var(--border); border-radius: 10px; }
     .muvelet-alatt { opacity: .4; pointer-events: none; }
@@ -1323,18 +1335,41 @@ function dashStyles() {
   </style>`;
 }
 
+function osszevetesHtml(osszesites) {
+  const o = osszesites.osszevetes;
+  if (!o) return '';
+  const kulonbseg = (osszesites.szallitoiVegosszeg || 0) - osszesites.pillanatnyi;
+  if (!o.csakOsszesitoben.length && !o.nincsOsszesitobenDb) {
+    return `<div class="osszevetes egyezik"><p class="osszevetes-cim">✓ Minden tétel egyezik az elszámolással (${o.osszesitoTetelSzam} tétel).</p></div>`;
+  }
+  const iras = kulonbseg > 0 ? `Az elszámolás <strong>${formatFt(kulonbseg)}</strong>-tal több, mint a dashboard.`
+    : kulonbseg < 0 ? `Az elszámolás <strong>${formatFt(-kulonbseg)}</strong>-tal kevesebb, mint a dashboard.`
+    : 'Az összeg egyezik, de a tételek eltérnek.';
+  const tobbletLista = o.csakOsszesitoben.map(t => `
+      <li><span>${escapeHtml(t.megnevezes)}<small>${escapeHtml(t.datum || '')}${t.azonosito ? ' · azonosító: ' + escapeHtml(t.azonosito) : ''}</small></span><strong>+${formatFt(t.osszeg)}</strong></li>`).join('');
+  return `<div class="osszevetes elter">
+    <p class="osszevetes-cim">${iras}</p>
+    ${o.csakOsszesitoben.length ? `
+    <p class="osszevetes-al">Az elszámolásban szerepel, de itt nincs megrendelője:</p>
+    <ul class="osszevetes-lista">${tobbletLista}</ul>` : ''}
+    ${o.nincsOsszesitobenDb ? `
+    <p class="osszevetes-al">Itt szerepel, de az elszámolásban nincs: <strong>${o.nincsOsszesitobenDb} tétel, −${formatFt(o.nincsOsszesitobenOsszeg)}</strong>. Lent pirossal jelölve.</p>` : ''}
+  </div>`;
+}
+
 function renderDashboard(honapNev, sorok, osszesites, nav, nevTerkep, jelszo) {
   const id = s => escapeHtml(s.pdfFileId || '');
   const tetelSorokHtml = sorok.length === 0
     ? `<div class="ures">Ebben a hónapban még nincs egy tétel sem.</div>`
     : sorok.map(s => `
-<div class="tetel-sor ${s.tipus === 'osszesito' ? 'tetel-osszesito' : ''} ${s.tipus === 'ismeretlen' ? 'tetel-ismeretlen' : ''} ${s.kizarva ? 'tetel-kizarva' : ''}" data-osszeg="${s.osszeg}" data-tipus="${s.tipus}">
+<div class="tetel-sor ${s.tipus === 'osszesito' ? 'tetel-osszesito' : ''} ${s.tipus === 'ismeretlen' ? 'tetel-ismeretlen' : ''} ${s.nincsOsszesitoben ? 'tetel-hianyzik' : ''} ${s.kizarva ? 'tetel-kizarva' : ''}" data-osszeg="${s.osszeg}" data-tipus="${s.tipus}">
   <div class="tetel-bal">
     <p class="nev">${escapeHtml(s.megnevezes)}</p>
     <p class="cimkek">
       <span class="cimke-chip cimke-datum">${escapeHtml(datumIdoMegjelenitve(s))}</span>
       <span class="cimke-chip cimke-felado">${escapeHtml(feladoMegjelenitendoNeve(nevTerkep, s.feladoEmail))}</span>
       ${s.kizarva ? '<span class="cimke-chip kizart-cimke">Kizárva az összefűzésből</span>' : ''}
+      ${s.nincsOsszesitoben ? '<span class="cimke-chip cimke-hianyzik">Nincs az elszámolásban</span>' : ''}
     </p>
     ${s.tipus === 'ismeretlen' ? `<button type="button" class="megjelol-osszesitokent" onclick="muvelet(this, 'tetelMegjelolesOsszesitokent', '${id(s)}')">Megjelölés összesítőként →</button>` : ''}
   </div>
@@ -1391,6 +1426,8 @@ ${navSav('dashboard', jelszo)}
       </div>
     </div>
   </div>
+
+  ${osszevetesHtml(osszesites)}
 
   <div class="metrika-racs">
     ${metrika('18000', '18 000 Ft', osszesites.darab18)}
