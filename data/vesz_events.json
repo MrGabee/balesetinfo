@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T05:51:40.176511+00:00",
-  "count": 2824,
+  "updated_at": "2026-11-01T05:55:21.753882+00:00",
+  "count": 2825,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93313",
+      "datetime": "2026.11.01. 06:53",
+      "title": "Két autó ütközött Horton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93313",
+      "lead": "A Kossuth Lajos utat lezárták.",
+      "body": "Összeütközött két személyautó Horton, a Kossuth Lajos út és a Táncsics Mihály út találkozásánál. A balesethez a hatvani hivatásos tűzoltókat riasztották, akik áramtalanították az egyik gépkocsit. A helyszínelés idejére az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hort, Kossuth Lajos út",
+      "updates": []
+    },
     {
       "id": "93312",
       "datetime": "2026.11.01. 00:01",
