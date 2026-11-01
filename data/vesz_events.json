@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T04:12:12.917146+00:00",
-  "count": 2823,
+  "updated_at": "2026-11-01T04:16:07.738032+00:00",
+  "count": 2824,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93312",
+      "datetime": "2026.11.01. 00:01",
+      "title": "Lakóház tetőszerkezete égett Pilisvörösváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93312",
+      "lead": "A Budai Nagy Antal utcában oltották el a lángokat.",
+      "body": "Lakóház tetőszerkezete égett Pilisvörösváron, a Budai Nagy Antal utcában. A fővárosi hivatásos, valamint a pilisvörösvári és pilisszentiváni önkéntes tűzoltók két vízsugárral eloltották a lángokat.",
+      "location": "Pilisvörösvár, Budai Nagy Antal utca",
+      "updates": []
+    },
     {
       "id": "93311",
       "datetime": "2026.10.31. 23:07",
