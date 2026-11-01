@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T10:04:10.830371+00:00",
-  "count": 2827,
+  "updated_at": "2026-11-01T10:08:14.770600+00:00",
+  "count": 2828,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93316",
+      "datetime": "2026.11.01. 11:06",
+      "title": "Két autó karambolozott a XVII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93316",
+      "lead": "Forgalmi akadály alakult ki a Péceli út érintett szakaszán.",
+      "body": "Két gépkocsi ütközött össze félig frontálisan a XVII. kerületi Péceli úton, a Bördöce utcánál. A fővárosi hivatásos tűzoltók és a mentők már a helyszínre értek. A baleset miatt forgalmi akadály alakult ki, amely a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Péceli út",
+      "updates": []
+    },
     {
       "id": "93315",
       "datetime": "2026.11.01. 09:59",
