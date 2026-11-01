@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T17:38:55.788172+00:00",
-  "count": 2840,
+  "updated_at": "2026-11-01T17:42:34.839458+00:00",
+  "count": 2841,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93329",
+      "datetime": "2026.11.01. 18:42",
+      "title": "Elgázolt egy embert egy személyvonat Budaörsön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93329",
+      "lead": "A tűzoltók az utasok egy részének segítenek a biztonságos átszállásban.",
+      "body": "Elgázolt egy embert egy személyvonat Budaörsön, a Raktár utca melletti szakaszon. A szerelvényen mintegy négyszázan utaztak, egy részük már továbbhaladt egy mentesítő járattal. A vasúti kocsikban maradt többi utasnak a törökbálinti hivatásos tűzoltók nyújtanak segítséget a következő mentesítő járatra történő átszállásban.",
+      "location": "Budaörs, Raktár utca",
+      "updates": []
+    },
     {
       "id": "93328",
       "datetime": "2026.11.01. 17:50",
