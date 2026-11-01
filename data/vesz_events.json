@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T20:11:58.264703+00:00",
-  "count": 2842,
+  "updated_at": "2026-11-01T20:15:53.731240+00:00",
+  "count": 2843,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93331",
+      "datetime": "2026.11.01. 21:15",
+      "title": "Egy lakóház hátsó épületrésze égett Vilmányon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93331",
+      "lead": "A tűzoltók négy vízsugárral oltották el a lángokat.",
+      "body": "Egy lakóház hátsó épületrészében keletkezett tűz Vilmányon, a Rákóczi utcában. Az encsi és a gönci hivatásos tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A tűzben egy gépkocsi teljesen megsemmisült, valamint a kazánhelyiség is kiégett.",
+      "location": "Vilmány, Rákóczi utca",
+      "updates": []
+    },
     {
       "id": "93330",
       "datetime": "2026.11.01. 20:54",
