@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T22:23:43.851309+00:00",
-  "count": 2843,
+  "updated_at": "2026-11-01T22:27:10.307459+00:00",
+  "count": 2844,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93332",
+      "datetime": "2026.11.01. 23:24",
+      "title": "Fának ütközött egy autó a XX. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93332",
+      "lead": "A tűzoltók áramtalanítják a járművet.",
+      "body": "Fának hajtott egy gépkocsi a XX. kerületi Lázár utcában, a Magyar utca és a Klapka utca közötti szakaszon. A fővárosi hivatásos tűzoltók megkezdték a jármű áramtalanítását. A balesethez várják a társhatóságokat is.",
+      "location": "Budapest, Lázár utca",
+      "updates": []
+    },
     {
       "id": "93331",
       "datetime": "2026.11.01. 21:15",
