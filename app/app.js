@@ -1337,6 +1337,12 @@ function dashStyles() {
 
 function osszevetesHtml(osszesites) {
   const o = osszesites.osszevetes;
+  if (osszesites.osszevetesHiba) {
+    return `<div class="osszevetes"><p class="osszevetes-al" style="margin:0;">${escapeHtml(osszesites.osszevetesHiba)}</p></div>`;
+  }
+  if (osszesites.szallitoiVegosszeg !== null && osszesites.szallitoiVegosszeg !== undefined && !('osszevetes' in osszesites)) {
+    return `<div class="osszevetes"><p class="osszevetes-al" style="margin:0;">A tételenkénti összevetéshez a háttér új verziója kell.</p></div>`;
+  }
   if (!o) return '';
   const kulonbseg = (osszesites.szallitoiVegosszeg || 0) - osszesites.pillanatnyi;
   if (!o.csakOsszesitoben.length && !o.nincsOsszesitobenDb) {
