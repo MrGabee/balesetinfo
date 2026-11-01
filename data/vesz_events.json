@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T08:58:15.323004+00:00",
-  "count": 2826,
+  "updated_at": "2026-11-01T09:02:34.409245+00:00",
+  "count": 2827,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93315",
+      "datetime": "2026.11.01. 09:59",
+      "title": "Baleset történt Tárnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93315",
+      "lead": "A járművek áramtalanítására volt szükség.",
+      "body": "Frontálisan ütközött össze két gépkocsi Tárnokon, a Sóskúti út és az Öreghegyi utca kereszteződésénél. Az érdi hivatásos tűzoltók áramtalanították a karambolos járműveket. Az egység mellett a társhatóságok is a helyszínen dolgoznak.",
+      "location": "Tárnok, Sóskúti út",
+      "updates": []
+    },
     {
       "id": "93314",
       "datetime": "2026.11.01. 09:55",
@@ -341,9 +352,9 @@
       "title": "Baleset történt az M0-áson, Törökbálintnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93287",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az M1-es autópálya felé vezető oldalon forgalomkorlátozásra kell számítani.",
+      "body": "Szalagkorlátnak hajtott egy személyautó az M0-s autóúton, az M1-es autópálya felé vezető oldalán, Törökbálint közelében, az 5-ös kilométerszelvénynél. A baleset helyszínén két másik személygépkocsi is egymásnak ütközött. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Törökbálint, M0",
       "updates": []
     },
     {
