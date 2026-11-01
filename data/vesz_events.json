@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T11:04:06.476253+00:00",
-  "count": 2828,
+  "updated_at": "2026-11-01T11:07:18.002965+00:00",
+  "count": 2829,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93317",
+      "datetime": "2026.11.01. 12:06",
+      "title": "Árokba hajtott egy autó a 61-esen, Kaposvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93317",
+      "lead": "Félpályás útlezárásra kell számítani a kaposfüredi felhajtónál.",
+      "body": "Árokba hajtott egy gépkocsi a 61-es főút 122-es kilométerszelvényénél, Kaposvár térségében, a kaposfüredi falhajtónál. Csak a vezetője utazott a járműben, amelyet a kaposvári hivatásos tűzoltók áramtalanítottak. Az egységek mellett a társhatóságok is kiérkeztek a helyszínre, ahol félpályás útlezárás van érvényben a felhajtónál.",
+      "location": "Kaposvár, 61",
+      "updates": []
+    },
     {
       "id": "93316",
       "datetime": "2026.11.01. 11:06",
