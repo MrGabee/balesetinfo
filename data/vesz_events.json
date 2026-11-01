@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T12:37:26.950753+00:00",
-  "count": 2831,
+  "updated_at": "2026-11-01T12:40:27.547344+00:00",
+  "count": 2832,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93320",
+      "datetime": "2026.11.01. 13:38",
+      "title": "Villamossal ütközött össze egy személyautó Kispesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93320",
+      "lead": "Forgalmi akadály alakult ki az Üllői út érintett szakaszán.",
+      "body": "Villamossal ütközött össze egy személyautó a XIX. kerületi Üllői úton, a Simonyi Zsigmond utcánál. A fővárosi hivatásos tűzoltók mellett a közösségi közlekedési társaság szakemberei is a helyszínre érkeztek, valamint a mentőket is a balesethez várják. Az érintett kereszteződésben forgalmi akadály alakult ki a karambol miatt.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
     {
       "id": "93319",
       "datetime": "2026.11.01. 13:32",
