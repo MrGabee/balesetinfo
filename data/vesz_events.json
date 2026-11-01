@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T14:32:12.328747+00:00",
-  "count": 2833,
+  "updated_at": "2026-11-01T14:35:35.521815+00:00",
+  "count": 2834,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93322",
+      "datetime": "2026.11.01. 15:34",
+      "title": "Árokba borult egy autó a 61-esen, Alsószentivánnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93322",
+      "lead": "Az utasok saját erőből ki tudtak szállni a járműből.",
+      "body": "Tetejével az árokba borult egy gépkocsi a 61-es főút 14-es és 15-ös kilométerszelvénye között, Alsószentiván térségében. A járműben ketten utaztak, a sárbogárdi hivatásos tűzoltók és a társhatóságok kiérkezése előtt saját erejükből ki tudtak szállni. A tűzoltók a közútkezelő szakembereit is a helyszínre kérték.",
+      "location": "Alsószentiván, 61",
+      "updates": []
+    },
     {
       "id": "93321",
       "datetime": "2026.11.01. 13:45",
