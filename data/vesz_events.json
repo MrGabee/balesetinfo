@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T12:28:02.021913+00:00",
-  "count": 2829,
+  "updated_at": "2026-11-01T12:31:28.866313+00:00",
+  "count": 2830,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93318",
+      "datetime": "2026.11.01. 13:28",
+      "title": "Összeütközött két autó Kabán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93318",
+      "lead": "Lezárták a 3407-es út érintett szakaszát a hatósági beavatkozás idejére.",
+      "body": "Összeütközött két gépkocsi Kabán, a 3407-es út 10-es kilométerszelvényénél. A járművekben összesen öten utaztak. A balesethez a kabai önkéntes tűzoltók érkeztek ki, áramtalanították a kocsikat, valamint eltávolították az úttestre került szennyeződést. Az egység mellett a társhatóságok is a helyszínen dolgoznak, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Kaba, 3407",
+      "updates": []
+    },
     {
       "id": "93317",
       "datetime": "2026.11.01. 12:06",
