@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T08:54:53.639134+00:00",
-  "count": 2825,
+  "updated_at": "2026-11-01T08:58:15.323004+00:00",
+  "count": 2826,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93314",
+      "datetime": "2026.11.01. 09:55",
+      "title": "Árokba hajtott egy autó a 33-ason, Hortobágynál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93314",
+      "lead": "A tűzoltók áramtalanítják és átvizsgálják a járművet.",
+      "body": "Lesodródott az úttestről, majd árokba hajtott egy gépkocsi a 33-as főút 65-ös és 66-os kilométerszelvénye között, Hortobágy térségében. Csak a vezetője utazott a járműben, amelynek áramtalanítását és átvizsgálását a balmazújvárosi önkormányzati tűzoltók már megkezdték. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Hortobágy, 33",
+      "updates": []
+    },
     {
       "id": "93313",
       "datetime": "2026.11.01. 06:53",
@@ -330,9 +341,9 @@
       "title": "Baleset történt az M0-áson, Törökbálintnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93287",
-      "lead": "Az M1-es autópálya felé vezető oldalon forgalomkorlátozásra kell számítani.",
-      "body": "Szalagkorlátnak hajtott egy személyautó az M0-s autóúton, az M1-es autópálya felé vezető oldalán, Törökbálint közelében, az 5-ös kilométerszelvénynél. A baleset helyszínén két másik személygépkocsi is egymásnak ütközött. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
-      "location": "Törökbálint, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
