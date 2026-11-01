@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-01T15:49:17.611231+00:00",
-  "count": 2837,
+  "updated_at": "2026-11-01T15:52:38.745210+00:00",
+  "count": 2838,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93326",
+      "datetime": "2026.11.01. 16:50",
+      "title": "Felborult egy autó a 471-esen, Nyíradony és Nyírmihálydi között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93326",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Lesodródott az úttestről, majd az út mellett álló fasor közé csapódva felborult egy gépkocsi a 471-es főút 31-es kilométerszelvényénél, Nyíradony és Nyírmihálydi között. A nyíradonyi hivatásos tűzoltók áramtalanítják a bajba került járművet, amelyben csak a vezetője utazott. Az egység és a társhatóságok félpályás útlezárás mellett végzik a helyszíni munkálatokat.",
+      "location": "Nyíradony, 471",
+      "updates": []
+    },
     {
       "id": "93325",
       "datetime": "2026.11.01. 16:38",
