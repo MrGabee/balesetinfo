@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T06:32:16.687723+00:00",
+  "updated_at": "2026-11-02T06:36:12.110617+00:00",
   "count": 2851,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -161,9 +161,9 @@
       "title": "Felborult egy autó a 471-esen, Nyíradony és Nyírmihálydi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93326",
-      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
-      "body": "Lesodródott az úttestről, majd az út mellett álló fasor közé csapódva felborult egy gépkocsi a 471-es főút 31-es kilométerszelvényénél, Nyíradony és Nyírmihálydi között. A nyíradonyi hivatásos tűzoltók áramtalanítják a bajba került járművet, amelyben csak a vezetője utazott. Az egység és a társhatóságok félpályás útlezárás mellett végzik a helyszíni munkálatokat.",
-      "location": "Nyíradony, 471",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -324,9 +324,9 @@
       "title": "Lakóház tetőszerkezete égett Pilisvörösváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93312",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budai Nagy Antal utcában oltották el a lángokat.",
+      "body": "Lakóház tetőszerkezete égett Pilisvörösváron, a Budai Nagy Antal utcában. A fővárosi hivatásos, valamint a pilisvörösvári és pilisszentiváni önkéntes tűzoltók két vízsugárral eloltották a lángokat.",
+      "location": "Pilisvörösvár, Budai Nagy Antal utca",
       "updates": []
     },
     {
@@ -335,9 +335,9 @@
       "title": "Karambol az M4-esen, Monornál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93311",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó az M4-es autópálya Budapest felé vezető oldalán, Monor közelében, a 35-ös és a 36-os kilométerszelvény között. A balesethez a monori hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett sztrádaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Monor, M4",
       "updates": []
     },
     {
@@ -361,6 +361,14 @@
       "body": "Kigyulladt egy családi ház tetőszerkezete Felsőlajoson, az Akácfa utcában. A tűz egy melléképületet, valamint a szomszédos lakóingatlant is érinti. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Felsőlajos, Akácfa utca",
       "updates": [
+        {
+          "title": "Körülhatárolták a lángokat Felsőlajoson",
+          "datetime": "2026.10.31. 21:10",
+          "category": "Tűzeset",
+          "text": "Már körülhatárolták a lángokat Felsőlajoson, ahol egy lakóingatlan és egy mellépület ég teljes terjedelmében, az Akácfa utcában. A tűz átterjedt a szomszédos ház homlokzatára is. A dabasi és kecskeméti hivatásos, valamint a lajosmizsei önkormányzati tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját egy ceglédi és egy kecskeméti vízszállító is segíti.",
+          "location": "Felsőlajos, Akácfa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93309/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93309"
+        },
         {
           "title": "Már az utómunkálatokat végzik Felsőlajoson",
           "datetime": "2026.11.01. 00:03",
@@ -432,9 +440,9 @@
       "title": "Tűz volt Aranyosapátin",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93303",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Árpád utcába riasztották a tűzoltókat.",
+      "body": "Családi ház tetőszerkezete és egyik helyisége égett Aranyosapátin, az Árpád utcában. A kisvárdai hivatásos és a vásárosnaményi önkormányzati tűzoltók megbontották a tetőhéjazatot, majd három vízsugárral eloltották a lángokat. A helyszínre mentő is érkezett. A rajok további izzó gócpontok után kutatnak.",
+      "location": "Aranyosapáti, Árpád utca",
       "updates": []
     },
     {
