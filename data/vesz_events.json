@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T10:23:23.009872+00:00",
+  "updated_at": "2026-11-02T10:27:05.593053+00:00",
   "count": 2823,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -178,9 +178,9 @@
       "title": "Fának ütközött egy autó Budapest XVIII. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93298",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Lőrinci út és a Törvény utca kereszteződésénél dolgoznak a tűzoltók.",
+      "body": "Fának ütközött egy személyautó Budapest XVIII. kerületében, a Lőrinci út és a Törvény utca kereszteződésénél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom, valamint fennakadásokra kell számítani a közösségi közlekedésben is.",
+      "location": "Budapest, Törvény utca",
       "updates": []
     },
     {
@@ -501,9 +501,9 @@
       "title": "Vadgázolás történt a 37-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93271",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 34-es kilométernél, Mezőzombor térségében ütött el egy állatot egy személykocsi.",
+      "body": "Elgázolt egy vadat egy autó a 37-es főúton, Mezőzombor térségében. A gépkocsiban hárman utaztak. A baleset a 34-es kilométernél történt, a szerencsi hivatásos tűzoltók vonultak az esethez, áramtalanítják a hibridhajtású járművet. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Mezőzombor, 37",
       "updates": []
     },
     {
@@ -512,21 +512,30 @@
       "title": "Baleset történt Polgár és Folyás között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93270",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 3315-ös és a 3324-es út találkozásánál egy személykocsi és egy kisteherautó karambolozott.",
+      "body": "Összeütközött egy kisteherautó és egy személykocsi a 3315-ös és a 3324-es út kereszteződésénél, Polgár és Folyás között. A két járműben összesen öten utaztak, a helyszínre mentő is érkezett. A tiszaújvárosi hivatásos tűzoltók áramtalanítottak. A forgalom rendőri irányítás mellett halad.",
+      "location": "Polgár, Hajdú utca",
       "updates": []
     },
     {
       "id": "93269",
       "datetime": "2026.10.30. 16:41 -",
-      "title": "1 db frissítés",
+      "title": "Tűz ütött ki egy békásmegyeri családi házban",
       "category": "Tűz ütött ki egy békásmegyeri családi házban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93269",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Barackos útra több fővárosi tűzoltóegység vonult.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából kétszáz négyzetméteres, használaton kívüli épület Budapest harmadik kerületében. A Barackos úti tűzhöz több fővárosi hivatásos tűzoltóegységet, egy vízszállítót, valamint a katasztrófavédelmi műveleti szolgálatot riasztották. Az egységek több vízsugárral oltják az épületet, amelynek teteje, illetve a pincerésze már beomlott.",
+      "location": "Budapest, Barackos út",
+      "updates": [
+        {
+          "title": "Az utómunkálatokat végzik a tűzoltók Békásmegyeren",
+          "datetime": "2026.10.30. 17:40",
+          "category": "Tűzeset",
+          "text": "Három vízsugárral eloltották a tüzet a fővárosi egységek Békásmegyeren. A Barackos úton egy használaton kívüli ingatlan égett teljes terjedelmében, az épület több helyen beszakadt. A lángokat elfojtották a rajok, már az utómunkálatoknál tartanak.",
+          "location": "Budapest, Barackos út",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93269/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93269"
+        }
+      ]
     },
     {
       "id": "93268",
@@ -534,9 +543,9 @@
       "title": "Árokba hajtott egy autó Mihályfán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93268",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth utcába sümegi tűzoltók vonultak.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi Mihályfán. A Kossuth utcában történt a baleset, a járműben ketten utaztak. A sümegi hivatásos tűzoltók áramtalanították az autót.",
+      "location": "Mihályfa, Kossuth utca",
       "updates": []
     },
     {
@@ -545,9 +554,9 @@
       "title": "Hármas karambol történt Kecskemét és Szentkirály között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93267",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4622-es út 3-4-es kilométere között egy kamion és két autó ütközött össze.",
+      "body": "Baleset történt a 4622-es út Kecskemét és Szentkirály közötti szakaszán. A 3-4-es kilométer között egy kamion és két személykocsi karambolozott. Az egyik autó árokba is hajtott. Mindhárom járműben csak annak vezetője ült, a sofőrökhöz mentő érkezett. A kecskeméti hivatásos tűzoltók végzik a műszaki mentést. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kecskemét, 4622",
       "updates": []
     },
     {
@@ -556,21 +565,30 @@
       "title": "Karambol történt Zuglóban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93266",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hungária körút és a Mogyoródi út sarkánt ütközött össze két autó.",
+      "body": "Egymásba hajtott két személykocsi Budapest tizennegyedik kerületében. A baleset a Hungária körút és a Mogyoródi út kereszteződésénél történt balesethez a fővárosi hivatásos tűzoltókat riasztották, a helyszínre vonultak a társhatóságok is. A karambol miatt forgalmi akadályra kell számítani.",
+      "location": "Budapest, Mogyoródi út",
       "updates": []
     },
     {
       "id": "93265",
       "datetime": "2026.10.30. 14:28 -",
-      "title": "1 db frissítés",
+      "title": "Kigyulladt egy fatároló Szombathelyen",
       "category": "Kigyulladt egy fatároló Szombathelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93265",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A 87-es főút városi szakaszához, a 31-es kilométerhez közeli helyszínre a város tűzoltói vonultak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy nagyjából tizenöt négyzetméteres fatároló Szombathelyen, a 87-es főút városi szakaszához közel. A 31-es kilométerhez közeli helyszínre egy gépjárműfecskendővel és a vízszállítóval vonultak a megyeszékhely hivatásos tűzoltói. Az egységek két vízsugárral oltják a lángokat.",
+      "location": "Szombathely, 87",
+      "updates": [
+        {
+          "title": "Utómunkálatokat végeznek Szombathelyen",
+          "datetime": "2026.10.30. 14:53",
+          "category": "Tűzeset",
+          "text": "A 87-es főút városi szakaszához, a 31-es kilométerhez közeli helyszínre riasztották a megyeszékhely tűzoltóit, mert kigyulladt és teljes terjedelmében égett egy fatároló. A rajok vízsugarakkal körülhatárolták, majd eloltották az építmény tüzét. Az egységek már az utómunkálatoknál tartanak, kipakolják a tárolóban lévő fát.",
+          "location": "Szombathely, 87",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93265/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93265"
+        }
+      ]
     },
     {
       "id": "93264",
@@ -578,9 +596,9 @@
       "title": "Kigyulladt egy autó Szabadszentkirályon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93264",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre utcába a helyi tűzoltók vonultak.",
+      "body": "Kigyulladt egy dízel gépkocsi motortere Szabadszentkirályon, az Ady Endre utcában. A helyi önkéntes tűzoltók vonultak az esethez. Az egység porral oltóval, illetve vízsugárral megfékezte a lángokat, a tűzoltók visszahűtötték az autó motorját.",
+      "location": "Szabadszentkirály, Ady Endre utca",
       "updates": []
     },
     {
@@ -589,9 +607,9 @@
       "title": "Súlyos karambol történt Óbudán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93263",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bécsi úton dolgoznak a tűzoltók, akik kiszabadítottak egy embert az egyik autóból.",
+      "body": "Frontálisan karambolozott két személyautó Budapest III. kerületében, a Bécsi úton, a Virágosnyereg és a Kocsis Sándor út között. A fővárosi hivatásos tűzoltók az egyik gépkocsiból feszítővágóval szabadítottak ki egy embert, akit átadtak a mentőknek. Az érintett útszakaszon megállították a forgalmat.",
+      "location": "Budapest, Bécsi út",
       "updates": []
     },
     {
@@ -600,9 +618,9 @@
       "title": "Csomagolóüzemben keletkezett tűz Kaposváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93262",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Izzó utcába több kaposvári egységet riasztottak.",
+      "body": "Csomagoló üzemrész álmennyezetén lévő elszívó meghibásodása miatt keletkezett tűz Kaposváron, az Izzó utcában. A lángokat a helyszínen tartózkodók porral oltókkal megfékezték, a kaposvári hivatásos tűzoltók az áramtalanítást követően visszahűtik a berendezést. Az érintett üzemrészt tizenkét dolgozó hagyta el.",
+      "location": "Kaposvár, Izzó utca",
       "updates": []
     },
     {
@@ -611,9 +629,9 @@
       "title": "Ágy égett egy péceli házban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93261",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bethlen Gábor utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz volt egy családi házban, Pécelen a Bethlen Gábor utcában. Egy ágy gyulladt ki az egyik szobában. A fővárosi hivatásos tűzoltók egy vízsugárral eloltották a lángokat, és megkezdték az utómunkálatokat. A rajok kihoztak két kutyát az épületből, amelyben több macskát is találtak.",
+      "location": "Pécel, Bethlen Gábor utca",
       "updates": []
     },
     {
@@ -622,21 +640,30 @@
       "title": "Tűz volt egy debreceni lakás konyhájában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93260",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók a Nagy Lajos király téren fékezték meg a lángokat.",
+      "body": "Tűz keletkezett egy társasházi lakásban, Debrecenben, a Nagy Lajos király téren. A konyha gyulladt ki. A város hivatásos tűzoltó porral oltóval és egy vízsugárral elfojtották a lángokat, majd megkezdték az utómunkálatokat. A rajok kiürítik és kiszellőztetik az épületet. A tűzoltást a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Debrecen, Nagy Lajos király tér",
       "updates": []
     },
     {
       "id": "93259",
       "datetime": "2026.10.30. 11:46 -",
-      "title": "1 db frissítés",
+      "title": "Kigyulladt egy kapuvári családi ház",
       "category": "Kigyulladt egy kapuvári családi ház",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93259",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltókat a Felsőmező utcába riasztották.",
+      "body": "Tűz ütött ki egy nagyjából százhúsz négyzetméteres családi házban, a terasz tetőszerkezete ég, a lángok átterjedtek a lakóépület tetőszerkezetére is. Kapuvári és csornai hivatásos tűzoltók érkeztek a helyszínre. Az egységek vízsugarakkal oltják a tüzet, illetve átszellőztetik a füsttel megtelt házat. A tulajdonos egyedül tartózkodott az épületben, mentő érkezett hozzá.",
+      "location": "Kapuvár, Felsőmező utca",
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Kapuváron",
+          "datetime": "2026.10.30. 12:27",
+          "category": "Tűzeset",
+          "text": "AFelsőmező utcában kigyulladt egy épület, a helyszínre kapuvári és csornai hivatásos, valamint beledi és sarródi önkntes tűzoltókat riasztottak. Az egységek több vízsugárral oltották a tüzet, és megbontották a tetőszerkezetet is. A tűzoltók emellett a tető hátsó részén lévő napelemeket is eltávolítják. A lángokat már megfékezték, az egységek az utómunkálatokat végzik.",
+          "location": "Kapuvár, Felsőmező utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93259/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93259"
+        }
+      ]
     },
     {
       "id": "93258",
@@ -644,9 +671,9 @@
       "title": "Baleset történt Nyírbátorban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93258",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Debreceni utcában árokba hajtott egy autó.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi Nyírbátorban, a Debreceni utcában. A járműben négyen utaztak, a helyszínre mentő is érkezett. A város hivatásos tűzoltói vonultak az esethez. Az érintett útszakaszon fennakadásra kell számítani.",
+      "location": "Nyírbátor, Debreceni utca",
       "updates": []
     },
     {
