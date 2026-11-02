@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-02T11:26:40.638421+00:00",
-  "count": 2859,
+  "updated_at": "2026-11-02T11:30:12.803490+00:00",
+  "count": 2861,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93349",
+      "datetime": "2026.11.02. 12:29",
+      "title": "Ég egy ház Somogyudvarhelyen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349",
+      "lead": "A tűzoltók a Kossuth utcában oltják a lángokat.",
+      "body": "Kigyulladt egy lakóház Somogyudvarhelyen, a Kossuth utcában. A mintegy kilencven négyzetméteres épület egyik szobája ég. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral oltják a lángokat.",
+      "location": "Somogyudvarhely, Kossuth utca",
+      "updates": []
+    },
+    {
+      "id": "93348",
+      "datetime": "2026.11.02. 12:28",
+      "title": "Szalagkorlátnak ütközött egy autó Igricinél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93348",
+      "lead": "A sztráda főváros felé vezető szakaszán történt a baleset.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi Igricinél, az M3-as autópálya 154-es kilométerénél, a Budapest felé vezető oldalon. A mezőcsáti hivatásos tűzoltók áramtalanították a járművet. A sztráda érintett szakaszán egy sávon halad a forgalom.",
+      "location": "Igrici, M3",
+      "updates": []
+    },
     {
       "id": "93347",
       "datetime": "2026.11.02. 12:09",
@@ -368,9 +390,9 @@
       "title": "Két autó karambolozott a XVII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93316",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki a Péceli út érintett szakaszán.",
+      "body": "Két gépkocsi ütközött össze félig frontálisan a XVII. kerületi Péceli úton, a Bördöce utcánál. A fővárosi hivatásos tűzoltók és a mentők már a helyszínre értek. A baleset miatt forgalmi akadály alakult ki, amely a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Péceli út",
       "updates": []
     },
     {
