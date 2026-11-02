@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T06:14:00.200726+00:00",
-  "count": 2848,
+  "updated_at": "2026-11-02T06:17:42.372586+00:00",
+  "count": 2849,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93337",
+      "datetime": "2026.11.02. 07:15",
+      "title": "Fának ütközött egy autó Várpalota és Bakonycsernye között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93337",
+      "lead": "A tűzoltók feszítővágóval szabadították ki a jármű vezetőjét.",
+      "body": "Fának hajtott egy gépkocsi Várpalota és Bakonycsernye között, a 8213-as út 14-es kilométerszelvényénél. A járműben csak a vezetője utazott, aki beszorult, a móri önkormányzati tűzoltók feszítővágó segítségével emelték ki. Az egység emellett áramtalanította is az autót. A balesethez a társhatóságok is kiérkeztek, a beavatkozás idejére egy sávon, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Bakonycsernye, 8213",
+      "updates": []
+    },
     {
       "id": "93336",
       "datetime": "2026.11.02. 06:08",
