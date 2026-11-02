@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T12:31:54.817282+00:00",
-  "count": 2864,
+  "updated_at": "2026-11-02T12:35:10.362735+00:00",
+  "count": 2865,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93353",
+      "datetime": "2026.11.02. 13:33",
+      "title": "Oszlopot döntött ki egy autó Nagyberkiben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93353",
+      "lead": "Az Újváros utcában dolgoznak a tűzoltók.",
+      "body": "Villanyoszlopnak ütközött egy személyautó Nagyberkiben, az Újváros utcában, Az oszlop kidőlt, a jármű és a kábelek tartják. A dombóvári hivatásos tűzoltók áramtalanították a gépkocsit, amelyben ketten utaztak, mindketten ki tudtak szállni.",
+      "location": "Nagyberki, Újváros utca",
+      "updates": []
+    },
     {
       "id": "93352",
       "datetime": "2026.11.02. 13:25",
