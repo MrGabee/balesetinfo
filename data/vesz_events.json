@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T09:09:22.030802+00:00",
-  "count": 2856,
+  "updated_at": "2026-11-02T09:13:14.469577+00:00",
+  "count": 2857,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93345",
+      "datetime": "2026.11.02. 10:10",
+      "title": "Árokba borult egy autó a 7366-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93345",
+      "lead": "Bögöte közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba sodródott és felborult egy személyautó a 7366-as úton, Bögöte közelében. A tetején állt meg a jármű, amelybe egy ember beszorult. Őt a műszaki mentést végző sárvári hivatásos és hosszúperesztegi önkéntes tűzoltók kiszabadították, kiemelték, majd átadták a mentőknek. A rajok áramtalanították a gépkocsit.",
+      "location": "Bögöte, 7366",
+      "updates": []
+    },
     {
       "id": "93344",
       "datetime": "2026.11.02. 08:59",
@@ -53,9 +64,9 @@
       "title": "Két autó ütközött össze a Váci úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93340",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították mindkét járművet.",
+      "body": "Összeütközött két gépkocsi a XIII. kerületi Váci úton, a Gyöngyösi utca és a Szekszárdi utca közötti szakaszon, a városból kifelé vezető oldalon. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, valamint eltávolították az úttestre került szennyeződést. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Budapest, Váci út",
       "updates": []
     },
     {
@@ -216,9 +227,9 @@
       "title": "Felborult egy autó a 471-esen, Nyíradony és Nyírmihálydi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93326",
-      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
-      "body": "Lesodródott az úttestről, majd az út mellett álló fasor közé csapódva felborult egy gépkocsi a 471-es főút 31-es kilométerszelvényénél, Nyíradony és Nyírmihálydi között. A nyíradonyi hivatásos tűzoltók áramtalanítják a bajba került járművet, amelyben csak a vezetője utazott. Az egység és a társhatóságok félpályás útlezárás mellett végzik a helyszíni munkálatokat.",
-      "location": "Nyíradony, 471",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -227,9 +238,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 21-esen, Tarnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93325",
-      "lead": "Egy szabadnapos tűzoltó áramtalanította a járművet.",
-      "body": "Szalagkorlátnak ütközött egy gépkocsi Tar térségében, a 21-es főút 36-os kilométerszelvénye közelében. A pásztói hivatásos tűzoltók kiérkezése előtt egy arra közlekedő szabadnapos tűzoltó áramtalanította a járművet, amelyben csak a vezetője utazott. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol félpályán lezárták az érintett útszakaszt.",
-      "location": "Tar, 21",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -379,9 +390,9 @@
       "title": "Lakóház tetőszerkezete égett Pilisvörösváron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93312",
-      "lead": "A Budai Nagy Antal utcában oltották el a lángokat.",
-      "body": "Lakóház tetőszerkezete égett Pilisvörösváron, a Budai Nagy Antal utcában. A fővárosi hivatásos, valamint a pilisvörösvári és pilisszentiváni önkéntes tűzoltók két vízsugárral eloltották a lángokat.",
-      "location": "Pilisvörösvár, Budai Nagy Antal utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -462,9 +473,9 @@
       "title": "Árokba borult egy autó Nádasdladányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93306",
-      "lead": "A Kastély úton történt a baleset.",
-      "body": "Árokba borult egy személyautó Nádasdladányban, a Kastély úton. A polgárdi önkormányzati tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
-      "location": "Nádasdladány, Kastély út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
