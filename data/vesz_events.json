@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T14:54:11.626538+00:00",
-  "count": 2867,
+  "updated_at": "2026-11-02T14:57:34.307877+00:00",
+  "count": 2868,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93356",
+      "datetime": "2026.11.02. 15:56",
+      "title": "Hármas karambol Óbudán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93356",
+      "lead": "A Tímár utcába vonultak a tűzoltók.",
+      "body": "Összeütközött három személyautó Budapest III. kerületében, a Tímár utcában, a Pacsirtamező utcai kereszteződésnél. A járművekben összesen négyen utaztak, mindannyian ki tudtak szállni. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották.",
+      "location": "Budapest, Tímár utca",
+      "updates": []
+    },
     {
       "id": "93355",
       "datetime": "2026.11.02. 15:16",
@@ -115,9 +126,9 @@
       "title": "Karambol történt Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93347",
-      "lead": "A Faraktár utcában forgalmi akadály van.",
-      "body": "Összeütközött két személyautó Debrecenben, a Faraktár utcában, azaz a 48-as főút belterületi szakaszán. A város hivatásos tűzoltói áramtalanítják a járműveket, amelyekben két-két ember utazott. Az érintett útszakaszon a városból kivezető oldalt teljes szélességében lezárták, de a másik irányban is csak egy sáv járható.",
-      "location": "Debrecen, Faraktár utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -236,9 +247,9 @@
       "title": "Teherautó és személyautó karambolozott Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93336",
-      "lead": "A kisebb jármű vezetője beszorult, a tűzoltók emelték ki.",
-      "body": "Egy teherautó és egy személyautó ütközött össze a X. kerületben, a Sibrik Miklós út és a Harmat utca kereszteződésében. Az ütközés következtében a személyautó vezetője beszorult, a fővárosi hivatásos tűzoltók feszítővágó segítségével szabadították ki. Az egységek mellett a társhatóságok is a balesetnél dolgoznak. A karambol miatt egy sávon forgalmi akadály alakult ki, amelyet a tűzoltók a helyszínelést követően szüntetnek meg.",
-      "location": "Budapest, Harmat utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
