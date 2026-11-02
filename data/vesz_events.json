@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T12:25:26.661082+00:00",
-  "count": 2863,
+  "updated_at": "2026-11-02T12:29:01.348895+00:00",
+  "count": 2864,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93352",
+      "datetime": "2026.11.02. 13:25",
+      "title": "Tűz van egy ózdi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93352",
+      "lead": "A Hétes telepi ingatlan tetőszerkezete ég.",
+      "body": "Tűz ütött ki egy kétlakásos ház egyik felében, Ózdon, a Hétes telepen. A tetőszerkezet és a födém gyulladt ki. A város hivatásos tűzoltói három vízsugárral oltják a lángokat.",
+      "location": "Ózd, Hétes telep",
+      "updates": []
+    },
     {
       "id": "93351",
       "datetime": "2026.11.02. 13:09",
