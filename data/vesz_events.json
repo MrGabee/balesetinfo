@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T08:29:56.272470+00:00",
+  "updated_at": "2026-11-02T08:33:49.700301+00:00",
   "count": 2856,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Fának ütközött egy autó Várpalota és Bakonycsernye között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93337",
-      "lead": "A tűzoltók feszítővágóval szabadították ki a jármű vezetőjét.",
-      "body": "Fának hajtott egy gépkocsi Várpalota és Bakonycsernye között, a 8213-as út 14-es kilométerszelvényénél. A járműben csak a vezetője utazott, aki beszorult, a móri önkormányzati tűzoltók feszítővágó segítségével emelték ki. Az egység emellett áramtalanította is az autót. A balesethez a társhatóságok is kiérkeztek, a beavatkozás idejére egy sávon, irányítás mellett halad a forgalom az érintett útszakaszon.",
-      "location": "Bakonycsernye, 8213",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Autóbusszal karambolozott egy személyautó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93335",
-      "lead": "Két sávon forgalmi akadály alakult ki az érintett kereszteződésben.",
-      "body": "Egy helyi járatos autóbusz és egy személyautó ütközött össze Debrecenben, a Miklós utca és az Erzsébet utca kereszteződésében. Mindkét járműben csak a vezetője utazott. A debreceni hivatásos tűzoltók és a társhatóságok dolgoznak a balesetnél. A tűzoltók áramtalanítják mindkét járművet, amelyek két sávon okoznak forgalmi akadályt.",
-      "location": "Debrecen, Miklós utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -196,19 +196,10 @@
       "title": "Lakatlan épület ég Ócsán",
       "category": "Lakatlan épület ég Ócsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93327",
-      "lead": "A tűzoltók öt vízsugárral már körülhatárolták a lángokat.",
-      "body": "Egy könnyűszerkezetes, lakatlan épület ég teljes egészében Ócsán, a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
-      "location": "Ócsa, Kölcsey utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Ócsán",
-          "datetime": "2026.11.01. 17:46",
-          "category": "Tűzeset",
-          "text": "A tűzoltók öt vízsugárral megfékezték a lángokat Ócsán, ahol egy könnyűszerkezetes, lakatlan épület égett teljes terjedelmében a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek az áramszolgáltató szakembereit kérték a területre.",
-          "location": "Ócsa, Kölcsey utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93327/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93327"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93326",
@@ -216,9 +207,9 @@
       "title": "Felborult egy autó a 471-esen, Nyíradony és Nyírmihálydi között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93326",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Lesodródott az úttestről, majd az út mellett álló fasor közé csapódva felborult egy gépkocsi a 471-es főút 31-es kilométerszelvényénél, Nyíradony és Nyírmihálydi között. A nyíradonyi hivatásos tűzoltók áramtalanítják a bajba került járművet, amelyben csak a vezetője utazott. Az egység és a társhatóságok félpályás útlezárás mellett végzik a helyszíni munkálatokat.",
+      "location": "Nyíradony, 471",
       "updates": []
     },
     {
@@ -269,9 +260,9 @@
       "title": "Árokba borult egy autó a 61-esen, Alsószentivánnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93322",
-      "lead": "Az utasok saját erőből ki tudtak szállni a járműből.",
-      "body": "Tetejével az árokba borult egy gépkocsi a 61-es főút 14-es és 15-ös kilométerszelvénye között, Alsószentiván térségében. A járműben ketten utaztak, a sárbogárdi hivatásos tűzoltók és a társhatóságok kiérkezése előtt saját erejükből ki tudtak szállni. A tűzoltók a közútkezelő szakembereit is a helyszínre kérték.",
-      "location": "Alsószentiván, 61",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -313,9 +304,9 @@
       "title": "Összeütközött két autó Kabán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93318",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Lezárták a 3407-es út érintett szakaszát a hatósági beavatkozás idejére.",
+      "body": "Összeütközött két gépkocsi Kabán, a 3407-es út 10-es kilométerszelvényénél. A járművekben összesen öten utaztak. A balesethez a kabai önkéntes tűzoltók érkeztek ki, áramtalanították a kocsikat, valamint eltávolították az úttestre került szennyeződést. Az egység mellett a társhatóságok is a helyszínen dolgoznak, teljes útlezárás mellett végzik a munkálatokat.",
+      "location": "Kaba, 3407",
       "updates": []
     },
     {
@@ -335,9 +326,9 @@
       "title": "Két autó karambolozott a XVII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93316",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki a Péceli út érintett szakaszán.",
+      "body": "Két gépkocsi ütközött össze félig frontálisan a XVII. kerületi Péceli úton, a Bördöce utcánál. A fővárosi hivatásos tűzoltók és a mentők már a helyszínre értek. A baleset miatt forgalmi akadály alakult ki, amely a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Péceli út",
       "updates": []
     },
     {
@@ -390,9 +381,9 @@
       "title": "Karambol az M4-esen, Monornál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93311",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó az M4-es autópálya Budapest felé vezető oldalán, Monor közelében, a 35-ös és a 36-os kilométerszelvény között. A balesethez a monori hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett sztrádaszakaszon forgalmi akadályra kell számítani.",
+      "location": "Monor, M4",
       "updates": []
     },
     {
@@ -416,14 +407,6 @@
       "body": "Kigyulladt egy családi ház tetőszerkezete Felsőlajoson, az Akácfa utcában. A tűz egy melléképületet, valamint a szomszédos lakóingatlant is érinti. A dabasi hivatásos és a lajosmizsei önkormányzati tűzoltók már dolgoznak a lángok megfékezésén, valamint több egység is a helyszínre tart.",
       "location": "Felsőlajos, Akácfa utca",
       "updates": [
-        {
-          "title": "Körülhatárolták a lángokat Felsőlajoson",
-          "datetime": "2026.10.31. 21:10",
-          "category": "Tűzeset",
-          "text": "Már körülhatárolták a lángokat Felsőlajoson, ahol egy lakóingatlan és egy mellépület ég teljes terjedelmében, az Akácfa utcában. A tűz átterjedt a szomszédos ház homlokzatára is. A dabasi és kecskeméti hivatásos, valamint a lajosmizsei önkormányzati tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját egy ceglédi és egy kecskeméti vízszállító is segíti.",
-          "location": "Felsőlajos, Akácfa utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93309/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93309"
-        },
         {
           "title": "Már az utómunkálatokat végzik Felsőlajoson",
           "datetime": "2026.11.01. 00:03",
@@ -451,9 +434,9 @@
       "title": "Árokba hajtott egy autó Kenézen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93307",
-      "lead": "A Rákóczi Ferenc utcában félpályán halad a forgalom.",
-      "body": "Árokba hajtott egy személyautó Kenézen, a Rákóczi Ferenc utcában. A szombathelyi hivatásos és a vépi önkéntes tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kenéz, Rákóczi Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
