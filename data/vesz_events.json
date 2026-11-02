@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T10:12:39.260391+00:00",
-  "count": 2857,
+  "updated_at": "2026-11-02T10:15:38.832665+00:00",
+  "count": 2858,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93346",
+      "datetime": "2026.11.02. 11:13",
+      "title": "Árokba csúszott egy autó a 73-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93346",
+      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "body": "Árokba csúszott egy személygépkocsi Csopak és Paloznak között, a 73-as főút 4-es kilométerénél. A balatonfüredi önkormányzati tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Paloznak, 73",
+      "updates": []
+    },
     {
       "id": "93345",
       "datetime": "2026.11.02. 10:10",
