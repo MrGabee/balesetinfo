@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T23:33:25.436066+00:00",
-  "count": 2875,
+  "updated_at": "2026-11-02T23:36:50.280972+00:00",
+  "count": 2876,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93364",
+      "datetime": "2026.11.03. 00:33",
+      "title": "Épület égett Tószeg külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93364",
+      "lead": "A Nád utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy körülbelül ötven négyzetméteres épület Tószeg külterületén, a Nád utcában. A tűz a lakóházra nem terjedt át. A szolnoki hivatásos tűzoltók két vízsugárral és kéziszerszámokkal körülhatárolták, majd eloltották a lángokat. Utómunkálatokat végeznek.",
+      "location": "Tószeg, Nád utca",
+      "updates": []
+    },
     {
       "id": "93363",
       "datetime": "2026.11.02. 23:20",
