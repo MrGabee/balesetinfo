@@ -1815,9 +1815,23 @@ function dashboardPdfGomb(honapNev, jelszo) {
   });
 }
 
+async function jovahagyasOldal(token, valasz) {
+  const igen = valasz !== 'nem';
+  toltes(igen ? 'Küldés folyamatban…' : 'Mentés…');
+  try {
+    const uzenet = await api('jovahagyasValasz', [token, igen ? 'igen' : 'nem']);
+    mutat(`${pageHead()}<body><div class="card"><div class="center"><div class="ikon${igen ? '' : ' hiba'}">${igen ? '✓' : '✕'}</div><h1>${igen ? 'Elküldve!' : 'Nem küldtem el'}</h1><p>${escapeHtml(uzenet)}</p><a href="./">Tovább a programba</a></div></div></body></html>`);
+  } catch (err) {
+    hibaOldal('Nem sikerült', err.message);
+  }
+}
+
 async function indit() {
   const q = new URLSearchParams(location.search);
   const oldal = q.get('oldal') || '';
+  // A jóváhagyó levél gombja: jelszó nélkül, a titkos token azonosít.
+  if (oldal === 'jovahagyas') return jovahagyasOldal(q.get('token') || '', q.get('valasz') || '');
+
   const jelszo = taroltJelszo();
   if (!jelszo) return belepoOldal(false, oldal);
 
