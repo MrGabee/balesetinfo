@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:15:41.619842+00:00",
+  "updated_at": "2026-11-02T12:19:09.743624+00:00",
   "count": 2863,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,9 +27,9 @@
     },
     {
       "id": "93349",
-      "datetime": "2026.11.02. 12:29",
+      "datetime": "2026.11.02. 12:29 -",
       "title": "Ég egy ház Somogyudvarhelyen",
-      "category": "Tűzeset",
+      "category": "Ég egy ház Somogyudvarhelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349",
       "lead": "A tűzoltók a Kossuth utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Somogyudvarhelyen, a Kossuth utcában. A mintegy kilencven négyzetméteres épület egyik szobája ég. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral oltják a lángokat.",
@@ -119,9 +119,9 @@
       "title": "Árokba hajtott egy autó Hosszúpályinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93341",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A jármű egy fának is ütközött a baleset következtében.",
+      "body": "Árokba hajtott, majd fának ütközött egy gépkocsi Hosszúpályi térségében, a 4808-as út 20-as kilométerszelvényénél. A létavértesi önkormányzati tűzoltók áramtalanítják a járművet, amelyben csak a vezetője utazott. Az egység mellett a társhatóságok is a balesetnél dolgoznak.",
+      "location": "Hosszúpályi, 4808",
       "updates": []
     },
     {
@@ -251,9 +251,9 @@
       "title": "Elgázolt egy embert egy személyvonat Budaörsön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93329",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók az utasok egy részének segítenek a biztonságos átszállásban.",
+      "body": "Elgázolt egy embert egy személyvonat Budaörsön, a Raktár utca melletti szakaszon. A szerelvényen mintegy négyszázan utaztak, egy részük már továbbhaladt egy mentesítő járattal. A vasúti kocsikban maradt többi utasnak a törökbálinti hivatásos tűzoltók nyújtanak segítséget a következő mentesítő járatra történő átszállásban.",
+      "location": "Budaörs, Raktár utca",
       "updates": []
     },
     {
