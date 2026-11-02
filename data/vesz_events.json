@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T14:15:29.799293+00:00",
-  "count": 2866,
+  "updated_at": "2026-11-02T14:19:13.815770+00:00",
+  "count": 2867,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93355",
+      "datetime": "2026.11.02. 15:16",
+      "title": "Családi ház égett Nyírvasváriban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93355",
+      "lead": "A Deák Ferenc utcában csaptak fel a lángok.",
+      "body": "Kigyulladt egy lakóház Nyírvasváriban, a Deák Ferenc utcában. A nyolcvan négyzetméteres ingatlan tizenhat négyzetméteres szobájában ágyak és berendezési tárgyak égtek. A nyírbátori hivatásos tűzoltók két vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Nyírvasvári, Deák Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93354",
       "datetime": "2026.11.02. 13:42",
@@ -355,9 +366,9 @@
       "title": "Szalagkorlátnak ütközött egy autó a 21-esen, Tarnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93325",
-      "lead": "Egy szabadnapos tűzoltó áramtalanította a járművet.",
-      "body": "Szalagkorlátnak ütközött egy gépkocsi Tar térségében, a 21-es főút 36-os kilométerszelvénye közelében. A pásztói hivatásos tűzoltók kiérkezése előtt egy arra közlekedő szabadnapos tűzoltó áramtalanította a járművet, amelyben csak a vezetője utazott. Az egység mellett a társhatóságok is kiérkeztek a helyszínre, ahol félpályán lezárták az érintett útszakaszt.",
-      "location": "Tar, 21",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -463,9 +474,9 @@
       "title": "Két autó karambolozott a XVII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93316",
-      "lead": "Forgalmi akadály alakult ki a Péceli út érintett szakaszán.",
-      "body": "Két gépkocsi ütközött össze félig frontálisan a XVII. kerületi Péceli úton, a Bördöce utcánál. A fővárosi hivatásos tűzoltók és a mentők már a helyszínre értek. A baleset miatt forgalmi akadály alakult ki, amely a közösségi közlekedési járművek haladását is érinti.",
-      "location": "Budapest, Péceli út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
