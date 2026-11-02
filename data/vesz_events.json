@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T17:16:02.867974+00:00",
-  "count": 2872,
+  "updated_at": "2026-11-02T17:19:35.174592+00:00",
+  "count": 2873,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93361",
+      "datetime": "2026.11.02. 18:19",
+      "title": "Árokba hajtott egy autó a 86-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93361",
+      "lead": "Mosonmagyaróváron történt a baleset.",
+      "body": "Letért az útról és az árokba hajtott egy személygépkocsi Mosonmagyaróváron, a Ganz Ábrahám utcában, azaz a 86-os főút 190-es kilométerénél. A helyi és a lébényi hivatásos tűzoltók egy embert feszítővágó segítségével emeltek ki a járműből. A mentőszolgálat is az esetnél dolgozik. A rajok áramtalanították az autót.",
+      "location": "Mosonmagyaróvár, Ganz Ábrahám utca",
+      "updates": []
+    },
     {
       "id": "93360",
       "datetime": "2026.11.02. 18:01",
