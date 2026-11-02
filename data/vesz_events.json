@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T06:25:09.322470+00:00",
-  "count": 2850,
+  "updated_at": "2026-11-02T06:28:29.442497+00:00",
+  "count": 2851,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93339",
+      "datetime": "2026.11.02. 07:25",
+      "title": "Frontális karambol történt Császár és Dad között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93339",
+      "lead": "Lezárták a 8135-ös út érintett szakaszát.",
+      "body": "Frontálisan ütközött össze két gépkocsi Császár és Dad között, a 8135-ös út 22-es kilométerszelvényénél, a szákszendi elágazásnál. Csak a vezetők utaztak a járművekben, amelyeket a kisbéri hivatásos tűzoltók áramtalanítottak. A baleset miatt lezárták az érintett útszakaszt a hatósági beavatkozás idejére.",
+      "location": "Szákszend, 8135",
+      "updates": []
+    },
     {
       "id": "93338",
       "datetime": "2026.11.02. 07:20",
@@ -335,9 +346,9 @@
       "title": "Árokba borult egy autó az M0-áson, a csömöri lehajtónál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93310",
-      "lead": "Az  M3-as autópálya felé vezető oldalon van szükség műszaki mentésre.",
-      "body": "Árokba borult egy személyautó az M0-ás autóút M3-as autópálya felé vezető oldalán, a csömöri lehajtónál, a 65-ös kilométerszelvénynél. A fővárosi hivatásos és a csömöri önkéntes tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett.",
-      "location": "Budapest, M0",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -357,14 +368,6 @@
           "text": "Már körülhatárolták a lángokat Felsőlajoson, ahol egy lakóingatlan és egy mellépület ég teljes terjedelmében, az Akácfa utcában. A tűz átterjedt a szomszédos ház homlokzatára is. A dabasi és kecskeméti hivatásos, valamint a lajosmizsei önkormányzati tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a lángokat. A rajok munkáját egy ceglédi és egy kecskeméti vízszállító is segíti.",
           "location": "Felsőlajos, Akácfa utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93309/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93309"
-        },
-        {
-          "title": "Már az utómunkálatokat végzik Felsőlajoson",
-          "datetime": "2026.11.01. 00:03",
-          "category": "Tűzeset",
-          "text": "Utómunkálatokat végeznek a tűzoltók Felsőlajoson, ahol egy lakóingatlan és egy mellépület ég teljes terjedelmében, az Akácfa utcában. A tűz átterjedt a szomszédos ház homlokzatára is. A dabasi és kecskeméti hivatásos, valamint a lajosmizsei önkormányzati tűzoltók a Bács-Kiskun vármegyei katasztrófavédelmi műveleti szolgálat irányítása mellett eloltották a lángokat. A rajok munkáját egy ceglédi és egy kecskeméti vízszállító is segíti.",
-          "location": "Felsőlajos, Akácfa utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93309/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93309"
         }
       ]
     },
@@ -454,16 +457,7 @@
       "lead": "A Fő utcában oltják a lángokat.",
       "body": "Kigyulladt egy garázs Markotabödögén, a Fő utcában. A tűz átterjedt egy lakóépület tetőszerkezetére is. A csornai és lébényi hivatásos, valamint a bezi önkéntes tűzoltók jelenleg három vízsugárral dolgoznak a lángok megfékezésén. A rajok egy gázpalackot is kihoztak az épületből. A tűz oltását egy győri vízszállító is segíti.",
       "location": "Markotabödöge, Fő utca",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik Markotabödögén",
-          "datetime": "2026.10.31. 16:43",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Markotabödögén, ahol egy garázs égett a Fő utcában. A tűz átterjedt egy lakóépület tetőszerkezetére is. A csornai és lébényi hivatásos, valamint a bezi önkéntes tűzoltók egy gázpalackot hoztak ki az épületből, majd eloltották a lángokat. A rajok megbontják a lakóingatlan tetőszerkezetét, további izzó pontok után kutatva. A tűz oltását egy győri vízszállító is segítette.",
-          "location": "Markotabödöge, Fő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93301/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93301"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93300",
