@@ -1,0 +1,43 @@
+name: 🛡️ Felügyelő – minden figyelő ellenőrzése
+
+# Percenként végignézi az összes repó összes időzített workflow-ját:
+# a kimaradtakat elindítja, az elakadtakat leállítja és újraindítja,
+# a hibásakat újrafuttatja, és ha valami nem javul, issue-t nyit.
+# Egy futás ~5,5 percig körözik, aztán saját magát indítja újra (lánc);
+# az 5 perces ütemezés csak biztonsági háló, ha a lánc megszakadna.
+
+on:
+  workflow_dispatch:
+    inputs:
+      szaraz:
+        description: 'Száraz futás: csak kiírja, mit tenne (1 = igen)'
+        required: false
+        default: '0'
+  repository_dispatch:
+    types: [felugyelo_lanc]
+  schedule:
+    - cron: '*/5 * * * *'
+
+concurrency:
+  group: felugyelo
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  felugyel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 🛡️ Felügyelet
+        env:
+          GH_PAT: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          FELUGYELO_SZARAZ: ${{ (github.event_name == 'workflow_dispatch' && inputs.szaraz == '1') && '1' || '' }}
+        run: |
+          python3 -c "import yaml" 2>/dev/null || pip install --quiet --break-system-packages pyyaml
+          python3 felugyelo/felugyelo.py
