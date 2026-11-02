@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-02T07:53:12.998905+00:00",
-  "count": 2853,
+  "updated_at": "2026-11-02T07:57:03.477853+00:00",
+  "count": 2855,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93343",
+      "datetime": "2026.11.02. 08:54",
+      "title": "Karambol Kecskeméten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93343",
+      "lead": "A Kuruc körútra vonultak a tűzoltók, akik egy embert kiszabadítottak az egyik járműből.",
+      "body": "Összeütközött egy autóbusz és egy személygépkocsi Kecskeméten, a Kuruc körúton, a Bem utcai körforgalomnál. A személyautóba beszorult egy ember, akit a város hivatásos tűzoltói a katasztrófavédelmi műveleti szolgálat irányítása mellett kiszabadítottak, kiemeltek, majd átadtak a mentőknek.  A rajok áramtalanították mindkét járművet. A busz nem szállított utasokat. A baleset helyszínén forgalmi akadályra és torlódásra kell számítani.",
+      "location": "Kecskemét, Kuruc körút",
+      "updates": []
+    },
+    {
+      "id": "93342",
+      "datetime": "2026.11.02. 08:54",
+      "title": "Ráfutásos baleset történt Bárdudvarnoknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93342",
+      "lead": "A 6616-os út érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
+      "body": "Összeütközött egy személygépkocsi és egy teherautó Bárdudvarnoknál, a 6616-os út 6-os kilométerénél. A kaposvári hivatásos tűzoltók áramtalanították a személyautót. A társhatóság is a helyszínen dolgozik. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Bárdudvarnok, 6616",
+      "updates": []
+    },
     {
       "id": "93341",
       "datetime": "2026.11.02. 08:06",
@@ -119,9 +141,9 @@
       "title": "Egy lakóház hátsó épületrésze égett Vilmányon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93331",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók négy vízsugárral oltották el a lángokat.",
+      "body": "Egy lakóház hátsó épületrészében keletkezett tűz Vilmányon, a Rákóczi utcában. Az encsi és a gönci hivatásos tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A tűzben egy gépkocsi teljesen megsemmisült, valamint a kazánhelyiség is kiégett.",
+      "location": "Vilmány, Rákóczi utca",
       "updates": []
     },
     {
@@ -166,7 +188,16 @@
       "lead": "A tűzoltók öt vízsugárral már körülhatárolták a lángokat.",
       "body": "Egy könnyűszerkezetes, lakatlan épület ég teljes egészében Ócsán, a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
       "location": "Ócsa, Kölcsey utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Ócsán",
+          "datetime": "2026.11.01. 17:46",
+          "category": "Tűzeset",
+          "text": "A tűzoltók öt vízsugárral megfékezték a lángokat Ócsán, ahol egy könnyűszerkezetes, lakatlan épület égett teljes terjedelmében a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek az áramszolgáltató szakembereit kérték a területre.",
+          "location": "Ócsa, Kölcsey utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93327/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93327"
+        }
+      ]
     },
     {
       "id": "93326",
@@ -409,9 +440,9 @@
       "title": "Árokba hajtott egy autó Kenézen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93307",
-      "lead": "A Rákóczi Ferenc utcában félpályán halad a forgalom.",
-      "body": "Árokba hajtott egy személyautó Kenézen, a Rákóczi Ferenc utcában. A szombathelyi hivatásos és a vépi önkéntes tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Kenéz, Rákóczi Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
