@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T12:04:56.076754+00:00",
-  "count": 2861,
+  "updated_at": "2026-11-02T12:08:18.087883+00:00",
+  "count": 2862,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93350",
+      "datetime": "2026.11.02. 13:05",
+      "title": "Utoléréses baleset az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93350",
+      "lead": "Újhartyánnál félpályán halad Szeged felé a forgalom.",
+      "body": "Karambolozott két személyautó az M5-ös autópálya Szeged felé vezető oldalán, Újhartyán közelében. Utoléréses baleset történt, amelynek következtében az egyik jármű egy kamion hátuljának is nekiütközött. A dabasi hivatásos tűzoltók áramtalanítják a gépkocsikat. Az érintett sztrádaszakaszon félpályán halad a forgalom.",
+      "location": "Újhartyán, M5",
+      "updates": []
+    },
     {
       "id": "93349",
       "datetime": "2026.11.02. 12:29",
@@ -152,9 +163,9 @@
       "title": "Teherautó és személyautó karambolozott Kőbányán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93336",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A kisebb jármű vezetője beszorult, a tűzoltók emelték ki.",
+      "body": "Egy teherautó és egy személyautó ütközött össze a X. kerületben, a Sibrik Miklós út és a Harmat utca kereszteződésében. Az ütközés következtében a személyautó vezetője beszorult, a fővárosi hivatásos tűzoltók feszítővágó segítségével szabadították ki. Az egységek mellett a társhatóságok is a balesetnél dolgoznak. A karambol miatt egy sávon forgalmi akadály alakult ki, amelyet a tűzoltók a helyszínelést követően szüntetnek meg.",
+      "location": "Budapest, Harmat utca",
       "updates": []
     },
     {
@@ -412,9 +423,9 @@
       "title": "Árokba hajtott egy autó a 33-ason, Hortobágynál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93314",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanítják és átvizsgálják a járművet.",
+      "body": "Lesodródott az úttestről, majd árokba hajtott egy gépkocsi a 33-as főút 65-ös és 66-os kilométerszelvénye között, Hortobágy térségében. Csak a vezetője utazott a járműben, amelynek áramtalanítását és átvizsgálását a balmazújvárosi önkormányzati tűzoltók már megkezdték. A balesethez a társhatóságok is kiérkeztek.",
+      "location": "Hortobágy, 33",
       "updates": []
     },
     {
