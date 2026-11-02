@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T15:40:40.712527+00:00",
-  "count": 2869,
+  "updated_at": "2026-11-02T15:44:41.580744+00:00",
+  "count": 2870,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93358",
+      "datetime": "2026.11.02. 16:42",
+      "title": "Felborult egy autó a 32-es főúton, Jászberénynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93358",
+      "lead": "Egy embert a tűzoltók emeltek ki a gépkocsiból.",
+      "body": "Árokba sodródott és az oldalára borult egy személyautó Jászberény határában, a 32-es főút Jásztelek felé vezető szakaszán, a 31. kilométer közelében. A járműben egy ember utazott, aki nem tudott kiszállni. Őt a műszaki mentést végző jászberényi hivatásos tűzoltók emelték ki a gépkocsiból. A baleset helyszínén forgalomkorlátozás lehet.",
+      "location": "Jászberény, 32",
+      "updates": []
+    },
     {
       "id": "93357",
       "datetime": "2026.11.02. 16:27",
