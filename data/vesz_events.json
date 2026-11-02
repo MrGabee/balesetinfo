@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T15:59:40.442533+00:00",
-  "count": 2870,
+  "updated_at": "2026-11-02T16:03:13.275803+00:00",
+  "count": 2871,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93359",
+      "datetime": "2026.11.02. 17:02",
+      "title": "Összeütközött két autó Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93359",
+      "lead": "Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Szolnokon, a Kertész utcában. A helyi hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Szolnok, Kertész utca",
+      "updates": []
+    },
     {
       "id": "93358",
       "datetime": "2026.11.02. 16:42",
