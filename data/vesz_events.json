@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T04:06:48.838755+00:00",
-  "count": 2846,
+  "updated_at": "2026-11-02T04:10:07.876724+00:00",
+  "count": 2847,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93335",
+      "datetime": "2026.11.02. 05:09",
+      "title": "Autóbusszal karambolozott egy személyautó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93335",
+      "lead": "Két sávon forgalmi akadály alakult ki az érintett kereszteződésben.",
+      "body": "Egy helyi járatos autóbusz és egy személyautó ütközött össze Debrecenben, a Miklós utca és az Erzsébet utca kereszteződésében. Mindkét járműben csak a vezetője utazott. A debreceni hivatásos tűzoltók és a társhatóságok dolgoznak a balesetnél. A tűzoltók áramtalanítják mindkét járművet, amelyek két sávon okoznak forgalmi akadályt.",
+      "location": "Debrecen, Miklós utca",
+      "updates": []
+    },
     {
       "id": "93334",
       "datetime": "2026.11.02. 04:42",
