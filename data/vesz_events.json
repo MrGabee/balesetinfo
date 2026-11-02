@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T03:38:38.927928+00:00",
-  "count": 2845,
+  "updated_at": "2026-11-02T03:42:33.570611+00:00",
+  "count": 2846,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93334",
+      "datetime": "2026.11.02. 04:42",
+      "title": "Tűz volt egy zuglói idősotthonban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93334",
+      "lead": "Két apartman erkélye égett.",
+      "body": "Egy második emeleti apartman erkélyén volt tűz öt négyzetméteren egy idősotthonban, a XIV. kerületi Vezér utcában. A lángok a mellette lévő apartman erkélyét is elérték két négyzetméteren. A fővárosi hivatásos tűzoltók egy vízsugárral rövid időn belül eloltották a tüzet. Az egységek a munkálatok idejére a lakókat elzárkóztatásra szólították fel.",
+      "location": "Budapest, Vezér utca",
+      "updates": []
+    },
     {
       "id": "93333",
       "datetime": "2026.11.02. 04:23",
