@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T07:57:03.477853+00:00",
-  "count": 2855,
+  "updated_at": "2026-11-02T08:01:15.474881+00:00",
+  "count": 2856,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93344",
+      "datetime": "2026.11.02. 08:59",
+      "title": "Baleset történt Baján",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93344",
+      "lead": "A Petőfi Sándor utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Házfalnak ütközött egy személyautó Baján, a Petőfi Sándor utcában, a Damjanich és a Szarvas Gábor utca között. A műszaki mentést végző helyi hivatásos tűzoltók áramtalanítják a járművet. A helyszínre érkeztek a mentők is.",
+      "location": "Baja, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93343",
       "datetime": "2026.11.02. 08:54",
@@ -119,9 +130,9 @@
       "title": "Elektromos roller akkumulátora égett egy V. kerületi társasházi lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93333",
-      "lead": "Az oltási munkálatok idejére tizenhárom lakó hagyta el ideiglenesen otthonát.",
-      "body": "Egy elektromos roller akkumulátora és a környezete égett mintegy négy négyzetméteren egy társasház negyedik emeleti lakásában, az V. kerületi Veres Pálné utcában. A fővárosi hivatásos tűzoltók egy vízsugárral oltották el a lángokat, megkezdték az átszellőztetést. A munkálatok idejére a negyedik emeletről lekísértek tizenhárom lakót, akik az alsóbb szinteken élő lakóknál tartózkodtak ideiglenesen.",
-      "location": "Budapest, Veres Pálné utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -429,9 +440,9 @@
       "title": "Baleset történt a 74-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93308",
-      "lead": "Vasvár és Győrvár között lezárták az utat.",
-      "body": "Vadat gázolt egy személygépkocsi, majd egy másik autóval ütközött a 74-es főút Vasvárt és Győrvárt összekötő szakaszán, a 70-es és 71-es kilométerszelvény között. A balesethez a vasvári önkormányzati tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
-      "location": "Vasvár, 74",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -440,9 +451,9 @@
       "title": "Árokba hajtott egy autó Kenézen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93307",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi Ferenc utcában félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személyautó Kenézen, a Rákóczi Ferenc utcában. A szombathelyi hivatásos és a vépi önkéntes tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kenéz, Rákóczi Ferenc utca",
       "updates": []
     },
     {
