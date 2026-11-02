@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T06:43:51.331631+00:00",
-  "count": 2851,
+  "updated_at": "2026-11-02T06:47:18.758149+00:00",
+  "count": 2852,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93340",
+      "datetime": "2026.11.02. 07:46",
+      "title": "Két autó ütközött össze a Váci úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93340",
+      "lead": "A tűzoltók áramtalanították mindkét járművet.",
+      "body": "Összeütközött két gépkocsi a XIII. kerületi Váci úton, a Gyöngyösi utca és a Szekszárdi utca közötti szakaszon, a városból kifelé vezető oldalon. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, valamint eltávolították az úttestre került szennyeződést. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Budapest, Váci út",
+      "updates": []
+    },
     {
       "id": "93339",
       "datetime": "2026.11.02. 07:25",
