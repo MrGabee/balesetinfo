@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T16:58:43.941058+00:00",
-  "count": 2871,
+  "updated_at": "2026-11-02T17:02:12.113662+00:00",
+  "count": 2872,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93360",
+      "datetime": "2026.11.02. 18:01",
+      "title": "Két autó ütközött Mosonmagyaróváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93360",
+      "lead": "Forgalmi akadály van.",
+      "body": "Két személygépkocsi ütközött Mosonmagyaróváron, a Kiserdő úton. A helyi hivatásos tűzoltók áramtalanították az egyik járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Mosonmagyaróvár, Kiserdő utca",
+      "updates": []
+    },
     {
       "id": "93359",
       "datetime": "2026.11.02. 17:02",
