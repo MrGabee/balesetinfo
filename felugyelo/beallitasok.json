@@ -1,0 +1,28 @@
+{
+  "_leiras": "A felügyelő beállításai. Kulcsok formája: 'tulajdonos/repó:fájlnév.yml'. Minden időzített workflow-t magától figyel, ide csak a kivételek kellenek.",
+  "turelem_perc": 3,
+  "lanc_min_perc": 5,
+  "hibas_ujraprobal": 1,
+  "riasztas_hibak_utan": 2,
+  "elakadt_max_perc": 120,
+  "sorban_allas_max_perc": 30,
+  "ujrainditas_varakozas_perc": 4,
+  "automatikus_ujraengedelyezes": true,
+  "extra_repok": [],
+  "kihagy_repok": [],
+  "kihagy_workflowk": [
+    "MrGabee/waba:waze_token.yml"
+  ],
+  "max_perc": {
+    "MrGabee/mentoheli:utinform_ebreszto.yml": 8,
+    "MrGabee/mentoheli:orzo_monitor.yml": 6,
+    "MrGabee/mentoheli:bkk_kozut_csepel.yml": 25
+  },
+  "egyedi_turelem_perc": {},
+  "ne_futtasd_ujra": [
+    "MrGabee/mentoheli:fb_oldal_figyelo.yml",
+    "MrGabee/mentoheli:idojaras_riasztas_monitor.yml",
+    "MrGabee/mentoheli:vizmuvek_monitor.yml"
+  ],
+  "_ne_futtasd_ujra_leiras": "A Mr.Gabee oldalra posztoló figyelők: ha hibával állnak le, a felügyelő nem futtatja újra és nem riaszt miattuk, csak a következő ütemezett futást biztosítja."
+}
