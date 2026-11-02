@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:53:33.533502+00:00",
+  "updated_at": "2026-11-02T09:58:00.289833+00:00",
   "count": 2857,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Ráfutásos baleset történt Bárdudvarnoknál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93342",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6616-os út érintett szakaszán irányítás mellett, félpályán halad a forgalom.",
+      "body": "Összeütközött egy személygépkocsi és egy teherautó Bárdudvarnoknál, a 6616-os út 6-os kilométerénél. A kaposvári hivatásos tűzoltók áramtalanították a személyautót. A társhatóság is a helyszínen dolgozik. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Bárdudvarnok, 6616",
       "updates": []
     },
     {
@@ -207,10 +207,19 @@
       "title": "Lakatlan épület ég Ócsán",
       "category": "Lakatlan épület ég Ócsán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93327",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók öt vízsugárral már körülhatárolták a lángokat.",
+      "body": "Egy könnyűszerkezetes, lakatlan épület ég teljes egészében Ócsán, a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
+      "location": "Ócsa, Kölcsey utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Ócsán",
+          "datetime": "2026.11.01. 17:46",
+          "category": "Tűzeset",
+          "text": "A tűzoltók öt vízsugárral megfékezték a lángokat Ócsán, ahol egy könnyűszerkezetes, lakatlan épület égett teljes terjedelmében a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek az áramszolgáltató szakembereit kérték a területre.",
+          "location": "Ócsa, Kölcsey utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93327/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93327"
+        }
+      ]
     },
     {
       "id": "93326",
@@ -293,9 +302,9 @@
       "title": "Villamossal ütközött össze egy személyautó Kispesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93320",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Forgalmi akadály alakult ki az Üllői út érintett szakaszán.",
+      "body": "Villamossal ütközött össze egy személyautó a XIX. kerületi Üllői úton, a Simonyi Zsigmond utcánál. A fővárosi hivatásos tűzoltók mellett a közösségi közlekedési társaság szakemberei is a helyszínre érkeztek, valamint a mentőket is a balesethez várják. Az érintett kereszteződésben forgalmi akadály alakult ki a karambol miatt.",
+      "location": "Budapest, Üllői út",
       "updates": []
     },
     {
@@ -370,9 +379,9 @@
       "title": "Két autó ütközött Horton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93313",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kossuth Lajos utat lezárták.",
+      "body": "Összeütközött két személyautó Horton, a Kossuth Lajos út és a Táncsics Mihály út találkozásánál. A balesethez a hatvani hivatásos tűzoltókat riasztották, akik áramtalanították az egyik gépkocsit. A helyszínelés idejére az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Hort, Kossuth Lajos út",
       "updates": []
     },
     {
@@ -464,9 +473,9 @@
       "title": "Árokba borult egy autó Nádasdladányban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93306",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kastély úton történt a baleset.",
+      "body": "Árokba borult egy személyautó Nádasdladányban, a Kastély úton. A polgárdi önkormányzati tűzoltók egy embert kiemeltek a gépkocsiból. A helyszínre mentő is érkezett.",
+      "location": "Nádasdladány, Kastély út",
       "updates": []
     },
     {
