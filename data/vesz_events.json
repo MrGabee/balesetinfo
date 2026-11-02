@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T11:08:03.510479+00:00",
-  "count": 2858,
+  "updated_at": "2026-11-02T11:11:33.900913+00:00",
+  "count": 2859,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93347",
+      "datetime": "2026.11.02. 12:09",
+      "title": "Karambol történt Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93347",
+      "lead": "A Faraktár utcában forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Debrecenben, a Faraktár utcában, azaz a 48-as főút belterületi szakaszán. A város hivatásos tűzoltói áramtalanítják a járműveket, amelyekben két-két ember utazott. Az érintett útszakaszon a városból kivezető oldalt teljes szélességében lezárták, de a másik irányban is csak egy sáv járható.",
+      "location": "Debrecen, Faraktár utca",
+      "updates": []
+    },
     {
       "id": "93346",
       "datetime": "2026.11.02. 11:13",
