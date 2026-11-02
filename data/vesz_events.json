@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T15:25:53.116911+00:00",
-  "count": 2868,
+  "updated_at": "2026-11-02T15:29:45.092782+00:00",
+  "count": 2869,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93357",
+      "datetime": "2026.11.02. 16:27",
+      "title": "Két autó ütközött Gyálon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93357",
+      "lead": "A Kőrösi út és a Vecsési út kereszteződésénél történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Gyálon, a Kőrösi úton és a Vecsési út kereszteződésénél. A gyáli önkéntes tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett.",
+      "location": "Gyál, Kőrösi út",
+      "updates": []
+    },
     {
       "id": "93356",
       "datetime": "2026.11.02. 15:56",
