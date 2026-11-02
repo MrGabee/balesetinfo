@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T20:18:13.499053+00:00",
-  "count": 2873,
+  "updated_at": "2026-11-02T20:22:00.572632+00:00",
+  "count": 2874,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93362",
+      "datetime": "2026.11.02. 21:18",
+      "title": "Szalagkorlátnak ütközött egy autó a 11-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93362",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi Budakalásznál, a 11-es főút 14-es kilométerénél. A szentendrei hivatásos és a budakalászi önkéntes tűzoltók végzik a műszaki mentést. Az érintett útszakaszt a Budapest felé vezető oldalon teljes szélességében lezárták.",
+      "location": "Budakalász, 11",
+      "updates": []
+    },
     {
       "id": "93361",
       "datetime": "2026.11.02. 18:19",
