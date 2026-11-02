@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T05:07:38.171371+00:00",
-  "count": 2847,
+  "updated_at": "2026-11-02T05:11:06.822806+00:00",
+  "count": 2848,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93336",
+      "datetime": "2026.11.02. 06:08",
+      "title": "Teherautó és személyautó karambolozott Kőbányán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93336",
+      "lead": "A kisebb jármű vezetője beszorult, a tűzoltók emelték ki.",
+      "body": "Egy teherautó és egy személyautó ütközött össze a X. kerületben, a Sibrik Miklós út és a Harmat utca kereszteződésében. Az ütközés következtében a személyautó vezetője beszorult, a fővárosi hivatásos tűzoltók feszítővágó segítségével szabadították ki. Az egységek mellett a társhatóságok is a balesetnél dolgoznak. A karambol miatt egy sávon forgalmi akadály alakult ki, amelyet a tűzoltók a helyszínelést követően szüntetnek meg.",
+      "location": "Budapest, Harmat utca",
+      "updates": []
+    },
     {
       "id": "93335",
       "datetime": "2026.11.02. 05:09",
