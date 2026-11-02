@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-02T12:38:44.945864+00:00",
-  "count": 2865,
+  "updated_at": "2026-11-02T12:42:27.828933+00:00",
+  "count": 2866,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93354",
+      "datetime": "2026.11.02. 13:42",
+      "title": "Karambolozott két autó Gyöngyösnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93354",
+      "lead": "A 2416-os útra riasztották a tűzoltókat.",
+      "body": "Egymásnak ütközött két személyautó a 2416-os úton, Gyöngyös közelében. A gyöngyösi hivatásos tűzoltók áramtalanították a járműveket, amelyekből motorolaj és hűtőfolyadék került az útburkolatra. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyöngyös, 2416",
+      "updates": []
+    },
     {
       "id": "93353",
       "datetime": "2026.11.02. 13:33",
@@ -357,10 +368,19 @@
       "title": "Szeméttelep ég Kecskemét külterületén",
       "category": "Szeméttelep ég Kecskemét külterületén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93323",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók megkezdték az oltási munkálatokat.",
+      "body": "Mintegy ezer négyzetméteren ég egy szemétlerakó Kecskemét külterületén, a Kisfái tanya közelében. A kecskeméti hivatásos tűzoltók egy vízsugárral kezdték oltani a lángokat. A munkálatokat egy erőgép segíti, amellyel homokot hordanak a leégett területre, megakadályozva ezzel a tűz továbbterjedését. A helyszínre a katasztrófavédelmi műveleti szolgálat is kiérkezett, valamint az esethez tartanak a kiskunfélegyházi és a ceglédi hivatásos tűzoltók is.",
+      "location": "Kecskemét, Kisfái tanya",
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a kecskeméti szeméttelep lángjait",
+          "datetime": "2026.11.01. 16:44",
+          "category": "Tűzeset",
+          "text": "A kecskeméti és a kiskunfélegyházi hivatásos tűzoltók, a katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral megékezték a lángokat Kecskemét külterületén, ahol mintegy ezer négyzetméteren égett egy szemétlerakó a Kisfái tanya közelében. Az egységek munkáját erőgépek is segítették, amelyekkel homokot hordtak a leégett területre, megakadályozva ezzel a tűz továbbterjedését. Az egységek négy vízsugárral végzik az utómunkálatokat, valamint még az erőgépek is a helyszínen dolgoznak.",
+          "location": "Kecskemét, Kisfái tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93323/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93323"
+        }
+      ]
     },
     {
       "id": "93322",
