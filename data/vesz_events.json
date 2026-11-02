@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T07:49:11.703426+00:00",
+  "updated_at": "2026-11-02T07:53:12.998905+00:00",
   "count": 2853,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -119,9 +119,9 @@
       "title": "Egy lakóház hátsó épületrésze égett Vilmányon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93331",
-      "lead": "A tűzoltók négy vízsugárral oltották el a lángokat.",
-      "body": "Egy lakóház hátsó épületrészében keletkezett tűz Vilmányon, a Rákóczi utcában. Az encsi és a gönci hivatásos tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A tűzben egy gépkocsi teljesen megsemmisült, valamint a kazánhelyiség is kiégett.",
-      "location": "Vilmány, Rákóczi utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -141,9 +141,9 @@
       "title": "Elgázolt egy embert egy személyvonat Budaörsön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93329",
-      "lead": "A tűzoltók az utasok egy részének segítenek a biztonságos átszállásban.",
-      "body": "Elgázolt egy embert egy személyvonat Budaörsön, a Raktár utca melletti szakaszon. A szerelvényen mintegy négyszázan utaztak, egy részük már továbbhaladt egy mentesítő járattal. A vasúti kocsikban maradt többi utasnak a törökbálinti hivatásos tűzoltók nyújtanak segítséget a következő mentesítő járatra történő átszállásban.",
-      "location": "Budaörs, Raktár utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -166,16 +166,7 @@
       "lead": "A tűzoltók öt vízsugárral már körülhatárolták a lángokat.",
       "body": "Egy könnyűszerkezetes, lakatlan épület ég teljes egészében Ócsán, a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták.",
       "location": "Ócsa, Kölcsey utca",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Ócsán",
-          "datetime": "2026.11.01. 17:46",
-          "category": "Tűzeset",
-          "text": "A tűzoltók öt vízsugárral megfékezték a lángokat Ócsán, ahol egy könnyűszerkezetes, lakatlan épület égett teljes terjedelmében a Kölcsey utcában. A dabasi hivatásos és az ócsai önkéntes tűzoltók mellett a fővárosból egy vízszállító is a helyszínre érkezett. Az egységek az áramszolgáltató szakembereit kérték a területre.",
-          "location": "Ócsa, Kölcsey utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93327/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93327"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93326",
