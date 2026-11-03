@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T11:49:10.302771+00:00",
-  "count": 2886,
+  "updated_at": "2026-11-03T11:52:29.747718+00:00",
+  "count": 2887,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93375",
+      "datetime": "2026.11.03. 12:50",
+      "title": "Melléképület égett Apagyon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93375",
+      "lead": "A Petőfi Sándor utcában dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy melléképület Apagyon, a Petőfi Sándor utcában. Az épületben bútorlapot és fát tároltak. A baktalórántházai hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Apagy, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93374",
       "datetime": "2026.11.03. 12:15",
