@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:22:11.317569+00:00",
+  "updated_at": "2026-11-03T11:24:53.888476+00:00",
   "count": 2886,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Karambol történt Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93371",
-      "lead": "Wolfner és a Károlyi István utca kereszteződéséhez vonultak a tűzoltók.",
-      "body": "Összeütközött két személyautó Budapest IV. kerületében, a Wolfner és a Károlyi István utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen hárman utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
-      "location": "Budapest, Wolfner utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -108,9 +108,9 @@
       "title": "Tűz keletkezett Kiszomboron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93365",
-      "lead": "Az Új utcában dolgoznak a tűzoltók.",
-      "body": "Kigyulladt egy garázs Kiszomboron, az Új utcában. A garázsban két gépkocsi is volt. A járművek teljesen kiégtek. A tűz a főépület tetőszerkezetére is átterjedt. A makói, a szegedi és a hódmezővásárhelyi hivatásos tűzoltók oltották el a lángokat. A Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett. A rajok jelenleg az utómunkálatok végzik.",
-      "location": "Kiszombor, Új utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -196,9 +196,9 @@
       "title": "Két autó ütközött Gyálon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93357",
-      "lead": "A Kőrösi út és a Vecsési út kereszteződésénél történt a baleset.",
-      "body": "Két személygépkocsi karambolozott Gyálon, a Kőrösi úton és a Vecsési út kereszteződésénél. A gyáli önkéntes tűzoltók végzik a műszaki mentést. A társhatóság is a helyszínre érkezett.",
-      "location": "Gyál, Kőrösi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -254,16 +254,7 @@
       "lead": "A Hétes telepi ingatlan tetőszerkezete ég.",
       "body": "Tűz ütött ki egy kétlakásos ház egyik felében, Ózdon, a Hétes telepen. A tetőszerkezet és a födém gyulladt ki. A város hivatásos tűzoltói három vízsugárral oltják a lángokat.",
       "location": "Ózd, Hétes telep",
-      "updates": [
-        {
-          "title": "Megfékezték az ózdi tüzet",
-          "datetime": "2026.11.02. 14:28",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Ózdon, a Hétes telepen, ahol kigyulladt egy lakás. Teljes terjedelmében égett a tetőszerkezet, és mintegy húsz négyzetméteren a lakóteret is érintették a lángok. A város hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fojtották el a lángokat.",
-          "location": "Ózd, Hétes telep",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93352/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93352"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93351",
@@ -368,9 +359,9 @@
       "title": "Karambol Kecskeméten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93343",
-      "lead": "A Kuruc körútra vonultak a tűzoltók, akik egy embert kiszabadítottak az egyik járműből.",
-      "body": "Összeütközött egy autóbusz és egy személygépkocsi Kecskeméten, a Kuruc körúton, a Bem utcai körforgalomnál. A személyautóba beszorult egy ember, akit a város hivatásos tűzoltói a katasztrófavédelmi műveleti szolgálat irányítása mellett kiszabadítottak, kiemeltek, majd átadtak a mentőknek.  A rajok áramtalanították mindkét járművet. A busz nem szállított utasokat. A baleset helyszínén forgalmi akadályra és torlódásra kell számítani.",
-      "location": "Kecskemét, Kuruc körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
