@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:51:46.732093+00:00",
+  "updated_at": "2026-11-03T09:55:38.950480+00:00",
   "count": 2882,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -227,9 +227,9 @@
       "title": "Tűz volt egy salgótarjáni lakásban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93351",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Erzsébet térre riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy társasházi lakás tizenkettedik emeletén, Salgótarjánban, az Erzsébet téren. Az ingatlanban mintegy három négyzetméteren berendezési tárgyak égtek. A helyi és a bátonyterenyei hivatásos tűzoltók oltották el a lángokat. A Nógrád megyei katasztrófavédelmi műveleti szolgálatot is a helyszínre riasztották. A munkálatokat egy salgótarjáni vízszállító jármű is segítette.",
+      "location": "Salgótarján, Erzsébet tér",
       "updates": []
     },
     {
@@ -249,10 +249,19 @@
       "title": "Ég egy ház Somogyudvarhelyen",
       "category": "Ég egy ház Somogyudvarhelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A tűzoltók a Kossuth utcában oltják a lángokat.",
+      "body": "Kigyulladt egy lakóház Somogyudvarhelyen, a Kossuth utcában. A mintegy kilencven négyzetméteres épület egyik szobája ég. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral oltják a lángokat.",
+      "location": "Somogyudvarhely, Kossuth utca",
+      "updates": [
+        {
+          "title": "Nincs már tűz Somogyudvarhelyen",
+          "datetime": "2026.11.02. 13:16",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Somogyudvarhelyen, egy Kossuth utcai lakóházban keletkezett. Teljes terjedelmében égett a mintegy kilencven négyzetméteres épület egyik szobája. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral fékezték meg a lángokat, majd kiszellőztették az ingatlant. A tűz nem terjedt át sem a ház padlására, sem a szomszédos melléképületre.",
+          "location": "Somogyudvarhely, Kossuth utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93349"
+        }
+      ]
     },
     {
       "id": "93348",
@@ -447,9 +456,9 @@
       "title": "Egy lakóház hátsó épületrésze égett Vilmányon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93331",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók négy vízsugárral oltották el a lángokat.",
+      "body": "Egy lakóház hátsó épületrészében keletkezett tűz Vilmányon, a Rákóczi utcában. Az encsi és a gönci hivatásos tűzoltók négy vízsugárral előbb körülhatárolták, majd eloltották a lángokat, jelenleg az utómunkálatokat végzik. A tűzben egy gépkocsi teljesen megsemmisült, valamint a kazánhelyiség is kiégett.",
+      "location": "Vilmány, Rákóczi utca",
       "updates": []
     },
     {
