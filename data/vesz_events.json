@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T14:54:02.821932+00:00",
-  "count": 2892,
+  "updated_at": "2026-11-03T14:57:27.981849+00:00",
+  "count": 2893,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93381",
+      "datetime": "2026.11.03. 15:54",
+      "title": "Égett egy autó Berentén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93381",
+      "lead": "Az Ipari úton van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy személyautó Berentén, az Ipari úton, a 26-os főút közelében. A motortérben keletkezett tűz. A kazincbarcikai hivatásos tűzoltók két vízsugárral eloltották a lángokat, és áramtalanították a gépkocsit.",
+      "location": "Berente, Ipari út",
+      "updates": []
+    },
     {
       "id": "93380",
       "datetime": "2026.11.03. 15:14",
