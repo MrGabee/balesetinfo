@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T13:47:56.574383+00:00",
-  "count": 2890,
+  "updated_at": "2026-11-03T13:51:36.688200+00:00",
+  "count": 2891,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93379",
+      "datetime": "2026.11.03. 14:49",
+      "title": "Kigyulladt egy pince Palotáson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93379",
+      "lead": "A tűzoltók a Horgász úton fékezték meg a lángokat.",
+      "body": "Tűz keletkezett egy családi ház pincéjében, Palotáson, a Horgász úton. Berendezési tárgyak égtek mintegy tíz négyzetméteren. A hatvani és a berceli hivatásos tűzoltók egy vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, amelyek a lakószintre nem terjedtek tovább. A rajok kiszellőztetik a pincét.",
+      "location": "Palotás, Horgász út",
+      "updates": []
+    },
     {
       "id": "93378",
       "datetime": "2026.11.03. 14:29",
