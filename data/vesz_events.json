@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T16:29:20.656875+00:00",
-  "count": 2895,
+  "updated_at": "2026-11-03T16:32:52.087140+00:00",
+  "count": 2896,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93384",
+      "datetime": "2026.11.03. 17:30",
+      "title": "Villamos és autó ütközött Budapest XIX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93384",
+      "lead": "Az Üllői úton forgalmi akadály van.",
+      "body": "Villamos és személygépkocsi ütközött össze Budapest XIX. kerületében, az Üllői úton. Az autóban összesen hárman utaztak. A fővárosi hivatásos tűzoltók áramtalanítják a járművet. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
     {
       "id": "93383",
       "datetime": "2026.11.03. 16:31",
