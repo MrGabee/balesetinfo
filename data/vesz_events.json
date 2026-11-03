@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T09:31:31.553620+00:00",
-  "count": 2881,
+  "updated_at": "2026-11-03T09:35:13.499428+00:00",
+  "count": 2882,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93370",
+      "datetime": "2026.11.03. 10:33",
+      "title": "Árokba hajtott egy autó Jutánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93370",
+      "lead": "Az érintett útszakaszon forgalmi akadály van.",
+      "body": "Árokba hajtott egy személygépkocsi, Jutánál. Az autóban ketten utaztak. A kaposvári hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Juta, Szabadság utca",
+      "updates": []
+    },
     {
       "id": "93369",
       "datetime": "2026.11.03. 10:10",
@@ -108,9 +119,9 @@
       "title": "Két autó ütközött Mosonmagyaróváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93360",
-      "lead": "Forgalmi akadály van.",
-      "body": "Két személygépkocsi ütközött Mosonmagyaróváron, a Kiserdő úton. A helyi hivatásos tűzoltók áramtalanították az egyik járművet. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Mosonmagyaróvár, Kiserdő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -130,9 +141,9 @@
       "title": "Felborult egy autó a 32-es főúton, Jászberénynél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93358",
-      "lead": "Egy embert a tűzoltók emeltek ki a gépkocsiból.",
-      "body": "Árokba sodródott és az oldalára borult egy személyautó Jászberény határában, a 32-es főút Jásztelek felé vezető szakaszán, a 31. kilométer közelében. A járműben egy ember utazott, aki nem tudott kiszállni. Őt a műszaki mentést végző jászberényi hivatásos tűzoltók emelték ki a gépkocsiból. A baleset helyszínén forgalomkorlátozás lehet.",
-      "location": "Jászberény, 32",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -238,19 +249,10 @@
       "title": "Ég egy ház Somogyudvarhelyen",
       "category": "Ég egy ház Somogyudvarhelyen",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349",
-      "lead": "A tűzoltók a Kossuth utcában oltják a lángokat.",
-      "body": "Kigyulladt egy lakóház Somogyudvarhelyen, a Kossuth utcában. A mintegy kilencven négyzetméteres épület egyik szobája ég. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral oltják a lángokat.",
-      "location": "Somogyudvarhely, Kossuth utca",
-      "updates": [
-        {
-          "title": "Nincs már tűz Somogyudvarhelyen",
-          "datetime": "2026.11.02. 13:16",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Somogyudvarhelyen, egy Kossuth utcai lakóházban keletkezett. Teljes terjedelmében égett a mintegy kilencven négyzetméteres épület egyik szobája. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral fékezték meg a lángokat, majd kiszellőztették az ingatlant. A tűz nem terjedt át sem a ház padlására, sem a szomszédos melléképületre.",
-          "location": "Somogyudvarhely, Kossuth utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93349"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93348",
@@ -291,9 +293,9 @@
       "title": "Árokba borult egy autó a 7366-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93345",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Bögöte közelében végeznek műszaki mentést a tűzoltók.",
+      "body": "Árokba sodródott és felborult egy személyautó a 7366-as úton, Bögöte közelében. A tetején állt meg a jármű, amelybe egy ember beszorult. Őt a műszaki mentést végző sárvári hivatásos és hosszúperesztegi önkéntes tűzoltók kiszabadították, kiemelték, majd átadták a mentőknek. A rajok áramtalanították a gépkocsit.",
+      "location": "Bögöte, 7366",
       "updates": []
     },
     {
