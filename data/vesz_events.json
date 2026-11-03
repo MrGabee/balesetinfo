@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T07:25:41.138507+00:00",
+  "updated_at": "2026-11-03T07:29:20.026514+00:00",
   "count": 2879,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Tűz keletkezett Kiszomboron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93365",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Új utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy garázs Kiszomboron, az Új utcában. A garázsban két gépkocsi is volt. A járművek teljesen kiégtek. A tűz a főépület tetőszerkezetére is átterjedt. A makói, a szegedi és a hódmezővásárhelyi hivatásos tűzoltók oltották el a lángokat. A Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett. A rajok jelenleg az utómunkálatok végzik.",
+      "location": "Kiszombor, Új utca",
       "updates": []
     },
     {
@@ -219,16 +219,7 @@
       "lead": "A tűzoltók a Kossuth utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Somogyudvarhelyen, a Kossuth utcában. A mintegy kilencven négyzetméteres épület egyik szobája ég. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral oltják a lángokat.",
       "location": "Somogyudvarhely, Kossuth utca",
-      "updates": [
-        {
-          "title": "Nincs már tűz Somogyudvarhelyen",
-          "datetime": "2026.11.02. 13:16",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Somogyudvarhelyen, egy Kossuth utcai lakóházban keletkezett. Teljes terjedelmében égett a mintegy kilencven négyzetméteres épület egyik szobája. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral fékezték meg a lángokat, majd kiszellőztették az ingatlant. A tűz nem terjedt át sem a ház padlására, sem a szomszédos melléképületre.",
-          "location": "Somogyudvarhely, Kossuth utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93349"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93348",
