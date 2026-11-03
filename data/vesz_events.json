@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T12:44:38.443246+00:00",
-  "count": 2887,
+  "updated_at": "2026-11-03T12:47:59.898640+00:00",
+  "count": 2888,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93376",
+      "datetime": "2026.11.03. 13:46",
+      "title": "Karambol Budapest XVII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93376",
+      "lead": "A Pesti úton egy sávon halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Budapest XVII. kerületében, a Pesti úton. Az autókban összesen hárman utaztak. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Budapest, Pesti út",
+      "updates": []
+    },
     {
       "id": "93375",
       "datetime": "2026.11.03. 12:50",
