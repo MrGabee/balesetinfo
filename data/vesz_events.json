@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T19:39:08.686546+00:00",
-  "count": 2900,
+  "updated_at": "2026-11-03T19:42:59.869483+00:00",
+  "count": 2901,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93389",
+      "datetime": "2026.11.03. 20:40",
+      "title": "Családi ház égett Száron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93389",
+      "lead": "A Petőfi Sándor utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház egyik helyisége Száron, a Petőfi Sándor utcában. A tatabányai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Szár, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93388",
       "datetime": "2026.11.03. 18:19",
