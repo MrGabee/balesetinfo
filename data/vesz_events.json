@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T09:06:19.364570+00:00",
-  "count": 2880,
+  "updated_at": "2026-11-03T09:10:22.782035+00:00",
+  "count": 2881,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93369",
+      "datetime": "2026.11.03. 10:10",
+      "title": "Faház égett Egerben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93369",
+      "lead": "A Legányi Ferenc utcába vonultak a tűzoltók.",
+      "body": "Kigyulladt egy faház Egerben, a Legányi Ferenc utcában. Teljes terjedelmében égett a mintegy harminchat négyzetméteres, elhagyatott épület. Az egri hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett, három vízsugárral eloltották a tüzet. A rajok megkezdték az utómunkálatokat és az ingatlan bontását.",
+      "location": "Eger, Legányi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93368",
       "datetime": "2026.11.03. 08:29",
