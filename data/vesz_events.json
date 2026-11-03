@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T08:09:38.003727+00:00",
+  "updated_at": "2026-11-03T08:13:11.780187+00:00",
   "count": 2880,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -185,10 +185,19 @@
       "title": "Tűz van egy ózdi házban",
       "category": "Tűz van egy ózdi házban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93352",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Hétes telepi ingatlan tetőszerkezete ég.",
+      "body": "Tűz ütött ki egy kétlakásos ház egyik felében, Ózdon, a Hétes telepen. A tetőszerkezet és a födém gyulladt ki. A város hivatásos tűzoltói három vízsugárral oltják a lángokat.",
+      "location": "Ózd, Hétes telep",
+      "updates": [
+        {
+          "title": "Megfékezték az ózdi tüzet",
+          "datetime": "2026.11.02. 14:28",
+          "category": "Tűzeset",
+          "text": "Eloltották a tüzet Ózdon, a Hétes telepen, ahol kigyulladt egy lakás. Teljes terjedelmében égett a tetőszerkezet, és mintegy húsz négyzetméteren a lakóteret is érintették a lángok. A város hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fojtották el a lángokat.",
+          "location": "Ózd, Hétes telep",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93352/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93352"
+        }
+      ]
     },
     {
       "id": "93351",
@@ -359,9 +368,9 @@
       "title": "Fának ütközött egy autó Várpalota és Bakonycsernye között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93337",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók feszítővágóval szabadították ki a jármű vezetőjét.",
+      "body": "Fának hajtott egy gépkocsi Várpalota és Bakonycsernye között, a 8213-as út 14-es kilométerszelvényénél. A járműben csak a vezetője utazott, aki beszorult, a móri önkormányzati tűzoltók feszítővágó segítségével emelték ki. Az egység emellett áramtalanította is az autót. A balesethez a társhatóságok is kiérkeztek, a beavatkozás idejére egy sávon, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Bakonycsernye, 8213",
       "updates": []
     },
     {
@@ -436,9 +445,9 @@
       "title": "Tűz volt egy szarvasi lakóház kazánházában",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93330",
-      "lead": "A tűzoltók porral oltóval fékezték meg a lángokat.",
-      "body": "A gázkazán vezetékei égtek egy családi ház kazánházában Szarvason, a Gyóni Géza utcában. A város hivatásos tűzoltói egy porral oltóval szüntették meg a tüzet, egy vízsugárral pedig a helyszínt biztosították. Az egységek hőkamerával átvizsgálták a házat az esetleges beizzások miatt, valamint át is szellőztették az épületet.",
-      "location": "Szarvas, Gyóni Géza utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
