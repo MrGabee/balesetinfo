@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T13:28:59.265519+00:00",
-  "count": 2889,
+  "updated_at": "2026-11-03T13:33:00.641119+00:00",
+  "count": 2890,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93378",
+      "datetime": "2026.11.03. 14:29",
+      "title": "Baleset történt Szár és Újbarok között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93378",
+      "lead": "Az érintett útszakaszon forgalmi akadály van.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy kisteherautó a 8113-as úton, Szár és Újbarok között. A tatabányai hivatásos tűzoltók áramtalanítják a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Szár, Régi vasút dűlő",
+      "updates": []
+    },
     {
       "id": "93377",
       "datetime": "2026.11.03. 14:11",
@@ -108,9 +119,9 @@
       "title": "Karambol történt a 37-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93368",
-      "lead": "Felsőzsolca határában végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött egy kisteherautó és egy személygépkocsi a 37-es főúton, Felsőzsolca határában, az 1. kilométernél. A személyautóból nem tudott kiszállni egy ember. Őt kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző miskolci hivatásos tűzoltók. A raj áramtalanította a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Felsőzsolca, 37",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,9 +174,9 @@
       "title": "Tűz volt a VIII. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93363",
-      "lead": "A Kőbányai útra riasztották a tűzoltókat.",
-      "body": "Tűz keletkezett egy romos épületben, Budapest VIII. kerületében, a Kőbányai úton. Az épületben körülbelül hat négyzetméteren összehordott szemét égett. A fővárosi hivatásos tűzoltók elfojtották a lángokat.",
-      "location": "Budapest, Kőbányai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
