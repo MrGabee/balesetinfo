@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T17:00:00.228023+00:00",
-  "count": 2897,
+  "updated_at": "2026-11-03T17:03:17.678500+00:00",
+  "count": 2898,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93386",
+      "datetime": "2026.11.03. 18:03",
+      "title": "Oldalára borult egy autó Nyírbátor közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93386",
+      "lead": "A 4906-os úton félpályán halad a forgalom.",
+      "body": "Oldalára borult egy személygépkocsi a 4906-os úton, Nyírbátor közelében. Az autóban csak a sofőr utazott, aki ki tudott szállni. A nyírbátori hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyírbátor, Erdőalja tanya",
+      "updates": []
+    },
     {
       "id": "93385",
       "datetime": "2026.11.03. 17:51",
