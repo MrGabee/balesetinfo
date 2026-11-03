@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T09:55:38.950480+00:00",
-  "count": 2882,
+  "updated_at": "2026-11-03T09:58:52.975592+00:00",
+  "count": 2883,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93371",
+      "datetime": "2026.11.03. 10:56",
+      "title": "Karambol történt Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93371",
+      "lead": "Wolfner és a Károlyi István utca kereszteződéséhez vonultak a tűzoltók.",
+      "body": "Összeütközött két személyautó Budapest IV. kerületében, a Wolfner és a Károlyi István utca kereszteződésében. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket, amelyekben összesen hárman utaztak. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Wolfner utca",
+      "updates": []
+    },
     {
       "id": "93370",
       "datetime": "2026.11.03. 10:33",
@@ -238,9 +249,9 @@
       "title": "Utoléréses baleset az M5-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93350",
-      "lead": "Újhartyánnál félpályán halad Szeged felé a forgalom.",
-      "body": "Karambolozott két személyautó az M5-ös autópálya Szeged felé vezető oldalán, Újhartyán közelében. Utoléréses baleset történt, amelynek következtében az egyik jármű egy kamion hátuljának is nekiütközött. A dabasi hivatásos tűzoltók áramtalanítják a gépkocsikat. Az érintett sztrádaszakaszon félpályán halad a forgalom.",
-      "location": "Újhartyán, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -346,9 +357,9 @@
       "title": "Árokba hajtott egy autó Hosszúpályinál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93341",
-      "lead": "A jármű egy fának is ütközött a baleset következtében.",
-      "body": "Árokba hajtott, majd fának ütközött egy gépkocsi Hosszúpályi térségében, a 4808-as út 20-as kilométerszelvényénél. A létavértesi önkormányzati tűzoltók áramtalanítják a járművet, amelyben csak a vezetője utazott. Az egység mellett a társhatóságok is a balesetnél dolgoznak.",
-      "location": "Hosszúpályi, 4808",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -357,9 +368,9 @@
       "title": "Két autó ütközött össze a Váci úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93340",
-      "lead": "A tűzoltók áramtalanították mindkét járművet.",
-      "body": "Összeütközött két gépkocsi a XIII. kerületi Váci úton, a Gyöngyösi utca és a Szekszárdi utca közötti szakaszon, a városból kifelé vezető oldalon. A fővárosi hivatásos tűzoltók áramtalanították a járműveket, valamint eltávolították az úttestre került szennyeződést. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
-      "location": "Budapest, Váci út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -412,9 +423,9 @@
       "title": "Autóbusszal karambolozott egy személyautó Debrecenben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93335",
-      "lead": "Két sávon forgalmi akadály alakult ki az érintett kereszteződésben.",
-      "body": "Egy helyi járatos autóbusz és egy személyautó ütközött össze Debrecenben, a Miklós utca és az Erzsébet utca kereszteződésében. Mindkét járműben csak a vezetője utazott. A debreceni hivatásos tűzoltók és a társhatóságok dolgoznak a balesetnél. A tűzoltók áramtalanítják mindkét járművet, amelyek két sávon okoznak forgalmi akadályt.",
-      "location": "Debrecen, Miklós utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
