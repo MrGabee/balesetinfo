@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T14:12:15.508012+00:00",
-  "count": 2891,
+  "updated_at": "2026-11-03T14:15:48.312972+00:00",
+  "count": 2892,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93380",
+      "datetime": "2026.11.03. 15:14",
+      "title": "Fának hajtott egy autó a 22-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93380",
+      "lead": "Szécsény közelében dolgoznak a tűzoltók.",
+      "body": "Lesodródott az útról és fának hajtott egy személygépkocsi a 22-es főúton, Szécsény közelében, a 37-es kilométerszelvénynél. Az autóban csak a sofőr utazott, aki ki tudott szállni. A szécsényi hivatásos tűzoltók áramtalanították a járművet.",
+      "location": "Szécsény, Május 1. út",
+      "updates": []
+    },
     {
       "id": "93379",
       "datetime": "2026.11.03. 14:49",
@@ -130,9 +141,9 @@
       "title": "Karambol történt a 37-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93368",
-      "lead": "Felsőzsolca határában végeznek műszaki mentést a tűzoltók.",
-      "body": "Összeütközött egy kisteherautó és egy személygépkocsi a 37-es főúton, Felsőzsolca határában, az 1. kilométernél. A személyautóból nem tudott kiszállni egy ember. Őt kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző miskolci hivatásos tűzoltók. A raj áramtalanította a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Felsőzsolca, 37",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -273,9 +284,9 @@
       "title": "Családi ház égett Nyírvasváriban",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93355",
-      "lead": "A Deák Ferenc utcában csaptak fel a lángok.",
-      "body": "Kigyulladt egy lakóház Nyírvasváriban, a Deák Ferenc utcában. A nyolcvan négyzetméteres ingatlan tizenhat négyzetméteres szobájában ágyak és berendezési tárgyak égtek. A nyírbátori hivatásos tűzoltók két vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak a helyszínen.",
-      "location": "Nyírvasvári, Deák Ferenc utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
