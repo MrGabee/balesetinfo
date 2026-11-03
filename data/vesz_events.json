@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T05:26:26.855314+00:00",
-  "count": 2876,
+  "updated_at": "2026-11-03T05:29:47.641414+00:00",
+  "count": 2877,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93365",
+      "datetime": "2026.11.03. 06:28",
+      "title": "Tűz keletkezett Kiszomboron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93365",
+      "lead": "Az Új utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy garázs Kiszomboron, az Új utcában. A garázsban két gépkocsi is volt. A járművek teljesen kiégtek. A tűz a főépület tetőszerkezetére is átterjedt. A makói, a szegedi és a hódmezővásárhelyi hivatásos tűzoltók oltották el a lángokat. A Csongrád-Csanád megyei katasztrófavédelmi műveleti szolgálat is a helyszínre érkezett. A rajok jelenleg az utómunkálatok végzik.",
+      "location": "Kiszombor, Új utca",
+      "updates": []
+    },
     {
       "id": "93364",
       "datetime": "2026.11.03. 00:33",
