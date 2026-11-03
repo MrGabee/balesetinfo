@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T16:49:58.630130+00:00",
-  "count": 2896,
+  "updated_at": "2026-11-03T16:53:29.744841+00:00",
+  "count": 2897,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93385",
+      "datetime": "2026.11.03. 17:51",
+      "title": "Karambol Nadapnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93385",
+      "lead": "A 8119-es utat teljes szélességében lezárták.",
+      "body": "Összeütközött három személygépkocsi a 8119-es úton, Nadap térségében, az 5-ös kilométerszelvénynél. A Fejér megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a székesfehérvári hivatásos és a velencei önkéntes tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Nadap, Rajnai utca",
+      "updates": []
+    },
     {
       "id": "93384",
       "datetime": "2026.11.03. 17:30",
