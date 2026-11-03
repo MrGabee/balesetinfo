@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T07:29:20.026514+00:00",
-  "count": 2879,
+  "updated_at": "2026-11-03T07:33:02.877354+00:00",
+  "count": 2880,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93368",
+      "datetime": "2026.11.03. 08:29",
+      "title": "Karambol történt a 37-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93368",
+      "lead": "Felsőzsolca határában végeznek műszaki mentést a tűzoltók.",
+      "body": "Összeütközött egy kisteherautó és egy személygépkocsi a 37-es főúton, Felsőzsolca határában, az 1. kilométernél. A személyautóból nem tudott kiszállni egy ember. Őt kiszabadították, majd kiemelték és átadták a mentőknek a műszaki mentést végző miskolci hivatásos tűzoltók. A raj áramtalanította a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Felsőzsolca, 37",
+      "updates": []
+    },
     {
       "id": "93367",
       "datetime": "2026.11.03. 07:52",
@@ -53,9 +64,9 @@
       "title": "Tűz volt a VIII. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93363",
-      "lead": "A Kőbányai útra riasztották a tűzoltókat.",
-      "body": "Tűz keletkezett egy romos épületben, Budapest VIII. kerületében, a Kőbányai úton. Az épületben körülbelül hat négyzetméteren összehordott szemét égett. A fővárosi hivatásos tűzoltók elfojtották a lángokat.",
-      "location": "Budapest, Kőbányai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -219,7 +230,16 @@
       "lead": "A tűzoltók a Kossuth utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Somogyudvarhelyen, a Kossuth utcában. A mintegy kilencven négyzetméteres épület egyik szobája ég. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral oltják a lángokat.",
       "location": "Somogyudvarhely, Kossuth utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Nincs már tűz Somogyudvarhelyen",
+          "datetime": "2026.11.02. 13:16",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Somogyudvarhelyen, egy Kossuth utcai lakóházban keletkezett. Teljes terjedelmében égett a mintegy kilencven négyzetméteres épület egyik szobája. A nagyatádi hivatásos, a csurgói önkormányzati és a berzencei önkéntes tűzoltók három vízsugárral fékezték meg a lángokat, majd kiszellőztették az ingatlant. A tűz nem terjedt át sem a ház padlására, sem a szomszédos melléképületre.",
+          "location": "Somogyudvarhely, Kossuth utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93349/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93349"
+        }
+      ]
     },
     {
       "id": "93348",
