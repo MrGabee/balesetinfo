@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T19:42:59.869483+00:00",
-  "count": 2901,
+  "updated_at": "2026-11-03T19:46:16.597670+00:00",
+  "count": 2902,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93390",
+      "datetime": "2026.11.03. 20:45",
+      "title": "Fa bódé égett Székesfehérváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93390",
+      "lead": "A Varjú utcában dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy fa bódéban Székesfehérváron, a Varjú utcában. Az épületben kerti szerszámok égtek. A helyi hivatásos tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Székesfehérvár, Varjú utca",
+      "updates": []
+    },
     {
       "id": "93389",
       "datetime": "2026.11.03. 20:40",
