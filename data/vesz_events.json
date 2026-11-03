@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T17:17:08.278468+00:00",
-  "count": 2899,
+  "updated_at": "2026-11-03T17:20:48.872208+00:00",
+  "count": 2900,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93388",
+      "datetime": "2026.11.03. 18:19",
+      "title": "Baleset történt Budapest XVIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93388",
+      "lead": "Az Üllői úton forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest XVIII. kerületében, az Üllői úton. Az autókban összesen négyen utaztak. A fővárosi hivatásos és a lőrinci önkéntes tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Üllői út",
+      "updates": []
+    },
     {
       "id": "93387",
       "datetime": "2026.11.03. 18:15",
