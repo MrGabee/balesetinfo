@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-03T11:14:21.501129+00:00",
-  "count": 2885,
+  "updated_at": "2026-11-03T11:18:30.240200+00:00",
+  "count": 2886,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93374",
+      "datetime": "2026.11.03. 12:15",
+      "title": "Három autó ütközött a 12-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93374",
+      "lead": "Vácon forgalmi akadályra kell számítani.",
+      "body": "Összeütközött három személygépkocsi a 12-es főúton, Vácon. A váci hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Vác, Császárkörte utca",
+      "updates": []
+    },
     {
       "id": "93373",
       "datetime": "2026.11.03. 12:01",
@@ -346,9 +357,9 @@
       "title": "Baleset történt Baján",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93344",
-      "lead": "A Petőfi Sándor utcában van szükség tűzoltói beavatkozásra.",
-      "body": "Házfalnak ütközött egy személyautó Baján, a Petőfi Sándor utcában, a Damjanich és a Szarvas Gábor utca között. A műszaki mentést végző helyi hivatásos tűzoltók áramtalanítják a járművet. A helyszínre érkeztek a mentők is.",
-      "location": "Baja, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
