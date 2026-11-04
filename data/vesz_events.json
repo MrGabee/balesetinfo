@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T22:07:01.290784+00:00",
-  "count": 2931,
+  "updated_at": "2026-11-04T22:10:37.670358+00:00",
+  "count": 2932,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93420",
+      "datetime": "2026.11.04. 23:09",
+      "title": "Súlyos baleset miatt áll az M3-as forgalma az M31-es csomópontjánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93420",
+      "lead": "A Nyíregyháza felé vezető oldalon, a 26-os kilométernél egy kisbusz és egy személykocsi rohant egymásba.",
+      "body": "Összeütközött egy autó és egy kisbusz az M3-ason, az M31-es autópálya csomópontjánál. A Nyíregyháza felé vezető oldalon, a 26-os kilométernél történt a baleset. A személykocsiban egy ember utazott, őt a gödöllői hivatásos tűzoltók feszítővágó és nyomóhenger segítségével szabadították ki az összeroncsolódott autóból. A kisbusznak két utasa volt, a helyszínre mentőgépkocsik érkeztek. A kisbusz egy utánfutót is vontatott, azon egy quadot szállítottak. Az érintett pályaoldalt törmelékek borítják, ezért azt egy időre teljes szélességében lezárták.",
+      "location": "Szada, M3",
+      "updates": []
+    },
     {
       "id": "93419",
       "datetime": "2026.11.04. 22:05",
