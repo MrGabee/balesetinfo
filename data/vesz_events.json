@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T07:24:36.542689+00:00",
-  "count": 2903,
+  "updated_at": "2026-11-04T07:28:03.385001+00:00",
+  "count": 2904,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93392",
+      "datetime": "2026.11.04. 08:26",
+      "title": "Karambol Budapest tizenkettedik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93392",
+      "lead": "Az Istenhegyi úton, az Adonis utcánál két autó hajtott egymásba.",
+      "body": "Összeütközött két személykocsi a főváros tizenkettedik kerületében, az Istenhegyi úton. Az Adonis utcai kereszteződésnél történt balesethez a fővárosi hivatásos tűzoltók vonultak, áramtalanítottak. A két járműben összesen négyen utaztak, a helyszínre mentő is érkezett. A karambol miatt az Istenhegyi úton egy sávon halad a forgalom, a fennakadás hatással van a közösségi közlekedésre is.",
+      "location": "Budapest, Istenhegyi út",
+      "updates": []
+    },
     {
       "id": "93391",
       "datetime": "2026.11.04. 08:21",
@@ -196,9 +207,9 @@
       "title": "Három autó ütközött a 12-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93374",
-      "lead": "Vácon forgalmi akadályra kell számítani.",
-      "body": "Összeütközött három személygépkocsi a 12-es főúton, Vácon. A váci hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Vác, Császárkörte utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -207,9 +218,9 @@
       "title": "Égett egy ház egyik helyisége Kimlén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93373",
-      "lead": "A Fő úton keletkezett tűz, amelyet megfékeztek a tűzoltók.",
-      "body": "Kigyulladt egy családi ház Kimlén, a Fő úton. Az egyik helyiségben keletkezett tűz, és az egész épület megtelt füsttel. A mosonmagyaróvári és a lébényi hivatásos tűzoltók megakadályozták a tűz továbbterjedését, majd eloltották a lángokat. A rajok több kutyát és két gázpalackot is kihoztak az ingatlanból.",
-      "location": "Kimle, Fő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
