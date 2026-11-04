@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T16:56:37.770838+00:00",
-  "count": 2921,
+  "updated_at": "2026-11-04T16:59:53.756289+00:00",
+  "count": 2922,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93410",
+      "datetime": "2026.11.04. 17:59",
+      "title": "Utoléréses baleset történt az M1-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93410",
+      "lead": "Biatorbágy térségében, a főváros felé vezető oldal 19-20-as kilométere között három jármű hajtott egymásba.",
+      "body": "Összeütközött két személykocsi és egy kisteherautó az M1-es sztráda Budapest felé vezető oldalán, Biatorbágynál. A 19-20-as kilométer között történt utoléréses balesethez a bicskei önkormányzati tűzoltók vonultak, az egység áramtalanított. A járművekben összesen négyen ültek, a helyszínre vonultak a társhatóságok is.",
+      "location": "Biatorbágy, M1",
+      "updates": []
+    },
     {
       "id": "93409",
       "datetime": "2026.11.04. 17:24",
