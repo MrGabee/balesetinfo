@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T21:02:30.076462+00:00",
-  "count": 2930,
+  "updated_at": "2026-11-04T21:05:32.732577+00:00",
+  "count": 2931,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93419",
+      "datetime": "2026.11.04. 22:05",
+      "title": "Szalagkorlátnak hajtott egy autó az M0-áson, Nagytéténynél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93419",
+      "lead": "A tűzoltókat az M3-as felé vezető oldal 12-es kilométeréhez riasztották.",
+      "body": "Szalagkorlátnak ütközött egy személykocsi az M0-ás autóút 12-es kilométerénél. Az M3-as sztráda felé vezető oldalon történt balesethez a törökbálinti hivatásos tűzoltók vonultak. Az egység áramtalanított, illetve az autóból feszítővágó segítségéből eltávolított egy gázpalackot. Az autóút érintett szakaszán csak egy sáv járható.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
     {
       "id": "93418",
       "datetime": "2026.11.04. 21:11",
