@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T07:20:59.384360+00:00",
-  "count": 2902,
+  "updated_at": "2026-11-04T07:24:36.542689+00:00",
+  "count": 2903,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93391",
+      "datetime": "2026.11.04. 08:21",
+      "title": "Kigyulladt egy menetrend szerinti busz a 2-es főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93391",
+      "lead": "A jármű Szendehely belterületén, a Szabadság utca közelében kapott lángra.",
+      "body": "Kigyulladt egy menetrend szerint közlekedő autóbusz motortere a 2-es főút szendehelyi szakaszán, a Szabadság utca közelében. A járaton nem voltak utasok, a sofőr porral oltóval megfékezte a lángokat. A rétsági hivatásos tűzoltók visszahűtötték a motorteret. Az érintett szakaszon fennakadásra kell számítani.",
+      "location": "Szendehely, 2",
+      "updates": []
+    },
     {
       "id": "93390",
       "datetime": "2026.11.03. 20:45",
@@ -97,9 +108,9 @@
       "title": "Felborult egy autó a 21-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93382",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Pásztó közelében akadályozza a forgalmat a baleset.",
+      "body": "Szalagkorlátnak ütközött egy személyautó a 21-es főúton, Pásztó közelében, a 27. és a 28. kilométer között. A tetején állt meg a jármű, amelyben egy ember utazott. Ő ki tudott szállni. A pásztói hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Pásztó, 21",
       "updates": []
     },
     {
@@ -430,16 +441,7 @@
       "lead": "A Hétes telepi ingatlan tetőszerkezete ég.",
       "body": "Tűz ütött ki egy kétlakásos ház egyik felében, Ózdon, a Hétes telepen. A tetőszerkezet és a födém gyulladt ki. A város hivatásos tűzoltói három vízsugárral oltják a lángokat.",
       "location": "Ózd, Hétes telep",
-      "updates": [
-        {
-          "title": "Megfékezték az ózdi tüzet",
-          "datetime": "2026.11.02. 14:28",
-          "category": "Tűzeset",
-          "text": "Eloltották a tüzet Ózdon, a Hétes telepen, ahol kigyulladt egy lakás. Teljes terjedelmében égett a tetőszerkezet, és mintegy húsz négyzetméteren a lakóteret is érintették a lángok. A város hivatásos tűzoltók három vízsugárral és kéziszerszámokkal fojtották el a lángokat.",
-          "location": "Ózd, Hétes telep",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93352/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93352"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93351",
