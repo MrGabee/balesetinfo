@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T19:11:06.183226+00:00",
-  "count": 2926,
+  "updated_at": "2026-11-04T19:14:05.237397+00:00",
+  "count": 2927,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93415",
+      "datetime": "2026.11.04. 20:12",
+      "title": "Összeütközött két autó a 25-ös főút egri szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93415",
+      "lead": "A baleset a Vörösmarty Mihály és a Király utca kereszteződésében történt.",
+      "body": "Két személyautó karambolozott Egerben, a 25-ös főút belterületi szakaszán, azaz a Vörösmarty Mihály utca, illetve a Király utca kereszteződésénél. A balesethez a város hivatásos tűzoltói vonultak, a raj áramtalanított. A járművekben csak a sofőrök ültek, mentőt riasztottak hozzájuk.",
+      "location": "Eger, 25",
+      "updates": []
+    },
     {
       "id": "93414",
       "datetime": "2026.11.04. 19:29",
