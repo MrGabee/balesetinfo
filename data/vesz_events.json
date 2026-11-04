@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T15:03:54.917537+00:00",
-  "count": 2918,
+  "updated_at": "2026-11-04T15:07:11.097362+00:00",
+  "count": 2919,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93407",
+      "datetime": "2026.11.04. 16:05",
+      "title": "Karambol történt Gyöngyösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93407",
+      "lead": "Lezárták a Petőfi Sándor utca egy szakaszát.",
+      "body": "Összeütközött két személyautó Gyöngyösön, a Petőfi Sándor utcában, az Őrálló utca közelében. A város hivatásos tűzoltói áramtalanították a járműveket, amelyekben két-két ember utazott. Az érintett útszakaszt teljes szélességében lezárták a baleset miatt.",
+      "location": "Gyöngyös, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93406",
       "datetime": "2026.11.04. 15:51",
