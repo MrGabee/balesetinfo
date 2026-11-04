@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T13:18:51.192817+00:00",
-  "count": 2916,
+  "updated_at": "2026-11-04T13:22:04.961751+00:00",
+  "count": 2917,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93405",
+      "datetime": "2026.11.04. 14:20",
+      "title": "Villanyóra égett egy egri társasházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93405",
+      "lead": "A tűzoltók már az utómunkálatokat végzik a II. Rákóczi Ferenc utcában.",
+      "body": "Tűz keletkezett egy társasházban, Egerben a II. Rákóczi Ferenc utcában. Egy harmadik emeleti lakás előtt égett a villanyóra és a környezete. Mintegy két négyzetmétert érintett a tűz, amelyet eloltottak a város hivatásos tűzoltói. A rajok megkezdték az utómunkálatokat, kiszellőztetik az épületet, amelyet tizenöt ember elhagyott a tűz miatt, és többeket arra kértek az egységek, hogy zárt ajtók és ablakok mellett maradjanak a lakásukban.",
+      "location": "Eger, II. Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93404",
       "datetime": "2026.11.04. 13:58",
