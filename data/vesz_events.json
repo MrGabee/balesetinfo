@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T22:26:43.731147+00:00",
-  "count": 2932,
+  "updated_at": "2026-11-04T22:30:25.636921+00:00",
+  "count": 2933,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93421",
+      "datetime": "2026.11.04. 23:29",
+      "title": "Kigyulladt egy épület Kiskőrös külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93421",
+      "lead": "Az Izsáki út melletti területen avatkoznak be a tűzoltók.",
+      "body": "Egy kisház, illetve annak környezete gyulladt ki Kiskőrös külterületén, az Izsáki út mellett. A város hivatásos és önkéntes tűzoltói vízsugarakkal körülhatárolták és eloltották a tüzet. Az egységek már az utómunkálatokat végzik.",
+      "location": "Kiskőrös, külterület",
+      "updates": []
+    },
     {
       "id": "93420",
       "datetime": "2026.11.04. 23:09",
