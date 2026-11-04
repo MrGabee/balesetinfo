@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T14:51:24.602160+00:00",
-  "count": 2917,
+  "updated_at": "2026-11-04T14:54:46.167124+00:00",
+  "count": 2918,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93406",
+      "datetime": "2026.11.04. 15:51",
+      "title": "Egymásnak ütközött két autó Debrecenben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93406",
+      "lead": "A Balmazújvárosi útra riasztották a tűzoltókat.",
+      "body": "Karambolozott két személyautó Debrecenben, a Balmazújvárosi úton, a Domokos Márton útnál. A város hivatásos tűzoltói vonultak ki a balesethez, amely a háromból egy sávon akadályozza a forgalmat. A raj átvizsgálta a járműveket.",
+      "location": "Debrecen, Balmazújvárosi út",
+      "updates": []
+    },
     {
       "id": "93405",
       "datetime": "2026.11.04. 14:20",
