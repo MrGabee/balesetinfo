@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T19:20:51.985429+00:00",
-  "count": 2927,
+  "updated_at": "2026-11-04T19:24:03.302133+00:00",
+  "count": 2928,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93416",
+      "datetime": "2026.11.04. 20:23",
+      "title": "Szarvast gázolt egy autó a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93416",
+      "lead": "A szekszárdi tűzoltókat a 144-145-ös kilométer közé riasztották.",
+      "body": "Elütött egy szarvast egy személykocsi a 6-os főúton, Szekszárd térségében. A 144-145-ös kilométer között történt balesethez a szekszárdi hivatásos tűzoltók vonultak. A jármű vezetőjéhez mentő érkezett. Az érintett szakaszon félpályán lehet közlekedni.",
+      "location": "Szekszárd, 6",
+      "updates": []
+    },
     {
       "id": "93415",
       "datetime": "2026.11.04. 20:12",
