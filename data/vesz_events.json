@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T17:06:57.884531+00:00",
-  "count": 2922,
+  "updated_at": "2026-11-04T17:10:02.407237+00:00",
+  "count": 2923,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93411",
+      "datetime": "2026.11.04. 18:08",
+      "title": "Tűz ütött ki egy mezőberényi melléképületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93411",
+      "lead": "Helyi és békéscsabai tűzoltók vonultak a Táncsics Mihály utcába.",
+      "body": "Kigyulladt egy fa tárolására használt melléképület Mezőberényben, a Táncsics Mihály utcában. Az esethez helyi hivatásos és önkéntes, valamint békéscsabai hivatásos tűzoltók vonultak. A lakók még az egységek megérkezése előtt elkezdték oltani a lángokat, a tüzet a rajok körülhatárolták. A tűzoltók megbontják a melléképület oldalfalait, illetve letávolítják a bent lévő faanyagot.",
+      "location": "Mezőberény, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "93410",
       "datetime": "2026.11.04. 17:59",
