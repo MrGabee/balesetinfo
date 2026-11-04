@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T16:02:31.234659+00:00",
-  "count": 2919,
+  "updated_at": "2026-11-04T16:05:57.530005+00:00",
+  "count": 2920,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93408",
+      "datetime": "2026.11.04. 17:04",
+      "title": "Oszlopnak hajtott egy autó Tiszafüreden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93408",
+      "lead": "A 33-as főút belterületi szakaszán forgalomkorlátozásra kell számítani.",
+      "body": "Villanyoszlopnak ütközött egy személyautó Tiszafüreden, a Húszöles úton, azaz a 33-as főúton, az Igari út közelében. A város hivatásos tűzoltói áramtalanították a gépkocsit, amelyben egy ember utazott. Hozzá mentők érkeztek a helyszínre. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Tiszafüred, Húszöles út",
+      "updates": []
+    },
     {
       "id": "93407",
       "datetime": "2026.11.04. 16:05",
