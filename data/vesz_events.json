@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T11:40:06.248188+00:00",
-  "count": 2911,
+  "updated_at": "2026-11-04T11:43:17.547872+00:00",
+  "count": 2912,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93400",
+      "datetime": "2026.11.04. 12:41",
+      "title": "Karambol Józsefvárosban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93400",
+      "lead": "Az Orczy út egy szakaszán forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személyautó Budapest VIII. kerületében, az Orczy úton, az Elnök utca közelében. A fővárosi hivatásos tűzoltókat riasztották a balesethez. A raj áramtalanítja a járműveket, amelyek akadályozzák a forgalmat.",
+      "location": "Budapest, Orczy út",
+      "updates": []
+    },
     {
       "id": "93399",
       "datetime": "2026.11.04. 11:42",
@@ -229,9 +240,9 @@
       "title": "Kigyulladt egy pince Palotáson",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93379",
-      "lead": "A tűzoltók a Horgász úton fékezték meg a lángokat.",
-      "body": "Tűz keletkezett egy családi ház pincéjében, Palotáson, a Horgász úton. Berendezési tárgyak égtek mintegy tíz négyzetméteren. A hatvani és a berceli hivatásos tűzoltók egy vízsugárral megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, amelyek a lakószintre nem terjedtek tovább. A rajok kiszellőztetik a pincét.",
-      "location": "Palotás, Horgász út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
