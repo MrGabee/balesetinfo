@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T10:37:40.657834+00:00",
-  "count": 2909,
+  "updated_at": "2026-11-04T10:41:06.729434+00:00",
+  "count": 2910,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93398",
+      "datetime": "2026.11.04. 11:37",
+      "title": "Baleset történt Nyíregyháza külvárosában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93398",
+      "lead": "Jósaváros és Sóstógyógyfürdő között egy busz és egy személykocsi karambolozott.",
+      "body": "Összeütközött egy autó és egy busz Nyíregyháza külvárosában, a Sóstói és a Kemecsei út elágazásánál. A buszon nagyjából huszan utaztak, a személykocsiban csak a sofőr ült, a helyszínre mentő is érkezett. A menetrend szerint közlekedő járat utasait egy másik busz szállította tovább. A megyeszékhely hivatásos tűzoltói avatkoznak be. Az érintett útszakaszon fennakadásra kell számítani.",
+      "location": "Nyíregyháza, 3834",
+      "updates": []
+    },
     {
       "id": "93397",
       "datetime": "2026.11.04. 10:22",
