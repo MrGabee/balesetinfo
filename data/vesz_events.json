@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T07:41:21.346728+00:00",
-  "count": 2904,
+  "updated_at": "2026-11-04T07:44:59.667545+00:00",
+  "count": 2905,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93393",
+      "datetime": "2026.11.04. 08:42",
+      "title": "Összeütközött két autó Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93393",
+      "lead": "A Bakonyi és a Mecseki utca kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Két személykocsi karambolozott Érden, a Bakonyi és a Mecsek utca sarkán, az egyik jármű elektromos meghajtású. Megrongálódott egy telefonoszlop is. A város hivatásos tűzoltói végzik a műszaki mentést.",
+      "location": "Érd, Bakonyi utca",
+      "updates": []
+    },
     {
       "id": "93392",
       "datetime": "2026.11.04. 08:26",
@@ -20,9 +31,9 @@
       "title": "Kigyulladt egy menetrend szerinti busz a 2-es főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93391",
-      "lead": "A jármű Szendehely belterületén, a Szabadság utca közelében kapott lángra.",
-      "body": "Kigyulladt egy menetrend szerint közlekedő autóbusz motortere a 2-es főút szendehelyi szakaszán, a Szabadság utca közelében. A járaton nem voltak utasok, a sofőr porral oltóval megfékezte a lángokat. A rétsági hivatásos tűzoltók visszahűtötték a motorteret. Az érintett szakaszon fennakadásra kell számítani.",
-      "location": "Szendehely, 2",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
