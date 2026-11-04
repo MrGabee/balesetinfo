@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T19:44:21.036133+00:00",
-  "count": 2928,
+  "updated_at": "2026-11-04T19:47:23.583335+00:00",
+  "count": 2929,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93417",
+      "datetime": "2026.11.04. 20:45",
+      "title": "Tűz volt egy kiskunhalasi épületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93417",
+      "lead": "A Polgár utcai tüzet a helyi tűzoltók oltották el.",
+      "body": "Tűz keletkezett egy lakatlan kiskunhalasi házban. A Polgár utcába vonultak a város hivatásos tűzoltói. Az egység két vízsugárral körülhatárolta, majd eloltotta az egyik helyiségben égő szekrényt.",
+      "location": "Kiskunhalas, Polgár utca",
+      "updates": []
+    },
     {
       "id": "93416",
       "datetime": "2026.11.04. 20:23",
