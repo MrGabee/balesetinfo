@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T18:20:55.400102+00:00",
-  "count": 2924,
+  "updated_at": "2026-11-04T18:24:06.410244+00:00",
+  "count": 2925,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93413",
+      "datetime": "2026.11.04. 19:21",
+      "title": "Kamion és személykocsi karambolozott Pátyodon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93413",
+      "lead": "A 49-es főút 44-es kilométeréhez a csengeri tűzoltók vonultak.",
+      "body": "Összeütközött egy autó és egy kamion a 49-es főút pátyodi szakaszán, a település határában. A 44-es kilométernél történt a baleset, a személykocsi sofőrje elhagyta a helyszínt, a kamionban ketten ültek. A teherautóból gázolaj folyik az útra. A műszaki mentést a csengeri önkormányzati tűzoltók végzik. A főút érintett szakaszán fennakadásra kell számítani.",
+      "location": "Pátyod, 49",
+      "updates": []
+    },
     {
       "id": "93412",
       "datetime": "2026.11.04. 18:33",
