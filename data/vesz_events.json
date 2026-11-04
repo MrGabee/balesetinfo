@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T07:52:06.729342+00:00",
-  "count": 2905,
+  "updated_at": "2026-11-04T07:55:15.108148+00:00",
+  "count": 2906,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93394",
+      "datetime": "2026.11.04. 08:52",
+      "title": "Hármas karambol a 6-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93394",
+      "lead": "Szigetvár közelében lassítja a forgalmat a baleset.",
+      "body": "Összeütközött három gépkocsi a 6-os főút Szigetvár és Botykapeterd közötti szakaszán. Az egyik jármű az árokba sodródott. A szigetvári hivatásos tűzoltók két gépkocsit áramtalanítanak, a harmadiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Szigetvár, 6",
+      "updates": []
+    },
     {
       "id": "93393",
       "datetime": "2026.11.04. 08:42",
