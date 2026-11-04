@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T12:57:11.708609+00:00",
-  "count": 2915,
+  "updated_at": "2026-11-04T13:01:02.312144+00:00",
+  "count": 2916,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93404",
+      "datetime": "2026.11.04. 13:58",
+      "title": "Karambol Rákoskeresztúron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93404",
+      "lead": "A Pesti és a Csabai út elágazásának közelében három autó ütközött össze.",
+      "body": "Ráfutásos baleset történt Budapest tizenhetedik kerületében, a Pesti és a Csabai út elágazásának közelében. Három autó karambolozott, ezekben összesen öten utaztak, a helyszínre mentőt is riasztottak. A fővárosi hivatásos tűzoltók áramtalanítottak.",
+      "location": "Budapest, Pesti út",
+      "updates": []
+    },
     {
       "id": "93403",
       "datetime": "2026.11.04. 13:34",
@@ -31,9 +42,9 @@
       "title": "Összeütközött két autó Nyársapát és Nagykőrös között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93401",
-      "lead": "A tűzoltókat a 441-es út 10-11-es kilométere közé riasztották.",
-      "body": "Egymásba hajtott két autó a 441-es út Nagykőrös és Nyársapát közötti szakaszán. A 10-11-es kilométer között történt balesethez a nagykőrösi önkormányzati tűzoltók vonultak, az egység áramtalanította a járműveket. A gépkocsik utasaihoz mentő érkezett. Az érintett útszakaszon rendőri irányítás mellett, félpályán halad a forgalom.",
-      "location": "Nyársapát, 441",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -130,9 +141,9 @@
       "title": "Karambol Budapest tizenkettedik kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93392",
-      "lead": "Az Istenhegyi úton, az Adonis utcánál két autó hajtott egymásba.",
-      "body": "Összeütközött két személykocsi a főváros tizenkettedik kerületében, az Istenhegyi úton. Az Adonis utcai kereszteződésnél történt balesethez a fővárosi hivatásos tűzoltók vonultak, áramtalanítottak. A két járműben összesen négyen utaztak, a helyszínre mentő is érkezett. A karambol miatt az Istenhegyi úton egy sávon halad a forgalom, a fennakadás hatással van a közösségi közlekedésre is.",
-      "location": "Budapest, Istenhegyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -141,9 +152,9 @@
       "title": "Kigyulladt egy menetrend szerinti busz a 2-es főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93391",
-      "lead": "A jármű Szendehely belterületén, a Szabadság utca közelében kapott lángra.",
-      "body": "Kigyulladt egy menetrend szerint közlekedő autóbusz motortere a 2-es főút szendehelyi szakaszán, a Szabadság utca közelében. A járaton nem voltak utasok, a sofőr porral oltóval megfékezte a lángokat. A rétsági hivatásos tűzoltók visszahűtötték a motorteret. Az érintett szakaszon fennakadásra kell számítani.",
-      "location": "Szendehely, 2",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -163,9 +174,9 @@
       "title": "Családi ház égett Száron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93389",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Petőfi Sándor utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház egyik helyisége Száron, a Petőfi Sándor utcában. A tatabányai hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Szár, Petőfi Sándor utca",
       "updates": []
     },
     {
