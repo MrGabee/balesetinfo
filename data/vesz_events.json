@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T20:10:43.452144+00:00",
-  "count": 2929,
+  "updated_at": "2026-11-04T20:13:51.045458+00:00",
+  "count": 2930,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93418",
+      "datetime": "2026.11.04. 21:11",
+      "title": "Kigyulladt egy jánoshalmai ház",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93418",
+      "lead": "A Hosszúhegyi úton van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz ütött ki egy nagyjából ötvenhat négyzetméteres épületben Jánoshalmán, a Hosszúhegyi úton. A konyhában csaptak fel a lángok, ahol berendezési tárgyak égtek. A helyszínre elsőként a helyi önkormányzati tűzoltók érkeztek meg, akik áramtalanították az épületet, megkezdték az oltást és egy gázpalackot is a szabadba vittek. Az esethez rövid időn belül megérkeztek a kiskunhalasi hivatásos tűzoltók is. Az egységek megbontják a födémet és átvizsgálják a palásteret is. A házat heten lakják, ismerősök biztosítanak számukra átmeneti szállást.",
+      "location": "Jánoshalma, Hosszúhegyi út",
+      "updates": []
+    },
     {
       "id": "93417",
       "datetime": "2026.11.04. 20:45",
