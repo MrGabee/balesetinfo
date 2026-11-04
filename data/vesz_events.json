@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T09:22:18.846166+00:00",
-  "count": 2908,
+  "updated_at": "2026-11-04T09:25:05.457301+00:00",
+  "count": 2909,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93397",
+      "datetime": "2026.11.04. 10:22",
+      "title": "Frontális karambol történt a 87-es főúton, Kőszeg határában",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93397",
+      "lead": "A 45-ös kilométernél ütközött össze két személykocsi.",
+      "body": "Szemből hajtott egymásba két autó a 87-es főút 45-ös kilométerénél, Kőszeg határában, az egyik jármű hibrid hajtású. Mindkét kocsiban csak annak sofőrje utazott, mindketten ki tudtak szállni járművükből, a gépkocsivezetőkhöz mentő érkezett. A kőszegi önkormányzati tűzoltók végzik a műszaki mentést, egyebek mellett áramtalanítják az autókat. A főút érintett szakaszán csak félpályán lehet közlekedni.",
+      "location": "Kőszeg, 87",
+      "updates": []
+    },
     {
       "id": "93396",
       "datetime": "2026.11.04. 09:27",
