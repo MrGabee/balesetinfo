@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T12:33:41.349097+00:00",
-  "count": 2914,
+  "updated_at": "2026-11-04T12:37:07.847416+00:00",
+  "count": 2915,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93403",
+      "datetime": "2026.11.04. 13:34",
+      "title": "Ráfutásos baleset Győrben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93403",
+      "lead": "A Bakonyi útra, a Lajta úti kereszteződéshez riasztották a tűzoltókat.",
+      "body": "Három autó szenvedett ráfutásos balesetet Győr Marcalváros városrészében, a 821-es út elején, a Lajta úti kereszteződésnél. Az egyik autó belehajtott a másik két járműbe. Az utasok ki tudtak szállni, a helyszínre mentőt riasztottak. A győri hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Győr, 821",
+      "updates": []
+    },
     {
       "id": "93402",
       "datetime": "2026.11.04. 13:00",
