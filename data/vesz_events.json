@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-04T11:58:06.402531+00:00",
-  "count": 2913,
+  "updated_at": "2026-11-04T12:00:44.742491+00:00",
+  "count": 2914,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93402",
+      "datetime": "2026.11.04. 13:00",
+      "title": "Összeütközött két autó Rákosszentmihályon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93402",
+      "lead": "A Béla utcában végeznek műszaki mentést a tűzoltók.",
+      "body": "Egymásnak ütközött két személyautó Budapest XVI. kerületében, a Béla utcában, a Wesselényi és a Mátyás király utca között. Az egyik jármű az oldalára borult. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonultak.",
+      "location": "Budapest, Béla utca",
+      "updates": []
+    },
     {
       "id": "93401",
       "datetime": "2026.11.04. 12:57",
