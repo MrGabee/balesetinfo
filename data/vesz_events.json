@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T19:01:27.957291+00:00",
-  "count": 2957,
+  "updated_at": "2026-11-05T19:04:34.425800+00:00",
+  "count": 2958,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93446",
+      "datetime": "2026.11.05. 20:03",
+      "title": "Baleset történt Kemecse és Kótaj között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93446",
+      "lead": "A 3823-as utat lezárták.",
+      "body": "Két személyautó ütközött össze Kemecse és Kótaj között, a 3823-as út 24-es kilométerszelvénynél. A balesethez a nyíregyházi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kemecse, 3823",
+      "updates": []
+    },
     {
       "id": "93445",
       "datetime": "2026.11.05. 18:40 -",
@@ -12,7 +23,16 @@
       "lead": "Foltokban ég az összetúrt hulladék.",
       "body": "Több helyen, foltokban ég az összetúrt hulladék egy volt szeméttelepen Foktő közelében. A kalocsai hivatásos tűzoltók jelenleg két vízsugárral dolgoznak a tűz elfojtásán. A helyszínen elhúzódó munkálatokra kell számítani.",
       "location": "Foktő, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Foktő közelében",
+          "datetime": "2026.11.05. 20:00",
+          "category": "Tűzeset",
+          "text": "Már befejezték az utómunkálatokat Foktő közelében, ahol több helyen, foltokban égett az összetúrt hulladék egy volt szeméttelepen. A lángokat a kalocsai hivatásos tűzoltók oltották el.",
+          "location": "Foktő, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93445/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93445"
+        }
+      ]
     },
     {
       "id": "93444",
