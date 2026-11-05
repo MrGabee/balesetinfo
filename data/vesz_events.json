@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T07:48:18.348508+00:00",
-  "count": 2934,
+  "updated_at": "2026-11-05T07:51:01.557061+00:00",
+  "count": 2935,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93423",
+      "datetime": "2026.11.05. 08:49",
+      "title": "Fának hajtott egy autó Lócsnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93423",
+      "lead": "A 8634-es útra riasztották a tűzoltókat.",
+      "body": "Fának ütközött egy furgon a 8634-es úton, Lócs közelében. A csepregi önkormányzati tűzoltók áramtalanítják a gépkocsit, amelyben egy ember utazott. Ő ki tudott szállni. A helyszínen vannak a mentők is.",
+      "location": "Lócs, 8634",
+      "updates": []
+    },
     {
       "id": "93422",
       "datetime": "2026.11.05. 01:20 -",
