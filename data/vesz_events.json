@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T13:50:11.479506+00:00",
-  "count": 2946,
+  "updated_at": "2026-11-05T13:53:40.288278+00:00",
+  "count": 2947,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93435",
+      "datetime": "2026.11.05. 14:51",
+      "title": "Kigyulladt egy kukásautó Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93435",
+      "lead": "A Georg Knorr utcát lezárták.",
+      "body": "Kigyulladt egy kukásautó szemétszállító tere Kecskeméten, a Georg Knorr utcában. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat. Az érintett útszakaszt a beavatkozás idejére teljes szélességében lezárták.",
+      "location": "Kecskemét, Georg Knorr utca",
+      "updates": []
+    },
     {
       "id": "93434",
       "datetime": "2026.11.05. 14:25",
