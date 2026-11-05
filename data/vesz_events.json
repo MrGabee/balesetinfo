@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:25:37.154040+00:00",
+  "updated_at": "2026-11-05T01:28:54.842716+00:00",
   "count": 2934,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "Badacsonytomaji és keszthelyi tűzoltók vonultak a Dózsa utcába.",
       "body": "Kigyulladt a pincében tárolt, nagyjából tíz köbméternyi tűzifa egy balatonedericsi, Dózsa utcai háznál. A helyszínre badacsonytomaji és keszthelyi hivatásos tűzoltók vonultak. Az egységek egy sértetlen gázpalackot kivittek a házból. A pincébe azonban még nem jutottak le, akkora a hő, a tűzoltók ezért kívülről oltanak, és elhúzódó beavatkozásra számítanak. Az épületet hárman lakják, rokonok fogadják be őket.",
       "location": "Balatonederics, Dózsa utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "A lángokat már eloltották Balatonedericsen",
+          "datetime": "2026.11.05. 02:23",
+          "category": "Tűzeset",
+          "text": "A Dózsa utcában egy pincében gyulladt meg az ott tárolt tűzifa. A badacsonytomaji és keszthelyi hivatásos tűzoltók a tüzet körülhatárolták, a lángokat megfékezték. Az egységek elkezdték kihordani a tűzifát a pincéből.",
+          "location": "Balatonederics, Dózsa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93422/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93422"
+        }
+      ]
     },
     {
       "id": "93421",
