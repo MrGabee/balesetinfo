@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T11:47:38.829243+00:00",
-  "count": 2941,
+  "updated_at": "2026-11-05T11:50:58.547268+00:00",
+  "count": 2942,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93430",
+      "datetime": "2026.11.05. 12:50",
+      "title": "Kamionok ütköztek össze az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93430",
+      "lead": "A baleset az inárcsi pihenőnél akadályozza a Szeged felé haladó forgalmat.",
+      "body": "Karambolozott három kamion az M5-ös autópálya Szeged felé vezető oldalán, az inárcsi pihenőnél, a 35. kilométer közelében. A dabasi hivatásos tűzoltók áramtalanítják a járműveket. A mentők is kivonultak a balesethez, amelynek helyszínén teljes szélességében lezárták az érintett sztrádaszakaszt, ezért nagy a torlódás.",
+      "location": "Inárcs, M5",
+      "updates": []
+    },
     {
       "id": "93429",
       "datetime": "2026.11.05. 12:46",
