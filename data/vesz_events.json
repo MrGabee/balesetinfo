@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T10:32:57.114274+00:00",
-  "count": 2938,
+  "updated_at": "2026-11-05T10:36:27.982889+00:00",
+  "count": 2939,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93427",
+      "datetime": "2026.11.05. 11:34",
+      "title": "Tetőtűz Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93427",
+      "lead": "Az Avasalja utcába vonultak a tűzoltók.",
+      "body": "Elhagyatott ikerház egyik részének tetőszerkezete égett Miskolcon, az Avasalja utcában. A tűz nem terjedt tovább. A város hivatásos tűzoltói két vízsugárral eloltották a lángokat.",
+      "location": "Miskolc, Avasalja utca",
+      "updates": []
+    },
     {
       "id": "93426",
       "datetime": "2026.11.05. 11:12",
