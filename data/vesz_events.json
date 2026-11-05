@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T17:37:48.923262+00:00",
-  "count": 2956,
+  "updated_at": "2026-11-05T17:40:56.709600+00:00",
+  "count": 2957,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93445",
+      "datetime": "2026.11.05. 18:40",
+      "title": "Tűz van egy szeméttelepen Foktőnél",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93445",
+      "lead": "Foltokban ég az összetúrt hulladék.",
+      "body": "Több helyen, foltokban ég az összetúrt hulladék egy volt szeméttelepen Foktő közelében. A kalocsai hivatásos tűzoltók jelenleg két vízsugárral dolgoznak a tűz elfojtásán. A helyszínen elhúzódó munkálatokra kell számítani.",
+      "location": "Foktő, külterület",
+      "updates": []
+    },
     {
       "id": "93444",
       "datetime": "2026.11.05. 18:27",
