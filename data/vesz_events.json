@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T17:27:20.599095+00:00",
-  "count": 2955,
+  "updated_at": "2026-11-05T17:30:26.462133+00:00",
+  "count": 2956,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93444",
+      "datetime": "2026.11.05. 18:27",
+      "title": "Felborult egy autó az M6-oson, Dunaföldvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93444",
+      "lead": "A Pécs felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Felborult egy személyautó az M6-os autópálya Pécs felé vezető oldalán, Dunaföldvár közelében, a 95-ös kilométerszelvény közelében. A műszaki mentést a solti hivatásos és a dunaföldvári önkéntes tűzoltók végzik. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Dunaföldvár, M6",
+      "updates": []
+    },
     {
       "id": "93443",
       "datetime": "2026.11.05. 18:21",
