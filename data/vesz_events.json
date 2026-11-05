@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T13:19:36.480129+00:00",
-  "count": 2943,
+  "updated_at": "2026-11-05T13:22:25.901405+00:00",
+  "count": 2944,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93432",
+      "datetime": "2026.11.05. 14:21",
+      "title": "Hármas karambol Alattyánon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93432",
+      "lead": "A Jász úton félpályán halad a forgalom.",
+      "body": "Összeütközött három személyautó Alattyánon, a Jász út és a Jászapáti utca találkozásánál. A balesethez a jászberényi hivatásos tűzoltókat riasztották, műszaki mentés céljából. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Alattyán, Jász út",
+      "updates": []
+    },
     {
       "id": "93431",
       "datetime": "2026.11.05. 13:02",
