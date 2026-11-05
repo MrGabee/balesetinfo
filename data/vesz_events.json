@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:00:01.353748+00:00",
+  "updated_at": "2026-11-05T11:03:13.459181+00:00",
   "count": 2940,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -42,9 +42,9 @@
       "title": "Karambol történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93425",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Kölcsey és a Szent László utca kereszteződésénél forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Budapest XXI. kerületében, a Kölcsey és a Szent László utca kereszteződésénél. A fővárosi hivatásos tűzoltók áramtalanították az egyik gépkocsit. A járművek akadályozzák a forgalmat.",
+      "location": "Budapest, Kölcsey utca",
       "updates": []
     },
     {
@@ -301,9 +301,9 @@
       "title": "Ráfutásos baleset Győrben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93403",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bakonyi útra, a Lajta úti kereszteződéshez riasztották a tűzoltókat.",
+      "body": "Három autó szenvedett ráfutásos balesetet Győr Marcalváros városrészében, a 821-es út elején, a Lajta úti kereszteződésnél. Az egyik autó belehajtott a másik két járműbe. Az utasok ki tudtak szállni, a helyszínre mentőt riasztottak. A győri hivatásos tűzoltók végzik a műszaki mentést.",
+      "location": "Győr, 821",
       "updates": []
     },
     {
