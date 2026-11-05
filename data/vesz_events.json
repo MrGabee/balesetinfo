@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T16:15:24.724052+00:00",
-  "count": 2952,
+  "updated_at": "2026-11-05T16:18:46.157287+00:00",
+  "count": 2953,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93441",
+      "datetime": "2026.11.05. 17:16",
+      "title": "Autótűz Veszprémben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93441",
+      "lead": "A Táncsics Mihály utca és a Pápai út kereszteződésében csaptak fel a lángok.",
+      "body": "Kigyulladt egy személyautó motortere Veszprémben, a Táncsics Mihály utca és a Pápai út kereszteződésében. A város hivatásos tűzoltói egy vízsugárral eloltották a lángokat. A raj utómunkálatokat végez.",
+      "location": "Veszprém, Pápai út",
+      "updates": []
+    },
     {
       "id": "93440",
       "datetime": "2026.11.05. 16:29",
