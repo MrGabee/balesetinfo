@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-05T14:47:48.462820+00:00",
-  "count": 2948,
+  "updated_at": "2026-11-05T14:51:06.891804+00:00",
+  "count": 2950,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93438",
+      "datetime": "2026.11.05. 15:50",
+      "title": "Karambol Hódmezővásárhelyen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93438",
+      "lead": "Lezárták a Kalmár Zsigmond utca egy szakaszát.",
+      "body": "Összeütközött két személyautó Hódmezővásárhelyen, a Kalmár Zsigmond utcában. A város hivatásos tűzoltói áramtalanították a gépkocsikat. Egy villanyoszlop is megrongálódott a balesetben, amelynek helyszínén lezárták az utat.",
+      "location": "Hódmezővásárhely, Kalmár Zsigmond utca",
+      "updates": []
+    },
+    {
+      "id": "93437",
+      "datetime": "2026.11.05. 15:48",
+      "title": "Karambol Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93437",
+      "lead": "A Tiszavasvári úton forgalomkorlátozásra kell számítani.",
+      "body": "Két személyautó karambolozott Nyíregyházán, a Tiszavasvári út és a Bethlen Gábor utca találkozásánál. A város hivatásos tűzoltói egy embert kiemelt az egyik gépkocsiból. Az érintett útszakaszon félpályán, irányítás mellett halad a forgalom.",
+      "location": "Nyíregyháza, Tiszavasvári út",
+      "updates": []
+    },
     {
       "id": "93436",
       "datetime": "2026.11.05. 15:13",
