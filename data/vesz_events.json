@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T08:25:10.243899+00:00",
-  "count": 2935,
+  "updated_at": "2026-11-05T08:28:23.581289+00:00",
+  "count": 2936,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93424",
+      "datetime": "2026.11.05. 09:26",
+      "title": "Összeütközött két autó Budapesten, az Örs vezér terén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93424",
+      "lead": "Az Ond vezér útján forgalmi akadályra kell számítani.",
+      "body": "Két személyautó ütközött össze Budapest XIV. kerületében, az Örs vezér terén, az Ond vezér útján. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Örs vezér tere",
+      "updates": []
+    },
     {
       "id": "93423",
       "datetime": "2026.11.05. 08:49",
@@ -125,9 +136,9 @@
       "title": "Kigyulladt egy lakókocsi Tornanádaska külterületén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93414",
-      "lead": "A kőbányában álló kocsihoz szendrői és bódvaszilasi tűzoltók vonultak.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy lakókocsi Tornanádaska külterületén, a kőbányában. A helyszínre bódvaszilasi és szendrői hivatásos tűzoltók vonultak. Az egységek vízsugárral körülhatárolták, eloltották a lángokat. A lakókocsiban oltás közben egy embert találtak, a helyszínre érkeztek a társhatóságok is.",
-      "location": "Tornanádaska, külterület",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -433,9 +444,9 @@
       "title": "Oldalára borult egy autó Nyírbátor közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93386",
-      "lead": "A 4906-os úton félpályán halad a forgalom.",
-      "body": "Oldalára borult egy személygépkocsi a 4906-os úton, Nyírbátor közelében. Az autóban csak a sofőr utazott, aki ki tudott szállni. A nyírbátori hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Nyírbátor, Erdőalja tanya",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
