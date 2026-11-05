@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T19:15:16.375905+00:00",
-  "count": 2960,
+  "updated_at": "2026-11-05T19:18:27.553865+00:00",
+  "count": 2961,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93449",
+      "datetime": "2026.11.05. 20:17",
+      "title": "Embert gázolt a villamos Budapesten, az Újbuda-központnál",
+      "category": "Egyéb esemény",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93449",
+      "lead": "A Fehérvári út és a Bocskai út kereszteződésénél dolgoznak a tűzoltók.",
+      "body": "Embert gázolt a villamos Budapest XI. kerületében, Újbuda-központnál, a Fehérvári út és a Bocskai út kereszteződésénél. A fővárosi hivatásos tűzoltók feszítővágó segítségével megbontották a villamosmegálló korlátját, majd vetter párnával kiemelték a személyt a jármű alól. A helyszínre mentő is érkezett. A munkálatokat a katasztrófavédelmi műveleti szolgálat irányítja.",
+      "location": "Budapest, Fehérvári út",
+      "updates": []
+    },
     {
       "id": "93448",
       "datetime": "2026.11.05. 20:14",
