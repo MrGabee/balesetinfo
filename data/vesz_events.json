@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T11:43:41.000386+00:00",
-  "count": 2940,
+  "updated_at": "2026-11-05T11:47:38.829243+00:00",
+  "count": 2941,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93429",
+      "datetime": "2026.11.05. 12:46",
+      "title": "Egymásnak ütközött két autó Csepelen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93429",
+      "lead": "A II. Rákóczi Ferenc úton van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött két személyautó Budapest XXI. kerületében, a II. Rákóczi Ferenc úton, a Vas Gereben utca közelében. A fővárosi hivatásos tűzoltók áramtalanították az egyik járművet. A baleset helyszínén forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, II. Rákóczi Ferenc út",
+      "updates": []
+    },
     {
       "id": "93428",
       "datetime": "2026.11.05. 11:56",
