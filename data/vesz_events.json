@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T21:42:34.968457+00:00",
-  "count": 2963,
+  "updated_at": "2026-11-05T21:45:57.294767+00:00",
+  "count": 2964,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93452",
+      "datetime": "2026.11.05. 22:45",
+      "title": "Felborult egy autó a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93452",
+      "lead": "Hódmezővásárhely közelében történt a baleset.",
+      "body": "Tetejére borult egy személyautó a 47-es főúton Hódmezővásárhely közelében, a 193-as és 194-es kilométerszelvény között. A hódmezővásárhelyi hivatásos tűzoltók áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszt a helyszínelés idejére, teljes szélességében lezárták.",
+      "location": "Hódmezővásárhely, 47",
+      "updates": []
+    },
     {
       "id": "93451",
       "datetime": "2026.11.05. 22:09",
