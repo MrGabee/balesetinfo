@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-05T22:16:53.490258+00:00",
-  "count": 2965,
+  "updated_at": "2026-11-05T22:19:56.795379+00:00",
+  "count": 2967,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93455",
+      "datetime": "2026.11.05. 23:18",
+      "title": "Szalagkorlátnak ütközött egy autó az M0-áson, a Rákóczi hídnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93455",
+      "lead": "Az M7-es autópálya felé vezető oldalon dolgoznak a tűzoltók.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M0-ás autóút M7-es autópálya felé vezető oldalán, a Rákóczi hídnál, a 14-es és 15-ös kilométerszelvény között. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Budapest, M0",
+      "updates": []
+    },
+    {
+      "id": "93454",
+      "datetime": "2026.11.05. 23:17",
+      "title": "Árokba sodródott egy autó az M5-ösön, Gyálnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93454",
+      "lead": "A Szeged felé vezető oldalon van szükség műszaki mentésre.",
+      "body": "Megpördült és árokba csapódott egy személyautó az M5-ös autópálya Szeged felé vezető oldalán, Gyál közelében, a 27-es és 28-as kilométerszelvénynél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. A helyszínre mentő is érkezett.",
+      "location": "Gyál, M5",
+      "updates": []
+    },
     {
       "id": "93453",
       "datetime": "2026.11.05. 22:48",
