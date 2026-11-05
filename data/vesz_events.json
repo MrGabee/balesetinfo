@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T21:06:58.941855+00:00",
-  "count": 2962,
+  "updated_at": "2026-11-05T21:10:27.111078+00:00",
+  "count": 2963,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93451",
+      "datetime": "2026.11.05. 22:09",
+      "title": "Baleset történt az M3-ason, Szadánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93451",
+      "lead": "A Budapest felé vezető oldalon van szükség tűzoltói beavatkozásra.",
+      "body": "Szalagkorlátnak, majd azon keresztül árokba hajtott egy személyautó az M3-as autópálya Budapest felé vezető oldalán, Szada közelében, a 25-ös és 26-os kilométerszelvény között. A balesethez a gödöllői hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Szada, M3",
+      "updates": []
+    },
     {
       "id": "93450",
       "datetime": "2026.11.05. 21:43",
