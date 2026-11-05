@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T21:45:57.294767+00:00",
-  "count": 2964,
+  "updated_at": "2026-11-05T21:49:28.860045+00:00",
+  "count": 2965,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93453",
+      "datetime": "2026.11.05. 22:48",
+      "title": "Fának ütközött egy autó Őrbottyán és Csomád között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93453",
+      "lead": "A 2103-as úton dolgoznak a tűzoltók.",
+      "body": "Lesodródott az útról és fának ütközött egy személyautó Őrbottyán és Csomád között, a 2103-as út 2-es kilométerszelvényénél. A gödöllői hivatásos tűzoltók feszítővágó segítségével megbontották a gépkocsi tetejét, majd a mentőkkel együttműködve kiemeltek egy embert. A rajok áramtalanították a járművet.",
+      "location": "Őrbottyán, 2103",
+      "updates": []
+    },
     {
       "id": "93452",
       "datetime": "2026.11.05. 22:45",
