@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T20:41:50.495534+00:00",
-  "count": 2961,
+  "updated_at": "2026-11-05T20:45:28.075433+00:00",
+  "count": 2962,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93450",
+      "datetime": "2026.11.05. 21:43",
+      "title": "Frontális karambol Cegléden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93450",
+      "lead": "A Jászberényi úton forgalomkorlátozásra kell számítani.",
+      "body": "Frontálisan ütközött két személyautó Cegléden, a Jászberényi út felüljárójánál. A város hivatásos tűzoltói áramtalanították az egyik gépkocsit. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Cegléd, Jászberényi út",
+      "updates": []
+    },
     {
       "id": "93449",
       "datetime": "2026.11.05. 20:17",
