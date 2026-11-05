@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T19:04:34.425800+00:00",
-  "count": 2958,
+  "updated_at": "2026-11-05T19:08:23.459147+00:00",
+  "count": 2959,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93447",
+      "datetime": "2026.11.05. 20:08",
+      "title": "Árokba borult egy autó Nagyhalász és Tiszatelek között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93447",
+      "lead": "A 3834-es úton van szükség műszaki mentésre.",
+      "body": "Árokba sodródott és felborult egy személyautó Nagyhalász és Tiszatelek között, a 3834-es út 23-as kilométerszelvényénél. A balesethez az ibrányi önkormányzati tűzoltókat riasztották, akik áramtalanítják a járművet. A raj ezt követően megszünteti a forgalmi akadályt.",
+      "location": "Nagyhalász, 3834",
+      "updates": []
+    },
     {
       "id": "93446",
       "datetime": "2026.11.05. 20:03",
