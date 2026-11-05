@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T15:01:26.231063+00:00",
-  "count": 2950,
+  "updated_at": "2026-11-05T15:05:26.566482+00:00",
+  "count": 2951,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93439",
+      "datetime": "2026.11.05. 16:02",
+      "title": "Hétvégi ház égett Komlón",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93439",
+      "lead": "A Temető dűlőn keletkezett tűz.",
+      "body": "Kigyulladt egy hétvégi ház Komlón, a Temető dűlőn, az Ipari útnál. A mintegy tíz négyzetméter alapterületű épület alsó része égett, a tetőre nem terjedt át a tűz. A komlói és a sásdi hivatásos tűzoltók megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat. A helyszínre érkeztek a mentők is.",
+      "location": "Komló, Temető dűlő",
+      "updates": []
+    },
     {
       "id": "93438",
       "datetime": "2026.11.05. 15:50",
@@ -190,6 +201,14 @@
       "location": "Balatonederics, Dózsa utca",
       "updates": [
         {
+          "title": "A lángokat már eloltották Balatonedericsen",
+          "datetime": "2026.11.05. 02:23",
+          "category": "Tűzeset",
+          "text": "A Dózsa utcában egy pincében gyulladt meg az ott tárolt tűzifa. A badacsonytomaji és keszthelyi hivatásos tűzoltók a tüzet körülhatárolták, a lángokat megfékezték. Az egységek elkezdték kihordani a tűzifát a pincéből.",
+          "location": "Balatonederics, Dózsa utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93422/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93422"
+        },
+        {
           "title": "Már az utómunkálatok zajlanak Balatonedericsen",
           "datetime": "2026.11.05. 03:31",
           "category": "Tűzeset",
@@ -238,9 +257,9 @@
       "title": "Kigyulladt egy jánoshalmai ház",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93418",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Hosszúhegyi úton van szükség tűzoltói beavatkozásra.",
+      "body": "Tűz ütött ki egy nagyjából ötvenhat négyzetméteres épületben Jánoshalmán, a Hosszúhegyi úton. A konyhában csaptak fel a lángok, ahol berendezési tárgyak égtek. A helyszínre elsőként a helyi önkormányzati tűzoltók érkeztek meg, akik áramtalanították az épületet, megkezdték az oltást és egy gázpalackot is a szabadba vittek. Az esethez rövid időn belül megérkeztek a kiskunhalasi hivatásos tűzoltók is. Az egységek megbontják a födémet és átvizsgálják a palásteret is. A házat heten lakják, ismerősök biztosítanak számukra átmeneti szállást.",
+      "location": "Jánoshalma, Hosszúhegyi út",
       "updates": []
     },
     {
@@ -326,9 +345,9 @@
       "title": "Utoléréses baleset történt az M1-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93410",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Biatorbágy térségében, a főváros felé vezető oldal 19-20-as kilométere között három jármű hajtott egymásba.",
+      "body": "Összeütközött két személykocsi és egy kisteherautó az M1-es sztráda Budapest felé vezető oldalán, Biatorbágynál. A 19-20-as kilométer között történt utoléréses balesethez a bicskei önkormányzati tűzoltók vonultak, az egység áramtalanított. A járművekben összesen négyen ültek, a helyszínre vonultak a társhatóságok is.",
+      "location": "Biatorbágy, M1",
       "updates": []
     },
     {
