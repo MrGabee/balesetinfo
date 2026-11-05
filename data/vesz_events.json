@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T10:52:59.412814+00:00",
-  "count": 2939,
+  "updated_at": "2026-11-05T10:56:22.804531+00:00",
+  "count": 2940,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93428",
+      "datetime": "2026.11.05. 11:56",
+      "title": "Égett egy kisbusz Sárisápon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93428",
+      "lead": "A tűzoltók a Május 1. soron fékezték meg a lángokat.",
+      "body": "Kigyulladt egy kisbusz Sárisápon, a Május 1. soron. A jármű hátsó részében keletkezett tűz, amelyet eloltottak a helyi önkéntes tűzoltók. A raj megkezdte az utómunkálatokat. A helyszínre érkeztek a bajnai hivatásos tűzoltók is.",
+      "location": "Sárisáp, Május 1. sor",
+      "updates": []
+    },
     {
       "id": "93427",
       "datetime": "2026.11.05. 11:34",
