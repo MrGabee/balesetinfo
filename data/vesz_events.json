@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T14:10:26.011385+00:00",
-  "count": 2947,
+  "updated_at": "2026-11-05T14:13:52.570827+00:00",
+  "count": 2948,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93436",
+      "datetime": "2026.11.05. 15:13",
+      "title": "Tűz volt egy kispaládi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93436",
+      "lead": "A Fő utcában kellett beavatkozniuk a tűzoltóknak.",
+      "body": "Berendezési tárgyak gyulladtak meg egy körülbelül hatvan négyzetméteres lakóházban, Kispaládon, a Fő utcában. A kamrában keletkezett tűz, amelyhez a fehérgyarmati hivatásos tűzoltók vonultak ki. A rajok egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet, és megkezdték az utómunkálatokat.",
+      "location": "Kispalád, Fő utca",
+      "updates": []
+    },
     {
       "id": "93435",
       "datetime": "2026.11.05. 14:51",
