@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T16:46:26.699026+00:00",
-  "count": 2953,
+  "updated_at": "2026-11-05T16:50:00.267702+00:00",
+  "count": 2954,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93442",
+      "datetime": "2026.11.05. 17:49",
+      "title": "Tűz volt Kiskunmajsán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93442",
+      "lead": "Az Ady Endre utcában oltották el a lángokat.",
+      "body": "Tűz volt egy családi ház egyik szobájában Kiskunmajsán, az Ady Endre utcában. A kiskunhalasi, kisteleki és kiskunmajsai hivatásos tűzoltók légzésvédelem mellett eloltották a lángokat. A rajok hőkamerával átvizsgálják, és kiszellőztetik a füsttel telítődött épületet.",
+      "location": "Kiskunmajsa, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "93441",
       "datetime": "2026.11.05. 17:16",
