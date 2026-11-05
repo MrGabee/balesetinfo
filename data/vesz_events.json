@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-05T13:22:25.901405+00:00",
-  "count": 2944,
+  "updated_at": "2026-11-05T13:25:38.327785+00:00",
+  "count": 2946,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93434",
+      "datetime": "2026.11.05. 14:25",
+      "title": "Elektromos roller égett egy szegedi lakásban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93434",
+      "lead": "A Rókus körúton fojtották el a lángokat a tűzoltók.",
+      "body": "Tűz keletkezett egy lakásban, Szegeden, a Rókus körúton, az Ilona utcánál. Egy elektromos roller, és ruhanemű égett. A város hivatásos tűzoltói egy vízsugárral megakadályozták a lángok továbbterjedését, majd eloltották a tüzet. A rajok kiszellőztetik az ingatlant.",
+      "location": "Szeged, Rókusi körút",
+      "updates": []
+    },
+    {
+      "id": "93433",
+      "datetime": "2026.11.05. 14:24",
+      "title": "Melléképület égett Újhartyánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93433",
+      "lead": "A Hunyadi János utcába riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében égett egy melléképület Újhartyánban, a Hunyadi János utcában. Az épületben két gázpalack a tűzoltók kiérkezése előtt felrobbant. A dabasi hivatásos tűzoltók három vízsugárral eloltották a lángokat.",
+      "location": "Újhartyán, Hunyadi János utca",
+      "updates": []
+    },
     {
       "id": "93432",
       "datetime": "2026.11.05. 14:21",
