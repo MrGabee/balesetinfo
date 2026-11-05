@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T19:11:45.606952+00:00",
-  "count": 2959,
+  "updated_at": "2026-11-05T19:15:16.375905+00:00",
+  "count": 2960,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93448",
+      "datetime": "2026.11.05. 20:14",
+      "title": "Oldalára borult egy autó Jánoshalmán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93448",
+      "lead": "A Rákóczi Ferenc utcába riasztották a tűzoltókat.",
+      "body": "Járdára hajtott és oldalára borult egy személyautó Jánoshalmán, a Rákóczi Ferenc utcában. A Dózsa György utca és az Arany János utca közötti szakaszán történt balesethez a helyi önkormányzati tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Jánoshalma, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93447",
       "datetime": "2026.11.05. 20:08",
