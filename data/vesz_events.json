@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-05T17:20:21.819028+00:00",
-  "count": 2954,
+  "updated_at": "2026-11-05T17:23:33.730089+00:00",
+  "count": 2955,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93443",
+      "datetime": "2026.11.05. 18:21",
+      "title": "Két autó ütközött Budapest XV. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93443",
+      "lead": "A Bánkút utca és a Szerencs utca kereszteződésében történt a baleset.",
+      "body": "Összeütközött két személyautó Budapest XV. kerületében, a Bánkút utca és a Szerencs utca kereszteződésében. A baleset következtében egy villanyoszlop is kitört. A fővárosi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Szerencs utca",
+      "updates": []
+    },
     {
       "id": "93442",
       "datetime": "2026.11.05. 17:49",
