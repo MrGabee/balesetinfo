@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T15:51:35.974920+00:00",
-  "count": 2985,
+  "updated_at": "2026-11-06T15:54:59.134879+00:00",
+  "count": 2986,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93474",
+      "datetime": "2026.11.06. 16:52",
+      "title": "Kigyulladt egy autó Cegléden",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93474",
+      "lead": "A környéken parkoló járművekkel időben el tudtak állni.",
+      "body": "Kigyulladt, majd teljesen kiégett egy gépkocsi Cegléden, a Népkör utcában, egy parkolóban. A közelben álló járművekkel időben el tudtak állni. A ceglédi hivatásos tűzoltók oltották el a kocsi lángjait, jelenleg az utómunkálatokat. végzik.",
+      "location": "Cegléd, Népkör utca",
+      "updates": []
+    },
     {
       "id": "93473",
       "datetime": "2026.11.06. 16:12",
