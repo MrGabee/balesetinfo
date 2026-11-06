@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T13:00:44.080081+00:00",
-  "count": 2982,
+  "updated_at": "2026-11-06T13:03:45.688600+00:00",
+  "count": 2983,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93471",
+      "datetime": "2026.11.06. 14:01",
+      "title": "Ráfutásos baleset Veszprémben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93471",
+      "lead": "A tűzoltók a Házgyári úton áramtalanítottak egy autót.",
+      "body": "Egymásnak ütközött két személyautó Veszprémben, a Házgyári úton. Ráfutásos baleset történt, amelyhez a város hivatásos tűzoltóit riasztották. A raj áramtalanította az egyik járművet. A helyszínen vannak a mentők is.",
+      "location": "Veszprém, Házgyári út",
+      "updates": []
+    },
     {
       "id": "93470",
       "datetime": "2026.11.06. 13:29",
