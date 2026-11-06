@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T17:08:48.623192+00:00",
-  "count": 2987,
+  "updated_at": "2026-11-06T17:12:25.850506+00:00",
+  "count": 2988,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93476",
+      "datetime": "2026.11.06. 18:08",
+      "title": "Baleset történt a 4-esen, Nyíregyházánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93476",
+      "lead": "A tűzoltók mindkét járművet áramtalanították.",
+      "body": "Két gépkocsi karambolozott Nyíregyháza térségében, a 4-es főúton, az M3-as autópálya lehajtójánál. A nyíregyházi hivatásos tűzoltók áramtalanították a járműveket, amelyekben csak a vezetők utaztak. A balesethez a mentők is kiérkeztek, valamint a közútkezelő szakembereinek értesítését is kérték.",
+      "location": "Nyíregyháza, 4",
+      "updates": []
+    },
     {
       "id": "93475",
       "datetime": "2026.11.06. 17:13",
@@ -351,7 +362,16 @@
       "lead": "Foltokban ég az összetúrt hulladék.",
       "body": "Több helyen, foltokban ég az összetúrt hulladék egy volt szeméttelepen Foktő közelében. A kalocsai hivatásos tűzoltók jelenleg két vízsugárral dolgoznak a tűz elfojtásán. A helyszínen elhúzódó munkálatokra kell számítani.",
       "location": "Foktő, külterület",
-      "updates": []
+      "updates": [
+        {
+          "title": "Befejezték az utómunkálatokat Foktő közelében",
+          "datetime": "2026.11.05. 20:00",
+          "category": "Tűzeset",
+          "text": "Már befejezték az utómunkálatokat Foktő közelében, ahol több helyen, foltokban égett az összetúrt hulladék egy volt szeméttelepen. A lángokat a kalocsai hivatásos tűzoltók oltották el.",
+          "location": "Foktő, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93445/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93445"
+        }
+      ]
     },
     {
       "id": "93444",
@@ -392,9 +412,9 @@
       "title": "Autótűz Veszprémben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93441",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Táncsics Mihály utca és a Pápai út kereszteződésében csaptak fel a lángok.",
+      "body": "Kigyulladt egy személyautó motortere Veszprémben, a Táncsics Mihály utca és a Pápai út kereszteződésében. A város hivatásos tűzoltói egy vízsugárral eloltották a lángokat. A raj utómunkálatokat végez.",
+      "location": "Veszprém, Pápai út",
       "updates": []
     },
     {
