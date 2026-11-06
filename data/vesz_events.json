@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T07:54:55.208484+00:00",
-  "count": 2971,
+  "updated_at": "2026-11-06T07:58:47.450260+00:00",
+  "count": 2972,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93460",
+      "datetime": "2026.11.06. 08:56",
+      "title": "Karambol történt Petőházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93460",
+      "lead": "Egy villanyoszlop is kitört a Mező utcai baleset következtében.",
+      "body": "Összeütközött két személyautó Petőházán, a Mező utcában, a Bartók Béla utcánál. Az egyik jármű villanyoszlopnak csapódott, amely a motorháztetejére dőlt. A kapuvári hivatásos, valamint a fertőszentmiklósi és a petőházi önkéntes tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentők is kivonulnak. A rajok stabilizálták a kitört oszlopot, és áramtalanítják a gépkocsikat.",
+      "location": "Petőháza, Mező utca",
+      "updates": []
+    },
     {
       "id": "93459",
       "datetime": "2026.11.06. 08:07",
@@ -238,9 +249,9 @@
       "title": "Hétvégi ház égett Komlón",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93439",
-      "lead": "A Temető dűlőn keletkezett tűz.",
-      "body": "Kigyulladt egy hétvégi ház Komlón, a Temető dűlőn, az Ipari útnál. A mintegy tíz négyzetméter alapterületű épület alsó része égett, a tetőre nem terjedt át a tűz. A komlói és a sásdi hivatásos tűzoltók megakadályozták a tűz továbbterjedését, majd eloltották a lángokat, és megkezdték az utómunkálatokat. A helyszínre érkeztek a mentők is.",
-      "location": "Komló, Temető dűlő",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -429,14 +440,6 @@
       "body": "Kigyulladt a pincében tárolt, nagyjából tíz köbméternyi tűzifa egy balatonedericsi, Dózsa utcai háznál. A helyszínre badacsonytomaji és keszthelyi hivatásos tűzoltók vonultak. Az egységek egy sértetlen gázpalackot kivittek a házból. A pincébe azonban még nem jutottak le, akkora a hő, a tűzoltók ezért kívülről oltanak, és elhúzódó beavatkozásra számítanak. Az épületet hárman lakják, rokonok fogadják be őket.",
       "location": "Balatonederics, Dózsa utca",
       "updates": [
-        {
-          "title": "A lángokat már eloltották Balatonedericsen",
-          "datetime": "2026.11.05. 02:23",
-          "category": "Tűzeset",
-          "text": "A Dózsa utcában egy pincében gyulladt meg az ott tárolt tűzifa. A badacsonytomaji és keszthelyi hivatásos tűzoltók a tüzet körülhatárolták, a lángokat megfékezték. Az egységek elkezdték kihordani a tűzifát a pincéből.",
-          "location": "Balatonederics, Dózsa utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93422/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93422"
-        },
         {
           "title": "Már az utómunkálatok zajlanak Balatonedericsen",
           "datetime": "2026.11.05. 03:31",
