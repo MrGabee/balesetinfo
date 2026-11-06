@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T07:06:34.675769+00:00",
-  "count": 2970,
+  "updated_at": "2026-11-06T07:10:07.186520+00:00",
+  "count": 2971,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93459",
+      "datetime": "2026.11.06. 08:07",
+      "title": "Villanyoszlopnak ütközött egy autó Sümegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93459",
+      "lead": "A jármű ezt követően árokba borult.",
+      "body": "Dupla villanyoszlopnak ütközött, majd letért az úttestről, és kidöntött egy vasúti jelzőtáblát egy gépkocsi Sümegen, a Vasúti őrháznál. A jármű ezt követően tetejével az árokba borult. A sümegi önkormányzati tűzoltók és a mentők félpályás útlezárás mellett végzik a munkálatokat. Az egység az áramszolgáltató és a közútkezelő szakembereinek értesítését is kérte, mivel az ütközés erejétől kitört a villanyoszlop egyik lába.",
+      "location": "Sümeg, Vasúti őrház",
+      "updates": []
+    },
     {
       "id": "93458",
       "datetime": "2026.11.06. 07:53",
