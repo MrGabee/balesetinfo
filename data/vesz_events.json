@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T10:41:48.010225+00:00",
-  "count": 2978,
+  "updated_at": "2026-11-06T10:44:53.169219+00:00",
+  "count": 2979,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93467",
+      "datetime": "2026.11.06. 11:44",
+      "title": "Három autó karambolozott Zuglóban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93467",
+      "lead": "A Városliget szélén végeznek műszaki mentést a tűzoltók.",
+      "body": "Egymásnak ütközött három személyautó Budapest XIV. kerületében, a Városliget szélén, a Hermina út és az Ajtósi Dürer sor kereszteződésében. A fővárosi hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszon forgalmi akadályra lehet számítani.",
+      "location": "Budapest, Ajtósi Dürer sor",
+      "updates": []
+    },
     {
       "id": "93466",
       "datetime": "2026.11.06. 11:21",
