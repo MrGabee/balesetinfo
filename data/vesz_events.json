@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:22:19.568782+00:00",
+  "updated_at": "2026-11-06T20:25:39.085267+00:00",
   "count": 2997,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A tűzoltók három vízsugárral oltják a lángokat.",
       "body": "Egy lakóház ég teljes terjedelmében Teklafalun, a Fő utcában. A sellyei és a szigetvári hivatásos tűzoltók érkeztek a helyszínre, három vízsugárral oltják a füsttel telítődött épület lángjait. A helyszínre tartanak a barcsi hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is.",
       "location": "Teklafalu, Fő utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a teklafalui lakóház lángjait",
+          "datetime": "2026.11.06. 21:21",
+          "category": "Tűzeset",
+          "text": "A sellyei és a szigetvári hivatásos tűzoltók három vízsugárral megfékezték a lángokat Teklafalun, ahol egy kilencven négyzetméteres lakóház gyulladt ki a Fő utcában. Az épületben egy helyiség teljesen kiégett, további kettő károsodott. A ház két lakója lakosságvédelmi intézkedés keretein belül hozzátartozóknál kap elszállásolást. A helyszínre a barcsi hivatásos tűzoltók, valamint a katasztrófavédelmi műveleti szolgálat is riasztást kapott, munkájukra azonban nem volt szükség.",
+          "location": "Teklafalu, Fő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93484/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93484"
+        }
+      ]
     },
     {
       "id": "93483",
