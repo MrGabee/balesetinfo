@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T20:39:25.114104+00:00",
-  "count": 2998,
+  "updated_at": "2026-11-06T20:43:02.086663+00:00",
+  "count": 2999,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93487",
+      "datetime": "2026.11.06. 21:42",
+      "title": "Két autó karambolozott Gyálon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93487",
+      "lead": "A járművek forgalmi akadályt okoznak a Széchenyi utca érintett szakaszán.",
+      "body": "Két gépkocsi ütközött össze Gyálon, a Széchenyi utcában, a Táncsics Mihály utcánál. A fővárosi hivatásos tűzoltók áramtalanítják a forgalmi akadályt okozó járműveket. Az egység és a társhatóságok teljes útlezárás mellett végzik a helyszíni munkálatokat.",
+      "location": "Gyál, Széchenyi utca",
+      "updates": []
+    },
     {
       "id": "93486",
       "datetime": "2026.11.06. 21:34",
