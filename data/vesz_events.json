@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:05:05.161755+00:00",
+  "updated_at": "2026-11-06T17:08:48.623192+00:00",
   "count": 2987,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -117,9 +117,9 @@
       "title": "Autóbusszal ütközött össze egy személyautó Siófokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93466",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a kisebb járművet.",
+      "body": "Egy üresjáratban közlekedő, helyi járatú autóbusz és egy személyautó ütközött össze Siófokon, a Somlay Artúr utca és a Wesselényi utca kereszteződésében. A buszon csak a vezetője tartózkodott, míg az autóban ketten utaztak. A siófoki hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, az egység áramtalanította a személyautót. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Siófok, Wesselényi utca",
       "updates": []
     },
     {
@@ -351,16 +351,7 @@
       "lead": "Foltokban ég az összetúrt hulladék.",
       "body": "Több helyen, foltokban ég az összetúrt hulladék egy volt szeméttelepen Foktő közelében. A kalocsai hivatásos tűzoltók jelenleg két vízsugárral dolgoznak a tűz elfojtásán. A helyszínen elhúzódó munkálatokra kell számítani.",
       "location": "Foktő, külterület",
-      "updates": [
-        {
-          "title": "Befejezték az utómunkálatokat Foktő közelében",
-          "datetime": "2026.11.05. 20:00",
-          "category": "Tűzeset",
-          "text": "Már befejezték az utómunkálatokat Foktő közelében, ahol több helyen, foltokban égett az összetúrt hulladék egy volt szeméttelepen. A lángokat a kalocsai hivatásos tűzoltók oltották el.",
-          "location": "Foktő, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93445/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93445"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93444",
@@ -401,9 +392,9 @@
       "title": "Autótűz Veszprémben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93441",
-      "lead": "A Táncsics Mihály utca és a Pápai út kereszteződésében csaptak fel a lángok.",
-      "body": "Kigyulladt egy személyautó motortere Veszprémben, a Táncsics Mihály utca és a Pápai út kereszteződésében. A város hivatásos tűzoltói egy vízsugárral eloltották a lángokat. A raj utómunkálatokat végez.",
-      "location": "Veszprém, Pápai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
