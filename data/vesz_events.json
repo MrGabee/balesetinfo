@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T17:16:04.531153+00:00",
-  "count": 2988,
+  "updated_at": "2026-11-06T17:19:23.091821+00:00",
+  "count": 2989,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93477",
+      "datetime": "2026.11.06. 18:16",
+      "title": "Motoros és személyautó karambolozott a 6-oson, Pécsnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93477",
+      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Motorkerékpárossal karambolozott egy személyautó a 6-os főút 186-os és 187-es kilométerszelvénye között, Pécs térségében. A pécsi hivatásos tűzoltók és a társhatóságok már a helyszínen dolgoznak, a közútkezelő szakembereit is az esethez várják. A baleset miatt félpályán lezárták az érintett útszakaszt.",
+      "location": "Pécs, 6",
+      "updates": []
+    },
     {
       "id": "93476",
       "datetime": "2026.11.06. 18:08",
