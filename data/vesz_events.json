@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T19:44:55.955567+00:00",
-  "count": 2996,
+  "updated_at": "2026-11-06T19:48:13.712211+00:00",
+  "count": 2997,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93485",
+      "datetime": "2026.11.06. 20:45",
+      "title": "Vadat gázolt egy autó a 84-esen, Nagycenknél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93485",
+      "lead": "A jármű ezt követően az árokba borult.",
+      "body": "Vadat gázolt el, majd árokba borult egy gépkocsi a 84-es főút 110-es kilométerszelvényénél, Nagycenk térségében. A sopronkövesdi és a nagycenki önkéntes tűzoltók érkeztek a balesethez, áramtalanították a járművet, amelyben ketten utaztak. A baleset miatt félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Nagycenk, 84",
+      "updates": []
+    },
     {
       "id": "93484",
       "datetime": "2026.11.06. 20:40",
