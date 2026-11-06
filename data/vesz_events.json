@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T08:54:10.286149+00:00",
-  "count": 2973,
+  "updated_at": "2026-11-06T08:57:09.572724+00:00",
+  "count": 2974,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93462",
+      "datetime": "2026.11.06. 09:55",
+      "title": "Teherautóval karambolozott egy személyautó Siófokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93462",
+      "lead": "Irányítás mellett halad a forgalom az érintett kereszteződésben.",
+      "body": "Egy teherautó és egy személyautó ütközött össze Siófokon, a Mártírok útja és az Indóház utca kereszteződésében. A siófoki hivatásos tűzoltók érkeztek a műszaki mentési munkálatokhoz. A baleset miatt irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Siófok, Mártírok útja",
+      "updates": []
+    },
     {
       "id": "93461",
       "datetime": "2026.11.06. 09:37",
