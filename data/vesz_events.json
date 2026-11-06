@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T16:12:46.394534+00:00",
-  "count": 2986,
+  "updated_at": "2026-11-06T16:16:06.525682+00:00",
+  "count": 2987,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93475",
+      "datetime": "2026.11.06. 17:13",
+      "title": "Karambolozott két autó Dunaharasztin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93475",
+      "lead": "Félpályán lezárták a Dózsa György út érintett szakaszát.",
+      "body": "Összeütközött két gépkocsi Dunaharasztin, a Dózsa György úton, a Klapka György utca és a Móra Ferenc utca közötti szakaszon. Összesen hárman utaztak a járművekben, amelyeket a város önkéntes tűzoltói áramtalanítottak. A balesethez a szigetszentmiklósi hivatásos tűzoltók és a társhatóságok is kiérkeztek, félpályás útlezárás mellett végzik a munkálatokat.",
+      "location": "Dunaharaszti, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "93474",
       "datetime": "2026.11.06. 16:52",
