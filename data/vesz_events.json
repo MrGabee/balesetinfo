@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T08:36:58.880853+00:00",
-  "count": 2972,
+  "updated_at": "2026-11-06T08:40:05.244949+00:00",
+  "count": 2973,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93461",
+      "datetime": "2026.11.06. 09:37",
+      "title": "Összeütközött két autó Miskolcon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93461",
+      "lead": "A Kabar és a Kórház utca kereszteződéséhez vonultak a tűzoltók.",
+      "body": "Karambolozott két személyautó Miskolcon, a Kabar és a Kórház utca kereszteződésében. A város hivatásos tűzoltói áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály lehet.",
+      "location": "Miskolc, Kabar utca",
+      "updates": []
+    },
     {
       "id": "93460",
       "datetime": "2026.11.06. 08:56",
