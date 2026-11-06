@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T18:30:39.920711+00:00",
-  "count": 2992,
+  "updated_at": "2026-11-06T18:34:06.518535+00:00",
+  "count": 2993,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93481",
+      "datetime": "2026.11.06. 19:31",
+      "title": "Lakóépület égett a XI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93481",
+      "lead": "A tűzoltók két vízsugárral oltották el a lángokat.",
+      "body": "Egy harminc négyzetméteres, vegyes szerkezetű lakóépület égett a XI. kerületi Kőérberki dűlőn. A fővárosi hivatásos tűzoltók két vízsugárral oltották el a lángokat, jelenleg az utómunkálatokat végzik. Az egységek az áramszolgáltató szakembereit kérték a helyszínre.",
+      "location": "Budapest, Kőérberki dűlő",
+      "updates": []
+    },
     {
       "id": "93480",
       "datetime": "2026.11.06. 19:24",
