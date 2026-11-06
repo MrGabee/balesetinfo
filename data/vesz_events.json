@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T09:52:33.963473+00:00",
-  "count": 2975,
+  "updated_at": "2026-11-06T09:56:22.818104+00:00",
+  "count": 2976,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93464",
+      "datetime": "2026.11.06. 10:53",
+      "title": "Baleset történt a 37-esen, Tolcsvánál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93464",
+      "lead": "A tűzoltók feszítővágóval szabadítanak ki egy utast.",
+      "body": "Két gépkocsi karambolozott a 37-es főút 53-as kilométerszelvényénél, Tolcsva térségében. Az ütközés erejétől az egyik jármű az árokba hajtott, egy utas beszorult. A tolcsvai hivatásos tűzoltók feszítővágó segítségével, a mentőkkel együttműködve emelik ki az autóba szorult embert. A beavatkozás idejére lezárták az érintett útszakaszt.",
+      "location": "Tolcsva, 37",
+      "updates": []
+    },
     {
       "id": "93463",
       "datetime": "2026.11.06. 10:16",
@@ -141,9 +152,9 @@
       "title": "Baleset történt az M3-ason, Szadánál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93451",
-      "lead": "A Budapest felé vezető oldalon van szükség tűzoltói beavatkozásra.",
-      "body": "Szalagkorlátnak, majd azon keresztül árokba hajtott egy személyautó az M3-as autópálya Budapest felé vezető oldalán, Szada közelében, a 25-ös és 26-os kilométerszelvény között. A balesethez a gödöllői hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
-      "location": "Szada, M3",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,9 +403,9 @@
       "title": "Egymásnak ütközött két autó Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93429",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A II. Rákóczi Ferenc úton van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött két személyautó Budapest XXI. kerületében, a II. Rákóczi Ferenc úton, a Vas Gereben utca közelében. A fővárosi hivatásos tűzoltók áramtalanították az egyik járművet. A baleset helyszínén forgalomkorlátozásra lehet számítani.",
+      "location": "Budapest, II. Rákóczi Ferenc út",
       "updates": []
     },
     {
