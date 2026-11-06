@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T06:53:08.120417+00:00",
-  "count": 2969,
+  "updated_at": "2026-11-06T06:56:22.020546+00:00",
+  "count": 2970,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93458",
+      "datetime": "2026.11.06. 07:53",
+      "title": "Négyes karambol Budapest XV. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93458",
+      "lead": "A Szentmihályi úton forgalmi akadályra kell számítani.",
+      "body": "Négy személyautó ütközött össze Budapest XV. kerületében, a Szentmihályi úton. Az utoléréses baleset a Nyírpalotai út és az Erdőkerülő utca közötti szakaszon történt. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Szentmihályi út",
+      "updates": []
+    },
     {
       "id": "93457",
       "datetime": "2026.11.06. 06:52",
@@ -183,9 +194,9 @@
       "title": "Tűz volt Kiskunmajsán",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93442",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az Ady Endre utcában oltották el a lángokat.",
+      "body": "Tűz volt egy családi ház egyik szobájában Kiskunmajsán, az Ady Endre utcában. A kiskunhalasi, kisteleki és kiskunmajsai hivatásos tűzoltók légzésvédelem mellett eloltották a lángokat. A rajok hőkamerával átvizsgálják, és kiszellőztetik a füsttel telítődött épületet.",
+      "location": "Kiskunmajsa, Ady Endre utca",
       "updates": []
     },
     {
