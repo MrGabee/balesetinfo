@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T23:02:21.863949+00:00",
-  "count": 3000,
+  "updated_at": "2026-11-06T23:05:40.796411+00:00",
+  "count": 3001,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93489",
+      "datetime": "2026.11.07. 00:04",
+      "title": "Lakatlan épület égett Tompán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93489",
+      "lead": "Három vízsugárral dolgoztak a tűzoltók a lángok megfékezésén.",
+      "body": "Egy hetven négyzetméteres, lakatlan épület tetőszerkezete és egyik helyisége égett ki teljesen Tompán, a Május 1. utcában. Az égő helyiségben szemetet és ruhát hordtak össze nagy mennyiségben. A kiskunhalasi hivatásos tűzoltók három vízsugárral oltották el a lángokat, valamint ventilátorral távolították el a füstöt.",
+      "location": "Tompa, Május 1. utca",
+      "updates": []
+    },
     {
       "id": "93488",
       "datetime": "2026.11.06. 22:47",
