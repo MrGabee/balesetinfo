@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T18:23:49.854957+00:00",
-  "count": 2991,
+  "updated_at": "2026-11-06T18:27:27.941411+00:00",
+  "count": 2992,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93480",
+      "datetime": "2026.11.06. 19:24",
+      "title": "Karambol történt a XV. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93480",
+      "lead": "Forgalmi akadály van a Szentmihályi út érintett szakaszán.",
+      "body": "Összeütközött két gépkocsi a XV. kerületi Szentmihályi úton, a Vécsey Károly utca és a Fazekas sor közötti szakaszon. A fővárosi hivatásos tűzoltók áramtalanítják a karambolos járműveket. A baleset miatt forgalmi akadályra kell számítani az érintett útszakaszon.",
+      "location": "Budapest, Szentmihályi út",
+      "updates": []
+    },
     {
       "id": "93479",
       "datetime": "2026.11.06. 19:19",
