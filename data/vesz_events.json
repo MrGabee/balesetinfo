@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:01:58.813066+00:00",
+  "updated_at": "2026-11-06T16:05:36.013441+00:00",
   "count": 2986,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A tűzoltók öt vízsugárral oltják a lángokat.",
       "body": "Egy családi ház tetőszerkezete ég teljes terjedelmében Akasztón, a Nyúl utcában. A tűz a ház melléképületét is elérte. A kiskőrösi és a solti hivatásos, valamint az akasztói önkéntes tűzoltók érkeztek a helyszínre, öt vízsugárral oltják a lángokat, amelyek továbbterjedését már megakadályozták. Az esethez elindult még a kiskunhalasi hivatásos tűzoltók vízszállítója.",
       "location": "Akasztó, Nyúl utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tűzoltók a lángokat Akasztón",
+          "datetime": "2026.11.06. 16:57",
+          "category": "Tűzeset",
+          "text": "A kiskőrösi és a solti hivatásos, valamint az akasztói önkéntes tűzoltók öt vízsugárral megfékezték a lángokat Akasztón, ahol egy száz négyzetméteres családi ház tetőszerkezete égett teljes terjedelmében a Nyúl utcában. A tűz a ház negyven négyzetméteres melléképületét is elérte, a lángok miatt mindkét épület födémje beszakadt. A ház lakhatatlanná vált, a négy lakó hozzátartozóknál kap szállást. Az egységek jelenleg az utómunkálatokat végzik.",
+          "location": "Akasztó, Nyúl utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93473/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93473"
+        }
+      ]
     },
     {
       "id": "93472",
