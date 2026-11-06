@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T14:31:48.997278+00:00",
-  "count": 2983,
+  "updated_at": "2026-11-06T14:34:51.623722+00:00",
+  "count": 2984,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93472",
+      "datetime": "2026.11.06. 15:33",
+      "title": "Motorossal ütközött össze egy személyautó Soroksáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93472",
+      "lead": "Lezárták a Köves út érintett szakaszát a hatósági beavatkozás idejére.",
+      "body": "Egy motorkerékpárossal ütközött össze egy személyautó a XXIII. kerületi Köves úton, az Albert Gyula utcánál. A fővárosi hivatásos tűzoltók és a mentők már a helyszínen tartózkodnak. A baleset miatt lezárták az érintett útszakaszt. A korlátozás a közösségi közlekedési járművek haladását is érinti, ezért az egység a közlekedési társaság szakembereinek értesítését is kérte.",
+      "location": "Budapest, Köves út",
+      "updates": []
+    },
     {
       "id": "93471",
       "datetime": "2026.11.06. 14:01",
