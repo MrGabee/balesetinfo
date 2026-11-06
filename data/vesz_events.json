@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T12:08:53.102453+00:00",
-  "count": 2980,
+  "updated_at": "2026-11-06T12:12:08.763417+00:00",
+  "count": 2981,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93469",
+      "datetime": "2026.11.06. 13:11",
+      "title": "Karambol történt a XIV. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93469",
+      "lead": "A Szugló utcában forgalmi akadály van.",
+      "body": "Karambolozott egy kisbusz és egy személyautó Budapest XIV. kerületében,a Szugló utcában, a Lőcsei út közelében. A balesethez a fővárosi hivatásos tűzoltók vonultak ki. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Szugló utca",
+      "updates": []
+    },
     {
       "id": "93468",
       "datetime": "2026.11.06. 12:03",
@@ -119,9 +130,9 @@
       "title": "Négyes karambol Budapest XV. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93458",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Szentmihályi úton forgalmi akadályra kell számítani.",
+      "body": "Négy személyautó ütközött össze Budapest XV. kerületében, a Szentmihályi úton. Az utoléréses baleset a Nyírpalotai út és az Erdőkerülő utca közötti szakaszon történt. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Szentmihályi út",
       "updates": []
     },
     {
@@ -425,9 +436,9 @@
       "title": "Kamion és kisbusz karambolozott az M1-esen, Bicskénél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93431",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalt lezárták.",
+      "body": "Kamion és kisbusz ütközött össze az M1-es autópálya Budapest felé vezető oldalán, Bicske közelében, a 33-as kilométerszelvénynél. Az utoléréses balesethez a bicskei önkormányzati tűzoltókat riasztották, akik feszítővágó segítségével egy embert kiemeltek a furgonból. A helyszínre mentőhelikopter is érkezett. Az érintett sztrádaszakaszt teljes szélességében lezárták.",
+      "location": "Bicske, M1",
       "updates": []
     },
     {
