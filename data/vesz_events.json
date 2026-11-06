@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-06T10:21:05.176463+00:00",
-  "count": 2976,
+  "updated_at": "2026-11-06T10:24:27.524337+00:00",
+  "count": 2978,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93466",
+      "datetime": "2026.11.06. 11:21",
+      "title": "Autóbusszal ütközött össze egy személyautó Siófokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93466",
+      "lead": "A tűzoltók áramtalanították a kisebb járművet.",
+      "body": "Egy üresjáratban közlekedő, helyi járatú autóbusz és egy személyautó ütközött össze Siófokon, a Somlay Artúr utca és a Wesselényi utca kereszteződésében. A buszon csak a vezetője tartózkodott, míg az autóban ketten utaztak. A siófoki hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre, az egység áramtalanította a személyautót. A baleset miatt félpályán, irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Siófok, Wesselényi utca",
+      "updates": []
+    },
+    {
+      "id": "93465",
+      "datetime": "2026.11.06. 11:21",
+      "title": "Kigyulladt egy ház egyik szobája Tuzséron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93465",
+      "lead": "A tűzoltók már az utómunkálatokat végzik a Nyírfás úti ingatlanban.",
+      "body": "Tűz keletkezett egy lakóházban, Tuzséron, a Nyárfás úton. Berendezési tárgyak égtek az egyik szobában. A kisvárdai és a záhonyi hivatásos tűzoltók egy vízsugárral eloltották a még izzó, parázsló tüzet, amely minimálisan a szomszédos konyhára is átterjedt. A rajok átvizsgálták az épület padlásterét, majd megkezdték az utómunkálatokat. Mentőhelikopter is érkezett a tűzeset helyszínére.",
+      "location": "Tuzsér, Nyárfás út",
+      "updates": []
+    },
     {
       "id": "93464",
       "datetime": "2026.11.06. 10:53",
@@ -86,9 +108,9 @@
       "title": "Utoléréses baleset az M3-ason, Gyöngyöshalásznál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93457",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Nyíregyháza felé vezető oldalon ütközött egy autó és egy kamion.",
+      "body": "Kamion és személyautó ütközött össze az M3-as autópálya Nyíregyháza felé vezető oldalán, Gyöngyöshalász közelében, a 77-es és 78-as kilométerszelvény között. Az utoléréses balesethez a gyöngyösi hivatásos tűzoltókat riasztották, akik áramtalanították a személygépkocsit. Az érintett sztrádaszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Gyöngyöshalász, M3",
       "updates": []
     },
     {
@@ -97,9 +119,9 @@
       "title": "Árokba hajtott egy autó a 61-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93456",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Tolnanémedi és Pincehely között félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személyautó a 61-es főút Tolnanémedi és Pincehely közötti szakaszán, a 40-es kilométerszelvénynél. A balesethez a simontornyai önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tolnanémedi, 61",
       "updates": []
     },
     {
