@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T05:47:17.040832+00:00",
-  "count": 2967,
+  "updated_at": "2026-11-06T05:49:48.410579+00:00",
+  "count": 2968,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93456",
+      "datetime": "2026.11.06. 06:48",
+      "title": "Árokba hajtott egy autó a 61-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93456",
+      "lead": "Tolnanémedi és Pincehely között félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személyautó a 61-es főút Tolnanémedi és Pincehely közötti szakaszán, a 40-es kilométerszelvénynél. A balesethez a simontornyai önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Tolnanémedi, 61",
+      "updates": []
+    },
     {
       "id": "93455",
       "datetime": "2026.11.05. 23:18",
