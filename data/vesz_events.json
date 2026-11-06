@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T20:32:42.741689+00:00",
-  "count": 2997,
+  "updated_at": "2026-11-06T20:35:55.487508+00:00",
+  "count": 2998,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93486",
+      "datetime": "2026.11.06. 21:34",
+      "title": "Árokba hajtott egy autó Tarnaszentmiklós és Kömlő között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93486",
+      "lead": "A jármű egy fának is nekicsapódott.",
+      "body": "Árokba hajtott, majd fának csapódott egy gépkocsi Tarnaszentmiklós és Kömlő között, a 3209-es út 11-es kilométerszelvényénél. A hevesi hivatásos tűzoltók áramtalanították a járművet, amelyben öten utaztak. A balesethez az egység mellett a társhatóságok is kiérkeztek.",
+      "location": "Tarnaszentmiklós, 3209",
+      "updates": []
+    },
     {
       "id": "93485",
       "datetime": "2026.11.06. 20:45",
