@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-06T17:53:28.015309+00:00",
-  "count": 2989,
+  "updated_at": "2026-11-06T17:56:58.871992+00:00",
+  "count": 2990,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93478",
+      "datetime": "2026.11.06. 18:54",
+      "title": "Árokba hajtott egy autó Kondoros és Nagyszénás között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93478",
+      "lead": "A jármű áramtalanítására volt szükség.",
+      "body": "Árokba hajtott egy gépkocsi Kondoros és Nagyszénás között, a 4642-es út 28-as kilométerszelvényénél. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. Az orosházi hivatásos tűzoltók érkeztek a helyszínre, áramtalanították a bajba került autót.",
+      "location": "Nagyszénás, 4642",
+      "updates": []
+    },
     {
       "id": "93477",
       "datetime": "2026.11.06. 18:16",
