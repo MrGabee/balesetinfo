@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T14:36:14.478732+00:00",
-  "count": 3013,
+  "updated_at": "2026-11-07T14:39:40.888413+00:00",
+  "count": 3014,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93502",
+      "datetime": "2026.11.07. 15:37",
+      "title": "Melléképület égett Salgótarjánban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93502",
+      "lead": "A Füleki úthoz riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy fa melléképület Salgótarjánban, a Füleki úton. A helyi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat kezdik meg.",
+      "location": "Salgótarján, Füleki út",
+      "updates": []
+    },
     {
       "id": "93501",
       "datetime": "2026.11.07. 15:22",
