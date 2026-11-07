@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T13:45:18.829141+00:00",
-  "count": 3011,
+  "updated_at": "2026-11-07T13:48:28.926531+00:00",
+  "count": 3012,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93500",
+      "datetime": "2026.11.07. 14:46",
+      "title": "Baleset a 68-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93500",
+      "lead": "Balatonújlak közelében teljes szélességében lezárták az utat.",
+      "body": "Egymásnak ütközött egy furgon és egy személygépkocsi a 68-as főúton, Balatonújlak közelében, a 95-ös kilométerszelvénynél. A baleset következtében az egyik jármű az árokba sodródott és oldalára borult. A marcali hivatásos tűzoltók egy utast kiszabadítottak feszítővágó segítségével és áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Balatonújlak, Új-hegy dűlő",
+      "updates": []
+    },
     {
       "id": "93499",
       "datetime": "2026.11.07. 14:42",
