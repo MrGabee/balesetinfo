@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T15:41:17.305937+00:00",
-  "count": 3017,
+  "updated_at": "2026-11-07T15:44:50.059612+00:00",
+  "count": 3018,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93506",
+      "datetime": "2026.11.07. 16:41",
+      "title": "Garázs égett Siófokon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93506",
+      "lead": "Az Aradi vértanúk útján dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy garázsban Siófokon, az Aradi vértanúk útján. A helyiségben bútorok égtek. A siófoki hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A raj az utómunkálatokat végzi.",
+      "location": "Siófok, Aradi vértanúk útja",
+      "updates": []
+    },
     {
       "id": "93505",
       "datetime": "2026.11.07. 16:17",
