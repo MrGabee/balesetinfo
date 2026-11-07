@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T15:16:28.980326+00:00",
-  "count": 3016,
+  "updated_at": "2026-11-07T15:20:01.735115+00:00",
+  "count": 3017,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93505",
+      "datetime": "2026.11.07. 16:17",
+      "title": "Baleset történt az M60-on",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93505",
+      "lead": "Versend és Belvárdgyula közötti szakaszon teljes szélességében lezárták az utat.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi az M60-as autópályán, a Pécs felé vezető oldalon, Versend és Belvárdgyula közötti szakaszon, a 10-es kilométerszelvénynél. A Baranya megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a mohácsi hivatásos tűzoltók feszítővágó segítségével egy embert kiemeltek. A helyszínre mentőhelikopter is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szederkény, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93504",
       "datetime": "2026.11.07. 15:51",
