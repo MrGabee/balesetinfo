@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T16:44:34.333600+00:00",
-  "count": 3018,
+  "updated_at": "2026-11-07T16:48:04.139639+00:00",
+  "count": 3019,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93507",
+      "datetime": "2026.11.07. 17:44",
+      "title": "Karambol Veresegyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93507",
+      "lead": "Az Andrássy út és a Fő út kereszteződésében forgalmi akadály van.",
+      "body": "Összeütközött három személygépkocsi Veresegyházán, az Andrássy út és a Fő út kereszteződésében. A gödöllői hivatásos és a veresegyházi önkéntes tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Veresegyház, Mogyoródi utca",
+      "updates": []
+    },
     {
       "id": "93506",
       "datetime": "2026.11.07. 16:41",
