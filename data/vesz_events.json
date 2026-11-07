@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T12:30:10.714030+00:00",
-  "count": 3009,
+  "updated_at": "2026-11-07T12:33:47.958091+00:00",
+  "count": 3010,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93498",
+      "datetime": "2026.11.07. 13:30",
+      "title": "Felborult egy autó Kisfái közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93498",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Felborult egy személygépkocsi a vasúti sín mellett Kecskemét közelében, Kisfái felé. A kecskeméti hivatásos tűzoltók áramtalanították a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kecskemét, Kisfái tanya",
+      "updates": []
+    },
     {
       "id": "93497",
       "datetime": "2026.11.07. 12:54",
