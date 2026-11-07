@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T14:49:40.379020+00:00",
-  "count": 3015,
+  "updated_at": "2026-11-07T14:53:21.360894+00:00",
+  "count": 3016,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93504",
+      "datetime": "2026.11.07. 15:51",
+      "title": "Családi ház szobája égett Csengeren",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93504",
+      "lead": "A Tisza utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt egy családi ház egyik szobája Csengerújfalun, a Tisza utcában. A csengeri önkormányzati tűzoltók egy vízsugárral eloltották a lángokat. A raj az utómunkálatokat végzi és átszellőzteti az épületet.",
+      "location": "Csengerújfalu, Tisza utca",
+      "updates": []
+    },
     {
       "id": "93503",
       "datetime": "2026.11.07. 15:46",
