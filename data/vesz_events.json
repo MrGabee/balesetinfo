@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T17:14:45.811458+00:00",
-  "count": 3019,
+  "updated_at": "2026-11-07T17:18:09.553742+00:00",
+  "count": 3020,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93508",
+      "datetime": "2026.11.07. 18:17",
+      "title": "Garázs égett Szentesen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93508",
+      "lead": "A Nagypatéi úton dolgoznak a tűzoltók.",
+      "body": "Tűz keletkezett egy garázsban Szentesen, a Nagypatéi úton. A helyiségben kisgépek és szerszámok égtek.  A szentesi és csongrádi hivatásos tűzoltók két vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Szentes, Nagypatéi út",
+      "updates": []
+    },
     {
       "id": "93507",
       "datetime": "2026.11.07. 17:44",
