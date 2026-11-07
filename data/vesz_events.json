@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T22:14:39.716961+00:00",
-  "count": 3025,
+  "updated_at": "2026-11-07T22:17:54.687890+00:00",
+  "count": 3026,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93514",
+      "datetime": "2026.11.07. 23:15",
+      "title": "Melléképület égett Kenderesen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93514",
+      "lead": "A Damjanich útra riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében égett egy melléképület Kenderesen, a Damjanich úton. A tűz átterjedt a főépület tetőszerkezetére is. A karcagi hivatásos és a kisújszállási önkormányzati tűzoltók egy vízsugárral elfojtották a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Kenderes, Damjanich út",
+      "updates": []
+    },
     {
       "id": "93513",
       "datetime": "2026.11.07. 22:44",
