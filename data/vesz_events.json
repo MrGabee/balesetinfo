@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T13:41:44.744179+00:00",
-  "count": 3010,
+  "updated_at": "2026-11-07T13:45:18.829141+00:00",
+  "count": 3011,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93499",
+      "datetime": "2026.11.07. 14:42",
+      "title": "Karambol Budapest XI. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93499",
+      "lead": "Az Edömér utcában dolgoznak a tűzoltók.",
+      "body": "Összeütközött két személygépkocsi Budapest XI. kerületében, az Edömér utcában. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Budapest, Edömér utca",
+      "updates": []
+    },
     {
       "id": "93498",
       "datetime": "2026.11.07. 13:30",
