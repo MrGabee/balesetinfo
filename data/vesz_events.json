@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T10:40:57.848570+00:00",
-  "count": 3006,
+  "updated_at": "2026-11-07T10:44:02.475885+00:00",
+  "count": 3007,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93495",
+      "datetime": "2026.11.07. 11:43",
+      "title": "Karambol Nyíregyháza közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93495",
+      "lead": "A Hadobás soron dolgoznak a tűzoltók.",
+      "body": "Egymásnak ütközött két személygépkocsi Nyíregyháza közelében, a Hadobás soron. A nyíregyházi hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíregyháza, Hadobás sor",
+      "updates": []
+    },
     {
       "id": "93494",
       "datetime": "2026.11.07. 11:36",
