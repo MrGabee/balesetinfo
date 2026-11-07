@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T08:37:20.875221+00:00",
-  "count": 3002,
+  "updated_at": "2026-11-07T08:40:42.912087+00:00",
+  "count": 3003,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93491",
+      "datetime": "2026.11.07. 09:40",
+      "title": "Kazánház égett Istenmezején",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93491",
+      "lead": "A Béke útra riasztották a tűzoltókat.",
+      "body": "Teljes terjedelmében égett egy kazánház Istenmezején, a Béke úton. A pétervásárai hivatásos tűzoltók egy vízsugárral elfojtották a lángokat. A raj az utómunkálatokat kezdik meg.",
+      "location": "Istenmezeje, Béke út",
+      "updates": []
+    },
     {
       "id": "93490",
       "datetime": "2026.11.07. 09:17",
