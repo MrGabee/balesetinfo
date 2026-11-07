@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T09:44:28.244943+00:00",
-  "count": 3004,
+  "updated_at": "2026-11-07T09:48:00.967471+00:00",
+  "count": 3005,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93493",
+      "datetime": "2026.11.07. 10:46",
+      "title": "Baleset történt Gödöllőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93493",
+      "lead": "A Dózsa György úton dolgoznak a tűzoltók.",
+      "body": "Utoléréses balesetet szenvedett két személygépkocsi Gödöllőn, a Dózsa György úton. Az autókban összesen öten utaztak. A gödöllői hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Gödöllő, Dózsa György út",
+      "updates": []
+    },
     {
       "id": "93492",
       "datetime": "2026.11.07. 10:25",
