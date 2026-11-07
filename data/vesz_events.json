@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T17:59:22.397297+00:00",
-  "count": 3021,
+  "updated_at": "2026-11-07T18:02:53.675662+00:00",
+  "count": 3022,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93510",
+      "datetime": "2026.11.07. 18:59",
+      "title": "Baleset a 2-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93510",
+      "lead": "Tolmács közelében forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személygépkocsi a 2-es főúton, Tolmács közelében, a Diósjenő felé vezető út kereszteződésénél. Az autókban csak a sofőrök utaztak. A rétsági hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Rétság, Ipari park",
+      "updates": []
+    },
     {
       "id": "93509",
       "datetime": "2026.11.07. 18:21",
