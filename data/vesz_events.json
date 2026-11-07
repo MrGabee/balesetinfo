@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T14:46:27.405998+00:00",
-  "count": 3014,
+  "updated_at": "2026-11-07T14:49:40.379020+00:00",
+  "count": 3015,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93503",
+      "datetime": "2026.11.07. 15:46",
+      "title": "Karambol Budakeszin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93503",
+      "lead": "A Fő utcát teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Budakeszin, a Fő utcán. Az autókban csak a sofőrök utaztak. A fővárosi hivatásos és a budakeszi önkéntes tűzoltók áramtalanítják a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budakeszi, Fő utca",
+      "updates": []
+    },
     {
       "id": "93502",
       "datetime": "2026.11.07. 15:37",
