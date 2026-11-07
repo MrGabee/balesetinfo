@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T18:09:07.940044+00:00",
-  "count": 3022,
+  "updated_at": "2026-11-07T18:12:23.210748+00:00",
+  "count": 3023,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93511",
+      "datetime": "2026.11.07. 19:09",
+      "title": "Kisbusz és autó ütközött Péterin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93511",
+      "lead": "A Petőfi Sándor utcában forgalmi akadály van.",
+      "body": "Összeütközött egy kisbusz és egy személygépkocsi Péterin, a Petőfi Sándor utcában. A gépkocsikban összesen négyen utaztak. A monori hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Péteri, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93510",
       "datetime": "2026.11.07. 18:59",
