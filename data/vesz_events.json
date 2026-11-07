@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T22:42:32.074127+00:00",
-  "count": 3026,
+  "updated_at": "2026-11-07T22:45:44.391693+00:00",
+  "count": 3027,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93515",
+      "datetime": "2026.11.07. 23:45",
+      "title": "Karambol az M43-on",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93515",
+      "lead": "Apátfalva közelében teljes szélességében lezárták az utat.",
+      "body": "Összeütközött egy kisbusz és egy furgon az M43-as autópályán, a határ felé vezető oldalon, Apátfalva közelében, a 48-as kilométerszelvénynél. A makói és hódmezővásárhelyi hivatásos tűzoltók áramtalanították a járműveket és három utast feszítővágó segítségével kimentettek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Apátfalva, Nagyút tanya",
+      "updates": []
+    },
     {
       "id": "93514",
       "datetime": "2026.11.07. 23:15",
