@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T20:49:42.754640+00:00",
-  "count": 3023,
+  "updated_at": "2026-11-07T20:52:58.017778+00:00",
+  "count": 3024,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93512",
+      "datetime": "2026.11.07. 21:52",
+      "title": "Árokba borult egy autó Hajdúszoboszló és Hajdúszovát között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93512",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Árokba borult egy személygépkocsi a 4804-es úton, Hajdúszoboszló és Hajdúszovát között, az 5-ös kilométerszelvénynél. Az autóban hárman utaztak. A hajdúszoboszlói hivatásos tűzoltók műszaki mentést végeznek. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Hajdúszoboszló, Szedres dűlő",
+      "updates": []
+    },
     {
       "id": "93511",
       "datetime": "2026.11.07. 19:09",
