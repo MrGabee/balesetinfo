@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T09:23:39.783238+00:00",
-  "count": 3003,
+  "updated_at": "2026-11-07T09:27:26.096547+00:00",
+  "count": 3004,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93492",
+      "datetime": "2026.11.07. 10:25",
+      "title": "Két autó ütközött Gyálon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93492",
+      "lead": "A Kolozsvári utcában forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Gyálon, a Kolozsvári utcában. Az autókban összesen öten utaztak. A fővárosi hivatásos tűzoltók egy járművet áramtalanítottak. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Gyál, Kolozsvári utca",
+      "updates": []
+    },
     {
       "id": "93491",
       "datetime": "2026.11.07. 09:40",
