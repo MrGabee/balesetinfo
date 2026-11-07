@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T10:47:40.005428+00:00",
-  "count": 3007,
+  "updated_at": "2026-11-07T10:50:44.206671+00:00",
+  "count": 3008,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93496",
+      "datetime": "2026.11.07. 11:48",
+      "title": "Baleset történt Budapest XV. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93496",
+      "lead": "A  Szentmihályi utat teljes szélességében lezárták.",
+      "body": "Összeütközött két személygépkocsi Budapest XV. kerületében, a Szentmihályi úton. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Szentmihályi út",
+      "updates": []
+    },
     {
       "id": "93495",
       "datetime": "2026.11.07. 11:43",
