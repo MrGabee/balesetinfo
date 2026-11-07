@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T17:18:09.553742+00:00",
-  "count": 3020,
+  "updated_at": "2026-11-07T17:21:38.011885+00:00",
+  "count": 3021,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93509",
+      "datetime": "2026.11.07. 18:21",
+      "title": "Karambol Kiskunhalason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93509",
+      "lead": "A Batthyány utcában forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Kiskunhalason, a Batthyány utcában. Az autókban összesen öten utaztak. A helyi hivatásos tűzoltók áramtalanítják a járműveket. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Kiskunhalas, Batthyány utca",
+      "updates": []
+    },
     {
       "id": "93508",
       "datetime": "2026.11.07. 18:17",
