@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-07T11:52:05.541641+00:00",
-  "count": 3008,
+  "updated_at": "2026-11-07T11:55:20.103762+00:00",
+  "count": 3009,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93497",
+      "datetime": "2026.11.07. 12:54",
+      "title": "Melléképület égett Dunakeszin",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93497",
+      "lead": "Az Aranykárász utcában dolgoznak a tűzoltók.",
+      "body": "Teljes terjedelmében égett egy melléképület Dunakeszin, az Aranykárász utcában. A tűz átterjedt a családi házra is. A fővárosi hivatásos és a fóti, illetve az újpesti önkéntes tűzoltók négy vízsugárral elfojtották a lángokat. A rajok több gázpalackot is kihoztak az épületből és megkezdték az utómunkálatokat.",
+      "location": "Dunakeszi, Harcsa utca",
+      "updates": []
+    },
     {
       "id": "93496",
       "datetime": "2026.11.07. 11:48",
