@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T23:02:13.767246+00:00",
+  "updated_at": "2026-11-08T23:05:12.028811+00:00",
   "count": 3046,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "Az Aradi vértanúk útjára a hatvani tűzoltókat riasztották.",
       "body": "Egy nagyjából száz négyzetméteres családi ház tetőszerkezetének egy része, illetve a közelében lévő melléképület gyulladt ki Turán. Az Aradi vértanúk útján csaptak fel a lángok. A hatvani hivatásos tűzoltók két gépjárműfecskendővel vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a tüzet. A helyszínen tartózkodók még a tűzoltók megérkezése előtt kivittek a szabadba egy propánbutángáz-palackot.",
       "location": "Tura, Aradi vértanúk útja",
-      "updates": []
+      "updates": [
+        {
+          "title": "A tűzoltók eloltották a turai épületet",
+          "datetime": "2026.11.09. 00:02",
+          "category": "Tűzeset",
+          "text": "Az Aradi vértanúk útján egy családi ház gyulladt ki, az esethez a hatvani tűzoltókat riasztották. A rajok vízsugarakkal körülhatárolták, azután eloltották a lángokat. Az épületet öten lakják, őket átmenetileg rokonok fogadják be.",
+          "location": "Tura, Aradi vértanúk útja",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93534"
+        }
+      ]
     },
     {
       "id": "93533",
