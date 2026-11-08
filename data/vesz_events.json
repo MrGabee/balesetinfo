@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T16:57:08.548560+00:00",
-  "count": 3039,
+  "updated_at": "2026-11-08T17:00:02.736384+00:00",
+  "count": 3040,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93528",
+      "datetime": "2026.11.08. 17:57",
+      "title": "Összetört autó miatt áll a forgalom a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93528",
+      "lead": "Az Alcsiszigeti holtág hídja után, a 102-103-as kilométer között állították meg a járműveket.",
+      "body": "Egy, az út közepén veszteglő, korábban szalagkorlátnak csapódott járműhöz vonultak a szolnoki hivatásos tűzoltók a megyeszékhelyen, a 4-es főút 102-103-as kilométere közé. A holtág hídja után balesetet szenvedett, de elhagyatott járművet áramtalanították a tűzoltók. A hatósági munka idejére a főút érintett szakaszát teljes szélességében lezárták.",
+      "location": "Szolnok, 4",
+      "updates": []
+    },
     {
       "id": "93527",
       "datetime": "2026.11.08. 17:40",
