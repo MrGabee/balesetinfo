@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T06:20:36.133861+00:00",
-  "count": 3029,
+  "updated_at": "2026-11-08T06:24:12.680438+00:00",
+  "count": 3030,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93518",
+      "datetime": "2026.11.08. 07:22",
+      "title": "Oszlopnak hajtott egy kisbusz Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93518",
+      "lead": "A Kaszaházi utat teljes szélességében lezárták.",
+      "body": "Oszlopnak hajtott egy kisbusz Zalaegerszegen, a Kaszaházi úton. A gépjárműben hárman utaztak. A zalaegerszegi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Zalaegerszeg, Kaszaházi út",
+      "updates": []
+    },
     {
       "id": "93517",
       "datetime": "2026.11.08. 06:51",
