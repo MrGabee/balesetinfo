@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T18:56:30.598789+00:00",
-  "count": 3042,
+  "updated_at": "2026-11-08T19:00:22.680159+00:00",
+  "count": 3043,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93531",
+      "datetime": "2026.11.08. 19:58",
+      "title": "Kigyulladt egy szauna Győrszemerén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93531",
+      "lead": "A Tó utcába helyi és győri tűzoltók vonultak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy szauna egy győrszemerei, Tó utcai családi ház kertjében. A lángok átterjedtek egy fa játszóházra is, és kárt tettek egy telepíthető medencében is. A helyi önkéntes és a győri hivatásos tűzoltók vízsugarakkal körülhatárolták, eloltották a lángokat. Az egységek már az utómunkálatoknál tartanak.",
+      "location": "Győrszemere, Tó utca",
+      "updates": []
+    },
     {
       "id": "93530",
       "datetime": "2026.11.08. 19:20",
