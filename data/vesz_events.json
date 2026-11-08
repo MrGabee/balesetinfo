@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T12:13:33.292562+00:00",
-  "count": 3035,
+  "updated_at": "2026-11-08T12:17:10.723947+00:00",
+  "count": 3036,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93524",
+      "datetime": "2026.11.08. 13:16",
+      "title": "Felborult egy kamion az M5-ösön, Kistelek térségében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93524",
+      "lead": "A Budapest felé vezető oldalon, a 135-136-os kilométer között történt a baleset.",
+      "body": "Felborult egy kamion az M5-ös autópályán, a főváros felé vezető oldal 135-136-os kilométere között. A Kistelek térségében történt balesetnél a jármű a pálya melletti területre borult. A kisteleki hivatásos tűzoltók vonultak a helyszínre, a teherautó sofőrjéhez mentő érkezett.",
+      "location": "Kistelek, M5",
+      "updates": []
+    },
     {
       "id": "93523",
       "datetime": "2026.11.08. 12:17 -",
