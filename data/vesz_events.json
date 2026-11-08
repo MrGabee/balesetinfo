@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:12:36.309222+00:00",
+  "updated_at": "2026-11-08T14:16:30.517974+00:00",
   "count": 3037,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,19 +31,10 @@
       "title": "Kigyulladt egy melléképület Kiskunfélegyháza közelében",
       "category": "Kigyulladt egy melléképület Kiskunfélegyháza közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93523",
-      "lead": "A külterületen lévő tanyára a város három tűzoltóegysége vonult.",
-      "body": "Kigyulladt egy nagyjából száz négyzetméteres melléképület egy Kiskunfélegyháza külterületén lévő tanyán. Az esethez a város hivatásos tűzoltói két gépjárműfecskendővel, illetve a vízszállítóval vonultak. Az egységek három vízsugárral és kéziszerszámokkal már körülhatárolták a tüzet.",
-      "location": "Kiskunfélegyháza, külterület",
-      "updates": [
-        {
-          "title": "Eloltották a melléképület tüzét Kiskunfélegyházánál",
-          "datetime": "2026.11.08. 13:01",
-          "category": "Tűzeset",
-          "text": "Egy külterületi tanyán egy melléképületben keletkezett tűz: bútorok, szerszámok, lomok égtek. A város tűzoltói vonultak az esethez, megfékezték a lángokat, és megtalálták két gázpalack maradványait is az épületben. Az egységek már az utómunkálatoknál tartanak.",
-          "location": "Kiskunfélegyháza, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93523/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93523"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93522",
@@ -388,9 +379,9 @@
       "title": "Baleset történt Gödöllőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93493",
-      "lead": "A Dózsa György úton dolgoznak a tűzoltók.",
-      "body": "Utoléréses balesetet szenvedett két személygépkocsi Gödöllőn, a Dózsa György úton. Az autókban összesen öten utaztak. A gödöllői hivatásos tűzoltók áramtalanították a járműveket. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Gödöllő, Dózsa György út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
