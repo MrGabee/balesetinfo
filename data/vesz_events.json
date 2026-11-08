@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T16:39:38.181693+00:00",
-  "count": 3038,
+  "updated_at": "2026-11-08T16:43:06.712550+00:00",
+  "count": 3039,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93527",
+      "datetime": "2026.11.08. 17:40",
+      "title": "Kiégett egy autó az M1-es sztráda mellett",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93527",
+      "lead": "A főváros felé vezető oldal 130-131-es kilométere között, az autópálya melletti erdős területen lángolt a jármű.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy személykocsi az M1-es autópálya 130-131-es kilométere között, a Budapest felé vezető oldalon, a sztráda melletti erdős részen. Az esethez börcsi önkéntes és győri hivatásos tűzoltók vonultak. Az oltást az önkéntes tűzoltók kezdték meg, majd a győri hivatásos egységgel oltották el teljesen a lángokat. A rajok az utómunkálatokat végzik.",
+      "location": "Abda, külterület",
+      "updates": []
+    },
     {
       "id": "93526",
       "datetime": "2026.11.08. 16:43 -",
