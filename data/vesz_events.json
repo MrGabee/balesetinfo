@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T16:35:59.052223+00:00",
+  "updated_at": "2026-11-08T16:39:38.181693+00:00",
   "count": 3038,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "Aszódi és gödöllői tűzoltók oltják a lángokat.",
       "body": "Kigyulladt egy tetőtér beépítéses lakóház Ikladon, a Deák Ferenc utcában. Az épület tetőszerkezetében keletkezett tűz. Aszódi és gödöllői hivatásos tűzoltók vonultak a helyszínre, az egységek vízsugárral avatkoznak be. A ház lakóit kikísérték az ingatlanból.",
       "location": "Iklad, Deák Ferenc utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megszűntek az izzásdok az ikladi háznál",
+          "datetime": "2026.11.08. 17:34",
+          "category": "Tűzeset",
+          "text": "A Deák Ferenc utca, tetőtér beépítéses lakóház tetőszerkezetében keletkezett tűz, azonban mire az aszódi és gödöllői tűzoltók a helyszínre értek, lángok már nem voltak. A rajok megbontották a tetőszerkezetet, hőkamerával átvizsgálják az érintett területet. A korábbi tűz nem a kéményből, hanem annak hőátadásából keletkezett, ezért a füstelvezetőt a háziak nem használhatják, míg szakember felül nem vizsgálta azt.",
+          "location": "Iklad, Deák Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93526/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93526"
+        }
+      ]
     },
     {
       "id": "93525",
