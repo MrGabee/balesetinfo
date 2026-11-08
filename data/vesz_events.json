@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T18:08:32.952713+00:00",
-  "count": 3040,
+  "updated_at": "2026-11-08T18:11:58.980106+00:00",
+  "count": 3041,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93529",
+      "datetime": "2026.11.08. 19:11",
+      "title": "Ég egy ház Jászkiséren",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93529",
+      "lead": "A Kölcsey Ferenc utcába jászberényi és helyi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy lakóház Jászkiséren, a Kölcsey Ferenc utcában. A lángok átterjedtek egy mellette álló épület tetőszerkezetére is. A helyszínre elsőként a helyi önkormányzati tűzoltók érkeztek ki, az egység légzésvédelem, illetve két sugár fedezete mellett behatolt az épületbe. A Kölcsey utcába mentőt is riasztottak.",
+      "location": "Jászkisér, Kölcsey Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93528",
       "datetime": "2026.11.08. 17:57",
