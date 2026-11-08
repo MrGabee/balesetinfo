@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T11:36:19.999864+00:00",
+  "updated_at": "2026-11-08T11:40:12.174417+00:00",
   "count": 3035,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "93522",
-      "datetime": "2026.11.08. 12:01",
+      "datetime": "2026.11.08. 12:01 -",
       "title": "Tűz ütött ki egy bácsborsódi házban",
-      "category": "Tűzeset",
+      "category": "Tűz ütött ki egy bácsborsódi házban",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93522",
       "lead": "A Dózsa György utcában van szükség tűzoltói beavatkozásra.",
       "body": "Kigyulladt egy földszintes családi ház Bácsborsódon, a Dózsa György utcában. A helyszínre elsőként a bácsbokodi önkéntes tűzoltók érkeztek meg, áramtalanították az épületet és megkezdték az oltást. Az önkéntesekhez pár perccel ezután csatlakoztak a bajai hivatásos tűzoltók, így már három vízsugárral oltják a lángokat.",
       "location": "Bácsborsód, Dózsa György utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megkezdték az utómunkálatokat Bácsborsódon",
+          "datetime": "2026.11.08. 12:38",
+          "category": "Tűzeset",
+          "text": "A Dózsa György utcában egy családi házban keletkezett tűz, az esethez bácsbokodi és bajai tűzoltók vonultak. Az egységek három vízsugárral körülhatárolták, majd eloltották a lángokat. Munka közben két gázpalackot is a szabadba vittek, a palackokat visszahűtik. Az egységek már megkezdték az utómunkálatokat kéziszerszámok és vízsugarak segítségével. Az épületet egy ember lakta, számára az önkormányzat biztosít átmeneti szállást.",
+          "location": "Bácsborsód, Dózsa György utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93522/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93522"
+        }
+      ]
     },
     {
       "id": "93521",
