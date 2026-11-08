@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T05:19:53.304939+00:00",
-  "count": 3027,
+  "updated_at": "2026-11-08T05:23:02.779628+00:00",
+  "count": 3028,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93516",
+      "datetime": "2026.11.08. 06:21",
+      "title": "Családi ház égett Kecskeméten",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93516",
+      "lead": "A Zsinór utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház Kecskeméten, a Zsinór utcában. A Bács-Kiskun megyei katasztrófavédelmi műveleti szolgálat irányítása mellett a kecskeméti és kiskunfélegyházi hivatásos tűzoltók négy vízsugárral elfojtották a lángokat és két gázpalackot kihoztak az épületből. A rajok az utómunkálatokat végzik.",
+      "location": "Kecskemét, Zsinór utca",
+      "updates": []
+    },
     {
       "id": "93515",
       "datetime": "2026.11.07. 23:45",
