@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T12:42:58.063484+00:00",
-  "count": 3036,
+  "updated_at": "2026-11-08T12:46:40.146221+00:00",
+  "count": 3037,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93525",
+      "datetime": "2026.11.08. 13:45",
+      "title": "Melléképület égett Kaposfőn",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93525",
+      "lead": "A Kossuth Lajos utcába, vagyis a 61-es főút belterületi szakaszára riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy nagyjából húsz négyzetméteres melléképület teteje Kaposfőn, a 61-es főút belterületi szakaszán. A 132-es kilométernél lévő tűzesethez a kaposvári hivatásos tűzoltók vonultak. A rajok két vízsugárral körülhatárolták, majd eloltották a lángokat. A főút érintett szakaszán félpályán lehet közlekedni.",
+      "location": "Kaposfő, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "93524",
       "datetime": "2026.11.08. 13:16",
