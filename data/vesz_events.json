@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T21:38:59.945793+00:00",
-  "count": 3044,
+  "updated_at": "2026-11-08T21:42:16.347031+00:00",
+  "count": 3045,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93533",
+      "datetime": "2026.11.08. 22:42",
+      "title": "Tűz ütött ki egy abaújszántói melléképületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93533",
+      "lead": "Az encsi tűzoltók az Ady Endre utcába vonultak.",
+      "body": "Kigyulladt egy melléképület Abaújszántón, az Ady Endre utcában. Egy családi ház hátsó udvarán áll a nagyjából hatvan négyzetméteres, faszerkezetű építmény, amelyben különböző berendezési tárgyakat, tüzelőanyagot tárolnak. Az encsi hivatásos tűzoltók három vízsugárral oltják a lángokat, amelyeket már körül is határoltak.",
+      "location": "Abaújszántó, Ady Endre utca",
+      "updates": []
+    },
     {
       "id": "93532",
       "datetime": "2026.11.08. 21:36",
