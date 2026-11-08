@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T05:49:02.470031+00:00",
-  "count": 3028,
+  "updated_at": "2026-11-08T05:52:54.141259+00:00",
+  "count": 3029,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93517",
+      "datetime": "2026.11.08. 06:51",
+      "title": "Baleset a 8222-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93517",
+      "lead": "Győrság közelében egy sávon halad a forgalom.",
+      "body": "Lesodródott az útról és tetejére borult a 8222-es úton, Győrság közelében, a 10-es kilométerszelvénynél. Az autóban csak a sofőr utazott. A pannonhalmi hivatásos és önkéntes tűzoltók áramtalanították a járművet. Az érintett útszakaszon egy sávon halad a forgalom.",
+      "location": "Győrság, Halomalja utca",
+      "updates": []
+    },
     {
       "id": "93516",
       "datetime": "2026.11.08. 06:21",
