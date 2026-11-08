@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T10:59:08.632385+00:00",
-  "count": 3033,
+  "updated_at": "2026-11-08T11:02:16.746827+00:00",
+  "count": 3034,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93522",
+      "datetime": "2026.11.08. 12:01",
+      "title": "Tűz ütött ki egy bácsborsódi házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93522",
+      "lead": "A Dózsa György utcában van szükség tűzoltói beavatkozásra.",
+      "body": "Kigyulladt egy földszintes családi ház Bácsborsódon, a Dózsa György utcában. A helyszínre elsőként a bácsbokodi önkéntes tűzoltók érkeztek meg, áramtalanították az épületet és megkezdték az oltást. Az önkéntesekhez pár perccel ezután csatlakoztak a bajai hivatásos tűzoltók, így már három vízsugárral oltják a lángokat.",
+      "location": "Bácsborsód, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "93521",
       "datetime": "2026.11.08. 11:15",
