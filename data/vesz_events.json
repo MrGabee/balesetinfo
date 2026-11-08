@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-08T06:30:29.267139+00:00",
-  "count": 3030,
+  "updated_at": "2026-11-08T06:33:52.319188+00:00",
+  "count": 3031,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93519",
+      "datetime": "2026.11.08. 07:33",
+      "title": "Lakóház ég Budapest III. kerületében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93519",
+      "lead": "A Pozsonyi utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakóház egyik ingatlanja Budapest III. kerületében, a Pozsonyi utcában. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Pozsonyi utca",
+      "updates": []
+    },
     {
       "id": "93518",
       "datetime": "2026.11.08. 07:22",
