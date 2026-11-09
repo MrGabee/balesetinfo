@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T13:42:56.766874+00:00",
-  "count": 3073,
+  "updated_at": "2026-11-09T13:46:08.535527+00:00",
+  "count": 3074,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93562",
+      "datetime": "2026.11.09. 14:44",
+      "title": "Oldalára borult egy autó a 253-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93562",
+      "lead": "Mezőkövesd és Andornaktálya között dolgoznak a tűzoltók.",
+      "body": "Oldalára borult egy személyautó a 253-as főút Mezőkövesd és Andornaktálya közötti szakaszán, a 8-as kilométerszelvénynél. A balesethez az egri hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Mezőkövesd, 253",
+      "updates": []
+    },
     {
       "id": "93561",
       "datetime": "2026.11.09. 14:34",
