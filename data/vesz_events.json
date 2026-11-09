@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T05:22:06.819305+00:00",
-  "count": 3052,
+  "updated_at": "2026-11-09T05:25:51.851133+00:00",
+  "count": 3053,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93541",
+      "datetime": "2026.11.09. 06:23",
+      "title": "Elsőfokú riasztást adott ki ónos eső veszélye miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93541",
+      "lead": "Az érintett területeken néhány tized milliméter csapadék eshet.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki ónos eső veszélye miatt a HungaroMet. Az érintett területeken néhány tized milliméter csapadék eshet. Amennyiben az HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "93540",
       "datetime": "2026.11.09. 06:21",
