@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T14:00:43.630040+00:00",
+  "updated_at": "2026-11-09T14:04:25.559010+00:00",
   "count": 3075,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
       "id": "93563",
-      "datetime": "2026.11.09. 14:53",
+      "datetime": "2026.11.09. 14:53 -",
       "title": "Tűz van Budapest XIV. kerületében, az Ajtósi Dürer sornál",
-      "category": "Tűzeset",
+      "category": "Tűz van Budapest XIV. kerületében, az Ajtósi Dürer sornál",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93563",
       "lead": "Egy lakókocsi és egy garázs is ég.",
       "body": "Teljes terjedelmében ég egy lakókocsi Budapest XIV. kerületében, az Ajtósi Dürer sor és a Francia út találkozásánál. A tűz egy garázs tetőszerkezetére is átterjedt. A fővárosi hivatásos tűzoltók jelenleg több vízsugárral oltják a lángokat.",
@@ -56,16 +56,7 @@
       "lead": "A Tázerdő dűlőn keletkezett tűz.",
       "body": "Kigyulladt egy családi ház Nagykőrös külterületén, a Tázerdő dűlőn. Teljes terjedelmében ég a mintegy harminc négyzetméteres épület, amelynek már leégett a tetőszerkezete, és beszakadt a födémje. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók oltják a lángokat.",
       "location": "Nagykőrös, Tázerdő dűlő",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Nagykőrösnél",
-          "datetime": "2026.11.09. 14:20",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a tűz továbbterjedését, majd eloltották a lángokat Nagykőrös külterületén, a Tázerdő dűlőn, ahol kigyulladt egy családi ház. Leégett és a födémmel együtt beszakadt a korábban becsültnél nagyobb, mintegy nyolcvan négyzetméteres épület tetőszerkezete, és a benne lévő berendezési tárgyak is megsemmisültek. Feltehetőleg egy gázpalack is felrobbant az égő ingatlanban, amelyhez ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók vonultak ki. A rajok három vízsugárral fékezték meg a lángokat.",
-          "location": "Nagykőrös, Tázerdő dűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93559"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93558",
