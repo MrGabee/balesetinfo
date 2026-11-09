@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T05:43:06.009451+00:00",
-  "count": 3053,
+  "updated_at": "2026-11-09T05:46:08.022153+00:00",
+  "count": 3054,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93542",
+      "datetime": "2026.11.09. 06:45",
+      "title": "Baleset történt Diósviszlón",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93542",
+      "lead": "A Széchenyi István utcában felborult egy kisteherautó.",
+      "body": "Érintőlegesen nekiütközött egy parkoló személykocsinak, majd az oldalára borult egy kisteherautó Diósviszlón. A Széchenyi István utcai balesethez a siklósi hivatásos tűzoltókat riasztották. Az egység áramtalanította a járműveket. A parkoló autóban nem ült senki, a másik járműben csak a sofőr tartózkodott, ki tudott szállni járművéből, mentő érkezett hozzá. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
+      "location": "Diósviszló, Széchenyi István utca",
+      "updates": []
+    },
     {
       "id": "93541",
       "datetime": "2026.11.09. 06:23",
