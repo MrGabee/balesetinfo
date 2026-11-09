@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:08:10.924244+00:00",
+  "updated_at": "2026-11-09T15:12:18.469176+00:00",
   "count": 3076,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -375,19 +375,10 @@
       "title": "Kigyulladt egy ház Turán",
       "category": "Kigyulladt egy ház Turán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534",
-      "lead": "Az Aradi vértanúk útjára a hatvani tűzoltókat riasztották.",
-      "body": "Egy nagyjából száz négyzetméteres családi ház tetőszerkezetének egy része, illetve a közelében lévő melléképület gyulladt ki Turán. Az Aradi vértanúk útján csaptak fel a lángok. A hatvani hivatásos tűzoltók két gépjárműfecskendővel vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a tüzet. A helyszínen tartózkodók még a tűzoltók megérkezése előtt kivittek a szabadba egy propánbutángáz-palackot.",
-      "location": "Tura, Aradi vértanúk útja",
-      "updates": [
-        {
-          "title": "A tűzoltók eloltották a turai épületet",
-          "datetime": "2026.11.09. 00:02",
-          "category": "Tűzeset",
-          "text": "Az Aradi vértanúk útján egy családi ház gyulladt ki, az esethez a hatvani tűzoltókat riasztották. A rajok vízsugarakkal körülhatárolták, azután eloltották a lángokat. Az épületet öten lakják, őket átmenetileg rokonok fogadják be.",
-          "location": "Tura, Aradi vértanúk útja",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93534"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93533",
@@ -426,9 +417,9 @@
       "title": "Kigyulladt egy szauna Győrszemerén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93531",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Tó utcába helyi és győri tűzoltók vonultak.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy szauna egy győrszemerei, Tó utcai családi ház kertjében. A lángok átterjedtek egy fa játszóházra is, és kárt tettek egy telepíthető medencében is. A helyi önkéntes és a győri hivatásos tűzoltók vízsugarakkal körülhatárolták, eloltották a lángokat. Az egységek már az utómunkálatoknál tartanak.",
+      "location": "Győrszemere, Tó utca",
       "updates": []
     },
     {
@@ -451,7 +442,16 @@
       "lead": "A Kölcsey Ferenc utcába jászberényi és helyi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy lakóház Jászkiséren, a Kölcsey Ferenc utcában. A lángok átterjedtek egy mellette álló épület tetőszerkezetére is. A helyszínre elsőként a helyi önkormányzati tűzoltók érkeztek ki, az egység légzésvédelem, illetve két sugár fedezete mellett behatolt az épületbe. A Kölcsey utcába mentőt is riasztottak.",
       "location": "Jászkisér, Kölcsey Ferenc utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megszüntették a lángokat Jászkiséren",
+          "datetime": "2026.11.08. 19:39",
+          "category": "Tűzeset",
+          "text": "A Kölcsey Ferenc utcában gyulladt ki egy lakóház, illetve egy melléképület. Az elsődleges információkkal ellentétben a lakóépület nem lángolt teljes terjedelmében, két helyiségében volt tűz, amely nem érte el a főépület tetőszerkezetét, viszont átterjedt a melléképület tetejére. A jászberényi hivatásos és a helyi önkormányzati tűzoltók megfékezték a lángokat. Az egységek megbontották a melléképület tetejét, átvizsgálták az épületrészeket. A házban egy ember volt a tűz keletkezésekor, őt a melléképület két lakója vitte a szabadba. A helyszínre mentő érkezett.",
+          "location": "Jászkisér, Kölcsey Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93529/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93529"
+        }
+      ]
     },
     {
       "id": "93528",
