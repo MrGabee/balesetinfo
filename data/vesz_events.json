@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T05:18:28.598252+00:00",
-  "count": 3051,
+  "updated_at": "2026-11-09T05:22:06.819305+00:00",
+  "count": 3052,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93540",
+      "datetime": "2026.11.09. 06:21",
+      "title": "Égett egy kisteherautó Bekecs és Taktaharkány között",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93540",
+      "lead": "A 3611-es úton, a 37-es főúti körforgalomnál dolgoztak a szerencsi tűzoltók.",
+      "body": "Műszaki hiba miatt kigyulladt és teljes terjedelmében égett egy kisteherautó a 3611-es úton, a bekecsi körforgalomnál. A járműnek nem volt rakománya. A szerencsi hivatásos tűzoltók két vízsugárral eloltották a járművet.",
+      "location": "Bekecs, 3611",
+      "updates": []
+    },
     {
       "id": "93539",
       "datetime": "2026.11.09. 06:07",
