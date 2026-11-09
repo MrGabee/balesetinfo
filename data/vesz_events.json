@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T07:11:23.854050+00:00",
-  "count": 3059,
+  "updated_at": "2026-11-09T07:14:54.413644+00:00",
+  "count": 3060,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93548",
+      "datetime": "2026.11.09. 08:14",
+      "title": "Felborult egy autó Kecskeméten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93548",
+      "lead": "A Sutus soron forgalomkorlátozásra kell számítani.",
+      "body": "Felborult egy személyautó Kecskemétnél, a Sutus sor és a Széles köz kereszteződésében. A kecskeméti hivatásos tűzoltók áramtalanítják a járművet. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Kecskemét, Sutus sor",
+      "updates": []
+    },
     {
       "id": "93547",
       "datetime": "2026.11.09. 07:55",
