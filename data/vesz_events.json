@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T16:28:43.235869+00:00",
-  "count": 3077,
+  "updated_at": "2026-11-09T16:32:15.994371+00:00",
+  "count": 3078,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93566",
+      "datetime": "2026.11.09. 17:30",
+      "title": "Két autó karambolozott a 7-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93566",
+      "lead": "Székesfehérvár közelében forgalomkorlátozásra kell számítani.",
+      "body": "Két személyautó ütközött össze a 7-es főúton, Székesfehérvár közelében, a 62-es kilométerszelvénynél. A balesethez a székesfehérvári hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Székesfehérvár, 7",
+      "updates": []
+    },
     {
       "id": "93565",
       "datetime": "2026.11.09. 17:04",
