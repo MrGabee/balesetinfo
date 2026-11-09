@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T13:31:21.589494+00:00",
-  "count": 3072,
+  "updated_at": "2026-11-09T13:35:17.533707+00:00",
+  "count": 3073,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93561",
+      "datetime": "2026.11.09. 14:34",
+      "title": "Hármas karambol Kisújszálláson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93561",
+      "lead": "Az egyik autóból a tűzoltók mentettek ki egy embert.",
+      "body": "Összeütközött három személyautó Kisújszálláson, a Malom és a Munkácsy Mihály utca kereszteződésében. Az egyik járműbe beszorult egy ember. Őt a város önkormányzati tűzoltói kimentették, majd átadták a mentőknek. A raj megtámasztotta a gépkocsit, egy másikat pedig áramtalanít. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Kisújszállás, Malom utca, Munkácsy Mihály utca",
+      "updates": []
+    },
     {
       "id": "93560",
       "datetime": "2026.11.09. 14:19",
