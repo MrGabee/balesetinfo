@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:25:57.445624+00:00",
+  "updated_at": "2026-11-09T07:29:41.837957+00:00",
   "count": 3060,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -139,9 +139,9 @@
       "title": "Súlyos baleset történt Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93537",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Pazonyi úton egy álló autóba rohant egy másik gépkocsi.",
+      "body": "Egy, a benzinkútnál várakozó személykocsiba rohant egy másik autó Nyíregyházán, a Pazonyi úton, a Jég és a Nád utca közötti szakaszon lévő üzemanyagtöltő-állomáson. A mozgó járműben csak a sofőr utazott, az álló autóban ketten ültek. Utóbbi gépkocsiból egy embert a város hivatásos tűzoltói feszítővágó segítségével szabadítottak ki. Az egységek emellett áramtalanítottak. A helyszínre mentő érkezett.",
+      "location": "Nyíregyháza, Pazonyi út",
       "updates": []
     },
     {
@@ -195,16 +195,7 @@
       "lead": "Az encsi tűzoltók az Ady Endre utcába vonultak.",
       "body": "Kigyulladt egy melléképület Abaújszántón, az Ady Endre utcában. Egy családi ház hátsó udvarán áll a nagyjából hatvan négyzetméteres, faszerkezetű építmény, amelyben különböző berendezési tárgyakat, tüzelőanyagot tárolnak. Az encsi hivatásos tűzoltók három vízsugárral oltják a lángokat, amelyeket már körül is határoltak.",
       "location": "Abaújszántó, Ady Endre utca",
-      "updates": [
-        {
-          "title": "Megfékezték a lángokat az abaújszántói melléképületben",
-          "datetime": "2026.11.08. 23:43",
-          "category": "Tűzeset",
-          "text": "Az Ady Endre utcában egy nagyjából hatvan négyzetméteres melléképületben keletkezett tűz. Az encsi hivatásos tűzoltók három vízsugárral fékezték meg a lángokat.  Az egységek kihordják, átmozgatják az ott felhalmozott, nagyjából tizenhat köbméternyi tűzifát. A munkát erőgép is segíti.",
-          "location": "Abaújszántó, Ady Endre utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93533/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93533"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93532",
@@ -287,10 +278,19 @@
       "title": "Kigyulladt egy ikladi ház",
       "category": "Kigyulladt egy ikladi ház",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93526",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Aszódi és gödöllői tűzoltók oltják a lángokat.",
+      "body": "Kigyulladt egy tetőtér beépítéses lakóház Ikladon, a Deák Ferenc utcában. Az épület tetőszerkezetében keletkezett tűz. Aszódi és gödöllői hivatásos tűzoltók vonultak a helyszínre, az egységek vízsugárral avatkoznak be. A ház lakóit kikísérték az ingatlanból.",
+      "location": "Iklad, Deák Ferenc utca",
+      "updates": [
+        {
+          "title": "Megszűntek az izzásdok az ikladi háznál",
+          "datetime": "2026.11.08. 17:34",
+          "category": "Tűzeset",
+          "text": "A Deák Ferenc utca, tetőtér beépítéses lakóház tetőszerkezetében keletkezett tűz, azonban mire az aszódi és gödöllői tűzoltók a helyszínre értek, lángok már nem voltak. A rajok megbontották a tetőszerkezetet, hőkamerával átvizsgálják az érintett területet. A korábbi tűz nem a kéményből, hanem annak hőátadásából keletkezett, ezért a füstelvezetőt a háziak nem használhatják, míg szakember felül nem vizsgálta azt.",
+          "location": "Iklad, Deák Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93526/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93526"
+        }
+      ]
     },
     {
       "id": "93525",
