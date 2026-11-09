@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:12:18.469176+00:00",
+  "updated_at": "2026-11-09T15:16:20.293666+00:00",
   "count": 3076,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -269,9 +269,9 @@
       "title": "Baleset történt Diósviszlón",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93542",
-      "lead": "A Széchenyi István utcában felborult egy kisteherautó.",
-      "body": "Érintőlegesen nekiütközött egy parkoló személykocsinak, majd az oldalára borult egy kisteherautó Diósviszlón. A Széchenyi István utcai balesethez a siklósi hivatásos tűzoltókat riasztották. Az egység áramtalanította a járműveket. A parkoló autóban nem ült senki, a másik járműben csak a sofőr tartózkodott, ki tudott szállni járművéből, mentő érkezett hozzá. Az érintett útszakaszt egy időre teljes szélességében lezárták.",
-      "location": "Diósviszló, Széchenyi István utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -375,10 +375,19 @@
       "title": "Kigyulladt egy ház Turán",
       "category": "Kigyulladt egy ház Turán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Az Aradi vértanúk útjára a hatvani tűzoltókat riasztották.",
+      "body": "Egy nagyjából száz négyzetméteres családi ház tetőszerkezetének egy része, illetve a közelében lévő melléképület gyulladt ki Turán. Az Aradi vértanúk útján csaptak fel a lángok. A hatvani hivatásos tűzoltók két gépjárműfecskendővel vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a tüzet. A helyszínen tartózkodók még a tűzoltók megérkezése előtt kivittek a szabadba egy propánbutángáz-palackot.",
+      "location": "Tura, Aradi vértanúk útja",
+      "updates": [
+        {
+          "title": "A tűzoltók eloltották a turai épületet",
+          "datetime": "2026.11.09. 00:02",
+          "category": "Tűzeset",
+          "text": "Az Aradi vértanúk útján egy családi ház gyulladt ki, az esethez a hatvani tűzoltókat riasztották. A rajok vízsugarakkal körülhatárolták, azután eloltották a lángokat. Az épületet öten lakják, őket átmenetileg rokonok fogadják be.",
+          "location": "Tura, Aradi vértanúk útja",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93534"
+        }
+      ]
     },
     {
       "id": "93533",
