@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:44:56.679428+00:00",
+  "updated_at": "2026-11-09T07:48:16.546061+00:00",
   "count": 3061,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -122,7 +122,16 @@
       "lead": "A Dankó utcai tűzhöz helyi és jászberényi tűzoltók vonultak.",
       "body": "Tűz keletkezett egy nagyjából kilencven négyzetméteres lakóépületben Jászkiséren, a Dankó utcában. A helyszínre elsőként a helyi önkormányzati tűzoltók vonultak: légzésvédelem mellett felderítették a házat, ahonnan egy gázpalackot is eltávolítottak. A palackot visszahűtötték. A jászberényi hivatásos tűzoltók megérkezése után a beavatkozás egyesült erővel folytatódott. A parasztház lakóit ideiglenesen szomszédok fogadják be.",
       "location": "Jászkisér, Dankó utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Jászkiséren",
+          "datetime": "2026.11.09. 06:49",
+          "category": "Tűzeset",
+          "text": "A Dankó utcában egy lakóház égett, az egyik helyiségben tárolt tüzelőanyagtól indult a tűz. Jászkiséri és jászberényi tűzoltók fékezték meg a lángokat. Az egységek már az utómunkálatokat végzik, megszüntetik a kisebb izzásokat.",
+          "location": "Jászkisér, Dankó utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93539/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93539"
+        }
+      ]
     },
     {
       "id": "93538",
@@ -393,10 +402,19 @@
       "title": "Lakóház ég Budapest III. kerületében",
       "category": "Lakóház ég Budapest III. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93519",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Pozsonyi utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy lakóház egyik ingatlanja Budapest III. kerületében, a Pozsonyi utcában. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre mentő is érkezett.",
+      "location": "Budapest, Pozsonyi utca",
+      "updates": [
+        {
+          "title": "Eloltották a csillaghegyi tüzet",
+          "datetime": "2026.11.08. 08:48",
+          "category": "Tűzeset",
+          "text": "Budapest harmadik kerületében, a Pozsonyi utcában egy négyszintes társasház egyik lakásában keletkezett tűz, a teljes épület megtelt füsttel. A fővárosi hivatásos tűzoltók nagy erőkkel vonultak a helyszínre, az egységek a katasztrófavédelmi műveleti szolgálat irányításával, vízsugarakkal eloltották a lángokat. A rajok már a beizzásokat szüntetik meg, illetve hűtik a külső homlokzatot, valamint a tetőt. Az épületből tizenöt lakót menekítettek ki, két embert mentőálarcban vittek a szabadba a tűzoltók, a helyszínre mentő is érkezett. A lakók számára melegedőbuszt biztosítanak. A tűzzel érintett lakás tulajdonosának az önkormányzat biztosít átmeneti szállást. A gázművek szakemberei átvizsgálják az épületet, ezt követően derül ki, hogy ki kell-e azt zárni a szolgáltatásból, illetve, hogy végül hány lakónak lesz szüksége lakosságvédelmi intézkedésre.",
+          "location": "Budapest, Pozsonyi utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93519/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93519"
+        }
+      ]
     },
     {
       "id": "93518",
