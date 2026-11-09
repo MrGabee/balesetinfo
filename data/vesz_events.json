@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T05:03:49.471954+00:00",
-  "count": 3050,
+  "updated_at": "2026-11-09T05:07:31.791195+00:00",
+  "count": 3051,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93539",
+      "datetime": "2026.11.09. 06:07",
+      "title": "Tűz keletkezett egy jászkiséri házban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93539",
+      "lead": "A Dankó utcai tűzhöz helyi és jászberényi tűzoltók vonultak.",
+      "body": "Tűz keletkezett egy nagyjából kilencven négyzetméteres lakóépületben Jászkiséren, a Dankó utcában. A helyszínre elsőként a helyi önkormányzati tűzoltók vonultak: légzésvédelem mellett felderítették a házat, ahonnan egy gázpalackot is eltávolítottak. A palackot visszahűtötték. A jászberényi hivatásos tűzoltók megérkezése után a beavatkozás egyesült erővel folytatódott. A parasztház lakóit ideiglenesen szomszédok fogadják be.",
+      "location": "Jászkisér, Dankó utca",
+      "updates": []
+    },
     {
       "id": "93538",
       "datetime": "2026.11.09. 05:58",
