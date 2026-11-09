@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T13:49:43.973909+00:00",
-  "count": 3074,
+  "updated_at": "2026-11-09T13:53:57.932730+00:00",
+  "count": 3075,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93563",
+      "datetime": "2026.11.09. 14:53",
+      "title": "Tűz van Budapest XIV. kerületében, az Ajtósi Dürer sornál",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93563",
+      "lead": "Egy lakókocsi és egy garázs is ég.",
+      "body": "Teljes terjedelmében ég egy lakókocsi Budapest XIV. kerületében, az Ajtósi Dürer sor és a Francia út találkozásánál. A tűz egy garázs tetőszerkezetére is átterjedt. A fővárosi hivatásos tűzoltók jelenleg több vízsugárral oltják a lángokat.",
+      "location": "Budapest, Ajtósi Dürer sor",
+      "updates": []
+    },
     {
       "id": "93562",
       "datetime": "2026.11.09. 14:44",
