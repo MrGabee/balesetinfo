@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T09:27:19.277631+00:00",
-  "count": 3065,
+  "updated_at": "2026-11-09T09:30:54.436289+00:00",
+  "count": 3066,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93554",
+      "datetime": "2026.11.09. 10:27",
+      "title": "Munkagép és személyautó ütközött Pázmándon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93554",
+      "lead": "A Bágyomi úton félpályán halad a forgalom.",
+      "body": "Munkagép és személyautó ütközött össze Pázmándon, a Bágyomi úton, a Szőlőhegy közelében. A balesethez a székesfehérvári hivatásos tűzoltókat riasztották, akik áramtalanították a személygépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pázmánd, Bágyomi út",
+      "updates": []
+    },
     {
       "id": "93553",
       "datetime": "2026.11.09. 10:13",
