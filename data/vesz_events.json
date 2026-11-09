@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T06:24:57.479268+00:00",
-  "count": 3056,
+  "updated_at": "2026-11-09T06:28:00.012095+00:00",
+  "count": 3057,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93545",
+      "datetime": "2026.11.09. 07:27",
+      "title": "Baleset történt Szentendrén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93545",
+      "lead": "A dömörkapui elágazásnál felborult egy autó.",
+      "body": "Felborult egy személykocsi Szentendrén, a dömörkapui elágazásnál. A járműben csak annak vezetője utazott. A szentendrei hivatásos tűzoltók áramtalanították az autót. A forgalom félpályán halad.",
+      "location": "Szentendre, Annavölgyi út",
+      "updates": []
+    },
     {
       "id": "93544",
       "datetime": "2026.11.09. 07:04",
