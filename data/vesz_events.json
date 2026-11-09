@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T12:03:36.997146+00:00",
+  "updated_at": "2026-11-09T12:07:46.719053+00:00",
   "count": 3069,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -53,9 +53,9 @@
       "title": "Árokba borult egy autó a 31-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93553",
-      "lead": "Nagykáta és Jászberény között végeznek műszaki mentést a tűzoltók.",
-      "body": "Árokba hajtott és a tetejére borult egy személyautó a 31-es főúton, Nagykáta és Jászberény között, a 67. kilométernél. A járműben egy ember utazott, akit a helyszínen lévők egy szabadnapos tűzoltó közreműködésével kiszabadítottak, majd a műszaki mentést végző nagykátai hivatásos tűzoltók hordágyon felhoztak az árokból és átadtak a mentőknek. Az érintett útszakaszon forgalomkorlátozás lehet.",
-      "location": "Nagykáta, 31",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -353,10 +353,19 @@
       "title": "Ég egy ház Jászkiséren",
       "category": "Ég egy ház Jászkiséren",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93529",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Kölcsey Ferenc utcába jászberényi és helyi tűzoltókat riasztottak.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy lakóház Jászkiséren, a Kölcsey Ferenc utcában. A lángok átterjedtek egy mellette álló épület tetőszerkezetére is. A helyszínre elsőként a helyi önkormányzati tűzoltók érkeztek ki, az egység légzésvédelem, illetve két sugár fedezete mellett behatolt az épületbe. A Kölcsey utcába mentőt is riasztottak.",
+      "location": "Jászkisér, Kölcsey Ferenc utca",
+      "updates": [
+        {
+          "title": "Megszüntették a lángokat Jászkiséren",
+          "datetime": "2026.11.08. 19:39",
+          "category": "Tűzeset",
+          "text": "A Kölcsey Ferenc utcában gyulladt ki egy lakóház, illetve egy melléképület. Az elsődleges információkkal ellentétben a lakóépület nem lángolt teljes terjedelmében, két helyiségében volt tűz, amely nem érte el a főépület tetőszerkezetét, viszont átterjedt a melléképület tetejére. A jászberényi hivatásos és a helyi önkormányzati tűzoltók megfékezték a lángokat. Az egységek megbontották a melléképület tetejét, átvizsgálták az épületrészeket. A házban egy ember volt a tűz keletkezésekor, őt a melléképület két lakója vitte a szabadba. A helyszínre mentő érkezett.",
+          "location": "Jászkisér, Kölcsey Ferenc utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93529/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93529"
+        }
+      ]
     },
     {
       "id": "93528",
