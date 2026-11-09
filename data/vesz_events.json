@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T09:01:37.276546+00:00",
+  "updated_at": "2026-11-09T09:05:31.205959+00:00",
   "count": 3063,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -234,19 +234,10 @@
       "title": "Tűz ütött ki egy abaújszántói melléképületben",
       "category": "Tűz ütött ki egy abaújszántói melléképületben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93533",
-      "lead": "Az encsi tűzoltók az Ady Endre utcába vonultak.",
-      "body": "Kigyulladt egy melléképület Abaújszántón, az Ady Endre utcában. Egy családi ház hátsó udvarán áll a nagyjából hatvan négyzetméteres, faszerkezetű építmény, amelyben különböző berendezési tárgyakat, tüzelőanyagot tárolnak. Az encsi hivatásos tűzoltók három vízsugárral oltják a lángokat, amelyeket már körül is határoltak.",
-      "location": "Abaújszántó, Ady Endre utca",
-      "updates": [
-        {
-          "title": "Megfékezték a lángokat az abaújszántói melléképületben",
-          "datetime": "2026.11.08. 23:43",
-          "category": "Tűzeset",
-          "text": "Az Ady Endre utcában egy nagyjából hatvan négyzetméteres melléképületben keletkezett tűz. Az encsi hivatásos tűzoltók három vízsugárral fékezték meg a lángokat.  Az egységek kihordják, átmozgatják az ott felhalmozott, nagyjából tizenhat köbméternyi tűzifát. A munkát erőgép is segíti.",
-          "location": "Abaújszántó, Ady Endre utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93533/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93533"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93532",
@@ -508,9 +499,9 @@
       "title": "Karambol Budapest I. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93513",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Várkert rakpartnál forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest I. kerületében, a Várkert rakpartnál. A baleset következtében az egyik autó a villamossínekre sodródott. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. A baleset a közösségi közlekedés forgalmát is akadályozza.",
+      "location": "Budapest, Várkert rakpart",
       "updates": []
     },
     {
