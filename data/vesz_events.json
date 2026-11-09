@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T16:02:46.193742+00:00",
-  "count": 3076,
+  "updated_at": "2026-11-09T16:06:10.447149+00:00",
+  "count": 3077,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93565",
+      "datetime": "2026.11.09. 17:04",
+      "title": "Villanyoszlopnak hajtott egy autó Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93565",
+      "lead": "A Petőfi Sándor utcába vonultak a tűzoltók.",
+      "body": "Villanyoszlopnak hajtott egy személyautó Szolnokon, a Petőfi Sándor utcában, a Konstantin utca közelében. A város hivatásos tűzoltói áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Szolnok, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93564",
       "datetime": "2026.11.09. 16:05",
