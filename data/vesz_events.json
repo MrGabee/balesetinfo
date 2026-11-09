@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:29:41.837957+00:00",
+  "updated_at": "2026-11-09T07:33:02.511477+00:00",
   "count": 3060,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -172,19 +172,10 @@
       "title": "Kigyulladt egy ház Turán",
       "category": "Kigyulladt egy ház Turán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534",
-      "lead": "Az Aradi vértanúk útjára a hatvani tűzoltókat riasztották.",
-      "body": "Egy nagyjából száz négyzetméteres családi ház tetőszerkezetének egy része, illetve a közelében lévő melléképület gyulladt ki Turán. Az Aradi vértanúk útján csaptak fel a lángok. A hatvani hivatásos tűzoltók két gépjárműfecskendővel vonultak az esethez. Az egységek vízsugarakkal körülhatárolták a tüzet. A helyszínen tartózkodók még a tűzoltók megérkezése előtt kivittek a szabadba egy propánbutángáz-palackot.",
-      "location": "Tura, Aradi vértanúk útja",
-      "updates": [
-        {
-          "title": "A tűzoltók eloltották a turai épületet",
-          "datetime": "2026.11.09. 00:02",
-          "category": "Tűzeset",
-          "text": "Az Aradi vértanúk útján egy családi ház gyulladt ki, az esethez a hatvani tűzoltókat riasztották. A rajok vízsugarakkal körülhatárolták, azután eloltották a lángokat. Az épületet öten lakják, őket átmenetileg rokonok fogadják be.",
-          "location": "Tura, Aradi vértanúk útja",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93534/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93534"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93533",
@@ -195,7 +186,16 @@
       "lead": "Az encsi tűzoltók az Ady Endre utcába vonultak.",
       "body": "Kigyulladt egy melléképület Abaújszántón, az Ady Endre utcában. Egy családi ház hátsó udvarán áll a nagyjából hatvan négyzetméteres, faszerkezetű építmény, amelyben különböző berendezési tárgyakat, tüzelőanyagot tárolnak. Az encsi hivatásos tűzoltók három vízsugárral oltják a lángokat, amelyeket már körül is határoltak.",
       "location": "Abaújszántó, Ady Endre utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat az abaújszántói melléképületben",
+          "datetime": "2026.11.08. 23:43",
+          "category": "Tűzeset",
+          "text": "Az Ady Endre utcában egy nagyjából hatvan négyzetméteres melléképületben keletkezett tűz. Az encsi hivatásos tűzoltók három vízsugárral fékezték meg a lángokat.  Az egységek kihordják, átmozgatják az ott felhalmozott, nagyjából tizenhat köbméternyi tűzifát. A munkát erőgép is segíti.",
+          "location": "Abaújszántó, Ady Endre utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93533/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93533"
+        }
+      ]
     },
     {
       "id": "93532",
