@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T05:53:00.701819+00:00",
-  "count": 3054,
+  "updated_at": "2026-11-09T05:56:30.552706+00:00",
+  "count": 3055,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93543",
+      "datetime": "2026.11.09. 06:55",
+      "title": "Karambol az 54-esen, Jakabszálláson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93543",
+      "lead": "Két személykocsi hajtott egymásba a főút 16-17-es kilométere között.",
+      "body": "Összeütközött két autó az 54-es főút jakabszállási szakaszán. Mindkét kocsiban csak annak vezetője utazott. A 16-17-es kilométer között történt balesethez a kecskeméti hivatásos tűzoltók vonultak, a raj áramtalanította a járműveket. A főút érintett szakaszán félpályán halad a forgalom.",
+      "location": "Jakabszállás, Dózsa György utca",
+      "updates": []
+    },
     {
       "id": "93542",
       "datetime": "2026.11.09. 06:45",
