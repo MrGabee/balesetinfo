@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T17:31:24.918863+00:00",
-  "count": 3080,
+  "updated_at": "2026-11-09T17:34:49.907695+00:00",
+  "count": 3081,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93569",
+      "datetime": "2026.11.09. 18:31",
+      "title": "Vadat gázolt egy autó a 7-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93569",
+      "lead": "Szabadbattyán és Kőszárhegy között forgalmi akadályra kell számítani.",
+      "body": "Vadat gázolt egy személyautó a 7-es főúton, Szabadbattyán és Kőszárhegy között, a 79-es kilométerszelvénynél. A balesethez a székesfehérvári hivatásos és a sárvízi önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Kőszárhegy, 7",
+      "updates": []
+    },
     {
       "id": "93568",
       "datetime": "2026.11.09. 18:12",
