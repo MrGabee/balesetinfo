@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T00:31:42.645496+00:00",
-  "count": 3046,
+  "updated_at": "2026-11-09T00:35:44.690554+00:00",
+  "count": 3047,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93535",
+      "datetime": "2026.11.09. 01:35",
+      "title": "Baleset történt Jákon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93535",
+      "lead": "A Kossuth utcában villanyoszlopnak hajtott egy autó.",
+      "body": "Letért az útról és villanyoszlopnak csapódott egy személykocsi Jákon. A Kossuth utcai balesethez a helyi önkéntes és a szombathelyi hivatásos tűzoltók vonultak. A tűzoltók áramtalanították a járművet. Az autóban csak annak vezetője utazott, mentő érkezett hozzá.",
+      "location": "Ják, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "93534",
       "datetime": "2026.11.08. 22:53 -",
