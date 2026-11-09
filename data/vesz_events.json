@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T14:04:25.559010+00:00",
+  "updated_at": "2026-11-09T14:07:54.125555+00:00",
   "count": 3075,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -12,7 +12,16 @@
       "lead": "Egy lakókocsi és egy garázs is ég.",
       "body": "Teljes terjedelmében ég egy lakókocsi Budapest XIV. kerületében, az Ajtósi Dürer sor és a Francia út találkozásánál. A tűz egy garázs tetőszerkezetére is átterjedt. A fővárosi hivatásos tűzoltók jelenleg több vízsugárral oltják a lángokat.",
       "location": "Budapest, Ajtósi Dürer sor",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatokat végzik az Ajtósi Dürer sornál",
+          "datetime": "2026.11.09. 15:03",
+          "category": "Tűzeset",
+          "text": "Már az utómunkálatokat végzik a fővárosi tűzoltók Budapest XIV. kerületében, az Ajtósi Dürer sor és a Francia út találkozásánál, ahol egy lakókocsi égett teljes terjedelmében. A tűz egy garázs tetőszerkezetére is átterjedt. A rajok három vízsugárral oltották el a lángokat.",
+          "location": "Budapest, Ajtósi Dürer sor",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93563/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93563"
+        }
+      ]
     },
     {
       "id": "93562",
@@ -56,7 +65,16 @@
       "lead": "A Tázerdő dűlőn keletkezett tűz.",
       "body": "Kigyulladt egy családi ház Nagykőrös külterületén, a Tázerdő dűlőn. Teljes terjedelmében ég a mintegy harminc négyzetméteres épület, amelynek már leégett a tetőszerkezete, és beszakadt a födémje. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók oltják a lángokat.",
       "location": "Nagykőrös, Tázerdő dűlő",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Nagykőrösnél",
+          "datetime": "2026.11.09. 14:20",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a tűz továbbterjedését, majd eloltották a lángokat Nagykőrös külterületén, a Tázerdő dűlőn, ahol kigyulladt egy családi ház. Leégett és a födémmel együtt beszakadt a korábban becsültnél nagyobb, mintegy nyolcvan négyzetméteres épület tetőszerkezete, és a benne lévő berendezési tárgyak is megsemmisültek. Feltehetőleg egy gázpalack is felrobbant az égő ingatlanban, amelyhez ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók vonultak ki. A rajok három vízsugárral fékezték meg a lángokat.",
+          "location": "Nagykőrös, Tázerdő dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93559"
+        }
+      ]
     },
     {
       "id": "93558",
@@ -141,9 +159,9 @@
       "title": "Karambolozott két autó Bátonyterenyén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93551",
-      "lead": "Az Akácos és a Szabadság út kereszteződésénél forgalmi akadály van.",
-      "body": "Egymásnak ütközött két személyautó Bátonyterenyén, az Akácos és a Szabadság út kereszteződésében. A város hivatásos tűzoltói vonultak ki a balesethez, és áramtalanították az egyik járművet. A másiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalmi akadály van.",
-      "location": "Bátonyterenye, Akácos út, Szabadság út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
