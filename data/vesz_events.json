@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T08:18:24.358895+00:00",
-  "count": 3062,
+  "updated_at": "2026-11-09T08:22:19.439426+00:00",
+  "count": 3063,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93551",
+      "datetime": "2026.11.09. 09:21",
+      "title": "Karambolozott két autó Bátonyterenyén",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93551",
+      "lead": "Az Akácos és a Szabadság út kereszteződésénél forgalmi akadály van.",
+      "body": "Egymásnak ütközött két személyautó Bátonyterenyén, az Akácos és a Szabadság út kereszteződésében. A város hivatásos tűzoltói vonultak ki a balesethez, és áramtalanították az egyik járművet. A másiknál nincs szükség ilyen beavatkozásra. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Bátonyterenye, Akácos út, Szabadság út",
+      "updates": []
+    },
     {
       "id": "93550",
       "datetime": "2026.11.09. 08:55",
