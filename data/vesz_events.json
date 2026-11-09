@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T21:23:23.756430+00:00",
-  "count": 3085,
+  "updated_at": "2026-11-09T21:26:57.182622+00:00",
+  "count": 3086,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93574",
+      "datetime": "2026.11.09. 22:25",
+      "title": "Baleset történt Aszódon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93574",
+      "lead": "A Kossuth Lajos utcába riasztották a tűzoltókat.",
+      "body": "Parkoló autónak ütközött egy személygépkocsi Aszódon, a Kossuth Lajos utca és a Dobó Katalin köz találkozásánál. A baleset következtében egy közvilágítási oszlop is kidőlt. Az aszódi hivatásos tűzoltók áramtalanították a balesetet okozó járművet. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Aszód, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "93573",
       "datetime": "2026.11.09. 19:42",
