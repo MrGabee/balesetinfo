@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:59:27.745222+00:00",
+  "updated_at": "2026-11-09T08:03:23.995029+00:00",
   "count": 3062,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -413,19 +413,10 @@
       "title": "Lakóház ég Budapest III. kerületében",
       "category": "Lakóház ég Budapest III. kerületében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93519",
-      "lead": "A Pozsonyi utcába riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy lakóház egyik ingatlanja Budapest III. kerületében, a Pozsonyi utcában. A fővárosi katasztrófavédelmi műveleti szolgálat irányítása mellett a békásmegyeri és a fővárosi hivatásos tűzoltók oltják a lángokat. A helyszínre mentő is érkezett.",
-      "location": "Budapest, Pozsonyi utca",
-      "updates": [
-        {
-          "title": "Eloltották a csillaghegyi tüzet",
-          "datetime": "2026.11.08. 08:48",
-          "category": "Tűzeset",
-          "text": "Budapest harmadik kerületében, a Pozsonyi utcában egy négyszintes társasház egyik lakásában keletkezett tűz, a teljes épület megtelt füsttel. A fővárosi hivatásos tűzoltók nagy erőkkel vonultak a helyszínre, az egységek a katasztrófavédelmi műveleti szolgálat irányításával, vízsugarakkal eloltották a lángokat. A rajok már a beizzásokat szüntetik meg, illetve hűtik a külső homlokzatot, valamint a tetőt. Az épületből tizenöt lakót menekítettek ki, két embert mentőálarcban vittek a szabadba a tűzoltók, a helyszínre mentő is érkezett. A lakók számára melegedőbuszt biztosítanak. A tűzzel érintett lakás tulajdonosának az önkormányzat biztosít átmeneti szállást. A gázművek szakemberei átvizsgálják az épületet, ezt követően derül ki, hogy ki kell-e azt zárni a szolgáltatásból, illetve, hogy végül hány lakónak lesz szüksége lakosságvédelmi intézkedésre.",
-          "location": "Budapest, Pozsonyi utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93519/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93519"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93518",
@@ -488,9 +479,9 @@
       "title": "Karambol Budapest I. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93513",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Várkert rakpartnál forgalmi akadály van.",
+      "body": "Összeütközött két személygépkocsi Budapest I. kerületében, a Várkert rakpartnál. A baleset következtében az egyik autó a villamossínekre sodródott. A fővárosi hivatásos tűzoltók műszaki mentést végeznek. A baleset a közösségi közlekedés forgalmát is akadályozza.",
+      "location": "Budapest, Várkert rakpart",
       "updates": []
     },
     {
