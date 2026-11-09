@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-11-09T13:17:12.684551+00:00",
-  "count": 3071,
+  "updated_at": "2026-11-09T13:20:34.962751+00:00",
+  "count": 3072,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
     {
+      "id": "93560",
+      "datetime": "2026.11.09. 14:19",
+      "title": "Árokba borult egy kisteherautó Várpalotán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93560",
+      "lead": "A Fehérvári úton van szükség műszaki mentésre.",
+      "body": "Árokba borult egy kisteherautó Várpalotán, a Fehérvári úton. A Kisfaludy utca és a Régi Malom utca közötti szakaszán történt balesethez a pétfürdői hivatásos tűzoltókat riasztották, akik áramtalanítják a járművet. Az eset nem okoz forgalmi akadályt.",
+      "location": "Várpalota, Fehérvári út",
+      "updates": []
+    },
+    {
       "id": "93559",
-      "datetime": "2026.11.09. 13:53",
+      "datetime": "2026.11.09. 13:53 -",
       "title": "Ég egy ház Nagykőrösnél",
-      "category": "Tűzeset",
+      "category": "Ég egy ház Nagykőrösnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559",
       "lead": "A Tázerdő dűlőn keletkezett tűz.",
       "body": "Kigyulladt egy családi ház Nagykőrös külterületén, a Tázerdő dűlőn. Teljes terjedelmében ég a mintegy harminc négyzetméteres épület, amelynek már leégett a tetőszerkezete, és beszakadt a födémje. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók oltják a lángokat.",
