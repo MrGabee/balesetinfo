@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T16:56:17.448138+00:00",
-  "count": 3078,
+  "updated_at": "2026-11-09T16:59:26.373619+00:00",
+  "count": 3079,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93567",
+      "datetime": "2026.11.09. 17:58",
+      "title": "Karambol Esztergom és Pilisszentlélek között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93567",
+      "lead": "Az 1111-es utat lezárták.",
+      "body": "Két személyautó karambolozott Esztergomot és Pilisszentléleket összekötő, 1111-es út 27-es és 28-as kilométerszelvénye között. A műszaki mentést a bajnai hivatásos tűzoltók végzik. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Esztergom, 1111",
+      "updates": []
+    },
     {
       "id": "93566",
       "datetime": "2026.11.09. 17:30",
