@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T17:10:37.159658+00:00",
-  "count": 3079,
+  "updated_at": "2026-11-09T17:14:12.194831+00:00",
+  "count": 3080,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93568",
+      "datetime": "2026.11.09. 18:12",
+      "title": "Oldalára borult egy autó a 36-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93568",
+      "lead": "Nagycserkesz és Nyíregyháza között váltakozva halad a forgalom.",
+      "body": "Oldalára borult egy személyautó a 36-os főút Nagycserkesz és Nyíregyháza közötti szakaszának 41-es kilométerszelvényénél. A nyíregyházi hivatásos tűzoltók feszítővágó segítségével egy embert kiemeltek a gépkocsiból, majd átadták őt a mentőknek. Az érintett útszakaszon félpályán, váltakozva halad a forgalom.",
+      "location": "Nagycserkesz, 36",
+      "updates": []
+    },
     {
       "id": "93567",
       "datetime": "2026.11.09. 17:58",
