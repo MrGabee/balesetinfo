@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T09:43:12.707073+00:00",
-  "count": 3067,
+  "updated_at": "2026-11-09T09:46:56.137032+00:00",
+  "count": 3068,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93556",
+      "datetime": "2026.11.09. 10:46",
+      "title": "Karambol történt a 71-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93556",
+      "lead": "Balatonvilágos közelében akadályozza a forgalmat a baleset.",
+      "body": "Egymásnak ütközött egy kamion és egy személygépkocsi a 71-es főúton, Balatonvilágos térségében, az M7-es autópálya lehajtójánál. A siófoki hivatásos tűzoltók vonultak ki a balesethez, amelynek helyszínén teljes szélességében lezárták az utat. A karambolhoz a mentőket is riasztották.",
+      "location": "Balatonvilágos, 71",
+      "updates": []
+    },
     {
       "id": "93555",
       "datetime": "2026.11.09. 10:37",
@@ -75,9 +86,9 @@
       "title": "Lehajtott egy kamion az M7-esről",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93549",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Balatonvilágos közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Lehajtott az úttestről és egy bokros, fás területen állt meg egy kamion az M7-es autópálya Budapest felé vezető oldalán, Balatonvilágos közelében, a 91. kilométernél. A balesethez a siófoki hivatásos tűzoltókat riasztották. A rajok áramtalanították a járművet, amely nem akadályozza a forgalmat. A helyszínen vannak a mentők is.",
+      "location": "Balatonvilágos, M7",
       "updates": []
     },
     {
