@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T09:39:09.353014+00:00",
+  "updated_at": "2026-11-09T09:43:12.707073+00:00",
   "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -10,7 +10,7 @@
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93555",
       "lead": "A 31-es főúton történt újabb baleset.",
-      "body": "Árokba csúszott, majd felborult egy személyautó a 31-es főúton, Maglód határában, a 29. és a 30. kilométer között. A tetején állt meg a jármű, amelyből kiszállt a benne utazó. A műszaki mentést végző monori hivatásos és gyömrői önkéntes tűzoltók a kerekeire állították és áramtalanították a gépkocsit. .",
+      "body": "Árokba csúszott, majd felborult egy személyautó a 31-es főúton, Maglód határában, a 29. és a 30. kilométer között. A tetején állt meg a jármű, amelyből kiszállt a benne utazó. A műszaki mentést végző monori hivatásos és gyömrői önkéntes tűzoltók a kerekeire állították és áramtalanították a gépkocsit.",
       "location": "Maglód, 31",
       "updates": []
     },
@@ -75,9 +75,9 @@
       "title": "Lehajtott egy kamion az M7-esről",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93549",
-      "lead": "Balatonvilágos közelében van szükség tűzoltói beavatkozásra.",
-      "body": "Lehajtott az úttestről és egy bokros, fás területen állt meg egy kamion az M7-es autópálya Budapest felé vezető oldalán, Balatonvilágos közelében, a 91. kilométernél. A balesethez a siófoki hivatásos tűzoltókat riasztották. A rajok áramtalanították a járművet, amely nem akadályozza a forgalmat. A helyszínen vannak a mentők is.",
-      "location": "Balatonvilágos, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -404,9 +404,9 @@
       "title": "Felborult egy kamion az M5-ösön, Kistelek térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93524",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon, a 135-136-os kilométer között történt a baleset.",
+      "body": "Felborult egy kamion az M5-ös autópályán, a főváros felé vezető oldal 135-136-os kilométere között. A Kistelek térségében történt balesetnél a jármű a pálya melletti területre borult. A kisteleki hivatásos tűzoltók vonultak a helyszínre, a teherautó sofőrjéhez mentő érkezett.",
+      "location": "Kistelek, M5",
       "updates": []
     },
     {
