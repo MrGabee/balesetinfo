@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:40:17.173164+00:00",
+  "updated_at": "2026-11-09T08:44:10.380387+00:00",
   "count": 3063,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -115,14 +115,23 @@
     },
     {
       "id": "93541",
-      "datetime": "2026.11.09. 06:23",
+      "datetime": "2026.11.09. 06:23 -",
       "title": "Elsőfokú riasztást adott ki ónos eső veszélye miatt a HungaroMet",
-      "category": "Meteorológiai riasztás",
+      "category": "Elsőfokú riasztást adott ki ónos eső veszélye miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93541",
       "lead": "Az érintett területeken néhány tized milliméter csapadék eshet.",
       "body": "Elsőfokú, citromsárga riasztást adott ki ónos eső veszélye miatt a HungaroMet. Az érintett területeken néhány tized milliméter csapadék eshet. Amennyiben az HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.11.09. 09:41",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban ónos eső veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93541/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93541"
+        }
+      ]
     },
     {
       "id": "93540",
@@ -172,9 +181,9 @@
       "title": "Súlyos baleset történt Nyíregyházán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93537",
-      "lead": "A Pazonyi úton egy álló autóba rohant egy másik gépkocsi.",
-      "body": "Egy, a benzinkútnál várakozó személykocsiba rohant egy másik autó Nyíregyházán, a Pazonyi úton, a Jég és a Nád utca közötti szakaszon lévő üzemanyagtöltő-állomáson. A mozgó járműben csak a sofőr utazott, az álló autóban ketten ültek. Utóbbi gépkocsiból egy embert a város hivatásos tűzoltói feszítővágó segítségével szabadítottak ki. Az egységek emellett áramtalanítottak. A helyszínre mentő érkezett.",
-      "location": "Nyíregyháza, Pazonyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
