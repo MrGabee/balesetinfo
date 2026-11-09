@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T15:04:47.144802+00:00",
-  "count": 3075,
+  "updated_at": "2026-11-09T15:08:10.924244+00:00",
+  "count": 3076,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93564",
+      "datetime": "2026.11.09. 16:05",
+      "title": "Összeütközött két autó a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93564",
+      "lead": "Kisvárda közelében történt a baleset.",
+      "body": "Összeütközött két személyautó a 4-es főút Kisvárda és Ajak közötti szakaszán, a 319-es kilométerszelvénynél. A kisvárdai hivatásos tűzoltók áramtalanították a gépkocsikat. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kisvárda, Városmajor utca",
+      "updates": []
+    },
     {
       "id": "93563",
       "datetime": "2026.11.09. 14:53 -",
@@ -415,9 +426,9 @@
       "title": "Kigyulladt egy szauna Győrszemerén",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93531",
-      "lead": "A Tó utcába helyi és győri tűzoltók vonultak.",
-      "body": "Kigyulladt és teljes terjedelmében égett egy szauna egy győrszemerei, Tó utcai családi ház kertjében. A lángok átterjedtek egy fa játszóházra is, és kárt tettek egy telepíthető medencében is. A helyi önkéntes és a győri hivatásos tűzoltók vízsugarakkal körülhatárolták, eloltották a lángokat. Az egységek már az utómunkálatoknál tartanak.",
-      "location": "Győrszemere, Tó utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -440,16 +451,7 @@
       "lead": "A Kölcsey Ferenc utcába jászberényi és helyi tűzoltókat riasztottak.",
       "body": "Kigyulladt és teljes terjedelmében ég egy lakóház Jászkiséren, a Kölcsey Ferenc utcában. A lángok átterjedtek egy mellette álló épület tetőszerkezetére is. A helyszínre elsőként a helyi önkormányzati tűzoltók érkeztek ki, az egység légzésvédelem, illetve két sugár fedezete mellett behatolt az épületbe. A Kölcsey utcába mentőt is riasztottak.",
       "location": "Jászkisér, Kölcsey Ferenc utca",
-      "updates": [
-        {
-          "title": "Megszüntették a lángokat Jászkiséren",
-          "datetime": "2026.11.08. 19:39",
-          "category": "Tűzeset",
-          "text": "A Kölcsey Ferenc utcában gyulladt ki egy lakóház, illetve egy melléképület. Az elsődleges információkkal ellentétben a lakóépület nem lángolt teljes terjedelmében, két helyiségében volt tűz, amely nem érte el a főépület tetőszerkezetét, viszont átterjedt a melléképület tetejére. A jászberényi hivatásos és a helyi önkormányzati tűzoltók megfékezték a lángokat. Az egységek megbontották a melléképület tetejét, átvizsgálták az épületrészeket. A házban egy ember volt a tűz keletkezésekor, őt a melléképület két lakója vitte a szabadba. A helyszínre mentő érkezett.",
-          "location": "Jászkisér, Kölcsey Ferenc utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93529/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93529"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93528",
