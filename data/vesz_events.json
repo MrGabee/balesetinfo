@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T00:39:27.074044+00:00",
-  "count": 3047,
+  "updated_at": "2026-11-09T00:43:21.357902+00:00",
+  "count": 3048,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93536",
+      "datetime": "2026.11.09. 01:39",
+      "title": "Kisebb tűz volt egy szegedi társasházban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93536",
+      "lead": "A Kereszttöltés utcában az egyik lakás konyhájában dolgoztak a tűzoltók.",
+      "body": "A mikrohullámú sütő és annak környezete égett egy szegedi, Kereszttöltés utcai társasházi lakásban. A megyeszékhely hivatásos tűzoltói egy vízsugárral rövid idő alatt eloltották a konyhai lángokat. A tűzoltók átszellőztették a lakást és a lépcsőházat. A lakásban hárman élnek, mindhárman otthonukban maradnak.",
+      "location": "Szeged, Kereszttöltés utca",
+      "updates": []
+    },
     {
       "id": "93535",
       "datetime": "2026.11.09. 01:35",
