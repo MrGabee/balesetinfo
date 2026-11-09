@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T09:35:22.304374+00:00",
-  "count": 3066,
+  "updated_at": "2026-11-09T09:39:09.353014+00:00",
+  "count": 3067,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93555",
+      "datetime": "2026.11.09. 10:37",
+      "title": "A tetejére borult egy autó Maglódnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93555",
+      "lead": "A 31-es főúton történt újabb baleset.",
+      "body": "Árokba csúszott, majd felborult egy személyautó a 31-es főúton, Maglód határában, a 29. és a 30. kilométer között. A tetején állt meg a jármű, amelyből kiszállt a benne utazó. A műszaki mentést végző monori hivatásos és gyömrői önkéntes tűzoltók a kerekeire állították és áramtalanították a gépkocsit. .",
+      "location": "Maglód, 31",
+      "updates": []
+    },
     {
       "id": "93554",
       "datetime": "2026.11.09. 10:27",
@@ -393,9 +404,9 @@
       "title": "Felborult egy kamion az M5-ösön, Kistelek térségében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93524",
-      "lead": "A Budapest felé vezető oldalon, a 135-136-os kilométer között történt a baleset.",
-      "body": "Felborult egy kamion az M5-ös autópályán, a főváros felé vezető oldal 135-136-os kilométere között. A Kistelek térségében történt balesetnél a jármű a pálya melletti területre borult. A kisteleki hivatásos tűzoltók vonultak a helyszínre, a teherautó sofőrjéhez mentő érkezett.",
-      "location": "Kistelek, M5",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
