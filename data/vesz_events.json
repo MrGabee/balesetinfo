@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T11:01:47.283497+00:00",
-  "count": 3068,
+  "updated_at": "2026-11-09T11:05:25.235135+00:00",
+  "count": 3069,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93557",
+      "datetime": "2026.11.09. 12:04",
+      "title": "Baleset történt Gödöllő és Valkó között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93557",
+      "lead": "A 3104-es utat lezárták.",
+      "body": "Szalagkorlátnak ütközött, majd árokba csapódott egy személyautó Gödöllőt és Valkót összekötő, 3104-es út 9-es és 10-es kilométerszelvénye között. A gödöllői hivatásos tűzoltók áramtalanították a gépkocsit. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Valkó, 3104",
+      "updates": []
+    },
     {
       "id": "93556",
       "datetime": "2026.11.09. 10:46",
