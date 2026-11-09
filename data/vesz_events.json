@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-09T17:56:53.793428+00:00",
-  "count": 3081,
+  "updated_at": "2026-11-09T18:00:21.519172+00:00",
+  "count": 3082,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93570",
+      "datetime": "2026.11.09. 18:58",
+      "title": "Garázs égett Magyarkeresztúron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93570",
+      "lead": "A Rákóczi Ferenc utcában oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy garázs Magyarkeresztúron, a Rákóczi Ferenc utcában. A csornai hivatásos, valamint a bogyoszló és a szili önkéntes tűzoltók három vízsugárral eloltották a lángokat. A tűz oltását egy kapuvári vízszállító is segítette. A helyszínre mentő is érkezett.",
+      "location": "Magyarkeresztúr, Rákóczi Ferenc utca",
+      "updates": []
+    },
     {
       "id": "93569",
       "datetime": "2026.11.09. 18:31",
