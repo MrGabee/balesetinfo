@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T19:01:54.359298+00:00",
-  "count": 3122,
+  "updated_at": "2026-11-10T19:05:33.996743+00:00",
+  "count": 3123,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93611",
+      "datetime": "2026.11.10. 20:04",
+      "title": "Ház égett Miskolcon",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93611",
+      "lead": "A Galagonyás soron csaptak fel a lángok.",
+      "body": "Kigyulladt egy tizenöt négyzetméteres ház Miskolcon, a Galagonyás soron. A miskolci hivatásos tűzoltók oltották el a lángokat. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Miskolc, Galagonyás sor",
+      "updates": []
+    },
     {
       "id": "93610",
       "datetime": "2026.11.10. 19:51",
