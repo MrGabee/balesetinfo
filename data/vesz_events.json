@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:22:07.720697+00:00",
+  "updated_at": "2026-11-10T08:25:41.883313+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,16 +34,7 @@
       "lead": "A tűzoltók a Jókai utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Novajidrányban, a Jókai utcában. Az épület tetőszerkezete és egy helyisége ég. Az encsi hivatásos tűzoltók két vízsugárral oltják a lángokat.",
       "location": "Novajidrány, Jókai utca",
-      "updates": [
-        {
-          "title": "Megfékezték a lángokat Novajidrányban",
-          "datetime": "2026.11.10. 08:35",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Novajidrányban, ahol tűz ütött ki egy Jókai utcai lakóházban. Az épület tetőszerkezete és egy helyisége égett. Az encsi hivatásos tűzoltók két vízsugárral fékezték meg a lángokat, és megkezdték az utómunkálatokat.",
-          "location": "Novajidrány, Jókai utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93578/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93578"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93577",
@@ -430,9 +421,9 @@
       "title": "Baleset történt Szentendrén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93545",
-      "lead": "A dömörkapui elágazásnál felborult egy autó.",
-      "body": "Felborult egy személykocsi Szentendrén, a dömörkapui elágazásnál. A járműben csak annak vezetője utazott. A szentendrei hivatásos tűzoltók áramtalanították az autót. A forgalom félpályán halad.",
-      "location": "Szentendre, Annavölgyi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
