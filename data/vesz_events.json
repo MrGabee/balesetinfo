@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:55:25.584318+00:00",
+  "updated_at": "2026-11-10T12:59:13.098460+00:00",
   "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -173,14 +173,6 @@
       "location": "Balatonlelle, Margaréta utca",
       "updates": [
         {
-          "title": "Már körülhatárolták a lángokat Balatonlellén",
-          "datetime": "2026.11.10. 06:18",
-          "category": "Tűzeset",
-          "text": "Már körülhatárolták a lángokat Balatonlellén, ahol egy kétszintes üdülő tetőszerkezete ég a Margaréta utcában. A siófoki, marcali és kaposvári hivatásos, valamint a balatonboglári önkormányzati tűzoltók öt vízsugárral megakadályozták a lángok továbbterjedését. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
-          "location": "Balatonlelle, Margaréta utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93576/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93576"
-        },
-        {
           "title": "Eloltották a balatonlellei tűz lángjait",
           "datetime": "2026.11.10. 09:55",
           "category": "Tűzeset",
@@ -306,9 +298,9 @@
       "title": "Villanyoszlopnak hajtott egy autó Szolnokon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93565",
-      "lead": "A Petőfi Sándor utcába vonultak a tűzoltók.",
-      "body": "Villanyoszlopnak hajtott egy személyautó Szolnokon, a Petőfi Sándor utcában, a Konstantin utca közelében. A város hivatásos tűzoltói áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
-      "location": "Szolnok, Petőfi Sándor utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -434,9 +426,9 @@
       "title": "A tetejére borult egy autó Maglódnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93555",
-      "lead": "A 31-es főúton történt újabb baleset.",
-      "body": "Árokba csúszott, majd felborult egy személyautó a 31-es főúton, Maglód határában, a 29. és a 30. kilométer között. A tetején állt meg a jármű, amelyből kiszállt a benne utazó. A műszaki mentést végző monori hivatásos és gyömrői önkéntes tűzoltók a kerekeire állították és áramtalanították a gépkocsit.",
-      "location": "Maglód, 31",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
