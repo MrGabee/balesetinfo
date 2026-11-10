@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T09:58:17.808193+00:00",
-  "count": 3092,
+  "updated_at": "2026-11-10T10:02:05.468423+00:00",
+  "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93581",
+      "datetime": "2026.11.10. 11:00",
+      "title": "Autótűz a XVI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93581",
+      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
+      "body": "Kigyulladt egy gépkocsi Budapest XVI. kerületében, a Cinkotai úton. A fővárosi hivatásos tűzoltók egy vízsugárral oltották el a lángokat. Utómunkálatokat végeznek.",
+      "location": "Budapest, Cinkotai út",
+      "updates": []
+    },
     {
       "id": "93580",
       "datetime": "2026.11.10. 09:19",
