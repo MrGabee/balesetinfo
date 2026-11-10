@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T21:52:11.752311+00:00",
-  "count": 3126,
+  "updated_at": "2026-11-10T21:55:34.232214+00:00",
+  "count": 3127,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93615",
+      "datetime": "2026.11.10. 22:52",
+      "title": "Baleset a XI. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93615",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Megcsúszott az úton és kidöntött egy táblát egy személygépkocsi Budapest XI. kerületében, az Egér úton. A fővárosi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Budapest, Egér út",
+      "updates": []
+    },
     {
       "id": "93614",
       "datetime": "2026.11.10. 22:17",
