@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-10T14:52:13.705304+00:00",
-  "count": 3106,
+  "updated_at": "2026-11-10T14:55:29.019441+00:00",
+  "count": 3108,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93596",
+      "datetime": "2026.11.10. 15:54",
+      "title": "Égett egy autó a 3-as főúton",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93596",
+      "lead": "A tűzoltók Miskolc és Felsőzsolca között fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személyautó a 3-as főúton, Miskolc és Felsőzsolca között, a 190. kilométernél. A miskolci hivatásos tűzoltók két vízsugárral eloltották a lángokat. A beavatkozás idejére teljes szélességében lezárták az út érintett szakaszát, A gépkocsiban ketten ültek a tűz keletkezésekor, mindketten idejében ki tudtak szállni.",
+      "location": "Felsőzsolca, 3",
+      "updates": []
+    },
+    {
+      "id": "93595",
+      "datetime": "2026.11.10. 15:53",
+      "title": "Árokba hajtott egy autó a 76-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93595",
+      "lead": "Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "body": "Letért az útról és az árokba borult egy személygépkocsi Hagyárosböröndnél, a 76-os főút 72-es kilométerénél.  A zalaegerszegi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszon irányítás mellett halad a forgalom.",
+      "location": "Hagyárosbörönd, Fő utca",
+      "updates": []
+    },
     {
       "id": "93594",
       "datetime": "2026.11.10. 15:33",
