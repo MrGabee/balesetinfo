@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T16:58:09.468647+00:00",
-  "count": 3117,
+  "updated_at": "2026-11-10T17:01:42.051427+00:00",
+  "count": 3118,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93606",
+      "datetime": "2026.11.10. 17:59",
+      "title": "Szalagkorlátnak hajtott egy jármű a 6-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93606",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Szalagkorlátnak hajtott egy gépkocsi Paksnál, a 6-os főút 106-os kilométerénél. A paksi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Paks, 6",
+      "updates": []
+    },
     {
       "id": "93605",
       "datetime": "2026.11.10. 17:54",
