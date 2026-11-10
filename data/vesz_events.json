@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T18:33:16.315038+00:00",
-  "count": 3120,
+  "updated_at": "2026-11-10T18:36:54.199020+00:00",
+  "count": 3121,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93609",
+      "datetime": "2026.11.10. 19:34",
+      "title": "Összeütközött két autó a V. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93609",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Két személygépkocsi karambolozott Budapest V. kerületében, a Belgrád rakparton. A fővárosi hivatásos tűzoltók végzik a műszaki mentést. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Budapest, Belgrád rakpart",
+      "updates": []
+    },
     {
       "id": "93608",
       "datetime": "2026.11.10. 19:03",
