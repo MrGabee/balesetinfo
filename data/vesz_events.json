@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T09:35:43.672366+00:00",
+  "updated_at": "2026-11-10T09:39:25.121048+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -54,16 +54,7 @@
       "lead": "Az érintett területeken néhány tized milliméter csapadék eshet.",
       "body": "Elsőfokú, citromsárga riasztást adott ki ónos eső veszélye miatt a HungaroMet. Az érintett területeken néhány tized milliméter csapadék eshet. Amennyiben az HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.11.10. 10:16",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban ónos eső veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93577/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93577"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93576",
@@ -165,9 +156,9 @@
       "title": "Vadat gázolt egy autó a 7-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93569",
-      "lead": "Szabadbattyán és Kőszárhegy között forgalmi akadályra kell számítani.",
-      "body": "Vadat gázolt egy személyautó a 7-es főúton, Szabadbattyán és Kőszárhegy között, a 79-es kilométerszelvénynél. A balesethez a székesfehérvári hivatásos és a sárvízi önkéntes tűzoltókat riasztották, akik áramtalanították a gépkocsit. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Kőszárhegy, 7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,9 +383,9 @@
       "title": "Törökbálint közelében is baleset történt az M7-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93550",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Budapest felé vezető oldalon karambolozott két gépkocsi.",
+      "body": "Összeütközött egy kisbusz és egy személyautó az M7-es autópálya Budapest felé vezető oldalán, Törökbálint közelében, a 14. kilométernél. A műszaki mentést végző érdi hivatásos tűzoltók áramtalanították a járműveket, amelyek a leállósávban vannak. Az érintett sztrádaszakaszon folyamatosan halad a forgalom, de torlódásra kell számítani.",
+      "location": "Törökbálint, M7",
       "updates": []
     },
     {
