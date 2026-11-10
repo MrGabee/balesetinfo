@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:29:28.580030+00:00",
+  "updated_at": "2026-11-10T08:33:02.253314+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -217,16 +217,7 @@
       "lead": "Egy lakókocsi és egy garázs is ég.",
       "body": "Teljes terjedelmében ég egy lakókocsi Budapest XIV. kerületében, az Ajtósi Dürer sor és a Francia út találkozásánál. A tűz egy garázs tetőszerkezetére is átterjedt. A fővárosi hivatásos tűzoltók jelenleg több vízsugárral oltják a lángokat.",
       "location": "Budapest, Ajtósi Dürer sor",
-      "updates": [
-        {
-          "title": "Már az utómunkálatokat végzik az Ajtósi Dürer sornál",
-          "datetime": "2026.11.09. 15:03",
-          "category": "Tűzeset",
-          "text": "Már az utómunkálatokat végzik a fővárosi tűzoltók Budapest XIV. kerületében, az Ajtósi Dürer sor és a Francia út találkozásánál, ahol egy lakókocsi égett teljes terjedelmében. A tűz egy garázs tetőszerkezetére is átterjedt. A rajok három vízsugárral oltották el a lángokat.",
-          "location": "Budapest, Ajtósi Dürer sor",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93563/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93563"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93562",
@@ -234,9 +225,9 @@
       "title": "Oldalára borult egy autó a 253-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93562",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Mezőkövesd és Andornaktálya között dolgoznak a tűzoltók.",
+      "body": "Oldalára borult egy személyautó a 253-as főút Mezőkövesd és Andornaktálya közötti szakaszán, a 8-as kilométerszelvénynél. A balesethez az egri hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
+      "location": "Mezőkövesd, 253",
       "updates": []
     },
     {
@@ -331,9 +322,9 @@
       "title": "Munkagép és személyautó ütközött Pázmándon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93554",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bágyomi úton félpályán halad a forgalom.",
+      "body": "Munkagép és személyautó ütközött össze Pázmándon, a Bágyomi úton, a Szőlőhegy közelében. A balesethez a székesfehérvári hivatásos tűzoltókat riasztották, akik áramtalanították a személygépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Pázmánd, Bágyomi út",
       "updates": []
     },
     {
