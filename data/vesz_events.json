@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T07:49:48.276816+00:00",
-  "count": 3090,
+  "updated_at": "2026-11-10T07:53:22.722241+00:00",
+  "count": 3091,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93579",
+      "datetime": "2026.11.10. 08:52",
+      "title": "Baleset történt a 7416-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93579",
+      "lead": "Csesztregnél dolgoznak a tűzoltók",
+      "body": "Árokba, majd fának csapódott egy platós kisteherautó Csesztregnél, a 7416-os úton a 9-es és 10-es kilométere közötti szakaszán. A baleset következtében egy ember beszorult, őt a lenti hivatásos tűzoltók szabadították ki. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Csesztreg, 7416",
+      "updates": []
+    },
     {
       "id": "93578",
       "datetime": "2026.11.10. 07:54 -",
