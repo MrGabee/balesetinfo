@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T17:44:01.693929+00:00",
-  "count": 3118,
+  "updated_at": "2026-11-10T17:47:53.355639+00:00",
+  "count": 3119,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93607",
+      "datetime": "2026.11.10. 18:44",
+      "title": "Karambol az M5-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93607",
+      "lead": "A Szeged felé vezető sztrádaszakasz 62-es kilométerénél történt a baleset.",
+      "body": "Összeütközött egy kisteherautó és egy személygépkocsi Lajosmizsénél, az M5-ös autópálya 62-es kilométerénél, a Szeged felé vezető oldalon. A dabasi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Lajosmizse, M5",
+      "updates": []
+    },
     {
       "id": "93606",
       "datetime": "2026.11.10. 17:59",
