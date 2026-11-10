@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T16:36:38.981519+00:00",
-  "count": 3114,
+  "updated_at": "2026-11-10T16:40:35.969520+00:00",
+  "count": 3115,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93603",
+      "datetime": "2026.11.10. 17:40",
+      "title": "Hármas karambol Enyingen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93603",
+      "lead": "A 64-es főút érintett szakaszát teljes szélességében lezárták.",
+      "body": "Összeütközött három személygépkocsi Enyingen, a Fő utcában, azaz a 64-es főúton, a Kertalja utca közelében. A siófoki hivatásos tűzoltók áramtalanították a járműveket. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Enying, Fő utca",
+      "updates": []
+    },
     {
       "id": "93602",
       "datetime": "2026.11.10. 17:29",
