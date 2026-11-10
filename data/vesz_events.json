@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T20:58:38.701501+00:00",
-  "count": 3124,
+  "updated_at": "2026-11-10T21:02:15.060494+00:00",
+  "count": 3125,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93613",
+      "datetime": "2026.11.10. 22:02",
+      "title": "Villanyoszlopnak ütközött egy autó Komádiban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93613",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Beton villanyoszlopnak ütközött egy személygépkocsi Komádiban, a Fő utcában. A baleset következtében a villanyoszlop kidőlt. A komádi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Komádi, Fő utca",
+      "updates": []
+    },
     {
       "id": "93612",
       "datetime": "2026.11.10. 20:20",
