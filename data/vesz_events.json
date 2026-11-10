@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T19:19:18.506384+00:00",
-  "count": 3123,
+  "updated_at": "2026-11-10T19:22:46.240691+00:00",
+  "count": 3124,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93612",
+      "datetime": "2026.11.10. 20:20",
+      "title": "Oszlopnak ütközött egy autó a XXII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93612",
+      "lead": "A Savoyai Jenő téren történt a baleset.",
+      "body": "Villanyoszlopnak ütközött egy személygépkocsi Budapest XXII. kerületében, a Savoyai Jenő téren. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóság is az esethez érkezett.",
+      "location": "Budapest, Savoyai Jenő tér",
+      "updates": []
+    },
     {
       "id": "93611",
       "datetime": "2026.11.10. 20:04",
