@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T15:28:09.710513+00:00",
-  "count": 3109,
+  "updated_at": "2026-11-10T15:31:31.450893+00:00",
+  "count": 3110,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93598",
+      "datetime": "2026.11.10. 16:29",
+      "title": "Baleset történt a 76-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93598",
+      "lead": "A tűzoltók Zalaegerszeg közelében áramtalanítottak két autót.",
+      "body": "Két személyautó is árokba csapódott a 76-os főúton, Zalaegerszeg közelében, az 51. kilométernél. A balesetnél a zalaegerszegi hivatásos tűzoltók végezték a műszaki mentést. A raj egy embert kisegített az egyik járműből, és áramtalanította a gépkocsikat.",
+      "location": "Zalaegerszeg, 76",
+      "updates": []
+    },
     {
       "id": "93597",
       "datetime": "2026.11.10. 16:15",
