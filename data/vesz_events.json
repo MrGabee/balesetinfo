@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T11:51:39.285777+00:00",
-  "count": 3095,
+  "updated_at": "2026-11-10T11:55:18.048971+00:00",
+  "count": 3096,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93584",
+      "datetime": "2026.11.10. 12:55",
+      "title": "Oszlopnak ütközött egy autó Ózdon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93584",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Oszlopnak ütközött egy személygépkocsi Ózdon, a Kőalja úton. Az ózdi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Ózd, Kőalja út",
+      "updates": []
+    },
     {
       "id": "93583",
       "datetime": "2026.11.10. 12:25",
