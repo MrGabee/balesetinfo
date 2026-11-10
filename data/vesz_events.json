@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:26:57.867185+00:00",
+  "updated_at": "2026-11-10T14:30:49.514289+00:00",
   "count": 3105,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Fának hajtott egy autó Berekfürdőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93591",
-      "lead": "A IV. Béla király úton történt a baleset.",
-      "body": "Fának ütközött egy személyautó Berekfürdőn, a IV. Béla király úton, a Berek tér közelében. Az ott tartózkodók még a karcagi hivatásos tűzoltók kiérkezése előtt kiemeltek egy embert a járműből. A raj áramtalanította a gépkocsit, és segít a mentőknek, akik szintén a helyszínen vannak.",
-      "location": "Berekfürdő, Berek tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -206,7 +206,16 @@
       "lead": "Az érintett területeken néhány tized milliméter csapadék eshet.",
       "body": "Elsőfokú, citromsárga riasztást adott ki ónos eső veszélye miatt a HungaroMet. Az érintett területeken néhány tized milliméter csapadék eshet. Amennyiben az HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a riasztásokat a HungaroMet",
+          "datetime": "2026.11.10. 10:16",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban ónos eső veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93577/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93577"
+        }
+      ]
     },
     {
       "id": "93576",
