@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:25:41.883313+00:00",
+  "updated_at": "2026-11-10T08:29:28.580030+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -34,7 +34,16 @@
       "lead": "A tűzoltók a Jókai utcában oltják a lángokat.",
       "body": "Kigyulladt egy lakóház Novajidrányban, a Jókai utcában. Az épület tetőszerkezete és egy helyisége ég. Az encsi hivatásos tűzoltók két vízsugárral oltják a lángokat.",
       "location": "Novajidrány, Jókai utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a lángokat Novajidrányban",
+          "datetime": "2026.11.10. 08:35",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Novajidrányban, ahol tűz ütött ki egy Jókai utcai lakóházban. Az épület tetőszerkezete és egy helyisége égett. Az encsi hivatásos tűzoltók két vízsugárral fékezték meg a lángokat, és megkezdték az utómunkálatokat.",
+          "location": "Novajidrány, Jókai utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93578/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93578"
+        }
+      ]
     },
     {
       "id": "93577",
@@ -225,9 +234,9 @@
       "title": "Oldalára borult egy autó a 253-as főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93562",
-      "lead": "Mezőkövesd és Andornaktálya között dolgoznak a tűzoltók.",
-      "body": "Oldalára borult egy személyautó a 253-as főút Mezőkövesd és Andornaktálya közötti szakaszán, a 8-as kilométerszelvénynél. A balesethez az egri hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett.",
-      "location": "Mezőkövesd, 253",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -322,9 +331,9 @@
       "title": "Munkagép és személyautó ütközött Pázmándon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93554",
-      "lead": "A Bágyomi úton félpályán halad a forgalom.",
-      "body": "Munkagép és személyautó ütközött össze Pázmándon, a Bágyomi úton, a Szőlőhegy közelében. A balesethez a székesfehérvári hivatásos tűzoltókat riasztották, akik áramtalanították a személygépkocsit. A helyszínre mentő is érkezett. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Pázmánd, Bágyomi út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -421,9 +430,9 @@
       "title": "Baleset történt Szentendrén",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93545",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A dömörkapui elágazásnál felborult egy autó.",
+      "body": "Felborult egy személykocsi Szentendrén, a dömörkapui elágazásnál. A járműben csak annak vezetője utazott. A szentendrei hivatásos tűzoltók áramtalanították az autót. A forgalom félpályán halad.",
+      "location": "Szentendre, Annavölgyi út",
       "updates": []
     },
     {
