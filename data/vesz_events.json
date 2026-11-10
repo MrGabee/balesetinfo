@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T15:52:16.446512+00:00",
-  "count": 3112,
+  "updated_at": "2026-11-10T15:55:49.029941+00:00",
+  "count": 3113,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93601",
+      "datetime": "2026.11.10. 16:54",
+      "title": "Karambol Nyíregyházán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93601",
+      "lead": "A Vasgyár utcában forgalmi akadály van.",
+      "body": "Összeütközött két személyautó Nyíregyházán, a Vasgyár utcában. A balesethez a város hivatásos tűzoltóit riasztották. A raj áramtalanította a járműveket, amelyek félpályán akadályozzák a forgalmat.",
+      "location": "Nyíregyháza, Vasgyár utca",
+      "updates": []
+    },
     {
       "id": "93600",
       "datetime": "2026.11.10. 16:40",
