@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:05:10.004701+00:00",
+  "updated_at": "2026-11-10T10:08:44.917978+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -304,19 +304,10 @@
       "title": "Ég egy ház Nagykőrösnél",
       "category": "Ég egy ház Nagykőrösnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559",
-      "lead": "A Tázerdő dűlőn keletkezett tűz.",
-      "body": "Kigyulladt egy családi ház Nagykőrös külterületén, a Tázerdő dűlőn. Teljes terjedelmében ég a mintegy harminc négyzetméteres épület, amelynek már leégett a tetőszerkezete, és beszakadt a födémje. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók oltják a lángokat.",
-      "location": "Nagykőrös, Tázerdő dűlő",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Nagykőrösnél",
-          "datetime": "2026.11.09. 14:20",
-          "category": "Tűzeset",
-          "text": "Megakadályozták a tűz továbbterjedését, majd eloltották a lángokat Nagykőrös külterületén, a Tázerdő dűlőn, ahol kigyulladt egy családi ház. Leégett és a födémmel együtt beszakadt a korábban becsültnél nagyobb, mintegy nyolcvan négyzetméteres épület tetőszerkezete, és a benne lévő berendezési tárgyak is megsemmisültek. Feltehetőleg egy gázpalack is felrobbant az égő ingatlanban, amelyhez ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók vonultak ki. A rajok három vízsugárral fékezték meg a lángokat.",
-          "location": "Nagykőrös, Tázerdő dűlő",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93559"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93558",
@@ -357,9 +348,9 @@
       "title": "A tetejére borult egy autó Maglódnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93555",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 31-es főúton történt újabb baleset.",
+      "body": "Árokba csúszott, majd felborult egy személyautó a 31-es főúton, Maglód határában, a 29. és a 30. kilométer között. A tetején állt meg a jármű, amelyből kiszállt a benne utazó. A műszaki mentést végző monori hivatásos és gyömrői önkéntes tűzoltók a kerekeire állították és áramtalanították a gépkocsit.",
+      "location": "Maglód, 31",
       "updates": []
     },
     {
