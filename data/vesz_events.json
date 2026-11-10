@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-10T13:09:59.449172+00:00",
-  "count": 3101,
+  "updated_at": "2026-11-10T13:13:23.488472+00:00",
+  "count": 3103,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93591",
+      "datetime": "2026.11.10. 14:11",
+      "title": "Fának hajtott egy autó Berekfürdőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93591",
+      "lead": "A IV. Béla király úton történt a baleset.",
+      "body": "Fának ütközött egy személyautó Berekfürdőn, a IV. Béla király úton, a Berek tér közelében. Az ott tartózkodók még a karcagi hivatásos tűzoltók kiérkezése előtt kiemeltek egy embert a járműből. A raj áramtalanította a gépkocsit, és segít a mentőknek, akik szintén a helyszínen vannak.",
+      "location": "Berekfürdő, Berek tér",
+      "updates": []
+    },
+    {
+      "id": "93590",
+      "datetime": "2026.11.10. 14:10",
+      "title": "Kisbusz és autó ütközött Pétfürdőn",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93590",
+      "lead": "Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "body": "Összeütközött egy kisbusz és egy személyautó Pétfürdőn, a Cseri utcában. A helyi hivatásos tűzoltók áramtalanították a személyautót. A társhatóságokat is az esethez riasztották. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Pétfürdő, Cseri utca",
+      "updates": []
+    },
     {
       "id": "93589",
       "datetime": "2026.11.10. 14:00",
