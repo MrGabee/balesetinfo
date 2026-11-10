@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T12:51:49.851897+00:00",
-  "count": 3099,
+  "updated_at": "2026-11-10T12:55:25.584318+00:00",
+  "count": 3100,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93588",
+      "datetime": "2026.11.10. 13:53",
+      "title": "Összeütközött két autó Pakson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93588",
+      "lead": "A 6-os főút belterületi szakaszán van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott egy kisteherautó és egy személygépkocsi Pakson, a Dunaföldvári úton, azaz a 6-os főúton, a Kömlődi út közelében. A város hivatásos tűzoltóit riasztották a balesethez. A raj áramtalanította a személyautót.",
+      "location": "Paks, Dunaföldvári út",
+      "updates": []
+    },
     {
       "id": "93587",
       "datetime": "2026.11.10. 13:47",
