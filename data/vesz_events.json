@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-10T15:38:51.758087+00:00",
-  "count": 3110,
+  "updated_at": "2026-11-10T15:42:08.716359+00:00",
+  "count": 3112,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93600",
+      "datetime": "2026.11.10. 16:40",
+      "title": "Újabb baleset a 76-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93600",
+      "lead": "Ismét árokba csúszott egy autó Zalaegerszeg közelében.",
+      "body": "Ismét baleset történt a 76-os főúton, Zalaegerszeg közelében, alig egy kilométerre a korábbi eset helyszínétől. Az 52. kilométernél is árokba csúszott egy személyautó. A zalaegerszegi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon forgalomkorlátozásra lehet számítani.",
+      "location": "Zalaegerszeg, 76",
+      "updates": []
+    },
+    {
+      "id": "93599",
+      "datetime": "2026.11.10. 16:40",
+      "title": "Két jármű ütközött Gyulán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93599",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Két gépkocsi karambolozott Gyulán, a Csabai úton, az Ilosvai utca közelében. A műszaki mentési munkálatok elvégzéséhez a helyi hivatásos tűzoltókat riasztották a helyszínre. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gyula, Csabai út",
+      "updates": []
+    },
     {
       "id": "93598",
       "datetime": "2026.11.10. 16:29",
