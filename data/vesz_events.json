@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T14:30:49.514289+00:00",
-  "count": 3105,
+  "updated_at": "2026-11-10T14:34:18.799431+00:00",
+  "count": 3106,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93594",
+      "datetime": "2026.11.10. 15:33",
+      "title": "Árokba csúszott egy autó a 8-as főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93594",
+      "lead": "Veszprém közelében, a litéri lehajtónál végeznek műszaki mentést a tűzoltók.",
+      "body": "A vizes úton árokba sodródott egy személyautó a 8-as főúton, Veszprém közelében, a 72-es főútra, Litér felé vezető lehajtónál. A veszprémi hivatásos tűzoltók áramtalanították a járművet, amelyben egy ember utazott. Ő ki tudott szállni, a mentők vizsgálják. A baleset helyszínénél forgalomkorlátozásra lehet számítani.",
+      "location": "Litér, 8",
+      "updates": []
+    },
     {
       "id": "93593",
       "datetime": "2026.11.10. 15:22",
@@ -31,9 +42,9 @@
       "title": "Fának hajtott egy autó Berekfürdőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93591",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A IV. Béla király úton történt a baleset.",
+      "body": "Fának ütközött egy személyautó Berekfürdőn, a IV. Béla király úton, a Berek tér közelében. Az ott tartózkodók még a karcagi hivatásos tűzoltók kiérkezése előtt kiemeltek egy embert a járműből. A raj áramtalanította a gépkocsit, és segít a mentőknek, akik szintén a helyszínen vannak.",
+      "location": "Berekfürdő, Berek tér",
       "updates": []
     },
     {
