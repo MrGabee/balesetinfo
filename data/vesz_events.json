@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T18:00:55.596999+00:00",
-  "count": 3119,
+  "updated_at": "2026-11-10T18:04:15.396909+00:00",
+  "count": 3120,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93608",
+      "datetime": "2026.11.10. 19:03",
+      "title": "Szalagkorlátnak ütközött egy autó a 8-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93608",
+      "lead": "Forgalmi akadály van.",
+      "body": "Szalagkorlátnak ütközött egy személygépkocsi Csórnál, a 8-as főút 14-es és 15-ös kilométere közötti szakaszán. A műszaki mentési munkálatok elvégzéséhez a székesfehérvári hivatásos tűzoltók vonultak ki. A társhatóság is a helyszínre érkezett. Az érintett útszakaszon forgalmi akadály van.",
+      "location": "Csór, 8",
+      "updates": []
+    },
     {
       "id": "93607",
       "datetime": "2026.11.10. 18:44",
