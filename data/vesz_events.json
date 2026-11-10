@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:52:02.503000+00:00",
+  "updated_at": "2026-11-10T08:55:22.396975+00:00",
   "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -71,6 +71,14 @@
           "datetime": "2026.11.10. 06:18",
           "category": "Tűzeset",
           "text": "Már körülhatárolták a lángokat Balatonlellén, ahol egy kétszintes üdülő tetőszerkezete ég a Margaréta utcában. A siófoki, marcali és kaposvári hivatásos, valamint a balatonboglári önkormányzati tűzoltók öt vízsugárral megakadályozták a lángok továbbterjedését. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Balatonlelle, Margaréta utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93576/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93576"
+        },
+        {
+          "title": "Eloltották a balatonlellei tűz lángjait",
+          "datetime": "2026.11.10. 09:55",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Balatonlellén, a Margaréta utcában, ahol kigyulladt egy kétszintes üdülő. A mintegy kétszázötven négyzetméteres ingatlan tetőszerkezete égett, a felső szinten beszakadt a födém, így az épület belső része is kigyulladt. A siófoki, a marcali és a kaposvári hivatásos, valamint a balatonboglári önkormányzati tűzoltók, a Somogy megyei katasztrófavédelmi műveleti szolgálat irányítása mellett, öt vízsugárral fékezték meg a lángokat. A rajok megbontják a tetőt és felszámolják a még izzó gócokat.",
           "location": "Balatonlelle, Margaréta utca",
           "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93576/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93576"
         }
@@ -181,9 +189,9 @@
       "title": "Két autó karambolozott a 7-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93566",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Székesfehérvár közelében forgalomkorlátozásra kell számítani.",
+      "body": "Két személyautó ütközött össze a 7-es főúton, Székesfehérvár közelében, a 62-es kilométerszelvénynél. A balesethez a székesfehérvári hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Székesfehérvár, 7",
       "updates": []
     },
     {
