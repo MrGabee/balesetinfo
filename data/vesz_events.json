@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T05:18:57.097224+00:00",
+  "updated_at": "2026-11-10T05:22:57.189258+00:00",
   "count": 3089,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -23,7 +23,16 @@
       "lead": "A Margaréta utcában oltják a lángokat.",
       "body": "Kigyulladt egy üdülő tetőszerkezete Balatonlellén, a Margaréta utcában. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók jelenleg dolgoznak a lángok megfékezésén. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Balatonlelle, Margaréta utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már körülhatárolták a lángokat Balatonlellén",
+          "datetime": "2026.11.10. 06:18",
+          "category": "Tűzeset",
+          "text": "Már körülhatárolták a lángokat Balatonlellén, ahol egy kétszintes üdülő tetőszerkezete ég a Margaréta utcában. A siófoki, marcali és kaposvári hivatásos, valamint a balatonboglári önkormányzati tűzoltók öt vízsugárral megakadályozták a lángok továbbterjedését. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Balatonlelle, Margaréta utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93576/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93576"
+        }
+      ]
     },
     {
       "id": "93575",
