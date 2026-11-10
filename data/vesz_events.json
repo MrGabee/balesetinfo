@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T12:37:10.416515+00:00",
-  "count": 3097,
+  "updated_at": "2026-11-10T12:40:54.194927+00:00",
+  "count": 3098,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93586",
+      "datetime": "2026.11.10. 13:39",
+      "title": "Kigyulladt egy faház Pilisvörösváron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93586",
+      "lead": "Az Őrhegy utcába riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett egy faházban, Pilisvörösváron, az Őrhegy utcában. A rossz állapotú épület tetőszerkezete gyulladt ki, és mintegy tizenöt négyzetméteren a benne lévő berendezési tárgyak is égtek. A város önkéntes tűzoltói kihoztak belőle egy gázpalackot és egy áramfejlesztőt, majd eloltották a lángokat. A helyszínre érkeztek a fővárosi hivatásos tűzoltók id. A rajok utómunkálatokat végeznek.",
+      "location": "Pilisvörösvár, Őrhegy utca",
+      "updates": []
+    },
     {
       "id": "93585",
       "datetime": "2026.11.10. 13:20",
