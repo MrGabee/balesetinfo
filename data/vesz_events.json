@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T11:26:24.868252+00:00",
+  "updated_at": "2026-11-10T11:29:54.117524+00:00",
   "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -31,9 +31,9 @@
       "title": "Autótűz a XVI. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93581",
-      "lead": "A tűzoltók egy vízsugárral oltották el a lángokat.",
-      "body": "Kigyulladt egy gépkocsi Budapest XVI. kerületében, a Cinkotai úton. A fővárosi hivatásos tűzoltók egy vízsugárral oltották el a lángokat. Utómunkálatokat végeznek.",
-      "location": "Budapest, Cinkotai út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -117,6 +117,14 @@
       "body": "Kigyulladt egy üdülő tetőszerkezete Balatonlellén, a Margaréta utcában. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók jelenleg dolgoznak a lángok megfékezésén. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Balatonlelle, Margaréta utca",
       "updates": [
+        {
+          "title": "Már körülhatárolták a lángokat Balatonlellén",
+          "datetime": "2026.11.10. 06:18",
+          "category": "Tűzeset",
+          "text": "Már körülhatárolták a lángokat Balatonlellén, ahol egy kétszintes üdülő tetőszerkezete ég a Margaréta utcában. A siófoki, marcali és kaposvári hivatásos, valamint a balatonboglári önkormányzati tűzoltók öt vízsugárral megakadályozták a lángok továbbterjedését. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
+          "location": "Balatonlelle, Margaréta utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93576/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93576"
+        },
         {
           "title": "Eloltották a balatonlellei tűz lángjait",
           "datetime": "2026.11.10. 09:55",
