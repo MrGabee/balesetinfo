@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T21:55:34.232214+00:00",
-  "count": 3127,
+  "updated_at": "2026-11-10T21:59:32.228332+00:00",
+  "count": 3128,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93616",
+      "datetime": "2026.11.10. 22:55",
+      "title": "Karambol Győrújbarátnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93616",
+      "lead": "A 82-es főúton történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Győrújbarátnál, a 82-es főút 68-as kilométerénél. A győri hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Győrújbarát, Kövecses köz",
+      "updates": []
+    },
     {
       "id": "93615",
       "datetime": "2026.11.10. 22:52",
