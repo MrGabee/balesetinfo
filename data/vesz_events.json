@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T16:51:27.927563+00:00",
-  "count": 3116,
+  "updated_at": "2026-11-10T16:54:44.509365+00:00",
+  "count": 3117,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93605",
+      "datetime": "2026.11.10. 17:54",
+      "title": "Két autó ütközött Érden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93605",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Érden, a Pipacs utca és a Porcsinrózsa utca kereszteződésénél. Az érdi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják a járműveket. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Érd, Porcsinrózsa utca",
+      "updates": []
+    },
     {
       "id": "93604",
       "datetime": "2026.11.10. 17:48",
