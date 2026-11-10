@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T08:18:13.033292+00:00",
-  "count": 3091,
+  "updated_at": "2026-11-10T08:22:07.720697+00:00",
+  "count": 3092,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93580",
+      "datetime": "2026.11.10. 09:19",
+      "title": "Pincetűz Mázán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93580",
+      "lead": "A Kossuth utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy pince Mázán, a Kossuth utcában. A pincében összehordott szemét ég. A bonyhádi hivatásos és a szászvári önkéntes tűzoltók két vízsugárral oltják a lángokat. A szellőztetéshez egy ventilátort használnak.",
+      "location": "Máza, Kossuth utca",
+      "updates": []
+    },
     {
       "id": "93579",
       "datetime": "2026.11.10. 08:52",
