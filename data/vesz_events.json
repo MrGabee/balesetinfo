@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T16:47:35.352615+00:00",
-  "count": 3115,
+  "updated_at": "2026-11-10T16:51:27.927563+00:00",
+  "count": 3116,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93604",
+      "datetime": "2026.11.10. 17:48",
+      "title": "Tűz van Kiskunmajsa külterületén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93604",
+      "lead": "A Marispuszta tanyára riasztották a tűzoltókat.",
+      "body": "Tűz keletkezett Kiskunmajsa külterületén, a Marispuszta tanyán. A helyszínen egy műhely ég. A kiskunhalasi és a kiskunmajsai hivatásos, valamint a kiskunmajsai önkéntes tűzoltók négy vízsugárral oltják a lángokat. A munkálatokat egy kiskunhalasi vízszállító jármű is segíti.",
+      "location": "Kiskunmajsa, Marispuszta tanya",
+      "updates": []
+    },
     {
       "id": "93603",
       "datetime": "2026.11.10. 17:40",
