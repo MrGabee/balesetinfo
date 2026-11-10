@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:23:25.887969+00:00",
+  "updated_at": "2026-11-10T14:26:57.867185+00:00",
   "count": 3105,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -119,9 +119,9 @@
       "title": "Árokba borult egy autó az 5203-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93583",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kunszentmiklós és Szabadszállás között történt a baleset, a tűzoltók áramtalanították a járművet.",
+      "body": "Lesodródott az úttestről, árokba hajtott és az oldalára borult egy személyautó az 5203-as út Kunszentmiklós és Szabadszállás közötti szakaszán, a 33. kilométernél. Egy fás, bokros területen állt meg a jármű, amelyben egy ember utazott. Ő ki tudott szállni. A kunszentmiklósi önkormányzati tűzoltók motoros láncfűrésszel megritkították a környező növényzetet, majd áramtalanították a gépkocsit.",
+      "location": "Kunszentmiklós, 5203",
       "updates": []
     },
     {
@@ -206,16 +206,7 @@
       "lead": "Az érintett területeken néhány tized milliméter csapadék eshet.",
       "body": "Elsőfokú, citromsárga riasztást adott ki ónos eső veszélye miatt a HungaroMet. Az érintett területeken néhány tized milliméter csapadék eshet. Amennyiben az HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a riasztásokat a HungaroMet",
-          "datetime": "2026.11.10. 10:16",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban ónos eső veszélye miatt kiadott elsőfokú riasztást, így Magyarország területén jelenleg nincs veszélyes időjárási jelenség. Amennyiben a HungaroMet ismét meteorológiai riasztást ad ki, arról újabb közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93577/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93577"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93576",
