@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T14:19:27.986799+00:00",
-  "count": 3104,
+  "updated_at": "2026-11-10T14:23:25.887969+00:00",
+  "count": 3105,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93593",
+      "datetime": "2026.11.10. 15:22",
+      "title": "Korlátnak csúszott egy autó Székesfehérvárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93593",
+      "lead": "A 8-as és a 801-es főút csomópontjánál forgalomkorlátozásra kell számítani.",
+      "body": "A szalagkorlátnak ütközött egy személyautó Székesfehérvár és Csór között, a 8-as és a 801-es főút csomópontjában. A székesfehérvári hivatásos tűzoltók végzik a műszaki mentést a balesetnél. A raj áramtalanította a gépkocsit, amely akadályozza a forgalmat, és az alkatrészei is szétszóródtak az úttesten. Az érintett útszakaszon félpályán haladnak a járművek.",
+      "location": "Székesfehérvár, 8, 801",
+      "updates": []
+    },
     {
       "id": "93592",
       "datetime": "2026.11.10. 15:09",
@@ -108,9 +119,9 @@
       "title": "Árokba borult egy autó az 5203-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93583",
-      "lead": "Kunszentmiklós és Szabadszállás között történt a baleset, a tűzoltók áramtalanították a járművet.",
-      "body": "Lesodródott az úttestről, árokba hajtott és az oldalára borult egy személyautó az 5203-as út Kunszentmiklós és Szabadszállás közötti szakaszán, a 33. kilométernél. Egy fás, bokros területen állt meg a jármű, amelyben egy ember utazott. Ő ki tudott szállni. A kunszentmiklósi önkormányzati tűzoltók motoros láncfűrésszel megritkították a környező növényzetet, majd áramtalanították a gépkocsit.",
-      "location": "Kunszentmiklós, 5203",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -295,9 +306,9 @@
       "title": "Garázs égett Magyarkeresztúron",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93570",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Rákóczi Ferenc utcában oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy garázs Magyarkeresztúron, a Rákóczi Ferenc utcában. A csornai hivatásos, valamint a bogyoszló és a szili önkéntes tűzoltók három vízsugárral eloltották a lángokat. A tűz oltását egy kapuvári vízszállító is segítette. A helyszínre mentő is érkezett.",
+      "location": "Magyarkeresztúr, Rákóczi Ferenc utca",
       "updates": []
     },
     {
