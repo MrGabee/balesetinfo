@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T14:08:17.257754+00:00",
-  "count": 3103,
+  "updated_at": "2026-11-10T14:11:48.478263+00:00",
+  "count": 3104,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93592",
+      "datetime": "2026.11.10. 15:09",
+      "title": "Baleset történt Zalaegerszegen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93592",
+      "lead": "Oszlopnak hajtott egy autó a Báthori István utcában.",
+      "body": "Lámpaoszlopnak ütközött egy személyautó Zalaegerszegen, a Báthori István utcában, az Avasárok utca közelében. Az oszlop megrongálódott. A város hivatásos tűzoltói áramtalanították a gépkocsit. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Zalaegerszeg, Báthori István utca",
+      "updates": []
+    },
     {
       "id": "93591",
       "datetime": "2026.11.10. 14:11",
