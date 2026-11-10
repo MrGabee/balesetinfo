@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T16:26:41.957844+00:00",
-  "count": 3113,
+  "updated_at": "2026-11-10T16:29:48.296566+00:00",
+  "count": 3114,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93602",
+      "datetime": "2026.11.10. 17:29",
+      "title": "Tetejével az árokba borult egy autó a 3205-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93602",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Tetejével az árokba borult egy személygépkocsi Viszneknél, a 3205-ös út 7-es kilométerénél. A jászárokszállási önkormányzati tűzoltókat riasztották az esethez. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Visznek, 3205",
+      "updates": []
+    },
     {
       "id": "93601",
       "datetime": "2026.11.10. 16:54",
