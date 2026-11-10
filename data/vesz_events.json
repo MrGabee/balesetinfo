@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T18:50:40.157418+00:00",
-  "count": 3121,
+  "updated_at": "2026-11-10T18:54:34.167011+00:00",
+  "count": 3122,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93610",
+      "datetime": "2026.11.10. 19:51",
+      "title": "Baleset történt a 45-ösön",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93610",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Oldalára borult egy személygépkocsi Szentesnél, a 45-ös főút 18-as és 19-es kilométere közötti szakaszán. A szentesi hivatásos tűzoltók a mentőszolgálattal közösen kiemeltek egy embert a járműből. A raj áramtalanítja és a kerekeire állítja az autót. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szentes, 45",
+      "updates": []
+    },
     {
       "id": "93609",
       "datetime": "2026.11.10. 19:34",
