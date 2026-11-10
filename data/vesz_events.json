@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T12:47:49.052803+00:00",
-  "count": 3098,
+  "updated_at": "2026-11-10T12:51:49.851897+00:00",
+  "count": 3099,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93587",
+      "datetime": "2026.11.10. 13:47",
+      "title": "A tetejére borult egy autó a 3123-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93587",
+      "lead": "Bénye közelében forgalmi akadályra kell számítani.",
+      "body": "Lesodródott az úttestről és felborult egy személyautó a 3123-as út Pilis és Káva közötti szakaszán, Bénye közelében. A tetején állt meg a jármű. Hárman utaztak benne, mindannyian ki tudtak szállni. A monori hivatásos tűzoltókat riasztották a balesethez, amelynek helyszínén forgalmi akadály van.",
+      "location": "Bénye, 3123",
+      "updates": []
+    },
     {
       "id": "93586",
       "datetime": "2026.11.10. 13:39",
