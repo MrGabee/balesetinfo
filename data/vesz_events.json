@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T12:19:30.943813+00:00",
-  "count": 3096,
+  "updated_at": "2026-11-10T12:22:58.330120+00:00",
+  "count": 3097,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93585",
+      "datetime": "2026.11.10. 13:20",
+      "title": "Felborult egy autó Pécsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93585",
+      "lead": "A Hársfa út egy szakaszán félpályán halad a forgalom.",
+      "body": "Árokba borult, egy személyautó Pécsen, a Hársfa úton, a Dominika utca közelében. A járműben egy ember utazott, aki ki tudott szállni. A város hivatásos tűzoltói végzik a műszaki mentést a balesetnél, amelynek helyszínén félpályán halad a forgalom.",
+      "location": "Pécs, Hársfa út",
+      "updates": []
+    },
     {
       "id": "93584",
       "datetime": "2026.11.10. 12:55",
