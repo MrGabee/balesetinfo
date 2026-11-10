@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:02:05.468423+00:00",
+  "updated_at": "2026-11-10T10:05:10.004701+00:00",
   "count": 3093,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -16,14 +16,23 @@
     },
     {
       "id": "93580",
-      "datetime": "2026.11.10. 09:19",
+      "datetime": "2026.11.10. 09:19 -",
       "title": "Pincetűz Mázán",
-      "category": "Tűzeset",
+      "category": "Pincetűz Mázán",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93580",
       "lead": "A Kossuth utcába riasztották a tűzoltókat.",
       "body": "Kigyulladt egy pince Mázán, a Kossuth utcában. A pincében összehordott szemét ég. A bonyhádi hivatásos és a szászvári önkéntes tűzoltók két vízsugárral oltják a lángokat. A szellőztetéshez egy ventilátort használnak.",
       "location": "Máza, Kossuth utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a pincetűz lángjait Mázán",
+          "datetime": "2026.11.10. 11:03",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Mázán, a Kossuth utcában, ahol egy pincében összehordott szemét égett. A bonyhádi hivatásos és a szászvári önkéntes tűzoltók két vízsugárral fékezték meg a lángokat. A rajok egy ventilátor segítségével szellőztetik a pincét.",
+          "location": "Máza, Kossuth utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93580/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93580"
+        }
+      ]
     },
     {
       "id": "93579",
@@ -348,9 +357,9 @@
       "title": "A tetejére borult egy autó Maglódnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93555",
-      "lead": "A 31-es főúton történt újabb baleset.",
-      "body": "Árokba csúszott, majd felborult egy személyautó a 31-es főúton, Maglód határában, a 29. és a 30. kilométer között. A tetején állt meg a jármű, amelyből kiszállt a benne utazó. A műszaki mentést végző monori hivatásos és gyömrői önkéntes tűzoltók a kerekeire állították és áramtalanították a gépkocsit.",
-      "location": "Maglód, 31",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
