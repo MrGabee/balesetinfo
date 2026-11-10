@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-10T11:22:27.261785+00:00",
-  "count": 3094,
+  "updated_at": "2026-11-10T11:26:24.868252+00:00",
+  "count": 3095,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93583",
+      "datetime": "2026.11.10. 12:25",
+      "title": "Árokba borult egy autó az 5203-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93583",
+      "lead": "Kunszentmiklós és Szabadszállás között történt a baleset, a tűzoltók áramtalanították a járművet.",
+      "body": "Lesodródott az úttestről, árokba hajtott és az oldalára borult egy személyautó az 5203-as út Kunszentmiklós és Szabadszállás közötti szakaszán, a 33. kilométernél. Egy fás, bokros területen állt meg a jármű, amelyben egy ember utazott. Ő ki tudott szállni. A kunszentmiklósi önkormányzati tűzoltók motoros láncfűrésszel megritkították a környező növényzetet, majd áramtalanították a gépkocsit.",
+      "location": "Kunszentmiklós, 5203",
+      "updates": []
+    },
     {
       "id": "93582",
       "datetime": "2026.11.10. 11:40",
@@ -106,14 +117,6 @@
       "body": "Kigyulladt egy üdülő tetőszerkezete Balatonlellén, a Margaréta utcában. A siófoki hivatásos és a balatonboglári önkormányzati tűzoltók jelenleg dolgoznak a lángok megfékezésén. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
       "location": "Balatonlelle, Margaréta utca",
       "updates": [
-        {
-          "title": "Már körülhatárolták a lángokat Balatonlellén",
-          "datetime": "2026.11.10. 06:18",
-          "category": "Tűzeset",
-          "text": "Már körülhatárolták a lángokat Balatonlellén, ahol egy kétszintes üdülő tetőszerkezete ég a Margaréta utcában. A siófoki, marcali és kaposvári hivatásos, valamint a balatonboglári önkormányzati tűzoltók öt vízsugárral megakadályozták a lángok továbbterjedését. A tűz oltását a Somogy vármegyei katasztrófavédelmi műveleti szolgálat irányítja.",
-          "location": "Balatonlelle, Margaréta utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93576/1?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93576"
-        },
         {
           "title": "Eloltották a balatonlellei tűz lángjait",
           "datetime": "2026.11.10. 09:55",
@@ -315,10 +318,19 @@
       "title": "Ég egy ház Nagykőrösnél",
       "category": "Ég egy ház Nagykőrösnél",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Tázerdő dűlőn keletkezett tűz.",
+      "body": "Kigyulladt egy családi ház Nagykőrös külterületén, a Tázerdő dűlőn. Teljes terjedelmében ég a mintegy harminc négyzetméteres épület, amelynek már leégett a tetőszerkezete, és beszakadt a födémje. A ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók oltják a lángokat.",
+      "location": "Nagykőrös, Tázerdő dűlő",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Nagykőrösnél",
+          "datetime": "2026.11.09. 14:20",
+          "category": "Tűzeset",
+          "text": "Megakadályozták a tűz továbbterjedését, majd eloltották a lángokat Nagykőrös külterületén, a Tázerdő dűlőn, ahol kigyulladt egy családi ház. Leégett és a födémmel együtt beszakadt a korábban becsültnél nagyobb, mintegy nyolcvan négyzetméteres épület tetőszerkezete, és a benne lévő berendezési tárgyak is megsemmisültek. Feltehetőleg egy gázpalack is felrobbant az égő ingatlanban, amelyhez ceglédi hivatásos és a nagykőrösi önkormányzati tűzoltók vonultak ki. A rajok három vízsugárral fékezték meg a lángokat.",
+          "location": "Nagykőrös, Tázerdő dűlő",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93559/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93559"
+        }
+      ]
     },
     {
       "id": "93558",
