@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T13:08:57.884175+00:00",
-  "count": 3140,
+  "updated_at": "2026-11-11T13:12:31.238462+00:00",
+  "count": 3141,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93629",
+      "datetime": "2026.11.11. 14:11",
+      "title": "Villanyoszlopnak ütközött egy autó Tiszafüreden",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93629",
+      "lead": "A tűzoltók eltávolítják a járművet az oszlopról.",
+      "body": "Villanyoszlopnak ütközött egy gépkocsi Tiszafüreden, a Húszöles út és a Fürdő utca sarkán. Az ütközés következtében a jármű az oszlopra csavarodott, motorrésze beakadt, vezetője saját erejéből ki tudott szállni. A tiszafüredi hivatásos tűzoltók megkezdték a jármű eltávolítását az oszlopról.",
+      "location": "Tiszafüred, Húszöles út",
+      "updates": []
+    },
     {
       "id": "93628",
       "datetime": "2026.11.11. 13:52",
