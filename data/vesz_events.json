@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T14:35:26.336787+00:00",
+  "updated_at": "2026-11-11T14:38:55.759845+00:00",
   "count": 3144,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -64,9 +64,9 @@
       "title": "Baleset történt Dánszentmiklóson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93627",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt az Irsai úton.",
+      "body": "Kisodródott és felborult egy személyautó Dánszentmiklóson, az Irsai úton, a Nyárfa utcánál. A balesethez a dabasi hivatásos és a dolinavölgyi önkéntes tűzoltók vonultak ki. Az egységek a rendőrségi helyszínelés után megszüntetik a forgalmi akadályt.",
+      "location": "Dánszentmiklós, Irsai út",
       "updates": []
     },
     {
@@ -163,10 +163,19 @@
       "title": "Garázstűz Hajdúböszörményben",
       "category": "Garázstűz Hajdúböszörményben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Jókai Mór utcában csaptak fel lángok.",
+      "body": "Kigyulladt egy családi ház garázsa Hajdúböszörményben, a Jókai Mór utcában. A garázsban egy személygépkocsi is lángra kapott. A tűz átterjedt a lakóházra is. A helyi és a debreceni hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a tüzet.",
+      "location": "Hajdúböszörmény, Jókai Mór utca",
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Hajdúböszörményben",
+          "datetime": "2026.11.11. 08:23",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Hajdúböszörményben, a Jókai Mór utcában, ahol egy családi ház garázsa gyulladt ki. A garázsban egy személygépkocsi is égett, valamint a tűz a lakóházra is átterjedt. A helyi és a debreceni hivatásos tűzoltók több vízsugárral fékezték meg a tüzet a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Hajdúböszörmény, Jókai Mór utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93618"
+        }
+      ]
     },
     {
       "id": "93617",
@@ -403,9 +412,9 @@
       "title": "Árokba borult egy autó Budakalásznál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93597",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 11-es főút és az M0-s autóút csomópontjához vonultak a tűzoltók.",
+      "body": "Árokba sodródott és a tetejére borult egy személyautó Budakalász közelében, a 11-es főút és az M0-s autóút csomópontjánál. A járműben egy ember utazott, aki ki tudott szállni. A balesetet a helyszínen észlelte a váci hivatásos tűzoltók egyik egysége, majd átvették a műszaki mentést a pomázi önkormányzati tűzoltók, akik várhatóan a rendőrségi helyszínelés után a kerekeire állítják és áramtalanítják a gépkocsit.",
+      "location": "Budakalász, 11, M0",
       "updates": []
     },
     {
