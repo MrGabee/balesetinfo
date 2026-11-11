@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T07:37:30.686656+00:00",
-  "count": 3134,
+  "updated_at": "2026-11-11T07:40:51.153454+00:00",
+  "count": 3135,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93623",
+      "datetime": "2026.11.11. 08:40",
+      "title": "Villamossínekre borult egy autó a VIII. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93623",
+      "lead": "A jármű mindkét irányban forgalmi akadályt okoz.",
+      "body": "Betonterelő kúpra hajtott, majd a villamossínekre borult egy gépkocsi a VIII. kerületi Orczy úton, a Benyovszky Móric utcánál. A járműben csak a vezetője utazott. A fővárosi hivatásos tűzoltók megkezdték a műszaki mentési munkálatokat a helyszínen, ahol a jármű mindkét irányban forgalmi akadályt okoz a villamosközlekedésben.",
+      "location": "Budapest, Orczy út",
+      "updates": []
+    },
     {
       "id": "93622",
       "datetime": "2026.11.11. 08:32",
