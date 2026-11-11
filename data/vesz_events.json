@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-11T15:44:35.055502+00:00",
-  "count": 3145,
+  "updated_at": "2026-11-11T15:47:57.031906+00:00",
+  "count": 3147,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93635",
+      "datetime": "2026.11.11. 16:47",
+      "title": "Hármas karambol történt a 45-ösön, Hódmezővásárhely és Szentes között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93635",
+      "lead": "Lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Három gépkocsi ütközött össze a 45-ös főút 35-ös kilométerszelvényénél, Hódmezővásárhely és Szentes között. A szentesi és a hódmezővásárhelyi hivatásos tűzoltók mellett a társhatóságok is kiérkeztek a helyszínre. A baleset miatt lezárták az érintett útszakaszt.",
+      "location": "Szegvár, 45",
+      "updates": []
+    },
+    {
+      "id": "93634",
+      "datetime": "2026.11.11. 16:46",
+      "title": "Négy autó ütközött egymásnak Óbudán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93634",
+      "lead": "A Bécsi és a Pomázi út kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Összeütközött négy személyautó Budapest III. kerületében, a Bécsi és a Pomázi út kereszteződésében. Összesen négyen ültek a járművekben, amelyeket áramtalanítanak a fővárosi hivatásos tűzoltók. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Bécsi út",
+      "updates": []
+    },
     {
       "id": "93633",
       "datetime": "2026.11.11. 16:05",
