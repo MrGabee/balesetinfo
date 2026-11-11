@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T15:51:05.283495+00:00",
-  "count": 3147,
+  "updated_at": "2026-11-11T15:54:34.862987+00:00",
+  "count": 3148,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93636",
+      "datetime": "2026.11.11. 16:52",
+      "title": "Árokba hajtott egy autó a III. kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93636",
+      "lead": "A tűzoltók segítségére lesz szükség a jármű kiemeléséhez.",
+      "body": "Árokba hajtott egy gépkocsi a III. kerületi Jablonka úton, a Laborc utca közelében. A jármű elakadt a baleset következtében. A fővárosi hivatásos tűzoltók érkeztek a műszaki mentési munkálatokhoz, kiemelik a bajba került autót.",
+      "location": "Budapest, Jablonka út",
+      "updates": []
+    },
     {
       "id": "93635",
       "datetime": "2026.11.11. 16:47",
