@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T07:30:23.874980+00:00",
-  "count": 3133,
+  "updated_at": "2026-11-11T07:34:02.935987+00:00",
+  "count": 3134,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93622",
+      "datetime": "2026.11.11. 08:32",
+      "title": "Árokba borult egy autó a 610-esen, Kaposvár és Kaposújlak között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93622",
+      "lead": "Irányítás mellett halad a forgalom a hatósági beavatkozás idejére.",
+      "body": "Tetejével az árokba borult egy gépkocsi a 610-es főút 11-es kilométerszelvényénél, Kaposvár és Kaposújlak között. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A kaposvári hivatásos tűzoltók és a mentők dolgoznak a helyszínen, ahol irányítás mellett, félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Kaposvár, 610",
+      "updates": []
+    },
     {
       "id": "93621",
       "datetime": "2026.11.11. 08:09",
