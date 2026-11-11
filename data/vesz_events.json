@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T16:07:29.189399+00:00",
-  "count": 3149,
+  "updated_at": "2026-11-11T16:10:44.426734+00:00",
+  "count": 3150,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93638",
+      "datetime": "2026.11.11. 17:09",
+      "title": "Összeütközött két autó Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93638",
+      "lead": "A Új Váralja sorra riasztották a tűzoltókat.",
+      "body": "Karambolozott két személyautó Székesfehérváron, az Új Váralja soron, az Újkúti és a Bárándi utca között. Az egyik jármű az árokba csapódott, a másik pedig akadályozza a forgalmat. A város hivatásos tűzoltói áramtalanították őket.",
+      "location": "Székesfehérvár, Új Váralja sor",
+      "updates": []
+    },
     {
       "id": "93637",
       "datetime": "2026.11.11. 17:03",
