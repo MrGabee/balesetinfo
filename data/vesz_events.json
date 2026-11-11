@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:59:20.263497+00:00",
+  "updated_at": "2026-11-11T07:03:03.226781+00:00",
   "count": 3132,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -163,9 +163,9 @@
       "title": "Szalagkorlátnak hajtott egy jármű a 6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93606",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Szalagkorlátnak hajtott egy gépkocsi Paksnál, a 6-os főút 106-os kilométerénél. A paksi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak.",
+      "location": "Paks, 6",
       "updates": []
     },
     {
@@ -174,9 +174,9 @@
       "title": "Két autó ütközött Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93605",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Két személygépkocsi karambolozott Érden, a Pipacs utca és a Porcsinrózsa utca kereszteződésénél. Az érdi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják a járműveket. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Érd, Porcsinrózsa utca",
       "updates": []
     },
     {
@@ -188,7 +188,16 @@
       "lead": "A Marispuszta tanyára riasztották a tűzoltókat.",
       "body": "Tűz keletkezett Kiskunmajsa külterületén, a Marispuszta tanyán. A helyszínen egy műhely ég. A kiskunhalasi és a kiskunmajsai hivatásos, valamint a kiskunmajsai önkéntes tűzoltók négy vízsugárral oltják a lángokat. A munkálatokat egy kiskunhalasi vízszállító jármű is segíti.",
       "location": "Kiskunmajsa, Marispuszta tanya",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Kiskunmajsa külterületén",
+          "datetime": "2026.11.10. 18:54",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Kiskunmajsa külterületén, a Marispuszta tanyán, ahol egy kétszáz négyzetméteres autószerelő műhely égett. Egy személygépkocsi is teljesen kiégett. A tűz a lakóépületet nem érintette. A kiskunhalasi és a kiskunmajsai hivatásos, valamint a kiskunmajsai önkéntes tűzoltók négy vízsugárral fékezték meg a tüzet. Az oltást egy kiskunhalasi vízszállító jármű is segítette.",
+          "location": "Kiskunmajsa, Marispuszta tanya",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93604/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93604"
+        }
+      ]
     },
     {
       "id": "93603",
@@ -207,9 +216,9 @@
       "title": "Tetejével az árokba borult egy autó a 3205-ösön",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93602",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Tetejével az árokba borult egy személygépkocsi Viszneknél, a 3205-ös út 7-es kilométerénél. A jászárokszállási önkormányzati tűzoltókat riasztották az esethez. A társhatóságok is a helyszínre érkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Visznek, 3205",
       "updates": []
     },
     {
