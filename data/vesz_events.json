@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T05:24:41.752959+00:00",
-  "count": 3128,
+  "updated_at": "2026-11-11T05:27:57.699527+00:00",
+  "count": 3129,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93617",
+      "datetime": "2026.11.11. 06:25",
+      "title": "Több autó karambolozott a 3-ason",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93617",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Egy személyautó a szalagkorlátnak ütközött, öt gépkocsi pedig ráfutásos balesetet szenvedett Gödöllőnél, a 3-as főút 26-os kilométerénél. A gödöllői hivatásos tűzoltók egy embert kiemeltek az egyik járműből, majd átadták őt a mentőknek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gödöllő, Bláthy Ottó utca",
+      "updates": []
+    },
     {
       "id": "93616",
       "datetime": "2026.11.10. 22:55",
