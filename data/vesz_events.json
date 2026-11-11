@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T05:34:40.457006+00:00",
-  "count": 3129,
+  "updated_at": "2026-11-11T05:38:03.669265+00:00",
+  "count": 3130,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93618",
+      "datetime": "2026.11.11. 06:34",
+      "title": "Garázstűz Hajdúböszörményben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618",
+      "lead": "A Jókai Mór utcában csaptak fel lángok.",
+      "body": "Kigyulladt egy családi ház garázsa Hajdúböszörményben, a Jókai Mór utcában. A garázsban egy személygépkocsi is lángra kapott. A tűz átterjedt a lakóházra is. A helyi és a debreceni hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a tüzet.",
+      "location": "Hajdúböszörmény, Jókai Mór utca",
+      "updates": []
+    },
     {
       "id": "93617",
       "datetime": "2026.11.11. 06:25",
