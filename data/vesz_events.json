@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T12:55:49.899172+00:00",
+  "updated_at": "2026-11-11T12:59:20.864250+00:00",
   "count": 3140,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -122,16 +122,7 @@
       "lead": "A Jókai Mór utcában csaptak fel lángok.",
       "body": "Kigyulladt egy családi ház garázsa Hajdúböszörményben, a Jókai Mór utcában. A garázsban egy személygépkocsi is lángra kapott. A tűz átterjedt a lakóházra is. A helyi és a debreceni hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a tüzet.",
       "location": "Hajdúböszörmény, Jókai Mór utca",
-      "updates": [
-        {
-          "title": "Eloltották a lángokat Hajdúböszörményben",
-          "datetime": "2026.11.11. 08:23",
-          "category": "Tűzeset",
-          "text": "Eloltották a lángokat Hajdúböszörményben, a Jókai Mór utcában, ahol egy családi ház garázsa gyulladt ki. A garázsban egy személygépkocsi is égett, valamint a tűz a lakóházra is átterjedt. A helyi és a debreceni hivatásos tűzoltók több vízsugárral fékezték meg a tüzet a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett. Jelenleg az utómunkálatok zajlanak.",
-          "location": "Hajdúböszörmény, Jókai Mór utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93618"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93617",
@@ -150,9 +141,9 @@
       "title": "Karambol Győrújbarátnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93616",
-      "lead": "A 82-es főúton történt a baleset.",
-      "body": "Két személygépkocsi karambolozott Győrújbarátnál, a 82-es főút 68-as kilométerénél. A győri hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Győrújbarát, Kövecses köz",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -260,9 +251,9 @@
       "title": "Szalagkorlátnak hajtott egy jármű a 6-oson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93606",
-      "lead": "A tűzoltók áramtalanították a járművet.",
-      "body": "Szalagkorlátnak hajtott egy gépkocsi Paksnál, a 6-os főút 106-os kilométerénél. A paksi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínen dolgoznak.",
-      "location": "Paks, 6",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -271,9 +262,9 @@
       "title": "Két autó ütközött Érden",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93605",
-      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
-      "body": "Két személygépkocsi karambolozott Érden, a Pipacs utca és a Porcsinrózsa utca kereszteződésénél. Az érdi hivatásos tűzoltók végzik a műszaki mentést, amely során áramtalanítják a járműveket. A társhatóságok is az esethez érkeztek. Az érintett útszakaszon félpályán halad a forgalom.",
-      "location": "Érd, Porcsinrózsa utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
