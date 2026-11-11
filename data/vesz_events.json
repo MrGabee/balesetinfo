@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T14:16:48.031744+00:00",
-  "count": 3143,
+  "updated_at": "2026-11-11T14:20:26.932871+00:00",
+  "count": 3144,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93632",
+      "datetime": "2026.11.11. 15:20",
+      "title": "Elszabadult autókerék okozott balesetet a 3227-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93632",
+      "lead": "Jászladány közelében forgalmi akadályra kell számítani.",
+      "body": "Lerepült és egy szemből érkező pickup elejének ütközött egy teherautó egyik kereke a 3227-es úton, Jászladány közelében, a 7. kilométernél. A jászkiséri önkormányzati tűzoltók áramtalanították a pickupot, amelynek utasait a mentők vizsgálják. A baleset helyszínén mindkét jármű akadályozza a forgalmat.",
+      "location": "Jászladány, 3227",
+      "updates": []
+    },
     {
       "id": "93631",
       "datetime": "2026.11.11. 14:58",
@@ -227,9 +238,9 @@
       "title": "Oszlopnak ütközött egy autó a XXII. kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93612",
-      "lead": "A Savoyai Jenő téren történt a baleset.",
-      "body": "Villanyoszlopnak ütközött egy személygépkocsi Budapest XXII. kerületében, a Savoyai Jenő téren. A fővárosi hivatásos tűzoltókat riasztották a helyszínre. A társhatóság is az esethez érkezett.",
-      "location": "Budapest, Savoyai Jenő tér",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
