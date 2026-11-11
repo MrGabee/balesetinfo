@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T18:59:51.130454+00:00",
-  "count": 3153,
+  "updated_at": "2026-11-11T19:03:23.918878+00:00",
+  "count": 3154,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93642",
+      "datetime": "2026.11.11. 20:02",
+      "title": "Árokba borult egy autó Pilisvörösvár és Csobánka között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93642",
+      "lead": "A tűzoltók emelték ki a jármű vezetőjét.",
+      "body": "Megcsúszott az úttesten, majd tetejével az árokba borult egy gépkocsi Pilisvörösvár és Csobánka között, a 1109-es út 3-as kilométerszelvényénél. A járműben csak a vezetője utazott, akit a pomázi önkormányzati tűzoltók emeltek ki kézi erővel. A balesethez a társhatóságok is kiérkeztek, a munkálatok idejére irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Csobánka, 1109",
+      "updates": []
+    },
     {
       "id": "93641",
       "datetime": "2026.11.11. 19:24",
