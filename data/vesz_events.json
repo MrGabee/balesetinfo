@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T18:21:43.134091+00:00",
-  "count": 3152,
+  "updated_at": "2026-11-11T18:24:58.391360+00:00",
+  "count": 3153,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93641",
+      "datetime": "2026.11.11. 19:24",
+      "title": "Fatároló égett Csepregen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93641",
+      "lead": "A tűzoltók két vízsugárral fékezték meg a lángokat.",
+      "body": "Egy tizenkét négyzetméteres, fával teli tárolóépület égett Csepregen, a Visi utcában. A város önkormányzati tűzoltói két vízsugárral előbb körülhatárolták, majd eloltották a lángokat, kitermelték a felhalmozott fát. A fatároló közelében egy másik melléképület is állt, amelyre nem terjedt át a tűz.",
+      "location": "Csepreg, Visi utca",
+      "updates": []
+    },
     {
       "id": "93640",
       "datetime": "2026.11.11. 18:28",
