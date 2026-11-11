@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T17:02:05.609369+00:00",
-  "count": 3150,
+  "updated_at": "2026-11-11T17:05:16.704828+00:00",
+  "count": 3151,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93639",
+      "datetime": "2026.11.11. 18:04",
+      "title": "Baleset történt a II kerületben",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93639",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi karambolozott a II. kerületi Szilágyi Erzsébet fasoron, a Trombitás útnál. A fővárosi hivatásos tűzoltók mindkét járművet áramtalanították. Az egység mellett a társhatóságok, valamint a közösségi közlekedési társaság szakemberei is kiérkeztek a balesethez.",
+      "location": "Budapest, Szilágyi Erzsébet fasor",
+      "updates": []
+    },
     {
       "id": "93638",
       "datetime": "2026.11.11. 17:09",
