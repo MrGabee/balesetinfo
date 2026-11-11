@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T13:56:28.962659+00:00",
-  "count": 3142,
+  "updated_at": "2026-11-11T14:00:20.649006+00:00",
+  "count": 3143,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93631",
+      "datetime": "2026.11.11. 14:58",
+      "title": "Baleset történt Soroksáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93631",
+      "lead": "A karambol miatt lezárták az érintett kereszteződést.",
+      "body": "Összeütközött két gépkocsi a XXIII. kerületben, a Templom utca és az Erzsébet utca kereszteződésében. Csak a vezetők utaztak a járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítanak. Az egységek a mentőket várják a helyszínre, ahol lezárták az érintett útszakaszt. A forgalomkorlátozás a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Erzsébet utca",
+      "updates": []
+    },
     {
       "id": "93630",
       "datetime": "2026.11.11. 14:25",
@@ -64,9 +75,9 @@
       "title": "Kamionnal karambolozott egy autó a 441-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93625",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Kecskemét közelében lassítja a forgalmat a baleset.",
+      "body": "Egymásnak ütközött egy kamion és egy személyautó Kecskemét közelében, a Ceglédi úton, azaz a 441-es főúton, a 28. kilométernél. A balesethez a kecskeméti hivatásos tűzoltók vonultak ki. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Kecskemét, 441",
       "updates": []
     },
     {
