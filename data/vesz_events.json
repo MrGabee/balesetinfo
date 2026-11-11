@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T15:03:19.290419+00:00",
-  "count": 3144,
+  "updated_at": "2026-11-11T15:06:49.368074+00:00",
+  "count": 3145,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93633",
+      "datetime": "2026.11.11. 16:05",
+      "title": "Hármas karambol Budapest XVIII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93633",
+      "lead": "A Gyömrői úton végeznek műszaki mentést a tűzoltók.",
+      "body": "Karambolozott három személyautó Budapest XVIII. kerületében, a Gyömrői úton, a Szemere telep vasúti megálló közelében. Az egyik járművet egy lámpaoszlop állította meg. A fővárosi hivatásos tűzoltók áramtalanítják a járműveket, amelyekből mindenki ki tudott szállni. A helyszínen vannak a mentők is.",
+      "location": "Budapest, Gyömrői út",
+      "updates": []
+    },
     {
       "id": "93632",
       "datetime": "2026.11.11. 15:20",
