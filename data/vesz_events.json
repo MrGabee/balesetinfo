@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T07:06:24.984591+00:00",
-  "count": 3132,
+  "updated_at": "2026-11-11T07:09:51.028290+00:00",
+  "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93621",
+      "datetime": "2026.11.11. 08:09",
+      "title": "Oldalára borult egy autó Verpelét és Kisnána között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93621",
+      "lead": "Félpályán lezárták az érintett útszakaszt a baleset miatt.",
+      "body": "Oldalára borult egy gépkocsi Verpelét és Kisnána között, a 2416-os út 23-as kilométerszelvényénél. A vezető az egri hivatásos tűzoltók kiérkezése előtt saját erejéből el tudta hagyni a járművet. Az egység eltávolítja az úttestre került szennyeződést. A baleset miatt félpályán lezárták az érintett útszakaszt.",
+      "location": "Kisnána, 2416",
+      "updates": []
+    },
     {
       "id": "93620",
       "datetime": "2026.11.11. 07:34",
@@ -326,9 +337,9 @@
       "title": "Baleset történt Zalaegerszegen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93592",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Oszlopnak hajtott egy autó a Báthori István utcában.",
+      "body": "Lámpaoszlopnak ütközött egy személyautó Zalaegerszegen, a Báthori István utcában, az Avasárok utca közelében. Az oszlop megrongálódott. A város hivatásos tűzoltói áramtalanították a gépkocsit. A helyszínen vannak a mentők is. Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Zalaegerszeg, Báthori István utca",
       "updates": []
     },
     {
@@ -370,9 +381,9 @@
       "title": "Összeütközött két autó Pakson",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93588",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 6-os főút belterületi szakaszán van szükség tűzoltói beavatkozásra.",
+      "body": "Karambolozott egy kisteherautó és egy személygépkocsi Pakson, a Dunaföldvári úton, azaz a 6-os főúton, a Kömlődi út közelében. A város hivatásos tűzoltóit riasztották a balesethez. A raj áramtalanította a személyautót.",
+      "location": "Paks, Dunaföldvári út",
       "updates": []
     },
     {
