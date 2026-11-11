@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T08:52:40.901439+00:00",
-  "count": 3135,
+  "updated_at": "2026-11-11T08:56:20.625485+00:00",
+  "count": 3136,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93624",
+      "datetime": "2026.11.11. 09:55",
+      "title": "Karambol az 5202-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93624",
+      "lead": "Dabas és Tatárszentgyörgy között történt a baleset.",
+      "body": "Összeütközött egy kisteherautó és egy személygépkocsi az 5202-es út Dabastól Tatárszentgyörgy felé vezető szakaszán, a 36. és a 37. kilométer között. Az egyik jármű árokba sodródott a karambol következtében. A dabasi hivatásos tűzoltók áramtalanítják a gépkocsikat. A helyszínen vannak a mentők is.",
+      "location": "Dabas, 5202",
+      "updates": []
+    },
     {
       "id": "93623",
       "datetime": "2026.11.11. 08:40",
@@ -117,9 +128,9 @@
       "title": "Árokba csapódott egy autó Győrságon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93614",
-      "lead": "Az érintett útszakaszon irányítás mellett, váltakozva halad a forgalom.",
-      "body": "Árokba csapódott egy személygépkocsi Győrságon, az Ország utcában. A baleset következtében egy családi ház kerítése is kidőlt.  A pannonhalmi hivatásos tűzoltók áramtalanították a járművet. Az érintett útszakaszon irányítás mellett, váltakozva halad a forgalom.",
-      "location": "Győrság, Országút utca",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -379,9 +390,9 @@
       "title": "Fának hajtott egy autó Berekfürdőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93591",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A IV. Béla király úton történt a baleset.",
+      "body": "Fának ütközött egy személyautó Berekfürdőn, a IV. Béla király úton, a Berek tér közelében. Az ott tartózkodók még a karcagi hivatásos tűzoltók kiérkezése előtt kiemeltek egy embert a járműből. A raj áramtalanította a gépkocsit, és segít a mentőknek, akik szintén a helyszínen vannak.",
+      "location": "Berekfürdő, Berek tér",
       "updates": []
     },
     {
