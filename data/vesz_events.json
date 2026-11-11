@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T07:19:56.192656+00:00",
+  "updated_at": "2026-11-11T07:23:36.180589+00:00",
   "count": 3133,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -38,9 +38,9 @@
     },
     {
       "id": "93618",
-      "datetime": "2026.11.11. 06:34",
+      "datetime": "2026.11.11. 06:34 -",
       "title": "Garázstűz Hajdúböszörményben",
-      "category": "Tűzeset",
+      "category": "Garázstűz Hajdúböszörményben",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618",
       "lead": "A Jókai Mór utcában csaptak fel lángok.",
       "body": "Kigyulladt egy családi ház garázsa Hajdúböszörményben, a Jókai Mór utcában. A garázsban egy személygépkocsi is lángra kapott. A tűz átterjedt a lakóházra is. A helyi és a debreceni hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a tüzet.",
@@ -293,9 +293,9 @@
       "title": "Égett egy autó a 3-as főúton",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93596",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók Miskolc és Felsőzsolca között fékezték meg a lángokat.",
+      "body": "Kigyulladt egy személyautó a 3-as főúton, Miskolc és Felsőzsolca között, a 190. kilométernél. A miskolci hivatásos tűzoltók két vízsugárral eloltották a lángokat. A beavatkozás idejére teljes szélességében lezárták az út érintett szakaszát, A gépkocsiban ketten ültek a tűz keletkezésekor, mindketten idejében ki tudtak szállni.",
+      "location": "Felsőzsolca, 3",
       "updates": []
     },
     {
