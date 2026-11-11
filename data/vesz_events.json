@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T09:31:27.162897+00:00",
-  "count": 3137,
+  "updated_at": "2026-11-11T09:34:58.794028+00:00",
+  "count": 3138,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93626",
+      "datetime": "2026.11.11. 10:34",
+      "title": "Összeütközött két gépkocsi Újpesten",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93626",
+      "lead": "A Reviczky utca és a Káposztásmegyeri út kereszteződésénél végeznek műszaki mentést a tűzoltók.",
+      "body": "Karambolozott egy kisteherautó és egy személygépkocsi Budapest IV. kerületében, a Reviczky utca és a Káposztásmegyeri út kereszteződésében. A műszaki mentést végző fővárosi hivatásos tűzoltók áramtalanítják a gépkocsikat. Az ütközés következtében több parkoló jármű is megrongálódott.",
+      "location": "Budapest, Reviczky utca",
+      "updates": []
+    },
     {
       "id": "93625",
       "datetime": "2026.11.11. 10:12",
