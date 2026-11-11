@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-11T17:26:18.184796+00:00",
-  "count": 3151,
+  "updated_at": "2026-11-11T17:29:57.690139+00:00",
+  "count": 3152,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93640",
+      "datetime": "2026.11.11. 18:28",
+      "title": "Épület oldalának hajtott egy autó Soroksáron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93640",
+      "lead": "A jármű egy gázcsőben is kárt okozott.",
+      "body": "Megcsúszott az úttesten, majd egy lakóépület oldalának hajtott egy gépkocsi a XXIII. kerületi Grassalkovich úton, a Vecsés út közelében. A baleset következtében egy gázcsőnek is nekiment a jármű, amelyet a fővárosi hivatásos tűzoltók áramtalanítottak. A helyszínre a gázszolgáltató szakemberei is kiérkeztek, a hatósági munkálatok idejére lezárják az érintett útszakaszt.",
+      "location": "Budapest, Grassalkovich út",
+      "updates": []
+    },
     {
       "id": "93639",
       "datetime": "2026.11.11. 18:04",
