@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T10:37:15.824406+00:00",
-  "count": 3167,
+  "updated_at": "2026-11-12T10:40:41.052184+00:00",
+  "count": 3168,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93656",
+      "datetime": "2026.11.12. 11:40",
+      "title": "Árokba borult egy autó Ebesnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93656",
+      "lead": "A 4805-ös útra riasztották a tűzoltókat.",
+      "body": "Árokba hajtott és felborult egy személyautó a 4805-ös úton, Ebes közelében, a 7. kilométernél. A tetején állt meg a jármű, amelyben egy ember utazott. A balesethez a hajdúszoboszlói hivatásos tűzoltók vonultak ki, akik majd a kerekeire állítják és áramtalanítják a gépkocsit.",
+      "location": "Ebes, 4805",
+      "updates": []
+    },
     {
       "id": "93655",
       "datetime": "2026.11.12. 10:49",
@@ -139,9 +150,9 @@
       "title": "Hármas karambol történt az 51-esen, Szalkszentmártonnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93644",
-      "lead": "A tűzoltók két járművet áramtalanítottak.",
-      "body": "Egy kamion, egy furgon és egy személyautó ütközött össze az 51-es főút 66-os kilométerszelvényénél, Szalkszentmárton térségében. Összesen heten utaztak a járművekben, amelyek közül a furgont és a személyautót a szalkszentmártoni önkéntes tűzoltók áramtalanították. A balesethez a kunszentmiklósi önkormányzati tűzoltók és a társhatóságok is kiérkeztek, félpályás útlezárás mellett dolgoznak.",
-      "location": "Szalkszentmárton, 51",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -161,9 +172,9 @@
       "title": "Árokba borult egy autó Pilisvörösvár és Csobánka között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93642",
-      "lead": "A tűzoltók emelték ki a jármű vezetőjét.",
-      "body": "Megcsúszott az úttesten, majd tetejével az árokba borult egy gépkocsi Pilisvörösvár és Csobánka között, a 1109-es út 3-as kilométerszelvényénél. A járműben csak a vezetője utazott, akit a pomázi önkormányzati tűzoltók emeltek ki kézi erővel. A balesethez a társhatóságok is kiérkeztek, a munkálatok idejére irányítás mellett halad a forgalom az érintett útszakaszon.",
-      "location": "Csobánka, 1109",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -359,9 +370,9 @@
       "title": "Karambol az 5202-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93624",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Dabas és Tatárszentgyörgy között történt a baleset.",
+      "body": "Összeütközött egy kisteherautó és egy személygépkocsi az 5202-es út Dabastól Tatárszentgyörgy felé vezető szakaszán, a 36. és a 37. kilométer között. Az egyik jármű árokba sodródott a karambol következtében. A dabasi hivatásos tűzoltók áramtalanítják a gépkocsikat. A helyszínen vannak a mentők is.",
+      "location": "Dabas, 5202",
       "updates": []
     },
     {
