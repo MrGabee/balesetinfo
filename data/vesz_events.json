@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T05:52:29.502467+00:00",
-  "count": 3155,
+  "updated_at": "2026-11-12T05:56:14.464439+00:00",
+  "count": 3156,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93644",
+      "datetime": "2026.11.12. 06:55",
+      "title": "Hármas karambol történt az 51-esen, Szalkszentmártonnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93644",
+      "lead": "A tűzoltók két járművet áramtalanítottak.",
+      "body": "Egy kamion, egy furgon és egy személyautó ütközött össze az 51-es főút 66-os kilométerszelvényénél, Szalkszentmárton térségében. Összesen heten utaztak a járművekben, amelyek közül a furgont és a személyautót a szalkszentmártoni önkéntes tűzoltók áramtalanították. A balesethez a kunszentmiklósi önkormányzati tűzoltók és a társhatóságok is kiérkeztek, félpályás útlezárás mellett dolgoznak.",
+      "location": "Szalkszentmárton, 51",
+      "updates": []
+    },
     {
       "id": "93643",
       "datetime": "2026.11.12. 06:08",
