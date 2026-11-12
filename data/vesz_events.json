@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-12T14:46:39.367874+00:00",
-  "count": 3178,
+  "updated_at": "2026-11-12T14:50:22.204886+00:00",
+  "count": 3180,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93668",
+      "datetime": "2026.11.12. 15:48",
+      "title": "Fának hajtott egy autó Ibrányban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93668",
+      "lead": "A tűzoltók a Nagyerdő utcában áramtalanították a gépkocsit.",
+      "body": "Fának ütközött egy személyautó Ibrányban, a Nagyerdő utcában. A járműben egy ember utazott, akit a mentők vizsgálnak. Az ibrányi önkormányzati tűzoltók áramtalanították a gépkocsit.",
+      "location": "Ibrány, Nagyerdő utca",
+      "updates": []
+    },
+    {
+      "id": "93667",
+      "datetime": "2026.11.12. 15:47",
+      "title": "Baleset történt Biharkeresztes és Berekböszörmény között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93667",
+      "lead": "A 4215-ös út 3-4-es kilométere között lesodródott egy autó az útról.",
+      "body": "Lesodródott egy személykocsi a 4215-ös útról Biharkeresztes és Berekböszörmény között. A kocsiban ketten ültek, a sofőr ki tudott szállni, utasa azonban a járműben rekedt. A berettyóújfalui hivatásos tűzoltók áramtalanítottak, illetve feszítővágóval és kéziszerszámokkal szabadította ki az utast az összetört autóból. A helyszínre mentő érkezett.",
+      "location": "Biharkeresztes, 4215",
+      "updates": []
+    },
     {
       "id": "93666",
       "datetime": "2026.11.12. 15:43",
@@ -126,9 +148,9 @@
       "title": "Összeütközött két autó Dunakeszin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93657",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Fő út és a Rév köz kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Egymásnak ütközött két személyautó Dunakeszin, a Fő út, azaz a 2-es főút és a Rév köz kereszteződésénél. A fővárosi hivatásos és a fóti önkéntes tűzoltók áramtalanították a járműveket, amelyekben összesen öten utaztak. Hozzájuk mentők érkeztek a baleset helyszínére.",
+      "location": "Dunakeszi, Fő út",
       "updates": []
     },
     {
