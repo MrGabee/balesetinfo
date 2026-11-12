@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T12:36:54.209008+00:00",
-  "count": 3173,
+  "updated_at": "2026-11-12T12:40:00.410494+00:00",
+  "count": 3174,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93662",
+      "datetime": "2026.11.12. 13:38",
+      "title": "Karambol Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93662",
+      "lead": "A Balatoni úton egy személykocsi és egy kisteherautó hajtott egymásba.",
+      "body": "Összeütközött egy személyautó és egy kistehergépkocsi Székesfehérváron, a Balatoni úton. A Bakony utcai körforgalom közelében történt balesethez a város hivatásos tűzoltói vonultak, az egység áramtalanított. A járművek utasaihoz mentő érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Székesfehérvár, Balatoni út",
+      "updates": []
+    },
     {
       "id": "93661",
       "datetime": "2026.11.12. 13:04",
