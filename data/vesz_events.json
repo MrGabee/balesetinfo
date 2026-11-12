@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T07:07:22.440685+00:00",
+  "updated_at": "2026-11-12T07:10:58.491066+00:00",
   "count": 3156,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -251,9 +251,9 @@
       "title": "Árokba borult egy autó a 610-esen, Kaposvár és Kaposújlak között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93622",
-      "lead": "Irányítás mellett halad a forgalom a hatósági beavatkozás idejére.",
-      "body": "Tetejével az árokba borult egy gépkocsi a 610-es főút 11-es kilométerszelvényénél, Kaposvár és Kaposújlak között. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A kaposvári hivatásos tűzoltók és a mentők dolgoznak a helyszínen, ahol irányítás mellett, félpályán halad a forgalom az érintett útszakaszon.",
-      "location": "Kaposvár, 610",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -298,7 +298,16 @@
       "lead": "A Jókai Mór utcában csaptak fel lángok.",
       "body": "Kigyulladt egy családi ház garázsa Hajdúböszörményben, a Jókai Mór utcában. A garázsban egy személygépkocsi is lángra kapott. A tűz átterjedt a lakóházra is. A helyi és a debreceni hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a tüzet.",
       "location": "Hajdúböszörmény, Jókai Mór utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Hajdúböszörményben",
+          "datetime": "2026.11.11. 08:23",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Hajdúböszörményben, a Jókai Mór utcában, ahol egy családi ház garázsa gyulladt ki. A garázsban egy személygépkocsi is égett, valamint a tűz a lakóházra is átterjedt. A helyi és a debreceni hivatásos tűzoltók több vízsugárral fékezték meg a tüzet a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Hajdúböszörmény, Jókai Mór utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93618"
+        }
+      ]
     },
     {
       "id": "93617",
@@ -306,9 +315,9 @@
       "title": "Több autó karambolozott a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93617",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Egy személyautó a szalagkorlátnak ütközött, öt gépkocsi pedig ráfutásos balesetet szenvedett Gödöllőnél, a 3-as főút 26-os kilométerénél. A gödöllői hivatásos tűzoltók egy embert kiemeltek az egyik járműből, majd átadták őt a mentőknek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gödöllő, Bláthy Ottó utca",
       "updates": []
     },
     {
