@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T21:16:25.652756+00:00",
-  "count": 3195,
+  "updated_at": "2026-11-12T21:20:21.686911+00:00",
+  "count": 3196,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93684",
+      "datetime": "2026.11.12. 22:16",
+      "title": "Villanyoszlopnak rohant egy személykocsi Nyírbátorban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93684",
+      "lead": "Az Ipari park utcába riasztották a tűzoltókat.",
+      "body": "Villanyoszlopnak ütközött és kidöntötte azt egy autó Nyírbátorban, az Ipari park utcában. A kocsiban többen utaztak, elhagyták a helyszínt, később egy ember visszatért az autóhoz. Az oszlopot a jármű tartja, a helyszínre várják az áramszolgáltató szakembereit. A város hivatásos tűzoltói vonultak az esethez.",
+      "location": "Nyírbátor, Ipari park utca",
+      "updates": []
+    },
     {
       "id": "93683",
       "datetime": "2026.11.12. 22:02",
