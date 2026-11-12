@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T14:42:33.524651+00:00",
-  "count": 3177,
+  "updated_at": "2026-11-12T14:46:39.367874+00:00",
+  "count": 3178,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93666",
+      "datetime": "2026.11.12. 15:43",
+      "title": "Összeütközött két autó a 47-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93666",
+      "lead": "Orosháza közelében teljes szélességében lezárták az utat.",
+      "body": "Frontálisan karambolozott két személyautó a 47-es főúton, Orosháza közelében, a 159. kilométernél. Az egyik jármű az árokba sodródott, a másik az úttesten van. A műszaki mentést végző orosházi hivatásos tűzoltók áramtalanították őket. A helyszínen vannak a mentők is. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Orosháza, 47",
+      "updates": []
+    },
     {
       "id": "93665",
       "datetime": "2026.11.12. 14:58",
@@ -115,9 +126,9 @@
       "title": "Összeütközött két autó Dunakeszin",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93657",
-      "lead": "A Fő út és a Rév köz kereszteződésénél van szükség tűzoltói beavatkozásra.",
-      "body": "Egymásnak ütközött két személyautó Dunakeszin, a Fő út, azaz a 2-es főút és a Rév köz kereszteződésénél. A fővárosi hivatásos és a fóti önkéntes tűzoltók áramtalanították a járműveket, amelyekben összesen öten utaztak. Hozzájuk mentők érkeztek a baleset helyszínére.",
-      "location": "Dunakeszi, Fő út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -289,9 +300,9 @@
       "title": "Árokba borult egy autó Pilisvörösvár és Csobánka között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93642",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók emelték ki a jármű vezetőjét.",
+      "body": "Megcsúszott az úttesten, majd tetejével az árokba borult egy gépkocsi Pilisvörösvár és Csobánka között, a 1109-es út 3-as kilométerszelvényénél. A járműben csak a vezetője utazott, akit a pomázi önkormányzati tűzoltók emeltek ki kézi erővel. A balesethez a társhatóságok is kiérkeztek, a munkálatok idejére irányítás mellett halad a forgalom az érintett útszakaszon.",
+      "location": "Csobánka, 1109",
       "updates": []
     },
     {
