@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T05:06:12.073835+00:00",
-  "count": 3154,
+  "updated_at": "2026-11-12T05:09:39.971508+00:00",
+  "count": 3155,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93643",
+      "datetime": "2026.11.12. 06:08",
+      "title": "Felborult egy autó a 68-ason, Szenyérnél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93643",
+      "lead": "Félpályán halad a forgalom az érintett útszakaszon.",
+      "body": "Tetejére borult egy gépkocsi a 68-as főút 65-ös kilométerszelvényénél, Szenyér térségében. A járműben csak a vezetője utazott. A balesethez a böhönyei önkormányzati tűzoltók mellett a társhatóságok is kiérkeztek, félpályás útlezárás mellett kezdték meg a helyszíni munkálatokat.",
+      "location": "Szenyér, 68",
+      "updates": []
+    },
     {
       "id": "93642",
       "datetime": "2026.11.11. 20:02",
