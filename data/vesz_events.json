@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-12T11:17:57.347801+00:00",
-  "count": 3170,
+  "updated_at": "2026-11-12T11:21:12.816345+00:00",
+  "count": 3172,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93660",
+      "datetime": "2026.11.12. 12:20",
+      "title": "Felborult egy terepjáró Abádszalók közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93660",
+      "lead": "A helyi tűzoltókat a 3216-os út 39-es kilométeréhez riasztották.",
+      "body": "Árokba hajtott és ott a tetejére borulva állt meg egy gépkocsi a 3216-os úton, Abádszalók közelében. A járműben csak annak vezetője utazott, ki tudott szállni az autóból. Az abádszalóki önkormányzati tűzoltók vonultak az esethez, a raj részt vesz a félpályán haladó forgalom irányításában.",
+      "location": "Abádszalók, 3216",
+      "updates": []
+    },
+    {
+      "id": "93659",
+      "datetime": "2026.11.12. 12:20",
+      "title": "Egymásnak ütközött két autó Zuglóban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93659",
+      "lead": "A Róna és a Szugló utca kereszteződésénél forgalmi akadályra kell számítani.",
+      "body": "Karambolozott egy furgon és egy személyautó Budapest XIV. kerületében, a Róna és a Szugló utca kereszteződésében. A műszaki mentést végző fővárosi hivatásos tűzoltók áramtalanították a furgont. A másik járműnél nincs szükség ilyen beavatkozásra. A baleset helyszínén forgalmi akadályra kell számítani.",
+      "location": "Budapest, Róna utca",
+      "updates": []
+    },
     {
       "id": "93658",
       "datetime": "2026.11.12. 12:12",
