@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T13:57:12.503298+00:00",
-  "count": 3176,
+  "updated_at": "2026-11-12T14:00:31.365626+00:00",
+  "count": 3177,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93665",
+      "datetime": "2026.11.12. 14:58",
+      "title": "Egymásnak ütközött három autó Szigetszentmártonban",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93665",
+      "lead": "A Kossuth Lajos utca egy szakaszán félpályán halad a forgalom.",
+      "body": "Összeütközött három személyautó Szigetszentmártonban, a Kossuth Lajos utcában, a Templom utcánál. Összesen négyen utaztak a járművekben, amelyekből kettőt áramtalanítottak a szigetújfalui önkéntes tűzoltók. A helyszínre érkeztek a ráckevei önkormányzati tűzoltók is. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Szigetszentmárton, Kossuth Lajos utca",
+      "updates": []
+    },
     {
       "id": "93664",
       "datetime": "2026.11.12. 14:12",
