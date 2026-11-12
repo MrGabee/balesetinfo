@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T20:03:59.623780+00:00",
-  "count": 3192,
+  "updated_at": "2026-11-12T20:07:33.727953+00:00",
+  "count": 3193,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93681",
+      "datetime": "2026.11.12. 21:05",
+      "title": "Szalagkorlátnak hajtott egy gépkocsi az M7-esen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93681",
+      "lead": "A baleset a Balaton felé vezető oldal 38-as kilométerénél, Pettend térségében történt.",
+      "body": "A belső szalagkorlátnak ütközött egy autó az M7-es sztráda 38-as kilométerénél, Pettend térségében. A járműben csak a sofőr ült, mentő érkezett a helyszínre. A váli önkormányzati tűzoltók végzik a műszaki mentést. A Balaton felé vezető oldalon történt balesetnél nagy mennyiségű törmelék került a burkolatra, csak a leállósávon lehet haladni.",
+      "location": "Kápolnásnyék, M7",
+      "updates": []
+    },
     {
       "id": "93680",
       "datetime": "2026.11.12. 20:58",
