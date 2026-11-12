@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T18:00:07.714463+00:00",
-  "count": 3186,
+  "updated_at": "2026-11-12T18:03:31.828885+00:00",
+  "count": 3187,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93675",
+      "datetime": "2026.11.12. 19:00",
+      "title": "Egymásba rohant két autó az 1-es főút tatabányai szakaszán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93675",
+      "lead": "A baleset a Tarjáni úti csomópontnál történt.",
+      "body": "Félfrontálisan ütközött össze két személykocsi Tatabányán, az 1-es főút 51-es kilométerénél. A Tarjáni úti kereszteződésnél történt balesethez a megyeszékhely hivatásos tűzoltóit riasztották. Az egység áramtalanított, illetve a tűzoltók az egyik autóból egy embert kézi erővel kiemeltek. A két kocsiban összesen hárman utaztak, mentő érkezett hozzájuk. Az érintett szakaszon forgalmi akadályra kell számítani.",
+      "location": "Tatabánya, Tarjáni út",
+      "updates": []
+    },
     {
       "id": "93674",
       "datetime": "2026.11.12. 18:54",
