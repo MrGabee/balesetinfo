@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T11:11:29.991408+00:00",
-  "count": 3169,
+  "updated_at": "2026-11-12T11:14:58.032417+00:00",
+  "count": 3170,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93658",
+      "datetime": "2026.11.12. 12:12",
+      "title": "Tűz ütött ki egy böhönyei pincében",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658",
+      "lead": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik lakóházához riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy kétszintes családi ház pincéjében tárolt tűzifa Böhönyén, a Fő utcán.  A nagyjából egy-másfél köbméternyi fa tüzéhez a helyi önkormányzati tűzoltók vonultak. Az egység légzésvédelem mellett, hőkamerával felderítette a területet, egy vízsugárral oltja a lángokat. A ház tulajdonosához mentőt riasztottak.",
+      "location": "Böhönye, Fő utca",
+      "updates": []
+    },
     {
       "id": "93657",
       "datetime": "2026.11.12. 11:51",
@@ -53,9 +64,9 @@
       "title": "Árokba csapódott egy személykocsi Komló és Mánfa között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93653",
-      "lead": "A baleset a 6543-as út 4-5-ös kilométere között történt.",
-      "body": "Letért az útról és árokba csapódott egy autó a 6543-as út Komló és Mánfa közötti szakaszán. A járműben hárman utaztak, ki tudtak szállni a kocsiból. A komlói hivatásos tűzoltók áramtalanították az autót. Az érintett útszakaszon félpályán lehet közlekedni.",
-      "location": "Komló, 6543",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -64,9 +75,9 @@
       "title": "Baleset történt az 5203-as úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93652",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Izsák és Kisizsák között forgalomkorlátozásra kell számítani.",
+      "body": "Lesodródott az úttestről egy gépkocsi az 5203-as út Izsák és Kisizsák közötti szakaszán, az 53. kilométernél. A szabadszállási önkormányzati tűzoltók áramtalanították a járművet, amelyben egy ember utazott. A helyszínen vannak a mentők is. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Izsák, 5203",
       "updates": []
     },
     {
@@ -161,9 +172,9 @@
       "title": "Hármas karambol történt az 51-esen, Szalkszentmártonnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93644",
-      "lead": "A tűzoltók két járművet áramtalanítottak.",
-      "body": "Egy kamion, egy furgon és egy személyautó ütközött össze az 51-es főút 66-os kilométerszelvényénél, Szalkszentmárton térségében. Összesen heten utaztak a járművekben, amelyek közül a furgont és a személyautót a szalkszentmártoni önkéntes tűzoltók áramtalanították. A balesethez a kunszentmiklósi önkormányzati tűzoltók és a társhatóságok is kiérkeztek, félpályás útlezárás mellett dolgoznak.",
-      "location": "Szalkszentmárton, 51",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
