@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-12T09:21:38.234891+00:00",
-  "count": 3164,
+  "updated_at": "2026-11-12T09:24:50.927709+00:00",
+  "count": 3166,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93654",
+      "datetime": "2026.11.12. 10:24",
+      "title": "Karambol történt az M0-son",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93654",
+      "lead": "Törökbálint térségében két sávon halad a forgalom a Megyeri híd felé.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy tréleren egy másik járművet vontató kisteherautó az M0-s autóútnak a Megyeri híd felé vezető oldalán, Törökbálint térségében, a 4. kilométernél. A törökbálinti hivatásos tűzoltók áramtalanították a személygépkocsit. A baleset helyszínén két sávon halad a forgalom.",
+      "location": "Törökbálint, M0",
+      "updates": []
+    },
+    {
+      "id": "93653",
+      "datetime": "2026.11.12. 10:21",
+      "title": "Árokba csapódott egy személykocsi Komló és Mánfa között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93653",
+      "lead": "A baleset a 6543-as út 4-5-ös kilométere között történt.",
+      "body": "Letért az útról és árokba csapódott egy autó a 6543-as út Komló és Mánfa közötti szakaszán. A járműben hárman utaztak, ki tudtak szállni a kocsiból. A komlói hivatásos tűzoltók áramtalanították az autót. Az érintett útszakaszon félpályán lehet közlekedni.",
+      "location": "Komló, 6543",
+      "updates": []
+    },
     {
       "id": "93652",
       "datetime": "2026.11.12. 09:45",
@@ -282,9 +304,9 @@
       "title": "Teherautóval karambolozott egy személyautó a 62-esen, Seregélyesnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93628",
-      "lead": "Egy sávon halad a forgalom az érintett útszakaszon.",
-      "body": "Egy teherautó és egy személyautó ütközött össze a 62-es főút 29-es kilométerszelvényénél, Seregélyes térségében. A balesethez a székesfehérvári hivatásos tűzoltók és a mentők érkeztek ki, a tűzoltók áramtalanították a kisebb járművet. Az érintett útszakaszon egy sávon, irányítás mellett halad a forgalom a karambol miatt.",
-      "location": "Seregélyes, 62",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
