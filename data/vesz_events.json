@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T20:07:33.727953+00:00",
-  "count": 3193,
+  "updated_at": "2026-11-12T20:10:58.448282+00:00",
+  "count": 3194,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93682",
+      "datetime": "2026.11.12. 21:10",
+      "title": "Árokba csúszott egy autó Budakalászon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93682",
+      "lead": "A Szentendrei úton van szükség tűzoltói segítségre.",
+      "body": "Letért az útról és árokba hajtott egy személykocsi Budakalászon, a Szentendrei úton. Az ételt szállító járműben csak annak sofőrje ült. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, utánuk pedig a pomázi önkormányzati egység is megérkezett. A rajok kiszabadítják a járművet az árokból. A Szentendrei úton egy ideig egy sávon lehet közlekedni.",
+      "location": "Budakalász, Szentendrei út",
+      "updates": []
+    },
     {
       "id": "93681",
       "datetime": "2026.11.12. 21:05",
