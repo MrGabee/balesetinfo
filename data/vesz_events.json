@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T08:44:01.756166+00:00",
-  "count": 3163,
+  "updated_at": "2026-11-12T08:47:57.578263+00:00",
+  "count": 3164,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93652",
+      "datetime": "2026.11.12. 09:45",
+      "title": "Baleset történt az 5203-as úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93652",
+      "lead": "Izsák és Kisizsák között forgalomkorlátozásra kell számítani.",
+      "body": "Lesodródott az úttestről egy gépkocsi az 5203-as út Izsák és Kisizsák közötti szakaszán, az 53. kilométernél. A szabadszállási önkormányzati tűzoltók áramtalanították a járművet, amelyben egy ember utazott. A helyszínen vannak a mentők is. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Izsák, 5203",
+      "updates": []
+    },
     {
       "id": "93651",
       "datetime": "2026.11.12. 09:17",
@@ -403,9 +414,9 @@
       "title": "Karambol Győrújbarátnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93616",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 82-es főúton történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Győrújbarátnál, a 82-es főút 68-as kilométerénél. A győri hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Győrújbarát, Kövecses köz",
       "updates": []
     },
     {
