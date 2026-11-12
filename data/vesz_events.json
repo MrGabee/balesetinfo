@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T16:33:42.690712+00:00",
-  "count": 3182,
+  "updated_at": "2026-11-12T16:36:46.561000+00:00",
+  "count": 3183,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93671",
+      "datetime": "2026.11.12. 17:35",
+      "title": "Baleset történt a 4421-es úton, Békéssámson közelében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93671",
+      "lead": "A 10-11-es kilométer között árokba csapódott egy személykocsi.",
+      "body": "Letért az úttestről és árokba hajtott egy autó a 4421-es úton, Békéssámson térségében. A gépkocsiban egyedül annak vezetője ült, a sofőrhöz mentőt riasztottak. A tótkomlósi önkormányzati tűzoltók áramtalanítottak.",
+      "location": "Békéssámson, 4421",
+      "updates": []
+    },
     {
       "id": "93670",
       "datetime": "2026.11.12. 17:29",
