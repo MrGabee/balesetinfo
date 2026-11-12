@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T10:48:13.756697+00:00",
-  "count": 3168,
+  "updated_at": "2026-11-12T10:51:30.517733+00:00",
+  "count": 3169,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93657",
+      "datetime": "2026.11.12. 11:51",
+      "title": "Összeütközött két autó Dunakeszin",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93657",
+      "lead": "A Fő út és a Rév köz kereszteződésénél van szükség tűzoltói beavatkozásra.",
+      "body": "Egymásnak ütközött két személyautó Dunakeszin, a Fő út, azaz a 2-es főút és a Rév köz kereszteződésénél. A fővárosi hivatásos és a fóti önkéntes tűzoltók áramtalanították a járműveket, amelyekben összesen öten utaztak. Hozzájuk mentők érkeztek a baleset helyszínére.",
+      "location": "Dunakeszi, Fő út",
+      "updates": []
+    },
     {
       "id": "93656",
       "datetime": "2026.11.12. 11:40",
