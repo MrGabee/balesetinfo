@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T09:01:25.467107+00:00",
+  "updated_at": "2026-11-12T09:04:39.908675+00:00",
   "count": 3164,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -27,14 +27,23 @@
     },
     {
       "id": "93650",
-      "datetime": "2026.11.12. 09:17",
+      "datetime": "2026.11.12. 09:17 -",
       "title": "Kigyulladt egy lakóház Móron",
-      "category": "Tűzeset",
+      "category": "Kigyulladt egy lakóház Móron",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93650",
       "lead": "A Petőfi Sándor utcába móri és székesfehérvári tűzoltók vonultak.",
       "body": "Tűz keletkezett egy családi ház tetőszerkezetében Móron, a Petőfi Sándor utcában. A födém több helyen lángolt. A helyszínre elsőként a város önkormányzati tűzoltói érkeztek meg, az egység egy vízsugárral körülhatárolta, megfékezte a lángokat. A munkálatokhoz néhány perccel később csatlakoztak a székesfehérvári hivatásos tűzoltók is.",
       "location": "Mór, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Móron",
+          "datetime": "2026.11.12. 10:03",
+          "category": "Tűzeset",
+          "text": "A Petőfi Sándor utcában egy családi ház tetőszerkezetében keletkezett tűz. A lángokat a móri önkormányzati tűzoltók fékezték meg. Az egység már az utómunkálatokat végzi. A tűzoltók kéziszerszámokkal, láncfűrésszel megbontották a födémet, hőkamerával átvizsgálják a területet, megszüntetik az esetleges izzásokat.",
+          "location": "Mór, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93650/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93650"
+        }
+      ]
     },
     {
       "id": "93649",
