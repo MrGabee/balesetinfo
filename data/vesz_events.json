@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-12T08:16:14.221512+00:00",
-  "count": 3161,
+  "updated_at": "2026-11-12T08:19:45.752514+00:00",
+  "count": 3163,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93651",
+      "datetime": "2026.11.12. 09:17",
+      "title": "Összeütközött két autó a XX. és XXIII. kerület határán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93651",
+      "lead": "Forgalmi akadályra kell számítani a Köves út egy szakaszán.",
+      "body": "Karambolozott két személyautó Budapest XX. és XXIII. kerületének határán, a Köves úton, a Jahn Ferenc kórháznál. A balesethez a fővárosi hivatásos tűzoltókat riasztották. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Köves út",
+      "updates": []
+    },
+    {
+      "id": "93650",
+      "datetime": "2026.11.12. 09:17",
+      "title": "Kigyulladt egy lakóház Móron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93650",
+      "lead": "A Petőfi Sándor utcába móri és székesfehérvári tűzoltók vonultak.",
+      "body": "Tűz keletkezett egy családi ház tetőszerkezetében Móron, a Petőfi Sándor utcában. A födém több helyen lángolt. A helyszínre elsőként a város önkormányzati tűzoltói érkeztek meg, az egység egy vízsugárral körülhatárolta, megfékezte a lángokat. A munkálatokhoz néhány perccel később csatlakoztak a székesfehérvári hivatásos tűzoltók is.",
+      "location": "Mór, Petőfi Sándor utca",
+      "updates": []
+    },
     {
       "id": "93649",
       "datetime": "2026.11.12. 09:02",
@@ -240,9 +262,9 @@
       "title": "Teherautóval karambolozott egy személyautó a 62-esen, Seregélyesnél",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93628",
-      "lead": "Egy sávon halad a forgalom az érintett útszakaszon.",
-      "body": "Egy teherautó és egy személyautó ütközött össze a 62-es főút 29-es kilométerszelvényénél, Seregélyes térségében. A balesethez a székesfehérvári hivatásos tűzoltók és a mentők érkeztek ki, a tűzoltók áramtalanították a kisebb járművet. Az érintett útszakaszon egy sávon, irányítás mellett halad a forgalom a karambol miatt.",
-      "location": "Seregélyes, 62",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
