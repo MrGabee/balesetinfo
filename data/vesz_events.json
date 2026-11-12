@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T07:14:29.200569+00:00",
-  "count": 3156,
+  "updated_at": "2026-11-12T07:17:39.875488+00:00",
+  "count": 3157,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93645",
+      "datetime": "2026.11.12. 08:15",
+      "title": "Lakóház melléképülete égett Törökszentmiklóson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93645",
+      "lead": "A tűz a főépület tetőszerkezetére is átterjedt.",
+      "body": "Egy lakóház melléképülete gyulladt ki Törökszentmiklóson, a Damjanich utcában. A lángok a főépület tetőszerkezetét is elérték. A szolnoki hivatásos és a törökszentmiklósi önkormányzati tűzoltók négy vízsugárral oltották el a tüzet, jelenleg az utómunkálatokat végzik. Az egységek a munkálatok közben kihoztak az épületből egy gázpalackot, amelyet folyamatosan hűtöttek. A tűz következtében beszakadt a lakóház tetőszerkezete.",
+      "location": "Törökszentmiklós, Damjanich utca",
+      "updates": []
+    },
     {
       "id": "93644",
       "datetime": "2026.11.12. 06:55",
@@ -251,9 +262,9 @@
       "title": "Árokba borult egy autó a 610-esen, Kaposvár és Kaposújlak között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93622",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Irányítás mellett halad a forgalom a hatósági beavatkozás idejére.",
+      "body": "Tetejével az árokba borult egy gépkocsi a 610-es főút 11-es kilométerszelvényénél, Kaposvár és Kaposújlak között. A járműben csak a vezetője utazott, aki saját erejéből ki tudott szállni. A kaposvári hivatásos tűzoltók és a mentők dolgoznak a helyszínen, ahol irányítás mellett, félpályán halad a forgalom az érintett útszakaszon.",
+      "location": "Kaposvár, 610",
       "updates": []
     },
     {
