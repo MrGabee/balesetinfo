@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T07:24:31.531827+00:00",
-  "count": 3158,
+  "updated_at": "2026-11-12T07:28:05.077637+00:00",
+  "count": 3159,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93647",
+      "datetime": "2026.11.12. 08:26",
+      "title": "Baleset történt a 31-es főúton, Nagykáta és Jászberény között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93647",
+      "lead": "A 67-68-as kilométer között szántóföldre hajtott egy személykocsi.",
+      "body": "Letért az úttestről, a szántóföldre hajtott és ott az oldalára borulva állt meg egy autó a 31-es főúton, Nagykáta és Jászberény között. A baleset a 67-68-as kilométer között történt. A helyszínre a nagykátai hivatásos tűzoltók vonultak. Az egységek kiszabadítják a járműben rekedt utasokat. A helyszínre érkeztek a társhatóságok is.",
+      "location": "Nagykáta, 31",
+      "updates": []
+    },
     {
       "id": "93646",
       "datetime": "2026.11.12. 08:21",
@@ -86,9 +97,9 @@
       "title": "Baleset történt a II kerületben",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93639",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók áramtalanították a járműveket.",
+      "body": "Két gépkocsi karambolozott a II. kerületi Szilágyi Erzsébet fasoron, a Trombitás útnál. A fővárosi hivatásos tűzoltók mindkét járművet áramtalanították. Az egység mellett a társhatóságok, valamint a közösségi közlekedési társaság szakemberei is kiérkeztek a balesethez.",
+      "location": "Budapest, Szilágyi Erzsébet fasor",
       "updates": []
     },
     {
@@ -163,9 +174,9 @@
       "title": "Elszabadult autókerék okozott balesetet a 3227-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93632",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Jászladány közelében forgalmi akadályra kell számítani.",
+      "body": "Lerepült és egy szemből érkező pickup elejének ütközött egy teherautó egyik kereke a 3227-es úton, Jászladány közelében, a 7. kilométernél. A jászkiséri önkormányzati tűzoltók áramtalanították a pickupot, amelynek utasait a mentők vizsgálják. A baleset helyszínén mindkét jármű akadályozza a forgalmat.",
+      "location": "Jászladány, 3227",
       "updates": []
     },
     {
