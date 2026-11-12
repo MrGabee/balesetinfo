@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T16:27:21.080684+00:00",
-  "count": 3181,
+  "updated_at": "2026-11-12T16:30:34.475668+00:00",
+  "count": 3182,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93670",
+      "datetime": "2026.11.12. 17:29",
+      "title": "Három autó karambolozott az M7-es sztrádán",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93670",
+      "lead": "Nagyrécse térségében, a 203-204-es kilométer között, a főváros felé vezető oldalon történt a baleset.",
+      "body": "Összeütközött három személykocsi az M7-es autópálya 203-204-es kilométere között. A karambol a Budapest felé vezető oldalon történt. Az egyik jármű a belső sávban, a másik a vízelvezető árokban állt meg, a harmadik csak érintőlegesen ütközött. A nagykanizsai hivatásos tűzoltók áramtalanították a gépkocsikat. A három autóban összesen öten utaztak, a helyszínre mentő is érkezett.",
+      "location": "Nagyrécse, M7",
+      "updates": []
+    },
     {
       "id": "93669",
       "datetime": "2026.11.12. 17:21",
