@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T22:52:21.115960+00:00",
-  "count": 3196,
+  "updated_at": "2026-11-12T22:55:14.512901+00:00",
+  "count": 3197,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93685",
+      "datetime": "2026.11.12. 23:53",
+      "title": "Tűz ütött ki egy örkényi épületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93685",
+      "lead": "Kecskeméti és dabasi tűzoltók vonultak a Pillangó utcába.",
+      "body": "Összehordott szemét gyulladt meg egy nagyjából száz négyzetméteres, lakatlan földszintes épületben Örkényben. A Pillangó utcai tűzhöz a dabasi hivatásos tűzoltók két gépjárműfecskendővel vonultak, illetve a helyszínre riasztották a kecskeméti vízszállítót is. Az egységek két vízsugárral megfékezték a lángokat. A rajok átvizsgálják a tetőszerkezetet, illetve felkutatják a még izzó, parázsló részeket.",
+      "location": "Örkény, Pillangó utca",
+      "updates": []
+    },
     {
       "id": "93684",
       "datetime": "2026.11.12. 22:16",
