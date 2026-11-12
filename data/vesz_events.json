@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T17:05:23.977909+00:00",
-  "count": 3184,
+  "updated_at": "2026-11-12T17:08:59.189062+00:00",
+  "count": 3185,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93673",
+      "datetime": "2026.11.12. 18:06",
+      "title": "Két autó karambolozott a 6-os főúton, Pécsváradnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93673",
+      "lead": "A pécsi tűzoltókat a 179-180-as kilométer közé riasztották.",
+      "body": "Egymásba hajtott két személykocsi a 6-os főút 179-180-as kilométere között. Az egyik jármű hibrid hajtású. A Pécsvárad mellett történt balesethez a pécsi hivatásos tűzoltók vonultak, az egység áramtalanított. A két autóban összesen hárman utaztak, a helyszínre mentők érkeztek.",
+      "location": "Pécsvárad, Pécsi út",
+      "updates": []
+    },
     {
       "id": "93672",
       "datetime": "2026.11.12. 17:59",
