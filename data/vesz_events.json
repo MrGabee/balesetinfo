@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T16:58:28.526191+00:00",
-  "count": 3183,
+  "updated_at": "2026-11-12T17:02:13.497530+00:00",
+  "count": 3184,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93672",
+      "datetime": "2026.11.12. 17:59",
+      "title": "Összeütközött két jármű Budapest tizenegyedik kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93672",
+      "lead": "A Galvani utca és a Fehérvári út kereszteződéséhez riasztották a tűzoltókat.",
+      "body": "Egy kisteherautó és egy személykocsi karambolozott Budapest tizenegyedik kerületében, a Fehérvári út és a Galvani utca kereszteződésében. A fővárosi hivatásos tűzoltók vonultak az esethez. A járművekben összesen öten utaztak. A baleset fennakadást okoz a közlekedésben.",
+      "location": "Budapest, Fehérvári út",
+      "updates": []
+    },
     {
       "id": "93671",
       "datetime": "2026.11.12. 17:35",
