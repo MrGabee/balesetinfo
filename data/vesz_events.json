@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:41:07.447186+00:00",
+  "updated_at": "2026-11-12T08:44:01.756166+00:00",
   "count": 3163,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -229,9 +229,9 @@
       "title": "Baleset történt Soroksáron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93631",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A karambol miatt lezárták az érintett kereszteződést.",
+      "body": "Összeütközött két gépkocsi a XXIII. kerületben, a Templom utca és az Erzsébet utca kereszteződésében. Csak a vezetők utaztak a járművekben, amelyeket a fővárosi hivatásos tűzoltók áramtalanítanak. Az egységek a mentőket várják a helyszínre, ahol lezárták az érintett útszakaszt. A forgalomkorlátozás a közösségi közlekedési járművek haladását is érinti.",
+      "location": "Budapest, Erzsébet utca",
       "updates": []
     },
     {
@@ -403,9 +403,9 @@
       "title": "Karambol Győrújbarátnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93616",
-      "lead": "A 82-es főúton történt a baleset.",
-      "body": "Két személygépkocsi karambolozott Győrújbarátnál, a 82-es főút 68-as kilométerénél. A győri hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak.",
-      "location": "Győrújbarát, Kövecses köz",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -436,9 +436,9 @@
       "title": "Villanyoszlopnak ütközött egy autó Komádiban",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93613",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszon félpályán halad a forgalom.",
+      "body": "Beton villanyoszlopnak ütközött egy személygépkocsi Komádiban, a Fő utcában. A baleset következtében a villanyoszlop kidőlt. A komádi önkormányzati tűzoltók végzik a műszaki mentést. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Komádi, Fő utca",
       "updates": []
     },
     {
