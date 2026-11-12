@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-12T07:59:26.007409+00:00",
-  "count": 3159,
+  "updated_at": "2026-11-12T08:02:28.145969+00:00",
+  "count": 3161,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93649",
+      "datetime": "2026.11.12. 09:02",
+      "title": "Felborult egy autó Nyékládháza és Hejőkeresztúr között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93649",
+      "lead": "A miskolci tűzoltókat a 3307-es út 3-as kilométeréhez riasztották.",
+      "body": "Felborult egy személykocsi a 3307-es út 3-as kilométerénél. A járműben csak a sofőr ült, ki tudott szállni az autóból, mentő érkezett hozzá. A Nyékládháza és Hejőkeresztúr között történt balesethez a miskolci hivatásos tűzoltók vonultak. A  jármű akadályozza a forgalmat.",
+      "location": "Nyékládháza, 3307",
+      "updates": []
+    },
+    {
+      "id": "93648",
+      "datetime": "2026.11.12. 08:59",
+      "title": "Karambol a 44-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93648",
+      "lead": "Békéscsaba közelében lassítja a forgalmat a baleset.",
+      "body": "Összeütközött két személyautó a 44-es főúton, Békéscsaba közelében, a Veszei kerteknél, a 129. és a 130. kilométer között. A békéscsabai hivatásos tűzoltók végzik a műszaki mentést a balesetnél, amelyhez a mentőket is riasztották. Az érintett útszakaszt félpályán lezárták.",
+      "location": "Békéscsaba, 44",
+      "updates": []
+    },
     {
       "id": "93647",
       "datetime": "2026.11.12. 08:26",
