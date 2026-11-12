@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T16:20:27.778431+00:00",
-  "count": 3180,
+  "updated_at": "2026-11-12T16:23:57.879172+00:00",
+  "count": 3181,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93669",
+      "datetime": "2026.11.12. 17:21",
+      "title": "Árokba hajtott egy autó a 76-os főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93669",
+      "lead": "A baleset Kisbucsa és Nagykapornak között, a 43-44-es kilométer között történt.",
+      "body": "Letért az úttestről és árokba hajtott egy személykocsi a 76-os főút Kisbucsa és Nagykapornak közötti szakaszán. Az autóban csak a sofőr ült, ki tudott szállni a járműből, mentő érkezett hozzá. A zalaegerszegi hivatásos tűzoltók áramtalanították a gépkocsit. A főút érintett szakaszán forgalmi akadályra kell számítani.",
+      "location": "Nagykapornak, 76",
+      "updates": []
+    },
     {
       "id": "93668",
       "datetime": "2026.11.12. 15:48",
