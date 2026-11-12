@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T19:56:35.218319+00:00",
-  "count": 3191,
+  "updated_at": "2026-11-12T20:00:21.409272+00:00",
+  "count": 3192,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93680",
+      "datetime": "2026.11.12. 20:58",
+      "title": "Súlyos vasúti baleset történt Szerencsen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93680",
+      "lead": "A Pozsonyi úti átjáróban egy személyvonat autóval ütközött.",
+      "body": "Személykocsi és személyvonat ütközött össze Szerencsen, a Pozsonyi úti vasúti átjáróban. A Füzesabonyból Nyíregyházára tartó személyvonaton húszan utaztak, értük pótlóbuszt küld a vasúttársaság. A szerencsi hivatásos tűzoltók vonultak a helyszínre, egyebek mellett segítenek majd az átszállásban. A baleset miatt az érintett szakaszon egy ideig egy vágányon közlekednek a szerelvények. A vasúttársaság információi szerint a Miskolc és Nyíregyháza között közlekedő vonatok esetében késésekre lehet számítani.",
+      "location": "Szerencs, Pozsonyi út",
+      "updates": []
+    },
     {
       "id": "93679",
       "datetime": "2026.11.12. 20:38",
