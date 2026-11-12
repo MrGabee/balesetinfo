@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T19:30:26.705142+00:00",
-  "count": 3189,
+  "updated_at": "2026-11-12T19:34:13.011106+00:00",
+  "count": 3190,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93678",
+      "datetime": "2026.11.12. 20:32",
+      "title": "Egymásba hajtott két jármű Sándorfalván",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93678",
+      "lead": "Az Alkotmány körútra szegedi és helyi tűzoltók vonultak.",
+      "body": "Összeütközött két autó Sándorfalván, az Alkotmány körúton. A balesetben egy villanyoszlopban is kárt keletkezett.  A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, majd a szegedi hivatásos egység is elérte Sándorfalvát. A tűzoltók áramtalanítottak. A gépkocsik utasaihoz mentőt riasztottak.",
+      "location": "Sándorfalva, Alkotmány körút",
+      "updates": []
+    },
     {
       "id": "93677",
       "datetime": "2026.11.12. 19:27",
