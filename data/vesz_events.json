@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T09:48:41.944309+00:00",
-  "count": 3166,
+  "updated_at": "2026-11-12T09:52:16.523352+00:00",
+  "count": 3167,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93655",
+      "datetime": "2026.11.12. 10:49",
+      "title": "Árokba borult egy autó a 7307-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93655",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt Pécsely közelében.",
+      "body": "Lesodródott az úttestről, árokba csapódott és a tetejére borult egy személyautó a 7307-es úton, Pécsely közelében, a 8. és a 9. kilométer között. A járműben egy ember utazott, ő ki tudott szállni. A balatonfüredi önkormányzati tűzoltók végzik a műszaki mentést a balesetnél. A raj a rendőrségi helyszínelés sután megszünteti a forgalmi akadályt, amely miatt a baleset helyszínénél csak félpályán haladnak a járművek.",
+      "location": "Pécsely, 7307",
+      "updates": []
+    },
     {
       "id": "93654",
       "datetime": "2026.11.12. 10:24",
