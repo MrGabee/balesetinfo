@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-12T17:52:41.814373+00:00",
-  "count": 3185,
+  "updated_at": "2026-11-12T17:56:38.032435+00:00",
+  "count": 3186,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93674",
+      "datetime": "2026.11.12. 18:54",
+      "title": "Összeütközött két autó Debrecenben, a 47-es főút elején",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93674",
+      "lead": "A karambol a Mikepércsi úton történt, forgalmi akadályra kell számítani.",
+      "body": "Két személykocsi ütközött össze Debrecenben, a Mikepércsi út elején. A két járműben összesen hárman ültek, mindannyian ki tudtak szállni autójukból. A megyeszékhely hivatásos tűzoltói áramtalanítottak. A járművek akadályozzák a 47-es főút forgalmát.",
+      "location": "Debrecen, Mikepércsi út",
+      "updates": []
+    },
     {
       "id": "93673",
       "datetime": "2026.11.12. 18:06",
