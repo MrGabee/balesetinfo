@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:12:52.519272+00:00",
+  "updated_at": "2026-11-12T08:16:14.221512+00:00",
   "count": 3161,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -339,9 +339,9 @@
       "title": "Autótűz a XIV. kerületben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93619",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "body": "Kigyulladt egy személygépkocsi Budapest XIV. kerületében, a Nagy Lajos király útján, az Örs vezér útja közelében. A jármű teljes terjedelmében égett. A fővárosi hivatásos tűzoltók egy vízsugárral elfojtották a lángokat.",
+      "location": "Budapest, Nagy Lajos király útja",
       "updates": []
     },
     {
@@ -353,7 +353,16 @@
       "lead": "A Jókai Mór utcában csaptak fel lángok.",
       "body": "Kigyulladt egy családi ház garázsa Hajdúböszörményben, a Jókai Mór utcában. A garázsban egy személygépkocsi is lángra kapott. A tűz átterjedt a lakóházra is. A helyi és a debreceni hivatásos tűzoltók több vízsugárral dolgoznak a helyszínen. A rajok a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett oltják a tüzet.",
       "location": "Hajdúböszörmény, Jókai Mór utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Hajdúböszörményben",
+          "datetime": "2026.11.11. 08:23",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Hajdúböszörményben, a Jókai Mór utcában, ahol egy családi ház garázsa gyulladt ki. A garázsban egy személygépkocsi is égett, valamint a tűz a lakóházra is átterjedt. A helyi és a debreceni hivatásos tűzoltók több vízsugárral fékezték meg a tüzet a Hajdú-Bihar megyei katasztrófavédelmi műveleti szolgálat irányítása mellett. Jelenleg az utómunkálatok zajlanak.",
+          "location": "Hajdúböszörmény, Jókai Mór utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93618/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93618"
+        }
+      ]
     },
     {
       "id": "93617",
@@ -361,9 +370,9 @@
       "title": "Több autó karambolozott a 3-ason",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93617",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az érintett útszakaszt teljes szélességében lezárták.",
+      "body": "Egy személyautó a szalagkorlátnak ütközött, öt gépkocsi pedig ráfutásos balesetet szenvedett Gödöllőnél, a 3-as főút 26-os kilométerénél. A gödöllői hivatásos tűzoltók egy embert kiemeltek az egyik járműből, majd átadták őt a mentőknek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Gödöllő, Bláthy Ottó utca",
       "updates": []
     },
     {
@@ -372,9 +381,9 @@
       "title": "Karambol Győrújbarátnál",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93616",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 82-es főúton történt a baleset.",
+      "body": "Két személygépkocsi karambolozott Győrújbarátnál, a 82-es főút 68-as kilométerénél. A győri hivatásos tűzoltók áramtalanították a járműveket. A társhatóságok is az esetnél dolgoznak.",
+      "location": "Győrújbarát, Kövecses köz",
       "updates": []
     },
     {
@@ -427,9 +436,9 @@
       "title": "Ház égett Miskolcon",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93611",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Galagonyás soron csaptak fel a lángok.",
+      "body": "Kigyulladt egy tizenöt négyzetméteres ház Miskolcon, a Galagonyás soron. A miskolci hivatásos tűzoltók oltották el a lángokat. Jelenleg az utómunkálatok zajlanak a helyszínen.",
+      "location": "Miskolc, Galagonyás sor",
       "updates": []
     },
     {
