@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T09:54:55.915463+00:00",
-  "count": 3205,
+  "updated_at": "2026-11-13T09:58:21.130072+00:00",
+  "count": 3206,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93694",
+      "datetime": "2026.11.13. 10:57",
+      "title": "Fa dőlt egy autóra az 1-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93694",
+      "lead": "Szárliget közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Személyautóra dőlt egy fa az 1-es főúton, Szárliget közelében, a 44. kilométernél. A tatabányai hivatásos tűzoltók vonultak a helyszínre, és láncfűrésszel felszámolják a káresetet. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Szárliget, 1",
+      "updates": []
+    },
     {
       "id": "93693",
       "datetime": "2026.11.13. 09:29",
