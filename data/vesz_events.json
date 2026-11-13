@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:23:16.094597+00:00",
+  "updated_at": "2026-11-13T11:26:17.589463+00:00",
   "count": 3211,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -64,9 +64,9 @@
       "title": "Fa dőlt egy autóra az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93694",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Szárliget közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Személyautóra dőlt egy fa az 1-es főúton, Szárliget közelében, a 44. kilométernél. A tatabányai hivatásos tűzoltók vonultak a helyszínre, és láncfűrésszel felszámolják a káresetet. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Szárliget, 1",
       "updates": []
     },
     {
@@ -161,8 +161,8 @@
       "title": "Elsőfokú riasztást adott ki az erős szél veszélye miatt a HungaroMet",
       "category": "Meteorológiai riasztás",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93686",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki az erős szél veszélye miatt a HungaroMet. Az érintett területeken a széllökések sebessége meghaladhatja a 70 kilométer/órát is. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
       "updates": []
     },
