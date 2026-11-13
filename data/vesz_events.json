@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:53:52.970742+00:00",
+  "updated_at": "2026-11-13T06:57:28.216331+00:00",
   "count": 3200,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -240,9 +240,9 @@
       "title": "Baleset történt Biharkeresztes és Berekböszörmény között",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93667",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 4215-ös út 3-4-es kilométere között lesodródott egy autó az útról.",
+      "body": "Lesodródott egy személykocsi a 4215-ös útról Biharkeresztes és Berekböszörmény között. A kocsiban ketten ültek, a sofőr ki tudott szállni, utasa azonban a járműben rekedt. A berettyóújfalui hivatásos tűzoltók áramtalanítottak, illetve feszítővágóval és kéziszerszámokkal szabadította ki az utast az összetört autóból. A helyszínre mentő érkezett.",
+      "location": "Biharkeresztes, 4215",
       "updates": []
     },
     {
@@ -348,19 +348,10 @@
       "title": "Tűz ütött ki egy böhönyei pincében",
       "category": "Tűz ütött ki egy böhönyei pincében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658",
-      "lead": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik lakóházához riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy kétszintes családi ház pincéjében tárolt tűzifa Böhönyén, a Fő utcán.  A nagyjából egy-másfél köbméternyi fa tüzéhez a helyi önkormányzati tűzoltók vonultak. Az egység légzésvédelem mellett, hőkamerával felderítette a területet, egy vízsugárral oltja a lángokat. A ház tulajdonosához mentőt riasztottak.",
-      "location": "Böhönye, Fő utca",
-      "updates": [
-        {
-          "title": "Eloltották a tüzet Böhönyén",
-          "datetime": "2026.11.12. 14:43",
-          "category": "Tűzeset",
-          "text": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik családi házának pincéjében keletkezett tűz. A helyiségben nagyjából másfél köbméternyi fa égett, az épület megtelt füsttel. Helyi és marcali tűzoltók vízsugárral eloltották a lángokat, emellett eltávolították a pincéből a fát. A rajok ventilátorral szellőztetik át az épületet.",
-          "location": "Böhönye, Fő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93658"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93657",
@@ -390,9 +381,9 @@
       "title": "Árokba borult egy autó a 7307-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93655",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A tűzoltók megszüntetik a forgalmi akadályt Pécsely közelében.",
+      "body": "Lesodródott az úttestről, árokba csapódott és a tetejére borult egy személyautó a 7307-es úton, Pécsely közelében, a 8. és a 9. kilométer között. A járműben egy ember utazott, ő ki tudott szállni. A balatonfüredi önkormányzati tűzoltók végzik a műszaki mentést a balesetnél. A raj a rendőrségi helyszínelés sután megszünteti a forgalmi akadályt, amely miatt a baleset helyszínénél csak félpályán haladnak a járművek.",
+      "location": "Pécsely, 7307",
       "updates": []
     },
     {
@@ -448,7 +439,16 @@
       "lead": "A Petőfi Sándor utcába móri és székesfehérvári tűzoltók vonultak.",
       "body": "Tűz keletkezett egy családi ház tetőszerkezetében Móron, a Petőfi Sándor utcában. A födém több helyen lángolt. A helyszínre elsőként a város önkormányzati tűzoltói érkeztek meg, az egység egy vízsugárral körülhatárolta, megfékezte a lángokat. A munkálatokhoz néhány perccel később csatlakoztak a székesfehérvári hivatásos tűzoltók is.",
       "location": "Mór, Petőfi Sándor utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Már az utómunkálatok zajlanak Móron",
+          "datetime": "2026.11.12. 10:03",
+          "category": "Tűzeset",
+          "text": "A Petőfi Sándor utcában egy családi ház tetőszerkezetében keletkezett tűz. A lángokat a móri önkormányzati tűzoltók fékezték meg. Az egység már az utómunkálatokat végzi. A tűzoltók kéziszerszámokkal, láncfűrésszel megbontották a födémet, hőkamerával átvizsgálják a területet, megszüntetik az esetleges izzásokat.",
+          "location": "Mór, Petőfi Sándor utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93650/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93650"
+        }
+      ]
     },
     {
       "id": "93649",
