@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T10:48:10.469354+00:00",
-  "count": 3209,
+  "updated_at": "2026-11-13T10:51:51.841862+00:00",
+  "count": 3210,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93698",
+      "datetime": "2026.11.13. 11:51",
+      "title": "Autó égett Hajdúböszörményben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93698",
+      "lead": "A Külső-Dorogi úton fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy személyautó Hajdúböszörményben, a Külső-Dorogi úton, a Téglagyár utcánál. Teljes terjedelmében égett a motortér és az utastér. A hajdúnánási hivatásos tűzoltók eloltották a lángokat, amelyek a jármű mellett lévő kerítésre is átterjedtek. A raj utómunkálatokat végez, hőkamerával átvizsgálja a gépkocsit.",
+      "location": "Hajdúböszörmény, Külső-Dorogi út",
+      "updates": []
+    },
     {
       "id": "93697",
       "datetime": "2026.11.13. 11:23",
@@ -227,9 +238,9 @@
       "title": "Egymásba hajtott két jármű Sándorfalván",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93678",
-      "lead": "Az Alkotmány körútra szegedi és helyi tűzoltók vonultak.",
-      "body": "Összeütközött két autó Sándorfalván, az Alkotmány körúton. A balesetben egy villanyoszlopban is kárt keletkezett.  A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, majd a szegedi hivatásos egység is elérte Sándorfalvát. A tűzoltók áramtalanítottak. A gépkocsik utasaihoz mentőt riasztottak.",
-      "location": "Sándorfalva, Alkotmány körút",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -315,9 +326,9 @@
       "title": "Három autó karambolozott az M7-es sztrádán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93670",
-      "lead": "Nagyrécse térségében, a 203-204-es kilométer között, a főváros felé vezető oldalon történt a baleset.",
-      "body": "Összeütközött három személykocsi az M7-es autópálya 203-204-es kilométere között. A karambol a Budapest felé vezető oldalon történt. Az egyik jármű a belső sávban, a másik a vízelvezető árokban állt meg, a harmadik csak érintőlegesen ütközött. A nagykanizsai hivatásos tűzoltók áramtalanították a gépkocsikat. A három autóban összesen öten utaztak, a helyszínre mentő is érkezett.",
-      "location": "Nagyrécse, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -412,9 +423,9 @@
       "title": "Karambol Székesfehérváron",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93662",
-      "lead": "A Balatoni úton egy személykocsi és egy kisteherautó hajtott egymásba.",
-      "body": "Összeütközött egy személyautó és egy kistehergépkocsi Székesfehérváron, a Balatoni úton. A Bakony utcai körforgalom közelében történt balesethez a város hivatásos tűzoltói vonultak, az egység áramtalanított. A járművek utasaihoz mentő érkezett. Az érintett útszakaszon forgalmi akadályra kell számítani.",
-      "location": "Székesfehérvár, Balatoni út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
