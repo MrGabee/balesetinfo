@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T10:22:53.341949+00:00",
-  "count": 3208,
+  "updated_at": "2026-11-13T10:26:28.944658+00:00",
+  "count": 3209,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93697",
+      "datetime": "2026.11.13. 11:23",
+      "title": "Árokba hajtott egy autó a 3117-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93697",
+      "lead": "Farmos közelében szüntetik meg a forgalmi akadályt a tűzoltók.",
+      "body": "Árokba sodródott egy személyautó a 3117-es úton, Farmos közelében. A járműben hárman utaztak. A nagykátai hivatásos, valamint a farmosi tűzoltók vonultak ki a balesethez, és megszüntetik a forgalmi akadályt.",
+      "location": "Farmos, 3117",
+      "updates": []
+    },
     {
       "id": "93696",
       "datetime": "2026.11.13. 11:17",
@@ -370,9 +381,9 @@
       "title": "Baleset történt Csengőd határában",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93664",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Az 5306-os út 6-os kilométerénél egy személykocsi és egy furgon hajtott egymásba.",
+      "body": "Összeütközött egy furgon és egy személyautó Csengőd határában, az 5306-os úton. A két járműben összesen négyen ültek, a helyszínre mentő is érkezett. A kiskőrösi hivatásos tűzoltók áramtalanították a két gépkocsit. A baleset miatt forgalmi akadályra kell számítani.",
+      "location": "Csengőd, 5306",
       "updates": []
     },
     {
