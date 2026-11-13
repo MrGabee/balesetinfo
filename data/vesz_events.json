@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:18:22.670914+00:00",
+  "updated_at": "2026-11-13T08:22:17.985297+00:00",
   "count": 3204,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -119,9 +119,9 @@
       "title": "Árokba csúszott egy autó Budakalászon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93682",
-      "lead": "A Szentendrei úton van szükség tűzoltói segítségre.",
-      "body": "Letért az útról és árokba hajtott egy személykocsi Budakalászon, a Szentendrei úton. Az ételt szállító járműben csak annak sofőrje ült. A helyszínre elsőként a helyi önkéntes tűzoltók érkeztek meg, utánuk pedig a pomázi önkormányzati egység is megérkezett. A rajok kiszabadítják a járművet az árokból. A Szentendrei úton egy ideig egy sávon lehet közlekedni.",
-      "location": "Budakalász, Szentendrei út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -328,10 +328,19 @@
       "title": "Kigyulladt egy melléképület egy tanyán Balástya közelében",
       "category": "Kigyulladt egy melléképület egy tanyán Balástya közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93663",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Szegedi, balástyai és kisteleki tűzoltókat riasztottak a helyszínre.",
+      "body": "Tűz ütött ki egy tanya melléképületében Balástya külterületén, Dóc irányában. Az építmény és a teteje lángol. Az esethez szegedi hivatásos, valamint balástyai és kisteleki önkéntes tűzoltók vonultak. A rajok vízsugárral kezdték oltani a tüzet.",
+      "location": "Balástya, Gajgonya tanya",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Balástyánál",
+          "datetime": "2026.11.12. 15:18",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Balástya külterületén, egy tanyán ütött ki. Korábbi hírünktől eltérően nem Dóc irányában, hanem Balástya és Szatymaz között, az 5-ös főút közelében keletkezett a tűz. Teljes terjedelmében égett egy melléképület, és kismértékben a főépület tetőszerkezetére is átterjedtek a lángok. Az építményekben, amelyek lakattal voltak lezárva, senki sem tartózkodott. A lángokat a szegedi hivatásos, valamint balástyai és kisteleki önkéntes tűzoltók fékezték meg, majd megkezdték az utómunkálatokat.",
+          "location": "Balástya, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93663/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93663"
+        }
+      ]
     },
     {
       "id": "93662",
@@ -436,9 +445,9 @@
       "title": "Karambol történt az M0-son",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93654",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Törökbálint térségében két sávon halad a forgalom a Megyeri híd felé.",
+      "body": "Egymásnak ütközött egy személygépkocsi és egy tréleren egy másik járművet vontató kisteherautó az M0-s autóútnak a Megyeri híd felé vezető oldalán, Törökbálint térségében, a 4. kilométernél. A törökbálinti hivatásos tűzoltók áramtalanították a személygépkocsit. A baleset helyszínén két sávon halad a forgalom.",
+      "location": "Törökbálint, M0",
       "updates": []
     },
     {
