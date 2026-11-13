@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T07:58:14.596595+00:00",
-  "count": 3203,
+  "updated_at": "2026-11-13T08:01:10.073160+00:00",
+  "count": 3204,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93692",
+      "datetime": "2026.11.13. 09:00",
+      "title": "Ráfutásos baleset a 4-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93692",
+      "lead": "Ebes határában dolgoznak a tűzoltók.",
+      "body": "Összeütközött három személyautó a 4-es főúton, Ebes határában, a Tavasz utca közelében. Ráfutásos baleset történt, amelynél a debreceni hivatásos tűzoltók végzik a műszaki mentést. A raj áramtalanítja a járműveket. A gépkocsikban egy-egy ember utazott, mindannyian ki tudtak szállni. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Ebes, 4",
+      "updates": []
+    },
     {
       "id": "93691",
       "datetime": "2026.11.13. 08:54",
