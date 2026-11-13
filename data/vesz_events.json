@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T07:44:45.070775+00:00",
-  "count": 3201,
+  "updated_at": "2026-11-13T07:48:37.772212+00:00",
+  "count": 3202,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93690",
+      "datetime": "2026.11.13. 08:47",
+      "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
+      "category": "Meteorológiai riasztás",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93690",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "location": "",
+      "updates": []
+    },
     {
       "id": "93689",
       "datetime": "2026.11.13. 08:27",
@@ -152,9 +163,9 @@
       "title": "Ráfutásos baleset történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93676",
-      "lead": "A Weiss Manfréd úton három autó karambolozott.",
-      "body": "Egymásba hajtott három személykocsi Budapest huszonegyedik kerületében, a Weiss Manfréd úton. A csepeli balesethez a fővárosi hivatásos tűzoltók vonultak. A háromból két jármű mozgásképes maradt, a harmadik viszont nem, az autók akadályozzák a forgalmat. A tűzoltók áramtalanítottak.",
-      "location": "Budapest, Weiss Manfréd út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
