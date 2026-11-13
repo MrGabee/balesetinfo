@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:09:11.522664+00:00",
+  "updated_at": "2026-11-13T13:13:19.097112+00:00",
   "count": 3217,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -56,7 +56,16 @@
       "lead": "A Táncsics Mihály utcába riasztották a tűzoltókat.",
       "body": "Tűz ütött ki egy melléképületben, Kisújszálláson, a Táncsics Mihály utcában. Az ingatlanban lomokat és tűzifát tárolnak. A karcagi hivatásos és a kisújszállási önkormányzati tűzoltók oltják a tüzet, amely nagy füsttel jár, de a főépületre nem terjedt át.",
       "location": "Kisújszállás, Táncsics Mihály utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kisújszálláson",
+          "datetime": "2026.11.13. 14:07",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Kisújszálláson, a Táncsics Mihály utcában, ahol tűz ütött ki egy családi házhoz csatlakozó melléképületben. A húsz négyzetméteres ingatlanban tárolt lom és tűzifa izzott, füstölt. A karcagi hivatásos és a kisújszállási önkormányzati tűzoltók fékezték meg a tüzet, amely a főépületre nem terjedt át.",
+          "location": "Kisújszállás, Táncsics Mihály utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93701/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93701"
+        }
+      ]
     },
     {
       "id": "93700",
