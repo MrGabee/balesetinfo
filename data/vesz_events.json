@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T16:49:00.979848+00:00",
-  "count": 3223,
+  "updated_at": "2026-11-13T16:52:16.979937+00:00",
+  "count": 3224,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93712",
+      "datetime": "2026.11.13. 17:49",
+      "title": "Ráfutásos baleset a 451-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93712",
+      "lead": "Szentes és Csongrád között van szükség műszaki mentésre.",
+      "body": "Összeütközött két személyautó a 451-es főút Szentest és Csongrádot összekötő szakaszán, a 37-es és 38-as kilométerszelvény között. A ráfutásos balesethez a szentesi hivatásos tűzoltókat riasztották, akik áramtalanították a járműveket. A helyszínre mentő is érkezett.",
+      "location": "Szentes, Alsórét tanya",
+      "updates": []
+    },
     {
       "id": "93711",
       "datetime": "2026.11.13. 17:21",
