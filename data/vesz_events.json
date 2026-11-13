@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-13T12:24:33.488231+00:00",
-  "count": 3212,
+  "updated_at": "2026-11-13T12:28:18.606698+00:00",
+  "count": 3214,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93702",
+      "datetime": "2026.11.13. 13:27",
+      "title": "Árokba hajtott egy autó a 471-es főúton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93702",
+      "lead": "Nyíradony és Nyírmihálydi között félpályán halad a forgalom.",
+      "body": "Árokba hajtott egy személyautó a 471-es főút Nyíradony és Nyírmihálydi közötti szakaszán, a 31-es kilométerszelvénynél. A balesethez a szakolyi önkormányzati tűzoltókat riasztották, akik áramtalanítják a gépkocsit. Az érintett útszakaszon félpályán halad a forgalom.",
+      "location": "Nyíradony, 471",
+      "updates": []
+    },
+    {
+      "id": "93701",
+      "datetime": "2026.11.13. 13:25",
+      "title": "Kigyulladt egy melléképület Kisújszálláson",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93701",
+      "lead": "A Táncsics Mihály utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy melléképületben, Kisújszálláson, a Táncsics Mihály utcában. Az ingatlanban lomokat és tűzifát tárolnak. A karcagi hivatásos és a kisújszállási önkormányzati tűzoltók oltják a tüzet, amely nagy füsttel jár, de a főépületre nem terjedt át.",
+      "location": "Kisújszállás, Táncsics Mihály utca",
+      "updates": []
+    },
     {
       "id": "93700",
       "datetime": "2026.11.13. 13:09",
