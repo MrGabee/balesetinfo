@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T09:38:01.831216+00:00",
+  "updated_at": "2026-11-13T09:41:35.451211+00:00",
   "count": 3205,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -348,10 +348,19 @@
       "title": "Kigyulladt egy melléképület egy tanyán Balástya közelében",
       "category": "Kigyulladt egy melléképület egy tanyán Balástya közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93663",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "Szegedi, balástyai és kisteleki tűzoltókat riasztottak a helyszínre.",
+      "body": "Tűz ütött ki egy tanya melléképületében Balástya külterületén, Dóc irányában. Az építmény és a teteje lángol. Az esethez szegedi hivatásos, valamint balástyai és kisteleki önkéntes tűzoltók vonultak. A rajok vízsugárral kezdték oltani a tüzet.",
+      "location": "Balástya, Gajgonya tanya",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Balástyánál",
+          "datetime": "2026.11.12. 15:18",
+          "category": "Tűzeset",
+          "text": "Eloltották azt a tüzet, amely Balástya külterületén, egy tanyán ütött ki. Korábbi hírünktől eltérően nem Dóc irányában, hanem Balástya és Szatymaz között, az 5-ös főút közelében keletkezett a tűz. Teljes terjedelmében égett egy melléképület, és kismértékben a főépület tetőszerkezetére is átterjedtek a lángok. Az építményekben, amelyek lakattal voltak lezárva, senki sem tartózkodott. A lángokat a szegedi hivatásos, valamint balástyai és kisteleki önkéntes tűzoltók fékezték meg, majd megkezdték az utómunkálatokat.",
+          "location": "Balástya, külterület",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93663/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93663"
+        }
+      ]
     },
     {
       "id": "93662",
