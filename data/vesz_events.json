@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T17:24:09.083774+00:00",
-  "count": 3225,
+  "updated_at": "2026-11-13T17:28:13.644266+00:00",
+  "count": 3226,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93714",
+      "datetime": "2026.11.13. 18:26",
+      "title": "Összeütközött két autó Pilisen",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93714",
+      "lead": "A Kossuth Lajos út és a Rákóczi út kereszteződésénél lezárták az utat.",
+      "body": "Két személyautó ütközött össze Pilisen, a Kossuth Lajos út és a Rákóczi út kereszteződésénél, a Szabadság térnél. A monori hivatásos és a nyáregyházai önkéntes tűzoltók műszaki mentés céljából érkeztek a helyszínre. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Pilis, Kossuth Lajos út",
+      "updates": []
+    },
     {
       "id": "93713",
       "datetime": "2026.11.13. 18:23",
