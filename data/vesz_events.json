@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:25:32.911783+00:00",
+  "updated_at": "2026-11-13T08:29:28.134232+00:00",
   "count": 3204,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -185,9 +185,9 @@
       "title": "Ráfutásos baleset történt Csepelen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93676",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Weiss Manfréd úton három autó karambolozott.",
+      "body": "Egymásba hajtott három személykocsi Budapest huszonegyedik kerületében, a Weiss Manfréd úton. A csepeli balesethez a fővárosi hivatásos tűzoltók vonultak. A háromból két jármű mozgásképes maradt, a harmadik viszont nem, az autók akadályozzák a forgalmat. A tűzoltók áramtalanítottak.",
+      "location": "Budapest, Weiss Manfréd út",
       "updates": []
     },
     {
@@ -207,9 +207,9 @@
       "title": "Összeütközött két autó Debrecenben, a 47-es főút elején",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93674",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A karambol a Mikepércsi úton történt, forgalmi akadályra kell számítani.",
+      "body": "Két személykocsi ütközött össze Debrecenben, a Mikepércsi út elején. A két járműben összesen hárman ültek, mindannyian ki tudtak szállni autójukból. A megyeszékhely hivatásos tűzoltói áramtalanítottak. A járművek akadályozzák a 47-es főút forgalmát.",
+      "location": "Debrecen, Mikepércsi út",
       "updates": []
     },
     {
@@ -240,9 +240,9 @@
       "title": "Baleset történt a 4421-es úton, Békéssámson közelében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93671",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A 10-11-es kilométer között árokba csapódott egy személykocsi.",
+      "body": "Letért az úttestről és árokba hajtott egy autó a 4421-es úton, Békéssámson térségében. A gépkocsiban egyedül annak vezetője ült, a sofőrhöz mentőt riasztottak. A tótkomlósi önkormányzati tűzoltók áramtalanítottak.",
+      "location": "Békéssámson, 4421",
       "updates": []
     },
     {
@@ -359,9 +359,9 @@
       "title": "Hármas karambol Újpesten",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93661",
-      "lead": "A Fóti úton akadályozza a forgalmat a baleset.",
-      "body": "Összeütközött három személyautó Budapest IV. kerületében, a Fóti úton, a Káposztásmegyeri út közelében. A balesethez a fővárosi hivatásos tűzoltókat riasztották. A járművek akadályozzák a forgalmat.",
-      "location": "Budapest, Fóti út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,19 +392,10 @@
       "title": "Tűz ütött ki egy böhönyei pincében",
       "category": "Tűz ütött ki egy böhönyei pincében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658",
-      "lead": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik lakóházához riasztották a tűzoltókat.",
-      "body": "Kigyulladt egy kétszintes családi ház pincéjében tárolt tűzifa Böhönyén, a Fő utcán.  A nagyjából egy-másfél köbméternyi fa tüzéhez a helyi önkormányzati tűzoltók vonultak. Az egység légzésvédelem mellett, hőkamerával felderítette a területet, egy vízsugárral oltja a lángokat. A ház tulajdonosához mentőt riasztottak.",
-      "location": "Böhönye, Fő utca",
-      "updates": [
-        {
-          "title": "Eloltották a tüzet Böhönyén",
-          "datetime": "2026.11.12. 14:43",
-          "category": "Tűzeset",
-          "text": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik családi házának pincéjében keletkezett tűz. A helyiségben nagyjából másfél köbméternyi fa égett, az épület megtelt füsttel. Helyi és marcali tűzoltók vízsugárral eloltották a lángokat, emellett eltávolították a pincéből a fát. A rajok ventilátorral szellőztetik át az épületet.",
-          "location": "Böhönye, Fő utca",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93658"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93657",
