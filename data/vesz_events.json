@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T17:21:21.624232+00:00",
-  "count": 3224,
+  "updated_at": "2026-11-13T17:24:09.083774+00:00",
+  "count": 3225,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93713",
+      "datetime": "2026.11.13. 18:23",
+      "title": "Hármas karambol Teskánd és Dobronhegy között",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93713",
+      "lead": "A 7405-ös utat lezárták.",
+      "body": "Három személyautó karambolozott Teskánd és Dobronhegy között, a 7405-ös út 4-es kilométerszelvényénél. A zalaegerszegi hivatásos tűzoltók a mentőkkel együttműködve egy embert kiemeltek az egyik gépkocsiból. A rajok két járművet áramtalanítottak. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Teskánd, 7405",
+      "updates": []
+    },
     {
       "id": "93712",
       "datetime": "2026.11.13. 17:49",
@@ -216,9 +227,9 @@
       "title": "Fa dőlt egy autóra az 1-es főúton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93694",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Szárliget közelében van szükség tűzoltói beavatkozásra.",
+      "body": "Személyautóra dőlt egy fa az 1-es főúton, Szárliget közelében, a 44. kilométernél. A tatabányai hivatásos tűzoltók vonultak a helyszínre, és láncfűrésszel felszámolják a káresetet. Az érintett útszakaszon forgalomkorlátozás lehet.",
+      "location": "Szárliget, 1",
       "updates": []
     },
     {
