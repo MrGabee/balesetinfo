@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:59:27.572724+00:00",
+  "updated_at": "2026-11-13T17:03:13.587077+00:00",
   "count": 3224,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -108,9 +108,9 @@
       "title": "Két autó karambolozott Szekszárdon",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93703",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Csokonai utca és a Mikes utca kereszteződésében történt a baleset.",
+      "body": "Két személyautó ütközött össze Szekszárdon, a Csokonai utca és a Mikes utca kereszteződésében. A szekszárdi hivatásos tűzoltók a Tolna megyei katasztrófavédelmi műveleti szolgálat irányítása mellett az egyik gépkocsit áramtalanították. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Szekszárd, Csokonai utca",
       "updates": []
     },
     {
@@ -130,10 +130,19 @@
       "title": "Kigyulladt egy melléképület Kisújszálláson",
       "category": "Kigyulladt egy melléképület Kisújszálláson",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93701",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Táncsics Mihály utcába riasztották a tűzoltókat.",
+      "body": "Tűz ütött ki egy melléképületben, Kisújszálláson, a Táncsics Mihály utcában. Az ingatlanban lomokat és tűzifát tárolnak. A karcagi hivatásos és a kisújszállási önkormányzati tűzoltók oltják a tüzet, amely nagy füsttel jár, de a főépületre nem terjedt át.",
+      "location": "Kisújszállás, Táncsics Mihály utca",
+      "updates": [
+        {
+          "title": "Megfékezték a tüzet Kisújszálláson",
+          "datetime": "2026.11.13. 14:07",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Kisújszálláson, a Táncsics Mihály utcában, ahol tűz ütött ki egy családi házhoz csatlakozó melléképületben. A húsz négyzetméteres ingatlanban tárolt lom és tűzifa izzott, füstölt. A karcagi hivatásos és a kisújszállási önkormányzati tűzoltók fékezték meg a tüzet, amely a főépületre nem terjedt át.",
+          "location": "Kisújszállás, Táncsics Mihály utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93701/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93701"
+        }
+      ]
     },
     {
       "id": "93700",
@@ -163,9 +172,9 @@
       "title": "Autó égett Hajdúböszörményben",
       "category": "Tűzeset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93698",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Külső-Dorogi úton fékezték meg a lángokat a tűzoltók.",
+      "body": "Kigyulladt egy személyautó Hajdúböszörményben, a Külső-Dorogi úton, a Téglagyár utcánál. Teljes terjedelmében égett a motortér és az utastér. A hajdúnánási hivatásos tűzoltók eloltották a lángokat, amelyek a jármű mellett lévő kerítésre is átterjedtek. A raj utómunkálatokat végez, hőkamerával átvizsgálja a gépkocsit.",
+      "location": "Hajdúböszörmény, Külső-Dorogi út",
       "updates": []
     },
     {
@@ -196,9 +205,9 @@
       "title": "Egymásnak ütközött két autó Budapest III. kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93695",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Bécsi úton forgalmi akadályra kell számítani.",
+      "body": "Összeütközött két személyautó Budapest III. kerületében, a Bécsi úton, a Táborhegyi út közelében. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanítják a gépkocsikat. Az érintett útszakaszon forgalmi akadályra kell számítani.",
+      "location": "Budapest, Bécsi út",
       "updates": []
     },
     {
