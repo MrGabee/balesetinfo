@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T07:51:48.602986+00:00",
-  "count": 3202,
+  "updated_at": "2026-11-13T07:55:01.462189+00:00",
+  "count": 3203,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93691",
+      "datetime": "2026.11.13. 08:54",
+      "title": "Szalagkorlátnak ütközött egy autó az M35-ösön, Derecskénél",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93691",
+      "lead": "Az M3-as felé vezető oldalon egy sávon halad a forgalom.",
+      "body": "Szalagkorlátnak ütközött egy személyautó az M35-ös autópálya M3-as autópálya felé vezető oldalán, Derecske közelében, a 63-as kilométerszelvénynél. A balesethez a berettyóújfalui hivatásos tűzoltókat riasztották, akik áramtalanították a gépkocsit. A helyszínre mentő is érkezett. Az érintett sztrádaszakaszon egy sávon halad a forgalom.",
+      "location": "Derecske, M35",
+      "updates": []
+    },
     {
       "id": "93690",
       "datetime": "2026.11.13. 08:47",
