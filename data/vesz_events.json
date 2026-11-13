@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T11:02:20.578021+00:00",
-  "count": 3210,
+  "updated_at": "2026-11-13T11:06:06.705335+00:00",
+  "count": 3211,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93699",
+      "datetime": "2026.11.13. 12:05",
+      "title": "Villanyoszlopnak hajtott egy autó Szekszárdon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93699",
+      "lead": "A Béri Balogh Ádám utcát lezárták.",
+      "body": "Villanyoszlopnak hajtott egy személyautó Szekszárdon, a Béri Balogh Ádám utcában. A baleset az 56-os főút és a Búzavirág utca közötti szakaszon történt. A város hivatásos tűzoltói áramtalanították a gépkocsit. A helyszínre az áramszolgáltató szakemberei is kiérkeztek. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Szekszárd, Béri Balogh Ádám utca",
+      "updates": []
+    },
     {
       "id": "93698",
       "datetime": "2026.11.13. 11:51",
