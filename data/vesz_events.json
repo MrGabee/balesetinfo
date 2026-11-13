@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T10:40:31.544845+00:00",
+  "updated_at": "2026-11-13T10:44:21.162589+00:00",
   "count": 3209,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,10 +86,19 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93690",
-      "lead": "",
-      "body": "",
+      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
+      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
       "location": "",
-      "updates": []
+      "updates": [
+        {
+          "title": "Visszavonta a zivatarok veszélye miatt kiadott riasztást a HungaroMet",
+          "datetime": "2026.11.13. 10:04",
+          "category": "Meteorológiai riasztás",
+          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást. Az erős szélre figyelmeztető elsőfokú riasztás azonban továbbra is érvényben van. Amennyiben a HungaroMet ezt is visszavonja, vagy újabb meteorológiai riasztást ad ki, arról ismét közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
+          "location": "",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93690/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93690"
+        }
+      ]
     },
     {
       "id": "93689",
@@ -163,9 +172,9 @@
       "title": "Összeütközött két autó Gödöllőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93683",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "A Dózsa György úton kell forgalmi akadályra számítani.",
+      "body": "Két személykocsi karambolozott Gödöllőn, a Dózsa György úton. A város hivatásos tűzoltói áramtalanították az egyik autót, a másik feszültségmentesítésére nincs szükség. A járművek akadályozzák a forgalmat.",
+      "location": "Gödöllő, Dózsa György út",
       "updates": []
     },
     {
@@ -251,9 +260,9 @@
       "title": "Egymásba rohant két autó az 1-es főút tatabányai szakaszán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93675",
-      "lead": "A baleset a Tarjáni úti csomópontnál történt.",
-      "body": "Félfrontálisan ütközött össze két személykocsi Tatabányán, az 1-es főút 51-es kilométerénél. A Tarjáni úti kereszteződésnél történt balesethez a megyeszékhely hivatásos tűzoltóit riasztották. Az egység áramtalanított, illetve a tűzoltók az egyik autóból egy embert kézi erővel kiemeltek. A két kocsiban összesen hárman utaztak, mentő érkezett hozzájuk. Az érintett szakaszon forgalmi akadályra kell számítani.",
-      "location": "Tatabánya, Tarjáni út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
