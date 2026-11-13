@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:57:28.216331+00:00",
+  "updated_at": "2026-11-13T07:01:18.557367+00:00",
   "count": 3200,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,9 +86,9 @@
       "title": "Szalagkorlátnak hajtott egy gépkocsi az M7-esen",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93681",
-      "lead": "A baleset a Balaton felé vezető oldal 38-as kilométerénél, Pettend térségében történt.",
-      "body": "A belső szalagkorlátnak ütközött egy autó az M7-es sztráda 38-as kilométerénél, Pettend térségében. A járműben csak a sofőr ült, mentő érkezett a helyszínre. A váli önkormányzati tűzoltók végzik a műszaki mentést. A Balaton felé vezető oldalon történt balesetnél nagy mennyiségű törmelék került a burkolatra, csak a leállósávon lehet haladni.",
-      "location": "Kápolnásnyék, M7",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -185,9 +185,9 @@
       "title": "Összeütközött két jármű Budapest tizenegyedik kerületében",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93672",
-      "lead": "A Galvani utca és a Fehérvári út kereszteződéséhez riasztották a tűzoltókat.",
-      "body": "Egy kisteherautó és egy személykocsi karambolozott Budapest tizenegyedik kerületében, a Fehérvári út és a Galvani utca kereszteződésében. A fővárosi hivatásos tűzoltók vonultak az esethez. A járművekben összesen öten utaztak. A baleset fennakadást okoz a közlekedésben.",
-      "location": "Budapest, Fehérvári út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -348,10 +348,19 @@
       "title": "Tűz ütött ki egy böhönyei pincében",
       "category": "Tűz ütött ki egy böhönyei pincében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658",
-      "lead": "",
-      "body": "",
-      "location": "",
-      "updates": []
+      "lead": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik lakóházához riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy kétszintes családi ház pincéjében tárolt tűzifa Böhönyén, a Fő utcán.  A nagyjából egy-másfél köbméternyi fa tüzéhez a helyi önkormányzati tűzoltók vonultak. Az egység légzésvédelem mellett, hőkamerával felderítette a területet, egy vízsugárral oltja a lángokat. A ház tulajdonosához mentőt riasztottak.",
+      "location": "Böhönye, Fő utca",
+      "updates": [
+        {
+          "title": "Eloltották a tüzet Böhönyén",
+          "datetime": "2026.11.12. 14:43",
+          "category": "Tűzeset",
+          "text": "A Fő út, vagyis a 61-es főút belterületi szakaszának egyik családi házának pincéjében keletkezett tűz. A helyiségben nagyjából másfél köbméternyi fa égett, az épület megtelt füsttel. Helyi és marcali tűzoltók vízsugárral eloltották a lángokat, emellett eltávolították a pincéből a fát. A rajok ventilátorral szellőztetik át az épületet.",
+          "location": "Böhönye, Fő utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93658/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93658"
+        }
+      ]
     },
     {
       "id": "93657",
