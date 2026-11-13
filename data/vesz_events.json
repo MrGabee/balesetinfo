@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T10:36:34.633004+00:00",
+  "updated_at": "2026-11-13T10:40:31.544845+00:00",
   "count": 3209,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -86,19 +86,10 @@
       "title": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "category": "Elsőfokú riasztást adott ki zivatarok kialakulása miatt a HungaroMet",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93690",
-      "lead": "Az érintett területeken jégeső eshet, és károkat okozhat az erős szél is.",
-      "body": "Elsőfokú, citromsárga riasztást adott ki zivatarok kialakulása miatt a HungaroMet. Az érintett területeken elsődleges veszélyforrást a villámlás jelent, emellett esetenként megerősödhet a szél, és jégeső is előfordulhat. Amennyiben a HungaroMet visszavonja az ország területéről az elsőfokú riasztást, vagy másodfokú riasztást ad ki, arról újabb közleményben számolunk be. A riasztások által érintett területeket, járásokat az alábbi hivatkozáson elérhető, folyamatosan frissülő térképen követhetik nyomon.\n\nÉrtesítési terület:Országos",
+      "lead": "",
+      "body": "",
       "location": "",
-      "updates": [
-        {
-          "title": "Visszavonta a zivatarok veszélye miatt kiadott riasztást a HungaroMet",
-          "datetime": "2026.11.13. 10:04",
-          "category": "Meteorológiai riasztás",
-          "text": "A HungaroMet visszavonta a korábban zivatarok veszélye miatt kiadott elsőfokú riasztást. Az erős szélre figyelmeztető elsőfokú riasztás azonban továbbra is érvényben van. Amennyiben a HungaroMet ezt is visszavonja, vagy újabb meteorológiai riasztást ad ki, arról ismét közleményben számolunk be. A meteorológiai riasztásokról az alábbi hivatkozáson keresztül elérhető oldalon tájékozódhatnak.\n\nÉrtesítési terület:Országos",
-          "location": "",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93690/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93690"
-        }
-      ]
+      "updates": []
     },
     {
       "id": "93689",
@@ -172,9 +163,9 @@
       "title": "Összeütközött két autó Gödöllőn",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93683",
-      "lead": "A Dózsa György úton kell forgalmi akadályra számítani.",
-      "body": "Két személykocsi karambolozott Gödöllőn, a Dózsa György úton. A város hivatásos tűzoltói áramtalanították az egyik autót, a másik feszültségmentesítésére nincs szükség. A járművek akadályozzák a forgalmat.",
-      "location": "Gödöllő, Dózsa György út",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
@@ -392,19 +383,10 @@
       "title": "Kigyulladt egy melléképület egy tanyán Balástya közelében",
       "category": "Kigyulladt egy melléképület egy tanyán Balástya közelében",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93663",
-      "lead": "Szegedi, balástyai és kisteleki tűzoltókat riasztottak a helyszínre.",
-      "body": "Tűz ütött ki egy tanya melléképületében Balástya külterületén, Dóc irányában. Az építmény és a teteje lángol. Az esethez szegedi hivatásos, valamint balástyai és kisteleki önkéntes tűzoltók vonultak. A rajok vízsugárral kezdték oltani a tüzet.",
-      "location": "Balástya, Gajgonya tanya",
-      "updates": [
-        {
-          "title": "Megfékezték a tüzet Balástyánál",
-          "datetime": "2026.11.12. 15:18",
-          "category": "Tűzeset",
-          "text": "Eloltották azt a tüzet, amely Balástya külterületén, egy tanyán ütött ki. Korábbi hírünktől eltérően nem Dóc irányában, hanem Balástya és Szatymaz között, az 5-ös főút közelében keletkezett a tűz. Teljes terjedelmében égett egy melléképület, és kismértékben a főépület tetőszerkezetére is átterjedtek a lángok. Az építményekben, amelyek lakattal voltak lezárva, senki sem tartózkodott. A lángokat a szegedi hivatásos, valamint balástyai és kisteleki önkéntes tűzoltók fékezték meg, majd megkezdték az utómunkálatokat.",
-          "location": "Balástya, külterület",
-          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93663/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93663"
-        }
-      ]
+      "lead": "",
+      "body": "",
+      "location": "",
+      "updates": []
     },
     {
       "id": "93662",
