@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T20:14:17.811167+00:00",
-  "count": 3231,
+  "updated_at": "2026-11-13T20:17:57.736219+00:00",
+  "count": 3232,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93720",
+      "datetime": "2026.11.13. 21:14",
+      "title": "Tetőtűz Soroksáron",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93720",
+      "lead": "A Wekerle Sándor utcába riasztották a tűzoltókat.",
+      "body": "Kigyulladt egy családi ház tetőszerkezete Soroksáron, a Wekerle Sándor utcában. A fővárosi hivatásos tűzoltók jelenleg öt vízsugárral dolgoznak a lángok megfékezésén. Több egység is a helyszínre tart.",
+      "location": "Budapest, Wekerle Sándor utca",
+      "updates": []
+    },
     {
       "id": "93719",
       "datetime": "2026.11.13. 20:27",
