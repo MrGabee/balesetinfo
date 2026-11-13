@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T13:29:16.702719+00:00",
-  "count": 3217,
+  "updated_at": "2026-11-13T13:32:50.893597+00:00",
+  "count": 3218,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93706",
+      "datetime": "2026.11.13. 14:31",
+      "title": "Műhelytűz Kisharsányban",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93706",
+      "lead": "A Petőfi utcában kell beavatkozniuk a tűzoltóknak.",
+      "body": "Tűz keletkezett egy műhelyben, Kisharsányban, a Petőfi utcában. A födémszerkezet égett, füstölt. A siklósi és a villányi hivatásos tűzoltók megakadályozták a tűz továbbterjedését, majd elfojtották a lángokat. A rajok két hegesztőpalackot is kihoztak az épületből.",
+      "location": "Kisharsány, Petőfi utca",
+      "updates": []
+    },
     {
       "id": "93705",
       "datetime": "2026.11.13. 14:00",
