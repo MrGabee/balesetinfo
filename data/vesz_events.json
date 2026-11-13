@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T17:43:17.968082+00:00",
-  "count": 3226,
+  "updated_at": "2026-11-13T17:46:38.012599+00:00",
+  "count": 3227,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93715",
+      "datetime": "2026.11.13. 18:46",
+      "title": "Szalagkorlátnak ütközött egy autó az M4-esen, Szolnoknál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93715",
+      "lead": "A Kisújszállás felé vezető oldalon történt a baleset.",
+      "body": "Belső szalagkorlátnak ütközött egy személyautó az M4-es autópálya Kisújszállás felé vezető oldalán, Szolnok közelében, a 95-ös és 96-os kilométerszelvény között. A szolnoki hivatásos tűzoltók áramtalanították a gépkocsit. A raj a helyszínelés után megszünteti a forgalmi akadályt.",
+      "location": "Szolnok, M4",
+      "updates": []
+    },
     {
       "id": "93714",
       "datetime": "2026.11.13. 18:26",
