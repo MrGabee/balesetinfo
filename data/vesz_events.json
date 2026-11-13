@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T18:30:47.586506+00:00",
-  "count": 3228,
+  "updated_at": "2026-11-13T18:33:53.566517+00:00",
+  "count": 3229,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93717",
+      "datetime": "2026.11.13. 19:33",
+      "title": "Embert gázolt a villamos Budapest VII. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93717",
+      "lead": "Az Erzsébet körútra vonultak a tűzoltók.",
+      "body": "Embert gázolt a villamos Budapest VII. kerületében, az Erzsébet körúton, a Király utca és a Dob utca közötti szakaszon. A fővárosi hivatásos tűzoltók a katasztrófavédelmi műveleti szolgálat irányítása mellett egy embert kiemeltek a villamos alól, majd átadták a mentőknek. A baleset fennakadást okoz a közösségi közlekedésben.",
+      "location": "Budapest, Erzsébet körút",
+      "updates": []
+    },
     {
       "id": "93716",
       "datetime": "2026.11.13. 19:17",
