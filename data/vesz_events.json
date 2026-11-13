@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T07:26:14.955538+00:00",
-  "count": 3200,
+  "updated_at": "2026-11-13T07:30:19.402597+00:00",
+  "count": 3201,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93689",
+      "datetime": "2026.11.13. 08:27",
+      "title": "Rádőlt egy fa egy autóra a 8301-es úton",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93689",
+      "lead": "A baleset Akli-puszta és Zirc között történt.",
+      "body": "Kidőlt egy fa és egy autóra borult a 8301-es út 4-5-ös kilométere között. A Zirc és Akli-puszta között történt balesethez a zirci önkormányzati tűzoltók vonultak. A kocsiban csak annak vezetője utazott, nem esett baja, a járműben kisebb kár keletkezett. A tűzoltók motoros láncfűrész segítségével eltávolítják a fát.",
+      "location": "Zirc, Szarvaskút",
+      "updates": []
+    },
     {
       "id": "93688",
       "datetime": "2026.11.13. 06:56",
@@ -207,9 +218,9 @@
       "title": "Három autó karambolozott az M7-es sztrádán",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93670",
-      "lead": "",
-      "body": "",
-      "location": "",
+      "lead": "Nagyrécse térségében, a 203-204-es kilométer között, a főváros felé vezető oldalon történt a baleset.",
+      "body": "Összeütközött három személykocsi az M7-es autópálya 203-204-es kilométere között. A karambol a Budapest felé vezető oldalon történt. Az egyik jármű a belső sávban, a másik a vízelvezető árokban állt meg, a harmadik csak érintőlegesen ütközött. A nagykanizsai hivatásos tűzoltók áramtalanították a gépkocsikat. A három autóban összesen öten utaztak, a helyszínre mentő is érkezett.",
+      "location": "Nagyrécse, M7",
       "updates": []
     },
     {
