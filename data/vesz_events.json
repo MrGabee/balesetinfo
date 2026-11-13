@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T14:13:46.691020+00:00",
-  "count": 3218,
+  "updated_at": "2026-11-13T14:17:19.200518+00:00",
+  "count": 3219,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93707",
+      "datetime": "2026.11.13. 15:17",
+      "title": "Melléképület égett Csemőn",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93707",
+      "lead": "A Ceglédi úton oltották el a lángokat.",
+      "body": "Teljes terjedelmében égett egy melléképület Csemőn, a Ceglédi úton. A helyi hivatásos tűzoltók két vízsugárral eloltották a lángokat. A rajok utómunkálatokat végeznek.",
+      "location": "Csemő, Ceglédi út",
+      "updates": []
+    },
     {
       "id": "93706",
       "datetime": "2026.11.13. 14:31",
@@ -117,9 +128,9 @@
       "title": "Árokba hajtott egy autó a 3117-es úton",
       "category": "Közlekedési baleset",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93697",
-      "lead": "Farmos közelében szüntetik meg a forgalmi akadályt a tűzoltók.",
-      "body": "Árokba sodródott egy személyautó a 3117-es úton, Farmos közelében. A járműben hárman utaztak. A nagykátai hivatásos, valamint a farmosi tűzoltók vonultak ki a balesethez, és megszüntetik a forgalmi akadályt.",
-      "location": "Farmos, 3117",
+      "lead": "",
+      "body": "",
+      "location": "",
       "updates": []
     },
     {
