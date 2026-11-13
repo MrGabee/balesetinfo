@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T18:51:56.863273+00:00",
-  "count": 3229,
+  "updated_at": "2026-11-13T18:55:22.713571+00:00",
+  "count": 3230,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93718",
+      "datetime": "2026.11.13. 19:52",
+      "title": "Egymásnak ütközött két autó Fegyverneken",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93718",
+      "lead": "A Szent Erzsébet út és a Marx Károly út kereszteződésénél történt a baleset.",
+      "body": "Összeütközött két személyautó Fegyverneken, a Szent Erzsébet út és a Marx Károly út kereszteződésénél. A törökszentmiklósi önkormányzati tűzoltók áramtalanították a gépkocsikat. A helyszínre mentő is érkezett. Az érintett útszakaszt teljes szélességében lezárták.",
+      "location": "Fegyvernek, Marx Károly út",
+      "updates": []
+    },
     {
       "id": "93717",
       "datetime": "2026.11.13. 19:33",
