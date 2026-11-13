@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-13T12:58:36.077067+00:00",
-  "count": 3216,
+  "updated_at": "2026-11-13T13:01:50.679239+00:00",
+  "count": 3217,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93705",
+      "datetime": "2026.11.13. 14:00",
+      "title": "Összeütközött két autó Szolnokon",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93705",
+      "lead": "Az Indóház utcába riasztották a tűzoltókat.",
+      "body": "Két személyautó karambolozott Szolnokon, az Indóház utcában, a Tompa Mihály utca közelében. A város hivatásos tűzoltói áramtalanították az egyik járművet. A helyszínre mentő is érkezett.",
+      "location": "Szolnok, Indóház utca",
+      "updates": []
+    },
     {
       "id": "93704",
       "datetime": "2026.11.13. 13:37",
