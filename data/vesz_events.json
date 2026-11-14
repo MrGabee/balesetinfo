@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T08:14:14.245916+00:00",
-  "count": 3236,
+  "updated_at": "2026-11-14T08:17:45.811389+00:00",
+  "count": 3237,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93725",
+      "datetime": "2026.11.14. 09:14",
+      "title": "Melléképület égett Écsen",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93725",
+      "lead": "Az Öreg útra riasztották a tűzoltókat.",
+      "body": "Kigyulladt és teljes terjedelmében égett egy melléképület Écsen, az Öreg úton. A tűz a lakóház előtetőjére is átterjedt. A győri és a pannonhalmi hivatásos, valamint önkéntes tűzoltók egy vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Écs, Öreg út",
+      "updates": []
+    },
     {
       "id": "93724",
       "datetime": "2026.11.14. 08:47",
