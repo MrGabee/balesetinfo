@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T07:47:34.961703+00:00",
-  "count": 3235,
+  "updated_at": "2026-11-14T07:51:01.351726+00:00",
+  "count": 3236,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93724",
+      "datetime": "2026.11.14. 08:47",
+      "title": "Korlátnak ütközött egy autó Székesfehérváron",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93724",
+      "lead": "A tűzoltók áramtalanították a járművet.",
+      "body": "Korlátnak ütközött egy személygépkocsi Székesfehérváron, a Berényi úton. A helyi hivatásos tűzoltók áramtalanították a járművet. A társhatóságok is a helyszínre érkeztek.",
+      "location": "Székesfehérvár, Berényi út",
+      "updates": []
+    },
     {
       "id": "93723",
       "datetime": "2026.11.14. 06:34",
