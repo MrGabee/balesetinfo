@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:25:31.185264+00:00",
+  "updated_at": "2026-11-14T13:28:21.047614+00:00",
   "count": 3244,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
@@ -60,14 +60,23 @@
     },
     {
       "id": "93727",
-      "datetime": "2026.11.14. 10:41",
+      "datetime": "2026.11.14. 10:41 -",
       "title": "Műhely ég Tápiógyörgyén",
-      "category": "Tűzeset",
+      "category": "Műhely ég Tápiógyörgyén",
       "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93727",
       "lead": "A Katona József utcában dolgoznak a tűzoltók.",
       "body": "Kigyulladt és teljes terjedelmében ég egy autószerelő műhely Tápiógyörgyén, a Katona József utcában. Az épületben több palack is felrobbant. A nagykátai hivatásos és a helyi önkéntes tűzoltók oltják a lángokat.",
       "location": "Tápiógyörgye, Katona József utca",
-      "updates": []
+      "updates": [
+        {
+          "title": "Eloltották a lángokat Tápiógyörgyén",
+          "datetime": "2026.11.14. 14:28",
+          "category": "Tűzeset",
+          "text": "Eloltották a lángokat Tápiógyörgyén, a Katona József utcában, ahol egy lakóingatlannal egybeépített kétszáz négyzetméteres autószerelő műhely égett. A tűz a családi ház tetőszerkezetét is érintette. Az épületben tizenegy palack is volt, ezek közül kettő megsemmisült, kilencet pedig a rajok kihoztak a munkálatok során. A nagykátai, a ceglédi és jászberényi hivatásos, valamint a helyi önkéntes tűzoltók öt vízsugárral fékezték meg a tüzet. A Pest megyei katasztrófavédelmi műveleti szolgálatot is a helyszínre riasztották. Egy nagykátai és egy ceglédi vízszállító jármű is segítette az oltást.",
+          "location": "Tápiógyörgye, Katona József utca",
+          "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93727/0?back=https%3A%2F%2Fwww.katasztrofavedelem.hu%2Fmodules%2Fvesz%2Fesemeny%2F93727"
+        }
+      ]
     },
     {
       "id": "93726",
