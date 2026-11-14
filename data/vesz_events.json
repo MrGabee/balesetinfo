@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T10:36:55.084666+00:00",
-  "count": 3240,
+  "updated_at": "2026-11-14T10:40:30.515872+00:00",
+  "count": 3241,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93729",
+      "datetime": "2026.11.14. 11:40",
+      "title": "Raktár égett Tapolcán",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93729",
+      "lead": "A tűzoltók a Keszthelyi úton végzik az utómunkálatokat.",
+      "body": "Kigyulladt és füsttel telítődött egy ötven négyzetméteres raktárépület Tapolcán, a Keszthelyi úton. A badacsonytomaji hivatásos és a tapolcai önkormányzati a munkálatok során több palackot is kihozták az épületből. A rajok egy vízsugárral eloltották a lángokat. Jelenleg az utómunkálatok zajlanak.",
+      "location": "Tapolca, Keszthelyi út",
+      "updates": []
+    },
     {
       "id": "93728",
       "datetime": "2026.11.14. 11:22",
