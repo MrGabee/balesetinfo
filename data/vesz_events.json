@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T10:20:08.317756+00:00",
-  "count": 3239,
+  "updated_at": "2026-11-14T10:23:23.642459+00:00",
+  "count": 3240,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93728",
+      "datetime": "2026.11.14. 11:22",
+      "title": "Két autó ütközött Atkárnál",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93728",
+      "lead": "Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "body": "Összeütközött két személygépkocsi Atkárnál, a 3203-as út 7-es kilométerénél. A gyöngyösi hivatásos tűzoltók áramtalanítják az egyik járművet. A társhatóságok is a helyszínen dolgoznak. Az érintett útszakaszon irányítás mellett, félpályán halad a forgalom.",
+      "location": "Atkár, 3203",
+      "updates": []
+    },
     {
       "id": "93727",
       "datetime": "2026.11.14. 10:41",
