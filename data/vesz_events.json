@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T05:32:09.176611+00:00",
-  "count": 3234,
+  "updated_at": "2026-11-14T05:34:42.427972+00:00",
+  "count": 3235,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93723",
+      "datetime": "2026.11.14. 06:34",
+      "title": "Kidöntött egy közvilágítási oszlopot egy autó Budapest IX. kerületében",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93723",
+      "lead": "A Könyves Kálmán körút és a Mester utca kereszteződésénél történt a baleset.",
+      "body": "Kidöntött egy közvilágítási oszlopot egy személyautó Budapest IX. kerületében, a Könyves Kálmán körút és a Mester utca kereszteződésénél. A balesethez a fővárosi hivatásos tűzoltókat riasztották, akik áramtalanították a járművet. . Az érintett útszakaszon forgalomkorlátozásra kell számítani.",
+      "location": "Budapest, Könyves Kálmán körút",
+      "updates": []
+    },
     {
       "id": "93722",
       "datetime": "2026.11.13. 22:09",
