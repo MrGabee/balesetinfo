@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T08:27:21.767911+00:00",
-  "count": 3237,
+  "updated_at": "2026-11-14T08:30:55.111423+00:00",
+  "count": 3238,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93726",
+      "datetime": "2026.11.14. 09:28",
+      "title": "Tűz volt a XI. kerületben",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93726",
+      "lead": "A tűzoltók az Etele útra vonultak ki.",
+      "body": "Tűz keletkezett Budapest XI. kerületében, az Etele úton. Egy bevásárlóközpont egyik éttermében olaj gyulladt ki. Az ott dolgozók a fővárosi hivatásos tűzoltók kiérkezése előtt eloltották a lángokat. Az épületet mindenki elhagyta.",
+      "location": "Budapest, Etele út",
+      "updates": []
+    },
     {
       "id": "93725",
       "datetime": "2026.11.14. 09:14",
