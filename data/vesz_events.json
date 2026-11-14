@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T11:17:38.653450+00:00",
-  "count": 3242,
+  "updated_at": "2026-11-14T11:21:26.277281+00:00",
+  "count": 3243,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93731",
+      "datetime": "2026.11.14. 12:19",
+      "title": "Két autó karambolozott a 66-oson",
+      "category": "Közlekedési baleset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93731",
+      "lead": "A tűzoltók áramtalanítják a járműveket.",
+      "body": "Összeütközött két személygépkocsi Pécsen, a Komlói úton, azaz a 66-os főút 3-as kilométerénél. A helyi hivatásos tűzoltók áramtalanítják a járműveket. A társhatóságok is az esethez érkeztek.",
+      "location": "Pécs, Komlói út",
+      "updates": []
+    },
     {
       "id": "93730",
       "datetime": "2026.11.14. 11:56",
