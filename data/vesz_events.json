@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-11-14T09:38:50.504479+00:00",
-  "count": 3238,
+  "updated_at": "2026-11-14T09:42:19.874798+00:00",
+  "count": 3239,
   "source": "BM OKF - katasztrofavedelem.hu (ingyenesen és szabadon felhasználható, forrásmegjelöléssel)",
   "events": [
+    {
+      "id": "93727",
+      "datetime": "2026.11.14. 10:41",
+      "title": "Műhely ég Tápiógyörgyén",
+      "category": "Tűzeset",
+      "url": "https://www.katasztrofavedelem.hu/modules/vesz/esemeny/93727",
+      "lead": "A Katona József utcában dolgoznak a tűzoltók.",
+      "body": "Kigyulladt és teljes terjedelmében ég egy autószerelő műhely Tápiógyörgyén, a Katona József utcában. Az épületben több palack is felrobbant. A nagykátai hivatásos és a helyi önkéntes tűzoltók oltják a lángokat.",
+      "location": "Tápiógyörgye, Katona József utca",
+      "updates": []
+    },
     {
       "id": "93726",
       "datetime": "2026.11.14. 09:28",
